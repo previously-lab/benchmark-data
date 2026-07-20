@@ -3,19 +3,23 @@
   "slices": [
     {
       "id": "2025-02-18-0940",
-      "focus": "A lot has been shifting lately, and the house has felt tighter than usual. This ",
-      "summary": "Better than I expected, honestly",
+      "focus": "Eric and Danielle hold a kitchen-table intervention with Trevor about his indefinite basement stay, producing a written three-month job-search and chore plan taped beside the garage freezer, which lowers household tension from constant low-grade irritation to clearer but still crowded coexistence.",
+      "summary": "Household tension with Trevor reaches a breaking point; Eric initiates a blunt family talk resulting in a written three-month agreement with measurable expectations, reducing ambiguity and protecting Maya from the emotional weather.",
       "tags": [
         "work",
         "family",
         "education",
         "housing",
         "goals",
-        "environment"
+        "environmentemotional_tone: neutral"
       ],
       "status": "closed",
       "start": "2025-02-18T09:40:00.000Z",
-      "open_loops": [],
+      "open_loops": [
+        "Whether Trevor will follow through on the three-month plan",
+        "One-month check-in scheduled but not yet conducted",
+        "Danielle's role as emotional buffer needs to be reduced"
+      ],
       "decisions": [
         "Trevor is still living in the basement, but after a tense family talk he agreed to a written three month job search and "
       ]

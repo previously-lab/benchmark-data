@@ -3,17 +3,26 @@
   "slices": [
     {
       "id": "2026-06-02-0135",
-      "focus": "A lot has been shifting lately, and I finally feel like I can name one big thing",
-      "summary": "Honestly, it was two shaky group nights back to back",
+      "focus": "After shaky group nights, Tasha shifts to selective volunteer model with co-leaders and higher standards",
+      "summary": "The first full training round reveals that willingness does not equal readiness — two consecutive group nights feel 'thin and wobbly' as new facilitators freeze during silence or jump in with advice. Tasha responds by making the program more selective: clearer screening questions about handling ambiguity, paired co-leaders (every new facilitator with an experienced partner), higher coverage standards, and a deliberate slower growth pace. An experienced volunteer affirms the shift: 'I would rather mentor one good fit than keep rescuing a bad setup.' The agent helps Tasha frame this as 'building for steadiness, not just scale' and plan a one-page rationale linking screening, pairing, and coverage to stable group nights.",
       "tags": [
-        "work",
-        "health",
-        "education",
-        "housing"
+        "shaky-facilitation-nights",
+        "volunteer-quality-reassessment",
+        "paired-co-leader-model",
+        "clearer-screening-questions",
+        "slow-growth-purposeful",
+        "ambiguity-and-silence-comfort",
+        "building-for-steadiness-not-scale",
+        "experienced-volunteer-mentorshipemotional_tone: neutral"
       ],
       "status": "closed",
       "start": "2026-06-02T01:35:00.000Z",
-      "open_loops": [],
+      "open_loops": [
+        "One-page rationale for selective model — to be drafted",
+        "Revised screening sheet — to be created",
+        "Structured check-in with experienced co-leaders after first and second paired nights",
+        "Quality indicators: attendance reliability, co-leader redirection frequency"
+      ],
       "decisions": [
         "Tasha shifted the bereavement volunteer program to a more selective model with clearer screening, paired co-leaders, and"
       ]

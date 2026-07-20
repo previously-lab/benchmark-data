@@ -3,21 +3,25 @@
   "slices": [
     {
       "id": "2026-07-09-0845",
-      "focus": "A lot has shifted lately, in a good but very nuts-and-bolts way. Since we last t",
-      "summary": "Honestly, the reminder system might matter most, even though it is the least glamorous",
+      "focus": "Using stronger spring numbers, Colleen refines the pipeline: cleaner packets, bus-trouble backup language, and principal-timed reminders.",
+      "summary": "With spring proof in hand, Colleen shifts from defending the program to refining its durability. She creates a plain rebooking reminder timed to principals' calendar cycles, adds make-up outreach language for when transportation falls through, and produces cleaner teacher-facing packets with less museum jargon. Her role feels more like stewardship of a durable pipeline than survival. She adds light tracking codes (reminder sent, rebooked, bus issue, switched to outreach).",
       "tags": [
-        "work",
-        "health",
-        "finance",
-        "relationship",
-        "travel",
-        "education",
-        "housing",
-        "environment"
+        "pipeline-refinement",
+        "reminder-system",
+        "bus-contingency",
+        "teacher-packets",
+        "seam-tightening",
+        "administrative-timing",
+        "institutional-thinking",
+        "durable-pipelineemotional_tone: neutral"
       ],
       "status": "closed",
       "start": "2026-07-09T08:45:00.000Z",
-      "open_loops": [],
+      "open_loops": [
+        "Reminder template needs final wording -- direct, not needy, respecting timing crunch",
+        "Light tracking codes in notes for reminder-sent, rebooked, bus-issue, switched-to-outreach",
+        "Test: 'does this change make it easier for a school to book, recover, or rebook?'"
+      ],
       "decisions": [
         "Colleen's education-manager role has shifted from proving year-round demand to building a more durable school-program pi"
       ]

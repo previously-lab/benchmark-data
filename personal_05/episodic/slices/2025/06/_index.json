@@ -3,19 +3,26 @@
   "slices": [
     {
       "id": "2025-06-16-2155",
-      "focus": "A lot has shifted lately at work, and it finally moved from planning mode into s",
-      "summary": "Messier than the office version, but not in the ways I feared most",
+      "focus": "Summer signup pilot launched on first corridor; Nathaniel shifts to dawn field checks and daily performance monitoring.",
+      "summary": "The summer weekday pilot launches on Nathaniel's first corridor. He shifts from desk analysis to dawn field checks with clipboard in an orange vest, testing whether revised running times survive street conditions. Early results show cleaner departures and fewer cascading late trips.",
       "tags": [
-        "work",
-        "health",
-        "education",
-        "housing",
-        "leisure",
-        "goals"
+        "cota",
+        "pilot-launch",
+        "field-validation",
+        "dawn-checks",
+        "running-time-revision",
+        "operational-evidence",
+        "daily-follow-up",
+        "work-identity-shiftemotional_tone: neutral"
       ],
       "status": "closed",
       "start": "2025-06-16T21:55:00.000Z",
-      "open_loops": [],
+      "open_loops": [
+        "Pilot early results need more history before being declared a win",
+        "Weekly summary template not yet formalized",
+        "Category system for bad days (signal vs noise) not yet implemented",
+        "Need to name role shift internally before someone else does"
+      ],
       "decisions": [
         "Nathaniel is now actively monitoring a live weekday pilot on his first corridor, splitting his time between schedule ana"
       ]

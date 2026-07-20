@@ -1,0 +1,218 @@
+{
+  "personaId": "personal_16",
+  "reviewedAt": "2026-07-20T00:00:00.000Z",
+  "model": "claude-haiku-4-5",
+  "overallNotes": "Saira Nadeem Hussain is a 36-year-old ISTJ operations lead at Westgate Pharmacy in Leeds, England. Over 30 slices spanning Jan 2025 to May 2028, her story follows a consistent arc: she transforms a struggling independent pharmacy through evidence-based workflow changes while navigating a long renovation, family financial pressures, a postponed-then-simplified wedding, and eventually reaching financial and domestic stability. Her personality is steady, detail-oriented, conflict-averse but principled, and deeply family-loyal. The existing frontmatter tags across slices are too generic (using broad 'work', 'family', 'health' labels) and the summaries are often quote fragments ('Yes, exactly', 'Honestly, the people side') that don't capture slice content. Emotional_tone is uniformly 'neutral' despite clearly mixed or positive arcs. Decisions are inconsistently formatted. The enrichment adds specific kebab-case tags, fixes truncated focus lines, provides descriptive summaries, assigns accurate emotional tones, identifies open_loops, and adds quality assessments with notes.",
+  "issues": [
+    {
+      "sliceId": "2025-01-06-0100",
+      "focus_accurate": true,
+      "summary_accurate": true,
+      "tags_relevant": true,
+      "notes": "Original tags were overly broad (work, family, health, etc. applied as defaults). Original summary 'My name is Saira Nadeem Hussain' was just a direct quote, not a summary. Replaced with descriptive summary."
+    },
+    {
+      "sliceId": "2025-01-22-1040",
+      "focus_accurate": true,
+      "summary_accurate": true,
+      "tags_relevant": true,
+      "notes": "Original focus truncated at 'A lot has shifted lately, and work has suddenly become much more serious than th'. Original summary was a quote fragment. Decision field had unnecessary continuation. Tags too generic."
+    },
+    {
+      "sliceId": "2025-02-08-0710",
+      "focus_accurate": true,
+      "summary_accurate": true,
+      "tags_relevant": true,
+      "notes": "Original summary was a quote fragment 'Exactly, it felt like my shoulders dropped without me deciding to relax'. Decision field incorrectly described music habits change as a decision."
+    },
+    {
+      "sliceId": "2025-03-03-1120",
+      "focus_accurate": true,
+      "summary_accurate": true,
+      "tags_relevant": true,
+      "notes": "Original summary was quote fragment 'Honestly, the people side'. Decision field had unnecessary continuation text. Tags missing key themes like pilot launch, team resistance."
+    },
+    {
+      "sliceId": "2025-03-29-0330",
+      "focus_accurate": true,
+      "summary_accurate": true,
+      "tags_relevant": true,
+      "notes": "Original tags included 'leisure' and 'education' which are not relevant to this slice. Emotional tone should be 'mixed' (relief mixed with embarrassment) not 'neutral'."
+    },
+    {
+      "sliceId": "2025-04-17-1015",
+      "focus_accurate": true,
+      "summary_accurate": true,
+      "tags_relevant": true,
+      "notes": "Original summary was another quote fragment. Tags missing key operational themes like evidence display, Phase 2 naming."
+    },
+    {
+      "sliceId": "2025-05-04-0505",
+      "focus_accurate": true,
+      "summary_accurate": true,
+      "tags_relevant": true,
+      "notes": "Original summary was quote fragment. Tags correctly focused on health but missed the proactive documentation aspect. Decision field had unnecessary continuation text."
+    },
+    {
+      "sliceId": "2025-06-11-1200",
+      "focus_accurate": true,
+      "summary_accurate": true,
+      "tags_relevant": true,
+      "notes": "Original summary was a quote fragment. Tags missing the critical 'controlled-drug' and 'locum' themes. Emotional tone should be 'negative' (anxiety, stress, feeling brittle) not neutral."
+    },
+    {
+      "sliceId": "2025-07-06-0825",
+      "focus_accurate": true,
+      "summary_accurate": true,
+      "tags_relevant": true,
+      "notes": "Original tags included 'civic' and 'health' which are not relevant to this slice. Emotional tone should clearly be positive. Focus correctly captured."
+    },
+    {
+      "sliceId": "2025-08-19-1050",
+      "focus_accurate": true,
+      "summary_accurate": true,
+      "tags_relevant": true,
+      "notes": "Original summary was a quote fragment. Emotional tone should be 'negative' (near burnout, setback). Decision field had unnecessary continuation text."
+    },
+    {
+      "sliceId": "2025-09-14-0410",
+      "focus_accurate": true,
+      "summary_accurate": true,
+      "tags_relevant": true,
+      "notes": "Original summary was quote fragment. Decision field incorrectly described Saira giving Imran financial help as if it were a decision she made proactively rather than reactively."
+    },
+    {
+      "sliceId": "2025-10-07-1105",
+      "focus_accurate": true,
+      "summary_accurate": true,
+      "tags_relevant": true,
+      "notes": "Original summary was quote fragment. Emotional tone should be 'positive' (recovery, second wind). Focus correctly captured. Good tags."
+    },
+    {
+      "sliceId": "2025-11-21-1300",
+      "focus_accurate": true,
+      "summary_accurate": true,
+      "tags_relevant": true,
+      "notes": "Original tags included 'finance' and 'travel' which are not relevant to this slice. Emotional tone should be 'positive' (warm, grounding). Summary was a quote fragment."
+    },
+    {
+      "sliceId": "2026-01-15-1035",
+      "focus_accurate": true,
+      "summary_accurate": true,
+      "tags_relevant": true,
+      "notes": "Original summary was 'Better than I expected, honestly' which is a quote fragment. Tags missing key themes like 'inspection-evidence', 'credibility'. Focus clearly captured."
+    },
+    {
+      "sliceId": "2026-02-27-1230",
+      "focus_accurate": true,
+      "summary_accurate": true,
+      "tags_relevant": true,
+      "notes": "Original tags included 'education' which is not directly relevant. Emotional tone should be 'positive' (relief, improved relationship tone). Summary was a quote fragment."
+    },
+    {
+      "sliceId": "2026-04-12-0955",
+      "focus_accurate": true,
+      "summary_accurate": true,
+      "tags_relevant": true,
+      "notes": "Original summary was a long quote. Emotional tone should be 'positive' (breakthrough, validation). Tags missed the significance of equipment-as-infrastructure."
+    },
+    {
+      "sliceId": "2026-05-29-0515",
+      "focus_accurate": true,
+      "summary_accurate": true,
+      "tags_relevant": true,
+      "notes": "Original summary was 'Yes, definitely' which is a quote fragment. Emotional tone should be 'positive' (relief, achievement). Good that tags avoided generic labels."
+    },
+    {
+      "sliceId": "2026-06-18-1140",
+      "focus_accurate": true,
+      "summary_accurate": true,
+      "tags_relevant": true,
+      "notes": "Original summary was 'Honestly, it was two things together' - quote fragment. Emotional tone should be 'positive' (progress, extension of system). Tags missing patient-flow and retrieval themes."
+    },
+    {
+      "sliceId": "2026-07-03-1410",
+      "focus_accurate": true,
+      "summary_accurate": true,
+      "tags_relevant": true,
+      "notes": "Original summary was 'Probably the bit after, if I am honest' - quote fragment. Emotional tone should be 'positive' (relief, warmth). Original tags included 'finance' and 'leisure' which are secondary."
+    },
+    {
+      "sliceId": "2026-08-21-0620",
+      "focus_accurate": true,
+      "summary_accurate": true,
+      "tags_relevant": true,
+      "notes": "Original summary was 'Honestly, the timing was a huge part of it' - quote fragment. Emotional tone should be 'positive' (curiosity, refinement). Tags appropriately specific."
+    },
+    {
+      "sliceId": "2026-10-10-1025",
+      "focus_accurate": true,
+      "summary_accurate": true,
+      "tags_relevant": true,
+      "notes": "Original summary was 'He was more receptive than I expected, which was a relief' - quote fragment. Emotional tone should be 'positive' (vindication, professionalism). Good work on converting wall notes to formal dashboard."
+    },
+    {
+      "sliceId": "2026-11-27-1245",
+      "focus_accurate": true,
+      "summary_accurate": true,
+      "tags_relevant": true,
+      "notes": "Original summary was 'Yes, exactly, it was the accumulation more than one crisis' - quote fragment. Emotional tone should be 'mixed' (relief at seeking help, sadness at needing it). Decision field had unnecessary continuation."
+    },
+    {
+      "sliceId": "2027-01-19-1010",
+      "focus_accurate": true,
+      "summary_accurate": true,
+      "tags_relevant": true,
+      "notes": "Original summary was 'The counter had to change first, because that was where the chaos was most visible' - quote fragment. Emotional tone 'mixed' (tired but confident in system). Decision field had unnecessary continuation."
+    },
+    {
+      "sliceId": "2027-03-05-0440",
+      "focus_accurate": true,
+      "summary_accurate": true,
+      "tags_relevant": true,
+      "notes": "Original summary was 'Probably both, if I'm honest' - quote fragment. Emotional tone should be 'positive' (warm, hopeful). Tags appropriately specific to the slice content. Focus correctly captured."
+    },
+    {
+      "sliceId": "2027-05-16-0935",
+      "focus_accurate": true,
+      "summary_accurate": true,
+      "tags_relevant": true,
+      "notes": "Original summary was 'It was the tone afterwards, really' - quote fragment. Emotional tone should be 'positive' (validation, relief). Tags missing 'sustained-improvement' and 'baseline-standard' themes."
+    },
+    {
+      "sliceId": "2027-07-02-1315",
+      "focus_accurate": true,
+      "summary_accurate": true,
+      "tags_relevant": true,
+      "notes": "Original summary was 'Yes, that is exactly it, it feels chosen instead of defensive' - quote fragment. Emotional tone should be 'positive' (hopeful, grown-up). Good focus on financial shift from reactive to proactive."
+    },
+    {
+      "sliceId": "2027-09-09-1055",
+      "focus_accurate": true,
+      "summary_accurate": true,
+      "tags_relevant": true,
+      "notes": "Original summary was 'He did actually read it properly, which I was relieved about' - quote fragment. Emotional tone should be 'mixed' (anxiety + determination). Tags missing 'strategic-influence' and 'independence' themes."
+    },
+    {
+      "sliceId": "2027-11-18-0500",
+      "focus_accurate": true,
+      "summary_accurate": true,
+      "tags_relevant": true,
+      "notes": "Original summary was 'Mostly what I remembered to pack, if I'm honest' - quote fragment. Emotional tone should be 'positive' (amused, practical shift). Tags correctly focus on this simple but meaningful habit change."
+    },
+    {
+      "sliceId": "2028-02-14-1030",
+      "focus_accurate": true,
+      "summary_accurate": true,
+      "tags_relevant": true,
+      "notes": "Original summary was a long quote about believing it only when it happened on normal weekdays. Emotional tone should be 'positive' (proud, settled). Tags capture the codification milestone well."
+    },
+    {
+      "sliceId": "2028-05-30-1220",
+      "focus_accurate": true,
+      "summary_accurate": true,
+      "tags_relevant": true,
+      "notes": "Original summary was 'Honestly, it was probably the boxes as much as the wall' - quote fragment. Emotional tone should be 'positive' (relief, forward-looking). Final slice provides a satisfying bookend to the renovation arc."
+    }
+  ]
+}

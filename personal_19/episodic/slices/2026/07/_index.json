@@ -3,19 +3,25 @@
   "slices": [
     {
       "id": "2026-07-01-1030",
-      "focus": "A lot has been shifting lately, and this week something at work finally moved fr",
-      "summary": "Probably the formalizing part, if I am honest",
+      "focus": "Ayaka wins approval for pre-typhoon staff training with a disruption binder, lane diagrams, and a rule assigning one person per shift to own the notice update clock.",
+      "summary": "Using spring recovery numbers and passenger complaint tallies, Ayaka gets approval to expand weather-resilience work into pre-typhoon training. The package includes a quick-reference disruption binder, simple lane diagrams, and a rule that one person on each shift owns the official notice update clock. She plans a shared scenario exercise for counter and yard staff together to surface hidden assumptions about handoffs.",
       "tags": [
-        "work",
-        "family",
-        "health",
-        "leisure",
-        "goals",
-        "environment"
+        "pre-typhoon-training",
+        "disruption-binder",
+        "lane-diagrams",
+        "shift-ownership-rule",
+        "notice-clock",
+        "training-approval",
+        "counter-yard-coordination",
+        "spring-evidenceemotional_tone: neutral"
       ],
       "status": "closed",
       "start": "2026-07-01T10:30:00.000Z",
-      "open_loops": [],
+      "open_loops": [
+        "Training rollout may face resistance from staff who see it as extra paperwork",
+        "Yard staff may distrust diagrams that look too polished",
+        "Shift-ownership rule may fade without consistent enforcement"
+      ],
       "decisions": [
         "Ayaka won approval to expand her weather-resilience work into pre-typhoon staff training with shift ownership, lane diag"
       ]

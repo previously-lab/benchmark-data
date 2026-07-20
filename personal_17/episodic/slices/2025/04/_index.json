@@ -3,19 +3,25 @@
   "slices": [
     {
       "id": "2025-04-17-0750",
-      "focus": "Things have been shifting a bit since we last talked, and I finally feel like th",
-      "summary": "It was honestly the logistics as much as anything",
+      "focus": "After two pilot visits, Colleen shifts from testing to actively marketing the school program.",
+      "summary": "Two pilot visits (one district, one charter) give Colleen critical feedback: teachers care most about standards alignment, price options, and bus logistics, not just the content. She rewrites the packet into a teacher-facing menu, gets Leonard's approval for a wider outreach email, and prepares follow-up templates. The work shifts from 'can I build this' to 'will anyone adopt it,' which feels more vulnerable but more honest.",
       "tags": [
-        "work",
-        "education",
-        "housing",
-        "goals",
-        "environment",
-        "civic"
+        "teacher-feedback",
+        "pilot-results",
+        "outreach-email",
+        "marketing-shift",
+        "logistics-as-access",
+        "vulnerable-launch",
+        "menu-draft",
+        "adoption-phaseemotional_tone: neutral"
       ],
       "status": "closed",
       "start": "2025-04-17T07:50:00.000Z",
-      "open_loops": [],
+      "open_loops": [
+        "Outreach email needs final subject line and lead paragraph -- resisting the urge to cram everything in",
+        "Follow-up templates need drafting before sending",
+        "District vs charter audience may need slightly different messaging"
+      ],
       "decisions": [
         "Colleen moved the museum's school initiative from a structured pilot into active marketing, with a tested curriculum-ali"
       ]

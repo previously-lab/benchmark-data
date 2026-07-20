@@ -3,18 +3,23 @@
   "slices": [
     {
       "id": "2025-05-21-0850",
-      "focus": "A lot has shifted lately, and this finally feels like it crossed from me just ma",
-      "summary": "I kept it pretty practical",
+      "focus": "Eric moves from baseline mapping into leading a small operational redesign inside his cold-chain coordinator role, building the first pantry-readiness scorecard and a color-coded route sheet for the busiest perishables handoffs, with input from Samuel's blunt field feedback and Patricia's timing data.",
+      "summary": "Eric transitions from analyst to operational redesign lead, creating a green-yellow-red pantry-readiness scorecard and revised route sheets that surface cooler capacity, unload windows, and actual contact names for the busiest perishables handoffs.",
       "tags": [
         "work",
         "health",
         "education",
         "housing",
-        "leisure"
+        "leisure",
+        "goalsemotional_tone: neutral"
       ],
       "status": "closed",
       "start": "2025-05-21T08:50:00.000Z",
-      "open_loops": [],
+      "open_loops": [
+        "Standardizing red-flag response ladder into approved options",
+        "Whether the scorecard will survive real morning pressure",
+        "Evidence log of where the sheet changed a decision not yet maintained"
+      ],
       "decisions": [
         "Eric moved from baseline mapping into leading a small operational redesign inside his cold-chain coordinator role, with "
       ]

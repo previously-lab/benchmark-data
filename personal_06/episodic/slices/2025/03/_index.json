@@ -3,36 +3,51 @@
   "slices": [
     {
       "id": "2025-03-03-0115",
-      "focus": "A lot has been shifting lately, and I finally had the meeting about the collecti",
-      "summary": "Probably the evidence",
+      "focus": "Getting partial approval for a collections cleanup pilot with limited budget and two storage rooms",
+      "summary": "Hannah presents color-coded backlog counts, sample folders, and storage photos to win approval for a phased collections cleanup pilot — limited to two storage rooms with a tiny student-worker budget.",
       "tags": [
-        "work",
-        "health",
-        "finance",
-        "housing",
-        "goals",
-        "environment"
+        "collections-cleanup-pilot",
+        "presentation-evidence",
+        "student-worker-budget",
+        "two-room-pilot-approval",
+        "phase-one-scope",
+        "training-packet-design",
+        "scope-creep-prevention",
+        "bandwidth-managementemotional_tone: neutral"
       ],
       "status": "closed",
       "start": "2025-03-03T01:15:00.000Z",
-      "open_loops": [],
+      "open_loops": [
+        "Draft follow-up note naming the two rooms, first-phase goals, and what gets deferred",
+        "Build visual training packet (one-page side-by-side: complete vs incomplete folder examples)",
+        "Pick one manageable room and one harder room for comparison",
+        "Create quarantine pile/red folder for ambiguous records needing judgment"
+      ],
       "decisions": [
         "Hannah remains the Providence Museum of Art's registrar and won limited approval for a phased collections cleanup pilot "
       ]
     },
     {
       "id": "2025-03-28-1120",
-      "focus": "Things have been pretty compressed lately, and I finally had one of those moment",
-      "summary": "A little of both, honestly",
+      "focus": "Addressing work-related jaw tension, headaches, and sleep disruption with doctor-recommended routines",
+      "summary": "After weeks of late nights writing procedures and training the first student worker, Hannah's doctor helps her recognize that chronic jaw pain, 3am waking, and deadline anxiety are a pattern needing active management — not signs she just needs to be tougher.",
       "tags": [
-        "work",
-        "health",
-        "finance",
-        "housing"
+        "jaw-tension-headaches",
+        "primary-care-intervention",
+        "anxiety-management-routine",
+        "physical-therapy-exercises",
+        "sleep-boundaries",
+        "tension-tracking-log",
+        "work-stress-physical-symptoms",
+        "evening-shutdown-routineemotional_tone: neutral"
       ],
       "status": "closed",
       "start": "2025-03-28T11:20:00.000Z",
-      "open_loops": [],
+      "open_loops": [
+        "Build three-anchor evening routine: shutdown note, fixed heat/stretching time, simple tension log",
+        "Define work boundaries in process terms (training blocks vs review windows) without personal-health disclosure",
+        "Draft boundary sentences ahead of time for when pressure comes"
+      ],
       "decisions": [
         "Hannah now uses stretching and heat therapy to keep deadline-related jaw tension and headaches from becoming constant.",
         "Hannah has started using therapy worksheets, sleep boundaries, and physical tension tracking to manage work anxiety arou"

@@ -3,18 +3,25 @@
   "slices": [
     {
       "id": "2027-04-14-0735",
-      "focus": "Things have been shifting again at work, and I had one of those moments where a ",
-      "summary": "What happened was messy in a very ordinary way, which is why it bothered me",
+      "focus": "An aging display unit fails during a schedule shift, prompting Ayaka to add explicit backup posting locations and manual signage caches to the operations manual.",
+      "summary": "A brief display failure during a live schedule change exposes the notice system's vulnerability at the exact moment it is most needed. Ayaka revises the manual to include explicit backup posting locations (where staff stand, what they grab, what goes on the wall first) and pre-positioned manual signage caches. Sakurai argues on budget grounds but eventually concedes the fallback plan is more realistic than hoping hardware lasts forever. Ayaka plans a small drill to test time-to-first-visible-notice.",
       "tags": [
-        "work",
-        "finance",
-        "housing",
-        "goals",
-        "environment"
+        "display-failure",
+        "backup-posting-locations",
+        "manual-signage-caches",
+        "hardware-limits",
+        "sakurai-disagreement",
+        "transition-vulnerability",
+        "low-tech-contingency",
+        "procedure-strengtheningemotional_tone: neutral"
       ],
       "status": "closed",
       "start": "2027-04-14T07:35:00.000Z",
-      "open_loops": [],
+      "open_loops": [
+        "Backup caches must be maintained and restocked — risk of decay",
+        "Sakurai's concession is not full buy-in — may resist budget requests",
+        "Small drill could be dismissed as performative by skeptical staff"
+      ],
       "decisions": [
         "Ayaka's bad-weather operations manual draft now explicitly includes backup posting locations and manual signage caches a"
       ]

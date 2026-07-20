@@ -3,18 +3,24 @@
   "slices": [
     {
       "id": "2027-05-29-2130",
-      "focus": "A lot has shifted again since we last talked, and this time it finally turned in",
-      "summary": "It was one of the older dispatchers, the kind of guy who thinks his memory is better than any form",
+      "focus": "Berth near-miss makes only board-matched digital count as official.",
+      "summary": "A near-operational mess from conflicting berth times pushed Jae-hyun to make the board-matched digital template the sole official handoff record: side calls, verbal updates, and remembered conversations no longer count. An older dispatcher who called captains directly from memory was the trigger. Jae-hyun endures weeks of unpopularity but persists, repeating 'enter it so everyone can use it' and keeping a private mismatch log.",
       "tags": [
-        "work",
-        "family",
-        "health",
-        "housing",
-        "leisure"
+        "official-handoff-record",
+        "berth-time-discrepancy",
+        "memory-vs-written",
+        "verbal-calls-excluded",
+        "chain-of-custody",
+        "principled-enforcement",
+        "mismatch-logemotional_tone: neutral"
       ],
       "status": "closed",
       "start": "2027-05-29T21:30:00.000Z",
-      "open_loops": [],
+      "open_loops": [
+        "Sustained enforcement without personal burnout",
+        "Older staff adoption of written-first culture",
+        "Converting mismatch log into systemic evidence"
+      ],
       "decisions": [
         "Jae-hyun made the board-matched digital template the official shift handoff record, so only entries that matched the dis",
         "Enforcing one official handoff record made Jae-hyun more stubbornly principled and slightly less panicked by each indivi"

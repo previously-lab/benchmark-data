@@ -3,15 +3,17 @@
   "slices": [
     {
       "id": "2025-10-03-0855",
-      "focus": "A lot has shifted lately, and I feel like I just hit the first real wall with th",
-      "summary": "Honestly, both, but the bigger thing is that it makes me feel publicly controlled in a way I have no",
+      "focus": "Judge Baca suspends training buffers and shadows",
+      "summary": "In a tense operations meeting, Judge Evelyn Baca pushes to suspend the training shadow observations and scheduling buffer gaps on high-volume days, arguing the pilot is slowing the docket. Lucia experiences this as a public overruling that leaves the cohort intact but stripped of the conditions that made training practical. The conversation focuses on her response strategy: protecting the minimum training elements (observed workflow before solo backup, protected prep on busy mornings), clarifying the suspension's practical terms with Martin, and starting a separate log of the consequences of lost buffers. She recognizes that 'conditions changed underneath the pilot' and that partial rollback is harder than outright cancellation because it leaves her responsible for outcomes without supporting conditions.",
       "tags": [
-        "work",
-        "finance",
-        "education",
-        "housing",
-        "goals",
-        "environment"
+        "judge-baca-setback",
+        "buffer-suspension",
+        "political-resistance-to-reform",
+        "training-pipeline-threatened",
+        "martin-limited-support",
+        "cohort-protection-strategy",
+        "public-overruling-impact",
+        "risk-framing-vs-defianceemotional_tone: neutral"
       ],
       "status": "closed",
       "start": "2025-10-03T08:55:00.000Z",
@@ -23,12 +25,17 @@
     },
     {
       "id": "2025-10-26-0350",
-      "focus": "Things have felt heavy for a while, so I wanted to tell you about a very small t",
-      "summary": "Yes, exactly, it felt off-duty in a way I have not managed much lately",
+      "focus": "Sunday market caldo sample leads to recovery food list",
+      "summary": "After a discouraging stretch, Lucia stops by a Sunday market near Old Town and tries a vendor's caldo sample, which becomes an unexpectedly meaningful reset. She starts saving soup places on her phone — caldo, pho, other brothy options — creating a tiny core recovery food list for migraine days and overworked evenings. The list replaces the default of crackers, Coke, and plain tortillas with something more nourishing and functionally restorative. The conversation touches on how small, boring systems of self-care (a curated takeout list with situational tags like 'migraine-safe') can provide dependable support when bigger life circumstances feel pinned down.",
       "tags": [
-        "work",
-        "housing",
-        "goals"
+        "soup-list-creation",
+        "migraine-recovery-food",
+        "old-town-market-visit",
+        "functional-self-care",
+        "low-friction-evening-system",
+        "small-controllable-rituals",
+        "caldo-as-comfort-food",
+        "emotional-self-supportemotional_tone: neutral"
       ],
       "status": "closed",
       "start": "2025-10-26T03:50:00.000Z",

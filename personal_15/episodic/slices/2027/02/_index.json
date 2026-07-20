@@ -3,18 +3,23 @@
   "slices": [
     {
       "id": "2027-02-26-0105",
-      "focus": "A lot has been shifting lately, and one work thing finally moved in a way I have",
-      "summary": "Yes, that was exactly my thinking",
+      "focus": "Jae-hyun wins approval for digital template matching board and turnover.",
+      "summary": "Using momentum from the owner-facing charts, Jae-hyun gets approval for a single standardized digital dispatch template that mirrors the physical board and signed turnover sheet. The reform targets the chronic problem of night shift writing different details in separate files than what the board shows. He prioritizes mandatory fields (departure status, confirmed time, reason code, updater) and plans a two-week audit window.",
       "tags": [
-        "work",
-        "family",
-        "education",
-        "housing",
-        "environment"
+        "digital-template-approval",
+        "board-template-alignment",
+        "dual-record-split",
+        "mandatory-fields",
+        "operational-traceability",
+        "owner-chart-momentumemotional_tone: neutral"
       ],
       "status": "closed",
       "start": "2027-02-26T01:05:00.000Z",
-      "open_loops": [],
+      "open_loops": [
+        "Enforcement consistency across shifts",
+        "Preventing digital drift from physical board",
+        "Older captain resistance to structured digital format"
+      ],
       "decisions": [
         "Park Jae-hyun is still dispatch manager and won approval for a single standardized digital dispatch template that matche"
       ]

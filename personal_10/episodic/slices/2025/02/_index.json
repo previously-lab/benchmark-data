@@ -3,19 +3,25 @@
   "slices": [
     {
       "id": "2025-02-11-1225",
-      "focus": "Things have been busy since we last talked, and most of it has been the same kin",
-      "summary": "Honestly, the no-jargon part helped a lot",
+      "focus": "Kelli discovers a plain-language workplace communication podcast during her commute via Shawna.",
+      "summary": "Kelli attends a state billing association dinner with Shawna and discovers a no-jargon podcast about difficult workplace conversations. She integrates it into her commute rotation between 1990s country songs, finding that better words at the right moment help with the friction she's been feeling at work. Shawna becomes an episode curator for her.",
       "tags": [
-        "work",
-        "health",
-        "housing",
-        "leisure",
-        "goals",
-        "environment"
+        "workplace-communication",
+        "commute-listening-habits",
+        "shawna-haskell-friend",
+        "billing-association-dinner",
+        "difficult-conversations",
+        "podcast-discovery",
+        "conflict-avoidance-pattern",
+        "90s-country-musicemotional_tone: neutral"
       ],
       "status": "closed",
       "start": "2025-02-11T12:25:00.000Z",
-      "open_loops": [],
+      "open_loops": [
+        "Kelli is testing one phrase at a time ('Walk me through what happened before this got kicked back')",
+        "Notes list of helpful phrases not yet started",
+        "Only using one episode per commute — still experimental"
+      ],
       "decisions": [
         "Kelli's commute listening now includes practical podcasts about workplace communication in addition to budgeting and hom"
       ]

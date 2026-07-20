@@ -1,0 +1,218 @@
+{
+  "personaId": "personal_13",
+  "reviewedAt": "2026-07-20T12:00:00.000Z",
+  "model": "claude-haiku-4-5",
+  "overallNotes": "Danielle Marie Rosas is a 37-year-old ISTJ single mother in Phoenix, working as a district nutrition logistics planner for K-12 public schools. Her life is defined by a relentless drive to convert recurring operational chaos into documented, repeatable systems — both at work (freezer maps, substitution matrices, vendor scorecards, a full district playbook) and at home (pickup pouches for Eleanor, laminated routine cards for Mateo, budget buffers, condo reorganization). Over the ~3-year timeline (2025-2028), she evolves from a reactive evidence-hoarder into a systems-builder and district authority. Her core personality is steady, budget-conscious, conflict-averse but firm, and deeply protective of frontline staff and her son. She copes with stress through practical action rather than emotional processing — building folders, checklists, timestamps, visual maps. Her support network (Eleanor for backup, Priya for perspective, Victor for warehouse reality, Shawna for blunt kitchen feedback) is essential and she learns to formalize those relationships. Health challenges (dehydration headaches, heat fatigue, sleep tension) are recurring and she addresses them pragmatically — electrolyte packets, telehealth counseling, commute playlists. Financially, she operates on ~$68K/year with tight margins, and the small joys she discovers (green chile burritos, library movie mornings, a calm-dog future-possibility, overnight Prescott trips) are always grounded in manageability and low friction. The current regex-generated tags (generic 'work', 'family', 'health') completely fail to capture her specificity and narrative arc.",
+  "issues": [
+    {
+      "sliceId": "2025-01-08-0030",
+      "focus_accurate": false,
+      "summary_accurate": false,
+      "tags_relevant": false,
+      "notes": "Focus is a fragment from the first user turn ('I appreciate that you are taking the time.'), not descriptive of the slice's content. Summary only captures the first fact (her name) from a 30-turn comprehensive life introduction covering work, family, health, finances, preferences, and personality. All current tags are generic catch-all categories."
+    },
+    {
+      "sliceId": "2025-02-03-0840",
+      "focus_accurate": false,
+      "summary_accurate": false,
+      "tags_relevant": false,
+      "notes": "Focus is a truncated sentence. Summary is an incomplete mid-sentence fragment from turn 3. Tags are generic. The actual content covers a pivotal shift from firefighting to documenting systemic failure patterns."
+    },
+    {
+      "sliceId": "2025-02-22-1110",
+      "focus_accurate": false,
+      "summary_accurate": false,
+      "tags_relevant": false,
+      "notes": "Focus is truncated. Summary is 'Honestly, all three' — meaningless without context. Tags are generic. The slice captures a warm community moment that sparks a shift toward intentional affordable family outings."
+    },
+    {
+      "sliceId": "2025-03-18-0725",
+      "focus_accurate": false,
+      "summary_accurate": false,
+      "tags_relevant": false,
+      "notes": "Focus is truncated. Summary is a response fragment. Tags are generic and miss the major milestone: director-approved six-campus pilot shifting from private documentation to sanctioned district project."
+    },
+    {
+      "sliceId": "2025-04-06-0350",
+      "focus_accurate": false,
+      "summary_accurate": false,
+      "tags_relevant": false,
+      "notes": "Focus is truncated. Summary is a response fragment ('Yeah, that is exactly what the urgent care doctor said'). Tags miss the specific health crisis and the systems-thinking response to dehydration headaches."
+    },
+    {
+      "sliceId": "2025-04-29-0935",
+      "focus_accurate": false,
+      "summary_accurate": false,
+      "tags_relevant": false,
+      "notes": "Focus is truncated. Summary is a response fragment ('Yes, that is exactly why this feels different'). Tags generic. Content covers pilot maturation from photos and notes into a shared weekly system with Victor."
+    },
+    {
+      "sliceId": "2025-05-17-0520",
+      "focus_accurate": false,
+      "summary_accurate": false,
+      "tags_relevant": false,
+      "notes": "Focus is truncated. Summary is a response fragment ('Probably the subject matter first, then the writing'). Tags generic. Slice captures a meaningful intellectual broadening during a calmer life stretch."
+    },
+    {
+      "sliceId": "2025-06-11-0215",
+      "focus_accurate": false,
+      "summary_accurate": false,
+      "tags_relevant": false,
+      "notes": "Focus is truncated. Summary is a response fragment ('Yeah, that is exactly why I walked out feeling different'). Tags miss the major career milestone: official approval to expand freezer mapping districtwide."
+    },
+    {
+      "sliceId": "2025-06-28-1205",
+      "focus_accurate": false,
+      "summary_accurate": false,
+      "tags_relevant": false,
+      "notes": "Focus is truncated. Summary is a fragment ('That is exactly it, annoying but not catastrophic'). Tags generic. Content covers a specific financial squeeze from a surprise camp fee increase and the methodical response."
+    },
+    {
+      "sliceId": "2025-07-22-0630",
+      "focus_accurate": false,
+      "summary_accurate": false,
+      "tags_relevant": false,
+      "notes": "Focus is truncated. Summary is a fragment from turn 3. Tags miss the operational shock, the pivot from expansion to resilience planning, and the emotional toll of equipment failures undermining months of work."
+    },
+    {
+      "sliceId": "2025-08-09-0140",
+      "focus_accurate": false,
+      "summary_accurate": false,
+      "tags_relevant": false,
+      "notes": "Focus is truncated. Summary is 'Yes, exactly' — meaningless without context. Tags generic. Slice captures a genuine preference shift toward animated films and community screenings as accessible family rituals."
+    },
+    {
+      "sliceId": "2025-09-03-0855",
+      "focus_accurate": false,
+      "summary_accurate": false,
+      "tags_relevant": false,
+      "notes": "Focus is truncated. Summary is a response fragment ('Honestly the buddy kitchens changed the tone fastest'). Tags miss the restructured fall plan with named overflow kitchens, revised charts, and vendor scorecards."
+    },
+    {
+      "sliceId": "2025-10-12-1020",
+      "focus_accurate": false,
+      "summary_accurate": false,
+      "tags_relevant": false,
+      "notes": "Focus is truncated. Summary is a response fragment ('She actually looked relieved...'). Tags generic. Content covers a beautifully practical home-logistics solution — the labeled pouch with key, calendar, and authorization."
+    },
+    {
+      "sliceId": "2025-11-20-0610",
+      "focus_accurate": false,
+      "summary_accurate": false,
+      "tags_relevant": false,
+      "notes": "Focus is truncated. Summary is a fragment ('Honestly, both, but if I had to pick, leadership first'). Tags miss the pivotal step from running a plan to drafting formal district policy with concrete asks."
+    },
+    {
+      "sliceId": "2025-12-14-0830",
+      "focus_accurate": false,
+      "summary_accurate": false,
+      "tags_relevant": false,
+      "notes": "Focus is truncated. Summary is 'Honestly, all three' — meaningless without context. Tags generic. A charming slice about finding a food ritual that provides predictability, satisfaction, and a small sense of being known."
+    },
+    {
+      "sliceId": "2026-01-21-0105",
+      "focus_accurate": false,
+      "summary_accurate": false,
+      "tags_relevant": false,
+      "notes": "Focus is truncated. Summary is a response fragment ('I think timing helped...'). Tags generic. A major leadership step: getting approval to run monthly huddles that turn the memo into a living playbook."
+    },
+    {
+      "sliceId": "2026-02-27-1240",
+      "focus_accurate": false,
+      "summary_accurate": false,
+      "tags_relevant": false,
+      "notes": "Focus is truncated. Summary is a fragment ('I think it is the familiarity first'). Tags generic. Slice captures a practical stress-management discovery — familiar R&B as a commute recovery tool between demanding work blocks."
+    },
+    {
+      "sliceId": "2026-03-24-0535",
+      "focus_accurate": false,
+      "summary_accurate": false,
+      "tags_relevant": false,
+      "notes": "Focus is truncated. Summary is a fragment ('Mostly the times'). Tags generic. A vendor challenge to her scorecard data forces Danielle to validate timestamps with dock sheets, ultimately strengthening the entire system."
+    },
+    {
+      "sliceId": "2026-05-02-0055",
+      "focus_accurate": false,
+      "summary_accurate": false,
+      "tags_relevant": false,
+      "notes": "Focus is truncated. Summary is a fragment from turn 3. Tags generic. A perceptive parenting slice where Danielle recognizes Mateo's anxiety about schedule changes and responds with concrete structure — a laminated card and plain scripts."
+    },
+    {
+      "sliceId": "2026-06-16-0320",
+      "focus_accurate": false,
+      "summary_accurate": false,
+      "tags_relevant": false,
+      "notes": "Focus is truncated. Summary is a fragment ('Probably the training, honestly'). Tags miss the major approval for standardizing freezer maps districtwide and training managers on the substitution matrix."
+    },
+    {
+      "sliceId": "2026-07-30-1015",
+      "focus_accurate": false,
+      "summary_accurate": false,
+      "tags_relevant": false,
+      "notes": "Focus is truncated. Summary is a fragment ('Honestly, the manageability was the whole thing'). Tags generic. A meaningful shift: travel preferences sharpen from 'short trips as consolation prize' to actively planning small in-state resets."
+    },
+    {
+      "sliceId": "2026-09-07-0745",
+      "focus_accurate": false,
+      "summary_accurate": false,
+      "tags_relevant": false,
+      "notes": "Focus is truncated. Summary is a fragment ('More from the stale maps, honestly'). Tags miss the watershed moment: full district rollout is live, and Danielle is now managing a functioning system with a shared tracker."
+    },
+    {
+      "sliceId": "2026-10-21-2325",
+      "focus_accurate": false,
+      "summary_accurate": false,
+      "tags_relevant": false,
+      "notes": "Focus is truncated. Summary is a fragment ('Honestly, it was the pattern more than one dramatic moment'). Tags generic. A vulnerable and pragmatic slice: Danielle starts telehealth counseling after recognizing chronic sleep tension, framing it as a maintenance problem."
+    },
+    {
+      "sliceId": "2026-12-08-0405",
+      "focus_accurate": false,
+      "summary_accurate": false,
+      "tags_relevant": false,
+      "notes": "Focus is truncated. Summary is a response fragment ('That question was exactly the issue...'). Tags generic. A culminating work slice: fewer emergency calls enable a formal playbook draft with targets, deadlines, and triage logic."
+    },
+    {
+      "sliceId": "2027-01-29-0700",
+      "focus_accurate": false,
+      "summary_accurate": false,
+      "tags_relevant": false,
+      "notes": "Focus is truncated. Summary is fragment ('Exactly, impossible is the word that softened'). Tags generic. A warm, reflective slice where a steadier life stretch creates mental room to imagine a future calm dog — not as a plan but as a signal of restored capacity."
+    },
+    {
+      "sliceId": "2027-03-13-0230",
+      "focus_accurate": false,
+      "summary_accurate": false,
+      "tags_relevant": false,
+      "notes": "Focus is truncated. Summary is a fragment from turn 3. Tags generic. A near-miss with stale maps after staffing changes prompts Danielle to add quarterly in-person verification visits, photos, and manager signoff to the playbook."
+    },
+    {
+      "sliceId": "2027-06-04-1310",
+      "focus_accurate": false,
+      "summary_accurate": false,
+      "tags_relevant": false,
+      "notes": "Focus is truncated. Summary is a fragment ('Yes, exactly'). Tags generic. A modest salary increase leads to purposeful allocation toward an emergency cushion and flexibility money for camp deposits and small trips."
+    },
+    {
+      "sliceId": "2027-09-19-0650",
+      "focus_accurate": false,
+      "summary_accurate": false,
+      "tags_relevant": false,
+      "notes": "Focus is truncated. Summary is a fragment ('Better than I expected, honestly'). Tags generic. Danielle's role expands to issuing semester reliability reports connecting vendor timing to substitution counts and overflow incidents at the cluster level."
+    },
+    {
+      "sliceId": "2028-02-11-1005",
+      "focus_accurate": false,
+      "summary_accurate": false,
+      "tags_relevant": false,
+      "notes": "Focus is truncated. Summary is a fragment ('The first thing was bins, because I needed categories before I could make any other decision'). Tags generic. A practical home systems slice: reorganizing the second bedroom with bins, narrower desk, and pantry shelves to reduce daily friction."
+    },
+    {
+      "sliceId": "2028-10-24-0515",
+      "focus_accurate": false,
+      "summary_accurate": false,
+      "tags_relevant": false,
+      "notes": "Focus is truncated. Summary is a fragment ('Honestly, the semester numbers gave me the nerve to do it'). Tags generic. The culminating slice: the playbook is a working operating packet in active use across campuses. Danielle is less braced for crisis and shifts into stewardship mode."
+    }
+  ]
+}

@@ -1,205 +1,714 @@
 {
-  "work": [
-    "2025/01/09/1120",
-    "2025/02/18/1310",
-    "2025/03/07/1240",
-    "2025/04/11/0925",
-    "2025/05/02/0115",
-    "2025/06/16/1050",
-    "2025/07/05/0610",
-    "2025/08/29/1505",
-    "2025/09/12/1130",
-    "2025/10/21/1015",
-    "2025/11/23/0840",
-    "2026/01/14/0035",
-    "2026/02/22/1205",
-    "2026/04/06/0955",
-    "2026/05/18/0520",
-    "2026/07/01/1030",
-    "2026/08/11/1325",
-    "2026/09/24/1410",
-    "2026/10/29/0245",
-    "2027/01/17/0850",
-    "2027/02/26/1115",
-    "2027/04/14/0735",
-    "2027/06/03/0055",
-    "2027/08/31/1520",
-    "2027/10/08/0910",
-    "2028/01/22/0330",
-    "2028/03/09/1005",
-    "2028/05/27/0700",
-    "2028/07/16/0425",
-    "2028/10/03/1245"
+  "life-introduction": [
+    "2025/01/09/1120"
   ],
-  "family": [
-    "2025/01/09/1120",
-    "2025/05/02/0115",
-    "2025/08/29/1505",
-    "2025/09/12/1130",
-    "2025/11/23/0840",
-    "2026/02/22/1205",
-    "2026/07/01/1030",
-    "2026/08/11/1325",
-    "2026/09/24/1410",
-    "2026/10/29/0245",
-    "2027/06/03/0055",
-    "2028/03/09/1005",
-    "2028/05/27/0700",
-    "2028/10/03/1245"
+  "personal-disclosure": [
+    "2025/01/09/1120"
   ],
-  "health": [
-    "2025/01/09/1120",
-    "2025/02/18/1310",
-    "2025/03/07/1240",
-    "2025/04/11/0925",
-    "2025/05/02/0115",
-    "2025/06/16/1050",
-    "2025/09/12/1130",
-    "2025/10/21/1015",
-    "2026/02/22/1205",
-    "2026/07/01/1030",
-    "2026/08/11/1325",
-    "2026/09/24/1410",
-    "2027/01/17/0850",
-    "2027/06/03/0055",
-    "2027/08/31/1520",
-    "2027/10/08/0910",
-    "2028/01/22/0330",
-    "2028/05/27/0700",
-    "2028/07/16/0425",
-    "2028/10/03/1245"
+  "isfj-personality": [
+    "2025/01/09/1120"
   ],
-  "finance": [
-    "2025/01/09/1120",
-    "2025/03/07/1240",
-    "2025/04/11/0925",
-    "2025/07/05/0610",
-    "2026/02/22/1205",
-    "2026/05/18/0520",
-    "2026/08/11/1325",
-    "2026/10/29/0245",
-    "2027/02/26/1115",
-    "2027/04/14/0735",
-    "2027/10/08/0910",
-    "2028/05/27/0700"
+  "ferry-terminal-resilience": [
+    "2025/01/09/1120"
   ],
-  "relationship": [
-    "2025/01/09/1120",
+  "family-obligations": [
+    "2025/01/09/1120"
+  ],
+  "island-community": [
+    "2025/01/09/1120"
+  ],
+  "fukuoka-living": [
+    "2025/01/09/1120"
+  ],
+  "operations-coordinationemotional_tone: neutral": [
+    "2025/01/09/1120"
+  ],
+  "self-started-project": [
+    "2025/02/18/1310"
+  ],
+  "disruption-log": [
+    "2025/02/18/1310"
+  ],
+  "notice-delays": [
+    "2025/02/18/1310"
+  ],
+  "cargo-handoff": [
+    "2025/02/18/1310"
+  ],
+  "operational-trust": [
+    "2025/02/18/1310"
+  ],
+  "bounded-experiment": [
+    "2025/02/18/1310"
+  ],
+  "essential-supplies": [
+    "2025/02/18/1310"
+  ],
+  "evidence-buildingemotional_tone: neutral": [
+    "2025/02/18/1310"
+  ],
+  "mint-tea-ritual": [
+    "2025/03/07/1240"
+  ],
+  "nozomi-friendship": [
+    "2025/03/07/1240"
+  ],
+  "coping-mechanism": [
+    "2025/03/07/1240"
+  ],
+  "paperwork-fatigue": [
+    "2025/03/07/1240"
+  ],
+  "vending-machine-replacement": [
+    "2025/03/07/1240"
+  ],
+  "small-routine": [
+    "2025/03/07/1240"
+  ],
+  "locker-supplies": [
+    "2025/03/07/1240"
+  ],
+  "situational-cueemotional_tone: neutral": [
+    "2025/03/07/1240"
+  ],
+  "pilot-approval": [
+    "2025/04/11/0925"
+  ],
+  "color-coded-notices": [
+    "2025/04/11/0925"
+  ],
+  "essential-cargo-staging": [
+    "2025/04/11/0925"
+  ],
+  "evidence-based-argument": [
+    "2025/04/11/0925"
+  ],
+  "section-chief": [
+    "2025/04/11/0925"
+  ],
+  "scope-discipline": [
+    "2025/04/11/0925"
+  ],
+  "sakurai-resistance": [
+    "2025/04/11/0925"
+  ],
+  "operational-proofemotional_tone: neutral": [
+    "2025/04/11/0925"
+  ],
+  "grandparent-relationship": [
+    "2025/05/02/0115"
+  ],
+  "island-perspective": [
+    "2025/05/02/0115"
+  ],
+  "household-impact": [
     "2025/05/02/0115",
     "2026/08/11/1325"
   ],
-  "travel": [
-    "2025/01/09/1120",
-    "2025/03/07/1240",
-    "2025/05/02/0115",
-    "2025/09/12/1130",
-    "2025/11/23/0840",
-    "2026/02/22/1205",
-    "2027/06/03/0055",
-    "2028/05/27/0700",
-    "2028/07/16/0425"
+  "candid-communication": [
+    "2025/05/02/0115"
   ],
-  "education": [
-    "2025/01/09/1120",
-    "2025/04/11/0925",
-    "2025/05/02/0115",
-    "2025/06/16/1050",
-    "2026/01/14/0035",
-    "2026/04/06/0955",
-    "2027/02/26/1115",
-    "2027/06/03/0055",
-    "2027/10/08/0910",
-    "2028/01/22/0330",
-    "2028/05/27/0700",
-    "2028/07/16/0425",
-    "2028/10/03/1245"
+  "family-trust": [
+    "2025/05/02/0115"
   ],
-  "housing": [
-    "2025/01/09/1120",
-    "2025/02/18/1310",
-    "2025/03/07/1240",
-    "2025/05/02/0115",
-    "2025/06/16/1050",
+  "medicine-timing": [
+    "2025/05/02/0115"
+  ],
+  "grocery-access": [
+    "2025/05/02/0115"
+  ],
+  "emotional-laboremotional_tone: neutral": [
+    "2025/05/02/0115"
+  ],
+  "pilot-expansion": [
+    "2025/06/16/1050"
+  ],
+  "cross-team-briefing": [
+    "2025/06/16/1050"
+  ],
+  "terminal-memo": [
+    "2025/06/16/1050"
+  ],
+  "ownership-clarity": [
+    "2025/06/16/1050"
+  ],
+  "shared-trigger": [
+    "2025/06/16/1050"
+  ],
+  "decision-chain": [
+    "2025/06/16/1050"
+  ],
+  "ad-hoc-handoffs": [
+    "2025/06/16/1050"
+  ],
+  "institutional-momentumemotional_tone: neutral": [
+    "2025/06/16/1050"
+  ],
+  "secondhand-bookstore": [
+    "2025/07/05/0610"
+  ],
+  "island-shipping-history": [
+    "2025/07/05/0610"
+  ],
+  "reading-habit": [
+    "2025/07/05/0610"
+  ],
+  "fukuoka-harbor": [
+    "2025/07/05/0610"
+  ],
+  "place-based-curiosity": [
+    "2025/07/05/0610"
+  ],
+  "low-stakes-social": [
     "2025/07/05/0610",
-    "2025/10/21/1015",
-    "2025/11/23/0840",
-    "2026/02/22/1205",
-    "2026/04/06/0955",
-    "2026/05/18/0520",
-    "2026/09/24/1410",
-    "2026/10/29/0245",
-    "2027/01/17/0850",
-    "2027/02/26/1115",
-    "2027/04/14/0735",
-    "2027/08/31/1520",
-    "2028/01/22/0330",
-    "2028/05/27/0700",
-    "2028/07/16/0425"
-  ],
-  "goals": [
-    "2025/02/18/1310",
-    "2025/04/11/0925",
-    "2025/06/16/1050",
-    "2025/08/29/1505",
-    "2025/09/12/1130",
-    "2025/11/23/0840",
-    "2026/01/14/0035",
-    "2026/02/22/1205",
-    "2026/04/06/0955",
-    "2026/05/18/0520",
-    "2026/07/01/1030",
-    "2026/08/11/1325",
-    "2026/09/24/1410",
-    "2026/10/29/0245",
-    "2027/01/17/0850",
-    "2027/02/26/1115",
-    "2027/04/14/0735",
-    "2027/06/03/0055",
-    "2027/08/31/1520",
-    "2027/10/08/0910",
-    "2028/01/22/0330",
-    "2028/03/09/1005",
-    "2028/05/27/0700",
-    "2028/07/16/0425",
-    "2028/10/03/1245"
-  ],
-  "environment": [
-    "2025/02/18/1310",
-    "2025/04/11/0925",
-    "2025/06/16/1050",
-    "2025/07/05/0610",
-    "2025/08/29/1505",
-    "2025/09/12/1130",
-    "2025/10/21/1015",
-    "2025/11/23/0840",
-    "2026/01/14/0035",
-    "2026/04/06/0955",
-    "2026/07/01/1030",
-    "2026/09/24/1410",
-    "2027/01/17/0850",
-    "2027/02/26/1115",
-    "2027/04/14/0735",
-    "2027/06/03/0055",
-    "2027/08/31/1520",
-    "2027/10/08/0910",
-    "2028/01/22/0330",
-    "2028/07/16/0425",
-    "2028/10/03/1245"
-  ],
-  "leisure": [
-    "2025/05/02/0115",
-    "2025/07/05/0610",
-    "2025/11/23/0840",
-    "2026/04/06/0955",
-    "2026/05/18/0520",
-    "2026/07/01/1030",
-    "2027/02/26/1115",
-    "2027/06/03/0055",
-    "2027/08/31/1520",
     "2027/10/08/0910"
   ],
-  "civic": [
-    "2027/02/26/1115",
+  "train-ride-ritual": [
+    "2025/07/05/0610"
+  ],
+  "non-work-interestemotional_tone: neutral": [
+    "2025/07/05/0610"
+  ],
+  "typhoon-failure": [
+    "2025/08/29/1505"
+  ],
+  "system-breakdown": [
+    "2025/08/29/1505"
+  ],
+  "logging-mistakes": [
+    "2025/08/29/1505"
+  ],
+  "sleep-disruption": [
+    "2025/08/29/1505"
+  ],
+  "structural-limits": [
+    "2025/08/29/1505"
+  ],
+  "self-criticism": [
+    "2025/08/29/1505"
+  ],
+  "infrastructure-failure": [
+    "2025/08/29/1505"
+  ],
+  "process-fragilityemotional_tone: neutral": [
+    "2025/08/29/1505"
+  ],
+  "clinic-visit": [
+    "2025/09/12/1130"
+  ],
+  "motion-nausea": [
+    "2025/09/12/1130"
+  ],
+  "sleep-guidance": [
+    "2025/09/12/1130"
+  ],
+  "nozomi-intervention": [
+    "2025/09/12/1130"
+  ],
+  "storm-season-health": [
+    "2025/09/12/1130"
+  ],
+  "preventive-care": [
+    "2025/09/12/1130"
+  ],
+  "crossing-limits": [
+    "2025/09/12/1130"
+  ],
+  "practical-adviceemotional_tone: neutral": [
+    "2025/09/12/1130"
+  ],
+  "recovery-package": [
+    "2025/10/21/1015"
+  ],
+  "laminated-backup-cards": [
+    "2025/10/21/1015"
+  ],
+  "message-ownership": [
+    "2025/10/21/1015"
+  ],
+  "narrowed-essentials": [
+    "2025/10/21/1015"
+  ],
+  "evidence-rebuild": [
+    "2025/10/21/1015"
+  ],
+  "incident-photos": [
+    "2025/10/21/1015"
+  ],
+  "terminal-map": [
+    "2025/10/21/1015"
+  ],
+  "operational-honestyemotional_tone: neutral": [
+    "2025/10/21/1015"
+  ],
+  "osaka-visit": [
+    "2025/11/23/0840"
+  ],
+  "sister-playlist": [
+    "2025/11/23/0840"
+  ],
+  "acoustic-music": [
+    "2025/11/23/0840"
+  ],
+  "end-of-shift-ritual": [
+    "2025/11/23/0840"
+  ],
+  "spreadsheet-cleanup": [
+    "2025/11/23/0840"
+  ],
+  "domestic-routine": [
+    "2025/11/23/0840"
+  ],
+  "restorative-travel": [
+    "2025/11/23/0840"
+  ],
+  "closing-ritualemotional_tone: neutral": [
+    "2025/11/23/0840"
+  ],
+  "winter-resilience-test": [
+    "2026/01/14/0035"
+  ],
+  "formal-approval": [
+    "2026/01/14/0035"
+  ],
+  "posted-response-target": [
+    "2026/01/14/0035"
+  ],
+  "emergency-cargo-tags": [
+    "2026/01/14/0035"
+  ],
+  "shared-checklist": [
+    "2026/01/14/0035"
+  ],
+  "whiteboard-spreadsheet": [
+    "2026/01/14/0035"
+  ],
+  "same-day-change": [
+    "2026/01/14/0035"
+  ],
+  "institutional-supportemotional_tone: neutral": [
+    "2026/01/14/0035"
+  ],
+  "washing-machine-failure": [
+    "2026/02/22/1205"
+  ],
+  "budget-crunch": [
+    "2026/02/22/1205"
+  ],
+  "savings-exposure": [
+    "2026/02/22/1205"
+  ],
+  "grandparent-support": [
+    "2026/02/22/1205"
+  ],
+  "convenience-spending": [
+    "2026/02/22/1205"
+  ],
+  "home-reserve": [
+    "2026/02/22/1205"
+  ],
+  "financial-honesty": [
+    "2026/02/22/1205"
+  ],
+  "three-month-planemotional_tone: neutral": [
+    "2026/02/22/1205"
+  ],
+  "spring-squall-test": [
+    "2026/04/06/0955"
+  ],
+  "operational-success": [
+    "2026/04/06/0955"
+  ],
+  "backup-cards-used": [
+    "2026/04/06/0955"
+  ],
+  "cargo-tags-functional": [
+    "2026/04/06/0955"
+  ],
+  "same-day-recovery": [
+    "2026/04/06/0955"
+  ],
+  "clinic-cargo": [
+    "2026/04/06/0955"
+  ],
+  "decision-friction": [
+    "2026/04/06/0955"
+  ],
+  "evidence-milestoneemotional_tone: neutral": [
+    "2026/04/06/0955"
+  ],
+  "teishoku-shop": [
+    "2026/05/18/0520"
+  ],
+  "saba-set-meal": [
+    "2026/05/18/0520"
+  ],
+  "post-shift-refuge": [
+    "2026/05/18/0520"
+  ],
+  "market-area": [
+    "2026/05/18/0520"
+  ],
+  "recovery-routine": [
+    "2026/05/18/0520"
+  ],
+  "mid-option": [
+    "2026/05/18/0520"
+  ],
+  "no-phone-decompression": [
+    "2026/05/18/0520"
+  ],
+  "ordinary-comfortemotional_tone: neutral": [
+    "2026/05/18/0520"
+  ],
+  "pre-typhoon-training": [
+    "2026/07/01/1030"
+  ],
+  "disruption-binder": [
+    "2026/07/01/1030"
+  ],
+  "lane-diagrams": [
+    "2026/07/01/1030"
+  ],
+  "shift-ownership-rule": [
+    "2026/07/01/1030"
+  ],
+  "notice-clock": [
+    "2026/07/01/1030"
+  ],
+  "training-approval": [
+    "2026/07/01/1030"
+  ],
+  "counter-yard-coordination": [
+    "2026/07/01/1030"
+  ],
+  "spring-evidenceemotional_tone: neutral": [
+    "2026/07/01/1030"
+  ],
+  "sister-conversation": [
+    "2026/08/11/1325"
+  ],
+  "career-clarification": [
+    "2026/08/11/1325"
+  ],
+  "moral-weight": [
+    "2026/08/11/1325"
+  ],
+  "family-boundaries": [
+    "2026/08/11/1325"
+  ],
+  "support-redirect": [
+    "2026/08/11/1325"
+  ],
+  "emotional-honesty": [
+    "2026/08/11/1325"
+  ],
+  "relational-shiftemotional_tone: neutral": [
+    "2026/08/11/1325"
+  ],
+  "typhoon-season-success": [
+    "2026/09/24/1410"
+  ],
+  "system-validation": [
+    "2026/09/24/1410"
+  ],
+  "binder-used-under-pressure": [
+    "2026/09/24/1410"
+  ],
+  "notice-clocks-functional": [
+    "2026/09/24/1410"
+  ],
+  "freight-misses-reduced": [
+    "2026/09/24/1410"
+  ],
+  "full-season-evidence": [
+    "2026/09/24/1410"
+  ],
+  "baseline-comparison": [
+    "2026/09/24/1410",
+    "2028/10/03/1245"
+  ],
+  "operational-trustemotional_tone: neutral": [
+    "2026/09/24/1410",
+    "2027/08/31/1520"
+  ],
+  "apartment-move": [
+    "2026/10/29/0245"
+  ],
+  "quieter-block": [
+    "2026/10/29/0245"
+  ],
+  "company-housing": [
+    "2026/10/29/0245"
+  ],
+  "decluttering": [
+    "2026/10/29/0245"
+  ],
+  "paper-boundary": [
+    "2026/10/29/0245"
+  ],
+  "work-life-separation": [
+    "2026/10/29/0245"
+  ],
+  "terminal-proximity": [
+    "2026/10/29/0245"
+  ],
+  "one-tray-ruleemotional_tone: neutral": [
+    "2026/10/29/0245"
+  ],
+  "manual-drafting": [
+    "2027/01/17/0850"
+  ],
+  "bad-weather-operations": [
+    "2027/01/17/0850"
+  ],
+  "mori-chisato-mentorship": [
+    "2027/01/17/0850"
+  ],
+  "fifteen-minute-target": [
+    "2027/01/17/0850"
+  ],
+  "twenty-four-hour-recovery": [
+    "2027/01/17/0850"
+  ],
+  "explicit-ownership": [
+    "2027/01/17/0850"
+  ],
+  "institutional-knowledge": [
+    "2027/01/17/0850"
+  ],
+  "shift-independenceemotional_tone: neutral": [
+    "2027/01/17/0850"
+  ],
+  "watercolor-class": [
+    "2027/02/26/1115"
+  ],
+  "neighbor-miki": [
+    "2027/02/26/1115"
+  ],
+  "low-stakes-hobby": [
+    "2027/02/26/1115"
+  ],
+  "ferry-sketching": [
+    "2027/02/26/1115"
+  ],
+  "ordinary-connection": [
+    "2027/02/26/1115"
+  ],
+  "calm-attention": [
+    "2027/02/26/1115"
+  ],
+  "non-work-identity": [
+    "2027/02/26/1115"
+  ],
+  "gentle-creativityemotional_tone: neutral": [
+    "2027/02/26/1115"
+  ],
+  "display-failure": [
+    "2027/04/14/0735"
+  ],
+  "backup-posting-locations": [
+    "2027/04/14/0735"
+  ],
+  "manual-signage-caches": [
+    "2027/04/14/0735"
+  ],
+  "hardware-limits": [
+    "2027/04/14/0735"
+  ],
+  "sakurai-disagreement": [
+    "2027/04/14/0735"
+  ],
+  "transition-vulnerability": [
+    "2027/04/14/0735"
+  ],
+  "low-tech-contingency": [
+    "2027/04/14/0735"
+  ],
+  "procedure-strengtheningemotional_tone: neutral": [
+    "2027/04/14/0735"
+  ],
+  "spring-checkup": [
+    "2027/06/03/0055"
+  ],
+  "proactive-health": [
+    "2027/06/03/0055"
+  ],
+  "fatigue-management": [
+    "2027/06/03/0055"
+  ],
+  "purposeful-crossings": [
+    "2027/06/03/0055"
+  ],
+  "sleep-protection": [
+    "2027/06/03/0055"
+  ],
+  "load-management": [
+    "2027/06/03/0055"
+  ],
+  "storm-preparation": [
+    "2027/06/03/0055"
+  ],
+  "three-line-routineemotional_tone: neutral": [
+    "2027/06/03/0055"
+  ],
+  "back-to-back-typhoons": [
+    "2027/08/31/1520"
+  ],
+  "system-held": [
+    "2027/08/31/1520"
+  ],
+  "side-by-side-results": [
+    "2027/08/31/1520"
+  ],
+  "shift-owner-validation": [
+    "2027/08/31/1520"
+  ],
+  "signage-cache-use": [
+    "2027/08/31/1520"
+  ],
+  "evidence-accumulation": [
+    "2027/08/31/1520"
+  ],
+  "complaint-reduction": [
+    "2027/08/31/1520"
+  ],
+  "hawks-baseball": [
+    "2027/10/08/0910"
+  ],
+  "coworker-outings": [
+    "2027/10/08/0910"
+  ],
+  "standing-check": [
+    "2027/10/08/0910"
+  ],
+  "sideways-closeness": [
+    "2027/10/08/0910"
+  ],
+  "post-season-lightness": [
+    "2027/10/08/0910"
+  ],
+  "small-ritual": [
+    "2027/10/08/0910"
+  ],
+  "budgeted-enjoymentemotional_tone: neutral": [
+    "2027/10/08/0910"
+  ],
+  "manual-adoption": [
+    "2028/01/22/0330"
+  ],
+  "resilience-remit": [
+    "2028/01/22/0330"
+  ],
+  "formal-recognition": [
+    "2028/01/22/0330"
+  ],
+  "evidence-based-approval": [
+    "2028/01/22/0330"
+  ],
+  "institutional-ownership": [
+    "2028/01/22/0330"
+  ],
+  "boundary-early": [
+    "2028/01/22/0330"
+  ],
+  "version-log": [
+    "2028/01/22/0330"
+  ],
+  "milestone-landingemotional_tone: neutral": [
+    "2028/01/22/0330"
+  ],
+  "mori-recommendation": [
     "2028/03/09/1005"
+  ],
+  "municipal-drama": [
+    "2028/03/09/1005"
+  ],
+  "crisis-response-film": [
+    "2028/03/09/1005"
+  ],
+  "preference-sharpening": [
+    "2028/03/09/1005"
+  ],
+  "competent-procedure": [
+    "2028/03/09/1005"
+  ],
+  "grounded-storytelling": [
+    "2028/03/09/1005"
+  ],
+  "texture-over-plot": [
+    "2028/03/09/1005"
+  ],
+  "slow-watch-ritualemotional_tone: neutral": [
+    "2028/03/09/1005"
+  ],
+  "pay-raise": [
+    "2028/05/27/0700"
+  ],
+  "materials-budget": [
+    "2028/05/27/0700"
+  ],
+  "laminated-notice-packs": [
+    "2028/05/27/0700"
+  ],
+  "tagged-cargo-forms": [
+    "2028/05/27/0700"
+  ],
+  "tool-upgrade": [
+    "2028/05/27/0700"
+  ],
+  "budget-relief": [
+    "2028/05/27/0700"
+  ],
+  "institutional-support": [
+    "2028/05/27/0700"
+  ],
+  "small-trialemotional_tone: neutral": [
+    "2028/05/27/0700"
+  ],
+  "senior-cat": [
+    "2028/07/16/0425"
+  ],
+  "mikis-cat": [
+    "2028/07/16/0425"
+  ],
+  "pet-preference": [
+    "2028/07/16/0425"
+  ],
+  "calm-companionship": [
+    "2028/07/16/0425"
+  ],
+  "schedule-stability": [
+    "2028/07/16/0425"
+  ],
+  "future-planning": [
+    "2028/07/16/0425"
+  ],
+  "rainy-afternoon": [
+    "2028/07/16/0425"
+  ],
+  "self-knowledgeemotional_tone: neutral": [
+    "2028/07/16/0425"
+  ],
+  "season-verification": [
+    "2028/10/03/1245"
+  ],
+  "sustained-gains": [
+    "2028/10/03/1245"
+  ],
+  "grandmother-confirmation": [
+    "2028/10/03/1245"
+  ],
+  "supply-delay-reduction": [
+    "2028/10/03/1245"
+  ],
+  "inconvenienced-not-forgotten": [
+    "2028/10/03/1245"
+  ],
+  "full-arc-completion": [
+    "2028/10/03/1245"
+  ],
+  "evidence-trustemotional_tone: neutral": [
+    "2028/10/03/1245"
   ]
 }

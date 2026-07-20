@@ -1,0 +1,247 @@
+{
+  "personaId": "personal_04",
+  "reviewedAt": "2026-07-20T00:00:00.000Z",
+  "model": "claude-haiku-4-5",
+  "overallNotes": {
+    "personaArc": "Tasha's arc spans ~3.5 years (Jan 2025 - Jun 2028) and follows a classic 'invisible laborer to recognized leader' trajectory. She starts as a 37-year-old bereavement coordinator at Transitions LifeCare, doing process cleanup beyond her title while managing stress (insomnia, jaw clenching, tension headaches). A near-cancellation of grief groups prompts her to build a structured pilot program. A family complaint about a missed referral handoff becomes a turning point — her own spreadsheet exposes the gap, and she shifts from patching holes to enforcing controls. Over time she expands from one protected workday into running a countywide bereavement program with six recurring groups, clinic referral partnerships, volunteer screening, a monthly dashboard, budget-approved admin support, and a modest raise. The work arc is paralleled by personal growth: repairing a friendship with Imani, deepening reciprocity with her aunt Denise, starting therapy for boundaries, discovering birding and cabin travel as restoration, and slowly considering adopting an older cat.",
+    "dataQualityIssues": [
+      "ALL emotional_tone values are 'neutral' — clearly inaccurate for conversations with emotional content ranging from pride to grief to frustration. Many should be 'mixed' or 'positive'.",
+      "Focus fields are frequently truncated mid-sentence (slices 2025-01-21, 2025-03-05, 2025-03-29, 2025-07-02, 2025-08-14, 2025-09-07, 2025-10-16, 2026-01-12, 2026-02-08, 2026-03-19, 2026-06-02, 2026-07-10, 2026-08-26, 2027-01-18, 2027-02-25, 2027-04-14, 2027-06-06, 2027-08-22, 2027-10-15, 2028-06-27) — these appear to be from Turn 1's opening sentences being cut off at 80 chars.",
+      "Summaries are often single quote fragments from the conversation rather than proper summaries (e.g., 'Blurry is the word', 'Better than I expected, honestly', 'Honestly, probably the checklist').",
+      "Tags are overly generic and repetitive (all slices include 'work', most include 'family', 'health', 'leisure', 'goals', 'housing') — they are regex-generated from high-level categories rather than describing actual slice content.",
+      "Decisions field in many slices is truncated (2025-03-05, 2025-03-29, 2025-04-22, 2025-06-11, 2025-07-02, etc.) — appears to be an 80-char cut like focus.",
+      "Slice 2025-01-21 has 'A lot has been shifting lately, and work finally tipped from vaguely messy into ' as focus — the sentence completion 'something I could not keep pretending would sort itself out' from Turn 1 would be more specific.",
+      "No slices carry 'negative' or 'positive' emotional_tone despite containing clear examples of frustration, relief, pride, and grief."
+    ],
+    "patternsNoticed": [
+      "Recurring health-stress cycle: jaw clenching → insomnia → headaches → routine adjustment → improvement → recurrence under new stress. This cycles at least 4 times across the dataset (slices 2025-03-29, 2026-02-08, 2027-02-25, and references in others).",
+      "Tasha's signature coping mechanism: turning chaos into observable data (spreadsheets, legal pads, tracking logs, dashboards). She repeatedly mentions that seeing the pattern written down is what lets her act.",
+      "The 'beyond my title' refrain appears in nearly every work slice — Tasha is acutely aware of the gap between her responsibilities and formal recognition.",
+      "Denise Alston is the most consistent relationship anchor, appearing across time as emotional support, gentle nudge toward social connection, and eventually someone Tasha cares for in return (2027-06-06 marks a role reversal moment).",
+      "Imani the librarian friend has a specific care style (low-pressure nourishment, book swaps, no emotional excavation) that Tasha explicitly values and learns to protect.",
+      "Clinic outreach milestone (2027-04-14) is a turning point — external partners adopting the packet proves the program is real beyond Tasha's own organization.",
+      "Birding with Lena (2027-10-15) is the first genuine hobby Tasha picks up for pure enjoyment, signaling she has enough bandwidth for new interests.",
+      "There is a notable jump between slices — conversations cover ~3.5 years in 30 slices (about 1.2 months average between slices) but gaps range from 2 weeks to 3+ months."
+    ],
+    "relationshipNetwork": {
+      "denise_alston_aunt": "Emotional anchor and family pillar. Relationship evolves from Tasha receiving steadiness to mutual caregiving (soup/pharmacy after Denise's procedure, 2027-06-06).",
+      "miriam_sloan_director_supervisor": "Boss who trusts Tasha's judgment but consistently adds responsibility without staff support. Key figure in scope-creep tension. Eventually becomes champion who brings dashboards to leadership meetings.",
+      "caleb_jennings_chaplain": "Referral partner and informal ally who sees the strain on the bereavement team. Becomes co-presenter for clinic outreach in 2027.",
+      "imani_brooks_librarian_friend": "Low-pressure friendship that nearly drifts due to Tasha's work absorption. Repaired through honest conversation and lighter check-in structure. Source of contemporary Southern fiction discovery.",
+      "renee_holloway_lcsw_supervisor": "Clinical supervisor who pushes Tasha on boundaries and body awareness. Intercepted Tasha's jaw-clenching in supervision, leading to tracking and dental guard.",
+      "lena_morales_volunteer_coordinator": "Later addition (2027-10) — birding friend from nonprofit circles. Low-stakes companionship that feels restorative because it doesn't demand emotional unpacking."
+    }
+  },
+  "issues": [
+    {
+      "sliceId": "2025-01-07-0100",
+      "focus_accurate": false,
+      "summary_accurate": false,
+      "tags_relevant": false,
+      "notes": "Original focus is vague ('It is nice to start using a tool like this.'). Summary only captures the name line. Tags are all generic. This is the foundational onboarding slice."
+    },
+    {
+      "sliceId": "2025-01-21-1010",
+      "focus_accurate": false,
+      "summary_accurate": false,
+      "tags_relevant": false,
+      "notes": "Focus and summary are both truncated fragments. The actual topic — establishing a protected workday for process cleanup after near-cancellations — is much more specific. Tags miss the core theme of volunteer coverage crisis and informal role expansion."
+    },
+    {
+      "sliceId": "2025-02-09-0620",
+      "focus_accurate": false,
+      "summary_accurate": false,
+      "tags_relevant": false,
+      "notes": "Focus is truncated. Summary is a quote fragment that doesn't capture the book swap narrative. Tags miss the novel discovery and friendship care themes. This is an important slice for Tasha's personal restoration pattern."
+    },
+    {
+      "sliceId": "2025-03-05-0040",
+      "focus_accurate": false,
+      "summary_accurate": false,
+      "tags_relevant": false,
+      "notes": "Focus cut off mid-sentence. Summary is a quote fragment. Decisions field truncated. Tags are generic and miss the pilot proposal as the central event."
+    },
+    {
+      "sliceId": "2025-03-29-0330",
+      "focus_accurate": false,
+      "summary_accurate": false,
+      "tags_relevant": false,
+      "notes": "Focus truncated mid-sentence. Summary also truncated. Decisions field has accurate first decision (dental guard) but the second is a generic health statement rather than a decision. Tags miss the Renee intervention and body-tracking narrative."
+    },
+    {
+      "sliceId": "2025-04-22-0815",
+      "focus_accurate": false,
+      "summary_accurate": false,
+      "tags_relevant": false,
+      "notes": "Focus truncated. Summary is a quote fragment. Decisions field truncated. Tags miss the pilot going live as the central event."
+    },
+    {
+      "sliceId": "2025-05-18-0945",
+      "focus_accurate": false,
+      "summary_accurate": false,
+      "tags_relevant": false,
+      "notes": "Focus is accurate-ish but could be tighter. Summary is a quote fragment. Tags miss the gospel music discovery and the church picnic as the catalyst. This slice captures a genuine self-care breakthrough."
+    },
+    {
+      "sliceId": "2025-06-11-0205",
+      "focus_accurate": false,
+      "summary_accurate": false,
+      "tags_relevant": false,
+      "notes": "Focus truncated. Summary is a quote fragment. Decisions field truncated mid-sentence. Tags miss the complaint, corrective memo, and the emotional impact of spreadsheet exposing the failure. This is a pivotal setback slice."
+    },
+    {
+      "sliceId": "2025-07-02-1120",
+      "focus_accurate": false,
+      "summary_accurate": false,
+      "tags_relevant": false,
+      "notes": "Focus truncated. Summary is a quote fragment. Decisions field also truncated. Tags miss the friendship repair and work-spillover narrative. This is an important relationship-maintenance slice."
+    },
+    {
+      "sliceId": "2025-08-14-0125",
+      "focus_accurate": false,
+      "summary_accurate": false,
+      "tags_relevant": false,
+      "notes": "Focus truncated. Summary is a quote fragment. Tags miss the corrective implementation and the tension of moving from pilot to enforced controls."
+    },
+    {
+      "sliceId": "2025-09-07-0550",
+      "focus_accurate": false,
+      "summary_accurate": false,
+      "tags_relevant": false,
+      "notes": "Focus truncated. Summary truncated — cuts off mid-sentence. Tags miss the student loan crisis and income-driven plan decision. This slice captures Tasha's financial vulnerability well."
+    },
+    {
+      "sliceId": "2025-10-16-0740",
+      "focus_accurate": false,
+      "summary_accurate": false,
+      "tags_relevant": false,
+      "notes": "Focus truncated. Summary is a quote fragment. Tags miss the formal recognition milestone. This is a major career advancement slice."
+    },
+    {
+      "sliceId": "2025-11-23-1005",
+      "focus_accurate": false,
+      "summary_accurate": false,
+      "tags_relevant": false,
+      "notes": "Focus is decent but could be tighter. Summary is a quote fragment. Tags miss the documentary discovery and viewing-category system. This slice shows Tasha's personal restoration becoming more refined."
+    },
+    {
+      "sliceId": "2026-01-12-0310",
+      "focus_accurate": false,
+      "summary_accurate": false,
+      "tags_relevant": false,
+      "notes": "Focus truncated. Summary is a quote fragment. Tags miss the formal role revision as the central event. This slice captures a bittersweet career milestone."
+    },
+    {
+      "sliceId": "2026-02-08-0830",
+      "focus_accurate": false,
+      "summary_accurate": false,
+      "tags_relevant": false,
+      "notes": "Focus truncated. Summary is a quote fragment. Tags miss the therapy decision and the clustered-loss load. This slice marks a significant mental health intervention."
+    },
+    {
+      "sliceId": "2026-03-19-0600",
+      "focus_accurate": false,
+      "summary_accurate": false,
+      "tags_relevant": false,
+      "notes": "Focus truncated. Summary is a quote fragment. Tags are generic and miss the volunteer recruitment cycle launch as the central event."
+    },
+    {
+      "sliceId": "2026-04-24-1215",
+      "focus_accurate": false,
+      "summary_accurate": false,
+      "tags_relevant": false,
+      "notes": "Focus is functional but generic. Summary is a quote fragment. Tags miss the game-watching tradition and the shared-attention social format discovery."
+    },
+    {
+      "sliceId": "2026-06-02-0135",
+      "focus_accurate": false,
+      "summary_accurate": false,
+      "tags_relevant": false,
+      "notes": "Focus truncated. Summary is a quote fragment. Tags miss the volunteer quality pivot and the paired co-leader innovation. This is a key leadership maturity moment."
+    },
+    {
+      "sliceId": "2026-07-10-0410",
+      "focus_accurate": false,
+      "summary_accurate": false,
+      "tags_relevant": false,
+      "notes": "Focus truncated. Summary is a quote fragment. Tags miss the move itself as the central event and the home-as-recovery-space framing."
+    },
+    {
+      "sliceId": "2026-08-26-0250",
+      "focus_accurate": false,
+      "summary_accurate": false,
+      "tags_relevant": false,
+      "notes": "Focus truncated. Summary is a quote fragment. Tags miss the countywide expansion and the geographic access framing. This is a major program growth milestone."
+    },
+    {
+      "sliceId": "2026-10-09-1040",
+      "focus_accurate": false,
+      "summary_accurate": false,
+      "tags_relevant": false,
+      "notes": "Focus is truncated. Summary is a quote fragment. Tags miss the cat adoption consideration as the central personal-life development."
+    },
+    {
+      "sliceId": "2027-01-18-0520",
+      "focus_accurate": false,
+      "summary_accurate": false,
+      "tags_relevant": false,
+      "notes": "Focus truncated. Summary is a quote fragment. Tags miss the clinic outreach milestone and the upstream referral design shift."
+    },
+    {
+      "sliceId": "2027-02-25-1300",
+      "focus_accurate": false,
+      "summary_accurate": false,
+      "tags_relevant": false,
+      "notes": "Focus truncated. Summary truncated. Tags miss the sleep health recurrence and the office-hours boundary implementation."
+    },
+    {
+      "sliceId": "2027-04-14-0345",
+      "focus_accurate": false,
+      "summary_accurate": false,
+      "tags_relevant": false,
+      "notes": "Focus truncated. Summary is a quote fragment. Tags miss the external partner adoption as the central milestone. This is a major credibility breakthrough."
+    },
+    {
+      "sliceId": "2027-06-06-0925",
+      "focus_accurate": false,
+      "summary_accurate": false,
+      "tags_relevant": false,
+      "notes": "Focus truncated. Summary is a quote fragment. Tags miss the caregiving role reversal and the mutual relationship deepening. This is a significant personal relationship milestone."
+    },
+    {
+      "sliceId": "2027-08-22-0110",
+      "focus_accurate": false,
+      "summary_accurate": false,
+      "tags_relevant": false,
+      "notes": "Focus truncated. Summary is a quote fragment. Tags miss the dashboard creation as a major operational milestone. This slice represents Tasha's work becoming organizational infrastructure."
+    },
+    {
+      "sliceId": "2027-10-15-0255",
+      "focus_accurate": false,
+      "summary_accurate": false,
+      "tags_relevant": false,
+      "notes": "Focus truncated. Summary is a quote fragment. Tags miss the birding discovery and the beginner-mindset restoration. This slice captures Tasha finding genuine personal joy outside work."
+    },
+    {
+      "sliceId": "2028-01-11-0635",
+      "focus_accurate": false,
+      "summary_accurate": false,
+      "tags_relevant": false,
+      "notes": "Focus truncated. Summary is a quote fragment. Tags miss the budget approval and admin support as the central win. This is a major structural sustainability milestone."
+    },
+    {
+      "sliceId": "2028-03-03-1115",
+      "focus_accurate": false,
+      "summary_accurate": false,
+      "tags_relevant": false,
+      "notes": "Focus truncated. Summary is a quote fragment. Tags miss the cabin trip and the travel-preference clarification."
+    },
+    {
+      "sliceId": "2028-06-27-0805",
+      "focus_accurate": false,
+      "summary_accurate": false,
+      "tags_relevant": false,
+      "notes": "Focus truncated. Summary is a quote fragment. Tags miss the six-group countywide program culmination. This is the capstone slice showing Tasha's full arc from invisible laborer to recognized leader of a durable program."
+    }
+  ]
+}

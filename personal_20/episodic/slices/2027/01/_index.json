@@ -3,17 +3,21 @@
   "slices": [
     {
       "id": "2027-01-31-0700",
-      "focus": "A lot has shifted lately, and I feel like work finally moved from constant clean",
-      "summary": "Honestly, the strongest part was that it stopped being about one bad pallet or one lucky week",
+      "focus": "Eric presents a full-quarter cold-chain dashboard combining spoilage percentage, on-time fresh arrivals, and repeat-ready pantry counts, which leadership requests as a recurring management tool, cementing his role as system steward rather than pilot leader.",
+      "summary": "A quarterly dashboard with linked metrics (spoilage, on-time arrivals, repeat-ready pantry counts) becomes a standing leadership tool, marking Eric's transition from defending decisions to presenting a system that can speak for itself.",
       "tags": [
         "work",
         "relationship",
         "housing",
-        "goals"
+        "goalsemotional_tone: neutral"
       ],
       "status": "closed",
       "start": "2027-01-31T07:00:00.000Z",
-      "open_loops": [],
+      "open_loops": [
+        "One-line operational interpretations for each quarter not yet standardized",
+        "Definition of 'repeat-ready' not yet stabilized for comparability",
+        "Whether to co-own the dashboard format with Patricia"
+      ],
       "decisions": [
         "Eric now presents a quarterly cold-chain dashboard that combines pantry readiness, on-time fresh deliveries, and spoilag"
       ]

@@ -3,17 +3,25 @@
   "slices": [
     {
       "id": "2025-04-06-0720",
-      "focus": "Things have been pretty nonstop lately, but I had one oddly nice small change th",
-      "summary": "Yes, exactly, realistic is the key word",
+      "focus": "A friend's gift of an electric kettle and mint-green tea inspires Nadia to start a calming evening tea habit.",
+      "summary": "Nadia's friend Rukhsana gives her a cheap electric kettle as an engagement gift and introduces her to mint-green tea. Nadia decides to alternate tea with coffee in the evenings at home, finding it helps reduce the 'weird second wind' of late caffeine. She keeps the change deliberately narrow — one blend, evening only — and notices slightly calmer evenings and better sleep onset.",
       "tags": [
-        "work",
-        "finance",
-        "housing",
-        "goals"
+        "evening-tea-ritual",
+        "mint-green-tea",
+        "caffeine-reduction",
+        "rukhsana-visit",
+        "practical-gift",
+        "small-habit-change",
+        "evening-wind-down",
+        "home-comfort-ritualsemotional_tone: neutral"
       ],
       "status": "closed",
       "start": "2025-04-06T07:20:00.000Z",
-      "open_loops": [],
+      "open_loops": [
+        "Test evening tea for one week before deciding it's a permanent change",
+        "Keep kettle visible on counter as a cue",
+        "Stick with one mint-green tea blend, avoid expanding prematurely"
+      ],
       "decisions": [
         "After Rukhsana introduced her to mint-green tea blends, Nadia started alternating tea with coffee in the evenings at hom"
       ]

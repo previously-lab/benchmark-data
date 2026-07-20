@@ -3,21 +3,24 @@
   "slices": [
     {
       "id": "2028-03-09-1140",
-      "focus": "It has been a little while, and life has felt a touch calmer than it did for a s",
-      "summary": "Probably all three, but mostly the planning",
+      "focus": "Caleb takes a short weekend trip to Lafayette and handles being away from home better than expected, expanding his sense of travel possibilities",
+      "summary": "Caleb and Lena drive to Lafayette for a cousin's weekend gathering. With the drainage work done and a house-checker arranged, Caleb handles being out of state with less anxiety than expected. He realizes that short regional trips with clear return dates and weather monitoring are more possible than he thought, and creates a working template for future weekends.",
       "tags": [
-        "work",
-        "family",
-        "health",
-        "relationship",
-        "travel",
-        "housing",
-        "goals",
-        "environment"
+        "lafayette-weekend-trip",
+        "travel-anxiety-reduction",
+        "reflux-management-on-trip",
+        "regional-travel-template",
+        "house-check-system",
+        "fixed-return-date-preference",
+        "lena-travel-partnership",
+        "personal-growth-milestoneemotional_tone: neutral"
       ],
       "status": "closed",
       "start": "2028-03-09T11:40:00.000Z",
-      "open_loops": [],
+      "open_loops": [
+        "Make a short list of possible weekend drives (3-4 options with drive time, stay, house-check)",
+        "Plan one more short Texas/Louisiana trip to confirm the pattern"
+      ],
       "decisions": [
         "Caleb now feels a little more comfortable leaving home briefly outside peak storm season, while still preferring short r"
       ]

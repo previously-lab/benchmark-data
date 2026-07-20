@@ -3,21 +3,27 @@
   "slices": [
     {
       "id": "2025-07-02-1210",
-      "focus": "A lot has shifted lately, and this week turned into one of those pile-on stretch",
-      "summary": "We made the call pretty fast, honestly",
+      "focus": "A truck transmission rebuild and rising dialysis transport costs force Kelli and Travis to use emergency savings.",
+      "summary": "Stacked expenses (2008 pickup transmission rebuild plus rising dialysis transport costs for Gary) force Kelli and Travis to tap their emergency savings and cancel a planned overnight trip. Kelli rethinks the household's financial vulnerability, distinguishing between a discipline problem and a planning problem. She plans a budget conversation, a mechanic's 12-month outlook request, and a cheap intentional evening with Travis.",
       "tags": [
-        "work",
-        "family",
-        "finance",
-        "relationship",
-        "travel",
-        "education",
-        "housing",
-        "goals"
+        "transmission-rebuild",
+        "emergency-savings-use",
+        "dialysis-transport-costs",
+        "financial-vulnerability",
+        "cancelled-coast-trip",
+        "travis-partnership",
+        "truck-repair-cycle",
+        "vehicle-and-medical-bufferemotional_tone: neutral"
       ],
       "status": "closed",
       "start": "2025-07-02T12:10:00.000Z",
-      "open_loops": [],
+      "open_loops": [
+        "Savings rebuild target not yet set",
+        "Mechanic 12-month outlook not yet requested",
+        "Vehicle-repair threshold (when to stop fixing) not yet decided",
+        "Dedicated vehicle-and-medical-travel buffer not yet started",
+        "Budget categories (paused vs reduced vs protected) undefined"
+      ],
       "decisions": [
         "Kelli and Travis had to use part of their emergency savings after their 2008 pickup needed a transmission rebuild during"
       ]

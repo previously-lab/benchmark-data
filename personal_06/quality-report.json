@@ -1,0 +1,218 @@
+{
+  "personaId": "personal_06",
+  "reviewedAt": "2026-07-20T12:00:00.000Z",
+  "model": "claude-haiku-4-5",
+  "overallNotes": "Hannah Louise Mercer (b. 1988) is a mid-career registrar at the Providence Museum of Art whose ~3.5-year arc (Jan 2025 - Jun 2028) traces a remarkable transformation from competent-but-anxious individual contributor into the museum's lead registrar — the architect of a rebuilt collections and loan-cycle system. Key arc: (1) Onboarding reveals an ISTJ personality, Museum Studies background, and deep commitment to collections integrity. (2) A photography loan request exposes widespread location and records unreliability, launching a phased collections integrity review. (3) The cleanup pilot confirms systemic problems — objects where database, tag, and label all disagree — forcing movement controls. (4) A catastrophic crate incident (partial repair overruled her full-rebuild recommendation, then failed in transit) triggers insurer scrutiny and becomes the crucible that gives her leverage for policy change. (5) Post-crate: she converts the failure into mandatory outgoing loan controls, incident packets, and eventually quarterly spot audits and a cross-department checklist. (6) Parallel personal life: meets Alex Chen (library preservation technician) in Jul 2025, evolves to steady partnership by Aug 2026; Priya (roommate since grad school) moves to Boston in 2027 prompting a solo apartment; develops used-mystery-paperback habit and task-specific music strategies. (7) Culmination: a multi-lender exhibition completes full cycle without documentation scramble, verified records hit near-target, overdue catalog drops below danger zone, and she presents a board-facing summary. Pattern: Hannah's strength is translating anxiety into systems — she reacts to every stressor by building structure (tension logs, readiness checklists, incident packets, freezer meal plans, approved-vs-audit decision trees). Recurring theme: institutions prefer cheap short-term fixes over prevention; her arc is learning to make long-term prevention politically undeniable. Data issues: emotional_tone field always reads 'neutral' despite clear emotional variance (crate disaster = negative, Melville date = positive); tags are overly broad ('work', 'health', 'finance') and never capture specificity; decisions field is occasionally truncated mid-sentence; focus and summary fields are quote fragments rather than distilled descriptions. The agent sometimes confuses Priya (roommate) with Marta (mentor) or refers to Priya as 'sister' incorrectly.",
+  "issues": [
+    {
+      "sliceId": "2025-01-05-0200",
+      "focus_accurate": false,
+      "summary_accurate": false,
+      "tags_relevant": false,
+      "notes": "focus is vague ('It is nice to start using a tool like this' is a quote fragment); summary is only 'My name is Hannah Louise Mercer' missing all substantive content; tags are generic (work/family/health/finance) and entirely non-specific; emotional_tone is 'neutral' but the actual tone is warm and engaged (she is excited to build a profile)"
+    },
+    {
+      "sliceId": "2025-01-22-0840",
+      "focus_accurate": false,
+      "summary_accurate": false,
+      "tags_relevant": false,
+      "notes": "focus truncates mid-sentence ('from back' ends abruptly); summary 'It got ugly fast' is a quote fragment, not a summary; decisions truncates mid-sentence ('an i...'); tags are generic boilerplate; emotional_tone should be 'mixed' (concern + determination) not 'neutral'"
+    },
+    {
+      "sliceId": "2025-02-09-0330",
+      "focus_accurate": false,
+      "summary_accurate": false,
+      "tags_relevant": false,
+      "notes": "focus truncates ('update b'); summary 'Yes, weirdly' is a response to the agent, not a summary of the slice; tags miss the entire domestic-comfort/plant theme and reuse generic categories; emotional_tone should be 'positive' — she is genuinely pleased"
+    },
+    {
+      "sliceId": "2025-03-03-0115",
+      "focus_accurate": false,
+      "summary_accurate": false,
+      "tags_relevant": false,
+      "notes": "focus truncates ('collecti'); summary 'Probably the evidence' is a quote fragment; tags include irrelevant 'environment' and miss the core pilot-approval narrative; emotional_tone should be 'mixed' — relief at approval but frustration at narrow scope"
+    },
+    {
+      "sliceId": "2025-03-28-1120",
+      "focus_accurate": false,
+      "summary_accurate": false,
+      "tags_relevant": false,
+      "notes": "focus truncates ('momen'); summary 'A little of both, honestly' is a quote fragment; tags miss health-specific terms; emotional_tone should be 'mixed' — concerned but proactive"
+    },
+    {
+      "sliceId": "2025-04-17-0610",
+      "focus_accurate": false,
+      "summary_accurate": true,
+      "tags_relevant": false,
+      "notes": "focus truncates; summary 'Mixed, honestly' is a quote fragment about staff reaction, not a summary of the slice; tags miss the discovery and emergency-response nature; emotional_tone should be 'negative' — tense, escalating concern"
+    },
+    {
+      "sliceId": "2025-05-06-1205",
+      "focus_accurate": false,
+      "summary_accurate": false,
+      "tags_relevant": false,
+      "notes": "focus truncates ('I'm d'); summary is a quote fragment about boredom/restlessness; tags miss the podcast-discovery angle; emotional_tone should be 'positive' — energized by new discovery"
+    },
+    {
+      "sliceId": "2025-06-12-0225",
+      "focus_accurate": false,
+      "summary_accurate": false,
+      "tags_relevant": false,
+      "notes": "focus truncates; summary is a response fragment; emotional_tone should be 'mixed' — satisfaction at win plus exhaustion from confrontation"
+    },
+    {
+      "sliceId": "2025-07-01-1030",
+      "focus_accurate": false,
+      "summary_accurate": false,
+      "tags_relevant": false,
+      "notes": "focus truncates; summary is a  response to the agent; emotional_tone should be 'positive' — warm, cautiously optimistic"
+    },
+    {
+      "sliceId": "2025-08-19-0745",
+      "focus_accurate": false,
+      "summary_accurate": false,
+      "tags_relevant": false,
+      "notes": "focus truncates; summary is a response to the agent; tags are generic; emotional_tone should be 'positive' — relieved, validated"
+    },
+    {
+      "sliceId": "2025-09-14-0400",
+      "focus_accurate": false,
+      "summary_accurate": false,
+      "tags_relevant": false,
+      "notes": "focus truncates; summary is a quote about specific dumpling filling, not about the meal-planning system; tags miss the cooking/comfort-food theme entirely"
+    },
+    {
+      "sliceId": "2025-10-23-0820",
+      "focus_accurate": false,
+      "summary_accurate": false,
+      "tags_relevant": false,
+      "notes": "focus truncates; summary is a reply to agent; emotional_tone should be 'negative' — anxious, frustrated, carrying worry"
+    },
+    {
+      "sliceId": "2025-11-09-0140",
+      "focus_accurate": true,
+      "summary_accurate": false,
+      "tags_relevant": false,
+      "notes": "focus is better here — captures the home change accurately; summary is a quote fragment; tags miss housing transformation theme; emotional_tone should be 'positive' — calm, satisfied"
+    },
+    {
+      "sliceId": "2025-12-02-0505",
+      "focus_accurate": true,
+      "summary_accurate": false,
+      "tags_relevant": false,
+      "notes": "focus is more complete here; summary is a quote fragment; emotional_tone should be 'negative' — furious, anxious, betrayed; this is the emotional nadir of the entire arc"
+    },
+    {
+      "sliceId": "2026-01-18-0950",
+      "focus_accurate": false,
+      "summary_accurate": false,
+      "tags_relevant": false,
+      "notes": "focus truncates ('admit'); summary is a response to the agent; emotional_tone should be 'mixed' — better than the crate aftermath but still fragile"
+    },
+    {
+      "sliceId": "2026-02-11-0230",
+      "focus_accurate": true,
+      "summary_accurate": false,
+      "tags_relevant": false,
+      "notes": "focus is good; summary 'Harder than it should have been' is a quote fragment; emotional_tone should be 'mixed' — vindicated but also discomfort at having been so blunt"
+    },
+    {
+      "sliceId": "2026-03-06-1210",
+      "focus_accurate": false,
+      "summary_accurate": false,
+      "tags_relevant": false,
+      "notes": "focus truncates; summary is a response fragment; emotional_tone should be 'mixed' — responsible but wistful about losing freelance income/identity"
+    },
+    {
+      "sliceId": "2026-04-21-0655",
+      "focus_accurate": false,
+      "summary_accurate": false,
+      "tags_relevant": false,
+      "notes": "focus truncates; summary is a response fragment; emotional_tone should be 'positive' — finally building rather than just fixing"
+    },
+    {
+      "sliceId": "2026-05-29-1045",
+      "focus_accurate": true,
+      "summary_accurate": false,
+      "tags_relevant": false,
+      "notes": "focus is good and complete; summary is a response to agent; emotional_tone should be 'positive' — genuinely restored"
+    },
+    {
+      "sliceId": "2026-07-14-0335",
+      "focus_accurate": true,
+      "summary_accurate": true,
+      "tags_relevant": false,
+      "notes": "focus is good and complete; summary is accurate to content; emotional_tone should be 'mixed' — alarmed by discovery but clear on response"
+    },
+    {
+      "sliceId": "2026-08-22-0120",
+      "focus_accurate": true,
+      "summary_accurate": false,
+      "tags_relevant": false,
+      "notes": "focus is good and complete; summary is a quote fragment; emotional_tone should be 'positive' — warm, settled, grateful"
+    },
+    {
+      "sliceId": "2026-10-03-0705",
+      "focus_accurate": true,
+      "summary_accurate": true,
+      "tags_relevant": false,
+      "notes": "focus successfully avoids truncation for the first time; summary is accurate; emotional_tone should be 'positive' — cautiously proud"
+    },
+    {
+      "sliceId": "2026-11-11-1300",
+      "focus_accurate": true,
+      "summary_accurate": true,
+      "tags_relevant": false,
+      "notes": "focus is good; summary captures the arc well; emotional_tone should be 'positive' — genuinely delighted by the habit"
+    },
+    {
+      "sliceId": "2027-01-27-0915",
+      "focus_accurate": true,
+      "summary_accurate": true,
+      "tags_relevant": false,
+      "notes": "focus is complete; summary is accurate; emotional_tone should be 'positive' — quietly triumphant"
+    },
+    {
+      "sliceId": "2027-03-18-0055",
+      "focus_accurate": true,
+      "summary_accurate": true,
+      "tags_relevant": false,
+      "notes": "focus is good; summary is accurate; emotional_tone should be 'positive' — relieved, validated"
+    },
+    {
+      "sliceId": "2027-05-24-0525",
+      "focus_accurate": true,
+      "summary_accurate": true,
+      "tags_relevant": false,
+      "notes": "focus is good; summary is accurate; emotional_tone should be 'positive' — steady satisfaction"
+    },
+    {
+      "sliceId": "2027-07-30-0810",
+      "focus_accurate": true,
+      "summary_accurate": true,
+      "tags_relevant": false,
+      "notes": "focus is good; summary is accurate; emotional_tone should be 'mixed' — grief at losing daily closeness with Priya + conviction about the right choice"
+    },
+    {
+      "sliceId": "2027-10-12-0640",
+      "focus_accurate": true,
+      "summary_accurate": true,
+      "tags_relevant": false,
+      "notes": "focus is good; summary is accurate; emotional_tone should be 'positive' — measured confidence"
+    },
+    {
+      "sliceId": "2028-02-04-1130",
+      "focus_accurate": true,
+      "summary_accurate": true,
+      "tags_relevant": false,
+      "notes": "focus is good; summary is accurate; emotional_tone should be 'positive' — small but genuine pleasure"
+    },
+    {
+      "sliceId": "2028-06-18-1000",
+      "focus_accurate": true,
+      "summary_accurate": true,
+      "tags_relevant": false,
+      "notes": "focus and summary are both accurate; emotional_tone should be 'positive' — calm pride, a turning point"
+    }
+  ]
+}

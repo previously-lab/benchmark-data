@@ -3,16 +3,26 @@
   "slices": [
     {
       "id": "2025-03-14-0955",
-      "focus": "A lot has been shifting lately, and work finally tipped into something more offi",
-      "summary": "Honestly, numbers helped more than passion",
+      "focus": "Nadia's intake huddles and shared 30-day checklist get official pilot approval after she presents timing data.",
+      "summary": "Nadia's director approves a pilot program for twice-weekly intake huddles and a shared 30-day checklist for new families. She won approval by presenting six weeks of handwritten timing notes and overdue-task counts rather than emotional appeals. The pilot focuses on the highest-risk first month. Nadia plans to keep huddles to 20 minutes, track overdue items and blockers, and end each huddle with a lightweight feedback prompt.",
       "tags": [
-        "work",
-        "family",
-        "finance"
+        "intake-pilot-approval",
+        "data-driven-advocacy",
+        "twice-weekly-huddles",
+        "30-day-checklist",
+        "team-buy-in",
+        "supervisory-transition",
+        "process-standardization",
+        "front-loaded-risk-designemotional_tone: neutral"
       ],
       "status": "closed",
       "start": "2025-03-14T09:55:00.000Z",
-      "open_loops": [],
+      "open_loops": [
+        "Run first two huddles with tight agenda",
+        "Track overdue items and whether huddles catch early blockers",
+        "End each huddle with 'what's helping / what's wasting time' prompt",
+        "Prove consistency over impressiveness in first weeks"
+      ],
       "decisions": [
         "Nadia moved from informally managing intake fixes to formally piloting twice-weekly intake huddles and a shared 30-day c"
       ]

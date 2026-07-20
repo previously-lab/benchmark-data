@@ -3,40 +3,50 @@
   "slices": [
     {
       "id": "2025-09-03-1215",
-      "focus": "Things have been a little scrambled lately, and I had one of those small neighbo",
-      "summary": "She was easy to talk to in a very Buffalo auntie kind of way, except she is Polish American and reti",
+      "focus": "At aunt Maha's shop, Nadia meets Elena Nowak, a retired teacher who becomes a friendly neighborhood intelligence source.",
+      "summary": "While helping at aunt Maha's tailoring shop, Nadia meets Elena Nowak, a retired Polish American teacher who knows Buffalo's schools, principals, and landlord reputations. Maha brokers the connection, and Elena writes her number on a receipt. Nadia plans to send a simple thank-you text with no agenda, then keep Elena as a light neighborhood contact for practical local knowledge about schools and property.",
       "tags": [
-        "work",
-        "family",
-        "health",
-        "relationship",
-        "education",
-        "housing",
-        "civic"
+        "elena-nowak-introduction",
+        "aunt-maha-tailoring-shop",
+        "neighborhood-connection",
+        "retired-teacher-insight",
+        "school-and-landlord-knowledge",
+        "buffalo-community-network",
+        "non-work-relationship",
+        "ordinary-conversationemotional_tone: neutral"
       ],
       "status": "closed",
       "start": "2025-09-03T12:15:00.000Z",
-      "open_loops": [],
+      "open_loops": [
+        "Send thank-you text to Elena with no agenda, just gratitude",
+        "Keep Elena as a 'friendly neighborhood contact' — use sparingly for local knowledge"
+      ],
       "decisions": [
         "Nadia met Elena Nowak, a retired Polish American teacher and regular at Aunt Maha's tailoring shop, and Elena became a f"
       ]
     },
     {
       "id": "2025-09-26-0625",
-      "focus": "A lot has been shifting lately, and work finally moved out of pure damage-contro",
-      "summary": "The non-negotiables are the things that burned us",
+      "focus": "Nadia and Daniel rebuild the housing handoff with a formal pre-move inspection packet after the placement failure.",
+      "summary": "After the public placement failure, Nadia and Daniel rebuild the housing handoff around a formal pre-move inspection packet with dated photos, appliance checks, utility verification, and supervisor sign-off before keys are handed over. They also design a narrow exception path with a separate note documenting what was not verified. Nadia plans to test the packet on several move-ins, start a sample review rhythm with Daniel, and capture one sentence per move-in about what the packet caught or clarified.",
       "tags": [
-        "work",
-        "family",
-        "health",
-        "education",
-        "housing",
-        "goals",
-        "environment"
+        "pre-move-inspection-packet",
+        "housing-handoff-rebuild",
+        "daniel-kopel-collaboration",
+        "dated-room-photos",
+        "appliance-utility-checks",
+        "supervisor-sign-off-requirement",
+        "exception-path-design",
+        "shared-accountabilityemotional_tone: neutral"
       ],
       "status": "closed",
       "start": "2025-09-26T06:25:00.000Z",
-      "open_loops": [],
+      "open_loops": [
+        "Test inspection packet on several move-ins",
+        "Start lightweight sample review rhythm with Daniel",
+        "Capture one sentence per move-in about what packet caught or clarified",
+        "Track clean streaks as quality threshold before loosening central sign-off"
+      ],
       "decisions": [
         "Nadia shifted from post-failure review mode to revising the intake system around a formal pre-move inspection packet and"
       ]

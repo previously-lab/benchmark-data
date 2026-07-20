@@ -6,17 +6,22 @@
       "focus": "A lot has shifted lately, or maybe it is more that a long stretch of pushing fin",
       "summary": "More the second one, honestly",
       "tags": [
-        "work",
-        "family",
-        "relationship",
-        "travel",
-        "education",
-        "housing",
-        "goals"
+        "work-results",
+        "year-end-review",
+        "process-permanence",
+        "forecast-reviews",
+        "packaging-minimums",
+        "written-cutoffs",
+        "operational-evidenceemotional_tone: neutral"
       ],
       "status": "closed",
       "start": "2026-12-15T23:10:00.000Z",
-      "open_loops": [],
+      "open_loops": [
+        "Whether the three rules survive February when pressure feels abstract",
+        "Whether exceptions are handled transparently or quietly route around the rules",
+        "Drafting the one-page operations standard before everyone scatters for year-end",
+        "Whether the report prevents revisionist history about the holiday season"
+      ],
       "decisions": [
         "Jordan ended 2026 as operations manager with enough improved holiday reporting to lock forecast reviews, packaging minim"
       ]

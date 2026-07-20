@@ -3,19 +3,25 @@
   "slices": [
     {
       "id": "2027-10-01-1300",
-      "focus": "A lot has shifted lately, in a way that feels quieter than some of the bigger th",
-      "summary": "I think it was because it did not feel like we were squeezing each other into leftover space",
+      "focus": "A low-key Gulf Coast anniversary trip shows Ariana and Devon their relationship has real stability",
+      "summary": "Ariana and Devon take a quiet Gulf Coast overnight for their anniversary and realize their relationship feels spacious and solid after years of boundary work. They plan a monthly overnight and one weekly off-limits block to protect the newfound steadiness.",
       "tags": [
-        "work",
-        "finance",
-        "relationship",
-        "travel",
-        "education",
-        "goals"
+        "anniversary-trip",
+        "gulf-coast-getaway",
+        "relationship-baseline",
+        "spaciousness",
+        "boundary-work",
+        "devon-landry",
+        "shared-time-protection",
+        "low-key-reconnectionemotional_tone: neutral"
       ],
       "status": "closed",
       "start": "2027-10-01T13:00:00.000Z",
-      "open_loops": [],
+      "open_loops": [
+        "Establishing one monthly overnight as an anchor ritual",
+        "Maintaining one weekly off-limits block for protected time",
+        "Watching for small signs of the steadier baseline in ordinary days"
+      ],
       "decisions": [
         "Ariana is still partnered with Devon, and after sustained boundary work plus the restorative anniversary trip the relati"
       ]

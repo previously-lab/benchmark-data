@@ -3,20 +3,28 @@
   "slices": [
     {
       "id": "2027-11-16-1120",
-      "focus": "A lot has shifted lately, mostly in the home category. After months of scanning ",
-      "summary": "Mostly relief, honestly, with a little bruised pride mixed in",
+      "focus": "Nathaniel and Erin renew their lease but move to a quieter top-floor unit with a den instead of forcing a house purchase.",
+      "summary": "After months of scanning listings and compromising, Nathaniel and Erin renew their lease in the same complex but move to a quieter top-floor unit with a small den. The den gives Nathaniel a dedicated work-from-home corner. The decision prioritizes daily comfort over the milestone of buying.",
       "tags": [
-        "work",
-        "health",
-        "education",
-        "housing",
-        "goals"
+        "lease-renewed",
+        "top-floor-unit",
+        "den-space",
+        "housing-compromise",
+        "incremental-upgrade",
+        "erin-decision",
+        "apartment-improvement",
+        "home-stabilityemotional_tone: neutral"
       ],
       "status": "closed",
       "start": "2027-11-16T11:20:00.000Z",
-      "open_loops": [],
+      "open_loops": [
+        "Den not yet fully set up (desk, lighting, storage)",
+        "Shared rule about living room flat surfaces not yet agreed",
+        "Boxes to discard not yet sorted",
+        "Ask Erin about den finish not yet done"
+      ],
       "decisions": [
-        "Nathaniel and Erin renewed their lease but moved into a quieter top-floor unit in the same apartment complex instead of "
+        "Nathaniel and Erin renewed their lease but moved into a quieter top-floor unit in the same apartment complex instead of"
       ]
     }
   ]

@@ -1,0 +1,128 @@
+{
+  "personaId": "personal_20",
+  "reviewedAt": "2026-07-20T00:00:00.000Z",
+  "model": "claude-haiku-4-5",
+  "overallNotes": "Eric Matthew Lang (b. 1986-11-09), Cincinnati OH. ISTJ. Cold-chain coordinator at Freestore Foodbank in nonprofit food-distribution logistics. Married to Danielle (library branch assistant), adopted daughter Maya (8), brother-in-law Trevor in basement until mid-2027. Arc spans 2025-01 to 2028-10: begins with full-life introduction, then household crowding strain with Trevor, work baseline assignment, pilot, major cooler-compressor crisis, recovery phase, system hardening into formal playbook, stress test validation, and eventual personal restoration (softball return, short trips, pet reconsideration). Core tension: methodical systems-builder versus easily overwhelmed by crowding and financial fragility. Key relationships: Patricia Hensley (work ally), Samuel Kline (blunt pantry-side validator), Marcus Avery (friend who nudges toward restoration). Recurring health theme: stress reflux managed through medication, symptom logs, breakfast changes, personal days. Major inflection points: Trevor's written agreement (2025-02), 90-day pilot approval after milk dump (2025-07), compressor failure (2026-05), Trevor moves out (2027-06), four-quarter target achievement (2027-08), playbook formalization (2028-01), heat-wave system stress test (2028-06). Financial fragility is a persistent undercurrent: AC repair, shed install, tax-refund emergency fund. Long arc: from personal vigilance/heroics to shared system/distributed responsibility, with measurable reduction in hypervigilance by 2028.",
+  "issues": [
+    {
+      "sliceId": "2025-01-06-0030",
+      "notes": "Comprehensive onboarding session covering all major life domains. Tags in frontmatter are correct and exhaustive for this introductory slice."
+    },
+    {
+      "sliceId": "2025-02-18-0940",
+      "notes": "Strong narrative of boundary-setting. Frontmatter tags omit 'family' which is central. Focus field truncated in source YAML (cut off mid-sentence). Summary field also truncated. Decisions field truncated. These are source-data artifacts."
+    },
+    {
+      "sliceId": "2025-03-11-0615",
+      "notes": "Excellent strategic thinking about avoiding blame dynamics. Chain-of-custody framing is a key insight. Tags appropriately emphasize work and goals."
+    },
+    {
+      "sliceId": "2025-04-06-1110",
+      "notes": "Good documentation of a subtle preference shift. The 'support listening' distinction is valuable. Tags could include 'education' for the learning aspect."
+    },
+    {
+      "sliceId": "2025-05-21-0850",
+      "notes": "Key transition slice from mapping to implementation. Tags correctly capture the pivot. The three-category readiness system is a recurring architecture."
+    },
+    {
+      "sliceId": "2025-06-14-0320",
+      "notes": "Good emotional honesty about financial fragility and the thin-cushion feeling. The distinction between 'stable' and 'comfortable' is a key insight. Tags accurate."
+    },
+    {
+      "sliceId": "2025-07-09-0505",
+      "notes": "Pivotal crisis-to-opportunity slice. Excellent use of evidence (photos, spoilage sheets) to convert a failure into organizational permission. Tags accurate but minimal."
+    },
+    {
+      "sliceId": "2025-08-03-1230",
+      "notes": "Important preference-shift slice showing Eric's adaptive coping. Tags underrepresent the material - 'leisure', 'family', and 'health' are relevant but missing. Frontmatter tags seem auto-generated and too narrow."
+    },
+    {
+      "sliceId": "2025-09-17-0725",
+      "notes": "Strong evidence of system adoption. The 'becoming standard practice' vs 'is standard practice' language distinction is valuable. Tags accurate."
+    },
+    {
+      "sliceId": "2025-10-22-0140",
+      "notes": "Excellent health-narrative slice with specific actionable plan. The guardrails framing and 'overdue maintenance as warning shot' interpretation are useful. Tags comprehensive."
+    },
+    {
+      "sliceId": "2025-12-05-1005",
+      "notes": "Significant milestone: first budget approval. The 'visibility instead of control' framing is a key insight. Tags accurate but omit 'health' - the budget indirectly supports stress reduction."
+    },
+    {
+      "sliceId": "2026-01-18-0815",
+      "notes": "Nice slice showing how family life feeds into personal restoration. The 'cue vs rule' distinction is valuable. Tags comprehensive."
+    },
+    {
+      "sliceId": "2026-02-26-2310",
+      "notes": "Excellent systems-thinking slice. The three-category split is the core insight. Tags are too narrow - 'family' and 'health' are absent despite work-stress spillover mention. Frontmatter tags seem auto-generated."
+    },
+    {
+      "sliceId": "2026-03-30-1300",
+      "notes": "Significant family milestone. Good handling of mixed-win emotions. Tags comprehensive."
+    },
+    {
+      "sliceId": "2026-05-12-0435",
+      "notes": "Pivotal crisis slice. The 'upstream risk, downstream control' language is the key contribution. Tags are too sparse - 'health' (hypervigilance, stress), 'family' (work-home spillover), and 'housing' are relevant. Frontmatter tags auto-generated."
+    },
+    {
+      "sliceId": "2026-06-23-1045",
+      "notes": "Small but meaningful coping-strategy slice. The 'emergency structure' framing is apt. Tags are reasonable but 'health' is notably absent given the reflux-management context."
+    },
+    {
+      "sliceId": "2026-08-04-0655",
+      "notes": "Strong system-building from crisis. The partnership with Patricia is a key detail. Tags reasonable. The 'planned tabletop before polishing' instinct is a key decision."
+    },
+    {
+      "sliceId": "2026-09-10-1220",
+      "notes": "Good practical household improvement slice. The 'practical correction vs failing to cope' framing is valuable. Tags comprehensive."
+    },
+    {
+      "sliceId": "2026-10-28-0345",
+      "notes": "Tough operational decision well-reasoned. The 'need matters but readiness decides' framing is the key ethical contribution. Tags omit 'health' despite stated stomach stress from meetings."
+    },
+    {
+      "sliceId": "2026-12-17-1410",
+      "notes": "Important health-limits slice. The 'braking distance' reframing and trigger-list concept are key contributions. Tags comprehensive."
+    },
+    {
+      "sliceId": "2027-01-31-0700",
+      "notes": "Major credibility milestone. The 'stop treating every stable week as temporary luck' caution is a key insight. Tags omit 'health' - the dashboard indirectly reduces stress by distributing psychological load."
+    },
+    {
+      "sliceId": "2027-03-19-0935",
+      "notes": "Nice restoration slice showing return to physical leisure. The 'recovering access vs taking on something new' distinction is the key insight. Tags reasonable."
+    },
+    {
+      "sliceId": "2027-05-08-0520",
+      "notes": "Major system maturation slice. The 'steward not inventor' reframing and the 'test for discipline vs overbuilding' question are key contributions. Tags reasonable."
+    },
+    {
+      "sliceId": "2027-06-26-0115",
+      "notes": "Major family milestone. The 'each room having a purpose instead of an apology' line is a key insight. Tags comprehensive."
+    },
+    {
+      "sliceId": "2027-08-15-0840",
+      "notes": "Landmark achievement slice. The shift from 'personal rescue to dependable process' is the core psychological milestone. Tags omit 'goals' which is a notable omission given the five-year waste-reduction target."
+    },
+    {
+      "sliceId": "2027-10-01-1025",
+      "notes": "Nice emotional-shift slice. The 'retired office manager cat' criteria and 'separating openness from action' framework are key. Tags comprehensive."
+    },
+    {
+      "sliceId": "2028-01-12-0205",
+      "notes": "System institutionalization milestone. The 'working standard vs draft vs final' distinction and 'fewer clarification calls' success metric are key. Tags omit 'goals' which is central to the formalization motivation."
+    },
+    {
+      "sliceId": "2028-03-07-1255",
+      "notes": "Good financial-resilience slice. The 'cushion vs savings' language distinction and 'no longer being cornered' framing are key. Tags comprehensive."
+    },
+    {
+      "sliceId": "2028-06-18-0630",
+      "notes": "Crucial system-validation slice. The distinction between 'surviving' and 'preventing the secondary mess' is the key insight. Tags omit 'health' despite the emotional weight of seeing the system hold."
+    },
+    {
+      "sliceId": "2028-10-24-1105",
+      "notes": "Closing-arc slice showing durable reduction in vigilance. The 'pre-canceling yourself' reframing and 'pleasantly easy before memorable' principle are key. Tags comprehensive."
+    }
+  ]
+}

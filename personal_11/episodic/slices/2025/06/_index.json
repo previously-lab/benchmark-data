@@ -4,17 +4,25 @@
     {
       "id": "2025-06-18-0850",
       "focus": "A lot has shifted at work lately, and one case in particular kind of changed the",
-      "summary": "The biggest difference was that we treated it like we were proving a pattern, not just checking whet",
+      "summary": "A landlord's cosmetic patch job and missed deadline leads Monica to build a tighter evidence packet with photo logs, tenant notes, and chronology sequencing; the stronger citations make her corridor reinspection process more visible inside City Hall, and she works to standardize the method before visibility reshapes it.",
       "tags": [
-        "work",
-        "travel",
-        "education",
-        "housing",
-        "goals"
+        "stronger-citation-packet",
+        "cosmetic-patch-job-exposed",
+        "tenant-contact-note-training",
+        "chronology-sequencing-evidence",
+        "corridor-visibility-city-hall",
+        "skeptic-pressure-test",
+        "one-page-packet-standard",
+        "minimum-viable-formalizationemotional_tone: neutral"
       ],
       "status": "closed",
       "start": "2025-06-18T08:50:00.000Z",
-      "open_loops": [],
+      "open_loops": [
+        "Debrief team on evidence hardest to assemble",
+        "Draft one-page packet standard with sample notes",
+        "Track who is asking about the process internally",
+        "Create repeatable checklist for strong packets"
+      ],
       "decisions": [
         "Monica's corridor reinspection process became a higher-visibility enforcement model inside City Hall after stronger evid"
       ]

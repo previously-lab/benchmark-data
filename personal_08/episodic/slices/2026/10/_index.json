@@ -6,14 +6,24 @@
       "focus": "A lot has been shifting again on the work side, and this time I feel like I fina",
       "summary": "Probably the trailer entry piece first, because that one happens almost right away and people come i",
       "tags": [
-        "work",
-        "education",
-        "housing",
-        "goals"
+        "temp-orientation-redesign",
+        "peak-season-prep",
+        "first-week-failure-points",
+        "protected-training-block",
+        "incident-timeline-based",
+        "trailer-entry-safety",
+        "blind-reversing-end-caps",
+        "dock-plate-checks",
+        "first-week-check-sheet",
+        "training-vs-floor-overrideemotional_tone: neutral"
       ],
       "status": "closed",
       "start": "2026-10-02T21:50:00.000Z",
-      "open_loops": [],
+      "open_loops": [
+        "Track two buckets: training misses vs. floor overrides",
+        "End-of-week correction pass during first week",
+        "Keep notes on what temps misunderstand most"
+      ],
       "decisions": [
         "Jermaine entered peak season with a data-based temp orientation rebuilt from last year's exact first-week failure points"
       ]

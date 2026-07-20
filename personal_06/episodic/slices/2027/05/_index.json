@@ -3,18 +3,23 @@
   "slices": [
     {
       "id": "2027-05-24-0525",
-      "focus": "A lot has shifted at work since we last talked, and I finally got one of the cha",
-      "summary": "Definitely the earlier checkpoints",
+      "focus": "Leadership approves quarterly spot audits and a cross-department exhibition prep checklist with early registrar review",
+      "summary": "Using the cleaner exhibition trial and postmortem numbers, Hannah wins quarterly spot audits and a cross-department exhibition prep checklist that puts registrar review earlier in the planning cycle — moving the museum from late-stage rescue to shared planning.",
       "tags": [
-        "work",
-        "finance",
-        "education",
-        "housing",
-        "goals"
+        "quarterly-spot-audits-approved",
+        "cross-department-checklist",
+        "registrar-review-timing",
+        "process-institutionalization",
+        "shared-accountability",
+        "no-more-late-stage-rescueemotional_tone: neutral"
       ],
       "status": "closed",
       "start": "2027-05-24T05:25:00.000Z",
-      "open_loops": [],
+      "open_loops": [
+        "Write private note capturing what worked in the argument while memory is fresh",
+        "Define first-cycle signals: meeting timeliness, evidence attachment, checkpoint bypass attempts, cross-department response to delays",
+        "Save approved checklist and audit schedule in accessible location"
+      ],
       "decisions": [
         "Hannah remains registrar and got the museum to adopt quarterly spot audits plus a standing cross-department exhibition p"
       ]

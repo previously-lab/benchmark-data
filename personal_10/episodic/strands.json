@@ -1,194 +1,698 @@
 {
-  "work": [
-    "2025/01/05/2340",
+  "onboarding-intake": [
+    "2025/01/05/2340"
+  ],
+  "rural-healthcare-admin": [
+    "2025/01/05/2340"
+  ],
+  "claims-turnaround-goal": [
+    "2025/01/05/2340"
+  ],
+  "istj-personality": [
+    "2025/01/05/2340"
+  ],
+  "dialysis-caregiving": [
+    "2025/01/05/2340"
+  ],
+  "emmett-idaho": [
+    "2025/01/05/2340"
+  ],
+  "revenue-cycle-lead": [
+    "2025/01/05/2340"
+  ],
+  "health-information-managementemotional_tone: neutral": [
+    "2025/01/05/2340"
+  ],
+  "claims-turnaround-project": [
+    "2025/01/21/1010"
+  ],
+  "denial-categories": [
+    "2025/01/21/1010"
+  ],
+  "monica-wren-ally": [
     "2025/01/21/1010",
-    "2025/02/11/1225",
     "2025/03/07/0945",
-    "2025/03/29/0130",
-    "2025/04/18/0855",
-    "2025/05/09/1120",
     "2025/06/14/0305",
-    "2025/07/02/1210",
     "2025/08/15/0740",
-    "2025/09/07/0615",
     "2025/10/22/0925",
-    "2025/11/16/1040",
     "2026/01/12/1105",
-    "2026/02/02/2315",
-    "2026/03/18/0830",
-    "2026/04/24/0510",
-    "2026/05/27/1050",
-    "2026/06/21/0800",
-    "2026/08/08/0235",
-    "2026/09/14/1245",
-    "2026/11/05/0955",
-    "2026/12/18/1130",
-    "2027/02/09/0820",
-    "2027/03/27/0405",
-    "2027/06/16/1000",
-    "2027/08/11/1310",
-    "2027/10/24/0715",
-    "2028/01/13/0050",
-    "2028/04/09/0935"
-  ],
-  "family": [
-    "2025/01/05/2340",
-    "2025/01/21/1010",
-    "2025/03/29/0130",
-    "2025/05/09/1120",
-    "2025/07/02/1210",
-    "2026/06/21/0800",
-    "2026/09/14/1245",
-    "2027/02/09/0820",
-    "2027/03/27/0405",
-    "2027/08/11/1310"
-  ],
-  "health": [
-    "2025/01/05/2340",
-    "2025/02/11/1225",
-    "2025/05/09/1120",
-    "2025/06/14/0305",
-    "2025/08/15/0740",
-    "2025/10/22/0925",
-    "2026/03/18/0830",
-    "2026/04/24/0510",
-    "2026/06/21/0800",
-    "2026/08/08/0235",
-    "2027/02/09/0820",
-    "2027/06/16/1000"
-  ],
-  "finance": [
-    "2025/01/05/2340",
-    "2025/01/21/1010",
-    "2025/03/07/0945",
-    "2025/03/29/0130",
-    "2025/04/18/0855",
-    "2025/07/02/1210",
-    "2025/09/07/0615",
-    "2025/11/16/1040",
-    "2026/02/02/2315",
-    "2026/05/27/1050",
-    "2027/03/27/0405",
-    "2027/08/11/1310",
-    "2027/10/24/0715",
-    "2028/04/09/0935"
-  ],
-  "relationship": [
-    "2025/01/05/2340",
-    "2025/03/29/0130",
-    "2025/07/02/1210",
-    "2026/09/14/1245",
-    "2027/03/27/0405",
-    "2027/08/11/1310"
-  ],
-  "travel": [
-    "2025/01/05/2340",
-    "2025/03/07/0945",
-    "2025/03/29/0130",
-    "2025/07/02/1210",
-    "2025/11/16/1040",
-    "2026/08/08/0235",
-    "2026/12/18/1130",
-    "2027/03/27/0405",
-    "2027/06/16/1000",
-    "2027/08/11/1310"
-  ],
-  "education": [
-    "2025/01/05/2340",
-    "2025/03/07/0945",
-    "2025/03/29/0130",
-    "2025/04/18/0855",
-    "2025/05/09/1120",
-    "2025/06/14/0305",
-    "2025/07/02/1210",
-    "2025/08/15/0740",
-    "2025/09/07/0615",
-    "2026/06/21/0800",
-    "2026/11/05/0955",
-    "2027/06/16/1000",
-    "2027/08/11/1310",
-    "2028/01/13/0050"
-  ],
-  "housing": [
-    "2025/01/05/2340",
-    "2025/01/21/1010",
-    "2025/02/11/1225",
-    "2025/03/07/0945",
-    "2025/03/29/0130",
-    "2025/04/18/0855",
-    "2025/05/09/1120",
-    "2025/06/14/0305",
-    "2025/07/02/1210",
-    "2025/08/15/0740",
-    "2025/09/07/0615",
-    "2025/10/22/0925",
-    "2026/02/02/2315",
     "2026/03/18/0830",
     "2026/08/08/0235",
     "2026/11/05/0955",
-    "2026/12/18/1130",
-    "2027/02/09/0820",
-    "2027/06/16/1000",
-    "2028/01/13/0050",
-    "2028/04/09/0935"
-  ],
-  "leisure": [
-    "2025/01/21/1010",
-    "2025/02/11/1225",
-    "2025/03/29/0130",
-    "2025/04/18/0855",
-    "2025/09/07/0615",
-    "2025/10/22/0925",
-    "2025/11/16/1040",
-    "2026/01/12/1105",
-    "2026/02/02/2315",
-    "2026/03/18/0830",
-    "2026/04/24/0510",
-    "2026/06/21/0800",
-    "2026/09/14/1245",
-    "2026/11/05/0955",
-    "2026/12/18/1130",
     "2027/02/09/0820",
     "2027/06/16/1000",
     "2027/10/24/0715"
   ],
-  "goals": [
-    "2025/01/21/1010",
-    "2025/02/11/1225",
-    "2025/03/07/0945",
-    "2025/05/09/1120",
-    "2025/06/14/0305",
-    "2025/07/02/1210",
-    "2025/08/15/0740",
-    "2025/09/07/0615",
-    "2025/10/22/0925",
-    "2025/11/16/1040",
-    "2026/01/12/1105",
-    "2026/02/02/2315",
-    "2026/03/18/0830",
-    "2026/04/24/0510",
-    "2026/06/21/0800",
-    "2026/08/08/0235",
-    "2026/09/14/1245",
-    "2026/11/05/0955",
-    "2026/12/18/1130",
-    "2027/03/27/0405",
-    "2027/06/16/1000",
-    "2027/08/11/1310",
-    "2027/10/24/0715",
-    "2028/01/13/0050",
-    "2028/04/09/0935"
+  "cash-flow-scare": [
+    "2025/01/21/1010"
   ],
-  "environment": [
-    "2025/02/11/1225",
-    "2025/08/15/0740",
-    "2026/02/02/2315",
-    "2027/03/27/0405",
-    "2027/06/16/1000",
-    "2027/08/11/1310",
-    "2028/04/09/0935"
+  "tracker-building": [
+    "2025/01/21/1010"
   ],
-  "civic": [
+  "invisible-labor-risk": [
+    "2025/01/21/1010"
+  ],
+  "aging-claims-triage": [
+    "2025/01/21/1010"
+  ],
+  "workplace-boundariesemotional_tone: neutral": [
+    "2025/01/21/1010"
+  ],
+  "workplace-communication": [
+    "2025/02/11/1225"
+  ],
+  "commute-listening-habits": [
+    "2025/02/11/1225"
+  ],
+  "shawna-haskell-friend": [
+    "2025/02/11/1225"
+  ],
+  "billing-association-dinner": [
+    "2025/02/11/1225"
+  ],
+  "difficult-conversations": [
+    "2025/02/11/1225"
+  ],
+  "podcast-discovery": [
+    "2025/02/11/1225"
+  ],
+  "conflict-avoidance-pattern": [
+    "2025/02/11/1225"
+  ],
+  "90s-country-musicemotional_tone: neutral": [
+    "2025/02/11/1225"
+  ],
+  "denial-reduction-pilot": [
+    "2025/03/07/0945"
+  ],
+  "pre-bill-scrub-huddles": [
+    "2025/03/07/0945"
+  ],
+  "leadership-approval": [
+    "2025/03/07/0945"
+  ],
+  "clinic-by-clinic-data": [
+    "2025/03/07/0945"
+  ],
+  "eligibility-denials-first": [
+    "2025/03/07/0945"
+  ],
+  "dr-owen-leland-stakeholder": [
+    "2025/03/07/0945"
+  ],
+  "front-desk-cheat-sheetsemotional_tone: neutral": [
+    "2025/03/07/0945"
+  ],
+  "kitchen-table-talk": [
+    "2025/03/29/0130"
+  ],
+  "travis-communication": [
+    "2025/03/29/0130"
+  ],
+  "dialysis-caregiving-strain": [
+    "2025/03/29/0130"
+  ],
+  "marriage-reset": [
+    "2025/03/29/0130"
+  ],
+  "weekend-predictability": [
+    "2025/03/29/0130"
+  ],
+  "friday-night-planning": [
+    "2025/03/29/0130"
+  ],
+  "caregiver-burnout": [
+    "2025/03/29/0130"
+  ],
+  "protected-half-dayemotional_tone: neutral": [
+    "2025/03/29/0130"
+  ],
+  "pilot-expansion": [
+    "2025/04/18/0855"
+  ],
+  "site-binders": [
+    "2025/04/18/0855"
+  ],
+  "overtime-reduction-proof": [
+    "2025/04/18/0855"
+  ],
+  "network-wide-process": [
+    "2025/04/18/0855"
+  ],
+  "front-desk-labor-savings": [
+    "2025/04/18/0855"
+  ],
+  "standardized-huddles": [
+    "2025/04/18/0855"
+  ],
+  "reporting-consistency": [
+    "2025/04/18/0855"
+  ],
+  "monica-wren-allyemotional_tone: neutral": [
+    "2025/04/18/0855"
+  ],
+  "stretching-class": [
     "2025/05/09/1120"
+  ],
+  "community-center": [
+    "2025/05/09/1120"
+  ],
+  "shoulder-neck-tension": [
+    "2025/05/09/1120"
+  ],
+  "desk-job-health": [
+    "2025/05/09/1120"
+  ],
+  "weekly-maintenance-routine": [
+    "2025/05/09/1120"
+  ],
+  "body-awareness": [
+    "2025/05/09/1120"
+  ],
+  "sleep-improvement": [
+    "2025/05/09/1120"
+  ],
+  "neighbor-connectionemotional_tone: neutral": [
+    "2025/05/09/1120"
+  ],
+  "hypertension-scare": [
+    "2025/06/14/0305"
+  ],
+  "urgent-care-visit": [
+    "2025/06/14/0305"
+  ],
+  "delegation-of-denial-categories": [
+    "2025/06/14/0305"
+  ],
+  "stress-headaches": [
+    "2025/06/14/0305"
+  ],
+  "lane-sheets": [
+    "2025/06/14/0305"
+  ],
+  "senior-biller-ownership": [
+    "2025/06/14/0305"
+  ],
+  "home-blood-pressure-cuffemotional_tone: neutral": [
+    "2025/06/14/0305"
+  ],
+  "transmission-rebuild": [
+    "2025/07/02/1210"
+  ],
+  "emergency-savings-use": [
+    "2025/07/02/1210"
+  ],
+  "dialysis-transport-costs": [
+    "2025/07/02/1210"
+  ],
+  "financial-vulnerability": [
+    "2025/07/02/1210"
+  ],
+  "cancelled-coast-trip": [
+    "2025/07/02/1210"
+  ],
+  "travis-partnership": [
+    "2025/07/02/1210",
+    "2026/02/02/2315"
+  ],
+  "truck-repair-cycle": [
+    "2025/07/02/1210"
+  ],
+  "vehicle-and-medical-bufferemotional_tone: neutral": [
+    "2025/07/02/1210"
+  ],
+  "first-pass-denial-improvement": [
+    "2025/08/15/0740"
+  ],
+  "quarter-end-figures": [
+    "2025/08/15/0740"
+  ],
+  "monthly-payer-drill-downs": [
+    "2025/08/15/0740"
+  ],
+  "clinic-lead-signoff": [
+    "2025/08/15/0740"
+  ],
+  "operational-authority": [
+    "2025/08/15/0740"
+  ],
+  "repeat-error-accountability": [
+    "2025/08/15/0740"
+  ],
+  "denial-pattern-evidenceemotional_tone: neutral": [
+    "2025/08/15/0740"
+  ],
+  "used-air-fryer": [
+    "2025/09/07/0615"
+  ],
+  "mikayla-hand-me-down": [
+    "2025/09/07/0615"
+  ],
+  "quick-dinner-routine": [
+    "2025/09/07/0615"
+  ],
+  "potatoes-and-burritos": [
+    "2025/09/07/0615"
+  ],
+  "evening-friction-reduction": [
+    "2025/09/07/0615"
+  ],
+  "home-routine-upgrade": [
+    "2025/09/07/0615"
+  ],
+  "freezer-backup-plan": [
+    "2025/09/07/0615"
+  ],
+  "index-card-meal-listemotional_tone: neutral": [
+    "2025/09/07/0615"
+  ],
+  "rushed-software-transition": [
+    "2025/10/22/0925"
+  ],
+  "payer-rule-testing-deferred": [
+    "2025/10/22/0925"
+  ],
+  "queue-mapping-risk": [
+    "2025/10/22/0925"
+  ],
+  "workload-scope-creep": [
+    "2025/10/22/0925"
+  ],
+  "claim-issue-log": [
+    "2025/10/22/0925"
+  ],
+  "vendor-risk-documentation": [
+    "2025/10/22/0925"
+  ],
+  "parallel-claim-checks-deniedemotional_tone: neutral": [
+    "2025/10/22/0925"
+  ],
+  "library-birthday": [
+    "2025/11/16/1040"
+  ],
+  "older-comedies": [
+    "2025/11/16/1040"
+  ],
+  "travis-thoughtfulness": [
+    "2025/11/16/1040"
+  ],
+  "movie-preference-shift": [
+    "2025/11/16/1040"
+  ],
+  "dry-workplace-comedy": [
+    "2025/11/16/1040"
+  ],
+  "at-home-movie-weekend": [
+    "2025/11/16/1040"
+  ],
+  "restore-vs-engage": [
+    "2025/11/16/1040"
+  ],
+  "budget-friendly-celebrationemotional_tone: neutral": [
+    "2025/11/16/1040"
+  ],
+  "software-go-live-failure": [
+    "2026/01/12/1105"
+  ],
+  "denial-setback": [
+    "2026/01/12/1105"
+  ],
+  "payer-table-mapping-errors": [
+    "2026/01/12/1105"
+  ],
+  "authorization-carryover-loss": [
+    "2026/01/12/1105"
+  ],
+  "vendor-remediation": [
+    "2026/01/12/1105"
+  ],
+  "rollback-threshold": [
+    "2026/01/12/1105"
+  ],
+  "evidence-packet-buildingemotional_tone: neutral": [
+    "2026/01/12/1105"
+  ],
+  "juno-ramp-installation": [
+    "2026/02/02/2315"
+  ],
+  "aging-dog-safety": [
+    "2026/02/02/2315"
+  ],
+  "fence-repair": [
+    "2026/02/02/2315"
+  ],
+  "winter-home-maintenance": [
+    "2026/02/02/2315"
+  ],
+  "stable-enough-threshold": [
+    "2026/02/02/2315"
+  ],
+  "good-enough-spring-list": [
+    "2026/02/02/2315"
+  ],
+  "pet-care-adaptationemotional_tone: neutral": [
+    "2026/02/02/2315"
+  ],
+  "shared-defect-log": [
+    "2026/03/18/0830"
+  ],
+  "vendor-accountability": [
+    "2026/03/18/0830"
+  ],
+  "weekly-issue-calls": [
+    "2026/03/18/0830"
+  ],
+  "pattern-based-evidence": [
+    "2026/03/18/0830"
+  ],
+  "claim-id-trail": [
+    "2026/03/18/0830"
+  ],
+  "intake-tab-separation": [
+    "2026/03/18/0830"
+  ],
+  "three-step-fix-datesemotional_tone: neutral": [
+    "2026/03/18/0830"
+  ],
+  "rural-hospital-memoir": [
+    "2026/04/24/0510"
+  ],
+  "reading-preference-shift": [
+    "2026/04/24/0510"
+  ],
+  "d-and-b-supply": [
+    "2026/04/24/0510"
+  ],
+  "nurse-administrator-book": [
+    "2026/04/24/0510"
+  ],
+  "practical-nonfiction": [
+    "2026/04/24/0510"
+  ],
+  "crime-novel-neglect": [
+    "2026/04/24/0510"
+  ],
+  "commitment-to-light-reading": [
+    "2026/04/24/0510"
+  ],
+  "hardware-store-recommendationemotional_tone: neutral": [
+    "2026/04/24/0510"
+  ],
+  "two-track-workstreams": [
+    "2026/05/27/1050"
+  ],
+  "vendor-fix-board": [
+    "2026/05/27/1050"
+  ],
+  "staff-retraining-board": [
+    "2026/05/27/1050"
+  ],
+  "software-defect-separation": [
+    "2026/05/27/1050"
+  ],
+  "front-end-habit-correction": [
+    "2026/05/27/1050"
+  ],
+  "pattern-based-accountability": [
+    "2026/05/27/1050"
+  ],
+  "blame-reduction": [
+    "2026/05/27/1050"
+  ],
+  "evidence-based-sortingemotional_tone: neutral": [
+    "2026/05/27/1050"
+  ],
+  "hypertension-medication": [
+    "2026/06/21/0800"
+  ],
+  "primary-care-follow-up": [
+    "2026/06/21/0800"
+  ],
+  "drive-through-dinner-cycle": [
+    "2026/06/21/0800"
+  ],
+  "desk-posture-problems": [
+    "2026/06/21/0800"
+  ],
+  "stretching-class-protection": [
+    "2026/06/21/0800"
+  ],
+  "sleep-boundary": [
+    "2026/06/21/0800"
+  ],
+  "neck-shoulder-tension": [
+    "2026/06/21/0800"
+  ],
+  "self-care-hierarchyemotional_tone: neutral": [
+    "2026/06/21/0800"
+  ],
+  "payment-lag-improvement": [
+    "2026/08/08/0235"
+  ],
+  "in-person-site-visits": [
+    "2026/08/08/0235"
+  ],
+  "printed-claim-examples": [
+    "2026/08/08/0235"
+  ],
+  "clinic-accountability": [
+    "2026/08/08/0235"
+  ],
+  "on-site-conversations": [
+    "2026/08/08/0235"
+  ],
+  "regression-habits": [
+    "2026/08/08/0235"
+  ],
+  "site-specific-trackingemotional_tone: neutral": [
+    "2026/08/08/0235"
+  ],
+  "dialysis-access-site-scare": [
+    "2026/09/14/1245"
+  ],
+  "brother-caregiving-rotation": [
+    "2026/09/14/1245"
+  ],
+  "shared-logistics": [
+    "2026/09/14/1245"
+  ],
+  "callback-owner-assignment": [
+    "2026/09/14/1245"
+  ],
+  "travis-household-relief": [
+    "2026/09/14/1245"
+  ],
+  "paper-calendar-system": [
+    "2026/09/14/1245"
+  ],
+  "proud-parent-conversation": [
+    "2026/09/14/1245"
+  ],
+  "one-page-checklistemotional_tone: neutral": [
+    "2026/09/14/1245"
+  ],
+  "denial-aging-dashboard": [
+    "2026/11/05/0955"
+  ],
+  "thirty-day-ownership-rule": [
+    "2026/11/05/0955"
+  ],
+  "friday-call-accountability": [
+    "2026/11/05/0955"
+  ],
+  "corrected-claim-tracking": [
+    "2026/11/05/0955"
+  ],
+  "overtime-flare-up-prevention": [
+    "2026/11/05/0955"
+  ],
+  "owner-payer-next-action": [
+    "2026/11/05/0955"
+  ],
+  "steering-over-scramblingemotional_tone: neutral": [
+    "2026/11/05/0955"
+  ],
+  "clinic-holiday-potluck": [
+    "2026/12/18/1130"
+  ],
+  "early-2000s-pop-country": [
+    "2026/12/18/1130"
+  ],
+  "commute-playlist-freshening": [
+    "2026/12/18/1130"
+  ],
+  "rascal-flatts-keith-urban": [
+    "2026/12/18/1130"
+  ],
+  "winter-commute-mood": [
+    "2026/12/18/1130"
+  ],
+  "small-surprise-joy": [
+    "2026/12/18/1130"
+  ],
+  "music-taste-expansion": [
+    "2026/12/18/1130"
+  ],
+  "gentler-evening-on-rampemotional_tone: neutral": [
+    "2026/12/18/1130"
+  ],
+  "payer-rule-change-detection": [
+    "2027/02/09/0820"
+  ],
+  "early-warning-system": [
+    "2027/02/09/0820"
+  ],
+  "authorization-documentation-update": [
+    "2027/02/09/0820"
+  ],
+  "denial-creep-pattern": [
+    "2027/02/09/0820"
+  ],
+  "quick-cheat-sheet-revision": [
+    "2027/02/09/0820"
+  ],
+  "system-maturity-milestone": [
+    "2027/02/09/0820"
+  ],
+  "contained-responseemotional_tone: neutral": [
+    "2027/02/09/0820"
+  ],
+  "coast-trip-sinking-fund": [
+    "2027/03/27/0405"
+  ],
+  "financial-breathing-room": [
+    "2027/03/27/0405"
+  ],
+  "travis-shared-planning": [
+    "2027/03/27/0405"
+  ],
+  "truck-paid-down": [
+    "2027/03/27/0405"
+  ],
+  "aspirational-budgeting": [
+    "2027/03/27/0405"
+  ],
+  "two-number-threshold": [
+    "2027/03/27/0405"
+  ],
+  "raid-rules": [
+    "2027/03/27/0405"
+  ],
+  "hopeful-budget-categoryemotional_tone: neutral": [
+    "2027/03/27/0405"
+  ],
+  "front-desk-onboarding-training": [
+    "2027/06/16/1000"
+  ],
+  "denial-prevention-upstream": [
+    "2027/06/16/1000"
+  ],
+  "sample-claims-and-screenshots": [
+    "2027/06/16/1000"
+  ],
+  "three-steadier-quarters": [
+    "2027/06/16/1000"
+  ],
+  "modular-training-packet": [
+    "2027/06/16/1000"
+  ],
+  "top-five-mistakes-sheet": [
+    "2027/06/16/1000"
+  ],
+  "observer-not-instructoremotional_tone: neutral": [
+    "2027/06/16/1000"
+  ],
+  "oregon-coast-trip": [
+    "2027/08/11/1310"
+  ],
+  "slow-travel-preference": [
+    "2027/08/11/1310"
+  ],
+  "caregiving-break-achieved": [
+    "2027/08/11/1310"
+  ],
+  "travis-quality-time": [
+    "2027/08/11/1310"
+  ],
+  "low-agenda-vacation": [
+    "2027/08/11/1310"
+  ],
+  "weather-as-feature": [
+    "2027/08/11/1310"
+  ],
+  "coast-style-travel": [
+    "2027/08/11/1310"
+  ],
+  "better-calibrationemotional_tone: neutral": [
+    "2027/08/11/1310"
+  ],
+  "board-recognition": [
+    "2027/10/24/0715"
+  ],
+  "payroll-nerves-cooled": [
+    "2027/10/24/0715"
+  ],
+  "turnaround-approach-presentation": [
+    "2027/10/24/0715"
+  ],
+  "dashboard-history-evidence": [
+    "2027/10/24/0715"
+  ],
+  "ladder-of-stages": [
+    "2027/10/24/0715"
+  ],
+  "proof-based-process-improvement": [
+    "2027/10/24/0715"
+  ],
+  "grounded-competenceemotional_tone: neutral": [
+    "2027/10/24/0715"
+  ],
+  "juno-euthanasia": [
+    "2028/01/13/0050"
+  ],
+  "pet-loss-grief": [
+    "2028/01/13/0050"
+  ],
+  "dogless-household": [
+    "2028/01/13/0050"
+  ],
+  "routine-disruption": [
+    "2028/01/13/0050"
+  ],
+  "evening-architecture": [
+    "2028/01/13/0050"
+  ],
+  "household-grief-shared": [
+    "2028/01/13/0050"
+  ],
+  "replacement-habit": [
+    "2028/01/13/0050"
+  ],
+  "muted-grief-fatigueemotional_tone: neutral": [
+    "2028/01/13/0050"
+  ],
+  "sustained-turnaround-evidence": [
+    "2028/04/09/0935"
+  ],
+  "three-straight-quarters": [
+    "2028/04/09/0935"
+  ],
+  "first-pass-denial-target": [
+    "2028/04/09/0935"
+  ],
+  "payment-lag-reduction": [
+    "2028/04/09/0935"
+  ],
+  "month-end-calm": [
+    "2028/04/09/0935"
+  ],
+  "board-finance-presentation": [
+    "2028/04/09/0935"
+  ],
+  "repeatable-operating-habits": [
+    "2028/04/09/0935"
+  ],
+  "stewardship-over-correctionemotional_tone: neutral": [
+    "2028/04/09/0935"
   ]
 }

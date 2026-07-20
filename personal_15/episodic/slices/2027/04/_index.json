@@ -3,21 +3,25 @@
   "slices": [
     {
       "id": "2027-04-12-0925",
-      "focus": "A lot has shifted lately, even though on the surface things look about the same.",
-      "summary": "Probably the savings part",
+      "focus": "Savings thin as sister's costs and Min-seo's pay cut stack up.",
+      "summary": "Jae-hyun's sister passes a civil service stage but needs interview clothes and transportation costs, coinciding with Min-seo's clinic reducing incentive pay. Jae-hyun covers more shared expenses while savings stay stubbornly thin. He plans a structured check-in with Min-seo using a three-category note (normal costs, temporary extra costs, family support) to distinguish temporary burdens from structural problems.",
       "tags": [
-        "work",
-        "family",
-        "finance",
-        "relationship",
-        "travel",
-        "education",
-        "housing",
-        "goals"
+        "sisters-interview-costs",
+        "min-seo-income-dip",
+        "shared-expense-shift",
+        "savings-stagnation",
+        "family-support-burden",
+        "household-budget-review",
+        "temporary-squeezeemotional_tone: neutral"
       ],
       "status": "closed",
       "start": "2027-04-12T09:25:00.000Z",
-      "open_loops": [],
+      "open_loops": [
+        "Sister's interview outcome",
+        "Min-seo's clinic pay stabilization",
+        "Defined end date for temporary expense shifts",
+        "Rebuilding savings buffer"
+      ],
       "decisions": [
         "Jae-hyun's savings stayed thin because higher housing costs were joined by helping his sister through the next civil-ser"
       ]

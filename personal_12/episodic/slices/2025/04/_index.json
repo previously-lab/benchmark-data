@@ -3,19 +3,25 @@
   "slices": [
     {
       "id": "2025-04-18-0950",
-      "focus": "A lot has been shifting lately, and work has finally crossed from cleanup mode i",
-      "summary": "Mostly from the culture of the place, honestly",
+      "focus": "Ariana replaces informal intake with a formal packet requiring signed permissions and minimum metadata",
+      "summary": "Ariana designs and enforces a formal intake packet with signed permissions, narrator contact sheets, and a minimum metadata checklist. She redefines 'processed' to exclude half-documented material and creates a holding log for incoming items.",
       "tags": [
-        "work",
-        "health",
-        "housing",
-        "leisure",
-        "goals",
-        "civic"
+        "permissions-overhaul",
+        "intake-reform",
+        "metadata-checklist",
+        "narrator-contact-sheet",
+        "workflow-standardization",
+        "felicia-mercer",
+        "archival-leadership",
+        "holding-logemotional_tone: neutral"
       ],
       "status": "closed",
       "start": "2025-04-18T09:50:00.000Z",
-      "open_loops": [],
+      "open_loops": [
+        "Finalizing the one-pager explaining what 'processed' now means",
+        "Building the holding log for incoming material awaiting completion",
+        "Training staff and the assistant on the new packet system"
+      ],
       "decisions": [
         "Ariana tightened Tremé Heritage Center's oral-history workflow by replacing the old casual intake habit with a formal pa"
       ]

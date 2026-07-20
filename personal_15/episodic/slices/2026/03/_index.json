@@ -3,17 +3,23 @@
   "slices": [
     {
       "id": "2026-03-28-1455",
-      "focus": "Things have been busy since we last talked, and I had one of those annoying mome",
-      "summary": "Mostly judgment calls that should not have been judgment calls anymore",
+      "focus": "Rollout reveals inconsistent habits; Jae-hyun creates training examples.",
+      "summary": "The handoff system rollout exposes that newer dispatchers interpret the same form fields differently. Jae-hyun spends two Sundays creating laminated sample sheets showing good and bad examples field by field, then adds a short shift-start briefing (5 min) highlighting likely handoff-heavy departures and timing standards. The fix shifts his role from system inventor to system teacher.",
       "tags": [
-        "work",
-        "education",
-        "housing",
-        "goals"
+        "turnover-sheet-inconsistency",
+        "laminated-examples",
+        "shift-start-briefing",
+        "training-standardization",
+        "knowledge-transfer",
+        "new-dispatcher-coachingemotional_tone: neutral"
       ],
       "status": "closed",
       "start": "2026-03-28T14:55:00.000Z",
-      "open_loops": [],
+      "open_loops": [
+        "Other dispatchers becoming able to teach the system",
+        "Protecting personal time from work spillover",
+        "Measuring whether training actually reduces rework"
+      ],
       "decisions": [
         "Jae-hyun is still dispatch manager, but after the company-wide rollout exposed inconsistent turnover-sheet habits among "
       ]

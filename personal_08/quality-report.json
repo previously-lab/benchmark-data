@@ -1,0 +1,218 @@
+{
+  "personaId": "personal_08",
+  "reviewedAt": "2026-07-20T23:59:00.000Z",
+  "model": "claude-haiku-4-5",
+  "overallNotes": "Jermaine Allen Booker (born 1987-11-14) is a 37-year-old ESTJ safety trainer at Feeders Supply Company's Louisville distribution center, separated father of two school-age children, living in a Shepherdsville townhouse. His three-year arc (2025-2028) moves from newly promoted safety trainer to the architect of the site's standard safety playbook. Major threads: (1) career — from launching a one-lane pilot to supervisor scorecards to peer coaches to site-wide playbook adoption after two clean peak seasons; (2) co-parenting — from hostile text fights to a shared co-parenting app to a 'tense but workable' dynamic; (3) health — chronic right knee injury, stress-eating and weight gain, followed by PT adherence and modest improvement; (4) housing — from a bare 'crash pad' townhouse to a settled home with a homework desk and grilling routine; (5) finances — tight cash flow, custody expenses, legal debt, eventually paying down debt and starting a trip savings bucket. Dominant personality traits: practical, evidence-driven, routine-dependent, quietly stubborn, protective of his people, conflict-weary. Key supporting characters: Danielle Renee Booker (estranged spouse), Kayla Denise Booker (older sister, blunt practical help), Sharon Elise Pruitt (EHS mentor/ally), Ramon Luis Ortega (skeptical dock supervisor), Darius Wayne Henson (close friend, honest feedback), Marcus Lee Benton (coworker, open gym connection). DATA QUALITY ISSUES: Every focus field is truncated mid-sentence (mostly 'A lot has shifted lately…' style openings). Many summaries are quote fragments rather than actual summaries. Tags are consistently too broad (work, family, housing) across all slices, missing specific searchable keywords. The emotional_tone field defaults to 'neutral' on every slice regardless of actual valence. The decisions field sometimes contains content errors (e.g., 2025-02-08 decisions mention Ramon when the correct person is Kayla). Some decisions are truncated mid-sentence. Strands.json is well-structured with 9 categories but tags would benefit from the granularity in this enrichment.",
+  "issues": [
+    {
+      "sliceId": "2025-01-09-1130",
+      "focus_accurate": false,
+      "summary_accurate": false,
+      "tags_relevant": false,
+      "notes": "Focus truncated — reads 'I appreciate that you are taking the time' which is a user quote, not a summary. Summary is only the name declaration. Tags are 8 generic categories with no specificity. This is the foundational slice establishing all key persona details."
+    },
+    {
+      "sliceId": "2025-01-20-2210",
+      "focus_accurate": false,
+      "summary_accurate": false,
+      "tags_relevant": false,
+      "notes": "Focus truncated mid-sentence. Summary is a quote fragment 'Yeah, that is exactly it.' Decision field truncated mid-sentence. Tags miss the critical strategy details: huddle design, Ramon management, Sharon backing."
+    },
+    {
+      "sliceId": "2025-02-08-1240",
+      "focus_accurate": false,
+      "summary_accurate": false,
+      "tags_relevant": false,
+      "notes": "Focus truncated. Summary is a quote fragment from Turn 3. Decision field erroneously says 'Ramon … encouraged you to get certified' — this is a factual error; Ramon is the skeptical supervisor, not the encourager (Sharon was). Tags miss Kayla, home warmth, and kid-specific dynamics."
+    },
+    {
+      "sliceId": "2025-03-03-0620",
+      "focus_accurate": false,
+      "summary_accurate": false,
+      "tags_relevant": false,
+      "notes": "Focus truncated mid-sentence. Summary truncated mid-sentence ('Yeah, and I built it around the spots that keep showing up instead of making it some generic complia…'). Tags too generic for a major milestone — the pilot launch is a key turning point."
+    },
+    {
+      "sliceId": "2025-03-26-1015",
+      "focus_accurate": false,
+      "summary_accurate": false,
+      "tags_relevant": false,
+      "notes": "Focus truncated mid-sentence. Summary is a quote fragment. Tags too broad (work, family, health, finance, etc.) — misses the specific financial restructuring and conflict-reduction intent."
+    },
+    {
+      "sliceId": "2025-04-16-2155",
+      "focus_accurate": false,
+      "summary_accurate": false,
+      "tags_relevant": false,
+      "notes": "Focus truncated mid-sentence. Summary truncated mid-sentence ('The part that mattered most was getting permission to post color-coded repeat-incident boards by dep…'). Tags too generic; miss the expansion pilot-to-system milestone."
+    },
+    {
+      "sliceId": "2025-05-05-1310",
+      "focus_accurate": false,
+      "summary_accurate": false,
+      "tags_relevant": false,
+      "notes": "Focus truncated mid-sentence. Summary is a quote fragment. Tags too broad; miss the urgent care visit, PT, weight gain, and accountability specifics."
+    },
+    {
+      "sliceId": "2025-06-11-0740",
+      "focus_accurate": false,
+      "summary_accurate": false,
+      "tags_relevant": false,
+      "notes": "Focus truncated mid-sentence. Summary is a throwaway agreement phrase ('Yeah, that's exactly it'). Tags too generic; miss the assignment-based, micro-session, and Ramon engagement angles."
+    },
+    {
+      "sliceId": "2025-07-01-1120",
+      "focus_accurate": false,
+      "summary_accurate": false,
+      "tags_relevant": false,
+      "notes": "Focus truncated. Summary is a quote about burgers and hot dogs, not a summary of the slice. Tags are some of the better ones across this dataset but still miss the neighbor and budget specifics."
+    },
+    {
+      "sliceId": "2025-08-21-2225",
+      "focus_accurate": false,
+      "summary_accurate": false,
+      "tags_relevant": false,
+      "notes": "Focus truncated mid-sentence. Summary is a quote fragment ('They gave me a stripped-down version'). Tags too broad; miss the specific setback of partial approval and the operations warning."
+    },
+    {
+      "sliceId": "2025-09-14-0805",
+      "focus_accurate": false,
+      "summary_accurate": false,
+      "tags_relevant": false,
+      "notes": "Focus truncated mid-sentence. Summary is a quote fragment ('Yeah, ceasefire is the right word'). Tags miss the shared-app, coffee shop meeting, and expense tracking specifics."
+    },
+    {
+      "sliceId": "2025-11-17-2305",
+      "focus_accurate": false,
+      "summary_accurate": false,
+      "tags_relevant": false,
+      "notes": "Focus truncated mid-sentence. Summary is a quote fragment ('Mostly the second thing'). This is a critical crisis point in the arc — needs accurate metadata capturing the severity. Tags are some of the better ones but miss the specific failure pattern."
+    },
+    {
+      "sliceId": "2025-12-09-1215",
+      "focus_accurate": false,
+      "summary_accurate": false,
+      "tags_relevant": false,
+      "notes": "Focus truncated. Summary is a long quote fragment. Tags in original only had 2 tags (work, housing) despite rich content about reading habit, friendship, and stress management."
+    },
+    {
+      "sliceId": "2026-01-13-0530",
+      "focus_accurate": false,
+      "summary_accurate": false,
+      "tags_relevant": false,
+      "notes": "Focus truncated mid-sentence. Summary is a specific detail (named-trainer piece) rather than a holistic summary. Tags too generic; miss the reset plan, photo audits, and board discussion specifics."
+    },
+    {
+      "sliceId": "2026-02-24-1050",
+      "focus_accurate": false,
+      "summary_accurate": false,
+      "tags_relevant": false,
+      "notes": "Focus truncated mid-sentence. Summary is a quote fragment ('Honestly, it was the kids more than me'). Tags miss the lease renewal, Kayla's help, and the specific furniture upgrades."
+    },
+    {
+      "sliceId": "2026-04-05-2245",
+      "focus_accurate": false,
+      "summary_accurate": false,
+      "tags_relevant": false,
+      "notes": "Focus truncated mid-sentence. Summary is about painting lines — misses the broader role expansion from training to operational design. Only 2 tags in original despite being a major career milestone."
+    },
+    {
+      "sliceId": "2026-05-29-1325",
+      "focus_accurate": false,
+      "summary_accurate": false,
+      "tags_relevant": false,
+      "notes": "Focus truncated mid-sentence. Summary is a quote fragment ('It was low pressure, that is the main thing'). Tags miss Marcus, open gym, and community volunteering specifics."
+    },
+    {
+      "sliceId": "2026-07-12-0610",
+      "focus_accurate": false,
+      "summary_accurate": false,
+      "tags_relevant": false,
+      "notes": "Focus truncated mid-sentence. Summary is a throwaway quote fragment ('Yeah, that is exactly it'). Tags miss the scorecard, metrics, and accountability shift."
+    },
+    {
+      "sliceId": "2026-08-18-0955",
+      "focus_accurate": false,
+      "summary_accurate": false,
+      "tags_relevant": false,
+      "notes": "Focus truncated mid-sentence. Summary is a partial phrase. Tags miss the daughter's role as accountability trigger and the specific PT adherence."
+    },
+    {
+      "sliceId": "2026-10-02-2150",
+      "focus_accurate": false,
+      "summary_accurate": false,
+      "tags_relevant": false,
+      "notes": "Focus truncated mid-sentence. Summary is a quote about trailer entry, not a holistic summary. Tags too generic; miss the protected training block and failure-point redesign."
+    },
+    {
+      "sliceId": "2026-11-21-0735",
+      "focus_accurate": false,
+      "summary_accurate": false,
+      "tags_relevant": false,
+      "notes": "Focus truncated mid-sentence. Summary is a quote fragment ('Yeah, that is exactly it, it was not some planned switch'). Tags miss the son's specific role and the local sports radio details."
+    },
+    {
+      "sliceId": "2027-01-09-0115",
+      "focus_accurate": false,
+      "summary_accurate": false,
+      "tags_relevant": false,
+      "notes": "Focus truncated mid-sentence. Summary is a quote fragment ('Honestly, quieter than I expected'). This is a major career milestone with the cross-shift review launch — needs precise metadata."
+    },
+    {
+      "sliceId": "2027-02-26-1205",
+      "focus_accurate": false,
+      "summary_accurate": false,
+      "tags_relevant": false,
+      "notes": "Focus truncated mid-sentence. Summary is a quote fragment. Tags somewhat better here with relationship included but miss the specific milestone of a first conflict-free school meeting."
+    },
+    {
+      "sliceId": "2027-05-14-0340",
+      "focus_accurate": false,
+      "summary_accurate": false,
+      "tags_relevant": false,
+      "notes": "Focus truncated mid-sentence. Summary is a quote fragment. Only 3 tags in original for a significant program expansion into replenishment area."
+    },
+    {
+      "sliceId": "2027-06-30-1030",
+      "focus_accurate": false,
+      "summary_accurate": false,
+      "tags_relevant": false,
+      "notes": "Focus truncated mid-sentence. Summary is a quote fragment. Tags miss the Lake Cumberland, open gym parent connection, and budget specifics."
+    },
+    {
+      "sliceId": "2027-09-06-2320",
+      "focus_accurate": false,
+      "summary_accurate": false,
+      "tags_relevant": false,
+      "notes": "Focus truncated mid-sentence. Summary is a quote fragment ('They listened more seriously than I expected, honestly'). Tags miss the peer coach specifics, veteran selection criteria, and clean-board leverage."
+    },
+    {
+      "sliceId": "2027-11-12-1345",
+      "focus_accurate": false,
+      "summary_accurate": false,
+      "tags_relevant": false,
+      "notes": "Focus truncated mid-sentence. Summary is a quote fragment ('A couple things lined up'). Tags miss the tax refund, legal debt, and trip bucket specifics."
+    },
+    {
+      "sliceId": "2028-01-16-0000",
+      "focus_accurate": false,
+      "summary_accurate": false,
+      "tags_relevant": false,
+      "notes": "Focus truncated mid-sentence. Summary is a quote about documentation request. This is the single biggest career milestone in the entire dataset — needs the most precise metadata. Tags too generic."
+    },
+    {
+      "sliceId": "2028-04-10-1110",
+      "focus_accurate": false,
+      "summary_accurate": false,
+      "tags_relevant": false,
+      "notes": "Focus truncated mid-sentence. Summary is a quote fragment ('Yeah, grounded is what I was trying for'). Tags miss the beagle, daughter advocacy, and checklist specifics."
+    },
+    {
+      "sliceId": "2028-08-23-0900",
+      "focus_accurate": false,
+      "summary_accurate": false,
+      "tags_relevant": false,
+      "notes": "Focus truncated mid-sentence. Summary is a quote fragment ('The replaying has backed off the most'). This is the final slice of the arc, showing mental health recovery. Tags miss the nervous system recovery and hypervigilance reduction themes."
+    }
+  ]
+}

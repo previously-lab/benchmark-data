@@ -1,0 +1,128 @@
+{
+  "personaId": "personal_18",
+  "reviewedAt": "2026-07-20T00:00:00.000Z",
+  "model": "claude-haiku-4-5",
+  "overallNotes": "Jordan Elise Petrov is a 34-year-old ISTJ operations professional in Portland, Oregon, working at Alder Street Roasting — a mid-sized specialty coffee roastery. The 30-slice arc (Jan 2025 – Dec 2028) traces her evolution from an anxious overpreparer coordinating operations in chaos into a formally recognized Operations Manager whose planning discipline, inventory controls, and service reporting measurably stabilized wholesale production. The narrative is deeply coherent: her ISTJ traits (structure-seeking, conflict-averse but principled, stubbornly persistent) drive both her work successes and her recurring challenges — boundary erosion with family (cousin Rafael in recovery), difficulty delegating, anxiety manifesting as catastrophic rehearsal, and a tendency to absorb organizational friction personally. Key turning points include: (1) the hotel promo short-ship in Jan 2025 that gave her formal planning authority; (2) the inventory hand-counting phase that expanded her role into purchasing-planning intersection; (3) the June 2025 conversation with partner Mei-Lin that forced family-boundary renegotiation; (4) the Oct 2025 holiday simulation that revealed packaging as the true bottleneck; (5) the Sept 2026 promotion to Operations Manager; (6) starting therapy in Oct 2026 for catastrophic thinking loops; (7) the Aug 2027 late-summer breakdown where exception pressure overwhelmed the system; (8) the Nov 2027 redesign that locked in earlier booking deadlines, rush signoff rules, and backup packaging; and (9) the Dec 2028 cleanest peak season that proved the system's reliability. Her emotional landscape shifts from anxious vigilance to cautious confidence, with steady gains in self-awareness, boundary-setting (relationship, family, work), and willingness to build systems that reduce dependency on her own heroic intervention. Her partner Mei-Lin transitions from quietly absorbing disruption to actively confronting work-life imbalance. Her relationship with Luis remains a source of blunt outside perspective. Her friendship with neighbor Inez (puzzle nights) and the evening walk ritual represent small but meaningful expansions of non-work identity. Her long-term goal — Roastery Operations Maturity — remains the organizing ambition throughout, and by the final slice she has demonstrably moved toward it.",
+  "issues": [
+    {
+      "sliceId": "2025-01-06-1130",
+      "notes": "Rich, structurally complete introduction with strong personality coherence. Every life domain is covered. Could benefit from sharper arc hook — the slice is great exposition but lacks a precipitating event or tension to pull forward."
+    },
+    {
+      "sliceId": "2025-01-28-0840",
+      "notes": "Excellent turning-point slice. The tension between validation ('I was right about structure') and burden ('I got handed a mop after the flood') is visceral and well-rendered. Strong operational detail — the freeze meeting, capacity sheet, exception path — grounds the abstract authority shift in concrete practice."
+    },
+    {
+      "sliceId": "2025-02-17-1215",
+      "notes": "Charming, low-stakes slice that does significant character work. The 'ugly clipboard' metaphor elegantly captures Jordan's operational identity. The reading-preference shift is a believable expression of her growing self-awareness. Luis provides useful offstage presence. Slightly less dramatic tension than surrounding slices but earns its place as emotional palate cleanser."
+    },
+    {
+      "sliceId": "2025-03-11-0105",
+      "notes": "Strong slice showing Jordan's signature move: turning felt chaos into countable reality. The 'ugly but working' aesthetic (tape and markers, color-coded reorder points) is well-rendered. The alliance with Tanya is crucial to credibility. Good tension between pride in the system and awareness of its fragility."
+    },
+    {
+      "sliceId": "2025-04-02-1310",
+      "notes": "Important health pivot rendered without melodrama. The 'body math' framing and 'shaky goblin' self-deprecation are tonally consistent with Jordan's character. The two-rule approach (no casual coffee after noon, act on day two of compressed days) is pragmatic and fits her operational mindset. Missing slightly on the intersection with work culture (coffee occupational grazing) which could be deeper."
+    },
+    {
+      "sliceId": "2025-05-09-0720",
+      "notes": "Excellent representation of Jordan's operational philosophy made manifest. The 'civil war with dry erase markers' captures the tension perfectly. The distinction between compliance and buy-in is mature. The photo archive + one-line caption system is a character-consistent idea. Slightly thin on the home-front integration — the board days clearly take a toll but the decompression ritual is only gestured at."
+    },
+    {
+      "sliceId": "2025-06-01-1030",
+      "notes": "Emotionally rich slice with high relational stakes. The parallel between Jordan's need for structure at work and at home is well-drawn ('same thing — I do better with actual rules instead of pure improvising'). The 'layers' framework (safety/urgent vs next-day logistics vs emotional support) is a practical breakthrough. The sequencing (talk to Mei-Lin first, then Rafael) shows growing strategic maturity. Strong."
+    },
+    {
+      "sliceId": "2025-07-15-2350",
+      "notes": "Critical structural advancement: Jordan moves from visibility to enforceability. The cutoff-vs-scorecard distinction (gate vs reinforcement) is analytically sharp. The discovery that the grocery account wanted consistency more than heroics is a satisfying narrative payoff. The reference back to the family boundary work shows growing integration across life domains."
+    },
+    {
+      "sliceId": "2025-08-24-0605",
+      "notes": "A lovely low-stakes slice that does significant character work through small details. 'Receive instead of curate' is a profound insight for someone whose default mode is optimization. The transistor radio as a foil to phone-based vigilance is well-drawn. The slice earns its place by showing Jordan's nervous system getting genuine relief, not just management."
+    },
+    {
+      "sliceId": "2025-10-07-0010",
+      "notes": "Strong analytical slice. The packaging-bottleneck reveal is the kind of operational insight that Jordan's whole career arc has been building toward. The 'ugly board photos as evidence' and 'cleaner template as tool' two-track strategy is pragmatic and character-consistent. The pre-commitment language marks a genuine authority expansion. Solid."
+    },
+    {
+      "sliceId": "2025-11-23-1140",
+      "notes": "Emotionally complex slice where Jordan holds genuine care and legitimate resentment simultaneously. 'Rescue gravity' is a precise and memorable coinage. The distinction between 'disliking the consequence' and 'deciding the choice was wrong' is mature. The six-week reset with a specific target rather than vague austerity is character-consistent. The partner transparency thread is well-handled."
+    },
+    {
+      "sliceId": "2025-12-18-2255",
+      "notes": "Crucial evaluation slice. Jordan's ability to hold two truths ('the system improved outcomes' and 'I am still the live fuse box') is a sign of real operational maturity. The 'chain of cause' framing (earlier limits → packaging readiness → shipment performance) versus presenting only the final score is strategically wise. The January proof window framing provides clear forward direction."
+    },
+    {
+      "sliceId": "2026-01-30-0325",
+      "notes": "Deceptively important slice. The rice cooker is not just a meal-prep tool but a lens into Jordan's stress architecture. The 'backbone first, decoration second' principle generalizes beyond lunch. Luis's presence at the warehouse sale adds texture to that friendship — they can do low-stakes errands together, not just crisis processing. The decision fatigue insight connects to her broader arc."
+    },
+    {
+      "sliceId": "2026-03-04-0210",
+      "notes": "Major role evolution slice. The Monday huddle represents the institutionalization of everything Jordan has been building. The 'anti-fantasy' framing is pitch-perfect. The distinction between material vs genuinely small exceptions shows operational judgment. The redirect script ('bring this to Monday') is a practical tool. The 'weeks not months' timing for role conversations is astute."
+    },
+    {
+      "sliceId": "2026-04-22-1335",
+      "notes": "Anchoring life-event slice with strong emotional resonance. The 'actual quiet felt suspicious' line captures years of nervous-system bracing. The dining table as symbol of intentional shared life rather than improvised staging area is well-drawn. The move as a decision Jordan and Mei-Lin made together for their quality of life, not just logistics, is a meaningful relationship marker."
+    },
+    {
+      "sliceId": "2026-06-13-0020",
+      "notes": "Important capability-expansion slice. The forecast shifts Jordan from coordinating present-week chaos to providing forward visibility — a genuine jump in organizational leverage. The detail that Glen went quiet and started asking about lead time rather than arguing is a powerful proof point. The 'two layers' (maintenance vs decisions) architecture is smart. The invisible-Saturday-labor tension is honest and unresolved."
+    },
+    {
+      "sliceId": "2026-07-19-1115",
+      "notes": "Delightful slice that reveals a Jordan who can exist outside work and performance. The 'useful vs responsible' distinction is psychologically astute. Inez as a warm, low-demand presence is a good foil to Luis's bluntness. The puzzle as an activity that cannot be optimized is a perfect match for Jordan's recovery needs. 'Keep it small on purpose' is a wise approach."
+    },
+    {
+      "sliceId": "2026-09-08-0645",
+      "notes": "Milestone slice that earns its significance through four years of ground-level work. The title formalization vs actual change tension is well-rendered. The strategic advice (scorecard first, then routing change) shows mature sequencing. The 'stronger tool, not a solved problem' framing regarding Glen is appropriately unsentimental. The delayed emotional reaction — tiredness, quietness — feels psychologically real."
+    },
+    {
+      "sliceId": "2026-10-28-1400",
+      "notes": "Brave and psychologically nuanced slice. The insight that calmer external conditions didn't resolve internal vigilance is crucial — it reveals anxiety as a learned habit, not just a response to environment. 'Unavailable to unnecessary monitoring' is a powerful reframe. The therapist's approach (pattern-focused, not crisis-oriented) is a good fit for Jordan's temperament. The distinction between 'good planning' and 'catastrophic rehearsal' is sharp and useful."
+    },
+    {
+      "sliceId": "2026-12-15-2310",
+      "notes": "Strong execution slice. The 'minimum operating bundle' framing is politically astute — linking the three rules as an interdependent system rather than presenting them as separate demands. The emphasis on written (not verbal) cutoffs as the difference between a mood and a boundary is sharp. The January-proof-period framing provides clear accountability. The ability to hold proof-of-concept without claiming full maturity is disciplined."
+    },
+    {
+      "sliceId": "2027-01-29-0950",
+      "notes": "Charming and psychologically astute slice. The 'some movies are for engagement, some are for repair' framing is genuinely insightful. Jordan's recognition that prestigious content asks her to 'rise to meet it' while recovery content carries her along is a mature piece of self-knowledge. Mei-Lin's smugness about being right is earned and sweet. The program as souvenir of a restorative night is a lovely detail."
+    },
+    {
+      "sliceId": "2027-03-20-0140",
+      "notes": "Significant institutionalization slice. The monthly service packet represents the culmination of Jordan's evidence-based approach — moving from making the case in crises to providing standing infrastructure for organizational self-awareness. The four-metric mix (prevention + damage) is well-chosen. The 'founder-memory management' critique is both specific and non-personal. The boring-but-consistent release rhythm is a mature understanding of how culture changes."
+    },
+    {
+      "sliceId": "2027-05-12-1020",
+      "notes": "Excellent therapy-integration slice. The 'different doorway out of the day' framing from Inez is a gift of a line. Jordan's recognition that 'basic can be corrective' when her stress style is to build mental control towers is psychologically insightful. The fallback design (five-minute version) shows mature habit architecture. 'Does not flatter your over-functioning side' is a sharp self-diagnosis."
+    },
+    {
+      "sliceId": "2027-08-30-2235",
+      "notes": "Emotionally and operationally intense slice. The devastation is earned — Jordan's system worked in the reports but failed in practice, which is a harder defeat than mere chaos. 'Pointed fury vs blurred fury' is a useful emotional taxonomy. The redesign framing (failure, amplifier, non-optional rule, signoff) is appropriately specific. The therapy reference as preventing full derailment shows growth. The 'default outcome: no signoff means no promise' is the right structural answer."
+    },
+    {
+      "sliceId": "2027-10-06-1205",
+      "notes": "Emotionally direct slice with high stakes. Mei-Lin's evolution from silent absorber to active confrontational partner is well-earned across the arc. Jordan's recognition that she treats her partner's time as 'overflow space' is painfully accurate. The one-sacred-one-flexible night design is a pragmatic compromise. The 'shower and phone down' transition ritual is appropriately simple. The trip-booking logic (book now before stability becomes a moving target) is mature."
+    },
+    {
+      "sliceId": "2027-11-14-0055",
+      "notes": "Redemption-through-redesign slice. The use of the own variance packet as leverage is a powerful inversion — the evidence of failure becomes the basis for structural reform. The three changes (deadlines, signoff, backup area) are specific and targeted. The near-quitting admission adds emotional weight. 'Prepared leverage, not luck' is an accurate self-assessment. The distinction between rigid process and rigid personality is operationally mature."
+    },
+    {
+      "sliceId": "2028-01-08-0800",
+      "notes": "Structural financial maturity slice. The automatic transfer is Jordan's operational approach applied to personal finance — system beats willpower. The 'two villains' framing (work chaos, family uncertainty) is honest and non-moralizing. The six-month consistency target rather than a dollar amount is psychologically wise. The 'shock absorption, not proof of worth' reframe is healthy. The boring account name is a small but telling detail."
+    },
+    {
+      "sliceId": "2028-03-18-0230",
+      "notes": "Deep institutionalization slice. The bag-change instructions as the hardest piece is a great operational detail — verbal workarounds carry enormous hidden judgment. The 'stop points' in documentation show mature understanding of procedure design (when to escalate, not just how to proceed). The morning Jordan didn't get pulled in is a powerful proof point. The shift from rescue value to system value is the arc's culmination."
+    },
+    {
+      "sliceId": "2028-06-22-1110",
+      "notes": "Gently restorative slice that shows how far Jordan's life has come. The older-cat preference (steady, low-drama, already fully a person) is a perfect metaphor for what Jordan wants in her life now — and the self-awareness of that parallel is present without being overstatement. The four-section spreadsheet approach is perfectly on-brand. The pre-cancel test with Mei-Lin is practical relationship infrastructure. Mei-Lin's firmness about the trip is loving."
+    },
+    {
+      "sliceId": "2028-12-19-2325",
+      "notes": "Powerful culmination slice. The arc from 'waiting to be interrupted' to 'making plans' is the entire narrative journey in microcosm. Mei-Lin noticing the difference before Jordan did is a lovely relational detail. The 'not depending on my body being there to translate everything' is the clear statement of what four years of work has been building toward. The 'threshold moment' framing is earned. The boring recap strategy is character-consistent and wise."
+    }
+  ]
+}

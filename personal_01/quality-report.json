@@ -1,0 +1,218 @@
+{
+  "personaId": "personal_01",
+  "reviewedAt": "2026-07-20T12:00:00.000Z",
+  "model": "claude-haiku-4-5",
+  "overallNotes": "Marisa Cardenas (personal_01) is a richly detailed persona spanning nearly 4 years (Jan 2025 - Oct 2028) of a 38-year-old Pierce County habitat field supervisor in Tacoma, WA. Her arc traces the transformation of a single oyster-habitat pilot into a recurring county restoration program with 5 active shoreline sites. The narrative has strong continuity across work, health, family, and personal life. Key patterns: (1) Professional growth from field supervisor to public-facing program lead — setbacks (state review rejection, storm damage, shoulder injury) are met with structured problem-solving rather than defeat. (2) Chronic shoulder strain and winter depression are managed with increasing self-awareness — initial bracing gives way to consistent maintenance routines. (3) Co-parenting with Daniel evolves from ad-hoc conflict to shared spreadsheets, monthly planning calls, and a custody app — Evan becomes more assertive about boundaries. (4) Key supporting figures are well-defined: Gordon (mentor→retired sounding board), Talia (wetland biologist/technical ally), Nina (practical friend→lecture companion), Rosa (sister/emergency support). (5) Personal interests layer naturally onto existing patterns — maritime history reading leads to waterfront lectures, lunch walks lead to shorebird logging, soccer tournaments lead to food truck exploration and a 90s movie ritual. CRITICAL ISSUE with current metadata: ALL 30 slices have emotional_tone:'neutral' which is clearly incorrect — emotional tones vary widely (positive for personal discoveries, negative for setbacks, mixed for most work milestones). Tags are identical generic categories (work/family/health/finance/etc.) applied indiscriminately — these derive from regex extraction and provide zero retrieval value. Nearly all summary fields are literal quotes from the user's first turn rather than genuine summaries of the conversation content. The decisions field is generally well-maintained and captures key outcomes accurately.",
+  "issues": [
+    {
+      "sliceId": "2025-01-09-0030",
+      "focus_accurate": true,
+      "summary_accurate": false,
+      "tags_relevant": false,
+      "notes": "Summary is just the user's name declaration, not a summary of the conversation. Tags are generic categories that don't describe this specific onboarding conversation."
+    },
+    {
+      "sliceId": "2025-01-22-0840",
+      "focus_accurate": true,
+      "summary_accurate": false,
+      "tags_relevant": false,
+      "notes": "Summary is a quote from the user, not a summary. Tags are generic. Emotional tone should be mixed (satisfied but anxious)."
+    },
+    {
+      "sliceId": "2025-02-11-1115",
+      "focus_accurate": true,
+      "summary_accurate": false,
+      "tags_relevant": false,
+      "notes": "Summary is a quote tag from the user. Emotional tone should be positive (warm, grateful) not neutral. Tags are too generic."
+    },
+    {
+      "sliceId": "2025-03-06-0220",
+      "focus_accurate": true,
+      "summary_accurate": true,
+      "tags_relevant": false,
+      "notes": "Summary captures the key issues. Tags are overly generic and don't reflect the specific setback."
+    },
+    {
+      "sliceId": "2025-03-24-1300",
+      "focus_accurate": true,
+      "summary_accurate": false,
+      "tags_relevant": false,
+      "notes": "Summary is a quote. Emotional tone should be mixed (relieved but wary). Tags are generic when they should reflect the specific co-parenting restructuring."
+    },
+    {
+      "sliceId": "2025-04-17-0605",
+      "focus_accurate": true,
+      "summary_accurate": false,
+      "tags_relevant": false,
+      "notes": "Summary is a quote. Tags are generic and miss the redesign specifics."
+    },
+    {
+      "sliceId": "2025-05-09-1025",
+      "focus_accurate": true,
+      "summary_accurate": false,
+      "tags_relevant": false,
+      "notes": "Summary is a quote. Emotional tone should be positive and lighthearted. Tags miss the music discovery angle entirely."
+    },
+    {
+      "sliceId": "2025-06-03-0110",
+      "focus_accurate": true,
+      "summary_accurate": false,
+      "tags_relevant": false,
+      "notes": "Summary is a quote. Emotional tone should be mixed (proud but exposed). Tags are generic."
+    },
+    {
+      "sliceId": "2025-06-28-0530",
+      "focus_accurate": true,
+      "summary_accurate": false,
+      "tags_relevant": false,
+      "notes": "Summary is a long quote from the user. Emotional tone should be negative (frustrated/humbled). Tags miss the specific injury context."
+    },
+    {
+      "sliceId": "2025-08-19-0345",
+      "focus_accurate": true,
+      "summary_accurate": false,
+      "tags_relevant": false,
+      "notes": "Summary is a quote. Emotional tone should be mixed (nervous but determined). Tags miss the specific grant submission context."
+    },
+    {
+      "sliceId": "2025-09-14-0950",
+      "focus_accurate": true,
+      "summary_accurate": false,
+      "tags_relevant": false,
+      "notes": "Summary is a long quote. Emotional tone should be positive (delighted, amused). Tags miss the specific food truck discovery context."
+    },
+    {
+      "sliceId": "2025-11-20-2320",
+      "focus_accurate": true,
+      "summary_accurate": false,
+      "tags_relevant": false,
+      "notes": "Summary is a quote. Emotional tone should be negative (frustrated/exposed). Tags miss the specific storm damage context."
+    },
+    {
+      "sliceId": "2025-12-08-1210",
+      "focus_accurate": true,
+      "summary_accurate": false,
+      "tags_relevant": false,
+      "notes": "Summary is a quote. Tags are generic and miss the specific health management context."
+    },
+    {
+      "sliceId": "2026-01-27-0735",
+      "focus_accurate": true,
+      "summary_accurate": false,
+      "tags_relevant": false,
+      "notes": "Summary is a quote. Emotional tone should be mixed (proud/overwhelmed). Tags miss the specific leadership transition."
+    },
+    {
+      "sliceId": "2026-02-16-1040",
+      "focus_accurate": true,
+      "summary_accurate": false,
+      "tags_relevant": false,
+      "notes": "Summary is a quote. Emotional tone should be positive (content, grounded). Tags miss the birding hobby entirely."
+    },
+    {
+      "sliceId": "2026-03-18-0255",
+      "focus_accurate": true,
+      "summary_accurate": false,
+      "tags_relevant": false,
+      "notes": "Summary is a quote. Emotional tone should be mixed (relieved/annoyed). Tags miss the specific grant outcome."
+    },
+    {
+      "sliceId": "2026-04-23-1205",
+      "focus_accurate": true,
+      "summary_accurate": false,
+      "tags_relevant": false,
+      "notes": "Summary is a quote. Emotional tone should be mixed (stressed/relieved). Tags miss the specific housing disruption."
+    },
+    {
+      "sliceId": "2026-06-02-0125",
+      "focus_accurate": true,
+      "summary_accurate": false,
+      "tags_relevant": false,
+      "notes": "Summary is a quote. Emotional tone should be mixed (relieved/cautiously proud). Tags are too generic."
+    },
+    {
+      "sliceId": "2026-07-11-0815",
+      "focus_accurate": true,
+      "summary_accurate": false,
+      "tags_relevant": false,
+      "notes": "Summary is a long quote about Crimson Tide. Emotional tone should be positive (warm, amused). Tags miss the specific movie ritual context."
+    },
+    {
+      "sliceId": "2026-09-08-0510",
+      "focus_accurate": true,
+      "summary_accurate": false,
+      "tags_relevant": false,
+      "notes": "Summary is a quote. Tags miss the specific leadership presentation context."
+    },
+    {
+      "sliceId": "2026-10-20-1320",
+      "focus_accurate": true,
+      "summary_accurate": false,
+      "tags_relevant": false,
+      "notes": "Summary is a quote. Emotional tone should be mixed (relieved/annoyed). Tags miss the specific financial restructuring context."
+    },
+    {
+      "sliceId": "2027-01-12-0050",
+      "focus_accurate": true,
+      "summary_accurate": false,
+      "tags_relevant": false,
+      "notes": "Summary is a quote. Emotional tone should be positive (relieved, proud). Tags miss the multi-year milestone."
+    },
+    {
+      "sliceId": "2027-02-26-1100",
+      "focus_accurate": true,
+      "summary_accurate": false,
+      "tags_relevant": false,
+      "notes": "Summary is a long quote about the first lecture. Emotional tone should be positive (content, grounded). Tags miss the specific lecture series."
+    },
+    {
+      "sliceId": "2027-05-17-0405",
+      "focus_accurate": true,
+      "summary_accurate": false,
+      "tags_relevant": false,
+      "notes": "Summary is a quote. Emotional tone should be positive (relieved, hopeful). Tags miss the specific staffing milestone."
+    },
+    {
+      "sliceId": "2027-06-29-0935",
+      "focus_accurate": true,
+      "summary_accurate": false,
+      "tags_relevant": false,
+      "notes": "Summary is a quote. Emotional tone should be mixed (stung but receptive). Tags miss the specific app and Evan's boundary."
+    },
+    {
+      "sliceId": "2027-09-22-0230",
+      "focus_accurate": true,
+      "summary_accurate": false,
+      "tags_relevant": false,
+      "notes": "Summary is a quote. Emotional tone should be mixed (relieved/exhausted). Tags miss the specific neighborhood approval context."
+    },
+    {
+      "sliceId": "2027-11-14-1010",
+      "focus_accurate": true,
+      "summary_accurate": false,
+      "tags_relevant": false,
+      "notes": "Summary 'Both, really' is essentially meaningless. Tags miss the health maintenance shift."
+    },
+    {
+      "sliceId": "2028-03-08-0140",
+      "focus_accurate": true,
+      "summary_accurate": false,
+      "tags_relevant": false,
+      "notes": "Summary 'Honestly, both' is too minimal. Emotional tone should be positive (proud, emotional). Tags miss the five-site completion milestone."
+    },
+    {
+      "sliceId": "2028-05-18-1245",
+      "focus_accurate": true,
+      "summary_accurate": false,
+      "tags_relevant": false,
+      "notes": "Summary is a long quote. Emotional tone should be positive (excited, hopeful). Tags miss the specific travel idea."
+    },
+    {
+      "sliceId": "2028-10-03-0720",
+      "focus_accurate": true,
+      "summary_accurate": false,
+      "tags_relevant": false,
+      "notes": "Summary is a quote. Emotional tone should be positive (emotional, proud, relieved). Tags miss the historic program milestone."
+    }
+  ]
+}

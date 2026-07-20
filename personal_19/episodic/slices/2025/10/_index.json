@@ -3,17 +3,25 @@
   "slices": [
     {
       "id": "2025-10-21-1015",
-      "focus": "A lot has shifted since we last talked, mostly in the same work problem that has",
-      "summary": "The biggest change is that I stopped trying to make it elegant",
+      "focus": "After the typhoon failure, Ayaka rebuilds her pilot into a leaner recovery package with laminated backup cards, blunt ownership rules, and a narrower essential-freight definition.",
+      "summary": "Ayaka does not abandon the work after the typhoon collapse. She rebuilds it into a stripped-down recovery package using incident photos, phone timestamps, and a marked-up terminal map. Key elements: laminated backup notice cards for common disruption messages, blunt written ownership rules for passenger and cargo communication, and a narrower essential-freight definition tied to concrete household impact (medicine timing, basic groceries). She faces mixed reactions but refuses to soften the core argument.",
       "tags": [
-        "work",
-        "health",
-        "housing",
-        "environment"
+        "recovery-package",
+        "laminated-backup-cards",
+        "message-ownership",
+        "narrowed-essentials",
+        "evidence-rebuild",
+        "incident-photos",
+        "terminal-map",
+        "operational-honestyemotional_tone: neutral"
       ],
       "status": "closed",
       "start": "2025-10-21T10:15:00.000Z",
-      "open_loops": [],
+      "open_loops": [
+        "Narrower essential-freight definition may leave legitimate needs unprotected",
+        "Laminated cards depend on caches being maintained and stocked",
+        "Ownership rules may be resisted by staff who prefer flexible roles"
+      ],
       "decisions": [
         "After the late-August typhoon failure, Ayaka reshaped the disruption pilot into a leaner recovery package centered on ba"
       ]

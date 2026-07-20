@@ -3,14 +3,17 @@
   "slices": [
     {
       "id": "2025-08-14-0915",
-      "focus": "A lot has shifted at work since we last talked, and this week feels like one of ",
-      "summary": "Yes, that is exactly how it feels, like I crossed from proving the weakness into trying to build the",
+      "focus": "Six-person pilot training cohort formally launched",
+      "summary": "Lucia formally launches a six-person pilot training cohort for backup Spanish coverage, selected based on attendance sheets from the skills circle and dashboard coverage gap data rather than hallway enthusiasm. The training features mock arraignment scripts (the most common courtroom situation where people freeze) and an ethics review section on boundaries, accuracy, and not sliding into summary mode. Shadow assignments precede any actual backup use, with Lucia planning stage gates (attended session → ethics review → shadow → limited backup eligibility). She commits to a participant checklist and short monthly cohort note alongside the dashboard, deliberately choosing 'boring and sustainable' over heroic overextension.",
       "tags": [
-        "work",
-        "health",
-        "housing",
-        "leisure",
-        "goals"
+        "training-cohort-launch",
+        "mock-arraignment-scripts",
+        "interpreter-ethics-training",
+        "stage-gate-progression",
+        "evidence-based-selection",
+        "shadow-before-backup",
+        "participant-checklist-system",
+        "sustainable-cohort-designemotional_tone: neutral"
       ],
       "status": "closed",
       "start": "2025-08-14T09:15:00.000Z",

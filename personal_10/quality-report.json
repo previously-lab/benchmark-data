@@ -1,0 +1,218 @@
+{
+  "personaId": "personal_10",
+  "reviewedAt": "2026-07-20T12:00:00.000Z",
+  "model": "claude-haiku-4-5",
+  "overallNotes": "Kelli Ann Brotherton (42yo, born 1982-11-14) is a revenue-cycle lead at Gem Valley Rural Health Network outside Emmett, Idaho. She is married to Travis (feed store assistant manager), has a stepdaughter Mikayla (21, dental assisting student), and cares for her father Gary Sipes (71, on dialysis). Her 3-year arc (2025–2028) moves from overwhelmed operational fixer to recognized system-builder: she built a network-wide denial-reduction system, survived a catastrophic software go-live that reversed gains, developed hypertension requiring medication, and eventually produced three straight quarters of sustained improvement. Home pressures include aging pickup repairs, a pet euthanasia (Juno, blue heeler), strained finances, and a gradually steadier marriage built on explicit communication. Kelli is an ISTJ who prefers plain language, measurable targets, and practical tools over theory. Her identity arc is from 'the person who gets handed the ugly pile' to someone who can say 'I built and enforced the operating discipline' without apology. She discovers preferences for slow, low-agenda travel (Oregon coast), dry workplace comedies over heavy dramas, rural healthcare memoirs over crime novels, and 1990s country music with some early-2000s pop-country added. Core relationships: Monica Wren (CFO, leadership ally), Shawna Haskell (friend/coding classmate, work vent), Dr. Owen Leland (family medicine physician, operational stakeholder). Data quality issues: all 30 slices have truncated 'focus' fields (quote-based auto-generation that cuts at ~70 chars), 12 slices have truncated summaries, and all emotional_tone values default to 'neutral' rather than reflecting actual sentiment. Tags are too broad (work/family/health as generic buckets) and lack specificity for searchability.",
+  "issues": [
+    {
+      "sliceId": "2025-01-05-2340",
+      "focus_accurate": false,
+      "summary_accurate": false,
+      "tags_relevant": false,
+      "notes": "Focus is a quote fragment ('I appreciate that you are taking the time.'). Summary is a quote fragment ('My name is Kelli Ann Brotherton'). Tags are generic (work/family/health/finance etc.). All need replacement with specific, searchable tags."
+    },
+    {
+      "sliceId": "2025-01-21-1010",
+      "focus_accurate": false,
+      "summary_accurate": false,
+      "tags_relevant": false,
+      "notes": "Focus truncated at 'work kind of lurched into a bigger thing than it w'. Summary is a quote fragment ('Triage is exactly what it feels like'). Tags missing denial-specific keywords."
+    },
+    {
+      "sliceId": "2025-02-11-1225",
+      "focus_accurate": false,
+      "summary_accurate": false,
+      "tags_relevant": false,
+      "notes": "Focus truncated at 'most of it has been the same kin'. Summary is a quote fragment ('Honestly, the no-jargon part helped a lot'). Tags miss podcast/communication angle entirely."
+    },
+    {
+      "sliceId": "2025-03-07-0945",
+      "focus_accurate": false,
+      "summary_accurate": false,
+      "tags_relevant": false,
+      "notes": "Focus truncated at 'this feels like the first real turn in the whole w'. Tags miss pilot/huddle/approval keywords. Emotional tone should reflect pride and momentum, not neutral."
+    },
+    {
+      "sliceId": "2025-03-29-0130",
+      "focus_accurate": false,
+      "summary_accurate": false,
+      "tags_relevant": false,
+      "notes": "Focus truncated at 'this weekend kind of forced one home issue i'. Summary is a quote fragment ('Yes, that is exactly it'). Emotional tone should be mixed (tense conversation but constructive outcome), not neutral."
+    },
+    {
+      "sliceId": "2025-04-18-0855",
+      "focus_accurate": false,
+      "summary_accurate": true,
+      "tags_relevant": false,
+      "notes": "Focus truncated at 'this piece finally feels rea'. Summary is acceptable though slightly long. Tags miss expansion/binder/labor-saving keywords."
+    },
+    {
+      "sliceId": "2025-05-09-1120",
+      "focus_accurate": false,
+      "summary_accurate": false,
+      "tags_relevant": false,
+      "notes": "Focus truncated at 'I had one oddly lighter Friday and some'. Summary is too long and is a quote fragment ('Honestly, probably all three'). Tags miss stretching/physical health angle."
+    },
+    {
+      "sliceId": "2025-06-14-0305",
+      "focus_accurate": false,
+      "summary_accurate": false,
+      "tags_relevant": false,
+      "notes": "Focus truncated at 'I finally had one of those moments where m'. Summary is a quote fragment ('They told me to follow up with my regular doctor'). Emotional tone should be negative (scare), not neutral."
+    },
+    {
+      "sliceId": "2025-07-02-1210",
+      "focus_accurate": false,
+      "summary_accurate": false,
+      "tags_relevant": false,
+      "notes": "Focus truncated at 'this week turned into one of those pile-on stretch'. Summary is a quote fragment ('We made the call pretty fast, honestly'). Should be negative emotional tone (financial stress, disappointment), not neutral."
+    },
+    {
+      "sliceId": "2025-08-15-0740",
+      "focus_accurate": false,
+      "summary_accurate": true,
+      "tags_relevant": false,
+      "notes": "Focus truncated at 'for once I have a work update that i'. Summary is adequate. Tags miss payer-drill-down/signoff/authority keywords."
+    },
+    {
+      "sliceId": "2025-09-07-0615",
+      "focus_accurate": false,
+      "summary_accurate": true,
+      "tags_relevant": false,
+      "notes": "Focus truncated at 'not perfect, just not quite so'. Original tags miss kitchen/air-fryer/evening-routine keywords entirely. Emotional tone should be positive (small win), not neutral."
+    },
+    {
+      "sliceId": "2025-10-22-0925",
+      "focus_accurate": false,
+      "summary_accurate": false,
+      "tags_relevant": false,
+      "notes": "Focus truncated at 'this time it is work in a way '. Summary is a quote fragment ('That is exactly why I am so wound up about it'). Should be negative emotional tone (overruled, frustrated), not neutral."
+    },
+    {
+      "sliceId": "2025-11-16-1040",
+      "focus_accurate": false,
+      "summary_accurate": true,
+      "tags_relevant": false,
+      "notes": "Focus truncated at 'my birthday ended up being a lot simpler'. Summary is adequate. Tags miss movie-taste-shift/library angle. Emotional tone should be positive (warm, self-discovery), not neutral."
+    },
+    {
+      "sliceId": "2026-01-12-1105",
+      "focus_accurate": false,
+      "summary_accurate": false,
+      "tags_relevant": false,
+      "notes": "Focus truncated at 'work has gone from ten'. Summary is a quote fragment ('Honestly both, but the auth carryover has me the most nervous'). Should be negative emotional tone (setback, exhaustion). Original tags are dangerously sparse (only work/leisure/goals)."
+    },
+    {
+      "sliceId": "2026-02-02-2315",
+      "focus_accurate": false,
+      "summary_accurate": false,
+      "tags_relevant": false,
+      "notes": "Focus truncated at 'one of the more immediate things at home finally s'. Summary is a quote fragment ('Yes, that is exactly it, it quit being theoretical'). Emotional tone should be mixed (necessary but draining), not neutral."
+    },
+    {
+      "sliceId": "2026-03-18-0830",
+      "focus_accurate": false,
+      "summary_accurate": false,
+      "tags_relevant": false,
+      "notes": "Focus truncated at 'I finally feel like one part of work has moved fro'. Summary is a quote fragment ('Part of it was me getting tired of hearing'). Emotional tone should be mixed (tired but gaining traction), not neutral."
+    },
+    {
+      "sliceId": "2026-04-24-0510",
+      "focus_accurate": false,
+      "summary_accurate": true,
+      "tags_relevant": false,
+      "notes": "Focus truncated at 'I had one small detour that surprised'. Summary is adequate. Tags miss reading/memoir/book angle. Emotional tone should be positive (discovery, recognition), not neutral."
+    },
+    {
+      "sliceId": "2026-05-27-1050",
+      "focus_accurate": false,
+      "summary_accurate": false,
+      "tags_relevant": false,
+      "notes": "Focus truncated at 'in a way that finally feels a li'. Summary is a quote fragment ('Yes, exactly, the evidence is finally sorting'). Tags are dangerously sparse (only work/finance). Emotional tone should be positive (breakthrough in clarity), not neutral."
+    },
+    {
+      "sliceId": "2026-06-21-0800",
+      "focus_accurate": false,
+      "summary_accurate": false,
+      "tags_relevant": false,
+      "notes": "Focus truncated at 'I finally dealt with something I had been'. Summary is a quote fragment ('Mostly embarrassed, if I am honest'). Should be negative emotional tone (health scare, reality check), not neutral."
+    },
+    {
+      "sliceId": "2026-08-08-0235",
+      "focus_accurate": false,
+      "summary_accurate": true,
+      "tags_relevant": false,
+      "notes": "Focus truncated at 'For the first time in a wh'. Summary is adequate but slightly long. Tags miss site-visit/printed-examples angle. Should be positive (regained footing), not neutral."
+    },
+    {
+      "sliceId": "2026-09-14-1245",
+      "focus_accurate": false,
+      "summary_accurate": true,
+      "tags_relevant": false,
+      "notes": "Focus truncated at 'on the surface it probably looks like the '. Summary is adequate. Tags miss caregiving-rotation/brother/medical-scare angle. Should be positive (relief, shared burden), not neutral."
+    },
+    {
+      "sliceId": "2026-11-05-0955",
+      "focus_accurate": false,
+      "summary_accurate": true,
+      "tags_relevant": false,
+      "notes": "Focus truncated at 'work finally hit one of those points where I'. Summary is adequate. Tags miss dashboard/ownership-rule/Friday-call angle. Should be positive (control, steering), not neutral."
+    },
+    {
+      "sliceId": "2026-12-18-1130",
+      "focus_accurate": false,
+      "summary_accurate": true,
+      "tags_relevant": false,
+      "notes": "Focus truncated at 'I had one of those small funny shifts this wee'. Summary is a quote fragment ('Exactly, it was not some huge personality transplant'). Tags miss music/commute/potluck angle. Should be positive (small joy, refresh), not neutral."
+    },
+    {
+      "sliceId": "2027-02-09-0820",
+      "focus_accurate": false,
+      "summary_accurate": true,
+      "tags_relevant": false,
+      "notes": "Focus truncated at 'but in a different way than before. '. Summary is adequate. Tags miss payer-rule-change/early-detection angle. Should be positive (system maturity, earned confidence), not neutral."
+    },
+    {
+      "sliceId": "2027-03-27-0405",
+      "focus_accurate": false,
+      "summary_accurate": true,
+      "tags_relevant": false,
+      "notes": "Focus truncated at 'things have felt a little less like pu'. Summary is adequate. Should be positive (hope, progress), not neutral."
+    },
+    {
+      "sliceId": "2027-06-16-1000",
+      "focus_accurate": false,
+      "summary_accurate": true,
+      "tags_relevant": false,
+      "notes": "Focus truncated at 'in a good way for once. The biggest thing is I finally'. Summary is adequate. Should be positive (upstream prevention, culture change), not neutral."
+    },
+    {
+      "sliceId": "2027-08-11-1310",
+      "focus_accurate": false,
+      "summary_accurate": true,
+      "tags_relevant": false,
+      "notes": "Focus truncated at 'life has still felt pretty full, but i'. Summary is adequate. Should be positive (restoration, preference discovery), not neutral."
+    },
+    {
+      "sliceId": "2027-10-24-0715",
+      "focus_accurate": false,
+      "summary_accurate": true,
+      "tags_relevant": false,
+      "notes": "Focus truncated at 'some long-running work finall'. Summary is adequate. Should be positive (recognition, competence), not neutral."
+    },
+    {
+      "sliceId": "2028-01-13-0050",
+      "focus_accurate": false,
+      "summary_accurate": true,
+      "tags_relevant": false,
+      "notes": "Focus truncated at 'on the surface I probably still look like '. Summary is adequate. Should be negative emotional tone (grief, loss), not neutral. Tags miss Juno/euthanasia/pet-loss entirely."
+    },
+    {
+      "sliceId": "2028-04-09-0935",
+      "focus_accurate": false,
+      "summary_accurate": true,
+      "tags_relevant": false,
+      "notes": "Focus truncated at 'one big thing finally crossed from feeling fragile'. Summary is adequate. Should be positive (earned success, identity shift), not neutral."
+    }
+  ]
+}

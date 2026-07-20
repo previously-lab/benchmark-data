@@ -3,16 +3,26 @@
   "slices": [
     {
       "id": "2025-06-11-1200",
-      "focus": "Things have been shifting again lately, and work has felt more brittle than I wa",
-      "summary": "It was when we were trying to work backwards and nobody could say with confidence what had been done",
+      "focus": "A locum shift exposes workflow fragility, leading to a mandatory one-page bench guide",
+      "summary": "A regular locum leaves messy annotations and a controlled-drug script is misfiled, exposing that Saira's workflow collapses when temporary staff ignore it. She writes a one-page locum bench guide and pushes for mandatory sign-in review. Peter half-agrees to a trial.",
       "tags": [
-        "work",
-        "health",
-        "education"
+        "locum-compliance",
+        "controlled-drug-misfile",
+        "bench-guide",
+        "staff-onboarding",
+        "safety-protocol",
+        "peter-pushback",
+        "workflow-fragility",
+        "role-expansionemotional_tone: neutral"
       ],
       "status": "closed",
       "start": "2025-06-11T12:00:00.000Z",
-      "open_loops": [],
+      "open_loops": [
+        "Peter's sign-in approval is only a half-yes pending two-week review",
+        "Controlled-drug section on the guide needs boxed emphasis",
+        "Tiny log of guide usage needs to be maintained for two weeks",
+        "School-run period remains highest-risk pressure point"
+      ],
       "decisions": [
         "Saira remained operations lead, but after a rushed shift exposed weak locum compliance she widened her workflow project ",
         "Saira's mental state sharpened from background stress into being more tightly wound because staffing gaps now threatened"

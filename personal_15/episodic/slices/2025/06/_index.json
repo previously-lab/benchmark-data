@@ -3,18 +3,23 @@
   "slices": [
     {
       "id": "2025-06-10-1810",
-      "focus": "A lot has been shifting lately, and tonight was one of those moments where somet",
-      "summary": "The sharpest pushback came from Captain Lee Sang-ho",
+      "focus": "Tense meeting: Jae-hyun defends board and preserves core coding logic.",
+      "summary": "An overnight operations meeting turns tense as Captain Lee Sang-ho argues board photos make crews look guilty by default. Jae-hyun arrives with printed comparisons showing weather delays separated from avoidable ones. The compromise: keep the board through summer but add a handwritten captain note line, preserving the weather-versus-avoidable coding that makes the data meaningful.",
       "tags": [
-        "work",
-        "education",
-        "housing",
-        "goals",
-        "environment"
+        "operations-meeting",
+        "captain-resistance",
+        "weather-vs-avoidable-delay",
+        "captain-note-line",
+        "captain-compromise",
+        "board-pilot-survivalemotional_tone: neutral"
       ],
       "status": "closed",
       "start": "2025-06-10T18:10:00.000Z",
-      "open_loops": [],
+      "open_loops": [
+        "Captain Lee Sang-ho's ongoing resistance",
+        "Summer evidence collection",
+        "Note line becoming a shield vs genuine context"
+      ],
       "decisions": [
         "Park Jae-hyun is still dispatch manager, and after an overnight challenge from vessel crews he kept the shared dispatch-"
       ]

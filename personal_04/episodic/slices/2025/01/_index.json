@@ -3,35 +3,49 @@
   "slices": [
     {
       "id": "2025-01-07-0100",
-      "focus": "It is nice to start using a tool like this.",
-      "summary": "My name is Tasha Nicole Whitfield",
+      "focus": "Tasha introduces herself and her life goal: Bereavement Care Reach",
+      "summary": "Tasha provides a comprehensive self-introduction covering her identity (37, Raleigh, ISFJ), work (bereavement coordinator at Transitions LifeCare, 7th year), and her five-year goal called Bereavement Care Reach — building Wake County bereavement follow-up into a consistent countywide program with 45+ trained volunteers and six recurring grief-support groups. She describes her stress patterns (insomnia, jaw clenching), living situation (single, one-bedroom apartment), budget constraints ($62k salary, student loans), and key relationships: aunt Denise Alston, friend Imani Brooks, supervisor Renee Holloway, and work colleagues Miriam Sloan and Caleb Jennings. She shares preferences for 90s R&B, Southern fiction, and quiet cabin travel.",
       "tags": [
-        "work",
-        "family",
-        "finance",
-        "relationship",
-        "travel",
-        "education",
-        "housing",
-        "leisure"
+        "self-introduction",
+        "bereavement-coordinator-role",
+        "hospice-social-work",
+        "raleigh-north-carolina",
+        "isfj-personality-type",
+        "bereavement-care-reach-goal",
+        "family-history-grief",
+        "support-network-mappingemotional_tone: neutral"
       ],
       "status": "closed",
       "start": "2025-01-07T01:00:00.000Z",
-      "open_loops": [],
+      "open_loops": [
+        "Bereavement Care Reach five-year goal — no timeline or benchmarks tracked",
+        "Adopting an older cat — mentioned as eventual desire",
+        "Stress symptoms (insomnia, jaw clenching) — no management plan yet"
+      ],
       "decisions": []
     },
     {
       "id": "2025-01-21-1010",
-      "focus": "A lot has been shifting lately, and work finally tipped from vaguely messy into ",
-      "summary": "Blurry is the word",
+      "focus": "Work tips from messy into crisis; Miriam gives Tasha one protected day for coverage triage",
+      "summary": "Tasha describes how two volunteer-led grief groups in east Raleigh nearly got canceled, prompting her to present Miriam with evidence from sign-in binders and referral emails. Miriam agrees to carve out one day a week for Tasha to focus on volunteer coverage triage and bereavement process cleanup, but without a promotion, extra staffing, or a rewritten job description. Tasha wrestles with the tension between feeling relieved to have protected time and concerned that her unofficial role is hardening without guardrails. The agent helps her plan a written scope, a simple tracking system starting with the east Raleigh groups, and a weekly update rhythm to prevent the protected day from becoming a catch-all.",
       "tags": [
-        "work",
-        "education",
-        "leisure"
+        "volunteer-coverage-crisis",
+        "east-raleigh-grief-groups",
+        "protected-workday-gained",
+        "process-cleanup-planning",
+        "miriam-scope-creep",
+        "handoff-tracking-system",
+        "volunteer-accountability",
+        "boundaries-in-plain-clothesemotional_tone: neutral"
       ],
       "status": "closed",
       "start": "2025-01-21T10:10:00.000Z",
-      "open_loops": [],
+      "open_loops": [
+        "Written outline for Miriam — planned but not yet drafted",
+        "Spreadsheet and binder cleanup for east Raleigh groups — first pass pending",
+        "Volunteer confirmation and no-show reporting process — needs design",
+        "Whether to bring no-show patterns to Miriam early or wait for cleaner data"
+      ],
       "decisions": [
         "Miriam informally carved out one day each week for Tasha to lead volunteer coverage triage and bereavement process clean"
       ]

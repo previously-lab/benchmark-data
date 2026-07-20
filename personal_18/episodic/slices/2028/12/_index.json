@@ -6,18 +6,22 @@
       "focus": "It has been a while since we talked, and work has been moving fast in that end-o",
       "summary": "Yeah, threshold moment is exactly how it feels",
       "tags": [
-        "work",
-        "family",
-        "health",
-        "finance",
-        "relationship",
-        "travel",
-        "education",
-        "housing"
+        "work-peak-season",
+        "system-reliability",
+        "complete-and-on-time",
+        "career-culmination",
+        "trust-shift",
+        "operational-maturity",
+        "identity-changeemotional_tone: neutral"
       ],
       "status": "closed",
       "start": "2028-12-19T23:25:00.000Z",
-      "open_loops": [],
+      "open_loops": [
+        "Writing the boring recap to lock the evidence before normal work washes it out",
+        "Identifying one or two pressure points to monitor next year (maintenance not dread)",
+        "Whether Jordan can genuinely let herself rest instead of hovering for the next collapse",
+        "Whether this changes her long-term trajectory at Alder Street or just confirms the role"
+      ],
       "decisions": [
         "Jordan ended 2028 as the operations manager who had helped turn Alder Street's wholesale production into a measurably mo",
         "Cleaner numbers and documented backups made Jordan's peak-week anxiety feel far less like an endless impending disaster,"

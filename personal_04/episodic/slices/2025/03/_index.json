@@ -3,34 +3,52 @@
   "slices": [
     {
       "id": "2025-03-05-0040",
-      "focus": "A lot has been shifting lately, and one work thing finally tipped into something",
-      "summary": "Better than I expected, honestly",
+      "focus": "Tasha's cleanup work becomes an official pilot with calendar, referral form, and backup process",
+      "summary": "Tasha turns her background cleanup work into an actual pilot plan approved by Miriam. Using three months of handwritten attendance sheets, volunteer call logs, and a color-coded spreadsheet she built at home, she presents evidence of how often the team was improvising. The pilot includes a six-month structured grief-group calendar, a standard referral form to fix inconsistent intake, and a backup volunteer list. Tasha feels the shift from patching holes to operational leadership, even without a title change, and the agent helps her plan a one-page scope document, success metrics (fewer coverage scrambles, fewer incomplete referrals), and a request for a standing maintenance block during work hours.",
       "tags": [
-        "work",
-        "family",
-        "housing",
-        "goals"
+        "pilot-plan-presentation",
+        "structured-grief-group-calendar",
+        "standard-referral-form",
+        "backup-volunteer-process",
+        "miriam-pilot-approval",
+        "six-month-pilot-timeline",
+        "home-built-evidence-leverage",
+        "informal-operational-leadershipemotional_tone: neutral"
       ],
       "status": "closed",
       "start": "2025-03-05T00:40:00.000Z",
-      "open_loops": [],
+      "open_loops": [
+        "One-page scope document for pilot — to be drafted",
+        "Follow-up summary email to Miriam with timeline and success measures",
+        "Request for standing weekly pilot maintenance block",
+        "One-month internal process stabilization before widening to referral partners"
+      ],
       "decisions": [
         "Tasha is now the bereavement coordinator informally designated to pilot a structured grief-group calendar, standard refe"
       ]
     },
     {
       "id": "2025-03-29-0330",
-      "focus": "A lot has been shifting lately, and I finally had to admit my body has been keep",
-      "summary": "The big one was that this spring planning stretch is landing in my body harder than I wanted to admi",
+      "focus": "Renee catches Tasha's jaw clenching; Tasha starts dental guard and evening routine",
+      "summary": "Renee notices Tasha rubbing her jaw during supervision and has her track body symptoms for two weeks, revealing a pattern of nightly jaw clenching and morning tension headaches worsened by the pilot period's stress. Tasha gets a dental guard, starts a stricter evening wind-down (phone across the room, no work notes in bed, lights lowered earlier), and develops a morning check-in to notice whether she woke up clenched. The agent helps her frame the routine as 'minimum viable strictness' — a simple 2-3 step sequence (guard, playlist, book, lights low) that can survive even late work nights rather than collapsing under all-or-nothing thinking.",
       "tags": [
-        "work",
-        "education",
-        "leisure",
-        "goals"
+        "jaw-clenching-pattern",
+        "stress-body-symptoms",
+        "renee-supervision-intervention",
+        "dental-guard-adoption",
+        "evening-wind-down-routine",
+        "morning-body-check-in",
+        "minimum-viable-strictness",
+        "body-keeps-scoreemotional_tone: neutral"
       ],
       "status": "closed",
       "start": "2025-03-29T03:30:00.000Z",
-      "open_loops": [],
+      "open_loops": [
+        "Two-week tracking of morning improvement — not yet evaluated",
+        "Evening playlist selection — not yet created",
+        "Whether to share the pattern with Denise — undecided",
+        "Minimum viable evening routine — needs consistency testing"
+      ],
       "decisions": [
         "Tasha started using a dental guard to address the stress-related clenching.",
         "Her physical health baseline is still generally good, but stress symptoms became more frequent during this work stretch."

@@ -1,0 +1,218 @@
+{
+  "personaId": "personal_11",
+  "reviewedAt": "2026-07-20T00:00:00.000Z",
+  "model": "claude-haiku-4-5",
+  "overallNotes": "Monica Renee Halverson (personal_11) is a richly drawn persona spanning nearly 4 years (Jan 2025 - Aug 2028) of a 40-year-old senior housing code inspector turned frontline supervisor in Milwaukee's Department of Neighborhood Services. Her arc traces the transformation of a personal commitment to safer north-side rental stock into a formal two-corridor enforcement model with documented safer-housing outcomes. The narrative sustains strong continuity across work, health, family, and personal life through 30 slices. Key patterns: (1) Professional growth from newly promoted supervisor to corridor-program architect defending concentrated enforcement at leadership level — setbacks (political interference after exposing prominent owners, budget threats) are met with tighter documentation and process redesign rather than retreat. (2) Asthma is managed with increasing precision — an urgent care scare in spring 2025 leads to stricter inhaler routines, mask protocols, and exposure planning that holds across subsequent years. (3) Co-parenting with Travis evolves from tense ad-hoc texting to shared spreadsheets and Sunday check-ins; Leah's transition from middle school to high school choices becomes a recurrent structural theme. (4) Relationship arc: cautious dating of Colin Mercer ends in winter 2026 over schedule mismatch and emotional fatigue; after a long reset she begins cautiously dating Naomi Sato (archivist) in spring 2028 with greater clarity about what fits her life. (5) Key supporting figures are well-defined: Andre Pruitt (veteran inspector/pattern-reader), Denise Wroblewski (retiring mentor), Shawna Brooks (close friend/social worker), and Colin Mercer / Naomi Sato (romantic partners). (6) Personal interests layer naturally — Milwaukee neighborhood history reading becomes a deliberate counterweight to work stress; Brewers games with Leah create car-ride connection rituals; Sunday night courtroom movies become a reset habit; public radio evening programs lower the after-work emotional temperature. CRITICAL ISSUE with current metadata: ALL 30 slices have emotional_tone: 'neutral' which is clearly incorrect — emotional tones vary significantly (positive for personal discoveries and wins, negative for political setbacks, mixed for ambiguous transitions). Tags are identical generic categories (work/family/health/finance/housing/education/leisure/goals) applied indiscriminately with no specificity. Nearly ALL summary fields are literal quote fragments from the user's first turn rather than genuine summaries of conversation content. Many focus fields are truncated mid-word. There is no open_loops field on any slice. Decisions fields are generally well-maintained though occasionally truncated.",
+  "issues": [
+    {
+      "sliceId": "2025-01-08-1130",
+      "focus_accurate": false,
+      "summary_accurate": false,
+      "tags_relevant": false,
+      "notes": "Focus 'I appreciate that you are taking the time' is a quote fragment from turn 1, not a descriptive focus. Summary 'My name is Monica Renee Halverson' is a quote fragment, not a summary of the onboarding conversation. Tags are generic categories (work/family/health) that provide zero retrieval value for this specific onboarding session. Emotional_tone should be positive (willing, open, engaged) not neutral."
+    },
+    {
+      "sliceId": "2025-01-28-0010",
+      "focus_accurate": false,
+      "summary_accurate": false,
+      "tags_relevant": false,
+      "notes": "Focus is truncated mid-word ('resp'). Summary 'I pulled Andre into a late afternoon file review...' is a truncated quote fragment. Tags are generic categories. Emotional tone should be mixed (keyed up, purposeful about the hazard board but unsettled by the fourplex case). Missing open_loops for the unfinished board buildout."
+    },
+    {
+      "sliceId": "2025-02-14-1215",
+      "focus_accurate": false,
+      "summary_accurate": false,
+      "tags_relevant": false,
+      "notes": "Focus is truncated ('did'). Summary 'Probably the neighborhood stories more than the big city overview stuff' is a quote fragment. Tags are generic categories that miss the specific reading habit shift. Emotional tone should be positive (Monica describes this as a welcome, grounding change)."
+    },
+    {
+      "sliceId": "2025-03-19-0940",
+      "focus_accurate": false,
+      "summary_accurate": false,
+      "tags_relevant": false,
+      "notes": "Focus is truncated ('conc'). Summary 'Exactly, the consistency part is what I am worried about' is a quote fragment. Tags are generic. Emotional tone should be positive (proud of the pilot becoming real, purposeful, though aware of the risk)."
+    },
+    {
+      "sliceId": "2025-04-11-1025",
+      "focus_accurate": false,
+      "summary_accurate": false,
+      "tags_relevant": false,
+      "notes": "Focus is truncated ('physical'). Summary is a truncated quote fragment. Tags are generic. Emotional tone should be mixed (relieved to have a plan but irritated that a spring flare sent her to urgent care)."
+    },
+    {
+      "sliceId": "2025-05-06-0105",
+      "focus_accurate": true,
+      "summary_accurate": false,
+      "tags_relevant": false,
+      "notes": "Focus is complete and accurate. Summary 'I definitely had to push' is a quote fragment that misses the content. Tags are generic. Emotional tone should be positive (formal approval of protected slots is a significant professional win)."
+    },
+    {
+      "sliceId": "2025-05-24-1310",
+      "focus_accurate": false,
+      "summary_accurate": false,
+      "tags_relevant": false,
+      "notes": "Focus is truncated ('fe'). Summary 'He is easy to be around, for one thing' is a quote fragment. Tags are generic. Emotional tone should be positive (hopeful, cautiously happy about the new relationship)."
+    },
+    {
+      "sliceId": "2025-06-18-0850",
+      "focus_accurate": false,
+      "summary_accurate": false,
+      "tags_relevant": false,
+      "notes": "Focus is truncated ('the'). Summary is a truncated quote fragment. Tags are generic. Emotional tone should be positive (a case win that validated the corridor process, proud but wary of visibility)."
+    },
+    {
+      "sliceId": "2025-07-13-0635",
+      "focus_accurate": false,
+      "summary_accurate": false,
+      "tags_relevant": false,
+      "notes": "Focus is truncated ('pret'). Summary 'Honestly, a mix of all three' is a quote fragment. Tags are generic and miss the specific Brewers/Leah bonding content. Emotional tone should be positive (warm, grounding, connecting with Leah)."
+    },
+    {
+      "sliceId": "2025-08-27-0320",
+      "focus_accurate": false,
+      "summary_accurate": false,
+      "tags_relevant": false,
+      "notes": "Focus is truncated ('v'). Summary 'It started with me, but timing mattered' is a quote fragment. Tags are generic. Emotional tone should be positive (proud of formalizing the report, sense of professional growth)."
+    },
+    {
+      "sliceId": "2025-09-21-1105",
+      "focus_accurate": false,
+      "summary_accurate": false,
+      "tags_relevant": false,
+      "notes": "Focus is truncated ('i'). Summary 'Yes, exactly, it was more about getting some air back' is a quote fragment. Tags are generic. Emotional tone should be positive (relieved, proud of the debt payoff, hopeful)."
+    },
+    {
+      "sliceId": "2025-10-30-0730",
+      "focus_accurate": false,
+      "summary_accurate": false,
+      "tags_relevant": false,
+      "notes": "Focus is truncated ('bu'). Summary is a truncated quote fragment. Tags are generic. Emotional tone should be negative (discouraged, angry about political interference slowing the process she built)."
+    },
+    {
+      "sliceId": "2025-11-16-0955",
+      "focus_accurate": false,
+      "summary_accurate": false,
+      "tags_relevant": false,
+      "notes": "Focus is truncated ('ende'). Summary 'Yeah, that was part of it' is a quote fragment. Tags are generic. Emotional tone should be mixed (heavy fall season but finding relief in small home systems with Leah)."
+    },
+    {
+      "sliceId": "2026-01-12-0045",
+      "focus_accurate": true,
+      "summary_accurate": false,
+      "tags_relevant": false,
+      "notes": "Focus is accurate. Summary 'Probably the triggers' is a quote fragment. Tags are generic. Emotional tone should be mixed (tired from rebuilding under constraint but proud of the more defensible system)."
+    },
+    {
+      "sliceId": "2026-02-09-1300",
+      "focus_accurate": false,
+      "summary_accurate": false,
+      "tags_relevant": false,
+      "notes": "Focus is truncated ('wi'). Summary 'Yes, that is exactly it' is a quote fragment. Tags are generic. Emotional tone should be mixed (sad and bruised but also relieved and clearer about what she needs)."
+    },
+    {
+      "sliceId": "2026-03-24-0235",
+      "focus_accurate": true,
+      "summary_accurate": false,
+      "tags_relevant": false,
+      "notes": "Focus is accurate. Summary 'They were more open than I expected, honestly' is a quote fragment. Tags are generic. Emotional tone should be positive (proud of training others, sense of the work becoming less dependent on her)."
+    },
+    {
+      "sliceId": "2026-04-22-1040",
+      "focus_accurate": true,
+      "summary_accurate": false,
+      "tags_relevant": false,
+      "notes": "Focus is complete. Summary 'Probably all three' is a quote fragment. Tags are generic. Emotional tone should be positive (steadier, enjoying the new Sunday reset ritual)."
+    },
+    {
+      "sliceId": "2026-06-07-0115",
+      "focus_accurate": false,
+      "summary_accurate": false,
+      "tags_relevant": false,
+      "notes": "Focus is truncated ('actual'). Summary is a truncated quote fragment. Tags are generic. Emotional tone should be positive (relieved, validated by results, though still wary)."
+    },
+    {
+      "sliceId": "2026-07-19-1225",
+      "focus_accurate": true,
+      "summary_accurate": false,
+      "tags_relevant": false,
+      "notes": "Focus is complete. Summary 'Right away, honestly' is a quote fragment. Tags are generic. Emotional tone should be positive (relieved, satisfied with practical home improvements, though mindful of the budget pinch)."
+    },
+    {
+      "sliceId": "2026-09-08-0620",
+      "focus_accurate": true,
+      "summary_accurate": false,
+      "tags_relevant": false,
+      "notes": "Focus is complete. Summary 'Honestly, I feel more exposed, but also more useful' is a quote fragment. Tags are generic. Emotional tone should be mixed (exposed after Denise's retirement but also more useful; irritated at fragility but proud of the expansion)."
+    },
+    {
+      "sliceId": "2026-10-15-1150",
+      "focus_accurate": true,
+      "summary_accurate": false,
+      "tags_relevant": false,
+      "notes": "Focus is complete. Summary 'I think it's mostly the steadier pace' is a quote fragment. Tags are generic. Emotional tone should be positive (content, finding a simple audio habit that lowers evening tension)."
+    },
+    {
+      "sliceId": "2027-01-17-0055",
+      "focus_accurate": false,
+      "summary_accurate": false,
+      "tags_relevant": false,
+      "notes": "Focus is truncated ('di'). Summary 'Honestly, the harder part was the priority order' is a quote fragment. Tags are generic. Emotional tone should be positive (significant policy win, tired but more solid)."
+    },
+    {
+      "sliceId": "2027-03-05-0530",
+      "focus_accurate": false,
+      "summary_accurate": false,
+      "tags_relevant": false,
+      "notes": "Focus is truncated ('co-pare' instead of 'co-parenting'). Summary 'It was a mix, but transportation was probably the sharpest edge' is a quote fragment. Tags are generic. Emotional tone should be mixed (frustrated by the friction but relieved to have a workable system emerging)."
+    },
+    {
+      "sliceId": "2027-05-18-0805",
+      "focus_accurate": false,
+      "summary_accurate": false,
+      "tags_relevant": false,
+      "notes": "Focus is truncated ('e'). Summary 'Pretty predictably, some people went straight to language about balance and visibility' is a quote fragment. Tags are generic. Emotional tone should be mixed (angry at having to defend concentration yet again, but grounded by having multi-year evidence)."
+    },
+    {
+      "sliceId": "2027-06-29-1315",
+      "focus_accurate": true,
+      "summary_accurate": false,
+      "tags_relevant": false,
+      "notes": "Focus is accurate. Summary 'Honestly, it was the combination that got me' is a quote fragment. Tags are generic. Emotional tone should be mixed (concerned about accumulating strain but proactive about getting help before things worsen)."
+    },
+    {
+      "sliceId": "2027-09-14-0210",
+      "focus_accurate": true,
+      "summary_accurate": false,
+      "tags_relevant": false,
+      "notes": "Focus is complete. Summary 'The room got quieter, which honestly was the best possible reaction' is a quote fragment. Tags are generic. Emotional tone should be positive (validation at last, relieved, though still holding some anger about how long it took)."
+    },
+    {
+      "sliceId": "2027-11-11-1020",
+      "focus_accurate": false,
+      "summary_accurate": false,
+      "tags_relevant": false,
+      "notes": "Focus is truncated ('muc'). Summary 'Honestly, it was the combination' is a quote fragment. Tags are generic and miss the specific travel preference shift. Emotional tone should be positive (hopeful, enjoying the planning, feeling calmer)."
+    },
+    {
+      "sliceId": "2028-02-06-0140",
+      "focus_accurate": false,
+      "summary_accurate": false,
+      "tags_relevant": false,
+      "notes": "Focus is truncated ('o'). Summary 'The first thing was chronic-offender criteria, because that was where too much drift could creep in' is a quote fragment. Tags are generic. Emotional tone should be positive (forward-looking, building durability, protecting gains)."
+    },
+    {
+      "sliceId": "2028-04-27-1205",
+      "focus_accurate": false,
+      "summary_accurate": false,
+      "tags_relevant": false,
+      "notes": "Focus is truncated ('real'). Summary 'Honestly, the first thing was how unbothered she seemed by structure' is a quote fragment. Tags are generic. Emotional tone should be positive (hopeful, cautiously optimistic, more settled than the previous relationship)."
+    },
+    {
+      "sliceId": "2028-08-21-0755",
+      "focus_accurate": false,
+      "summary_accurate": false,
+      "tags_relevant": false,
+      "notes": "Focus is truncated ('I'). Summary 'Yes, sturdier is the right word' is a quote fragment. Tags are generic. Emotional tone should be positive (vindicated, grounded, still conflict-tired but no longer doubting the work's value)."
+    }
+  ]
+}

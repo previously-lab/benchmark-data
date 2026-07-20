@@ -3,20 +3,25 @@
   "slices": [
     {
       "id": "2025-06-21-0410",
-      "focus": "A lot has shifted lately, and the work has started taking on a different shape t",
-      "summary": "It started because I finally had enough of a packet and routine that I trusted myself not to create ",
+      "focus": "Ariana launches a weekend recording circuit with elders around Claiborne Avenue",
+      "summary": "Ariana starts a structured weekend recording campaign with elders near Claiborne, using family introductions from Marcus and Lorraine. She does on-site intake with the full packet and portable recorder, capping weekends to avoid new backlogs.",
       "tags": [
-        "work",
-        "family",
-        "travel",
-        "housing",
-        "goals",
-        "environment",
-        "civic"
+        "field-recording",
+        "weekend-interview-circuit",
+        "claiborne-corridor",
+        "trust-network",
+        "portable-recorder-kit",
+        "marcus-batiste",
+        "lorraine-batiste",
+        "clean-intake-standardemotional_tone: neutral"
       ],
       "status": "closed",
       "start": "2025-06-21T04:10:00.000Z",
-      "open_loops": [],
+      "open_loops": [
+        "Creating a one-page field checklist from early learnings",
+        "Designing a referral sheet to capture leads without same-day obligation",
+        "Reviewing the pilot phase before expanding to more blocks"
+      ],
       "decisions": [
         "Ariana's archive role expanded from stricter internal cataloging into an active neighborhood oral-history campaign with "
       ]

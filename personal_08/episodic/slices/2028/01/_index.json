@@ -6,14 +6,25 @@
       "focus": "A lot has shifted lately, and this one feels bigger than the usual work update. ",
       "summary": "Honestly, hearing them ask for the documentation is what got me",
       "tags": [
-        "work",
-        "housing",
-        "leisure",
-        "goals"
+        "site-playbook-adoption",
+        "two-clean-peak-seasons",
+        "dock-huddle-standard",
+        "handoff-checklist-standard",
+        "peer-coach-model-standard",
+        "louisville-site-standard",
+        "career-milestone",
+        "sharon-pruitt-advocacy",
+        "non-negotiables-documentedemotional_tone: neutral"
       ],
       "status": "closed",
       "start": "2028-01-16T00:00:00.000Z",
-      "open_loops": [],
+      "open_loops": [
+        "Write core playbook in plain floor language first",
+        "Show Sharon rough draft before wider review",
+        "Build one-page add-on tools for detail sections",
+        "Create training outline alongside document",
+        "Label section: non-negotiables during high-pressure periods"
+      ],
       "decisions": [
         "Jermaine's forklift and dock injury-reduction system was adopted as the Louisville site's standard playbook after two co"
       ]

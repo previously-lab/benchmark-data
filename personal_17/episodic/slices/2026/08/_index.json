@@ -3,22 +3,27 @@
   "slices": [
     {
       "id": "2026-08-21-1100",
-      "focus": "Things have been busy lately, and one change I finally made was at home. I got s",
-      "summary": "Honestly, both",
+      "focus": "Colleen pays out of pocket for heavy shelving to turn her cluttered dining room into a functional home prep zone.",
+      "summary": "Tripping over outreach bins one morning pushes Colleen to invest in proper shelving for her dining room, which had become a chaotic museum supply spill. She creates labeled zones (lesson tubs, handouts, spare pieces), establishes a table rule (nothing lives there unless actively packing), and plans a designated outbound launch spot. The expense tightens her budget short-term but reduces daily friction. The deeper meaning: admitting the workload is not temporary, so the home setup must match reality.",
       "tags": [
-        "work",
-        "family",
-        "finance",
-        "education",
-        "housing",
-        "environment",
-        "civic"
+        "home-organization",
+        "dining-room-setup",
+        "personal-expense",
+        "budget-squeeze",
+        "work-life-boundary",
+        "prep-zone-function",
+        "monthly-maintenance",
+        "infrastructure-investmentemotional_tone: neutral"
       ],
       "status": "closed",
       "start": "2026-08-21T11:00:00.000Z",
-      "open_loops": [],
+      "open_loops": [
+        "Labels: big, plain, categorical -- not pretty, just obvious",
+        "Launch spot by door for outbound-only staging",
+        "Monthly 20-minute reset for maintenance (not weekly punishment)"
+      ],
       "decisions": [
-        "Colleen paid out of pocket for heavy shelving and reorganized her South Philadelphia dining room into a functional prep ",
+        "Colleen paid out of pocket for heavy shelving and reorganized her South Philadelphia dining room into a functional prep",
         "After paying for shelving and storage fixes at home, Colleen's already tight budget became even tighter in the short ter"
       ]
     }

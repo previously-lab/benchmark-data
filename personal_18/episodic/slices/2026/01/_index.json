@@ -6,16 +6,22 @@
       "focus": "Things have been a little calmer lately, and I had one of those very unglamorous",
       "summary": "Mostly rice bowls, honestly",
       "tags": [
-        "work",
-        "family",
-        "finance",
-        "housing",
-        "leisure",
-        "goals"
+        "meal-prep",
+        "rice-cooker",
+        "decision-fatigue",
+        "practical-simplicity",
+        "friendship-luis",
+        "low-friction",
+        "practical-contentmentemotional_tone: neutral"
       ],
       "status": "closed",
       "start": "2026-01-30T03:25:00.000Z",
-      "open_loops": [],
+      "open_loops": [
+        "Whether the three-bowl-template system stays lean or gets over-engineered",
+        "Whether the Sunday prep routine survives busy weeks",
+        "Rice cooker as a metaphor for valuing reliable over interesting",
+        "Not turning the system into a gear hobby (special containers, accessories)"
+      ],
       "decisions": [
         "Jordan especially leaned into batch-cooked rice bowls and practical leftovers once she had the rice cooker."
       ]

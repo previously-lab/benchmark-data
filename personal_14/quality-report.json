@@ -1,0 +1,218 @@
+{
+  "personaId": "personal_14",
+  "reviewedAt": "2026-07-20T12:00:00.000Z",
+  "model": "claude-haiku-4-5",
+  "overallNotes": "Caleb Martin Hebert (born 1984-11-02) is a 40+ year-old floodplain outreach specialist for Harris County Flood Control District in Humble, Texas. This is the most developed persona in the dataset with 30 slices spanning nearly 4 years (Jan 2025 - Nov 2028). The arc shows a remarkable professional evolution from workshop presenter to corridor follow-through specialist to the county's go-to adoption model builder. Major themes: (1) flood mitigation outreach work evolving from broad awareness to concentrated case-level follow-through; (2) recurrent storm-season anxiety and stress-triggered acid reflux as a persistent health challenge; (3) caregiving for his mother Dorothy (diabetes, mobility, doctor resistance) as a long-running family stressor; (4) his marriage to Lena as a stabilizing force that requires active maintenance; (5) friendships with Miguel Trevino (engineer colleague) and Terrence Guidry (GIS friend) as key support structures; (6) home repair financial strain as a recurring theme that deepens his empathy for residents; (7) small leisure discoveries (audiobooks, plant photography, Astros scorekeeping, legal procedurals) as markers of emotional recovery. The current tags are all broad categories (work, family, health, etc.) that are technically present in every slice but useless for search. The existing decisions fields are generally accurate but could be more specific. Open_loops fields are absent across all slices. Focus fields often repeat the first line of the conversation rather than summarizing what the conversation is actually about. All emotional_tone fields are set to 'neutral' but many conversations have clear emotional valence.",
+  "issues": [
+    {
+      "sliceId": "2025-01-08-1130",
+      "focus_accurate": false,
+      "summary_accurate": false,
+      "tags_relevant": false,
+      "notes": "Focus is a meaningless quote fragment. Summary is only 'My name is Caleb Martin Hebert.' Tags are generic categories that apply to every slice. This is an onboarding/profile session — needs complete rewrite."
+    },
+    {
+      "sliceId": "2025-02-11-0020",
+      "focus_accurate": true,
+      "summary_accurate": false,
+      "tags_relevant": false,
+      "notes": "Focus is accurate in content but truncated (cut off mid-sentence). Summary is a quote fragment from later in the conversation, not descriptive. Tags are generic."
+    },
+    {
+      "sliceId": "2025-03-02-0840",
+      "focus_accurate": false,
+      "summary_accurate": false,
+      "tags_relevant": false,
+      "notes": "Focus is a quote fragment from opening turn, not a description. Summary is another quote fragment. Tags are generic. The conversation is about friendship as emotional regulation, not about any of the listed categories."
+    },
+    {
+      "sliceId": "2025-04-09-1010",
+      "focus_accurate": false,
+      "summary_accurate": false,
+      "tags_relevant": false,
+      "notes": "Focus is a sentence fragment cut off mid-way. Summary is a user quote fragment. Tags are generic. Work/housing/goals are relevant but far too broad."
+    },
+    {
+      "sliceId": "2025-05-18-0525",
+      "focus_accurate": false,
+      "summary_accurate": true,
+      "tags_relevant": false,
+      "notes": "Focus is a sentence fragment. Summary is a quote fragment. Tags are the usual generic categories. Conversation is specifically about caregiving formalization."
+    },
+    {
+      "sliceId": "2025-06-24-0105",
+      "focus_accurate": false,
+      "summary_accurate": false,
+      "tags_relevant": false,
+      "notes": "Focus is a sentence fragment. Summary is a user quote fragment. Tags are generic categories missing the specific clinic/format-change content."
+    },
+    {
+      "sliceId": "2025-07-12-0350",
+      "focus_accurate": false,
+      "summary_accurate": false,
+      "tags_relevant": false,
+      "notes": "Focus is a sentence fragment. Summary is a user quote. Tags are the generic list that don't capture the specific food/health discovery. This is a light, positive conversation about a small but meaningful health adjustment."
+    },
+    {
+      "sliceId": "2025-08-19-0940",
+      "focus_accurate": false,
+      "summary_accurate": false,
+      "tags_relevant": false,
+      "notes": "Focus is a sentence fragment. Summary is a user quote from later in conversation. Tags miss the serious burnout and health crisis that is the core of this slice. Emotional tone is clearly negative (anxious, brittle, strained) not neutral."
+    },
+    {
+      "sliceId": "2025-09-06-0715",
+      "focus_accurate": false,
+      "summary_accurate": true,
+      "tags_relevant": false,
+      "notes": "Focus is a sentence fragment. Tags are generic and miss the specific pet blessing, Roux, and Nadine content. Emotional tone should be positive (restored, connected) not neutral."
+    },
+    {
+      "sliceId": "2025-10-28-0230",
+      "focus_accurate": false,
+      "summary_accurate": true,
+      "tags_relevant": false,
+      "notes": "Focus is a sentence fragment. Tags are generic categories that don't capture the strategic narrow-focus shift. Conversation shows Caleb becoming more strategic and evidence-driven."
+    },
+    {
+      "sliceId": "2025-12-14-1020",
+      "focus_accurate": false,
+      "summary_accurate": true,
+      "tags_relevant": false,
+      "notes": "Focus is a sentence fragment. Tags are generic and miss the specific audiobook hobby discovery. Emotional tone is clearly positive (curious, relaxed) not neutral."
+    },
+    {
+      "sliceId": "2026-01-26-0145",
+      "focus_accurate": false,
+      "summary_accurate": true,
+      "tags_relevant": false,
+      "notes": "Focus is a sentence fragment. Summary is a user quote. Tags are generic categories that fail to capture the address-specific packet innovation."
+    },
+    {
+      "sliceId": "2026-03-04-1205",
+      "focus_accurate": false,
+      "summary_accurate": true,
+      "tags_relevant": false,
+      "notes": "Focus is a sentence fragment. Tags are generic and miss the specific home repair incident and its financial/emotional impact. Emotional tone is clearly negative (frustrated, boxed in) not neutral."
+    },
+    {
+      "sliceId": "2026-04-21-0610",
+      "focus_accurate": false,
+      "summary_accurate": true,
+      "tags_relevant": false,
+      "notes": "Focus is a sentence fragment. Tags are too sparse and generic. Emotional tone should be negative (discouraged, defensive) not neutral."
+    },
+    {
+      "sliceId": "2026-05-29-0435",
+      "focus_accurate": false,
+      "summary_accurate": true,
+      "tags_relevant": false,
+      "notes": "Focus is a sentence fragment. Tags are generic and miss the specific plant photography hobby. Emotional tone is positive (curious, settled) not neutral."
+    },
+    {
+      "sliceId": "2026-07-07-0055",
+      "focus_accurate": false,
+      "summary_accurate": true,
+      "tags_relevant": false,
+      "notes": "Focus is a sentence fragment. Tags are generic and miss the specific three-bucket status sheet innovation. Emotional tone should be mixed (tired but effective) not neutral."
+    },
+    {
+      "sliceId": "2026-08-18-1045",
+      "focus_accurate": false,
+      "summary_accurate": true,
+      "tags_relevant": false,
+      "notes": "Focus is a sentence fragment. Tags are generic. Emotional tone should be mixed (anxious but proactive) not neutral."
+    },
+    {
+      "sliceId": "2026-10-03-0220",
+      "focus_accurate": false,
+      "summary_accurate": true,
+      "tags_relevant": false,
+      "notes": "Focus is a sentence fragment. Summary is a user quote. Tags miss the specific title-support and bilingual intake additions."
+    },
+    {
+      "sliceId": "2026-11-19-1110",
+      "focus_accurate": false,
+      "summary_accurate": true,
+      "tags_relevant": false,
+      "notes": "Focus is a sentence fragment. Tags are generic. Emotional tone is positive (curious, engaged) not neutral."
+    },
+    {
+      "sliceId": "2027-01-30-0135",
+      "focus_accurate": false,
+      "summary_accurate": true,
+      "tags_relevant": false,
+      "notes": "Focus is a sentence fragment. Tags are generic and miss the specific scoreboard innovation and strategic defense purpose."
+    },
+    {
+      "sliceId": "2027-03-16-0955",
+      "focus_accurate": false,
+      "summary_accurate": true,
+      "tags_relevant": false,
+      "notes": "Focus is a sentence fragment. Tags are generic and miss the specific fall incident and safety improvements. Emotional tone should be mixed (worried but productive) not neutral."
+    },
+    {
+      "sliceId": "2027-05-05-0325",
+      "focus_accurate": false,
+      "summary_accurate": true,
+      "tags_relevant": false,
+      "notes": "Focus is a sentence fragment. Tags are generic and miss the specific corridor walk and resident testimony innovation."
+    },
+    {
+      "sliceId": "2027-06-23-1230",
+      "focus_accurate": false,
+      "summary_accurate": true,
+      "tags_relevant": false,
+      "notes": "Focus is a sentence fragment. Tags are generic and miss the specific scorekeeping hobby. Emotional tone is positive (light, relaxed) not neutral."
+    },
+    {
+      "sliceId": "2027-08-31-0040",
+      "focus_accurate": false,
+      "summary_accurate": true,
+      "tags_relevant": false,
+      "notes": "Focus is a sentence fragment. Tags are generic. Emotional tone should be mixed (tired but resolute) not neutral."
+    },
+    {
+      "sliceId": "2027-10-14-0600",
+      "focus_accurate": false,
+      "summary_accurate": true,
+      "tags_relevant": false,
+      "notes": "Focus is a sentence fragment. Tags are generic. Emotional tone should be mixed (frustrated but resolved) not neutral."
+    },
+    {
+      "sliceId": "2028-01-17-0115",
+      "focus_accurate": false,
+      "summary_accurate": true,
+      "tags_relevant": false,
+      "notes": "Focus is a sentence fragment. Tags are generic and miss the specific 30/60/90 retention innovation."
+    },
+    {
+      "sliceId": "2028-03-09-1140",
+      "focus_accurate": false,
+      "summary_accurate": true,
+      "tags_relevant": false,
+      "notes": "Focus is a sentence fragment. Tags are generic. Emotional tone is positive (steadier, expanded) not neutral."
+    },
+    {
+      "sliceId": "2028-05-28-0505",
+      "focus_accurate": false,
+      "summary_accurate": true,
+      "tags_relevant": false,
+      "notes": "Focus is a sentence fragment. Tags miss the specific senior staff briefing and the professional milestone it represents."
+    },
+    {
+      "sliceId": "2028-08-06-2310",
+      "focus_accurate": false,
+      "summary_accurate": true,
+      "tags_relevant": false,
+      "notes": "Focus is a sentence fragment. Tags are generic. Emotional tone should be positive (controlled, self-aware) not neutral."
+    },
+    {
+      "sliceId": "2028-11-21-0825",
+      "focus_accurate": false,
+      "summary_accurate": true,
+      "tags_relevant": false,
+      "notes": "Focus is a sentence fragment. Tags are generic. This is a major milestone slice — the culmination of the entire 4-year arc."
+    }
+  ]
+}

@@ -3,19 +3,24 @@
   "slices": [
     {
       "id": "2027-07-30-0810",
-      "focus": "A lot has shifted lately, and the biggest non-work thing is that my housing situ",
-      "summary": "Honestly, I pictured the roommate search and immediately felt tired",
+      "focus": "After Priya accepts a Boston job, Hannah chooses a smaller solo apartment over a roommate search",
+      "summary": "After Priya (her roommate since grad school) gets a Boston development job, Hannah moves to a smaller solo Providence apartment — consciously choosing quiet, control, and less clutter over cheaper shared space with a stranger.",
       "tags": [
-        "work",
-        "finance",
-        "travel",
-        "education",
-        "housing",
-        "goals"
+        "priya-move-boston",
+        "solo-apartment-choice",
+        "longtime-roommate-loss",
+        "work-home-boundary-protection",
+        "intentional-simplicity",
+        "friend-grief-mundane-cuesemotional_tone: neutral"
       ],
       "status": "closed",
       "start": "2027-07-30T08:10:00.000Z",
-      "open_loops": [],
+      "open_loops": [
+        "Set hard work-box boundary immediately (one zone, hard capacity limit)",
+        "Finish kitchen setup (good lighting, sleep setup, one frictionless cooking station)",
+        "Text Priya a first Boston date idea before move logistics swallow it",
+        "Allow sadness without turning it into evidence of wrong choice"
+      ],
       "decisions": [
         "After Priya accepted a stronger development job in Boston and planned to move at the end of the summer, Hannah moved out"
       ]

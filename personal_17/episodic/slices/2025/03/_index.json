@@ -3,39 +3,50 @@
   "slices": [
     {
       "id": "2025-03-05-0220",
-      "focus": "Things have been shifting a lot lately, and this finally feels like the first pi",
-      "summary": "The shape of it got clearer once I stopped thinking in museum language and started thinking like a c",
+      "focus": "Colleen moves from general rebuild into leading a structured pilot of the museum's first curriculum-tied school package.",
+      "summary": "Colleen completes a 4th-grade Philadelphia fire history curriculum package with three components: pre-visit slides for teachers, a fixed 45-minute museum route, and an outreach cart for classroom visits when transportation fails. The design is grounded in teacher input and analysis of past canceled/rushed tours. She defines three nonnegotiables (city history thread, one hands-on moment, one fast noticing prompt) and commits to 'protecting the test' from scope creep.",
       "tags": [
-        "work",
-        "travel",
-        "education",
-        "leisure",
-        "goals",
-        "environment",
-        "civic"
+        "curriculum-package",
+        "pilot-launch",
+        "teacher-needs",
+        "bus-schedule-reality",
+        "pre-visit-materials",
+        "outreach-cart",
+        "45-minute-route",
+        "program-structureemotional_tone: neutral"
       ],
       "status": "closed",
       "start": "2025-03-05T02:20:00.000Z",
-      "open_loops": [],
+      "open_loops": [
+        "Pushback expected from volunteers who prefer longer storytelling format",
+        "Need to present package as 'working pilot' not finished product",
+        "Classroom version needs one-sentence definition ('same story, smaller footprint')"
+      ],
       "decisions": [
         "Colleen moved from a general 2025 school-program rebuild into leading a structured pilot of the museum's first curriculu"
       ]
     },
     {
       "id": "2025-03-29-1030",
-      "focus": "Things have been busy for a while, but I finally had one slightly lighter Saturd",
-      "summary": "It was definitely a cheerful shove",
+      "focus": "After the packet push, Colleen discovers her reading habits have shifted toward lighter detective novels as a recovery practice.",
+      "summary": "Nina takes a depleted Colleen to a used bookstore after finishing the first school packet. Colleen discovers she craves secondhand detective novels over dense history books during busy stretches. She realizes she needs to separate reading into two lanes: comfort fiction for depleted weekday evenings and serious reading for weekend mornings. Commits to a bedside basket of used mysteries and thanks Nina for 'plot-based intervention.'",
       "tags": [
-        "work",
-        "family",
-        "education",
-        "housing",
-        "leisure",
-        "goals"
+        "reading-habits",
+        "burnout-recovery",
+        "friend-intervention",
+        "detective-novels",
+        "comfort-reading",
+        "guilt-release",
+        "weekday-vs-weekend",
+        "ritual-creationemotional_tone: neutral"
       ],
       "status": "closed",
       "start": "2025-03-29T10:30:00.000Z",
-      "open_loops": [],
+      "open_loops": [
+        "Basket of used mysteries by the bed -- keeping it as a default evening habit",
+        "Tension between ideal-self reading and what actually helps on a Tuesday needs ongoing management",
+        "Used-bookstore ritual as part of recovery practice, not just genre preference"
+      ],
       "decisions": [
         "Colleen now leans more heavily on secondhand detective novels from Nina during busy museum stretches, saving narrative h"
       ]

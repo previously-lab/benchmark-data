@@ -5,37 +5,23 @@
       "name": "Marisa Elaine Cardenas",
       "description": "30 sessions across 2025-01 → 2028-10",
       "topics": [
-        "work",
-        "family",
-        "health",
-        "finance",
-        "relationship",
-        "travel",
-        "education",
-        "housing",
-        "goals",
-        "environment",
-        "leisure",
-        "civic"
+        "personal-introduction",
+        "environmental-science-background",
+        "oyster-habitat-restoration-goal",
+        "tacoma-washington-life",
+        "single-mother-co-parenting",
+        "istj-personality-traitemotional_tone: neutral",
+        "oyster-habitat-lead-role",
+        "shoreline-strategy-meeting",
+        "gordon-whitaker-handoff",
+        "permit-coordination-expansion",
+        "public-speaking-leadership",
+        "internal-team-communicationemotional_tone: neutral"
       ],
       "sliceCount": 30,
       "dateRange": [
         "2025-01",
         "2028-10"
-      ],
-      "strands": [
-        "work",
-        "family",
-        "health",
-        "finance",
-        "relationship",
-        "travel",
-        "education",
-        "housing",
-        "goals",
-        "environment",
-        "leisure",
-        "civic"
       ],
       "tree": {
         "episodic": {
@@ -338,6 +324,9 @@
             "strands.json"
           ]
         },
+        "_files": [
+          "quality-report.json"
+        ],
         "user": {
           "_files": [
             "profile.md"
@@ -349,37 +338,23 @@
       "name": "Lucia Elena Montoya",
       "description": "30 sessions across 2025-01 → 2028-09",
       "topics": [
-        "work",
-        "family",
-        "health",
-        "finance",
-        "relationship",
-        "travel",
-        "education",
-        "leisure",
-        "housing",
-        "goals",
-        "civic",
-        "environment"
+        "personal-intake",
+        "court-interpreter-career",
+        "civic-reform-goal",
+        "albuquerque-setting",
+        "migraine-management",
+        "eldercare-responsibility",
+        "marriage-strain",
+        "language-access-advocacyemotional_tone: neutral",
+        "court-coverage-crisis",
+        "public-arraignment-breakdown",
+        "incident-log-creation",
+        "language-access-advocacy"
       ],
       "sliceCount": 30,
       "dateRange": [
         "2025-01",
         "2028-09"
-      ],
-      "strands": [
-        "work",
-        "family",
-        "health",
-        "finance",
-        "relationship",
-        "travel",
-        "education",
-        "leisure",
-        "housing",
-        "goals",
-        "civic",
-        "environment"
       ],
       "tree": {
         "episodic": {
@@ -682,6 +657,9 @@
             "strands.json"
           ]
         },
+        "_files": [
+          "quality-report.json"
+        ],
         "user": {
           "_files": [
             "profile.md"
@@ -693,37 +671,23 @@
       "name": "Derek Anthony Kubik",
       "description": "30 sessions across 2025-01 → 2028-05",
       "topics": [
-        "work",
-        "family",
-        "health",
-        "finance",
-        "relationship",
-        "travel",
-        "education",
-        "housing",
-        "leisure",
-        "environment",
-        "goals",
-        "civic"
+        "initial-profile-build",
+        "union-electrical-career",
+        "apprenticeship-instruction",
+        "pittsburgh-working-class",
+        "family-finance-strain",
+        "chronic-back-injury",
+        "marriage-dynamics",
+        "trades-pipeline-goalemotional_tone: neutral",
+        "near-miss-incident",
+        "ladder-safety-reform",
+        "first-year-apprentice-training",
+        "union-workplace-politics"
       ],
       "sliceCount": 30,
       "dateRange": [
         "2025-01",
         "2028-05"
-      ],
-      "strands": [
-        "work",
-        "family",
-        "health",
-        "finance",
-        "relationship",
-        "travel",
-        "education",
-        "housing",
-        "leisure",
-        "environment",
-        "goals",
-        "civic"
       ],
       "tree": {
         "episodic": {
@@ -1031,6 +995,9 @@
             "strands.json"
           ]
         },
+        "_files": [
+          "quality-report.json"
+        ],
         "user": {
           "_files": [
             "profile.md"
@@ -1042,37 +1009,23 @@
       "name": "Tasha Nicole Whitfield",
       "description": "30 sessions across 2025-01 → 2028-06",
       "topics": [
-        "work",
-        "family",
-        "finance",
-        "relationship",
-        "travel",
-        "education",
-        "housing",
-        "leisure",
-        "health",
-        "goals",
-        "civic",
-        "environment"
+        "self-introduction",
+        "bereavement-coordinator-role",
+        "hospice-social-work",
+        "raleigh-north-carolina",
+        "isfj-personality-type",
+        "bereavement-care-reach-goal",
+        "family-history-grief",
+        "support-network-mappingemotional_tone: neutral",
+        "volunteer-coverage-crisis",
+        "east-raleigh-grief-groups",
+        "protected-workday-gained",
+        "process-cleanup-planning"
       ],
       "sliceCount": 30,
       "dateRange": [
         "2025-01",
         "2028-06"
-      ],
-      "strands": [
-        "work",
-        "family",
-        "finance",
-        "relationship",
-        "travel",
-        "education",
-        "housing",
-        "leisure",
-        "health",
-        "goals",
-        "civic",
-        "environment"
       ],
       "tree": {
         "episodic": {
@@ -1380,6 +1333,9 @@
             "strands.json"
           ]
         },
+        "_files": [
+          "quality-report.json"
+        ],
         "user": {
           "_files": [
             "profile.md"
@@ -1391,37 +1347,23 @@
       "name": "Nathaniel James Hollis",
       "description": "30 sessions across 2025-01 → 2028-05",
       "topics": [
-        "work",
-        "family",
-        "health",
-        "finance",
-        "relationship",
-        "travel",
-        "education",
-        "housing",
-        "leisure",
-        "goals",
-        "civic",
-        "environment"
+        "self-introduction",
+        "personal-background",
+        "cota",
+        "transit-scheduling",
+        "columbus-ohio",
+        "health-concerns",
+        "family-obligations",
+        "istj-personalityemotional_tone: neutral",
+        "corridor-diagnostic",
+        "transit-reliability",
+        "operations-planning",
+        "monica-mentorship"
       ],
       "sliceCount": 30,
       "dateRange": [
         "2025-01",
         "2028-05"
-      ],
-      "strands": [
-        "work",
-        "family",
-        "health",
-        "finance",
-        "relationship",
-        "travel",
-        "education",
-        "housing",
-        "leisure",
-        "goals",
-        "civic",
-        "environment"
       ],
       "tree": {
         "episodic": {
@@ -1729,6 +1671,9 @@
             "strands.json"
           ]
         },
+        "_files": [
+          "quality-report.json"
+        ],
         "user": {
           "_files": [
             "profile.md"
@@ -1740,37 +1685,23 @@
       "name": "Hannah Louise Mercer",
       "description": "30 sessions across 2025-01 → 2028-06",
       "topics": [
-        "work",
-        "family",
-        "health",
-        "finance",
-        "relationship",
-        "travel",
-        "education",
-        "housing",
-        "leisure",
-        "goals",
-        "environment",
-        "civic"
+        "persona-onboarding",
+        "museum-registrar",
+        "providence-rhode-island",
+        "istj-personality",
+        "museum-studies-background",
+        "collections-integrity-vision",
+        "family-dynamics",
+        "modest-salary-constraintsemotional_tone: neutral",
+        "collections-integrity-review",
+        "photography-loan-trigger",
+        "registrar-advocacy",
+        "documentation-gap-exposure"
       ],
       "sliceCount": 30,
       "dateRange": [
         "2025-01",
         "2028-06"
-      ],
-      "strands": [
-        "work",
-        "family",
-        "health",
-        "finance",
-        "relationship",
-        "travel",
-        "education",
-        "housing",
-        "leisure",
-        "goals",
-        "environment",
-        "civic"
       ],
       "tree": {
         "episodic": {
@@ -2078,6 +2009,9 @@
             "strands.json"
           ]
         },
+        "_files": [
+          "quality-report.json"
+        ],
         "user": {
           "_files": [
             "profile.md"
@@ -2089,35 +2023,23 @@
       "name": "Evan Michael Dorsey",
       "description": "30 sessions across 2025-01 → 2028-09",
       "topics": [
-        "work",
-        "family",
-        "health",
-        "finance",
-        "relationship",
-        "travel",
-        "education",
-        "housing",
-        "goals",
-        "leisure",
-        "civic"
+        "persona-onboarding-and-background",
+        "procurement-reform-longterm-goal",
+        "multigenerational-maplewood-household",
+        "istj-personality-profile",
+        "public-k12-operations-context",
+        "st-louis-rooted-identityemotional_tone: \"positive\"",
+        "purchasing-cleanup-mandate",
+        "audit-exception-response",
+        "shared-tracker-design",
+        "scope-boundary-setting",
+        "district-politics-navigation",
+        "focused-strain-vs-diffuse-strainemotional_tone: \"mixed\""
       ],
       "sliceCount": 30,
       "dateRange": [
         "2025-01",
         "2028-09"
-      ],
-      "strands": [
-        "work",
-        "family",
-        "health",
-        "finance",
-        "relationship",
-        "travel",
-        "education",
-        "housing",
-        "goals",
-        "leisure",
-        "civic"
       ],
       "tree": {
         "episodic": {
@@ -2430,6 +2352,9 @@
             "strands.json"
           ]
         },
+        "_files": [
+          "quality-report.json"
+        ],
         "user": {
           "_files": [
             "profile.md"
@@ -2441,35 +2366,23 @@
       "name": "Jermaine Allen Booker",
       "description": "30 sessions across 2025-01 → 2028-08",
       "topics": [
-        "work",
-        "family",
-        "health",
-        "finance",
-        "relationship",
-        "travel",
-        "education",
-        "housing",
-        "goals",
-        "leisure",
-        "environment"
+        "personal-introduction",
+        "identity-establishment",
+        "safety-trainer-role",
+        "feeders-supply-company",
+        "family-separation",
+        "shared-custody",
+        "injury-reduction-goal",
+        "knee-pain",
+        "estj-personality",
+        "louisville-kentuckyemotional_tone: neutral",
+        "safety-reset-approval",
+        "dock-door-near-miss"
       ],
       "sliceCount": 30,
       "dateRange": [
         "2025-01",
         "2028-08"
-      ],
-      "strands": [
-        "work",
-        "family",
-        "health",
-        "finance",
-        "relationship",
-        "travel",
-        "education",
-        "housing",
-        "goals",
-        "leisure",
-        "environment"
       ],
       "tree": {
         "episodic": {
@@ -2777,6 +2690,9 @@
             "strands.json"
           ]
         },
+        "_files": [
+          "quality-report.json"
+        ],
         "user": {
           "_files": [
             "profile.md"
@@ -2788,37 +2704,23 @@
       "name": "Nadia Samira Rahal",
       "description": "30 sessions across 2025-01 → 2028-06",
       "topics": [
-        "work",
-        "family",
-        "health",
-        "finance",
-        "travel",
-        "education",
-        "housing",
-        "leisure",
-        "goals",
-        "civic",
-        "relationship",
-        "environment"
+        "personal-introduction",
+        "life-situation-overview",
+        "refugee-resettlement-work",
+        "wedding-planning",
+        "family-responsibility",
+        "buffalo-community",
+        "mbti-infj",
+        "career-goalsemotional_tone: neutral",
+        "winter-intake-surge",
+        "triage-board-prototype",
+        "crisis-response-leadership",
+        "team-workflow-redesign"
       ],
       "sliceCount": 30,
       "dateRange": [
         "2025-01",
         "2028-06"
-      ],
-      "strands": [
-        "work",
-        "family",
-        "health",
-        "finance",
-        "travel",
-        "education",
-        "housing",
-        "leisure",
-        "goals",
-        "civic",
-        "relationship",
-        "environment"
       ],
       "tree": {
         "episodic": {
@@ -3121,6 +3023,9 @@
             "strands.json"
           ]
         },
+        "_files": [
+          "quality-report.json"
+        ],
         "user": {
           "_files": [
             "profile.md"
@@ -3132,37 +3037,23 @@
       "name": "Kelli Ann Brotherton",
       "description": "30 sessions across 2025-01 → 2028-04",
       "topics": [
-        "work",
-        "family",
-        "health",
-        "finance",
-        "relationship",
-        "travel",
-        "education",
-        "housing",
-        "leisure",
-        "goals",
-        "environment",
-        "civic"
+        "onboarding-intake",
+        "rural-healthcare-admin",
+        "claims-turnaround-goal",
+        "istj-personality",
+        "dialysis-caregiving",
+        "emmett-idaho",
+        "revenue-cycle-lead",
+        "health-information-managementemotional_tone: neutral",
+        "claims-turnaround-project",
+        "denial-categories",
+        "monica-wren-ally",
+        "cash-flow-scare"
       ],
       "sliceCount": 30,
       "dateRange": [
         "2025-01",
         "2028-04"
-      ],
-      "strands": [
-        "work",
-        "family",
-        "health",
-        "finance",
-        "relationship",
-        "travel",
-        "education",
-        "housing",
-        "leisure",
-        "goals",
-        "environment",
-        "civic"
       ],
       "tree": {
         "episodic": {
@@ -3470,6 +3361,9 @@
             "strands.json"
           ]
         },
+        "_files": [
+          "quality-report.json"
+        ],
         "user": {
           "_files": [
             "profile.md"
@@ -3481,37 +3375,23 @@
       "name": "Monica Renee Halverson",
       "description": "30 sessions across 2025-01 → 2028-08",
       "topics": [
-        "work",
-        "family",
-        "health",
-        "finance",
-        "relationship",
-        "travel",
-        "education",
-        "housing",
-        "leisure",
-        "goals",
-        "civic",
-        "environment"
+        "personal-introduction",
+        "housing-code-inspection-career",
+        "milwaukee-wisconsin-life",
+        "istj-personality-profile",
+        "single-mother-co-parenting",
+        "divorce-financial-recovery",
+        "asthma-health-management",
+        "public-service-motivationemotional_tone: neutral",
+        "child-exposure-hazard-board",
+        "repeat-offender-corridor-tracker",
+        "fourplex-crisis-turning-point",
+        "andre-pruitt-pattern-recognition"
       ],
       "sliceCount": 30,
       "dateRange": [
         "2025-01",
         "2028-08"
-      ],
-      "strands": [
-        "work",
-        "family",
-        "health",
-        "finance",
-        "relationship",
-        "travel",
-        "education",
-        "housing",
-        "leisure",
-        "goals",
-        "civic",
-        "environment"
       ],
       "tree": {
         "episodic": {
@@ -3819,6 +3699,9 @@
             "strands.json"
           ]
         },
+        "_files": [
+          "quality-report.json"
+        ],
         "user": {
           "_files": [
             "profile.md"
@@ -3830,37 +3713,23 @@
       "name": "Ariana Celeste Batiste",
       "description": "30 sessions across 2025-01 → 2028-06",
       "topics": [
-        "work",
-        "family",
-        "finance",
-        "relationship",
-        "travel",
-        "education",
-        "housing",
-        "leisure",
-        "health",
-        "goals",
-        "environment",
-        "civic"
+        "self-introduction",
+        "personal-background",
+        "archivist-identity",
+        "oral-history-mission",
+        "new-orleans-roots",
+        "treme-heritage-center",
+        "community-preservation",
+        "life-prioritiesemotional_tone: neutral",
+        "mold-discovery",
+        "emergency-stabilization",
+        "archive-crisis",
+        "storage-triage"
       ],
       "sliceCount": 30,
       "dateRange": [
         "2025-01",
         "2028-06"
-      ],
-      "strands": [
-        "work",
-        "family",
-        "finance",
-        "relationship",
-        "travel",
-        "education",
-        "housing",
-        "leisure",
-        "health",
-        "goals",
-        "environment",
-        "civic"
       ],
       "tree": {
         "episodic": {
@@ -4168,6 +4037,9 @@
             "strands.json"
           ]
         },
+        "_files": [
+          "quality-report.json"
+        ],
         "user": {
           "_files": [
             "profile.md"
@@ -4179,37 +4051,23 @@
       "name": "Danielle Marie Rosas",
       "description": "30 sessions across 2025-01 → 2028-10",
       "topics": [
-        "work",
-        "family",
-        "health",
-        "finance",
-        "travel",
-        "education",
-        "housing",
-        "leisure",
-        "goals",
-        "civic",
-        "environment",
-        "relationship"
+        "personal-introduction",
+        "biography-and-background",
+        "istj-personality-temperament",
+        "phoenix-arizona-living",
+        "single-mother-to-mateo",
+        "school-nutrition-logistics-roleemotional_tone: \"positive\"",
+        "vendor-delivery-failure",
+        "incident-review-folder",
+        "systemic-logistics-breakdown",
+        "evidence-based-tracking",
+        "work-stress-replay-loop",
+        "boundary-setting-at-workemotional_tone: \"mixed\""
       ],
       "sliceCount": 30,
       "dateRange": [
         "2025-01",
         "2028-10"
-      ],
-      "strands": [
-        "work",
-        "family",
-        "health",
-        "finance",
-        "travel",
-        "education",
-        "housing",
-        "leisure",
-        "goals",
-        "civic",
-        "environment",
-        "relationship"
       ],
       "tree": {
         "episodic": {
@@ -4512,6 +4370,9 @@
             "strands.json"
           ]
         },
+        "_files": [
+          "quality-report.json"
+        ],
         "user": {
           "_files": [
             "profile.md"
@@ -4523,37 +4384,23 @@
       "name": "Caleb Martin Hebert",
       "description": "30 sessions across 2025-01 → 2028-11",
       "topics": [
-        "work",
-        "family",
-        "health",
-        "finance",
-        "relationship",
-        "travel",
-        "education",
-        "housing",
-        "leisure",
-        "goals",
-        "environment",
-        "civic"
+        "personal-introduction",
+        "isfj-personality-type",
+        "geography-degree-background",
+        "flood-mitigation-adoption-goal",
+        "lena-hebert-marriage",
+        "dorothy-faye-caregiving-context",
+        "stress-triggered-acid-reflux",
+        "hurricane-season-anxiety",
+        "houston-area-rootednessemotional_tone: neutral",
+        "corridor-workshop-launch",
+        "flood-mitigation-outreach",
+        "homeowner-workshop-series"
       ],
       "sliceCount": 30,
       "dateRange": [
         "2025-01",
         "2028-11"
-      ],
-      "strands": [
-        "work",
-        "family",
-        "health",
-        "finance",
-        "relationship",
-        "travel",
-        "education",
-        "housing",
-        "leisure",
-        "goals",
-        "environment",
-        "civic"
       ],
       "tree": {
         "episodic": {
@@ -4871,6 +4718,9 @@
             "strands.json"
           ]
         },
+        "_files": [
+          "quality-report.json"
+        ],
         "user": {
           "_files": [
             "profile.md"
@@ -4882,35 +4732,23 @@
       "name": "Park Jae",
       "description": "30 sessions across 2025-01 → 2028-04",
       "topics": [
-        "work",
-        "family",
-        "health",
-        "finance",
-        "relationship",
-        "travel",
-        "education",
-        "housing",
-        "leisure",
-        "environment",
-        "goals"
+        "initial-onboarding",
+        "personal-profile",
+        "maritime-logistics",
+        "port-dispatch",
+        "istj-personality",
+        "family-obligation",
+        "shift-work-health",
+        "newly-marriedemotional_tone: neutral",
+        "handoff-failure",
+        "seafood-client-incident",
+        "verbal-handoff-conflict",
+        "delay-documentation"
       ],
       "sliceCount": 30,
       "dateRange": [
         "2025-01",
         "2028-04"
-      ],
-      "strands": [
-        "work",
-        "family",
-        "health",
-        "finance",
-        "relationship",
-        "travel",
-        "education",
-        "housing",
-        "leisure",
-        "environment",
-        "goals"
       ],
       "tree": {
         "episodic": {
@@ -5218,6 +5056,9 @@
             "strands.json"
           ]
         },
+        "_files": [
+          "quality-report.json"
+        ],
         "user": {
           "_files": [
             "profile.md"
@@ -5229,37 +5070,23 @@
       "name": "Saira Nadeem Hussain",
       "description": "30 sessions across 2025-01 → 2028-05",
       "topics": [
-        "work",
-        "family",
-        "health",
-        "finance",
-        "relationship",
-        "travel",
-        "education",
-        "housing",
-        "goals",
-        "leisure",
-        "environment",
-        "civic"
+        "onboarding",
+        "personal-background",
+        "career-introduction",
+        "relationship-profile",
+        "personality-istj",
+        "life-goals",
+        "family-dynamics",
+        "health-concernsemotional_tone: neutral",
+        "compliance-scare",
+        "dispensing-error",
+        "workflow-review",
+        "operations-lead"
       ],
       "sliceCount": 30,
       "dateRange": [
         "2025-01",
         "2028-05"
-      ],
-      "strands": [
-        "work",
-        "family",
-        "health",
-        "finance",
-        "relationship",
-        "travel",
-        "education",
-        "housing",
-        "goals",
-        "leisure",
-        "environment",
-        "civic"
       ],
       "tree": {
         "episodic": {
@@ -5567,6 +5394,9 @@
             "strands.json"
           ]
         },
+        "_files": [
+          "quality-report.json"
+        ],
         "user": {
           "_files": [
             "profile.md"
@@ -5578,37 +5408,23 @@
       "name": "Colleen Margaret Sweeney",
       "description": "30 sessions across 2025-01 → 2028-05",
       "topics": [
-        "work",
-        "family",
-        "health",
-        "finance",
-        "travel",
-        "education",
-        "housing",
-        "leisure",
-        "goals",
-        "environment",
-        "civic",
-        "relationship"
+        "initial-onboarding",
+        "life-snapshot",
+        "work-overview",
+        "family-dynamics",
+        "financial-context",
+        "health-baseline",
+        "goal-setting",
+        "philadelphia-lifeemotional_tone: neutral",
+        "work-breakthrough",
+        "data-driven-case",
+        "rebuild-year",
+        "teacher-outreach"
       ],
       "sliceCount": 30,
       "dateRange": [
         "2025-01",
         "2028-05"
-      ],
-      "strands": [
-        "work",
-        "family",
-        "health",
-        "finance",
-        "travel",
-        "education",
-        "housing",
-        "leisure",
-        "goals",
-        "environment",
-        "civic",
-        "relationship"
       ],
       "tree": {
         "episodic": {
@@ -5911,6 +5727,9 @@
             "strands.json"
           ]
         },
+        "_files": [
+          "quality-report.json"
+        ],
         "user": {
           "_files": [
             "profile.md"
@@ -5922,37 +5741,23 @@
       "name": "Jordan Elise Petrov",
       "description": "30 sessions across 2025-01 → 2028-12",
       "topics": [
-        "work",
-        "family",
-        "health",
-        "finance",
-        "relationship",
-        "travel",
-        "education",
-        "housing",
-        "leisure",
-        "goals",
-        "environment",
-        "civic"
+        "life-introduction",
+        "personality-istj",
+        "career-profile",
+        "relationship-partner",
+        "family-obligations",
+        "health-anxiety",
+        "housing-noise",
+        "leisure-preferencesemotional_tone: neutral",
+        "work-crisis",
+        "operations-authority",
+        "capacity-planning",
+        "exception-management"
       ],
       "sliceCount": 30,
       "dateRange": [
         "2025-01",
         "2028-12"
-      ],
-      "strands": [
-        "work",
-        "family",
-        "health",
-        "finance",
-        "relationship",
-        "travel",
-        "education",
-        "housing",
-        "leisure",
-        "goals",
-        "environment",
-        "civic"
       ],
       "tree": {
         "episodic": {
@@ -6265,6 +6070,9 @@
             "strands.json"
           ]
         },
+        "_files": [
+          "quality-report.json"
+        ],
         "user": {
           "_files": [
             "profile.md"
@@ -6276,37 +6084,23 @@
       "name": "Nakamura Ayaka",
       "description": "30 sessions across 2025-01 → 2028-10",
       "topics": [
-        "work",
-        "family",
-        "health",
-        "finance",
-        "relationship",
-        "travel",
-        "education",
-        "housing",
-        "goals",
-        "environment",
-        "leisure",
-        "civic"
+        "life-introduction",
+        "personal-disclosure",
+        "isfj-personality",
+        "ferry-terminal-resilience",
+        "family-obligations",
+        "island-community",
+        "fukuoka-living",
+        "operations-coordinationemotional_tone: neutral",
+        "self-started-project",
+        "disruption-log",
+        "notice-delays",
+        "cargo-handoff"
       ],
       "sliceCount": 30,
       "dateRange": [
         "2025-01",
         "2028-10"
-      ],
-      "strands": [
-        "work",
-        "family",
-        "health",
-        "finance",
-        "relationship",
-        "travel",
-        "education",
-        "housing",
-        "goals",
-        "environment",
-        "leisure",
-        "civic"
       ],
       "tree": {
         "episodic": {
@@ -6624,6 +6418,9 @@
             "strands.json"
           ]
         },
+        "_files": [
+          "quality-report.json"
+        ],
         "user": {
           "_files": [
             "profile.md"
@@ -6642,28 +6439,16 @@
         "relationship",
         "travel",
         "education",
+        "housingemotional_tone: neutral",
         "housing",
         "goals",
-        "environment",
-        "leisure"
+        "environmentemotional_tone: neutral",
+        "goalsemotional_tone: neutral"
       ],
       "sliceCount": 30,
       "dateRange": [
         "2025-01",
         "2028-10"
-      ],
-      "strands": [
-        "work",
-        "family",
-        "health",
-        "finance",
-        "relationship",
-        "travel",
-        "education",
-        "housing",
-        "goals",
-        "environment",
-        "leisure"
       ],
       "tree": {
         "episodic": {
@@ -6981,6 +6766,9 @@
             "strands.json"
           ]
         },
+        "_files": [
+          "quality-report.json"
+        ],
         "user": {
           "_files": [
             "profile.md"

@@ -3,18 +3,26 @@
   "slices": [
     {
       "id": "2025-05-04-0505",
-      "focus": "A lot has been shifting lately, and one thing finally caught up with me physical",
-      "summary": "It was more useful than I expected, actually",
+      "focus": "After her back seizes in the car park, Saira finally addresses her chronic strain",
+      "summary": "Saira's lower back seizes after a Saturday shift, prompting a physio appointment. She brings photos of her dispensary posture. The physio diagnoses a lower-back strain and gives short daily exercises. Saira plans to pair exercises with toothbrushing and modify the problematic shelf reach at work.",
       "tags": [
-        "work",
-        "health",
-        "housing",
-        "leisure",
-        "goals"
+        "back-injury",
+        "physiotherapy",
+        "workplace-ergonomics",
+        "exercise-routine",
+        "posture-correction",
+        "health-boundaries",
+        "self-care-plan",
+        "preventative-healthemotional_tone: neutral"
       ],
       "status": "closed",
       "start": "2025-05-04T05:05:00.000Z",
-      "open_loops": [],
+      "open_loops": [
+        "Morning exercise habit needs to be established consistently",
+        "Shelf reach redesign at work not yet implemented",
+        "Tension headaches still unaddressed as separate issue",
+        "Two-week symptom log not yet started"
+      ],
       "decisions": [
         "Her lower back issue is now being treated as a named strain with a short daily exercise plan from the physiotherapist ra",
         "She learned that her standing posture at the dispensary bench is one of the things worsening her back strain."

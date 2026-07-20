@@ -3,18 +3,26 @@
   "slices": [
     {
       "id": "2026-03-18-0830",
-      "focus": "A lot has shifted lately, and I finally feel like one part of work has moved fro",
-      "summary": "Part of it was me getting tired of hearing, \"we are looking into it,\" with nothing attached to it",
+      "focus": "Kelli builds a formal shared defect log that shifts vendor conversations from vague promises to evidence-based accountability.",
+      "summary": "Kelli compiles three months of denial examples into a shared defect log grouped by payer, clinic, and error source, with plain-English descriptions and remit numbers. Monica forces weekly vendor issue calls using the log as the source of truth, changing the tone from vague investigation to claim-level accountability. Kelli plans a one-page intake rules sheet and adds owner-plus-vendor-action-date fields.",
       "tags": [
-        "work",
-        "health",
-        "housing",
-        "leisure",
-        "goals"
+        "shared-defect-log",
+        "vendor-accountability",
+        "weekly-issue-calls",
+        "monica-wren-ally",
+        "pattern-based-evidence",
+        "claim-id-trail",
+        "intake-tab-separation",
+        "three-step-fix-datesemotional_tone: neutral"
       ],
       "status": "closed",
       "start": "2026-03-18T08:30:00.000Z",
-      "open_loops": [],
+      "open_loops": [
+        "One-page intake rules sheet not yet written",
+        "Three-step fix dates (triage/fix/validation) not yet enforced",
+        "Separate 'not vendor defect' intake tab not yet created",
+        "Simple summary view for leadership not yet finalized"
+      ],
       "decisions": [
         "Kelli is still revenue-cycle lead, but she has shifted from broad vendor complaints to a formal defect-log and escalatio"
       ]

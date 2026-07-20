@@ -3,15 +3,25 @@
   "slices": [
     {
       "id": "2026-05-27-1050",
-      "focus": "Things have been busy since we last talked, but in a way that finally feels a li",
-      "summary": "Yes, exactly, the evidence is finally sorting instead of just proving that everything is on fire",
+      "focus": "Kelli splits the denial mess into two tracked workstreams (vendor fixes vs staff retraining), reducing blame and finger-pointing.",
+      "summary": "The defect log makes it obvious which denials are true software failures vs old front-end habits resurfacing. Kelli splits the cleanup into two tracked workstreams (one for vendor fixes, one for staff retraining), which reduces the bitter finger-pointing between billing and clinic staff. She notices staff get less defensive when they see not every denial is blamed on them, and plans to assign owners and recheck dates to the retraining board.",
       "tags": [
-        "work",
-        "finance"
+        "two-track-workstreams",
+        "vendor-fix-board",
+        "staff-retraining-board",
+        "software-defect-separation",
+        "front-end-habit-correction",
+        "pattern-based-accountability",
+        "blame-reduction",
+        "evidence-based-sortingemotional_tone: neutral"
       ],
       "status": "closed",
       "start": "2026-05-27T10:50:00.000Z",
-      "open_loops": [],
+      "open_loops": [
+        "Retraining board owners and recheck dates not yet assigned",
+        "Two-stream leadership update format not yet designed",
+        "Proof-of-change criteria for retraining not yet defined"
+      ],
       "decisions": [
         "Kelli is still revenue-cycle lead, but she has now split the post-conversion cleanup into two tracked workstreams, one f"
       ]

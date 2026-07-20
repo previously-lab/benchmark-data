@@ -3,16 +3,24 @@
   "slices": [
     {
       "id": "2026-04-21-0655",
-      "focus": "A lot has shifted lately, and work finally feels like it has turned a corner ins",
-      "summary": "Definitely the habit change part",
+      "focus": "Expanding the post-crate overhaul from shipping controls into a formal room-by-room collections audit with standardized location naming",
+      "summary": "Hannah expands her overhaul into a formal room-by-room collections audit with barcode batches, a calendar for each space, and mandatory standardized location naming — ending the 'everyone knows where that corner is' informality.",
       "tags": [
-        "work",
-        "education",
-        "goals"
+        "room-by-room-audit",
+        "location-naming-standardization",
+        "volunteer-retraining",
+        "barcode-batch-system",
+        "location-cheat-sheet",
+        "usable-over-polishedemotional_tone: neutral"
       ],
       "status": "closed",
       "start": "2026-04-21T06:55:00.000Z",
-      "open_loops": [],
+      "open_loops": [
+        "Finish one-page location cheat sheet with exact format examples",
+        "Keep batch review sheet to 3-5 checks max",
+        "Aim for one clean completed room as example standard",
+        "Protect that first room as the baseline for future work"
+      ],
       "decisions": [
         "Hannah expanded her post-crate overhaul from outbound shipping controls into a formal room-by-room collections audit wit"
       ]

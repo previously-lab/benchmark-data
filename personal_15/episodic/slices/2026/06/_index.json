@@ -3,17 +3,24 @@
   "slices": [
     {
       "id": "2026-06-01-2215",
-      "focus": "Things have been busy again since we last talked, and I thought the communicatio",
-      "summary": "From what I could piece together, it was both",
+      "focus": "Customer complaint reveals ETA gaps; board-first external rule added.",
+      "summary": "A customer complaint exposes that vessel crews quote ETAs on the phone while dispatch gives different promises, creating conflicting versions. Jae-hyun adds a rule: any outbound ETA change must be updated on the dispatch board first, then dispatchers must use the exact same wording from the board in client call log entries, extending the reliability system from internal handoffs into client-facing communication.",
       "tags": [
-        "work",
-        "education",
-        "leisure",
-        "goals"
+        "customer-complaint",
+        "eta-consistency",
+        "board-first-rule",
+        "call-log-alignment",
+        "communication-chain",
+        "client-promises",
+        "verbal-gap-closingemotional_tone: neutral"
       ],
       "status": "closed",
       "start": "2026-06-01T22:15:00.000Z",
-      "open_loops": [],
+      "open_loops": [
+        "Enforcement of board-first rule during chaotic shifts",
+        "Crew-side phone habits changing",
+        "Two-week tracking sample for ETA mismatches"
+      ],
       "decisions": [
         "Jae-hyun added a rule that any outbound ETA change must be updated on the dispatch board before anyone communicates it e"
       ]

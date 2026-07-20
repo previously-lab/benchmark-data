@@ -3,18 +3,25 @@
   "slices": [
     {
       "id": "2025-03-07-0330",
-      "focus": "A lot has shifted lately. The big thing is that I actually won a small local pre",
-      "summary": "The best part is it covers actual archival boxes, dehumidifying supplies, and a part-time metadata a",
+      "focus": "Ariana wins a small preservation grant and moves from emergency mode to funded action",
+      "summary": "Ariana secures a local preservation grant covering archival boxes, dehumidifying supplies, and a part-time metadata assistant. Her role shifts from emergency reviewer to grant-backed project lead with a cataloging push and supply purchases.",
       "tags": [
-        "work",
-        "finance",
-        "housing",
-        "leisure",
-        "goals"
+        "grant-success",
+        "preservation-funding",
+        "metadata-assistant-hiring",
+        "archival-supplies",
+        "leadership-expansion",
+        "evidence-based-advocacy",
+        "stabilization-phase",
+        "felicia-merceremotional_tone: neutral"
       ],
       "status": "closed",
       "start": "2025-03-07T03:30:00.000Z",
-      "open_loops": [],
+      "open_loops": [
+        "Drafting metadata template and assistant task list before the grant push starts",
+        "Defining success metrics for the short-term cataloging push",
+        "Building permissions tracking into the metadata workflow alongside physical stabilization"
+      ],
       "decisions": [
         "Ariana was now leading a grant-backed oral-history stabilization and cataloging push at Tremé Heritage Center, coordinat",
         "Her personal finances were still tight, but the work grant reduced pressure by covering supplies and limited hourly help"
@@ -22,18 +29,25 @@
     },
     {
       "id": "2025-03-29-0620",
-      "focus": "Things have been busy in that same ongoing way, but one thing finally tipped ove",
-      "summary": "The biggest thing is that I have an actual plan now, instead of me just guessing based on weather an",
+      "focus": "Ariana sees a dermatologist for worsening eczema tied to archive work conditions",
+      "summary": "Ariana's knuckles crack from dust and repetitive handling during the grant-funded push. A dermatologist prescribes a structured steroid-ointment routine and cotton gloves. She plans to ask work for practical adjustments to reduce dust exposure and repetitive strain.",
       "tags": [
-        "work",
-        "health",
-        "education",
-        "goals",
-        "environment"
+        "eczema-flare",
+        "dermatologist-visit",
+        "hand-cracking",
+        "dust-exposure",
+        "cotton-gloves",
+        "workplace-accommodation",
+        "stress-and-skin",
+        "steroid-ointmentemotional_tone: neutral"
       ],
       "status": "closed",
       "start": "2025-03-29T06:20:00.000Z",
-      "open_loops": [],
+      "open_loops": [
+        "Asking work for practical adjustments (shorter dusty blocks, station supplies)",
+        "Building a consistent ointment-and-gloves night routine",
+        "Preparing a three-line work conversation about the dermatologist findings"
+      ],
       "decisions": [
         "Her eczema now has a more structured treatment plan for hand flares after the dermatologist visit, replacing her earlier"
       ]

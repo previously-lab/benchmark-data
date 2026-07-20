@@ -6,15 +6,22 @@
       "focus": "A lot has shifted at work since we last talked, and it finally feels like one of",
       "summary": "The biggest thing was how scattered the truth was",
       "tags": [
-        "work",
-        "finance",
-        "education",
-        "leisure",
-        "goals"
+        "work-expansion",
+        "inventory-management",
+        "data-visibility",
+        "production-process",
+        "alliance-tanya",
+        "role-clarity",
+        "process-designemotional_tone: neutral"
       ],
       "status": "closed",
       "start": "2025-03-11T01:05:00.000Z",
-      "open_loops": [],
+      "open_loops": [
+        "Whether the routine can survive without Jordan and Tanya's heroic dawn missions",
+        "Formal recognition of expanded scope (role clarity vs title/pay conversation)",
+        "Design of exception path when someone overrides the cutoff",
+        "Glen's tendency to treat rules as optional when money is involved"
+      ],
       "decisions": [
         "Jordan expanded her operations planner role to own a weekly inventory-discipline routine that links green coffee and pac"
       ]

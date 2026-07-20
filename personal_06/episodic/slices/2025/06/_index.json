@@ -3,18 +3,24 @@
   "slices": [
     {
       "id": "2025-06-12-0225",
-      "focus": "Things have been shifting at work again since we last talked, and this time it f",
-      "summary": "Right now it is pretty plain on purpose",
+      "focus": "Pushing back against Daniel's fast yes with pilot data to win a formal readiness checklist before loan commitments",
+      "summary": "Using pilot numbers and before-and-after shelf photos, Hannah wins a formal readiness checklist — documented condition reports, lender requirements, and verified locations — that must pass before the museum commits to incoming loans and exhibitions.",
       "tags": [
-        "work",
-        "family",
-        "health",
-        "housing",
-        "goals"
+        "readiness-checklist-win",
+        "registrar-authority-expansion",
+        "pilot-evidence-leverage",
+        "daniel-timeline-pressure",
+        "before-after-evidence",
+        "exhibition-decision-gateemotional_tone: neutral"
       ],
       "status": "closed",
       "start": "2025-06-12T02:25:00.000Z",
-      "open_loops": [],
+      "open_loops": [
+        "Send short confirming email today while meeting language is fresh",
+        "Draft one-page checklist and one-page examples tomorrow",
+        "Collect feedback from prep staff on what counts as 'verified'",
+        "Build reusable evidence packet (counts, photo pair, checklist) for future planning meetings"
+      ],
       "decisions": [
         "Hannah remains registrar, and the pilot results gave her enough standing to require a formal readiness checklist before "
       ]

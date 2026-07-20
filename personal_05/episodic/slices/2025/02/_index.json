@@ -3,19 +3,25 @@
   "slices": [
     {
       "id": "2025-02-14-1215",
-      "focus": "A lot has been shifting lately, and tonight turned into a bigger conversation th",
-      "summary": "He did not blow up, which honestly was my biggest fear",
+      "focus": "Valentine's Day conversation: Nathaniel and Erin set a six-week housing deadline for cousin Darius after months of strain.",
+      "summary": "On Valentine's Day, Nathaniel and Erin have a difficult but necessary conversation with cousin Darius, setting a six-week deadline for him to find housing or start contributing. The conversation brings relief and guilt, and strengthens their partnership.",
       "tags": [
-        "work",
-        "family",
-        "finance",
-        "relationship",
-        "housing",
-        "goals"
+        "family-boundaries",
+        "erin-relationship",
+        "darius-housing",
+        "valentines-day",
+        "guilt-and-duty",
+        "household-tension",
+        "six-week-deadlineemotional_tone: neutral"
       ],
       "status": "closed",
       "start": "2025-02-14T12:15:00.000Z",
-      "open_loops": [],
+      "open_loops": [
+        "Six-week deadline for Darius: outcome unknown",
+        "Written expectations checklist not yet created",
+        "Morning bedding rule and weekly dinner ritual not yet communicated to Darius",
+        "Erin and Nathaniel must agree on no unilateral extensions"
+      ],
       "decisions": [
         "On Valentine's Day, Nathaniel and Erin had a careful talk and agreed that Darius has six weeks to either find other hous",
         "Darius is still staying with them temporarily, but the arrangement is now more structured and a little tense because he "

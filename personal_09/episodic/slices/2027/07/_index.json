@@ -3,20 +3,27 @@
   "slices": [
     {
       "id": "2027-07-30-0335",
-      "focus": "A lot has shifted lately, and one of the nicest changes is with my sister. She g",
-      "summary": "Yes, unfamiliar is exactly it",
+      "focus": "Leila graduates and starts her first job; Nadia's relationship shifts from emergency fixer to older-sister sounding board.",
+      "summary": "Leila graduates from SUNY Geneseo, starts an entry-level job near Rochester, and signs her first lease. For the first time, calls are about work politics, recipes, and Facebook Marketplace finds rather than urgent money problems. Nadia adjusts to the unfamiliar role of 'sounding board' instead of 'emergency fixer.' She plans to text Leila one easy recipe, ask about her apartment purchases, stay in consultant mode (stop one step earlier), and build a shared recipe list as a recurring connection topic.",
       "tags": [
-        "work",
-        "family",
-        "health",
-        "finance",
-        "relationship",
-        "housing",
-        "leisure"
+        "leila-graduated-employed",
+        "sister-relationship-shift",
+        "from-rescuer-to-sounding-board",
+        "emergency-calls-eased",
+        "ordinary-conversations",
+        "recipes-and-dressers",
+        "financial-strain-eased",
+        "identity-adjustmentemotional_tone: neutral"
       ],
       "status": "closed",
       "start": "2027-07-30T03:35:00.000Z",
-      "open_loops": [],
+      "open_loops": [
+        "Send one easy recipe to Leila",
+        "Ask about what she bought for the apartment",
+        "Build a shared recipe list as a recurring connection topic",
+        "Practice stopping one step earlier in advice-giving",
+        "Schedule a deliberately non-problem-focused call"
+      ],
       "decisions": [
         "Leila graduated from SUNY Geneseo and started an entry-level job near Rochester."
       ]

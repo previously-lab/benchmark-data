@@ -3,21 +3,26 @@
   "slices": [
     {
       "id": "2025-12-08-1300",
-      "focus": "It has been a calmer stretch lately, at least in little pockets, and I noticed a",
-      "summary": "More the mood, I think",
+      "focus": "Weekend mornings shift toward quiet Fairuz recordings, creating a calm home atmosphere after the wedding.",
+      "summary": "After wedding cleanup with Omar triggered Fairuz holiday recordings, Nadia finds herself choosing quiet Fairuz songs on weekend mornings instead of automatically turning on public radio. The habit ties to ordinary home rituals (coffee, opening blinds) and leaves her less clenched. She plans to make two short playlists (very soft morning, slightly brighter late-morning), keep the speaker charged, and give herself coffee before checking her phone.",
       "tags": [
-        "work",
-        "finance",
-        "relationship",
-        "travel",
-        "education",
-        "housing",
-        "leisure",
-        "goals"
+        "fairuz-weekend-mornings",
+        "omar-cleaning-up-together",
+        "post-wedding-decompression",
+        "morning-music-ritual",
+        "public-radio-habit-shift",
+        "home-atmosphere-change",
+        "aunt-maha-approval",
+        "low-cost-comfortemotional_tone: neutral"
       ],
       "status": "closed",
       "start": "2025-12-08T13:00:00.000Z",
-      "open_loops": [],
+      "open_loops": [
+        "Create two short Fairuz playlists (soft morning + brighter late-morning)",
+        "Keep speaker charged and accessible",
+        "Give phone a 10-15 minute head start before morning check",
+        "Let weekend mornings become a protected calm window"
+      ],
       "decisions": [
         "After the quiet weeks around her wedding, Nadia started leaning more heavily on Fairuz recordings on weekend mornings at"
       ]

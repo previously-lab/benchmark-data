@@ -3,17 +3,21 @@
   "slices": [
     {
       "id": "2025-09-17-0725",
-      "focus": "A lot has shifted lately at work, and for once it feels like some of the changes",
-      "summary": "Yes, that is exactly the part I am watching",
+      "focus": "The 90-day cold-chain pilot expands into broader operating practice with a pantry-specific confirmation board, split mixed-temperature loads, and reduced emergency reschedules at three partner sites, though Eric remains cautious about whether adoption will hold under pressure.",
+      "summary": "The pilot's success metrics (fewer emergency reschedules, cleaner load planning) convince dispatch and warehouse to adopt the confirmation board and split-load rules as routine practice, moving Eric from pilot leader to system steward.",
       "tags": [
         "work",
         "health",
         "housing",
-        "goals"
+        "goalsemotional_tone: neutral"
       ],
       "status": "closed",
       "start": "2025-09-17T07:25:00.000Z",
-      "open_loops": [],
+      "open_loops": [
+        "Whether the board will be used consistently on messy days",
+        "One-pager for Patricia to carry into meetings not yet drafted",
+        "Spot-review compliance check not yet designed"
+      ],
       "decisions": [
         "Eric remained Freestore Foodbank's cold-chain coordinator, but the ninety-day pilot expanded into broader operating prac"
       ]

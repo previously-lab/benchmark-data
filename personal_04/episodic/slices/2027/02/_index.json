@@ -3,20 +3,26 @@
   "slices": [
     {
       "id": "2027-02-25-1300",
-      "focus": "A lot has been shifting lately, and one thing I had to finally admit is that my ",
-      "summary": "At first I did the usual thing where I told myself it was just a busy patch and I could muscle throu",
+      "focus": "Winter insomnia and jaw tension return; Tasha cuts late-night reporting and blocks office hours for admin",
+      "summary": "A winter stretch of evening outreach and grief-group work triggers a recurrence of the 3 a.m. wake-up, jaw-locked-tight, morning-headache pattern. After two weeks of trying to muscle through, Tasha cuts late-night spreadsheet and reporting work entirely, moving those tasks into a protected office-hours block on her calendar. The agent helps her frame this as 'data, not morality' (does the pattern help or harm, not am I being a good or bad worker), plan a hard one-month rule against evening numbers work, and build a positive end-of-workday signal (laptop away, music, walk). Tasha notices the headaches already easing and commits to treating 'sleep as part of the job, not the leftover after the job.'",
       "tags": [
-        "work",
-        "family",
-        "health",
-        "leisure",
-        "goals",
-        "environment",
-        "civic"
+        "insomnia-jaw-tension-recurrence",
+        "night-bereavement-reporting-cut",
+        "office-hours-reporting-block",
+        "daytime-only-task-rule",
+        "calendar-blocking-boundary",
+        "laptop-away-before-dinner",
+        "data-not-morality-framing",
+        "recurring-winter-stress-flareemotional_tone: neutral"
       ],
       "status": "closed",
       "start": "2027-02-25T13:00:00.000Z",
-      "open_loops": [],
+      "open_loops": [
+        "One-month hard rule against evening reporting — just started",
+        "Calendar reporting block during office hours — created, needs buffer addition",
+        "Positive end-of-workday marker (music, walk) — to be chosen",
+        "Script for redirecting end-of-day requests to tomorrow — practiced"
+      ],
       "decisions": [
         "Tasha's physical-health pattern shifted from spring pilot jaw-clenching to a winter insomnia and jaw-tension flare that "
       ]

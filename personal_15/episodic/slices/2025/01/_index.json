@@ -3,39 +3,47 @@
   "slices": [
     {
       "id": "2025-01-06-1310",
-      "focus": "It is nice to start using a tool like this.",
-      "summary": "My name is Park Jae-hyun, and I am a 33-year-old man",
+      "focus": "Initial onboarding and personal profile collection for Park Jae-hyun.",
+      "summary": "Jae-hyun introduces himself fully: a 33-year-old ISTJ dispatch manager in Busan working at Daejin Coastal Logistics, newly married to dental hygienist Choi Min-seo, with family obligations to his mother's seafood stall and younger sister's exam prep, chronic health strain from shift work, and a core goal of stabilizing port dispatch reliability.",
       "tags": [
-        "work",
-        "family",
-        "health",
-        "finance",
-        "relationship",
-        "travel",
-        "education",
-        "housing"
+        "initial-onboarding",
+        "personal-profile",
+        "maritime-logistics",
+        "port-dispatch",
+        "istj-personality",
+        "family-obligation",
+        "shift-work-health",
+        "newly-marriedemotional_tone: neutral"
       ],
       "status": "closed",
       "start": "2025-01-06T13:10:00.000Z",
-      "open_loops": [],
+      "open_loops": [
+        "Wedding loan repayment timeline",
+        "Sister's civil service exam results",
+        "Verbal handoff conflict with Captain Lee Sang-ho",
+        "Health management under rotating shifts"
+      ],
       "decisions": []
     },
     {
       "id": "2025-01-21-2240",
-      "focus": "A lot has shifted at work lately, and this week felt like the first time somethi",
-      "summary": "I did not want it to turn into the usual thing where everyone reconstructs the story from memory and",
+      "focus": "Seafood handoff failure prompts formal incident log against verbal culture.",
+      "summary": "A costly missed seafood-client transfer window caused by an unlogged freezer-truck delay during shift change. Jae-hyun documents evidence (radio times, whiteboard photos, captain call records) and gets operations chief approval to trial a single incident log for handoff failures, with a required consequence field.",
       "tags": [
-        "work",
-        "family",
-        "finance",
-        "education",
-        "housing",
-        "leisure",
-        "environment"
+        "handoff-failure",
+        "seafood-client-incident",
+        "verbal-handoff-conflict",
+        "delay-documentation",
+        "incident-log-trial",
+        "crew-resistanceemotional_tone: neutral"
       ],
       "status": "closed",
       "start": "2025-01-21T22:40:00.000Z",
-      "open_loops": [],
+      "open_loops": [
+        "Incident log trial outcomes",
+        "Captain Lee Sang-ho's cooperation with written reporting",
+        "Kim Dong-wook's staffing support for the trial"
+      ],
       "decisions": [
         "After a costly missed seafood-client handoff, Jae-hyun is still dispatch manager but has informally taken on documenting"
       ]

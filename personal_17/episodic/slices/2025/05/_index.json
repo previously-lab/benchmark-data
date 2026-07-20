@@ -3,21 +3,25 @@
   "slices": [
     {
       "id": "2025-05-08-1210",
-      "focus": "Things have been really packed lately, and I hit a point this week where my body",
-      "summary": "I did get it checked, which is not usually my style",
+      "focus": "A severe voice flare forces Colleen to stop treating hoarseness as a minor annoyance and adopt real preventive measures.",
+      "summary": "After a day of stacked spring tours plus outreach, Colleen's voice drops out badly enough to send her to urgent care. The clinician tells her this is cumulative, not occasional. She adopts a microphone, stricter water tracking, and begins limiting consecutive high-talk days. She also cuts back some freelance walking-tour weekends for recovery. Starts reframing voice protection as 'equipment, not concession.'",
       "tags": [
-        "work",
-        "health",
-        "finance",
-        "education",
-        "housing",
-        "leisure",
-        "goals",
-        "environment"
+        "voice-health",
+        "urgent-care",
+        "microphone-adaptation",
+        "hydration-discipline",
+        "spring-exhaustion",
+        "work-limits",
+        "freelance-tradeoff",
+        "preventive-careemotional_tone: neutral"
       ],
       "status": "closed",
       "start": "2025-05-08T12:10:00.000Z",
-      "open_loops": [],
+      "open_loops": [
+        "Scheduling conversation with work about pacing -- waiting until habits are established first",
+        "Mic adoption needs to become default, not optional",
+        "Threshold rule needed for consecutive high-talk days"
+      ],
       "decisions": [
         "After a rough May voice flare, Colleen now treats her seasonal hoarseness more seriously by using a microphone when poss"
       ]

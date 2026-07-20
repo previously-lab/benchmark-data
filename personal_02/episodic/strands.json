@@ -1,197 +1,720 @@
 {
-  "work": [
-    "2025/01/06/0010",
-    "2025/01/22/0940",
-    "2025/03/03/1005",
-    "2025/03/24/1210",
-    "2025/04/11/0845",
-    "2025/05/02/0430",
-    "2025/06/18/1025",
-    "2025/07/07/1105",
-    "2025/08/14/0915",
-    "2025/09/01/0610",
-    "2025/10/03/0855",
-    "2025/10/26/0350",
-    "2025/11/19/1020",
-    "2026/01/28/0905",
-    "2026/03/06/1200",
-    "2026/04/18/0525",
-    "2026/05/26/2350",
-    "2026/07/15/0840",
-    "2026/08/22/1055",
-    "2026/10/04/0715",
-    "2026/11/13/1310",
-    "2027/01/24/0935",
-    "2027/03/09/0405",
-    "2027/05/30/0820",
-    "2027/07/16/0230",
-    "2027/10/12/0950",
-    "2028/02/18/1045",
-    "2028/09/06/0810"
+  "personal-intake": [
+    "2025/01/06/0010"
   ],
-  "family": [
-    "2025/01/06/0010",
-    "2025/01/22/0940",
-    "2025/02/09/0720",
-    "2025/03/24/1210",
-    "2025/05/02/0430",
-    "2025/07/07/1105",
-    "2025/09/01/0610",
-    "2025/12/21/0835",
-    "2026/05/26/2350",
-    "2026/08/22/1055",
-    "2027/03/09/0405",
-    "2027/07/16/0230",
-    "2028/02/18/1045",
-    "2028/09/06/0810"
+  "court-interpreter-career": [
+    "2025/01/06/0010"
   ],
-  "health": [
-    "2025/01/06/0010",
-    "2025/01/22/0940",
-    "2025/03/03/1005",
-    "2025/04/11/0845",
-    "2025/05/02/0430",
-    "2025/07/07/1105",
-    "2025/08/14/0915",
-    "2025/09/01/0610",
-    "2025/12/21/0835",
-    "2026/03/06/1200",
-    "2026/05/26/2350",
-    "2026/08/22/1055",
-    "2026/10/04/0715",
-    "2026/11/13/1310",
-    "2027/10/12/0950",
-    "2028/02/18/1045",
-    "2028/09/06/0810"
+  "civic-reform-goal": [
+    "2025/01/06/0010"
   ],
-  "finance": [
-    "2025/01/06/0010",
-    "2025/01/22/0940",
-    "2025/04/11/0845",
-    "2025/07/07/1105",
-    "2025/10/03/0855",
-    "2026/03/06/1200",
-    "2026/08/22/1055",
-    "2028/02/18/1045"
+  "albuquerque-setting": [
+    "2025/01/06/0010"
   ],
-  "relationship": [
-    "2025/01/06/0010",
-    "2025/02/09/0720",
-    "2025/03/24/1210",
-    "2026/05/26/2350",
-    "2026/08/22/1055",
-    "2026/11/13/1310",
-    "2027/03/09/0405",
-    "2027/07/16/0230",
-    "2027/10/12/0950",
-    "2028/02/18/1045"
+  "migraine-management": [
+    "2025/01/06/0010"
   ],
-  "travel": [
-    "2025/01/06/0010",
-    "2025/02/09/0720",
-    "2025/05/02/0430",
-    "2025/12/21/0835",
-    "2026/03/06/1200",
-    "2026/08/22/1055",
-    "2027/05/30/0820",
-    "2027/07/16/0230",
-    "2028/02/18/1045",
-    "2028/09/06/0810"
+  "eldercare-responsibility": [
+    "2025/01/06/0010"
   ],
-  "education": [
-    "2025/01/06/0010",
-    "2025/04/11/0845",
-    "2025/09/01/0610",
-    "2025/10/03/0855",
-    "2026/03/06/1200",
-    "2026/05/26/2350",
-    "2026/10/04/0715",
-    "2026/11/13/1310",
-    "2027/05/30/0820",
-    "2027/07/16/0230",
-    "2028/09/06/0810"
+  "marriage-strain": [
+    "2025/01/06/0010"
   ],
-  "leisure": [
-    "2025/01/06/0010",
-    "2025/02/09/0720",
-    "2025/03/03/1005",
-    "2025/04/11/0845",
-    "2025/08/14/0915",
-    "2025/09/01/0610",
-    "2025/11/19/1020",
-    "2026/03/06/1200",
-    "2026/07/15/0840",
-    "2026/11/13/1310",
-    "2027/01/24/0935",
-    "2028/09/06/0810"
+  "language-access-advocacyemotional_tone: neutral": [
+    "2025/01/06/0010"
   ],
-  "housing": [
-    "2025/01/22/0940",
-    "2025/02/09/0720",
-    "2025/03/03/1005",
-    "2025/03/24/1210",
-    "2025/04/11/0845",
-    "2025/07/07/1105",
-    "2025/08/14/0915",
-    "2025/09/01/0610",
-    "2025/10/03/0855",
-    "2025/10/26/0350",
-    "2025/11/19/1020",
-    "2025/12/21/0835",
-    "2026/01/28/0905",
-    "2026/03/06/1200",
-    "2026/04/18/0525",
-    "2026/05/26/2350",
-    "2026/08/22/1055",
-    "2026/10/04/0715",
-    "2026/11/13/1310",
-    "2027/01/24/0935",
-    "2027/03/09/0405",
-    "2027/05/30/0820",
-    "2027/10/12/0950",
-    "2028/02/18/1045",
-    "2028/09/06/0810"
+  "court-coverage-crisis": [
+    "2025/01/22/0940"
   ],
-  "goals": [
-    "2025/01/22/0940",
-    "2025/02/09/0720",
-    "2025/03/03/1005",
-    "2025/04/11/0845",
-    "2025/05/02/0430",
-    "2025/07/07/1105",
-    "2025/08/14/0915",
-    "2025/09/01/0610",
-    "2025/10/03/0855",
-    "2025/10/26/0350",
-    "2025/11/19/1020",
-    "2025/12/21/0835",
-    "2026/01/28/0905",
-    "2026/03/06/1200",
-    "2026/04/18/0525",
-    "2026/05/26/2350",
-    "2026/07/15/0840",
-    "2026/08/22/1055",
-    "2026/10/04/0715",
-    "2027/03/09/0405",
-    "2027/05/30/0820",
-    "2027/07/16/0230",
-    "2027/10/12/0950",
-    "2028/02/18/1045",
-    "2028/09/06/0810"
+  "public-arraignment-breakdown": [
+    "2025/01/22/0940"
   ],
-  "civic": [
+  "incident-log-creation": [
+    "2025/01/22/0940"
+  ],
+  "language-access-advocacy": [
+    "2025/01/22/0940"
+  ],
+  "martin-salazar-alliance": [
+    "2025/01/22/0940"
+  ],
+  "evidence-building-strategy": [
+    "2025/01/22/0940"
+  ],
+  "institutional-change-tactics": [
+    "2025/01/22/0940"
+  ],
+  "emotional-burden-of-responsibilityemotional_tone: neutral": [
+    "2025/01/22/0940"
+  ],
+  "father-daughter-bonding": [
     "2025/02/09/0720"
   ],
-  "environment": [
-    "2025/04/11/0845",
-    "2025/06/18/1025",
-    "2025/09/01/0610",
-    "2025/10/03/0855",
-    "2025/11/19/1020",
-    "2025/12/21/0835",
-    "2026/04/18/0525",
-    "2026/05/26/2350",
-    "2026/10/04/0715",
+  "lobo-womens-basketball": [
+    "2025/02/09/0720"
+  ],
+  "local-radio-ritual": [
+    "2025/02/09/0720"
+  ],
+  "eldercare-through-shared-activities": [
+    "2025/02/09/0720"
+  ],
+  "low-pressure-visit-routine": [
+    "2025/02/09/0720"
+  ],
+  "west-side-albuquerque": [
+    "2025/02/09/0720"
+  ],
+  "emotional-anchoring": [
+    "2025/02/09/0720"
+  ],
+  "restorative-family-timeemotional_tone: neutral": [
+    "2025/02/09/0720"
+  ],
+  "scheduling-buffer-pilot": [
+    "2025/03/03/1005"
+  ],
+  "evidence-based-advocacy": [
+    "2025/03/03/1005"
+  ],
+  "judge-baca-conditional-buy-in": [
+    "2025/03/03/1005"
+  ],
+  "martin-salazar-data-collaboration": [
+    "2025/03/03/1005"
+  ],
+  "operational-metrics-design": [
+    "2025/03/03/1005"
+  ],
+  "migraine-self-protection": [
+    "2025/03/03/1005"
+  ],
+  "incremental-institutional-change": [
+    "2025/03/03/1005"
+  ],
+  "three-month-pilot-timelineemotional_tone: neutral": [
+    "2025/03/03/1005"
+  ],
+  "marriage-communication": [
+    "2025/03/24/1210"
+  ],
+  "uneven-evening-labor": [
+    "2025/03/24/1210"
+  ],
+  "sunday-planning-board": [
+    "2025/03/24/1210"
+  ],
+  "schedule-unpredictability-conflict": [
+    "2025/03/24/1210",
+    "2027/03/09/0405"
+  ],
+  "eldercare-spillover": [
+    "2025/03/24/1210"
+  ],
+  "shared-visibility-tools": [
+    "2025/03/24/1210"
+  ],
+  "daniel-rivas-relationship": [
+    "2025/03/24/1210"
+  ],
+  "domestic-coordination-systememotional_tone: neutral": [
+    "2025/03/24/1210"
+  ],
+  "interpreter-skills-circle": [
+    "2025/04/11/0845"
+  ],
+  "voluntary-training-model": [
+    "2025/04/11/0845"
+  ],
+  "backup-capacity-building": [
+    "2025/04/11/0845"
+  ],
+  "bilingual-staff-development": [
+    "2025/04/11/0845"
+  ],
+  "courtroom-interpreter-ethics": [
+    "2025/04/11/0845"
+  ],
+  "hidden-capacity-discovery": [
+    "2025/04/11/0845"
+  ],
+  "resilience-over-patching": [
+    "2025/04/11/0845"
+  ],
+  "incremental-training-pipelineemotional_tone: neutral": [
+    "2025/04/11/0845"
+  ],
+  "severe-migraine-episode": [
+    "2025/05/02/0430"
+  ],
+  "primary-care-intervention": [
+    "2025/05/02/0430"
+  ],
+  "migraine-prevention-routine": [
+    "2025/05/02/0430"
+  ],
+  "fluorescent-light-trigger": [
+    "2025/05/02/0430"
+  ],
+  "court-bag-preparedness-kit": [
+    "2025/05/02/0430"
+  ],
+  "self-neglect-pattern": [
+    "2025/05/02/0430"
+  ],
+  "daniel-supportive-response": [
+    "2025/05/02/0430"
+  ],
+  "sunday-restock-ritualemotional_tone: neutral": [
+    "2025/05/02/0430"
+  ],
+  "monthly-dashboard-creation": [
+    "2025/06/18/1025"
+  ],
+  "language-access-metrics": [
+    "2025/06/18/1025"
+  ],
+  "court-performance-reporting": [
+    "2025/06/18/1025"
+  ],
+  "martin-salazar-circulation": [
+    "2025/06/18/1025"
+  ],
+  "institutional-memory-building": [
+    "2025/06/18/1025"
+  ],
+  "operational-data-design": [
+    "2025/06/18/1025"
+  ],
+  "reusable-tools-strategy": [
+    "2025/06/18/1025"
+  ],
+  "metric-disciplineemotional_tone: neutral": [
+    "2025/06/18/1025"
+  ],
+  "home-repair-crisis": [
+    "2025/07/07/1105"
+  ],
+  "roof-water-damage": [
+    "2025/07/07/1105"
+  ],
+  "payment-plan-decision": [
+    "2025/07/07/1105"
+  ],
+  "summer-budget-tightening": [
+    "2025/07/07/1105"
+  ],
+  "financial-low-margin": [
+    "2025/07/07/1105"
+  ],
+  "daniel-financial-alignment": [
+    "2025/07/07/1105"
+  ],
+  "eldercare-support-prioritization": [
+    "2025/07/07/1105"
+  ],
+  "household-debt-managementemotional_tone: neutral": [
+    "2025/07/07/1105"
+  ],
+  "training-cohort-launch": [
+    "2025/08/14/0915"
+  ],
+  "mock-arraignment-scripts": [
+    "2025/08/14/0915"
+  ],
+  "interpreter-ethics-training": [
+    "2025/08/14/0915"
+  ],
+  "stage-gate-progression": [
+    "2025/08/14/0915"
+  ],
+  "evidence-based-selection": [
+    "2025/08/14/0915"
+  ],
+  "shadow-before-backup": [
+    "2025/08/14/0915"
+  ],
+  "participant-checklist-system": [
+    "2025/08/14/0915"
+  ],
+  "sustainable-cohort-designemotional_tone: neutral": [
+    "2025/08/14/0915"
+  ],
+  "legal-language-podcast": [
+    "2025/09/01/0610"
+  ],
+  "narrative-nonfiction-reading": [
+    "2025/09/01/0610"
+  ],
+  "wrongful-conviction-interest": [
+    "2025/09/01/0610"
+  ],
+  "one-book-at-a-time-habit": [
+    "2025/09/01/0610"
+  ],
+  "yesenia-friend-connection": [
+    "2025/09/01/0610"
+  ],
+  "short-burst-reading-ritual": [
+    "2025/09/01/0610"
+  ],
+  "intellectual-curiosity-restored": [
+    "2025/09/01/0610"
+  ],
+  "library-habit-changeemotional_tone: neutral": [
+    "2025/09/01/0610"
+  ],
+  "judge-baca-setback": [
+    "2025/10/03/0855"
+  ],
+  "buffer-suspension": [
+    "2025/10/03/0855"
+  ],
+  "political-resistance-to-reform": [
+    "2025/10/03/0855"
+  ],
+  "training-pipeline-threatened": [
+    "2025/10/03/0855"
+  ],
+  "martin-limited-support": [
+    "2025/10/03/0855"
+  ],
+  "cohort-protection-strategy": [
+    "2025/10/03/0855"
+  ],
+  "public-overruling-impact": [
+    "2025/10/03/0855"
+  ],
+  "risk-framing-vs-defianceemotional_tone: neutral": [
+    "2025/10/03/0855"
+  ],
+  "soup-list-creation": [
+    "2025/10/26/0350"
+  ],
+  "migraine-recovery-food": [
+    "2025/10/26/0350"
+  ],
+  "old-town-market-visit": [
+    "2025/10/26/0350"
+  ],
+  "functional-self-care": [
+    "2025/10/26/0350"
+  ],
+  "low-friction-evening-system": [
+    "2025/10/26/0350"
+  ],
+  "small-controllable-rituals": [
+    "2025/10/26/0350"
+  ],
+  "caldo-as-comfort-food": [
+    "2025/10/26/0350"
+  ],
+  "emotional-self-supportemotional_tone: neutral": [
+    "2025/10/26/0350"
+  ],
+  "post-setback-redesign": [
+    "2025/11/19/1020"
+  ],
+  "low-disruption-training-format": [
+    "2025/11/19/1020"
+  ],
+  "competency-checklist-system": [
+    "2025/11/19/1020"
+  ],
+  "after-hours-drills": [
+    "2025/11/19/1020"
+  ],
+  "pre-docket-observation-windows": [
+    "2025/11/19/1020"
+  ],
+  "adaptation-over-abandonment": [
+    "2025/11/19/1020"
+  ],
+  "threshold-vs-graduation-framing": [
+    "2025/11/19/1020"
+  ],
+  "constrained-survival-strategyemotional_tone: neutral": [
+    "2025/11/19/1020"
+  ],
+  "father-fall-incident": [
+    "2025/12/21/0835"
+  ],
+  "eldercare-formalization": [
+    "2025/12/21/0835"
+  ],
+  "care-calendar-system": [
+    "2025/12/21/0835"
+  ],
+  "ride-plan-creation": [
+    "2025/12/21/0835"
+  ],
+  "home-safety-assessment": [
+    "2025/12/21/0835"
+  ],
+  "medication-organization": [
+    "2025/12/21/0835"
+  ],
+  "guilt-and-relief-mixed": [
+    "2025/12/21/0835"
+  ],
+  "transition-from-reactive-helpemotional_tone: neutral": [
+    "2025/12/21/0835"
+  ],
+  "first-backup-deployment": [
+    "2026/01/28/0905"
+  ],
+  "limited-duty-backups": [
+    "2026/01/28/0905"
+  ],
+  "color-coded-coverage-board": [
+    "2026/01/28/0905"
+  ],
+  "morning-rush-reduction": [
+    "2026/01/28/0905"
+  ],
+  "checklist-based-readiness": [
+    "2026/01/28/0905"
+  ],
+  "knowledge-transfer-milestone": [
+    "2026/01/28/0905"
+  ],
+  "shared-visibility-tool": [
+    "2026/01/28/0905"
+  ],
+  "operational-win-after-setbackemotional_tone: neutral": [
+    "2026/01/28/0905"
+  ],
+  "yesenia-dinner-visit": [
+    "2026/03/06/1200"
+  ],
+  "elderly-cat-bonding": [
+    "2026/03/06/1200"
+  ],
+  "older-cat-adoption-intention": [
+    "2026/03/06/1200"
+  ],
+  "manageable-household-definition": [
+    "2026/03/06/1200"
+  ],
+  "daniel-shared-vision": [
+    "2026/03/06/1200"
+  ],
+  "domestic-calm-restoration": [
+    "2026/03/06/1200"
+  ],
+  "companionship-over-novelty": [
+    "2026/03/06/1200"
+  ],
+  "future-planning-with-warmthemotional_tone: neutral": [
+    "2026/03/06/1200"
+  ],
+  "successful-backup-deployment": [
+    "2026/04/18/0525"
+  ],
+  "written-backup-tier-approval": [
+    "2026/04/18/0525"
+  ],
+  "standing-monthly-review": [
+    "2026/04/18/0525"
+  ],
+  "institutional-foothold": [
+    "2026/04/18/0525"
+  ],
+  "operations-meeting-conversion": [
+    "2026/04/18/0525"
+  ],
+  "quiet-proof-of-concept": [
+    "2026/04/18/0525"
+  ],
+  "process-over-personality": [
+    "2026/04/18/0525"
+  ],
+  "docket-flow-languageemotional_tone: neutral": [
+    "2026/04/18/0525"
+  ],
+  "telehealth-counseling-start": [
+    "2026/05/26/2350"
+  ],
+  "accumulated-strain-recognition": [
+    "2026/05/26/2350"
+  ],
+  "moral-failure-pattern-interruption": [
+    "2026/05/26/2350"
+  ],
+  "personal-vs-system-blame": [
+    "2026/05/26/2350"
+  ],
+  "commute-transition-ritual": [
+    "2026/05/26/2350"
+  ],
+  "evening-recuperation": [
+    "2026/05/26/2350"
+  ],
+  "stress-regulation-skills": [
+    "2026/05/26/2350"
+  ],
+  "self-compassion-developmentemotional_tone: neutral": [
+    "2026/05/26/2350"
+  ],
+  "annual-data-compilation": [
+    "2026/07/15/0840"
+  ],
+  "partial-spacing-restoration": [
+    "2026/07/15/0840"
+  ],
+  "conditional-operational-change": [
+    "2026/07/15/0840"
+  ],
+  "delay-definition-clarity": [
+    "2026/07/15/0840"
+  ],
+  "quarterly-report-milestone": [
+    "2026/07/15/0840"
+  ],
+  "probationary-institutional-foothold": [
+    "2026/07/15/0840"
+  ],
+  "metric-based-advocacy": [
+    "2026/07/15/0840"
+  ],
+  "judge-baca-conditional-approvalemotional_tone: neutral": [
+    "2026/07/15/0840"
+  ],
+  "home-repair-completion": [
+    "2026/08/22/1055"
+  ],
+  "bathroom-roof-restoration": [
+    "2026/08/22/1055"
+  ],
+  "financial-stabilization": [
+    "2026/08/22/1055"
+  ],
+  "chronic-disruption-relief": [
+    "2026/08/22/1055"
+  ],
+  "domestic-settling-process": [
+    "2026/08/22/1055"
+  ],
+  "daniel-shared-effort": [
+    "2026/08/22/1055"
+  ],
+  "low-stakes-home-ritual": [
+    "2026/08/22/1055"
+  ],
+  "predictability-returnemotional_tone: neutral": [
+    "2026/08/22/1055"
+  ],
+  "second-round-cohort": [
+    "2026/10/04/0715"
+  ],
+  "formal-training-binder": [
+    "2026/10/04/0715"
+  ],
+  "emergency-procedures-documentation": [
+    "2026/10/04/0715"
+  ],
+  "outside-contract-interpreter": [
+    "2026/10/04/0715"
+  ],
+  "bilingual-clerk-selection": [
+    "2026/10/04/0715"
+  ],
+  "call-tree-clarification": [
+    "2026/10/04/0715"
+  ],
+  "knowledge-transfer-infrastructure": [
+    "2026/10/04/0715"
+  ],
+  "reducing-single-point-of-failureemotional_tone: neutral": [
+    "2026/10/04/0715"
+  ],
+  "latin-pop-playlist": [
+    "2026/11/13/1310"
+  ],
+  "birthday-painting-weekend": [
+    "2026/11/13/1310"
+  ],
+  "commute-transition-music": [
+    "2026/11/13/1310"
+  ],
+  "work-home-boundary-tool": [
+    "2026/11/13/1310"
+  ],
+  "daniel-domestic-connection": [
+    "2026/11/13/1310"
+  ],
+  "talk-radio-reduction": [
+    "2026/11/13/1310"
+  ],
+  "emotional-transition-ritual": [
+    "2026/11/13/1310"
+  ],
+  "1990s-nostalgia-restorationemotional_tone: neutral": [
+    "2026/11/13/1310"
+  ],
+  "winter-illness-stress-test": [
+    "2027/01/24/0935"
+  ],
+  "sustained-target-coverage": [
+    "2027/01/24/0935"
+  ],
+  "system-holds-under-pressure": [
+    "2027/01/24/0935"
+  ],
+  "near-miss-narration-strategy": [
+    "2027/01/24/0935"
+  ],
+  "binder-plus-tiers-validation": [
+    "2027/01/24/0935"
+  ],
+  "trainee-progression-thresholds": [
+    "2027/01/24/0935"
+  ],
+  "pattern-based-credibility": [
+    "2027/01/24/0935"
+  ],
+  "maintenance-continuity-shiftemotional_tone: neutral": [
+    "2027/01/24/0935"
+  ],
+  "couples-counseling-start": [
+    "2027/03/09/0405"
+  ],
+  "employee-assistance-referral": [
+    "2027/03/09/0405"
+  ],
+  "eldercare-boundary-negotiation": [
+    "2027/03/09/0405"
+  ],
+  "pause-rule-decision-making": [
+    "2027/03/09/0405"
+  ],
+  "two-script-communication": [
+    "2027/03/09/0405"
+  ],
+  "resentment-interruption": [
+    "2027/03/09/0405"
+  ],
+  "marriage-under-strainemotional_tone: neutral": [
+    "2027/03/09/0405"
+  ],
+  "formal-competency-sign-off": [
     "2027/05/30/0820"
+  ],
+  "sight-translation-assessment": [
+    "2027/05/30/0820"
+  ],
+  "observation-rubric-system": [
+    "2027/05/30/0820"
+  ],
+  "eight-person-backup-pool": [
+    "2027/05/30/0820"
+  ],
+  "tiered-readiness-model": [
+    "2027/05/30/0820"
+  ],
+  "institutional-memory-transfer": [
+    "2027/05/30/0820"
+  ],
+  "portable-assessment-tools": [
+    "2027/05/30/0820"
+  ],
+  "gatekeeper-to-steward-transitionemotional_tone: neutral": [
+    "2027/05/30/0820"
+  ],
+  "santa-fe-road-trip": [
+    "2027/07/16/0230"
+  ],
+  "restorative-mini-trip-framing": [
+    "2027/07/16/0230"
+  ],
+  "daniel-quality-time": [
+    "2027/07/16/0230"
+  ],
+  "low-logistics-getaway": [
+    "2027/07/16/0230"
+  ],
+  "sufficient-not-perfect": [
+    "2027/07/16/0230"
+  ],
+  "feasibility-as-care": [
+    "2027/07/16/0230"
+  ],
+  "short-trip-template": [
+    "2027/07/16/0230"
+  ],
+  "letting-enough-countemotional_tone: neutral": [
+    "2027/07/16/0230"
+  ],
+  "standard-operations-adoption": [
+    "2027/10/12/0950"
+  ],
+  "three-quarter-success-streak": [
+    "2027/10/12/0950"
+  ],
+  "ninety-seven-percent-filled-rate": [
+    "2027/10/12/0950"
+  ],
+  "emergency-calls-halved": [
+    "2027/10/12/0950"
+  ],
+  "permanent-institutional-status": [
+    "2027/10/12/0950"
+  ],
+  "martin-co-presentation": [
+    "2027/10/12/0950"
+  ],
+  "steward-not-rescuer": [
+    "2027/10/12/0950"
+  ],
+  "system-trust-practiceemotional_tone: neutral": [
+    "2027/10/12/0950"
+  ],
+  "father-senior-apartment-move": [
+    "2028/02/18/1045"
+  ],
+  "eldercare-transition": [
+    "2028/02/18/1045"
+  ],
+  "nearby-oversight-role": [
+    "2028/02/18/1045"
+  ],
+  "practical-folder-system": [
+    "2028/02/18/1045"
+  ],
+  "autonomy-preservation": [
+    "2028/02/18/1045"
+  ],
+  "guilt-and-relief-coexistence": [
+    "2028/02/18/1045"
+  ],
+  "visit-type-separation": [
+    "2028/02/18/1045"
+  ],
+  "daniel-household-protectionemotional_tone: neutral": [
+    "2028/02/18/1045"
+  ],
+  "succession-planning-meeting": [
+    "2028/09/06/0810"
+  ],
+  "shared-dashboard-delegation": [
+    "2028/09/06/0810"
+  ],
+  "refresher-training-proposal": [
+    "2028/09/06/0810"
+  ],
+  "identity-shift-from-rescuer": [
+    "2028/09/06/0810"
+  ],
+  "exception-logic-documentation": [
+    "2028/09/06/0810"
+  ],
+  "decision-threshold-definition": [
+    "2028/09/06/0810"
+  ],
+  "institutional-durability-proof": [
+    "2028/09/06/0810"
+  ],
+  "steward-role-adoptionemotional_tone: neutral": [
+    "2028/09/06/0810"
   ]
 }

@@ -3,21 +3,25 @@
   "slices": [
     {
       "id": "2028-05-27-0700",
-      "focus": "A lot has shifted a little since we last talked, not in a dramatic way, but in a",
-      "summary": "I ended up spending part of it on workflow materials almost immediately, because I did not want the ",
+      "focus": "The resilience remit's modest pay raise and materials budget let Ayaka upgrade ad-hoc paper tools to durable laminated packs and tagged cargo forms.",
+      "summary": "Ayaka's new remit brings a modest pay raise (easing monthly budget pressure from the apartment move) and a small training and materials budget. She immediately spends part of it on laminated notice packs that survive rain and tagged cargo forms that signal official priority rather than temporary improvisation. She runs a one-shift trial to test whether staff reach for the new tools automatically or revert to scrap-paper habits. She plans to reserve the remaining budget for the hidden weakness the trial reveals.",
       "tags": [
-        "work",
-        "family",
-        "health",
-        "finance",
-        "travel",
-        "education",
-        "housing",
-        "goals"
+        "pay-raise",
+        "materials-budget",
+        "laminated-notice-packs",
+        "tagged-cargo-forms",
+        "tool-upgrade",
+        "budget-relief",
+        "institutional-support",
+        "small-trialemotional_tone: neutral"
       ],
       "status": "closed",
       "start": "2028-05-27T07:00:00.000Z",
-      "open_loops": [],
+      "open_loops": [
+        "Laminated packs need replenishment — supply chain risk",
+        "Tagged forms may still be ignored during peak chaos",
+        "Small trial may not surface all adoption barriers"
+      ],
       "decisions": [
         "Ayaka now earns a slightly higher stable salary, and the raise tied to her resilience coordination remit has eased some ",
         "Her formal resilience remit now comes with a modest training and materials budget she can use to improve the actual tool"

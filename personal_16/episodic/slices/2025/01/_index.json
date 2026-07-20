@@ -3,35 +3,49 @@
   "slices": [
     {
       "id": "2025-01-06-0100",
-      "focus": "It is nice to start using a tool like this.",
-      "summary": "My name is Saira Nadeem Hussain",
+      "focus": "Initial personal introduction and comprehensive life context",
+      "summary": "Saira introduces herself as a 36-year-old ISTJ operations lead at Westgate Pharmacy in Leeds, engaged to Tom, with a Master of Pharmacy. She shares her family situation, health (tension headaches, back strain), and goal to rebuild dispensing flow within 5 years.",
       "tags": [
-        "work",
-        "family",
-        "health",
-        "finance",
-        "relationship",
-        "travel",
-        "education",
-        "housing"
+        "onboarding",
+        "personal-background",
+        "career-introduction",
+        "relationship-profile",
+        "personality-istj",
+        "life-goals",
+        "family-dynamics",
+        "health-concernsemotional_tone: neutral"
       ],
       "status": "closed",
       "start": "2025-01-06T01:00:00.000Z",
-      "open_loops": [],
+      "open_loops": [
+        "House renovation remains a major stressor with no clear timeline",
+        "Relationship friction with Tom over budgets and unfinished projects",
+        "Savings are thin due to family help and renovation costs",
+        "Back strain and tension headaches unaddressed"
+      ],
       "decisions": []
     },
     {
       "id": "2025-01-22-1040",
-      "focus": "A lot has shifted lately, and work has suddenly become much more serious than th",
-      "summary": "What changed is that I am still operations lead, but now Peter has explicitly put a three-month revi",
+      "focus": "A compliance near-miss triggers a formal three-month operational review",
+      "summary": "After a repeat-pack compliance near-miss, Peter formally puts a three-month dispensing flow review in Saira's hands. She takes photos, starts an error log, and develops a lean tracking system for queue times and errors.",
       "tags": [
-        "work",
-        "housing",
-        "goals"
+        "compliance-scare",
+        "dispensing-error",
+        "workflow-review",
+        "operations-lead",
+        "quality-improvement",
+        "peter-trust",
+        "error-logging",
+        "team-dynamicsemotional_tone: neutral"
       ],
       "status": "closed",
       "start": "2025-01-22T10:40:00.000Z",
-      "open_loops": [],
+      "open_loops": [
+        "Amelia's buy-in remains uncertain for the extra checks",
+        "Error log needs to be lean enough for busy staff to use",
+        "Three-month review outcome is pending"
+      ],
       "decisions": [
         "After a repeat-pack compliance scare, Saira stayed late at Westgate Pharmacy and formally took on a three-month operatio"
       ]

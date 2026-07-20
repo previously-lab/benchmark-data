@@ -3,39 +3,54 @@
   "slices": [
     {
       "id": "2025-05-01-1210",
-      "focus": "A lot has shifted lately at work, and it finally turned into something more offi",
-      "summary": "Yeah, that is exactly it, the opening stretch is the whole proving ground now",
+      "focus": "Derek becomes lead instructor for pilot first-year section, implementing skill boards and paired practice",
+      "summary": "Derek is named lead instructor for one pilot first-year section, giving him direct responsibility for the opening six weeks. He implements color-coded skill check boards so progress is visible, enforces paired practice before solo ladder work, and adds Friday attendance calls to catch disengagement early. An older instructor (likely Ron Belski) constantly undermines him with side comments about the 'old way,' creating a difficult dynamic where apprentices hear mixed signals. Derek decides to document only patterns that affect outcomes and focus on running a clean, repeatable process rather than winning every argument.",
       "tags": [
-        "work",
-        "family",
-        "health",
-        "education",
-        "housing",
-        "leisure"
+        "lead-instructor-role",
+        "first-year-pilot-section",
+        "color-coded-skill-board",
+        "paired-practice-method",
+        "friday-attendance-calls",
+        "veteran-instructor-undermining",
+        "three-bucket-tracking-system",
+        "outcomes-over-personalitiesemotional_tone: neutral"
       ],
       "status": "closed",
       "start": "2025-05-01T12:10:00.000Z",
-      "open_loops": [],
+      "open_loops": [
+        "Managing the undermining instructor's commentary without escalating to turf war",
+        "Opening next week with a clear explanation of why the board, paired work, and calls connect",
+        "Tightening personal tracking with three-bucket system (safe to advance / needs repeat / needs contact)",
+        "Protecting energy from the stacking of field work plus instruction",
+        "Defining clear success for the six-week pilot to prevent mission creep"
+      ],
       "decisions": [
         "Derek is now the lead instructor for one pilot first-year section built around revised safety labs and attendance follow"
       ]
     },
     {
       "id": "2025-05-24-0600",
-      "focus": "Things have been busy lately, but today had a different feel to it. I actually h",
-      "summary": "Yeah, that was the part that got me",
+      "focus": "Yard sale stumble into Pittsburgh sports and union memorabilia collecting as a new hobby",
+      "summary": "Derek takes the kids to a neighborhood yard sale and ends up buying old Steelers programs and a Pittsburgh photo book from a retired electrician. The experience sparks a deliberate turn away from accumulating garage tools he does not need toward collecting Pittsburgh stadium history and union memorabilia with personal meaning. He sets rules — one display shelf in the basement, categories limited to Pittsburgh stadium history and union keepsakes, field-collecting only (no online impulse buys) — and involves the kids by letting them each pick items for the shelf.",
       "tags": [
-        "work",
-        "family",
-        "health",
-        "finance",
-        "housing",
-        "leisure",
-        "civic"
+        "pittsburgh-memorabilia-discovery",
+        "union-collecting-hobby",
+        "yard-sale-family-day",
+        "retired-electrician-connection",
+        "steelers-programs-collection",
+        "kids-bonding-shopping",
+        "intentional-collecting-boundaries",
+        "hobby-over-tools-preferenceemotional_tone: neutral"
       ],
       "status": "closed",
       "start": "2025-05-24T06:00:00.000Z",
-      "open_loops": [],
+      "open_loops": [
+        "Clearing a basement shelf for the Pittsburgh corner display",
+        "Noting provenance details (where found, why it mattered)",
+        "Keeping the hobby casual and field-collecting only",
+        "Setting a monthly spending ceiling to prevent creep",
+        "Telling Mike about the collection for leads from garage cleanouts"
+      ],
       "decisions": [
         "Derek's sports preference expanded into a casual interest in collecting Pittsburgh sports and union memorabilia after a "
       ]

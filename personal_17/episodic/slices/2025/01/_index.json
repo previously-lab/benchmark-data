@@ -3,40 +3,48 @@
   "slices": [
     {
       "id": "2025-01-08-0100",
-      "focus": "It is nice to start using a tool like this.",
-      "summary": "My name is Colleen Margaret Sweeney, and I am a 36-year-old woman",
+      "focus": "Establishing who Colleen is and what matters to her in advance of future conversations.",
+      "summary": "Colleen Sweeney introduces herself fully: 36-year-old ISFJ history grad, education manager at Fireman's Hall Museum, single, lives in a South Philadelphia rowhouse. She shares her Museum Education Expansion goal, family constellation (parents Patricia/Michael, nephew Owen, executive director Leonard, volunteer Franklin, friend Nina), salary context ($52K + freelance tours), Philadelphia identity, and preferences (alternative rock, tomato pie, Phillies, detective novels, short Northeast train trips).",
       "tags": [
-        "work",
-        "family",
-        "health",
-        "finance",
-        "travel",
-        "education",
-        "housing",
-        "leisure"
+        "initial-onboarding",
+        "life-snapshot",
+        "work-overview",
+        "family-dynamics",
+        "financial-context",
+        "health-baseline",
+        "goal-setting",
+        "philadelphia-lifeemotional_tone: neutral"
       ],
       "status": "closed",
       "start": "2025-01-08T01:00:00.000Z",
-      "open_loops": [],
+      "open_loops": [
+        "Museum Education Expansion goal still aspirational -- needs to move from vision to execution plan",
+        "Voice hoarseness mentioned as seasonal issue, not yet addressed systematically",
+        "Freelance walking tours as financial cushion but unpredictable"
+      ],
       "decisions": []
     },
     {
       "id": "2025-01-22-0840",
-      "focus": "Things have been busy since we last talked, and I finally had one of those work ",
-      "summary": "The biggest thing was missed capacity",
+      "focus": "Colleen uses hard data to convince Leonard to approve a formal rebuild year for the school program.",
+      "summary": "Colleen presents a homemade spreadsheet to Leonard showing missed capacity, weak repeat-teacher patterns, and volunteer-dependent tour length inconsistency. He approves treating 2025 as a formal rebuild year. She defines three levers: disciplined booking data, direct teacher outreach, and a revised school tour structure. Feels discouraged by the weak season but more focused now that stagnation is documented.",
       "tags": [
-        "work",
-        "health",
-        "travel",
-        "education",
-        "housing",
-        "goals",
-        "environment",
-        "civic"
+        "work-breakthrough",
+        "data-driven-case",
+        "rebuild-year",
+        "teacher-outreach",
+        "volunteer-dynamics",
+        "goal-planning",
+        "museum-politics",
+        "seasonal-discouragementemotional_tone: neutral"
       ],
       "status": "closed",
       "start": "2025-01-22T08:40:00.000Z",
-      "open_loops": [],
+      "open_loops": [
+        "Teacher outreach list needs to be built -- template not yet drafted",
+        "Revised school-tour format not yet designed, volunteer pushback anticipated",
+        "Spring scorecard defined (one tracker, teacher list, one on-time visit) but not yet executed"
+      ],
       "decisions": [
         "Leonard approved Colleen's plan to treat 2025 as a formal rebuild year for Fireman's Hall Museum's school-program calend",
         "Colleen feels discouraged by the weak school season but more focused now that the stagnation is documented and harder fo"

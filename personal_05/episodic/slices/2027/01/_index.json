@@ -3,21 +3,26 @@
   "slices": [
     {
       "id": "2027-01-22-0730",
-      "focus": "Things have been a little calmer lately, at least compared to how stretched out ",
-      "summary": "Yeah, the local part is a huge piece of it",
+      "focus": "Nathaniel discovers an online archive of vintage Columbus bus timetables and route maps, developing a relaxed collector hobby.",
+      "summary": "A younger planner shows Nathaniel an online archive of old Columbus bus timetables. He becomes engrossed in collecting PDFs of vintage route maps and schedule booklets, organizing them by decade and route family. The hobby satisfies his analytical instincts without operational pressure.",
       "tags": [
-        "work",
-        "family",
-        "health",
-        "relationship",
-        "travel",
-        "housing",
-        "leisure",
-        "goals"
+        "vintage-bus-maps",
+        "route-archive",
+        "columbus-history",
+        "collector-hobby",
+        "younger-planner",
+        "calm-curiosity",
+        "transit-design",
+        "low-pressure-interestemotional_tone: neutral"
       ],
       "status": "closed",
       "start": "2027-01-22T07:30:00.000Z",
-      "open_loops": [],
+      "open_loops": [
+        "One favorite map not yet printed",
+        "Exceptions folder for non-Columbus finds not yet created",
+        "20-minute browsing cap not yet set",
+        "Thanks to younger planner for the archive link not yet deepened"
+      ],
       "decisions": [
         "Nathaniel has started casually collecting archived Columbus bus timetables and route map PDFs online."
       ]

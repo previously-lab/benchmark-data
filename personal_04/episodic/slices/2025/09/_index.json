@@ -3,21 +3,26 @@
   "slices": [
     {
       "id": "2025-09-07-0550",
-      "focus": "A lot has been shifting lately, and this weekend I ended up dealing with money i",
-      "summary": "The practical version was, if I took the new amount as is, it was going to start eating the little f",
+      "focus": "Student loan payment jumps; Tasha enrolls in income-driven plan and rebuilds budget",
+      "summary": "Tasha receives notice that her federal student loan payment is about to jump, threatening her already tight $62k budget. Instead of panicking, she pulls out pay stubs and a yellow legal pad, maps rent/groceries/gas, and realizes absorbing the increase would leave her one car repair away from crisis. She enrolls in an income-driven repayment plan to keep monthly payments manageable. The agent helps her frame this as stability over pride, plan a holding budget until the confirmation arrives, and selectively tell one trusted person (Denise) rather than either hiding it or broadcasting it to the whole family.",
       "tags": [
-        "work",
-        "family",
-        "health",
-        "finance",
-        "education",
-        "housing",
-        "leisure",
-        "goals"
+        "student-loan-payment-increase",
+        "income-driven-repayment-enrollment",
+        "yellow-legal-pad-budgeting",
+        "single-income-financial-margin",
+        "stability-over-pride-decision",
+        "administrative-stress-spiral",
+        "emergency-checklist-idea",
+        "selective-family-disclosureemotional_tone: neutral"
       ],
       "status": "closed",
       "start": "2025-09-07T05:50:00.000Z",
-      "open_loops": [],
+      "open_loops": [
+        "Wait for confirmation notice from loan servicer — pending",
+        "Plug new payment into budget once confirmed — to be done",
+        "Phone call to Denise to share the stress — planned",
+        "Emergency financial checklist idea (gather documents, write numbers, decide, stop) — not yet created"
+      ],
       "decisions": [
         "Tasha enrolled in an income-driven repayment plan after her federal student loan servicer recalculated her payment upwar"
       ]

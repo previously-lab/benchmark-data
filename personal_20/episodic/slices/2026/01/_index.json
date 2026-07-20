@@ -3,8 +3,8 @@
   "slices": [
     {
       "id": "2026-01-18-0815",
-      "focus": "It has been a busy stretch, but in a more ordinary winter way than some of the b",
-      "summary": "Probably both",
+      "focus": "Maya drags Eric to a library family movie night showing an old baseball movie, which rekindles his comfort-watch habit; baseball movies become his default evening decompression after Maya's bedtime, replacing the indecisive scrolling pattern.",
+      "summary": "A cold January library movie night with Maya reconnects Eric to baseball movies as a repeatable, low-friction evening decompression ritual that tolerates interruption and requires minimal decision-making when tired.",
       "tags": [
         "work",
         "family",
@@ -13,11 +13,14 @@
         "housing",
         "leisure",
         "goals",
-        "environment"
+        "environmentemotional_tone: neutral"
       ],
       "status": "closed",
       "start": "2026-01-18T08:15:00.000Z",
-      "open_loops": [],
+      "open_loops": [
+        "Short phone list of baseball movies worth rewatching not yet started",
+        "Whether to formalize a 'cue not rule' approach"
+      ],
       "decisions": [
         "After a library family movie night with Maya during a cold January stretch, Eric leaned harder into baseball movies as h"
       ]

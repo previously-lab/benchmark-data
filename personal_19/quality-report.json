@@ -1,0 +1,218 @@
+{
+  "personaId": "personal_19",
+  "reviewedAt": "2026-07-20T00:00:00.000Z",
+  "model": "claude-haiku-4-5",
+  "overallNotes": "Nakamura Ayaka is a 33-year-old (born 1991-11-08) ISFJ woman living alone in Fukuoka, working as a mid-career operations coordinator at the Fukuoka City Ferry Terminal Operations Center. Her defining life goal is 'Ferry Terminal Resilience' — making Hakata Island Ferry Terminal operations dependable during bad weather so island residents (especially her grandparents on Shikanoshima) can trust the posted schedule and essential cargo flow. Over the arc of 30 slices spanning Jan 2025 to Oct 2028, she progresses from a self-started handwritten disruption log to formal adoption of a bad-weather operations manual with a resilience coordination remit. The narrative is deeply rooted in operational realism: she translates family feedback (grandparents' blunt accounts of delayed medicine and groceries) into system improvements, survives a major typhoon-season failure that exposes over-reliance on manual workarounds, and iterates toward leaner, more robust contingency tools (laminated backup cards, emergency cargo tags, posted notice targets, shift-owner clocks). Her growth is incremental and earned — each refinement comes from identifying a specific failure point. Personal life develops in parallel: mint tea replaces vending-machine coffee, a teishoku shop becomes a post-shift refuge, watercolor classes and Hawks games provide low-stakes social recovery, and a neighbor's senior cat clarifies her future pet preference. Financial pressure from an appliance replacement and grandparents' winter supplies forces a honest budget reset. Relationships deepen: her sister Eri shifts from career-pressure to support after Ayaka explains the moral weight of the work; grandparents become more candid and operationally useful informants. Ayaka remains conflict-averse, quietly stubborn, and prone to carrying strain longer than she should, but increasingly learns to translate private frustration into documented, defensible procedure. The arc is a masterclass in turning personal conviction into institutional change through patient evidence-building.",
+  "issues": [
+    {
+      "sliceId": "2025-01-09-1120",
+      "completeness": 5,
+      "coherence": 5,
+      "specificity": 5,
+      "notes": "Exemplary onboarding slice. Every major life domain is addressed with specific names, places, and metrics. The ISFJ self-assessment and Ferry Terminal Resilience goal provide a coherent lens for all future decisions."
+    },
+    {
+      "sliceId": "2025-02-18-1310",
+      "completeness": 5,
+      "coherence": 5,
+      "specificity": 5,
+      "notes": "Exceptional operational detail. The five-field format (disruption trigger, outgoing notice, board update time, cargo handoff status, passenger mismatch) and fixed status words (tagged, staged, at lane, loaded) show systems thinking. The 'bounded experiment' framing is psychologically astute."
+    },
+    {
+      "sliceId": "2025-03-07-1240",
+      "completeness": 4,
+      "coherence": 5,
+      "specificity": 5,
+      "notes": "Beautifully observed slice on micro-routines as psychological anchors. The distinction between work-tea and home-drink shows sophisticated self-awareness about context cues. Nozomi's 'advice theater' comment and the locker-organizing details ground the insight in real behavior."
+    },
+    {
+      "sliceId": "2025-04-11-0925",
+      "completeness": 5,
+      "coherence": 5,
+      "specificity": 5,
+      "notes": "A turning-point slice. Ayaka's tactical choice to lead with physical evidence (dated printouts, cargo sheets) rather than verbal persuasion shows growing institutional savvy. The three-column pilot sheet (what was supposed to happen / what actually happened / what interfered) is elegant measurement design. Sakurai's objection is treated as a useful design constraint, not dismissed."
+    },
+    {
+      "sliceId": "2025-05-02-0115",
+      "completeness": 5,
+      "coherence": 5,
+      "specificity": 5,
+      "notes": "One of the most emotionally nuanced slices. The grandparents transition from polite reassurance-seekers to candid informants, which is both a gift and a burden. Ayaka's instinct to write pattern notes (medicine, produce, grocery, social ripple) while protecting the granddaughter role shows mature relational intelligence. The phrase 'a delayed pallet is never just a delayed pallet' captures the whole slice's insight."
+    },
+    {
+      "sliceId": "2025-06-16-1050",
+      "completeness": 5,
+      "coherence": 5,
+      "specificity": 5,
+      "notes": "Professional growth milestone. Ayaka's insight that notice updates and freight staging must share the same trigger signal is the kind of operational clarity that separates robust systems from fragile ones. The decision to keep backups as a single line (each primary owner must have a designated backup) rather than hard-coding names preserves stability across staffing changes. The guiding sentence 'a process that works even when I am not standing there' becomes a north star."
+    },
+    {
+      "sliceId": "2025-07-05-0610",
+      "completeness": 4,
+      "coherence": 5,
+      "specificity": 4,
+      "notes": "A palate-cleanser slice showing Ayaka's capacity for genuine curiosity outside obligation. The observation that her downtime still orbits work-adjacent terrain (harbors, shipping, islands) is honest self-knowledge, not limitation. The line 'you tend to rest by getting more rooted, not by disconnecting completely' captures a core personality trait. The modest phone-note approach is appropriately scaled."
+    },
+    {
+      "sliceId": "2025-08-29-1505",
+      "completeness": 5,
+      "coherence": 5,
+      "specificity": 5,
+      "notes": "The emotional and operational low point of the arc, handled with painful honesty. Ayaka's admission that she was 'leaning on being the reliable one instead of proving the process is reliable' is the slice's thesis. The three-band repair framework (immediate low-cost fixes / temporary storm fallback / larger infrastructure asks) shows she can translate failure into structured recovery even while depleted. The noting of 'body recovery vs. work capture' is wise self-care framing."
+    },
+    {
+      "sliceId": "2025-09-12-1130",
+      "completeness": 5,
+      "coherence": 5,
+      "specificity": 5,
+      "notes": "A health-intervention slice that mirrors Ayaka's systems approach to operations — she treats her body as another system needing preventive maintenance rather than emergency fixes. The 'permission to be practical' insight is psychologically acute. The decision to create a ferry-weather checklist (medicine timing, food, backup plan, necessity check) applies her operational discipline to self-care without pathologizing it."
+    },
+    {
+      "sliceId": "2025-10-21-1015",
+      "completeness": 5,
+      "coherence": 5,
+      "specificity": 5,
+      "notes": "A masterclass in adaptive learning from failure. Ayaka's pivot from 'proving the original pilot was good' to 'proving this leaner version can survive reality' is the defining attitude shift. The choice to lead with a physical map rather than written arguments shows she internalized that infrastructure constraints trump policy elegance. The headline sentence 'This is a recovery package built for the hour when normal tools fail' is pitch-perfect framing."
+    },
+    {
+      "sliceId": "2025-11-23-0840",
+      "completeness": 4,
+      "coherence": 5,
+      "specificity": 4,
+      "notes": "A quiet, restorative slice that demonstrates how small sensory anchors (a guitar intro, the memory of a calm room) can perform real emotional work. The decision to keep the core set attached to spreadsheet cleanup shows Ayaka's growing intuition about preserving context-dependent cues. The sister relationship benefits from indirect, low-pressure time rather than agenda-driven conversation."
+    },
+    {
+      "sliceId": "2026-01-14-0035",
+      "completeness": 5,
+      "coherence": 5,
+      "specificity": 5,
+      "notes": "The formal-approval milestone. The whiteboard-plus-spreadsheet redundancy shows Ayaka has internalized the August failure lesson: no single medium can be the sole source of truth. The three success criteria (notice update within target, emergency cargo tagged without last-minute debate, board and spreadsheet both completed after same-day change) are elegantly minimal. The agent's advice to 'answer the specific friction, not the entire history' is a crucial communication discipline."
+    },
+    {
+      "sliceId": "2026-02-22-1205",
+      "completeness": 5,
+      "coherence": 5,
+      "specificity": 5,
+      "notes": "A financially vulnerable slice handled with characteristic Ayaka pragmatism. The distinction between 'discomfort vs. danger' is psychologically important — she recognizes the situation is uncomfortable, not catastrophic, and responds proportionally. The idea of separate mental buckets (home reserve vs. general savings) is a simple but effective reframe. The three-month timeline is realistic."
+    },
+    {
+      "sliceId": "2026-04-06-0955",
+      "completeness": 5,
+      "coherence": 5,
+      "specificity": 5,
+      "notes": "The first real operational validation. The detail that clinic-bound boxes made the first feasible sailing is the kind of human-specific evidence that transcends process metrics. Ayaka's choice to lead with timing data, follow with the cargo example, and end with remaining limits is a textbook persuasive structure. The phrase 'decision friction' captures what the new system reduces better than a longer explanation could."
+    },
+    {
+      "sliceId": "2026-05-18-0520",
+      "completeness": 4,
+      "coherence": 5,
+      "specificity": 5,
+      "notes": "A slice about the importance of a 'middle option' between exhaustion and elaborate recovery. Ayaka's recognition that different kinds of strain need different exits (morning operational stress needs warmth and food; evening fatigue needs softness and privacy) is sophisticated self-knowledge. The no-phone-first-ten-minutes rule is a small but high-impact intervention."
+    },
+    {
+      "sliceId": "2026-07-01-1030",
+      "completeness": 5,
+      "coherence": 5,
+      "specificity": 5,
+      "notes": "A significant institutionalization milestone. Ayaka's insistence on training counter and yard staff together shows she understands that handoff failures come from separate training tracks. The binder design philosophy ('if someone can grab it with wet hands and still find the right page') is a usability standard most professional UX designers would admire. The minimum-clarity framing for lane diagrams is the right design constraint."
+    },
+    {
+      "sliceId": "2026-08-11-1325",
+      "completeness": 5,
+      "coherence": 5,
+      "specificity": 5,
+      "notes": "A relational turning point handled with emotional maturity. Ayaka's line 'I need support for handling this work, not pressure to abandon it' is the kind of boundary that takes years to learn to articulate. The shift from Eri 'trying to rescue' to 'witnessing' is precisely captured. The practical ask (check meals, sleep, vent space) transforms a vague request into actionable support."
+    },
+    {
+      "sliceId": "2026-09-24-1410",
+      "completeness": 5,
+      "coherence": 5,
+      "specificity": 5,
+      "notes": "The season-level validation Ayaka has been building toward. The detail that experienced staff used the binder as a check against their own instincts is a stronger testament than any metric. The agent's advice to define success markers before the first bad-weather day prevents the 'loudest complaint defines the result' problem. The line 'boring is beautiful in operations' captures Ayaka's design philosophy perfectly."
+    },
+    {
+      "sliceId": "2026-10-29-0245",
+      "completeness": 5,
+      "coherence": 5,
+      "specificity": 5,
+      "notes": "A slice about the physical architecture of recovery. The shoulder-drop moment when the new apartment stays quiet is visceral proof that Ayaka was tolerating more environmental stress than she admitted. The one-sentence rule for paper retention (if you cannot explain in one sentence why a paper deserves space, it does not) is practical wisdom. The distinction between books (identity) and miscellaneous box (delayed decisions) is psychologically astute."
+    },
+    {
+      "sliceId": "2027-01-17-0850",
+      "completeness": 5,
+      "coherence": 5,
+      "specificity": 5,
+      "notes": "Professional coming-of-age. Ayaka's motivation — 'I am tired of procedures surviving only because one person happens to be on shift' — shows she understands institutional fragility at a deep level. Mori Chisato's role is perfectly complementary: taking the messy frontline version and asking 'what part of this could management sign?' The agent's advice to keep ownership explicit, timing standards firm, and recovery tied to observable conditions provides a clear priority framework."
+    },
+    {
+      "sliceId": "2027-02-26-1115",
+      "completeness": 4,
+      "coherence": 5,
+      "specificity": 5,
+      "notes": "A slice about reclaiming attention without performance. The insight that painting familiar infrastructure 'softened' it from operational problems into shapes is a genuinely novel form of recovery — not escape, but re-perception. Ayaka's instinct to keep the hobby modest (cheap paper, one neighbor, no expensive gear) shows she has learned from earlier over-structuring tendencies. The phrase 'ordinary life support' is the right category."
+    },
+    {
+      "sliceId": "2027-04-14-0735",
+      "completeness": 5,
+      "coherence": 5,
+      "specificity": 5,
+      "notes": "Another refinement-forged-in-failure slice. Ayaka's response to a near-miss is textbook operational discipline: she treats the brief display failure not as a maintenance hiccup but as a live warning about transitional vulnerability. The language shift from 'we cannot trust the hardware' to 'this protects notice continuity during transition periods' shows she has learned to depersonalize her arguments. The planned drill metric (time to first visible notice) is elegantly minimal and directly tied to passenger experience."
+    },
+    {
+      "sliceId": "2027-06-03-0055",
+      "completeness": 5,
+      "coherence": 5,
+      "specificity": 5,
+      "notes": "Health maturity milestone. Ayaka's framing shift from 'summer is coming for me' to 'meeting it halfway' captures the psychological value of proactive preparation. The three-line note is perfectly scaled — enough structure to survive a busy week without becoming a manual. The distinction between load management and symptom control is operationally precise and personally relevant. The insight that reduced background dread is itself a health outcome is quietly profound."
+    },
+    {
+      "sliceId": "2027-08-31-1520",
+      "completeness": 5,
+      "coherence": 5,
+      "specificity": 5,
+      "notes": "The strongest operational validation yet. Ayaka's presentation structure — what held, what improved, what becomes standard — is a masterclass in evidence-based persuasion. The quiet management reaction (note-taking instead of objections) is often more significant than overt praise. The agent's advice to formalize the parts with clearest evidence and keep the rest under review prevents overreach while protecting gains. The line 'a line from idea to result' marks a threshold in Ayaka's professional identity."
+    },
+    {
+      "sliceId": "2027-10-08-0910",
+      "completeness": 4,
+      "coherence": 5,
+      "specificity": 5,
+      "notes": "A slice about the return of ordinary pleasure. The observation that Ayaka's 'system finally had enough room to register pleasure' after years of pressure is the psychological thesis. The concept of 'sideways closeness' — building connection through repeated shared activity rather than emotional disclosure — is a valuable social insight. The simple budget rule (one drink, shared snacks, no pressure to stay all night) protects the restorative quality without introducing financial anxiety."
+    },
+    {
+      "sliceId": "2028-01-22-0330",
+      "completeness": 5,
+      "coherence": 5,
+      "specificity": 5,
+      "notes": "The culmination of the arc. Ayaka's recognition that she wants continuity, not a title change, shows remarkable self-awareness about what kind of impact she values. The intake form design (immediate hazard / process gap / training confusion) is cleverly matched to response-speed categories. The agent's advice to separate intake from ownership ('you can create one visible channel for issues while making it clear that not every problem becomes your personal task') is institutionally wise. The quiet meal after shift to mark the milestone is perfectly in character."
+    },
+    {
+      "sliceId": "2028-03-09-1005",
+      "completeness": 4,
+      "coherence": 5,
+      "specificity": 5,
+      "notes": "A slice about taste as a signal of inner state. The insight that Ayaka could only engage with a subtle, detail-rich drama because her stress levels had dropped enough to leave room for curiosity is psychologically precise. The one-line evaluation rule ('kept my attention / too theatrical / liked the procedural detail') is perfectly calibrated to prevent leisure from becoming analysis. The preference itself — stories where tension comes from judgment, timing, and communication — is a revealing self-portrait."
+    },
+    {
+      "sliceId": "2028-05-27-0700",
+      "completeness": 5,
+      "coherence": 5,
+      "specificity": 5,
+      "notes": "A slice about the symbolic and practical power of resource allocation. Ayaka's immediate use of the budget on unglamorous but high-impact consumables (not on software or training binders) shows her priorities are firmly aligned with dock-level reality. The observation that 'if a form looks temporary people treat the cargo as temporary too' is a sharp insight about the psychology of paperwork. The decision to reserve budget for the problem the trial reveals is disciplined and humble."
+    },
+    {
+      "sliceId": "2028-07-16-0425",
+      "completeness": 4,
+      "coherence": 5,
+      "specificity": 5,
+      "notes": "A small, sweet slice about knowing oneself through low-pressure experience. The insight that 'rhythm' matters more than 'cuteness' in pet companionship mirrors Ayaka's operational values. The decision not to rush into volunteering or adopting is mature — she uses the experience to sharpen a preference, not to force a decision. The phrase 'warm paperweight with opinions' is charmingly precise."
+    },
+    {
+      "sliceId": "2028-10-03-1245",
+      "completeness": 5,
+      "coherence": 5,
+      "specificity": 5,
+      "notes": "The emotional and operational denouement of the entire arc. The grandmother's phone call — 'inconvenienced, not forgotten' — is the single most powerful piece of feedback Ayaka could receive, because it validates not just the metrics but the human purpose they serve. The aligned feedback (charts and lived experience telling the same story) is the gold standard of operational proof. The two-page summary structure (resident impact, then metrics, then protected practices) is a model for mission-driven reporting. Ayaka's recognition that 'a quiet marker of recovery' (better sleep after storm days) is a valid outcome shows she has learned to value internal evidence alongside external metrics."
+    }
+  ]
+}

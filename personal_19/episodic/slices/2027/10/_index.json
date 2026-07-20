@@ -3,20 +3,25 @@
   "slices": [
     {
       "id": "2027-10-08-0910",
-      "focus": "It has been a while since we chatted, and things have felt a little lighter late",
-      "summary": "Probably both, but more the second one at first",
+      "focus": "A casual Hawks game outing with coworkers becomes a recurring post-season ritual, giving Ayaka low-stakes social recovery and a simple mental side street.",
+      "summary": "Ayaka watches a Hawks game with coworkers at a tiny bar near the terminal and finds herself genuinely enjoying it — the rhythm of the game, the relaxed company, the absence of logistics talk. She starts checking standings between shifts, learning a few player names, and treating game outings as a welcome default for free weekends. She keeps it budget-sensible (one drink, shared snacks) and recognizes it as a form of sideways closeness — connection without emotional intensity.",
       "tags": [
-        "work",
-        "health",
-        "finance",
-        "education",
-        "leisure",
-        "goals",
-        "environment"
+        "hawks-baseball",
+        "coworker-outings",
+        "low-stakes-social",
+        "standing-check",
+        "sideways-closeness",
+        "post-season-lightness",
+        "small-ritual",
+        "budgeted-enjoymentemotional_tone: neutral"
       ],
       "status": "closed",
       "start": "2027-10-08T09:10:00.000Z",
-      "open_loops": [],
+      "open_loops": [
+        "Interest could fade or become a budget leak if not kept modest",
+        "Coworker group dynamics may shift",
+        "May need to protect the ritual from becoming another obligation"
+      ],
       "decisions": [
         "Ayaka now follows the Fukuoka SoftBank Hawks more actively than before and treats occasional games with terminal coworke"
       ]

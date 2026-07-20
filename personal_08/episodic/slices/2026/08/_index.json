@@ -6,15 +6,23 @@
       "focus": "A lot has been shifting lately, and one thing I actually followed through on is ",
       "summary": "The lunch walks, easy",
       "tags": [
-        "work",
-        "family",
-        "health",
-        "leisure",
-        "goals"
+        "knee-recovery",
+        "physical-therapy-adherence",
+        "lunch-walks",
+        "weight-management",
+        "daughter-accountability",
+        "cardinals-game-observation",
+        "small-consistent-progress",
+        "ice-pack-visibilityemotional_tone: neutral"
       ],
       "status": "closed",
       "start": "2026-08-18T09:55:00.000Z",
-      "open_loops": [],
+      "open_loops": [
+        "Keep lunch walks consistent",
+        "Continue home exercises while watching TV",
+        "Make ice pack visible in freezer",
+        "Light weekly check-in on swelling and pain"
+      ],
       "decisions": [
         "Jermaine's right knee still aches after long concrete shifts, but regular strengthening exercises and lunchtime walking "
       ]

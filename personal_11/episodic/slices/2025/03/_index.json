@@ -4,15 +4,25 @@
     {
       "id": "2025-03-19-0940",
       "focus": "A lot has been shifting lately, and work finally tipped into something more conc",
-      "summary": "Exactly, the consistency part is what I am worried about",
+      "summary": "Monica's personal hazard tracking evolves into a section-approved pilot of repeat-violation tracker and earlier reinspection scheduling for two north-side corridors; she navigates the balance between rough-but-useful tools, team consistency, and protecting herself with documentation as the work becomes more visible.",
       "tags": [
-        "work",
-        "housing",
-        "leisure"
+        "repeat-violation-tracker-pilot",
+        "north-side-corridor-reinspection",
+        "shell-llc-owner-detection",
+        "earlier-reinspection-scheduling",
+        "operational-language-leadership",
+        "pilot-scope-discipline",
+        "team-consistency-concern",
+        "rough-and-useful-tool-designemotional_tone: neutral"
       ],
       "status": "closed",
       "start": "2025-03-19T09:40:00.000Z",
-      "open_loops": [],
+      "open_loops": [
+        "Draft one-page pilot sheet with criteria and measures",
+        "Track speed-to-reinspection and reopen rates",
+        "Document ownership-link examples for defensibility",
+        "Resist expanding categories beyond two corridors"
+      ],
       "decisions": [
         "Monica is now piloting a repeat-violation tracker and earlier reinspection scheduling for two north-side rental corridor"
       ]

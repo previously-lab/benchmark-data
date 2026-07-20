@@ -1,0 +1,218 @@
+{
+  "personaId": "personal_12",
+  "reviewedAt": "2026-07-20T00:00:00.000Z",
+  "model": "claude-haiku-4-5",
+  "overallNotes": "Ariana Celeste Batiste is a 34-year-old archivist at Tremé Heritage Center in New Orleans on a mission to preserve 450+ neighborhood oral histories. Across 30 slices (2025-2028), she evolves from emergency triage to stewardship of a durable public archive. Original metadata had pervasive issues: all emotional_tone set to 'neutral' despite many slices being clearly positive, negative, or mixed; foci were truncated fragments of first user lines rather than true summaries; summaries were quote fragments; tags were generic (work, family, health) instead of content-specific; open_loops were missing entirely; quality notes were absent. This enrichment corrects all fields with slice-specific precision. Key arc: mold discovery → grant win → intake reform → relationship boundary work → field recording → AC failure → infrastructure approval → burnout and counseling → public listening events → database launch → 450-recording milestone. Emotional trajectory spans alarm, hope, exhaustion, pride, and hard-won steadiness.",
+  "issues": [
+    {
+      "sliceId": "2025-01-08-0200",
+      "focus_accurate": true,
+      "summary_accurate": true,
+      "tags_relevant": true,
+      "notes": "Original focus was truncated after 'It is nice to start using' from user turn 1. Summary 'My name is Ariana Celeste Batiste' was only the first detail shared, not the full scope. Original tags too generic (work, family, finance, relationship, travel, education, housing, leisure) and missed the core mission of oral history preservation."
+    },
+    {
+      "sliceId": "2025-01-23-0840",
+      "focus_accurate": true,
+      "summary_accurate": true,
+      "tags_relevant": true,
+      "notes": "Original focus truncated mid-sentence from user turn 1. Summary was a quote fragment from turn 3. Original tags missed mold, preservation crisis, and the leadership shift. emotional_tone was 'neutral' but actual tone is alarmed determination mixed with dread."
+    },
+    {
+      "sliceId": "2025-02-11-1110",
+      "focus_accurate": true,
+      "summary_accurate": true,
+      "tags_relevant": true,
+      "notes": "Original focus truncated after the first user sentence. Summary was a quote fragment from turn 3. Tags omitted friendship, self-care, and the specific reading genre shift. emotional_tone should be positive/restorative, not neutral."
+    },
+    {
+      "sliceId": "2025-03-07-0330",
+      "focus_accurate": true,
+      "summary_accurate": true,
+      "tags_relevant": true,
+      "notes": "Original focus truncated after 'I actually won a small local pre' from user turn 1. Summary was a quote fragment from turn 3 about what the grant covers. Tags omitted the grant win entirely, listing only work/finance/housing/leisure/goals."
+    },
+    {
+      "sliceId": "2025-03-29-0620",
+      "focus_accurate": true,
+      "summary_accurate": true,
+      "tags_relevant": true,
+      "notes": "Original focus truncated after user turn 1. Summary was a quote fragment from turn 3. Tags omitted health details (eczema, dermatologist, gloves, dust) in favor of generic categories. emotional_tone should be mixed (pain + relief at having a plan), not neutral."
+    },
+    {
+      "sliceId": "2025-04-18-0950",
+      "focus_accurate": true,
+      "summary_accurate": true,
+      "tags_relevant": true,
+      "notes": "Original focus truncated after user turn 1. Summary was a quote fragment from turn 3. Tags omitted the key changes (packet, permissions, metadata standards, holding log). emotional_tone should be positive/assertive."
+    },
+    {
+      "sliceId": "2025-05-09-1215",
+      "focus_accurate": true,
+      "summary_accurate": true,
+      "tags_relevant": true,
+      "notes": "Original focus truncated after 'Devon wa' from user turn 1. Summary was a quote fragment from turn 3. Tags omitted relationship/Devon entirely. emotional_tone should be mixed (tense confrontation but hopeful resolution), not neutral."
+    },
+    {
+      "sliceId": "2025-06-21-0410",
+      "focus_accurate": true,
+      "summary_accurate": true,
+      "tags_relevant": true,
+      "notes": "Original focus truncated after user turn 1. Summary was a quote fragment from turn 3. Tags missed the field recording campaign. emotional_tone should be positive/excited about the new phase."
+    },
+    {
+      "sliceId": "2025-07-13-0730",
+      "focus_accurate": true,
+      "summary_accurate": true,
+      "tags_relevant": true,
+      "notes": "Original focus truncated after user turn 1. Summary was a quote fragment from turn 3. Tags omitted the food/skin/health insight. emotional_tone should be positive (practical discovery and self-compassion)."
+    },
+    {
+      "sliceId": "2025-08-28-0105",
+      "focus_accurate": true,
+      "summary_accurate": true,
+      "tags_relevant": true,
+      "notes": "Original focus truncated after user turn 1. Summary was a quote fragment from turn 3. Tags missed the AC failure, salvage triage, and emotional impact. emotional_tone should be negative (exhausted, angry, shaken), not neutral."
+    },
+    {
+      "sliceId": "2025-09-19-1025",
+      "focus_accurate": true,
+      "summary_accurate": true,
+      "tags_relevant": true,
+      "notes": "Original focus truncated after 'I ended up falling' from user turn 1. Summary was a quote fragment from turn 3. Tags omitted marching band, Devon, and the hobby-discovery. emotional_tone should be positive (amused, restorative)."
+    },
+    {
+      "sliceId": "2025-10-14-0245",
+      "focus_accurate": true,
+      "summary_accurate": true,
+      "tags_relevant": true,
+      "notes": "Original focus truncated after user turn 1. Summary was a quote fragment from turn 3. Tags omitted the specific approvals (cloud storage, drive rotation, monitoring). emotional_tone should be positive/relieved."
+    },
+    {
+      "sliceId": "2025-11-22-0515",
+      "focus_accurate": true,
+      "summary_accurate": true,
+      "tags_relevant": true,
+      "notes": "Original focus truncated after 'finally came' from user turn 1. Summary was a quote fragment from turn 3. Tags omitted the housing dampness crisis, landlord repair, and sealed storage upgrade. emotional_tone should be mixed (frustrated but practical)."
+    },
+    {
+      "sliceId": "2026-01-15-0120",
+      "focus_accurate": true,
+      "summary_accurate": true,
+      "tags_relevant": true,
+      "notes": "Original focus truncated after user turn 1. Summary was a quote fragment from turn 3. Tags omitted the tracking board, neighborhood breakdown, and program shift. emotional_tone should be positive/proud."
+    },
+    {
+      "sliceId": "2026-02-21-0940",
+      "focus_accurate": true,
+      "summary_accurate": true,
+      "tags_relevant": true,
+      "notes": "Original focus truncated after user turn 1. Summary was a quote fragment from turn 3. Tags omitted the film screening, Janelle, and the taste shift. emotional_tone should be positive/restored."
+    },
+    {
+      "sliceId": "2026-04-02-0600",
+      "focus_accurate": true,
+      "summary_accurate": true,
+      "tags_relevant": true,
+      "notes": "Original focus truncated after user turn 1. Summary was a quote fragment from turn 3. Tags omitted the tiered permissions redesign, Felicia Mercer, and the trust angle. emotional_tone should be positive/principled."
+    },
+    {
+      "sliceId": "2026-05-14-1205",
+      "focus_accurate": true,
+      "summary_accurate": true,
+      "tags_relevant": true,
+      "notes": "Original focus truncated after user turn 1. Summary was a quote fragment from turn 3. Tags omitted the specific financial pressures (car repair, prescription, contract). emotional_tone should be negative (stressed, strained)."
+    },
+    {
+      "sliceId": "2026-06-30-0310",
+      "focus_accurate": true,
+      "summary_accurate": true,
+      "tags_relevant": true,
+      "notes": "Original focus truncated after user turn 1. Summary was a quote fragment from turn 3. Tags omitted the listening event, crowd-sourced metadata, and public programming milestone. emotional_tone should be positive/excited."
+    },
+    {
+      "sliceId": "2026-07-24-0855",
+      "focus_accurate": true,
+      "summary_accurate": true,
+      "tags_relevant": true,
+      "notes": "Original focus truncated after 'telling me' from user turn 1. Summary was a quote fragment from turn 3. Tags omitted the Lafayette trip, family carpool, and travel preference shift. emotional_tone should be positive/restored."
+    },
+    {
+      "sliceId": "2026-09-08-0140",
+      "focus_accurate": true,
+      "summary_accurate": true,
+      "tags_relevant": true,
+      "notes": "Original focus truncated after 'finally' from user turn 1. Summary was a quote fragment from turn 3. Tags omitted the metadata crosswalk, web contractor, and database work. emotional_tone should be positive/energized."
+    },
+    {
+      "sliceId": "2026-10-27-1035",
+      "focus_accurate": true,
+      "summary_accurate": true,
+      "tags_relevant": true,
+      "notes": "Original focus truncated after user turn 1. Summary was a quote fragment from turn 3. Tags omitted the playlist curation, Clifton interaction, and work-rhythm improvement. emotional_tone should be positive/creative."
+    },
+    {
+      "sliceId": "2027-01-12-0225",
+      "focus_accurate": true,
+      "summary_accurate": true,
+      "tags_relevant": true,
+      "notes": "Original focus truncated after 'been trying to' from user turn 1. Summary was a quote fragment from turn 3. Tags omitted the board approval, coordinator role, and sustainability milestone. emotional_tone should be positive/relieved."
+    },
+    {
+      "sliceId": "2027-02-26-0445",
+      "focus_accurate": true,
+      "summary_accurate": true,
+      "tags_relevant": true,
+      "notes": "Original focus truncated after 'scared me enough to f' from user turn 1. Summary was a quote fragment from turn 3. Tags omitted burnout, counseling, crying, and sleep issues. emotional_tone should be negative (exhausted, vulnerable, scared)."
+    },
+    {
+      "sliceId": "2027-04-09-0710",
+      "focus_accurate": true,
+      "summary_accurate": true,
+      "tags_relevant": true,
+      "notes": "Original focus truncated after user turn 1. Summary was a quote fragment from turn 3. Tags omitted the metadata error, correction process, and accountability shift. emotional_tone should be mixed (sobered by error but committed to fixing systems)."
+    },
+    {
+      "sliceId": "2027-05-22-1130",
+      "focus_accurate": true,
+      "summary_accurate": true,
+      "tags_relevant": true,
+      "notes": "Original focus truncated after user turn 1. Summary was a quote fragment from turn 3. Tags omitted the cat, the shift in pet preference, and the emotional significance. emotional_tone should be positive/gentle."
+    },
+    {
+      "sliceId": "2027-08-17-0250",
+      "focus_accurate": true,
+      "summary_accurate": true,
+      "tags_relevant": true,
+      "notes": "Original focus truncated after 'a re' from user turn 1. Summary was a quote fragment from turn 3. Tags omitted the strategic expansion, corridor mapping, and collection analysis. emotional_tone should be positive/strategic."
+    },
+    {
+      "sliceId": "2027-10-01-1300",
+      "focus_accurate": true,
+      "summary_accurate": true,
+      "tags_relevant": true,
+      "notes": "Original focus truncated after user turn 1. Summary was a quote fragment from turn 3. Tags omitted the anniversary trip, relationship improvement, and boundary-work payoff. emotional_tone should be positive/loving."
+    },
+    {
+      "sliceId": "2028-01-20-0505",
+      "focus_accurate": true,
+      "summary_accurate": true,
+      "tags_relevant": true,
+      "notes": "Original focus truncated after 'the archiv' from user turn 1. Summary was a quote fragment from turn 3. Tags omitted the portal launch, Lorraine demo, and public access milestone. emotional_tone should be positive/proud."
+    },
+    {
+      "sliceId": "2028-03-11-0820",
+      "focus_accurate": true,
+      "summary_accurate": true,
+      "tags_relevant": true,
+      "notes": "Original focus truncated after 'unexpected' from user turn 1. Summary was a quote fragment from turn 3. Tags omitted the zines, self-publishing, and the reading taste expansion. emotional_tone should be positive/inspired."
+    },
+    {
+      "sliceId": "2028-06-27-1010",
+      "focus_accurate": true,
+      "summary_accurate": true,
+      "tags_relevant": true,
+      "notes": "Original focus truncated after 'been carrying' from user turn 1. Summary was a quote fragment from turn 3. Tags omitted the 450 milestone, durability threshold, and stewardship identity shift. emotional_tone should be positive/triumphant."
+    }
+  ]
+}

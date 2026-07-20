@@ -3,34 +3,40 @@
   "slices": [
     {
       "id": "2025-01-06-0010",
-      "focus": "It is nice to start using a tool like this.",
-      "summary": "My name is Lucia Elena Montoya",
+      "focus": "Personal intake and life context overview with assistant",
+      "summary": "Lucia introduces herself in detail to a new AI assistant: a 37-year-old senior court interpreter and coordinator in Albuquerque, ISTJ personality, married to Daniel Rivas (facilities estimator), caring for her father Rogelio (mobility issues, West Side). She shares her civic reform goal — building a Spanish interpreter scheduling system with 97%+ coverage within five years — and describes her migraines, financial strain from home repair debt and eldercare support, support network (Judge Baca, Martin Salazar, friend Yesenia Pineda), and personal preferences (green chile stew, public radio, Lobo women's basketball, courtroom dramas, narrative nonfiction).",
       "tags": [
-        "work",
-        "family",
-        "health",
-        "finance",
-        "relationship",
-        "travel",
-        "education",
-        "leisure"
+        "personal-intake",
+        "court-interpreter-career",
+        "civic-reform-goal",
+        "albuquerque-setting",
+        "migraine-management",
+        "eldercare-responsibility",
+        "marriage-strain",
+        "language-access-advocacyemotional_tone: neutral"
       ],
       "status": "closed",
       "start": "2025-01-06T00:10:00.000Z",
-      "open_loops": [],
+      "open_loops": [
+        "Court interpreter scheduling reform goal — track progress toward 97%+ coverage",
+        "Eldercare logistics for father Rogelio — monitor appointment coordination burden",
+        "Marriage strain with Daniel around schedule unpredictability"
+      ],
       "decisions": []
     },
     {
       "id": "2025-01-22-0940",
-      "focus": "A lot has shifted lately at work, and this week finally pushed something over th",
-      "summary": "Yes, and I think that is the part that matters",
+      "focus": "Public Spanish coverage breakdown leads to crisis log approval",
+      "summary": "A public same-day Spanish interpretation collapse at arraignment — one interpreter sick, backup stuck on I-25, families complaining at the clerk window — finally pushes Lucia past the tipping point. Martin Salazar helps her reconstruct the failure on a legal pad, and she gets verbal permission to start a manual incident log for every same-day Spanish scheduling failure. The conversation focuses on log design (keeping entries factual, separating observation from interpretation), strategy (quiet consistency before revealing the log's scope), and Lucia's growing awareness that she carries institutional failures as personal moral debt. She decides to write the first entry immediately and send a confirming email to formalize the practice.",
       "tags": [
-        "work",
-        "family",
-        "health",
-        "finance",
-        "housing",
-        "goals"
+        "court-coverage-crisis",
+        "public-arraignment-breakdown",
+        "incident-log-creation",
+        "language-access-advocacy",
+        "martin-salazar-alliance",
+        "evidence-building-strategy",
+        "institutional-change-tactics",
+        "emotional-burden-of-responsibilityemotional_tone: neutral"
       ],
       "status": "closed",
       "start": "2025-01-22T09:40:00.000Z",

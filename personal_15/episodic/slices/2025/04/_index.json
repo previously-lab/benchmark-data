@@ -3,17 +3,23 @@
   "slices": [
     {
       "id": "2025-04-17-2155",
-      "focus": "Things have been shifting a bit since we last talked, mostly at work. The board ",
-      "summary": "Honestly, getting it made into a rule was the bigger hurdle",
+      "focus": "Board photo rule: both shifts photograph board at handoff for records.",
+      "summary": "After six weeks of the board pilot showing fewer unexplained late departures, Jae-hyun gets approval to require both shifts to photograph the board at handoff and save images to a nightly report folder. The photo requirement changes behavior upstream, with crews pausing longer at the board before calling handoff finished.",
       "tags": [
-        "work",
-        "housing",
-        "leisure",
-        "goals"
+        "board-photo-rule",
+        "handoff-evidence",
+        "photo-documentation",
+        "operational-traceability",
+        "shift-compliance",
+        "behavioral-changeemotional_tone: neutral"
       ],
       "status": "closed",
       "start": "2025-04-17T21:55:00.000Z",
-      "open_loops": [],
+      "open_loops": [
+        "Expanding photo rule beyond two test routes",
+        "Crew resistance to permanent traceability",
+        "Weekly summary consistency"
+      ],
       "decisions": [
         "Jae-hyun is still dispatch manager, but the two-route color-coded board pilot has expanded into a photo-documented hando"
       ]

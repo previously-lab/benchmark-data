@@ -3,18 +3,26 @@
   "slices": [
     {
       "id": "2025-04-18-0855",
-      "focus": "A lot has shifted at work since we last talked, and this piece finally feels rea",
-      "summary": "Yes, exactly, and the part that got it over the line was not even the denial numbers first",
+      "focus": "The denial-reduction pilot expands network-wide with site-specific binders and standardized huddles.",
+      "summary": "Kelli's denial-reduction pilot expands to the entire network after one clinic's front-desk overtime drop gave Monica proof in plain English. She creates site-specific binders (top five preventable denial causes per clinic) and faces pushback from a physician who sees the pre-bill pause as a flow problem. She defines reporting consistency and a standard huddle format as the backbone of the rollout.",
       "tags": [
-        "work",
-        "finance",
-        "education",
-        "housing",
-        "leisure"
+        "pilot-expansion",
+        "site-binders",
+        "overtime-reduction-proof",
+        "network-wide-process",
+        "front-desk-labor-savings",
+        "standardized-huddles",
+        "reporting-consistency",
+        "monica-wren-allyemotional_tone: neutral"
       ],
       "status": "closed",
       "start": "2025-04-18T08:55:00.000Z",
-      "open_loops": [],
+      "open_loops": [
+        "Claim-release lag field not yet added to reporting",
+        "Leadership short update not yet sent",
+        "Exception policy (core process vs local workaround) undefined",
+        "Dr. Leland pushback handling not yet tested"
+      ],
       "decisions": [
         "Kelli's denial-reduction work moved from a pilot to a network-wide process with site binders, standard huddles, and regu"
       ]

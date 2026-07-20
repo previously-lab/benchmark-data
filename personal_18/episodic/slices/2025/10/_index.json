@@ -6,15 +6,22 @@
       "focus": "Things have been moving fast since we last talked, and work has started tipping ",
       "summary": "The ugly answer was packaging",
       "tags": [
-        "work",
-        "health",
-        "travel",
-        "leisure",
-        "goals"
+        "work-simulation",
+        "holiday-planning",
+        "bottleneck-analysis",
+        "supply-chain",
+        "packaging-capacity",
+        "pre-commitment",
+        "operational-leverageemotional_tone: neutral"
       ],
       "status": "closed",
       "start": "2025-10-07T00:10:00.000Z",
-      "open_loops": [],
+      "open_loops": [
+        "Whether the simulation becomes a yearly readiness check or a one-off win",
+        "Whether the custom-label cap holds when sales pressure returns",
+        "Cleaner template creation vs keeping the ugly board as evidence",
+        "Sending a short recap now vs waiting for holiday bookings to lock in"
+      ],
       "decisions": [
         "Jordan strengthened her planning role by using holiday load simulations to justify earlier packaging buys and limiting c"
       ]

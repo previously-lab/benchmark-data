@@ -3,21 +3,27 @@
   "slices": [
     {
       "id": "2027-01-08-1220",
-      "focus": "It has been a steadier stretch lately, which probably helped this catch me off g",
-      "summary": "Yeah, manageable is exactly the word",
+      "focus": "South Hills visit with calm older rescue dog shifts Derek from flat no on a dog to conditional maybe",
+      "summary": "A visit to a cousin with a newly adopted older rescue dog surprises Derek by being calm and low-drama, challenging his long-standing resistance to getting a family dog. He shifts from 'no dog ever' to 'maybe eventually, after specific conditions' — the basement cleaned, the yard fence tested and reliable, and a modest pet budget established. He and Erin discuss older rescue specifics (medium energy, leash manners, home-trained) and plan a practical sequence: test the fence, maybe dog-sit for a weekend, then look at rescues by summer if the household routine holds.",
       "tags": [
-        "work",
-        "family",
-        "health",
-        "finance",
-        "travel",
-        "education",
-        "housing",
-        "leisure"
+        "older-rescue-dog-consideration",
+        "south-hills-cousin-visit",
+        "dog-as-manageable-idea",
+        "children-and-calm-dog-proof",
+        "baseline-messaging-to-kids",
+        "fence-and-basement-gatekeepers",
+        "three-dog-conditions-list",
+        "preference-from-no-to-conditionalemotional_tone: neutral"
       ],
       "status": "closed",
       "start": "2027-01-08T12:20:00.000Z",
-      "open_loops": [],
+      "open_loops": [
+        "Testing the yard fence through winter weather",
+        "Dog-sitting for a weekend as a household stress test",
+        "Making a must-have/deal-breaker list with Erin",
+        "Communicating the shift to kids as a boring practical decision, not an emotional reversal",
+        "Cleaning out basement space that could accommodate a dog"
+      ],
       "decisions": [
         "After visiting a South Hills cousin with a newly adopted older rescue dog, Derek became open to eventually getting an ol"
       ]

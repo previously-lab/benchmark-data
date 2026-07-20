@@ -3,17 +3,25 @@
   "slices": [
     {
       "id": "2028-02-08-1025",
-      "focus": "Things have been busy since we last talked, but in a way that felt a little diff",
-      "summary": "Honestly, probably all three",
+      "focus": "A long winter assembly day confirms that Colleen's voice management habits and shared coverage are measurably reducing physical strain.",
+      "summary": "After a heavy winter school assembly day (the kind that used to wreck her voice for days), Colleen arrives home tired but intact. Her microphone use is now default, water discipline is automatic, and she no longer fills every silence or jumps in when others are leading. The shared speaking load is protecting her physically. She recognizes that boring habits (mic, water, not over-talking) plus a better division of labor have moved her voice strain from 'hijacks whole weeks' to 'manageable seasonal tiredness.' The change shows up in reduced resentment, not just reduced hoarseness.",
       "tags": [
-        "work",
-        "health",
-        "education",
-        "goals"
+        "voice-management-proven",
+        "microphone-routine",
+        "sustainable-pacing",
+        "shared-speaking-load",
+        "winter-stress-test",
+        "health-improvement",
+        "recovery-windows",
+        "resentment-reductionemotional_tone: neutral"
       ],
       "status": "closed",
       "start": "2028-02-08T10:25:00.000Z",
-      "open_loops": [],
+      "open_loops": [
+        "Keep mic as default every time -- no skipping",
+        "Threshold for 'day getting expensive' (pushing volume, skipping mic, repeating self)",
+        "Default dinner and empty evening for post-assembly nights"
+      ],
       "decisions": [
         "Her voice still gets strained in heavy seasons, but better pacing, shared tour coverage, and routine microphone use have"
       ]

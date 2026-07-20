@@ -3,21 +3,25 @@
   "slices": [
     {
       "id": "2026-04-27-0630",
-      "focus": "Things have been shifting in a good way lately, and I finally had one of those m",
-      "summary": "Honestly, I think it was the combination",
+      "focus": "Colleen's data discipline pays off: Leonard approves a small line item for duplicate carts and replacement materials.",
+      "summary": "Colleen shows Leonard that school visits are now spread across fall, winter, and spring (not just October). Teacher rebooking emails, bus logs, and volunteer checklists form the evidence. He approves a small line item for duplicate outreach carts and replacement laminated materials. The win is modest in dollars but large symbolically: the program is becoming institutional infrastructure. Colleen notes 'wear and tear as a compliment' and starts tracking prep hours quietly for future requests.",
       "tags": [
-        "work",
-        "finance",
-        "travel",
-        "education",
-        "housing",
-        "leisure",
-        "goals",
-        "environment"
+        "budget-victory",
+        "line-item-approval",
+        "year-round-proof",
+        "program-infrastructure",
+        "duplicate-carts",
+        "wear-and-tear-evidence",
+        "institutional-recognition",
+        "strategic-patienceemotional_tone: neutral"
       ],
       "status": "closed",
       "start": "2026-04-27T06:30:00.000Z",
-      "open_loops": [],
+      "open_loops": [
+        "Order exact duplicates first (solve bottlenecks), then improve weak spots",
+        "Before-and-after note on what duplicate carts remove friction-wise",
+        "Quietly document prep hours for future staffing conversation"
+      ],
       "decisions": [
         "Colleen is now overseeing a demonstrably more year round school calendar at Fireman's Hall Museum and secured modest int"
       ]

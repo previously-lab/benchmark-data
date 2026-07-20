@@ -3,19 +3,25 @@
   "slices": [
     {
       "id": "2025-02-08-0710",
-      "focus": "Things have been a bit full on since we last talked, nothing dramatic exactly, j",
-      "summary": "Exactly, it felt like my shoulders dropped without me deciding to relax",
+      "focus": "Discovering qawwali as a Sunday reset tool after a calming visit to Nusrat's",
+      "summary": "After a busy week, Saira visits Nusrat's for tea and discovers qawwali music creates a calming atmosphere. She decides to intentionally use qawwali for Sunday admin/paperwork as a low-noise reset ritual, and considers asking Tom for one protected quiet hour on Sundays.",
       "tags": [
-        "work",
-        "travel",
-        "education",
-        "housing",
-        "leisure",
-        "goals"
+        "qawwali-discovery",
+        "sunday-reset-routine",
+        "friend-nusrat",
+        "stress-management",
+        "music-as-tool",
+        "environmental-adjustment",
+        "home-chaos",
+        "boundary-settingemotional_tone: neutral"
       ],
       "status": "closed",
       "start": "2025-02-08T07:10:00.000Z",
-      "open_loops": [],
+      "open_loops": [
+        "Saira hasn't yet discussed the Sunday quiet hour with Tom",
+        "The qawwali Sunday playlist needs to be created",
+        "Paperwork pile remains the resisted task she procrastinates on"
+      ],
       "decisions": [
         "Saira still listens to BBC Radio 2 in the car and old 2000s R&B for practical tasks, but qawwali now plays a larger role"
       ]

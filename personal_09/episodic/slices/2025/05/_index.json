@@ -3,41 +3,53 @@
   "slices": [
     {
       "id": "2025-05-01-1105",
-      "focus": "A lot has been shifting lately, and one piece of work just got more concrete in ",
-      "summary": "Not easy, but clearer than I expected once I had enough examples in front of me",
+      "focus": "Nadia expands intake pilot with a standing school-document review partnership at Lafayette International.",
+      "summary": "Based on evidence from the intake pilot showing school paperwork is the most frequent first-month bottleneck, Nadia establishes a standing Wednesday document-review slot with a bilingual parent liaison at Lafayette International. She keeps the scope narrow — document review only, not general school questions — and plans a one-page team guide with referral criteria, a family script, and a check-in with the liaison after two Wednesdays.",
       "tags": [
-        "work",
-        "family",
-        "health",
-        "relationship",
-        "education",
-        "housing",
-        "leisure",
-        "goals"
+        "school-document-review",
+        "lafayette-international-partnership",
+        "standing-wednesday-slot",
+        "bilingual-parent-liaison",
+        "preventative-intake-design",
+        "before-summer-backlog",
+        "scope-boundary",
+        "pilot-expansionemotional_tone: neutral"
       ],
       "status": "closed",
       "start": "2025-05-01T11:05:00.000Z",
-      "open_loops": [],
+      "open_loops": [
+        "Create one-page team guide (referral criteria, family script, post-review process)",
+        "Protect Wednesday review-only boundary",
+        "Check in with liaison after two Wednesdays",
+        "Track simple measures: usage, error rate after review, time-to-movement"
+      ],
       "decisions": [
-        "Nadia expanded her intake pilot by adding a standing school-document review partnership with Lafayette International to "
+        "Nadia expanded her intake pilot by adding a standing school-document review partnership with Lafayette International to"
       ]
     },
     {
       "id": "2025-05-27-0430",
-      "focus": "A lot has been shifting lately, and I had one of those moments where my body bas",
-      "summary": "I did get checked out, although not as fast as I should have",
+      "focus": "Nadia nearly faints during a client appointment; doctor diagnoses stress, dehydration, and skipped meals.",
+      "summary": "Nadia nearly faints during a benefits appointment, leading to a primary care visit. The doctor attributes it to stress, dehydration, and too many skipped lunches stacking up. Nadia responds by stocking soup in the staff fridge, buying electrolyte packets, and planning a midday alarm. She also tells Omar and a trusted friend, and begins accepting that her current work pace is physically unsustainable.",
       "tags": [
-        "work",
-        "health",
-        "relationship",
-        "education",
-        "housing",
-        "leisure",
-        "goals"
+        "near-fainting-episode",
+        "stress-headaches",
+        "primary-care-visit",
+        "dehydration-and-skipped-lunches",
+        "soup-and-electrolytes-plan",
+        "omar-health-concern",
+        "visible-cue-system",
+        "physical-unsustainabilityemotional_tone: neutral"
       ],
       "status": "closed",
       "start": "2025-05-27T04:30:00.000Z",
-      "open_loops": [],
+      "open_loops": [
+        "Set midday alarm with specific label ('drink water now, eat something with salt and protein')",
+        "Stock soup in staff fridge and backup snacks in desk drawer",
+        "Place electrolyte packets in desk, bag, and car",
+        "Ask Omar for one midday check-in text for a week",
+        "Weekly review of whether headaches eased"
+      ],
       "decisions": [
         "Nadia's physical health update: she still considers herself generally healthy, but her stress headaches are becoming mor"
       ]

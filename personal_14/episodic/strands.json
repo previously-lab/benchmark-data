@@ -1,229 +1,716 @@
 {
-  "work": [
-    "2025/01/08/1130",
+  "personal-introduction": [
+    "2025/01/08/1130"
+  ],
+  "isfj-personality-type": [
+    "2025/01/08/1130"
+  ],
+  "geography-degree-background": [
+    "2025/01/08/1130"
+  ],
+  "flood-mitigation-adoption-goal": [
+    "2025/01/08/1130"
+  ],
+  "lena-hebert-marriage": [
+    "2025/01/08/1130"
+  ],
+  "dorothy-faye-caregiving-context": [
+    "2025/01/08/1130"
+  ],
+  "stress-triggered-acid-reflux": [
+    "2025/01/08/1130"
+  ],
+  "hurricane-season-anxiety": [
+    "2025/01/08/1130"
+  ],
+  "houston-area-rootednessemotional_tone: neutral": [
+    "2025/01/08/1130"
+  ],
+  "corridor-workshop-launch": [
+    "2025/02/11/0020"
+  ],
+  "flood-mitigation-outreach": [
+    "2025/02/11/0020"
+  ],
+  "homeowner-workshop-series": [
+    "2025/02/11/0020"
+  ],
+  "sharon-boudreaux-backing": [
     "2025/02/11/0020",
-    "2025/03/02/0840",
-    "2025/04/09/1010",
-    "2025/05/18/0525",
-    "2025/06/24/0105",
-    "2025/07/12/0350",
-    "2025/08/19/0940",
+    "2026/07/07/0055"
+  ],
+  "follow-through-program-design": [
+    "2025/02/11/0020"
+  ],
+  "checkpoint-tracking-system": [
+    "2025/02/11/0020"
+  ],
+  "miguel-trevino-engineering-support": [
+    "2025/02/11/0020"
+  ],
+  "sign-in-sheet-redesign": [
+    "2025/02/11/0020"
+  ],
+  "homeowner-trust-buildingemotional_tone: neutral": [
+    "2025/02/11/0020"
+  ],
+  "terrence-guidry-friendship": [
+    "2025/03/02/0840"
+  ],
+  "map-screenshot-venting-habit": [
+    "2025/03/02/0840"
+  ],
+  "work-stress-decompression": [
+    "2025/03/02/0840"
+  ],
+  "gis-friend-support": [
+    "2025/03/02/0840"
+  ],
+  "emotional-regulation-strategy": [
+    "2025/03/02/0840"
+  ],
+  "repetitive-meeting-fatigue": [
+    "2025/03/02/0840"
+  ],
+  "gulf-coast-storm-history": [
+    "2025/03/02/0840"
+  ],
+  "friendship-boundary-awarenessemotional_tone: neutral": [
+    "2025/03/02/0840"
+  ],
+  "workshop-format-redesign": [
+    "2025/04/09/1010"
+  ],
+  "homeowner-application-packets": [
+    "2025/04/09/1010"
+  ],
+  "color-coded-checklist-system": [
+    "2025/04/09/1010"
+  ],
+  "call-back-sheet-tracking": [
+    "2025/04/09/1010"
+  ],
+  "follow-through-manager-role": [
+    "2025/04/09/1010"
+  ],
+  "sharon-boudreaux-iteration-support": [
+    "2025/04/09/1010"
+  ],
+  "kitchen-table-design-philosophy": [
+    "2025/04/09/1010"
+  ],
+  "application-conversion-trackingemotional_tone: neutral": [
+    "2025/04/09/1010"
+  ],
+  "dorothy-faye-caregiving": [
+    "2025/05/18/0525"
+  ],
+  "lena-caregiving-burden-relief": [
+    "2025/05/18/0525"
+  ],
+  "friday-medical-transport": [
+    "2025/05/18/0525"
+  ],
+  "family-caregiving-plan": [
+    "2025/05/18/0525"
+  ],
+  "marriage-protection-strategy": [
+    "2025/05/18/0525"
+  ],
+  "caregiver-boundary-setting": [
+    "2025/05/18/0525"
+  ],
+  "maternal-doctor-resistance": [
+    "2025/05/18/0525"
+  ],
+  "one-page-caregiving-sheetemotional_tone: neutral": [
+    "2025/05/18/0525"
+  ],
+  "monthly-paperwork-clinic-launch": [
+    "2025/06/24/0105"
+  ],
+  "conversion-rate-evidence": [
+    "2025/06/24/0105"
+  ],
+  "church-fellowship-hall-venue": [
+    "2025/06/24/0105"
+  ],
+  "miguel-trevino-engineer-office-hours": [
+    "2025/06/24/0105"
+  ],
+  "triage-sheet-system": [
+    "2025/06/24/0105"
+  ],
+  "controlled-expansion-strategy": [
+    "2025/06/24/0105"
+  ],
+  "application-follow-through-model": [
+    "2025/06/24/0105"
+  ],
+  "what-to-bring-checklistemotional_tone: neutral": [
+    "2025/06/24/0105"
+  ],
+  "acid-reflux-diet-adjustment": [
+    "2025/07/12/0350"
+  ],
+  "smoked-turkey-discovery": [
+    "2025/07/12/0350"
+  ],
+  "stress-triggered-eating-patterns": [
+    "2025/07/12/0350"
+  ],
+  "cookout-food-strategy": [
+    "2025/07/12/0350"
+  ],
+  "practical-health-guardrails": [
+    "2025/07/12/0350"
+  ],
+  "body-awareness-development": [
+    "2025/07/12/0350"
+  ],
+  "default-food-choices": [
+    "2025/07/12/0350"
+  ],
+  "community-event-participationemotional_tone: neutral": [
+    "2025/07/12/0350"
+  ],
+  "gulf-storm-anxiety-crisis": [
+    "2025/08/19/0940"
+  ],
+  "stress-triggered-reflux-flareup": [
+    "2025/08/19/0940"
+  ],
+  "sharon-boudreaux-intervention": [
+    "2025/08/19/0940"
+  ],
+  "shared-callback-board-system": [
+    "2025/08/19/0940"
+  ],
+  "no-calls-after-dinner-boundary": [
+    "2025/08/19/0940"
+  ],
+  "late-night-voicemail-spiral": [
+    "2025/08/19/0940"
+  ],
+  "morning-anti-escalation-script": [
+    "2025/08/19/0940"
+  ],
+  "burnout-near-miss": [
+    "2025/08/19/0940"
+  ],
+  "personal-emergency-management-patternemotional_tone: neutral": [
+    "2025/08/19/0940"
+  ],
+  "neighborhood-pet-blessing": [
+    "2025/09/06/0715"
+  ],
+  "nadine-louise-carver": [
+    "2025/09/06/0715"
+  ],
+  "roux-the-black-lab": [
+    "2025/09/06/0715"
+  ],
+  "lena-quality-time": [
     "2025/09/06/0715",
-    "2025/10/28/0230",
-    "2025/12/14/1020",
-    "2026/01/26/0145",
-    "2026/03/04/1205",
-    "2026/04/21/0610",
-    "2026/05/29/0435",
-    "2026/07/07/0055",
-    "2026/08/18/1045",
-    "2026/10/03/0220",
-    "2026/11/19/1110",
+    "2026/11/19/1110"
+  ],
+  "social-reset-outing": [
+    "2025/09/06/0715"
+  ],
+  "neighborhood-drainage-chatter": [
+    "2025/09/06/0715"
+  ],
+  "walk- acquaintance-network": [
+    "2025/09/06/0715"
+  ],
+  "exit-ramp-socializingemotional_tone: neutral": [
+    "2025/09/06/0715"
+  ],
+  "repeat-loss-subsection-focus": [
+    "2025/10/28/0230"
+  ],
+  "case-tracking-system": [
+    "2025/10/28/0230"
+  ],
+  "concentrated-follow-through-pilot": [
+    "2025/10/28/0230"
+  ],
+  "sharon-boudreaux-approval": [
+    "2025/10/28/0230"
+  ],
+  "stage-based-household-tracking": [
+    "2025/10/28/0230"
+  ],
+  "strategic-depth-over-sprawl": [
+    "2025/10/28/0230"
+  ],
+  "cooling-off-rule-definition": [
+    "2025/10/28/0230"
+  ],
+  "curiosity-versus-active-pipelineemotional_tone: neutral": [
+    "2025/10/28/0230"
+  ],
+  "gulf-coast-history-audiobooks": [
+    "2025/12/14/1020"
+  ],
+  "library-app-discovery": [
+    "2025/12/14/1020"
+  ],
+  "calmer-workday-drives": [
+    "2025/12/14/1020"
+  ],
+  "weather-radio-reduction": [
+    "2025/12/14/1020"
+  ],
+  "stress-management-habit": [
+    "2025/12/14/1020"
+  ],
+  "regional-nonfiction-engagement": [
+    "2025/12/14/1020"
+  ],
+  "lena-notices-differenceemotional_tone: neutral": [
+    "2025/12/14/1020"
+  ],
+  "address-specific-homeowner-packets": [
+    "2026/01/26/0145"
+  ],
+  "drainage-sketch-tool": [
+    "2026/01/26/0145"
+  ],
+  "mitigation-path-clarity": [
+    "2026/01/26/0145"
+  ],
+  "missing-paperwork-page": [
+    "2026/01/26/0145"
+  ],
+  "home-visit-conversion": [
+    "2026/01/26/0145"
+  ],
+  "plain-language-outreach": [
+    "2026/01/26/0145"
+  ],
+  "miguel-trevino-collaboration": [
+    "2026/01/26/0145"
+  ],
+  "likely-versus-confirmed-languageemotional_tone: neutral": [
+    "2026/01/26/0145"
+  ],
+  "subfloor-repair-expense": [
+    "2026/03/04/1205"
+  ],
+  "yard-regrading-cost": [
+    "2026/03/04/1205"
+  ],
+  "home-repair-financial-strain": [
+    "2026/03/04/1205"
+  ],
+  "savings-account-depletion": [
+    "2026/03/04/1205"
+  ],
+  "vacation-delay-frustration": [
+    "2026/03/04/1205"
+  ],
+  "empathy-for-homeowner-hesitation": [
+    "2026/03/04/1205"
+  ],
+  "cost-uncertainty-framework": [
+    "2026/03/04/1205"
+  ],
+  "prevention-spend-psychologyemotional_tone: neutral": [
+    "2026/03/04/1205"
+  ],
+  "contractor-prequalification-crisis": [
+    "2026/04/21/0610"
+  ],
+  "ownership-document-mismatches": [
+    "2026/04/21/0610"
+  ],
+  "homeowner-trust-erosion": [
+    "2026/04/21/0610"
+  ],
+  "church-hall-meeting-difficulty": [
+    "2026/04/21/0610"
+  ],
+  "scope-recheck-uncertainty": [
+    "2026/04/21/0610"
+  ],
+  "defensiveness-recognition": [
+    "2026/04/21/0610"
+  ],
+  "blocker-separation-board": [
+    "2026/04/21/0610"
+  ],
+  "damage-control-mode": [
+    "2026/04/21/0610"
+  ],
+  "pre-bid-stage-collapseemotional_tone: neutral": [
+    "2026/04/21/0610"
+  ],
+  "native-plant-photography-hobby": [
+    "2026/05/29/0435"
+  ],
+  "bioswale-observation": [
+    "2026/05/29/0435"
+  ],
+  "stress-relief-practices": [
+    "2026/05/29/0435"
+  ],
+  "phone-photography-album": [
+    "2026/05/29/0435"
+  ],
+  "low-cost-decompression": [
+    "2026/05/29/0435"
+  ],
+  "drainage-plant-interest": [
+    "2026/05/29/0435"
+  ],
+  "private-habit-boundaries": [
+    "2026/05/29/0435"
+  ],
+  "midday-reset-routineemotional_tone: neutral": [
+    "2026/05/29/0435"
+  ],
+  "weekly-movement-sheet": [
+    "2026/07/07/0055"
+  ],
+  "three-bucket-delay-system": [
+    "2026/07/07/0055"
+  ],
+  "trust-repair-through-transparency": [
+    "2026/07/07/0055"
+  ],
+  "office-hours-accountability": [
+    "2026/07/07/0055"
+  ],
+  "homeowner-document-sensitivity": [
+    "2026/07/07/0055"
+  ],
+  "movement-list-framing": [
+    "2026/07/07/0055"
+  ],
+  "last-updated-date-accuracyemotional_tone: neutral": [
+    "2026/07/07/0055"
+  ],
+  "primary-care-doctor-visit": [
+    "2026/08/18/1045"
+  ],
+  "reflux-medication-consistency": [
+    "2026/08/18/1045"
+  ],
+  "dorothy-faye-fall-scare": [
+    "2026/08/18/1045"
+  ],
+  "storm-anxiety-recognition": [
+    "2026/08/18/1045"
+  ],
+  "evening-routine-adjustment": [
+    "2026/08/18/1045"
+  ],
+  "health-habit-formation": [
+    "2026/08/18/1045"
+  ],
+  "late-night-radar-check-boundary": [
+    "2026/08/18/1045"
+  ],
+  "vigilance-versus-pressureemotional_tone: neutral": [
+    "2026/08/18/1045"
+  ],
+  "saturday-clinic-expansion": [
+    "2026/10/03/0220"
+  ],
+  "title-company-support": [
+    "2026/10/03/0220"
+  ],
+  "bilingual-intake-service": [
+    "2026/10/03/0220"
+  ],
+  "pre-review-attrition-solution": [
+    "2026/10/03/0220"
+  ],
+  "inherited-heirship-untangling": [
+    "2026/10/03/0220"
+  ],
+  "deed-copy-retrieval-help": [
+    "2026/10/03/0220"
+  ],
+  "status-sheet-insight": [
+    "2026/10/03/0220"
+  ],
+  "sharon-boudreaux-supportemotional_tone: neutral": [
+    "2026/10/03/0220"
+  ],
+  "legal-procedural-movie-discovery": [
+    "2026/11/19/1110"
+  ],
+  "civic-drama-preference": [
+    "2026/11/19/1110"
+  ],
+  "backyard-movie-night": [
+    "2026/11/19/1110"
+  ],
+  "leisure-taste-reclaiming": [
+    "2026/11/19/1110"
+  ],
+  "competence-and-process-storytelling": [
+    "2026/11/19/1110"
+  ],
+  "movie-mood-list-systememotional_tone: neutral": [
+    "2026/11/19/1110"
+  ],
+  "corridor-performance-scoreboard": [
+    "2027/01/30/0135"
+  ],
+  "block-level-metric-tracking": [
+    "2027/01/30/0135"
+  ],
+  "sharon-boudreaux-presentation": [
+    "2027/01/30/0135"
+  ],
+  "concentrated-model-defense": [
+    "2027/01/30/0135"
+  ],
+  "completed-applications-evidence": [
     "2027/01/30/0135",
-    "2027/03/16/0955",
-    "2027/05/05/0325",
-    "2027/06/23/1230",
-    "2027/08/31/0040",
-    "2027/10/14/0600",
-    "2028/01/17/0115",
-    "2028/03/09/1140",
-    "2028/05/28/0505",
-    "2028/08/06/2310",
     "2028/11/21/0825"
   ],
-  "family": [
-    "2025/01/08/1130",
-    "2025/03/02/0840",
-    "2025/04/09/1010",
-    "2025/05/18/0525",
-    "2025/07/12/0350",
-    "2026/01/26/0145",
-    "2026/03/04/1205",
-    "2026/05/29/0435",
-    "2026/07/07/0055",
-    "2026/08/18/1045",
-    "2026/10/03/0220",
-    "2027/03/16/0955",
-    "2027/10/14/0600",
-    "2028/03/09/1140"
+  "signed-scope-tracking": [
+    "2027/01/30/0135"
   ],
-  "health": [
-    "2025/01/08/1130",
-    "2025/04/09/1010",
-    "2025/07/12/0350",
-    "2025/08/19/0940",
-    "2025/09/06/0715",
-    "2025/10/28/0230",
-    "2026/01/26/0145",
-    "2026/03/04/1205",
-    "2026/04/21/0610",
-    "2026/08/18/1045",
-    "2026/11/19/1110",
-    "2027/01/30/0135",
-    "2027/03/16/0955",
-    "2027/10/14/0600",
-    "2028/01/17/0115",
-    "2028/03/09/1140",
-    "2028/05/28/0505",
-    "2028/08/06/2310"
+  "active-project-starts": [
+    "2027/01/30/0135"
   ],
-  "finance": [
-    "2025/01/08/1130",
-    "2025/12/14/1020",
-    "2026/03/04/1205",
-    "2026/05/29/0435",
-    "2027/06/23/1230",
-    "2027/08/31/0040",
+  "strategic-shield-toolemotional_tone: neutral": [
+    "2027/01/30/0135"
+  ],
+  "dorothy-faye-near-fall": [
+    "2027/03/16/0955"
+  ],
+  "home-safety-improvements": [
+    "2027/03/16/0955"
+  ],
+  "grab-bar-installation": [
+    "2027/03/16/0955"
+  ],
+  "home-health-assessment": [
+    "2027/03/16/0955"
+  ],
+  "lena-caleb-caregiving-coordination": [
+    "2027/03/16/0955"
+  ],
+  "mother-resistance-to-help": [
+    "2027/03/16/0955"
+  ],
+  "medication-bin-labeling": [
+    "2027/03/16/0955"
+  ],
+  "caregiving-division-of-laboremotional_tone: neutral": [
+    "2027/03/16/0955"
+  ],
+  "corridor-walk-event": [
+    "2027/05/05/0325"
+  ],
+  "resident-testimony-outreach": [
+    "2027/05/05/0325"
+  ],
+  "before-after-flood-photos": [
+    "2027/05/05/0325"
+  ],
+  "peer-trust-building": [
+    "2027/05/05/0325"
+  ],
+  "visible-mitigation-progress": [
+    "2027/05/05/0325"
+  ],
+  "homeowner-to-homeowner-persuasion": [
+    "2027/05/05/0325"
+  ],
+  "milestone-based-outreach": [
+    "2027/05/05/0325"
+  ],
+  "survey-stakes-evidenceemotional_tone: neutral": [
+    "2027/05/05/0325"
+  ],
+  "astros-game-scorekeeping": [
+    "2027/06/23/1230"
+  ],
+  "miguel-trevino-friendship": [
+    "2027/06/23/1230"
+  ],
+  "paper-scorecard-hobby": [
+    "2027/06/23/1230"
+  ],
+  "spontaneous-decompression": [
+    "2027/06/23/1230"
+  ],
+  "structured-leisure-preference": [
+    "2027/06/23/1230"
+  ],
+  "attention-reset-experience": [
+    "2027/06/23/1230"
+  ],
+  "low-cost-rest-routineemotional_tone: neutral": [
+    "2027/06/23/1230"
+  ],
+  "budget-pressure-defense": [
+    "2027/08/31/0040"
+  ],
+  "concentrated-model-advocacy": [
+    "2027/08/31/0040"
+  ],
+  "conversion-and-drop-off-evidence": [
+    "2027/08/31/0040"
+  ],
+  "wall-map-visual-argument": [
+    "2027/08/31/0040"
+  ],
+  "sharon-boudreaux-support": [
+    "2027/08/31/0040"
+  ],
+  "internal-advocacy-role": [
+    "2027/08/31/0040"
+  ],
+  "repeated-contact-proving": [
+    "2027/08/31/0040"
+  ],
+  "one-page-standing-summaryemotional_tone: neutral": [
+    "2027/08/31/0040"
+  ],
+  "drainage-and-gutter-overhaul": [
     "2027/10/14/0600"
   ],
-  "relationship": [
-    "2025/01/08/1130",
-    "2025/05/18/0525",
-    "2025/09/06/0715",
-    "2027/03/16/0955",
+  "home-prevention-spend": [
+    "2027/10/14/0600"
+  ],
+  "financial-cushion-strain": [
+    "2027/10/14/0600"
+  ],
+  "mitigation-cost-empathy": [
+    "2027/10/14/0600"
+  ],
+  "prevention-over-stopgap-decision": [
+    "2027/10/14/0600"
+  ],
+  "lena-joint-financial-decision": [
+    "2027/10/14/0600"
+  ],
+  "home-hardening-psychology": [
+    "2027/10/14/0600"
+  ],
+  "workshop-language-revisionemotional_tone: neutral": [
+    "2027/10/14/0600"
+  ],
+  "post-approval-retention-routine": [
+    "2028/01/17/0115"
+  ],
+  "30-60-90-day-check-in": [
+    "2028/01/17/0115"
+  ],
+  "named-contact-system": [
+    "2028/01/17/0115"
+  ],
+  "late-stage-drift-prevention": [
+    "2028/01/17/0115"
+  ],
+  "approved-household-support": [
+    "2028/01/17/0115"
+  ],
+  "retention-chain-model": [
+    "2028/01/17/0115"
+  ],
+  "plain-language-closing-explanations": [
+    "2028/01/17/0115"
+  ],
+  "action-triggering-dashboardemotional_tone: neutral": [
+    "2028/01/17/0115"
+  ],
+  "lafayette-weekend-trip": [
     "2028/03/09/1140"
   ],
-  "travel": [
-    "2025/01/08/1130",
-    "2025/05/18/0525",
-    "2025/08/19/0940",
-    "2025/12/14/1020",
-    "2026/01/26/0145",
-    "2026/03/04/1205",
-    "2026/08/18/1045",
-    "2026/10/03/0220",
-    "2027/01/30/0135",
-    "2027/03/16/0955",
-    "2028/03/09/1140",
-    "2028/05/28/0505",
-    "2028/11/21/0825"
+  "travel-anxiety-reduction": [
+    "2028/03/09/1140"
   ],
-  "education": [
-    "2025/01/08/1130",
-    "2025/02/11/0020",
-    "2025/03/02/0840",
-    "2025/04/09/1010",
-    "2025/05/18/0525",
-    "2025/06/24/0105",
-    "2025/07/12/0350",
-    "2025/10/28/0230",
-    "2025/12/14/1020",
-    "2026/01/26/0145",
-    "2026/03/04/1205",
-    "2026/11/19/1110",
-    "2027/01/30/0135",
-    "2027/08/31/0040",
-    "2028/11/21/0825"
+  "reflux-management-on-trip": [
+    "2028/03/09/1140"
   ],
-  "housing": [
-    "2025/01/08/1130",
-    "2025/02/11/0020",
-    "2025/03/02/0840",
-    "2025/04/09/1010",
-    "2025/05/18/0525",
-    "2025/07/12/0350",
-    "2025/08/19/0940",
-    "2025/09/06/0715",
-    "2025/10/28/0230",
-    "2025/12/14/1020",
-    "2026/03/04/1205",
-    "2026/04/21/0610",
-    "2026/05/29/0435",
-    "2026/07/07/0055",
-    "2026/08/18/1045",
-    "2026/10/03/0220",
-    "2026/11/19/1110",
-    "2027/01/30/0135",
-    "2027/03/16/0955",
-    "2027/05/05/0325",
-    "2027/08/31/0040",
-    "2027/10/14/0600",
-    "2028/01/17/0115",
-    "2028/03/09/1140",
-    "2028/05/28/0505",
-    "2028/08/06/2310",
-    "2028/11/21/0825"
+  "regional-travel-template": [
+    "2028/03/09/1140"
   ],
-  "leisure": [
-    "2025/02/11/0020",
-    "2025/03/02/0840",
-    "2025/06/24/0105",
-    "2025/07/12/0350",
-    "2025/10/28/0230",
-    "2025/12/14/1020",
-    "2026/05/29/0435",
-    "2026/08/18/1045",
-    "2026/11/19/1110",
-    "2027/01/30/0135",
-    "2027/06/23/1230",
-    "2027/08/31/0040",
+  "house-check-system": [
+    "2028/03/09/1140"
+  ],
+  "fixed-return-date-preference": [
+    "2028/03/09/1140"
+  ],
+  "lena-travel-partnership": [
+    "2028/03/09/1140"
+  ],
+  "personal-growth-milestoneemotional_tone: neutral": [
+    "2028/03/09/1140"
+  ],
+  "senior-staff-briefing": [
+    "2028/05/28/0505"
+  ],
+  "corridor-results-presentation": [
+    "2028/05/28/0505"
+  ],
+  "post-approval-abandonment-focus": [
+    "2028/05/28/0505"
+  ],
+  "dropout-stage-evidence": [
+    "2028/05/28/0505"
+  ],
+  "professional-credibility-growth": [
+    "2028/05/28/0505"
+  ],
+  "builder-of-method-role": [
+    "2028/05/28/0505"
+  ],
+  "tired-but-vindicated": [
+    "2028/05/28/0505"
+  ],
+  "plain-language-evidenceemotional_tone: neutral": [
+    "2028/05/28/0505"
+  ],
+  "gulf-storm-anxiety-management": [
     "2028/08/06/2310"
   ],
-  "goals": [
-    "2025/02/11/0020",
-    "2025/04/09/1010",
-    "2025/05/18/0525",
-    "2025/07/12/0350",
-    "2025/08/19/0940",
-    "2025/09/06/0715",
-    "2025/12/14/1020",
-    "2026/01/26/0145",
-    "2026/03/04/1205",
-    "2026/07/07/0055",
-    "2026/08/18/1045",
-    "2026/10/03/0220",
-    "2026/11/19/1110",
-    "2027/01/30/0135",
-    "2027/03/16/0955",
-    "2027/05/05/0325",
-    "2027/06/23/1230",
-    "2027/08/31/0040",
-    "2027/10/14/0600",
-    "2028/03/09/1140",
-    "2028/05/28/0505",
+  "reflux-routine-maintenance": [
     "2028/08/06/2310"
   ],
-  "environment": [
-    "2025/02/11/0020",
-    "2025/03/02/0840",
-    "2025/06/24/0105",
-    "2025/07/12/0350",
-    "2025/08/19/0940",
-    "2025/09/06/0715",
-    "2025/10/28/0230",
-    "2025/12/14/1020",
-    "2026/01/26/0145",
-    "2026/05/29/0435",
-    "2026/08/18/1045",
-    "2026/10/03/0220",
-    "2026/11/19/1110",
-    "2027/01/30/0135",
-    "2027/05/05/0325",
-    "2027/06/23/1230",
-    "2027/08/31/0040",
-    "2027/10/14/0600",
-    "2028/01/17/0115",
-    "2028/03/09/1140",
-    "2028/05/28/0505",
-    "2028/08/06/2310",
+  "forecast-check-boundaries": [
+    "2028/08/06/2310"
+  ],
+  "miguel-meeting-delegation": [
+    "2028/08/06/2310"
+  ],
+  "storm-week-coping-script": [
+    "2028/08/06/2310"
+  ],
+  "early-warning-sign-recognition": [
+    "2028/08/06/2310"
+  ],
+  "contained-anxiety-progressemotional_tone: neutral": [
+    "2028/08/06/2310"
+  ],
+  "year-end-corridor-review": [
     "2028/11/21/0825"
   ],
-  "civic": [
-    "2025/02/11/0020",
-    "2025/03/02/0840",
-    "2025/06/24/0105",
-    "2025/08/19/0940",
-    "2025/09/06/0715",
-    "2025/10/28/0230",
-    "2026/01/26/0145",
-    "2026/10/03/0220",
-    "2026/11/19/1110",
-    "2027/05/05/0325",
-    "2027/06/23/1230",
-    "2027/08/31/0040",
-    "2027/10/14/0600",
-    "2028/01/17/0115",
-    "2028/05/28/0505",
+  "signed-scope-milestones": [
+    "2028/11/21/0825"
+  ],
+  "buyout-enrollment-progress": [
+    "2028/11/21/0825"
+  ],
+  "go-to-corridor-specialist-role": [
+    "2028/11/21/0825"
+  ],
+  "retention-chain-documentation": [
+    "2028/11/21/0825"
+  ],
+  "sharon-miguel-validation": [
+    "2028/11/21/0825"
+  ],
+  "transferable-model-definitionemotional_tone: neutral": [
     "2028/11/21/0825"
   ]
 }

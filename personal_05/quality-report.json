@@ -1,0 +1,218 @@
+{
+  "personaId": "personal_05",
+  "reviewedAt": "2026-07-20T00:00:00.000Z",
+  "model": "claude-haiku-4-5",
+  "overallNotes": "Nathaniel James Hollis is a 39-year-old (born 1985-11-08) senior transit scheduling analyst at COTA in Columbus, Ohio, living with longtime partner Erin Michelle Kessler. The dataset spans January 2025 to May 2028, tracing a coherent arc from reactive dispatch cleanup to formalized service reliability leadership. The persona is exceptionally well-constructed with consistent personality traits (ISTJ, detail-fixated, conflict-averse, principled), a deeply integrated geography/transit theme, and realistic setbacks (second corridor rollout failure, housing disappointment) that make the arc feel earned. Key relationships (Erin, Monica, Greg, Elena) recur meaningfully. Slicing follows the 30-minute inactivity rule correctly. Primary strengths: strongly grounded domain language, consistent character voice, natural pacing of career growth. Minor issues: original emotional_tone is set to 'neutral' on every slice when many should be 'positive' (career wins, health improvements) or 'negative' (corridor setback, housing disappointment); some original summaries are quote fragments rather than proper descriptions; original tags are overly generic and missing domain-specific terms like 'cota', 'transit-reliability', 'operations-planning'; some original quality notes contain arrays instead of strings; open_loops fields are entirely absent from all original slices. The dataset would benefit from more varied emotional_tone values and richer open_loops tracking.",
+  "issues": [
+    {
+      "sliceId": "2025-01-06-0030",
+      "focus_accurate": true,
+      "summary_accurate": true,
+      "tags_relevant": true,
+      "notes": "First slice with strong comprehensive introduction. All key relationships named: Erin, Darius, Monica, Greg, Elena. Focus truncates Nathaniel's first line; full context available in Turn 1. Original focus was a quote fragment."
+    },
+    {
+      "sliceId": "2025-01-28-0840",
+      "focus_accurate": true,
+      "summary_accurate": true,
+      "tags_relevant": true,
+      "notes": "Strong slice capturing work transition. Focus truncated at end ('mis'). Original summary is a quote fragment ('Honestly, all three'). Good decisions section. Emotional tone should reflect mix of opportunity and strain."
+    },
+    {
+      "sliceId": "2025-02-14-1215",
+      "focus_accurate": true,
+      "summary_accurate": true,
+      "tags_relevant": true,
+      "notes": "Original summary is a quote fragment ('He did not blow up...'). Focus truncated ('th'). Rich emotional depth with guilt, relief, and partnership dynamics well rendered. Original tags included work/education which are not relevant to this slice."
+    },
+    {
+      "sliceId": "2025-03-10-2310",
+      "focus_accurate": true,
+      "summary_accurate": true,
+      "tags_relevant": true,
+      "notes": "Strong slice capturing career inflection point. Focus truncated ('anothe') but readable. Summary properly descriptive. Good specificity on evidence types (AVL, run-cut, field notes). Original emotional_tone should be positive not neutral."
+    },
+    {
+      "sliceId": "2025-03-29-0350",
+      "focus_accurate": true,
+      "summary_accurate": true,
+      "tags_relevant": true,
+      "notes": "Lighter slice focused on routine discovery. Good character texture. Decisions section has one entry that is a quote fragment rather than a full decision statement. Original tags included work/goals which are secondary to the social/food theme."
+    },
+    {
+      "sliceId": "2025-04-23-0720",
+      "focus_accurate": true,
+      "summary_accurate": true,
+      "tags_relevant": true,
+      "notes": "Original summary is a sentence fragment cut mid-thought ('basi'). Focus also truncated ('revi'). Rich political dynamics well captured. Good distinction between design flaws and change-friction complaints."
+    },
+    {
+      "sliceId": "2025-05-12-1030",
+      "focus_accurate": true,
+      "summary_accurate": true,
+      "tags_relevant": true,
+      "notes": "Emotionally rich slice with genuine relief. Summary properly descriptive. Original summary was a quote fragment ('Mostly relieved, honestly'). Good distinction between relief and protectiveness. 'Startup help' concept well articulated."
+    },
+    {
+      "sliceId": "2025-06-16-2155",
+      "focus_accurate": true,
+      "summary_accurate": true,
+      "tags_relevant": true,
+      "notes": "Excellent slice capturing hands-on field work. Summary properly descriptive. Focus truncated ('s') but readable. Original summary was a quote fragment ('Messier than the office version...')."
+    },
+    {
+      "sliceId": "2025-07-06-0240",
+      "focus_accurate": true,
+      "summary_accurate": true,
+      "tags_relevant": true,
+      "notes": "Health arc milestone with realistic mixed progress. Summary properly descriptive. Original summary was a quote fragment ('Honestly, I think the last several weeks...'). Good integration of work patterns (field movement) into health narrative."
+    },
+    {
+      "sliceId": "2025-08-21-0815",
+      "focus_accurate": true,
+      "summary_accurate": true,
+      "tags_relevant": true,
+      "notes": "Significant career milestone. Summary properly descriptive. Focus truncated ('wo') but clear. Original summary was a quote fragment ('Honestly both, almost at the same time'). The 'good enough to reuse' framing is excellent."
+    },
+    {
+      "sliceId": "2025-09-14-1105",
+      "focus_accurate": true,
+      "summary_accurate": true,
+      "tags_relevant": true,
+      "notes": "Charming slice showing personality expansion. Summary properly descriptive. Original summary was a quote fragment ('Yeah, exactly, I am not suddenly becoming the guy...'). 'Bounded pleasure' concept perfectly fits the persona. Good social dynamic captured with Greg and Erin."
+    },
+    {
+      "sliceId": "2025-10-30-0600",
+      "focus_accurate": true,
+      "summary_accurate": true,
+      "tags_relevant": true,
+      "notes": "Complex operations slice with good diagnostic depth. Focus truncated ('no') but clear. Original summary was a quote fragment ('The first clue was that...'). The distinction between timetable issues, relief logistics, and school peaks is well articulated."
+    },
+    {
+      "sliceId": "2025-11-22-0125",
+      "focus_accurate": true,
+      "summary_accurate": true,
+      "tags_relevant": true,
+      "notes": "Financial milestone with good emotional honesty. Summary properly descriptive. Original summary was a quote fragment ('Yeah, that is basically how it felt'). 'Sequence, not surrender' framing is excellent. Good partnership dynamics with Erin asking better questions."
+    },
+    {
+      "sliceId": "2026-01-14-2220",
+      "focus_accurate": true,
+      "summary_accurate": true,
+      "tags_relevant": true,
+      "notes": "Critical setback slice with emotional depth. Focus truncated ('Th') but clear. Original summary was a quote fragment ('Honestly, both, but the interpretation part...'). Important distinction between design failure and operating conditions changing underneath the plan."
+    },
+    {
+      "sliceId": "2026-02-08-0945",
+      "focus_accurate": true,
+      "summary_accurate": true,
+      "tags_relevant": true,
+      "notes": "Nice slice showing adaptive coping strategy. Focus truncated ('sma') but clear. Original summary was a quote fragment ('Definitely the historical ones first'). Good distinction between commute-safe and commute-stress content. The 'orientation over inspiration' insight fits the persona perfectly."
+    },
+    {
+      "sliceId": "2026-03-19-0510",
+      "focus_accurate": true,
+      "summary_accurate": true,
+      "tags_relevant": true,
+      "notes": "Strong recovery arc slice. Focus truncated ('leadi') but clear. Original summary was a quote fragment ('Yeah, that is how it feels'). Key professional growth: choosing robustness over elegance. Good 'shared custody' framing of depot relationship."
+    },
+    {
+      "sliceId": "2026-04-27-1020",
+      "focus_accurate": true,
+      "summary_accurate": true,
+      "tags_relevant": true,
+      "notes": "Relationship maintenance slice with good specificity. Focus truncated ('getti') but clear. Original summary was a quote fragment ('Yeah, exactly, it was not dramatic'). The Wednesday choice over Friday is a nice touch of realism. Good behavioral specificity (phone face down, no email)."
+    },
+    {
+      "sliceId": "2026-06-01-2335",
+      "focus_accurate": true,
+      "summary_accurate": true,
+      "tags_relevant": true,
+      "notes": "Recovery and formalization milestone. Focus truncated ('is') but clear. Original summary was a quote fragment ('Honestly, the reaction was more serious...'). 'Measurable and manageable' is the key framing. Good note about 'portable' vs 'Nathaniel's special project' distinction."
+    },
+    {
+      "sliceId": "2026-07-19-0110",
+      "focus_accurate": true,
+      "summary_accurate": true,
+      "tags_relevant": true,
+      "notes": "Delightful hobby-discovery slice. Focus truncated ('for') but readable. Original summary was a quote fragment ('Mostly the map-reading and orientation part'). The spatial-puzzle angle perfectly fits the ISTJ geography background. Good integration with Erin relationship."
+    },
+    {
+      "sliceId": "2026-09-08-0750",
+      "focus_accurate": true,
+      "summary_accurate": true,
+      "tags_relevant": true,
+      "notes": "Major career inflection point. Summary properly descriptive. Original summary was a quote fragment ('Mostly a mix, yeah'). Good distinction between technical and decision-level trust. 'Does my presence change the plan' is an excellent filter."
+    },
+    {
+      "sliceId": "2026-10-11-0405",
+      "focus_accurate": true,
+      "summary_accurate": true,
+      "tags_relevant": true,
+      "notes": "Health maintenance milestone with realistic sustainability planning. Original summary was a quote fragment ('Yeah, the message was basically...'). The 'boring stuff counts' lesson is well earned. 'Smaller not nobler' is a key insight."
+    },
+    {
+      "sliceId": "2026-12-06-1040",
+      "focus_accurate": true,
+      "summary_accurate": true,
+      "tags_relevant": true,
+      "notes": "Major process-level achievement. Original summary was a quote fragment ('The biggest thing was realistic running time review...'). The 'clean paper assumptions are only clean because someone else absorbs the mess' line is powerful. Three non-negotiables: running time review, operator input, clean exception tracking."
+    },
+    {
+      "sliceId": "2027-01-22-0730",
+      "focus_accurate": true,
+      "summary_accurate": true,
+      "tags_relevant": true,
+      "notes": "Delightful characterization slice. Original summary was a quote fragment ('Yeah, the local part is a huge piece of it'). The hobby perfectly fits the persona's interests. Good distinction between productive curiosity and completionist overreach."
+    },
+    {
+      "sliceId": "2027-03-14-0200",
+      "focus_accurate": true,
+      "summary_accurate": true,
+      "tags_relevant": true,
+      "notes": "Financial maturity slice with emotional honesty. Original summary was a quote fragment ('Yeah, that is exactly it'). 'Resilience over a fragile milestone' is the key framing. Good joint decision-making dynamics with Erin asking better questions."
+    },
+    {
+      "sliceId": "2027-05-09-0005",
+      "focus_accurate": true,
+      "summary_accurate": true,
+      "tags_relevant": true,
+      "notes": "Knowledge-transfer milestone. Original summary was a quote fragment ('Probably the second one, if I am honest'). The sequence of field work first, then recovery time as consequence, is well reasoned. 'Not asking for generosity, asking for survivable assumptions.'"
+    },
+    {
+      "sliceId": "2027-06-18-0955",
+      "focus_accurate": true,
+      "summary_accurate": true,
+      "tags_relevant": true,
+      "notes": "Charming slice adding pet preference depth. Original summary was a quote fragment ('Mostly the presence, honestly'). The three-condition test (stable housing, routine, financial margin) is practical. Good distinction between liking dogs in theory vs specific preference for calm older rescues."
+    },
+    {
+      "sliceId": "2027-09-27-0545",
+      "focus_accurate": true,
+      "summary_accurate": true,
+      "tags_relevant": true,
+      "notes": "Culmination of career arc. Original summary was a quote fragment ('Yeah, that is exactly why it hit me the way it did'). Key framing: 'the work is real, the role is real, I do not have to keep arguing that it deserves to exist.' Good practical steps: scope note, Monica thank-you, savings automation."
+    },
+    {
+      "sliceId": "2027-11-16-1120",
+      "focus_accurate": true,
+      "summary_accurate": true,
+      "tags_relevant": true,
+      "notes": "Housing maturity slice. Original summary was a quote fragment ('Mostly relief, honestly, with a little bruised pride mixed in'). Key insight: buying became a symbol of adulthood overpowering the actual question of daily livability. The better sleep from top-floor quiet is a nice detail."
+    },
+    {
+      "sliceId": "2028-02-29-0040",
+      "focus_accurate": true,
+      "summary_accurate": true,
+      "tags_relevant": true,
+      "notes": "Validation milestone: the original thesis is proven across multiple signup periods. Original summary was a quote fragment ('Honestly, the leadership reaction mattered...'). 'Cautious confidence' and 'durability over dramatic win' are key concepts. The emotional crash after sustained vigilance is a realistic touch."
+    },
+    {
+      "sliceId": "2028-05-18-1010",
+      "focus_accurate": true,
+      "summary_accurate": true,
+      "tags_relevant": true,
+      "notes": "Health arc conclusion with earned durability. Original summary was a quote fragment ('Probably the combination, honestly'). The two-priority system (evening rhythm, walking floor) is crisp. 'Quiet milestone' and 'ordinary habits measurably changed baseline' are the key takeaways. No more medication threat -- genuine progress."
+    }
+  ]
+}

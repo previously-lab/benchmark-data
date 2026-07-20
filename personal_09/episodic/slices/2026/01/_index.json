@@ -3,19 +3,26 @@
   "slices": [
     {
       "id": "2026-01-27-0835",
-      "focus": "A lot has shifted lately, and I finally had one of those meetings where months o",
-      "summary": "Honestly, the data got me in the door, but the combination mattered",
+      "focus": "Nadia wins approval for a standardized family-complexity case assignment model, moving from ad hoc to formal.",
+      "summary": "At the new-year planning meeting, Nadia wins approval to shift from arrival-order case assignment to a standardized family-complexity model using categories (housing barriers, benefits urgency, school enrollment complications, medical coordination, language access). She presented the dashboard plus inspection packets as evidence. She plans to draft a one-page implementation guide, calibrate complexity categories with a coworker on sample cases, and protect tight scope to avoid overloading the rollout.",
       "tags": [
-        "work",
-        "family",
-        "health",
-        "education",
-        "housing",
-        "leisure"
+        "family-complexity-model",
+        "case-assignment-reform",
+        "leadership-approval",
+        "dashboard-and-packet-evidence",
+        "workload-fairness",
+        "one-pager-rollout",
+        "calibration-step",
+        "from-patch-to-policyemotional_tone: neutral"
       ],
       "status": "closed",
       "start": "2026-01-27T08:35:00.000Z",
-      "open_loops": [],
+      "open_loops": [
+        "Draft one-page rule: who scores complexity, what gets reviewed, when reassignment is allowed",
+        "Pressure-test complexity categories on recent cases with a coworker",
+        "After calibration, finalize and circulate one-pager",
+        "Schedule check-in with team after first week and after one month"
+      ],
       "decisions": [
         "Nadia won leadership approval to shift case assignment from simple arrival order to a standardized family-complexity mod"
       ]

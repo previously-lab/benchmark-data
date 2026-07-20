@@ -3,18 +3,25 @@
   "slices": [
     {
       "id": "2025-05-12-1030",
-      "focus": "A lot has shifted lately, mostly on the home front. The big thing is Darius fina",
-      "summary": "Mostly relieved, honestly",
+      "focus": "Darius finally moved out of the apartment after getting a warehouse job and finding a room on the South Side.",
+      "summary": "Darius moves out after landing a night-shift warehouse job and a room in a shared South Side townhouse. Nathaniel and Erin reclaim their living room and feel immediate relief. Nathaniel commits to bounded, occasional support only.",
       "tags": [
-        "work",
-        "family",
-        "finance",
-        "housing",
-        "goals"
+        "darius-moved-out",
+        "household-relief",
+        "family-boundaries",
+        "erin-relationship",
+        "startup-help",
+        "home-privacy",
+        "living-room-reclaimedemotional_tone: neutral"
       ],
       "status": "closed",
       "start": "2025-05-12T10:30:00.000Z",
-      "open_loops": [],
+      "open_loops": [
+        "Darius's stability on night shift still uncertain",
+        "One-time startup help (groceries, lamp) not yet delivered",
+        "Weekly check-in rhythm with Darius not yet established",
+        "Living room reclamation ritual completed but follow-through needed"
+      ],
       "decisions": [
         "Darius moved out of Nathaniel and Erin's apartment after landing a night-shift warehouse job through a church contact, r",
         "Darius found a shared townhouse room on the South Side after getting warehouse work, so Nathaniel no longer hosts him da"

@@ -4,19 +4,24 @@
     {
       "id": "2025-07-13-0635",
       "focus": "Things have been busy lately, and in the middle of all that I did something pret",
-      "summary": "Honestly, a mix of all three",
+      "summary": "A cheap Brewers game with Leah in nosebleed seats creates an unexpected ongoing connection — Monica starts listening to pregame radio on inspection drives and skimming recaps so she can keep up with Leah's excited player recaps in the car, finding a low-cost, low-friction bonding ritual.",
       "tags": [
-        "work",
-        "family",
-        "finance",
-        "education",
-        "housing",
-        "leisure",
-        "goals"
+        "brewers-game-with-leah",
+        "summer-bonding-ritual",
+        "car-radio-pregame-habit",
+        "low-stakes-connection",
+        "leah-as-expert-dynamic",
+        "sports-interest-refinement",
+        "affordable-ordinary-fun",
+        "parent-child-side-door-conversationemotional_tone: neutral"
       ],
       "status": "closed",
       "start": "2025-07-13T06:35:00.000Z",
-      "open_loops": [],
+      "open_loops": [
+        "Consider another cheap game if one lines up naturally",
+        "Let Leah be the Brewers expert and fill Monica in",
+        "Use sports talk as side door for checking in on Leah's mood"
+      ],
       "decisions": [
         "Monica's sports preference shifted slightly: she still cares most about Leah's volleyball, but after a midsummer Brewers"
       ]

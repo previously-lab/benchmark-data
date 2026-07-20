@@ -3,19 +3,25 @@
   "slices": [
     {
       "id": "2025-09-12-1130",
-      "focus": "A lot has shifted lately, and I finally did something I had been putting off. I ",
-      "summary": "Mostly both, actually",
+      "focus": "After a friend notices her looking drawn on a ferry, Ayaka finally visits a clinic for anti-nausea and sleep advice, shifting from endurance to management.",
+      "summary": "Nozomi sees Ayaka looking ill on a ferry and pushes her to visit a clinic. The doctor confirms the nausea-sleep-stress cycle is real and gives practical advice: time anti-nausea medicine earlier, eat bland food before crossings, and stop trying to force sleep. Ayaka starts being more selective about unnecessary island crossings during typhoon weeks and builds a short pre-sleep routine.",
       "tags": [
-        "work",
-        "family",
-        "health",
-        "travel",
-        "goals",
-        "environment"
+        "clinic-visit",
+        "motion-nausea",
+        "sleep-guidance",
+        "nozomi-intervention",
+        "storm-season-health",
+        "preventive-care",
+        "crossing-limits",
+        "practical-adviceemotional_tone: neutral"
       ],
       "status": "closed",
       "start": "2025-09-12T11:30:00.000Z",
-      "open_loops": [],
+      "open_loops": [
+        "New routines may not survive peak typhoon pressure",
+        "Guilt about reducing island visits may resurface",
+        "Nausea management is palliative, not structural — rough crossings remain unavoidable"
+      ],
       "decisions": [
         "After a rough late-summer spell, Ayaka began managing her motion-triggered nausea more actively using clinic advice and ",
         "After getting clinic advice and speaking honestly with Nozomi, Ayaka felt slightly less panicked about her sleep and sta"

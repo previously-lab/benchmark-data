@@ -3,21 +3,24 @@
   "slices": [
     {
       "id": "2027-08-11-1310",
-      "focus": "It has been a while since we chatted, and life has still felt pretty full, but i",
-      "summary": "Yes, exactly, and honestly I was a little surprised by how much that clicked for me",
+      "focus": "The long-awaited Oregon coast trip confirms Kelli prefers slow, low-agenda travel centered on walking, coffee, and weather.",
+      "summary": "Kelli and Travis finally take the three-day Oregon coast trip funded by their sinking fund, with Gary's care fully covered by the rotation. The trip confirms Kelli prefers slow, low-agenda travel: walking, coffee, watching weather roll in, no packed itinerary. She realizes she doesn't want bigger travel, just better-fitting travel, and plans a shorthand label ('coast-style' or 'weather trip') with Travis for future trip planning.",
       "tags": [
-        "work",
-        "family",
-        "finance",
-        "relationship",
-        "travel",
-        "education",
-        "goals",
-        "environment"
+        "oregon-coast-trip",
+        "slow-travel-preference",
+        "caregiving-break-achieved",
+        "travis-quality-time",
+        "low-agenda-vacation",
+        "weather-as-feature",
+        "coast-style-travel",
+        "better-calibrationemotional_tone: neutral"
       ],
       "status": "closed",
       "start": "2027-08-11T13:10:00.000Z",
-      "open_loops": [],
+      "open_loops": [
+        "Trip shorthand label not yet agreed with Travis",
+        "Future trip planning template (base area + 2 food spots + loose anchor) not yet created"
+      ],
       "decisions": [
         "The trip confirmed for Kelli that she strongly prefers slow, low-agenda travel centered on walking, coffee, and weather "
       ]

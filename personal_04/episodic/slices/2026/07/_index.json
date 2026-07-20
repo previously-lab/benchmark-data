@@ -3,19 +3,26 @@
   "slices": [
     {
       "id": "2026-07-10-0410",
-      "focus": "A lot has shifted lately, and the biggest non-work thing is that I moved. My apa",
-      "summary": "I definitely went back and forth",
+      "focus": "Tasha moves to a quieter Raleigh apartment after rent increase, prioritizing livability over proximity",
+      "summary": "Tasha's old apartment complex raises rent while maintenance declines, prompting her to move to a quieter one-bedroom elsewhere in Raleigh — farther from the office but more settled and less cramped. The move is a practical, budget-conscious decision supported by a friend's labor and a coworker's SUV. Tasha unpacks grief-group binders before decorative items, sets up bed and one chair first, and notices the new place feels restorative even with boxes everywhere. The agent helps her prioritize kitchen basics and bathroom over decoration, create a landing spot by the door, and recognize that 'less crowding in space often means less crowding in the head.' Tasha plans thank-you texts and a gradual settling approach.",
       "tags": [
-        "work",
-        "finance",
-        "relationship",
-        "housing",
-        "goals",
-        "civic"
+        "apartment-move-rent-increase",
+        "quieter-one-bedroom-raleigh",
+        "grief-binders-in-moving-boxes",
+        "one-finished-zone-first",
+        "move-with-community-help",
+        "budget-constrained-housing-choice",
+        "home-as-recovery-space",
+        "less-crowded-before-fully-unpackedemotional_tone: neutral"
       ],
       "status": "closed",
       "start": "2026-07-10T04:10:00.000Z",
-      "open_loops": [],
+      "open_loops": [
+        "Thank-you messages to the friend who helped move and coworker who lent SUV — to be sent",
+        "Kitchen basics and bathroom setup — week 1 priority",
+        "Landing spot by door for keys/bag/mail — to be set up",
+        "Commute evaluation — to be assessed over 2-3 weeks"
+      ],
       "decisions": [
         "Tasha moved from her old apartment into a slightly quieter one-bedroom elsewhere in Raleigh that is farther from the hos"
       ]

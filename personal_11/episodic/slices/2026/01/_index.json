@@ -4,18 +4,25 @@
     {
       "id": "2026-01-12-0045",
       "focus": "A lot has shifted lately, and I finally feel like I have something real to show ",
-      "summary": "Probably the triggers",
+      "summary": "Rather than let political interference stall her corridor work, Monica rebuilds the protocol with clearer escalation triggers, a standard photo checklist, and a one-page chronic-offender brief designed to survive extra management review; she shifts from anger to design, accepting that the constrained version still protects urgent cases.",
       "tags": [
-        "work",
-        "education",
-        "housing",
-        "leisure",
-        "goals",
-        "environment"
+        "corridor-protocol-rewrite",
+        "chronic-offender-brief-template",
+        "escalation-trigger-clarity",
+        "photo-checklist-standardization",
+        "surviving-extra-review-layer",
+        "boring-factual-presentation",
+        "andre-pruitt-field-validation",
+        "urgent-case-age-trackingemotional_tone: neutral"
       ],
       "status": "closed",
       "start": "2026-01-12T00:45:00.000Z",
-      "open_loops": [],
+      "open_loops": [
+        "Freeze protocol structure for trial period",
+        "Track urgent case age before and after rewrite",
+        "Get Andre's input on brief blind spots",
+        "Decide framing for upward presentation"
+      ],
       "decisions": [
         "Monica rebuilt her slowed corridor enforcement process around a formal chronic-offender brief and a standardized escalat"
       ]

@@ -3,19 +3,25 @@
   "slices": [
     {
       "id": "2026-09-24-1410",
-      "focus": "A lot has shifted since we last talked, and I finally feel like I can say someth",
-      "summary": "Yes, exactly, my body is still waiting for the next mistake",
+      "focus": "The typhoon season produces full-season evidence that trained shifts, notice clocks, and staging rules reduced confusion and improved recovery versus the baseline year.",
+      "summary": "Ayaka completes her first full typhoon season with credible evidence of improvement: posted information stabilized sooner, emergency freight had fewer misses, and the disruption binder was actually used by both newer and experienced staff. She remains distrustful of good results but acknowledges the season validated the trained-shift approach, notice ownership, and staging rules. She plans a sober after-action summary with three headings: what worked, where strain appeared, what small upgrades would help.",
       "tags": [
-        "work",
-        "family",
-        "health",
-        "housing",
-        "goals",
-        "environment"
+        "typhoon-season-success",
+        "system-validation",
+        "binder-used-under-pressure",
+        "notice-clocks-functional",
+        "freight-misses-reduced",
+        "full-season-evidence",
+        "baseline-comparison",
+        "operational-trustemotional_tone: neutral"
       ],
       "status": "closed",
       "start": "2026-09-24T14:10:00.000Z",
-      "open_loops": [],
+      "open_loops": [
+        "Body still braced for failure — emotional trust in the system lags behind data",
+        "Full-season proof may still be dismissed by budget-focused management",
+        "Comparison to baseline year needs clear methodology to be credible"
+      ],
       "decisions": [
         "After the 2026 typhoon season, Ayaka finally had one full season of evidence that trained shifts, notice clocks, and car"
       ]

@@ -3,20 +3,24 @@
   "slices": [
     {
       "id": "2025-11-23-0840",
-      "focus": "It has been a while since we chatted, and things have finally felt a little quie",
-      "summary": "I think it was the tempo first",
+      "focus": "A quiet holiday trip to Osaka yields a handful of early-2000s acoustic songs that become Ayaka's end-of-shift spreadsheet cleanup ritual.",
+      "summary": "Ayaka visits her sister Eri in Osaka after the storm stretch eases. While sorting winter clothes, Eri's old playlist introduces four or five early-2000s acoustic songs that Ayaka becomes attached to. She starts playing them during end-of-shift spreadsheet cleanup, finding they soften the transition from work mode. She keeps them mostly confined to that task to preserve their calming association.",
       "tags": [
-        "work",
-        "family",
-        "travel",
-        "housing",
-        "leisure",
-        "goals",
-        "environment"
+        "osaka-visit",
+        "sister-playlist",
+        "acoustic-music",
+        "end-of-shift-ritual",
+        "spreadsheet-cleanup",
+        "domestic-routine",
+        "restorative-travel",
+        "closing-ritualemotional_tone: neutral"
       ],
       "status": "closed",
       "start": "2025-11-23T08:40:00.000Z",
-      "open_loops": [],
+      "open_loops": [
+        "Playlist effect may fade if overused outside the cleanup context",
+        "One-off visit may not sustain the restored connection with sister"
+      ],
       "decisions": [
         "After a quiet holiday visit to Osaka with her sister Eri, Ayaka added several mellow early 2000s acoustic singer-songwri"
       ]

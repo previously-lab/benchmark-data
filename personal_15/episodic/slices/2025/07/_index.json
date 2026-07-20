@@ -3,20 +3,24 @@
   "slices": [
     {
       "id": "2025-07-02-0840",
-      "focus": "Things have been a bit rough lately, and I finally had to admit my body was not ",
-      "summary": "Yeah, that is basically how it felt, like I had run out of excuses",
+      "focus": "Clinic visit forces Jae-hyun to confront shift work's health toll.",
+      "summary": "After two brutal humid night shifts, Jae-hyun's reflux forces a clinic visit near Nampo. The doctor prescribes strict meal timing, less fried food, and basic treatment, also flagging chronic neck tension from the radio desk. Jae-hyun adopts three defaults: no fried dock meals as first option, packed food before night shifts, and a neck-break routine during natural lulls.",
       "tags": [
-        "work",
-        "family",
-        "health",
-        "travel",
-        "housing",
-        "leisure",
-        "goals"
+        "reflux-diagnosis",
+        "clinic-visit",
+        "meal-timing",
+        "neck-tension",
+        "shift-work-health",
+        "packed-meal-routine",
+        "home-recovery-routineemotional_tone: neutral"
       ],
       "status": "closed",
       "start": "2025-07-02T08:40:00.000Z",
-      "open_loops": [],
+      "open_loops": [
+        "Consistency of meal-prep habit during busy weeks",
+        "Neck tension treatment follow-through",
+        "Balancing health needs with rotating shift demands"
+      ],
       "decisions": [
         "A clinic visit pushed Jae-hyun from casual antacids and coffee toward a stricter reflux plan with regular meal timing, l"
       ]

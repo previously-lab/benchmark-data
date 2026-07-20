@@ -3,18 +3,27 @@
   "slices": [
     {
       "id": "2025-04-22-0815",
-      "focus": "A lot has shifted lately, and the work thing I was building in the background is",
-      "summary": "Honestly, the biggest difference is that it is finally visible",
+      "focus": "Pilot goes live with calendar, referral packets, and volunteer scripts at Transitions LifeCare",
+      "summary": "The bereavement pilot shifts from planning to live operation: a structured group calendar on the wall, printed referral packets, short volunteer orientation scripts, and formal tracking procedures. Caleb becomes the first referral partner to use the new form instead of leaving voicemails, providing early proof the system is usable. Tasha wrestles with how hard to push adoption without becoming 'the process police,' and the agent suggests a 'process mirror' approach — showing the team where the system worked or broke with a simple monthly snapshot. Tasha plans a calendar legend, three-category tracking (form source, completeness, coverage clarity), and a 2-3 week check-in before revising scripts.",
       "tags": [
-        "work",
-        "family",
-        "relationship",
-        "housing",
-        "goals"
+        "live-pilot-launch",
+        "structured-group-calendar",
+        "printed-referral-packets",
+        "volunteer-orientation-scripts",
+        "caleb-form-adoption",
+        "three-category-tracking",
+        "calendar-legend-idea",
+        "process-mirror-not-policeemotional_tone: neutral"
       ],
       "status": "closed",
       "start": "2025-04-22T08:15:00.000Z",
-      "open_loops": [],
+      "open_loops": [
+        "Three-category tracking system — needs setup",
+        "Calendar legend — to be posted near the wall calendar",
+        "Volunteer script revision — hold until same confusion appears 2-3 times",
+        "Monthly team snapshot — not yet started",
+        "2-3 week self check-in — scheduled but not yet done"
+      ],
       "decisions": [
         "Tasha moved from planning the bereavement workflow pilot to running it live at Transitions LifeCare with a structured gr"
       ]

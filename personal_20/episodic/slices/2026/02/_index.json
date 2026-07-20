@@ -3,15 +3,21 @@
   "slices": [
     {
       "id": "2026-02-26-2310",
-      "focus": "A lot has shifted lately, and work has turned into more of a real system than a ",
-      "summary": "The categories were the whole point, honestly",
+      "focus": "Eric expands the cold-chain handoff protocol to more partner sites and implements a weekly exception log with three categories (cooler-capacity problems, volunteer-readiness delays, route-timing failures), transforming ambiguous Monday meetings into evidence-based discussions.",
+      "summary": "A categorized weekly exception log (cooler capacity vs volunteer readiness vs route timing) gives Eric a repeatable artifact that lowers meeting temperature, reduces defensive posturing, and separates diagnosis from case management.",
       "tags": [
         "work",
-        "housing"
+        "health",
+        "relationship",
+        "housing",
+        "goalsemotional_tone: neutral"
       ],
       "status": "closed",
       "start": "2026-02-26T23:10:00.000Z",
-      "open_loops": [],
+      "open_loops": [
+        "Light follow-up layer (owner + next step + date) not yet added",
+        "Whether to socialize cooler-capacity pattern data for larger remedies"
+      ],
       "decisions": [
         "Eric expanded his cold-chain handoff protocol to more pantry partners and now tracks a weekly exception log across the w"
       ]

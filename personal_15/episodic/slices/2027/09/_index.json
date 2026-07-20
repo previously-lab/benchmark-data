@@ -3,16 +3,24 @@
   "slices": [
     {
       "id": "2027-09-05-2355",
-      "focus": "A lot has shifted lately, and this part finally feels solid enough to say out lo",
-      "summary": "Probably the second one",
+      "focus": "Three straight quarters prove integrated system holds across shifts.",
+      "summary": "Third straight quarter with avoidable missed cargo windows under two; over 90% of departures leave within 20 minutes of schedule. Jae-hyun now has documented proof that the standardized board, turnover sheet, weather hold sheet, and digital template function as one reliability system rather than separate fixes. He plans to formalize the review rhythm and mark the milestone quietly at home.",
       "tags": [
-        "work",
-        "housing",
-        "environment"
+        "sustained-reliability",
+        "three-straight-quarters",
+        "ninety-percent-on-time",
+        "weather-coding-validation",
+        "call-log-alignment",
+        "consolidation-phase",
+        "process-as-systememotional_tone: neutral"
       ],
       "status": "closed",
       "start": "2027-09-05T23:55:00.000Z",
-      "open_loops": [],
+      "open_loops": [
+        "Formalizing review rhythm protection",
+        "Preventing backslide when maintenance becomes optional",
+        "Translating sustained proof into structural support"
+      ],
       "decisions": [
         "Jae-hyun is still dispatch manager and now has documented proof that the standardized board, turnover sheet, weather cod"
       ]

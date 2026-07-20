@@ -6,18 +6,22 @@
       "focus": "It has been a while since we chatted, and life has felt a little less jagged in ",
       "summary": "I think the low stakes are what made it click",
       "tags": [
-        "work",
-        "family",
-        "travel",
-        "education",
-        "housing",
-        "leisure",
-        "goals",
-        "civic"
+        "leisure-expansion",
+        "neighbor-connection",
+        "puzzle-night",
+        "low-stakes-socializing",
+        "community-building",
+        "non-work-identity",
+        "unstructured-restemotional_tone: neutral"
       ],
       "status": "closed",
       "start": "2026-07-19T11:15:00.000Z",
-      "open_loops": [],
+      "open_loops": [
+        "Whether Jordan can sustain the puzzle night without turning it into a project",
+        "Whether the friendship with Inez develops naturally or gets accelerated into hosting",
+        "The tension between being useful vs being responsible in social settings",
+        "Protecting the low-pressure nature of a genuinely restful hobby"
+      ],
       "decisions": [
         "Jordan became friendly with a new neighbor, Inez Park, who invited her to a once-a-month jigsaw puzzle night in their bu"
       ]

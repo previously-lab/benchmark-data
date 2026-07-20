@@ -3,21 +3,27 @@
   "slices": [
     {
       "id": "2025-10-30-0940",
-      "focus": "A lot has shifted since we last talked, and work got a lot more real all at once",
-      "summary": "Yeah, that is exactly it",
+      "focus": "Fall cohort attrition tests the new support system, forcing late-night calls and protocol design",
+      "summary": "The fall first-year cohort hits a rough patch as overtime, transportation failures, and shame spirals cause multiple apprentices to miss evening classes. Derek spends nights making personal calls — to apprentices, a parent, and a foreman — trying to catch people before they disappear completely. Ron Belski uses the wobbles to needle him that the support model is failing, which gets under Derek's skin. He decides to build a formal one-page contact protocol (who gets contacted when, what gets documented, when contractor/family contacts get involved) and a blunt three-point reset talk for class, while acknowledging he needs to protect his own sleep.",
       "tags": [
-        "work",
-        "family",
-        "health",
-        "education",
-        "housing",
-        "leisure",
-        "goals",
-        "environment"
+        "fall-cohort-attrition-crisis",
+        "apprentice-calling-marathon",
+        "attendance-bucket-analysis",
+        "ron-belski-opportunistic-criticism",
+        "shame-spiral-interruption",
+        "contractor-late-hours-conflict",
+        "sleep-and-stress-decline",
+        "protocol-design-from-crisisemotional_tone: neutral"
       ],
       "status": "closed",
       "start": "2025-10-30T09:40:00.000Z",
-      "open_loops": [],
+      "open_loops": [
+        "Drafting a one-page contact ladder protocol with message scripts",
+        "Designing a blunt three-point reset talk about calling early",
+        "Talking to contractors about not running first-years late on class nights when avoidable",
+        "Building a timed contact sequence (same-night, next-day, escalate) for silent cases",
+        "Protecting sleep from the mental replay of missing apprentices"
+      ],
       "decisions": [
         "He is now more stressed and shorter on sleep because real apprentice drop-off is testing the new attendance system he ov"
       ]

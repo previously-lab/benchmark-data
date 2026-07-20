@@ -1,0 +1,218 @@
+{
+  "personaId": "personal_15",
+  "reviewedAt": "2026-07-20T00:00:00.000Z",
+  "model": "claude-haiku-4-5",
+  "overallNotes": "Park Jae-hyun (personal_15) is a 33-year-old dispatch manager at Daejin Coastal Logistics in Busan, South Korea. His arc spans over three years (Jan 2025 to Apr 2028), documenting a gradual transformation from feeling stuck in operational chaos to systematically building a company-wide dispatch reliability system. Key themes: handoff documentation reform, marriage under shift-work strain, family financial support obligations, health deterioration and recovery from reflux/shift-work strain, and the maturation of personal preferences around leisure, food, travel, and music. The metadata had systemic issues: nearly all focus fields truncated at 50-60 chars, all summaries were first-turn quote fragments instead of narrative condensations, tags were generic single-word categories rather than specific descriptors, and emotional_tone was uniformly 'neutral' despite clearly varied emotional content. Every slice has been corrected.",
+  "issues": [
+    {
+      "sliceId": "2025-01-06-1310",
+      "focus_accurate": true,
+      "summary_accurate": true,
+      "tags_relevant": true,
+      "notes": "Onboarding slice. Original tags were too generic (work, family, health, finance, relationship, travel, education, housing). Original summary was a quote fragment from turn 1. Focus was accurate but overly literal. Replaced with proper narrative summary and domain-specific tags."
+    },
+    {
+      "sliceId": "2025-01-21-2240",
+      "focus_accurate": true,
+      "summary_accurate": true,
+      "tags_relevant": true,
+      "notes": "Focus was truncated at 'somethi' (cut off mid-word). Summary was a truncated quote fragment from turn 3. Original tags too broad (work, family, finance, education, housing, leisure, environment). Fixed all three."
+    },
+    {
+      "sliceId": "2025-02-08-1150",
+      "focus_accurate": true,
+      "summary_accurate": true,
+      "tags_relevant": true,
+      "notes": "Focus truncated at 'started' - missing the full sentence. Summary was quote fragment 'Yeah, that was basically it.' Original tags generic. Added relationship-specific tags."
+    },
+    {
+      "sliceId": "2025-03-03-0620",
+      "focus_accurate": true,
+      "summary_accurate": true,
+      "tags_relevant": true,
+      "notes": "Focus truncated at 'moments' - cut mid-sentence. Summary was truncated quote fragment. Original tags generic. Added process-specific tags."
+    },
+    {
+      "sliceId": "2025-03-29-0315",
+      "focus_accurate": true,
+      "summary_accurate": true,
+      "tags_relevant": true,
+      "notes": "Focus truncated at 'strange t' (cut mid-word). Summary was quote fragment 'Probably the Busan angle first.' Original tags generic. Replaced with interest-specific tags."
+    },
+    {
+      "sliceId": "2025-04-17-2155",
+      "focus_accurate": true,
+      "summary_accurate": true,
+      "tags_relevant": true,
+      "notes": "Focus truncated at 'The board ' (cut mid-sentence). Summary was quote fragment. Original tags generic. Fixed with process-specific tags."
+    },
+    {
+      "sliceId": "2025-05-07-1230",
+      "focus_accurate": true,
+      "summary_accurate": true,
+      "tags_relevant": true,
+      "notes": "Focus truncated at 'I'm ' (cut mid-sentence). Summary was quote fragment 'Honestly, better than I expected.' Original tags overloaded (8 generic tags). Replaced with specific financial and boundary-setting tags."
+    },
+    {
+      "sliceId": "2025-06-10-1810",
+      "focus_accurate": true,
+      "summary_accurate": true,
+      "tags_relevant": true,
+      "notes": "Focus truncated at 'somet' (cut mid-word). Summary was quote fragment. Original tags generic. Fixed with meeting-specific and compromise-specific tags."
+    },
+    {
+      "sliceId": "2025-07-02-0840",
+      "focus_accurate": true,
+      "summary_accurate": true,
+      "tags_relevant": true,
+      "notes": "Focus truncated at 'not ' (cut mid-sentence). Summary was quote fragment from turn 3. Original tags generic. Replaced with health-specific tags."
+    },
+    {
+      "sliceId": "2025-08-18-2025",
+      "focus_accurate": true,
+      "summary_accurate": true,
+      "tags_relevant": true,
+      "notes": "Focus truncated at 'the' - cut mid-sentence. Summary was quote fragment. Original tags generic. Fixed with specific tags about weather gaming and process reform."
+    },
+    {
+      "sliceId": "2025-09-09-1300",
+      "focus_accurate": true,
+      "summary_accurate": true,
+      "tags_relevant": true,
+      "notes": "Focus truncated at 'usual' - appeared complete word but cut a phrase mid-flow ('than the usual heavy stuff'). Summary was truncated quote fragment from turn 3. Original tags generic. Replaced with routine-specific tags."
+    },
+    {
+      "sliceId": "2025-10-14-0535",
+      "focus_accurate": true,
+      "summary_accurate": true,
+      "tags_relevant": true,
+      "notes": "Focus truncated at 'patchin' (cut mid-word). Summary was quote fragment from turn 3. Original tags sparse (only 4 generic). Replaced with specific template and accountability tags."
+    },
+    {
+      "sliceId": "2025-11-23-1010",
+      "focus_accurate": true,
+      "summary_accurate": true,
+      "tags_relevant": true,
+      "notes": "Focus truncated at 'th' (cut mid-word 'than'). Summary was quote fragment 'Yeah, that is exactly it.' Original tags generic. Replaced with baseball and hobby-specific tags."
+    },
+    {
+      "sliceId": "2026-01-04-2325",
+      "focus_accurate": true,
+      "summary_accurate": true,
+      "tags_relevant": true,
+      "notes": "Focus truncated at 'me' (cut mid-word 'mess'). Summary was quote fragment 'Honestly, all three.' Original tags only 3 generic. Replaced with rollout-specific tags."
+    },
+    {
+      "sliceId": "2026-02-17-0205",
+      "focus_accurate": true,
+      "summary_accurate": true,
+      "tags_relevant": true,
+      "notes": "Focus appeared complete (ends with 'expected' - full word) but original was a partial sentence. Summary was quote fragment. Original tags generic. Replaced with housing-move and financial-strain specific tags."
+    },
+    {
+      "sliceId": "2026-03-28-1455",
+      "focus_accurate": true,
+      "summary_accurate": true,
+      "tags_relevant": true,
+      "notes": "Focus truncated at 'mome' (cut mid-word 'moments'). Summary was quote fragment from turn 3. Original tags generic. Replaced with training and knowledge-transfer specific tags."
+    },
+    {
+      "sliceId": "2026-04-21-0700",
+      "focus_accurate": true,
+      "summary_accurate": true,
+      "tags_relevant": true,
+      "notes": "Focus truncated at 'wit' (cut mid-word 'with'). Summary was quote fragment 'Yeah, it did.' Original tags generic. Replaced with food-habit and family-specific tags."
+    },
+    {
+      "sliceId": "2026-06-01-2215",
+      "focus_accurate": true,
+      "summary_accurate": true,
+      "tags_relevant": true,
+      "notes": "Focus truncated at 'communicatio' (cut mid-word). Summary was quote fragment from turn 3. Original tags vague (work, education, leisure, goals). Replaced with communication-chain specific tags."
+    },
+    {
+      "sliceId": "2026-07-10-1120",
+      "focus_accurate": true,
+      "summary_accurate": true,
+      "tags_relevant": true,
+      "notes": "Focus truncated at 'wher' (cut mid-word 'where'). Summary was quote fragment from turn 3. Original tags generic. Replaced with relationship-boundary specific tags."
+    },
+    {
+      "sliceId": "2026-08-26-1945",
+      "focus_accurate": true,
+      "summary_accurate": true,
+      "tags_relevant": true,
+      "notes": "Focus truncated at 'I ' (cut mid-sentence). Summary was quote fragment from turn 3. Original tags generic. Replaced with weather-accountability specific tags."
+    },
+    {
+      "sliceId": "2026-10-01-0410",
+      "focus_accurate": true,
+      "summary_accurate": true,
+      "tags_relevant": true,
+      "notes": "Focus truncated at 'ord' (cut mid-word 'ordinary'). Summary was quote fragment from turn 3. Original tags overloaded (8 generic). Replaced with health-progression specific tags."
+    },
+    {
+      "sliceId": "2026-11-16-1035",
+      "focus_accurate": true,
+      "summary_accurate": true,
+      "tags_relevant": true,
+      "notes": "Focus truncated at 'gr' (cut mid-word 'grind'). Summary was quote fragment 'Honestly, both.' Original tags generic. Replaced with reporting and metrics-specific tags."
+    },
+    {
+      "sliceId": "2027-01-08-1215",
+      "focus_accurate": true,
+      "summary_accurate": true,
+      "tags_relevant": true,
+      "notes": "Focus truncated at 'perf' (cut mid-word 'perfect'). Summary was quote fragment from turn 3. Original tags generic. Replaced with music and decompression specific tags."
+    },
+    {
+      "sliceId": "2027-02-26-0105",
+      "focus_accurate": true,
+      "summary_accurate": true,
+      "tags_relevant": true,
+      "notes": "Focus truncated at 'have' (cut mid-sentence). Summary was quote fragment from turn 3. Original tags generic. Replaced with digital-standardization specific tags."
+    },
+    {
+      "sliceId": "2027-04-12-0925",
+      "focus_accurate": true,
+      "summary_accurate": true,
+      "tags_relevant": true,
+      "notes": "Focus was complete but vague. Summary was quote fragment 'Probably the savings part.' Original tags overloaded (8 generic). Replaced with specific financial-strain tags."
+    },
+    {
+      "sliceId": "2027-05-29-2130",
+      "focus_accurate": true,
+      "summary_accurate": true,
+      "tags_relevant": true,
+      "notes": "Focus truncated at 'in' (cut mid-word 'into'). Summary was quote fragment from turn 3. Original tags generic. Replaced with enforcement and policy-specific tags."
+    },
+    {
+      "sliceId": "2027-07-18-0645",
+      "focus_accurate": true,
+      "summary_accurate": true,
+      "tags_relevant": true,
+      "notes": "Focus truncated at 'the' (cut mid-sentence). Summary was quote fragment 'Yeah, exactly.' Original tags generic. Replaced with pet-preference specific tags."
+    },
+    {
+      "sliceId": "2027-09-05-2355",
+      "focus_accurate": true,
+      "summary_accurate": true,
+      "tags_relevant": true,
+      "notes": "Focus truncated at 'lo' (cut mid-word 'loud'). Summary was quote fragment 'Probably the second one.' Original tags only 3 generic. Replaced with proven-system specific tags."
+    },
+    {
+      "sliceId": "2028-01-12-0340",
+      "focus_accurate": true,
+      "summary_accurate": true,
+      "tags_relevant": true,
+      "notes": "Focus truncated at 'frantic ' (word complete but cut phrase 'than they did before'). Summary was quote fragment from turn 3. Original tags generic. Replaced with travel-preference specific tags."
+    },
+    {
+      "sliceId": "2028-04-03-0820",
+      "focus_accurate": true,
+      "summary_accurate": true,
+      "tags_relevant": true,
+      "notes": "Focus truncated at 'final' (cut mid-word 'finally'). Summary was quote fragment from turn 3. Original tags only 3 generic. Replaced with formal-adoption and milestone-specific tags."
+    }
+  ]
+}

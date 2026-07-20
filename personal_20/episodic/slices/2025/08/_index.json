@@ -3,16 +3,21 @@
   "slices": [
     {
       "id": "2025-08-03-1230",
-      "focus": "It has been a busy stretch, but today had one of those weirdly quiet pockets. Da",
-      "summary": "I definitely had to fight it for the first twenty minutes",
+      "focus": "During a rare quiet pocket, Eric reads a Michael Connelly paperback on the porch instead of checking work messages, rediscovering crime fiction as a decompression tool that fits his tired-evening bandwidth better than practical nonfiction.",
+      "summary": "Eric discovers that Michael Connelly novels from Danielle's library discard shelf provide a more realistic evening decompression routine than practical nonfiction, leading to a phone-down, porch-chair, one-chapter habit.",
       "tags": [
         "work",
+        "family",
+        "leisure",
         "housing",
-        "goals"
+        "goalsemotional_tone: neutral"
       ],
       "status": "closed",
       "start": "2025-08-03T12:30:00.000Z",
-      "open_loops": [],
+      "open_loops": [
+        "Whether to establish an ongoing pipeline for Connelly books through Danielle",
+        "Phone management (face-down vs another room) not yet decided"
+      ],
       "decisions": [
         "Eric still reads practical nonfiction, but during the stressful pilot stretch he began reaching more often for Michael C"
       ]

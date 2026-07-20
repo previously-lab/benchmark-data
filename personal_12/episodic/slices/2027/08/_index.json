@@ -3,21 +3,25 @@
   "slices": [
     {
       "id": "2027-08-17-0250",
-      "focus": "Things have been moving again since we last talked, and this one feels like a re",
-      "summary": "Exactly, plateau is the word that has been haunting me",
+      "focus": "Ariana shifts from reactive intake to targeted expansion focused on underdocumented corridors",
+      "summary": "With 300+ recordings preserved, Ariana realizes the easiest family referrals are exhausted. She moves to a targeted expansion phase prioritizing underdocumented commercial corridors, funeral-home networks, and church anniversaries, using a triage rule of vulnerability, uniqueness, and gap fit.",
       "tags": [
-        "work",
-        "family",
-        "relationship",
-        "housing",
-        "leisure",
-        "goals",
-        "environment",
-        "civic"
+        "collection-milestone",
+        "low-300s-recordings",
+        "targeted-expansion",
+        "underdocumented-corridors",
+        "funeral-home-networks",
+        "church-anniversaries",
+        "strategic-collecting",
+        "gap-fillingemotional_tone: neutral"
       ],
       "status": "closed",
       "start": "2027-08-17T02:50:00.000Z",
-      "open_loops": [],
+      "open_loops": [
+        "Writing a one-page map of the three priority lanes with triage rules",
+        "Choosing one concrete outreach action per lane in the first month",
+        "Presenting the strategic shift to her supervisor as collection balance and public value"
+      ],
       "decisions": [
         "Ariana moved the oral-history project into a targeted expansion phase aimed at underdocumented blocks, commercial corrid"
       ]

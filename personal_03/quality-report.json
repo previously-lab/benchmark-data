@@ -1,0 +1,239 @@
+{
+  "personaId": "personal_03",
+  "reviewedAt": "2026-07-20T00:00:00.000Z",
+  "model": "claude-haiku-4-5",
+  "overallNotes": {
+    "personaArc": "Derek Anthony Kubik's arc spans 3.5 years (Jan 2025 to May 2028) and follows a coherent journey from frontline journeyman wireman with a concern about training quality to the recognized point person for a permanent, field-trusted first-year apprenticeship pipeline at IBEW Local 5 and the Western Pennsylvania Electrical JATC. The arc has distinct phases: (1) Profile building and relationship mapping (Jan 2025); (2) Incident-triggered reform (near-miss ladder incident, Q1 2025); (3) Pilot design and political navigation (Q2-Q3 2025, with Ron Belski as primary antagonist); (4) First validation and expansion (Q2 2025-Q1 2026); (5) Institutional boundary testing (Q2 2026 summer bridge rejection); (6) System proven and standardized (Q4 2026-Q1 2027); (7) Field credibility and external demand (Q4 2027); (8) Institutionalization (Q1-Q2 2028). Parallel personal arcs include: family financial boundaries with Logan and Marlene (ongoing strain that resolves into structured help), house renovation from perpetual jobsite to functional home, back injury management from denial to consistent care routine, leisure shift from default consumption to intentional hobbies (podcasts, memorabilia collecting, one-sitting films, regional essays), and marriage boundaries solidifying around protected family time.",
+    "dataQualityIssues": [
+      "ALL focus fields are truncated — they begin with 'A lot has shifted lately' or similar openings but cut off mid-sentence before describing the actual topic",
+      "ALL summary fields are single-sentence quote fragments from turn 3 of the conversation, not actual summaries of the slice content",
+      "ALL emotional_tone values are 'neutral' regardless of the conversation's actual emotional valence — many are clearly positive or mixed",
+      "ALL tags are generic single-word categories (work, family, health, finance, etc.) that fail to capture the specific events, decisions, or themes of each slice",
+      "Several decision entries are truncated mid-sentence, cutting off the actual decision description",
+      "Baseline tag 'leisure' is inconsistently applied — appears on some clearly work-focused slices while missing from genuinely leisure-oriented ones",
+      "Multiple slices have completely irrelevant baseline tags (e.g., 'travel' on a back injury conversation)",
+      "Slice 2025-01-28 has a decision truncated at 'Der' — barely started"
+    ],
+    "patternNotes": [
+      "Derek consistently opens conversations with 'A lot has shifted lately' or 'Things have been busy' — this is a personal conversational tic that generates the truncated focus fields",
+      "The baseline tag generation algorithm seems to assign all possible categories from a fixed list rather than identifying slice-specific themes",
+      "Emotional tone was never meaningfully assessed — all 'neutral' suggests a bug or missing implementation in the tagger",
+      "The persona's voice is remarkably consistent: plainspoken, self-aware, practical, with a dry under-pressure humor and a tendency to frame problems as systems to be solved",
+      "Key recurring characters: Erin (wife, pragmatic anchor), Logan (brother, recurring financial strain), Mike Cercone (friend, steamfitter, emotional outlet), Ron Belski (veteran instructor, institutional resistance), Tasha Freeman (safety director, field-level ally), Marlene (mother, guilt vector around Logan)",
+      "The renovation timeline is a through-line: first-floor hired help completes 2026-04, basement/fence 2028-02, enabling the dog plan — the house literally becomes more livable in parallel with Derek's professional system maturing"
+    ],
+    "strandsComparison": "The current strands.json uses the same generic categories as the slice tags (work, family, health, finance, etc.). A more useful strand system would use specific thematic threads: apprenticeship-reform-arc, back-injury-management, family-financial-boundaries, house-renovation-progress, collecting-hobby-emergence, marriage-relationship-maintenance, entertainment-preference-shift, reading-preference-shift. These eight threads would more accurately represent the actual narrative content."
+  },
+  "issues": [
+    {
+      "sliceId": "2025-01-08-1130",
+      "focus_accurate": false,
+      "summary_accurate": false,
+      "tags_relevant": false,
+      "notes": "Focus was vague ('It is nice to start using a tool'), summary was just 'Sure' — neither captured the substantive life-onboarding content. Tags were all generic categories. This is the foundational profile-building slice."
+    },
+    {
+      "sliceId": "2025-01-28-0750",
+      "focus_accurate": false,
+      "summary_accurate": false,
+      "tags_relevant": false,
+      "notes": "Focus was truncated ('A lot has shifted lately, and work just got heavier in a way I did not exactly a'). Summary was a quote fragment ('Part of it was how obvious it was'). Tags were generic. Decisions truncated mid-sentence. This slice captures a major turning point."
+    },
+    {
+      "sliceId": "2025-02-16-0340",
+      "focus_accurate": false,
+      "summary_accurate": false,
+      "tags_relevant": false,
+      "notes": "Focus was truncated ('A lot has been rattling around lately, so this is a smaller thing, but it has ac'). Summary was a quote fragment ('Yeah, that was exactly it'). Tags were all generic. Remarkably, this slice about podcast discovery and driving habits has 'travel' tag absent while generic 'goals' is present. Emotional tone should be positive, not neutral."
+    },
+    {
+      "sliceId": "2025-03-12-1020",
+      "focus_accurate": false,
+      "summary_accurate": false,
+      "tags_relevant": false,
+      "notes": "Focus was truncated ('A lot has shifted at work since we last talked, and it finally turned into somet'). Summary was a quote fragment ('What pushed it was that I stopped relying on what we think we see in the shop and started pulling ha'). Tags included generic 'family', 'housing', 'goals' but missed the core: contractor evidence, Ron's resistance, and the check-in intervention."
+    },
+    {
+      "sliceId": "2025-04-05-0115",
+      "focus_accurate": false,
+      "summary_accurate": false,
+      "tags_relevant": false,
+      "notes": "Focus truncated. Summary was a quote fragment. Tags included 'leisure' and 'goals' which are misleading — the slice is about financial boundaries and family tension, not leisure. Emotional tone should be mixed (relief + guilt + tension), not neutral."
+    },
+    {
+      "sliceId": "2025-05-01-1210",
+      "focus_accurate": false,
+      "summary_accurate": false,
+      "tags_relevant": false,
+      "notes": "Focus was truncated. Summary was a quote fragment ('Yeah, that is exactly it, the opening stretch is the whole proving ground now'). Tags included 'health' which is barely relevant, and 'housing' and 'leisure' which are not discussed. The core content — pilot leadership, skill boards, paired practice, Friday calls, veteran undermining — is entirely missing from tags."
+    },
+    {
+      "sliceId": "2025-05-24-0600",
+      "focus_accurate": false,
+      "summary_accurate": false,
+      "tags_relevant": false,
+      "notes": "Focus was a truncated sentence. Summary was a quote fragment ('Yeah, that was the part that got me'). Tags included 'work', 'health', 'finance', 'housing' which are barely relevant; 'civic' is oddly the most specific tag. The actual content — memorabilia collecting, yard sale discovery, Pittsburgh history interest — is completely absent from baseline tags. Emotional tone should be positive, not neutral."
+    },
+    {
+      "sliceId": "2025-06-18-0845",
+      "focus_accurate": false,
+      "summary_accurate": false,
+      "tags_relevant": false,
+      "notes": "Focus was truncated. Summary was a quote fragment ('Probably the fact that I could show it'). Tags included 'health' and 'leisure' which are not part of this conversation. Missing from tags: the evidence packet, expansion to orientation, contractor feedback confirmation. Emotional tone should be positive, not neutral."
+    },
+    {
+      "sliceId": "2025-07-08-2320",
+      "focus_accurate": false,
+      "summary_accurate": false,
+      "tags_relevant": false,
+      "notes": "Focus was truncated. Summary was a quote fragment ('I tried to gut it out first, which is probably the least surprising part of this'). Tags included 'travel' and 'goals' which are minimally relevant. The core content — back flare, PT, demo rotation, three-category plan — is entirely missing from baseline tags. Emotional tone should be mixed."
+    },
+    {
+      "sliceId": "2025-08-21-1055",
+      "focus_accurate": false,
+      "summary_accurate": false,
+      "tags_relevant": false,
+      "notes": "Focus was truncated ('A lot has been shifting lately, and this week kind of made it official. What had'). Summary was a quote fragment ('I kept it pretty blunt, honestly'). Tags were missing the entire core: family involvement in orientation, plain-language packet, early-contact normalization, transportation/childcare framing. Tags included 'housing' and 'leisure' which are irrelevant."
+    },
+    {
+      "sliceId": "2025-09-14-0530",
+      "focus_accurate": false,
+      "summary_accurate": false,
+      "tags_relevant": false,
+      "notes": "Focus was a very long truncated sentence. Summary was a quote fragment ('Yeah, that is exactly it'). Tags included 'environment' and 'goals' which are strange for a lunch-packing conversation. Emotional tone should be positive (small win, quiet satisfaction), not neutral."
+    },
+    {
+      "sliceId": "2025-10-30-0940",
+      "focus_accurate": false,
+      "summary_accurate": false,
+      "tags_relevant": false,
+      "notes": "Focus was truncated. Summary was a quote fragment ('Yeah, that is exactly it'). Tags included 'leisure', 'environment', 'housing' which are irrelevant. This slice is about a genuine program crisis with significant stress — emotional tone should be negative, not neutral. The tag 'goals' is barely relevant."
+    },
+    {
+      "sliceId": "2025-11-23-0805",
+      "focus_accurate": false,
+      "summary_accurate": false,
+      "tags_relevant": false,
+      "notes": "Focus was truncated ('A lot has been shifting lately, and this one was probably overdue. The day after'). Summary was a quote fragment ('The main thing is we quit pretending we can just squeeze family in around everything else'). Tags were missing the core: the family night, no-tools Sunday, calendar-as-resource framing. 'Leisure' is relevant but too broad."
+    },
+    {
+      "sliceId": "2025-12-17-1225",
+      "focus_accurate": false,
+      "summary_accurate": false,
+      "tags_relevant": false,
+      "notes": "Focus was truncated. Summary was a quote fragment ('Right now I am trying to keep it simple enough that it actually gets used'). Tags included 'health', 'housing', 'leisure' which are irrelevant. The entire core of this slice — the early-warning board, three-signal system, contractor reality talks, trigger rules — is missing from baseline tags."
+    },
+    {
+      "sliceId": "2026-01-29-1010",
+      "focus_accurate": false,
+      "summary_accurate": false,
+      "tags_relevant": false,
+      "notes": "Focus was truncated. Summary was a quote fragment ('Probably more the whole mood, if I am honest'). Tags included 'work', 'finance', 'housing', 'goals' which are irrelevant. The slice is purely about entertainment preferences, family bonding, and winter downtime. Emotional tone should be positive."
+    },
+    {
+      "sliceId": "2026-03-03-0815",
+      "focus_accurate": false,
+      "summary_accurate": false,
+      "tags_relevant": false,
+      "notes": "Focus was truncated. Summary was a quote fragment ('Probably all three, but the part that hit hardest was the ones we flagged early did not keep driftin'). Tags included 'family', 'travel', 'housing' which are barely discussed. Missing from tags: the early-flagged group results, the standardization across sections, the real authority granted, the shared minimum framing. Emotional tone should be positive."
+    },
+    {
+      "sliceId": "2026-04-10-0450",
+      "focus_accurate": false,
+      "summary_accurate": false,
+      "tags_relevant": false,
+      "notes": "Focus was truncated. Summary was a quote fragment ('Honestly, all three, but the biggest thing is the mental noise dropped fast'). Tags included 'work', 'health', 'goals' — 'work' barely relevant, 'health' marginally relevant. Missing: the hired-help decision, the mental noise reduction, the family usability improvement. Emotional tone should be positive."
+    },
+    {
+      "sliceId": "2026-05-27-1105",
+      "focus_accurate": false,
+      "summary_accurate": false,
+      "tags_relevant": false,
+      "notes": "Focus was truncated. Summary was a quote fragment ('Honestly it was both, almost immediately'). Tags included 'housing' which is irrelevant. Missing from baseline tags: the summer bridge rejection, the authority ceiling, the volunteer bootcamp pivot, contractor sponsorship. This slice documents a significant institutional boundary — critical for understanding Derek's arc."
+    },
+    {
+      "sliceId": "2026-06-18-0935",
+      "focus_accurate": false,
+      "summary_accurate": false,
+      "tags_relevant": false,
+      "notes": "Focus was a truncated sentence about life feeling more usable. Summary was a quote fragment ('Honestly, both'). Tags included 'work', 'finance', 'housing', 'goals' which are largely irrelevant. The core content — union pin collecting, Local 5 focus, basement display, story documentation — is entirely absent from baseline tags."
+    },
+    {
+      "sliceId": "2026-08-11-1045",
+      "focus_accurate": false,
+      "summary_accurate": false,
+      "tags_relevant": false,
+      "notes": "Focus was truncated. Summary was a quote fragment ('The biggest thing was how uneven they were'). Tags included 'family', 'housing', 'goals' which are barely relevant. Missing entirely: the contractor-backed boot camp itself, the donated materials, the one-on-one screening, the three-bucket intake system. Emotional tone should be positive."
+    },
+    {
+      "sliceId": "2026-09-22-0010",
+      "focus_accurate": false,
+      "summary_accurate": false,
+      "tags_relevant": false,
+      "notes": "Focus was truncated. Summary was a quote fragment ('Probably the consistency more than any one thing'). Tags included 'travel', 'housing', 'leisure', 'environment', 'goals' — many irrelevant. Missing: the specific PT routine, the softball pause decision, the yellow-light signal framework. Emotional tone should be mixed (frustration + relief)."
+    },
+    {
+      "sliceId": "2026-11-17-0955",
+      "focus_accurate": false,
+      "summary_accurate": false,
+      "tags_relevant": false,
+      "notes": "Focus was truncated. Summary was a quote fragment ('Honestly, I think it was the contractor side first, then the school numbers backed it up'). Tags included 'family', 'finance', 'housing' which are barely relevant. Missing: the formal presentation, the conditional approval, the point-person designation, the one-page-plus-backup strategy. Emotional tone should be positive."
+    },
+    {
+      "sliceId": "2027-01-08-1220",
+      "focus_accurate": false,
+      "summary_accurate": false,
+      "tags_relevant": false,
+      "notes": "Focus was truncated. Summary was a quote fragment ('Yeah, manageable is exactly the word'). Tags included 'work', 'health', 'finance', 'travel', 'education', 'housing', 'leisure' — an excessive scatter of generic tags. Missing: the specific older-rescue preference, the three conditions, the 'no to conditional maybe' shift. Emotional tone should be positive."
+    },
+    {
+      "sliceId": "2027-02-26-0830",
+      "focus_accurate": false,
+      "summary_accurate": false,
+      "tags_relevant": false,
+      "notes": "Focus was truncated. Summary was a quote fragment ('Honestly, the biggest thing was that it was not just one little bright spot I could explain away'). Tags included 'family' and 'housing' which are irrelevant. Missing: the longitudinal cohort comparison, the inventor-to-steward shift, the field guide plan, the quiet pride. Emotional tone should be positive."
+    },
+    {
+      "sliceId": "2027-04-19-1040",
+      "focus_accurate": false,
+      "summary_accurate": false,
+      "tags_relevant": false,
+      "notes": "Focus was truncated. Summary was a quote fragment ('Not great' — just two words). Tags included 'work', 'housing', 'goals' which are barely relevant. The baseline tags miss entirely: the cash-boundary enforcement, Marlene's guilt pressure, the practical-help-over-bailout offer, the script strategy. Emotional tone should be mixed."
+    },
+    {
+      "sliceId": "2027-06-14-0720",
+      "focus_accurate": false,
+      "summary_accurate": false,
+      "tags_relevant": false,
+      "notes": "Focus was truncated. Summary was a quote fragment ('Yeah, that is exactly it'). Tags included 'family', 'housing' which are irrelevant. Missing entirely: the material standardization, the shared binder, the common demo checklist, the repeat-safety-topic rule, the Local 5 backing. Emotional tone should be positive."
+    },
+    {
+      "sliceId": "2027-08-27-0150",
+      "focus_accurate": false,
+      "summary_accurate": false,
+      "tags_relevant": false,
+      "notes": "Focus was truncated. Summary was a quote fragment ('Probably both'). Tags included 'work', 'finance', 'education', 'housing', 'goals' — mostly irrelevant. Missing entirely: the Deep Creek trip details, the regional essay discovery, the preference for low-friction reading, the portable-reading strategy. Emotional tone should be positive."
+    },
+    {
+      "sliceId": "2027-11-09-1000",
+      "focus_accurate": false,
+      "summary_accurate": false,
+      "tags_relevant": false,
+      "notes": "Focus was truncated. Summary was a quote fragment ('Yeah, that is exactly it'). Tags included 'family', 'finance', 'housing', 'leisure' — mostly irrelevant. Missing: the foreman call evidence, the field credibility, the two-cohort proof, the pipeline advocacy shift. Emotional tone should be positive."
+    },
+    {
+      "sliceId": "2028-02-03-1115",
+      "focus_accurate": false,
+      "summary_accurate": false,
+      "tags_relevant": false,
+      "notes": "Focus was truncated. Summary was a quote fragment ('Yeah, threshold is the right word'). Tags included 'work', 'health', 'finance', 'travel', 'education', 'leisure' — many irrelevant. Missing: the specific basement/fence progress, the older-rescue summer plan, the practical conditions list. Emotional tone should be positive."
+    },
+    {
+      "sliceId": "2028-05-30-0840",
+      "focus_accurate": false,
+      "summary_accurate": false,
+      "tags_relevant": false,
+      "notes": "Focus was truncated. Summary was a quote fragment ('It felt more permanent than anything before'). Tags included 'family', 'housing' — relevant only tangentially. Missing: the back-to-back cohort evidence, the retention-safety-foreman-demand triad, the system institutionalization, the relief-over-pride reaction. This is the capstone slice of the entire arc."
+    }
+  ]
+}

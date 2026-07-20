@@ -1,194 +1,597 @@
 {
-  "work": [
+  "initial-onboarding": [
+    "2025/01/06/1310"
+  ],
+  "personal-profile": [
+    "2025/01/06/1310"
+  ],
+  "maritime-logistics": [
+    "2025/01/06/1310"
+  ],
+  "port-dispatch": [
+    "2025/01/06/1310"
+  ],
+  "istj-personality": [
+    "2025/01/06/1310"
+  ],
+  "family-obligation": [
+    "2025/01/06/1310"
+  ],
+  "shift-work-health": [
     "2025/01/06/1310",
-    "2025/01/21/2240",
-    "2025/02/08/1150",
-    "2025/03/03/0620",
-    "2025/03/29/0315",
+    "2025/07/02/0840"
+  ],
+  "newly-marriedemotional_tone: neutral": [
+    "2025/01/06/1310"
+  ],
+  "handoff-failure": [
+    "2025/01/21/2240"
+  ],
+  "seafood-client-incident": [
+    "2025/01/21/2240"
+  ],
+  "verbal-handoff-conflict": [
+    "2025/01/21/2240"
+  ],
+  "delay-documentation": [
+    "2025/01/21/2240"
+  ],
+  "incident-log-trial": [
+    "2025/01/21/2240"
+  ],
+  "crew-resistanceemotional_tone: neutral": [
+    "2025/01/21/2240"
+  ],
+  "marriage-communication": [
+    "2025/02/08/1150"
+  ],
+  "shared-calendar": [
+    "2025/02/08/1150"
+  ],
+  "shift-work-strain": [
+    "2025/02/08/1150"
+  ],
+  "sleep-protection": [
+    "2025/02/08/1150"
+  ],
+  "weekly-check-in": [
+    "2025/02/08/1150"
+  ],
+  "yeongdo-apartmentemotional_tone: neutral": [
+    "2025/02/08/1150"
+  ],
+  "color-coded-dispatch-board": [
+    "2025/03/03/0620"
+  ],
+  "delay-category-split": [
+    "2025/03/03/0620"
+  ],
+  "day-night-handoff": [
+    "2025/03/03/0620"
+  ],
+  "limited-pilot": [
+    "2025/03/03/0620"
+  ],
+  "operations-chief-support": [
+    "2025/03/03/0620"
+  ],
+  "process-standardizationemotional_tone: neutral": [
+    "2025/03/03/0620"
+  ],
+  "busan-port-history": [
+    "2025/03/29/0315"
+  ],
+  "harbor-documentaries": [
+    "2025/03/29/0315"
+  ],
+  "niche-interest": [
+    "2025/03/29/0315"
+  ],
+  "ji-hoon-friendship": [
+    "2025/03/29/0315"
+  ],
+  "long-form-learning": [
+    "2025/03/29/0315"
+  ],
+  "personal-curiosityemotional_tone: neutral": [
+    "2025/03/29/0315"
+  ],
+  "board-photo-rule": [
+    "2025/04/17/2155"
+  ],
+  "handoff-evidence": [
+    "2025/04/17/2155"
+  ],
+  "photo-documentation": [
+    "2025/04/17/2155"
+  ],
+  "operational-traceability": [
     "2025/04/17/2155",
-    "2025/05/07/1230",
-    "2025/06/10/1810",
+    "2027/02/26/0105"
+  ],
+  "shift-compliance": [
+    "2025/04/17/2155"
+  ],
+  "behavioral-changeemotional_tone: neutral": [
+    "2025/04/17/2155"
+  ],
+  "family-financial-support": [
+    "2025/05/07/1230"
+  ],
+  "sisters-exam-fees": [
+    "2025/05/07/1230"
+  ],
+  "bonus-depleted": [
+    "2025/05/07/1230"
+  ],
+  "household-budget-crisis": [
+    "2025/05/07/1230"
+  ],
+  "min-seo-communication": [
+    "2025/05/07/1230"
+  ],
+  "money-threshold-rule": [
+    "2025/05/07/1230"
+  ],
+  "family-support-capemotional_tone: neutral": [
+    "2025/05/07/1230"
+  ],
+  "operations-meeting": [
+    "2025/06/10/1810"
+  ],
+  "captain-resistance": [
+    "2025/06/10/1810"
+  ],
+  "weather-vs-avoidable-delay": [
+    "2025/06/10/1810"
+  ],
+  "captain-note-line": [
+    "2025/06/10/1810"
+  ],
+  "captain-compromise": [
+    "2025/06/10/1810"
+  ],
+  "board-pilot-survivalemotional_tone: neutral": [
+    "2025/06/10/1810"
+  ],
+  "reflux-diagnosis": [
+    "2025/07/02/0840"
+  ],
+  "clinic-visit": [
+    "2025/07/02/0840"
+  ],
+  "meal-timing": [
+    "2025/07/02/0840"
+  ],
+  "neck-tension": [
     "2025/07/02/0840",
-    "2025/08/18/2025",
-    "2025/09/09/1300",
-    "2025/10/14/0535",
-    "2025/11/23/1010",
-    "2026/01/04/2325",
-    "2026/02/17/0205",
-    "2026/03/28/1455",
-    "2026/04/21/0700",
+    "2026/10/01/0410"
+  ],
+  "packed-meal-routine": [
+    "2025/07/02/0840"
+  ],
+  "home-recovery-routineemotional_tone: neutral": [
+    "2025/07/02/0840"
+  ],
+  "weather-excuse-gaming": [
+    "2025/08/18/2025"
+  ],
+  "delay-source-notes": [
+    "2025/08/18/2025"
+  ],
+  "post-shift-review": [
+    "2025/08/18/2025"
+  ],
+  "board-credibility": [
+    "2025/08/18/2025"
+  ],
+  "handoff-traceability": [
+    "2025/08/18/2025"
+  ],
+  "august-storm-chaosemotional_tone: neutral": [
+    "2025/08/18/2025"
+  ],
+  "projector-movie-night": [
+    "2025/09/09/1300"
+  ],
+  "maritime-films": [
+    "2025/09/09/1300"
+  ],
+  "decompression-routine": [
+    "2025/09/09/1300"
+  ],
+  "phone-boundaries": [
+    "2025/09/09/1300"
+  ],
+  "home-dinner-ritual": [
+    "2025/09/09/1300"
+  ],
+  "rewatching-comfortemotional_tone: neutral": [
+    "2025/09/09/1300"
+  ],
+  "signed-turnover-template": [
+    "2025/10/14/0535"
+  ],
+  "one-page-handoff": [
+    "2025/10/14/0535"
+  ],
+  "bilateral-signature": [
+    "2025/10/14/0535"
+  ],
+  "three-month-evidence": [
+    "2025/10/14/0535"
+  ],
+  "weather-crew-paperwork": [
+    "2025/10/14/0535"
+  ],
+  "operational-accountabilityemotional_tone: neutral": [
+    "2025/10/14/0535"
+  ],
+  "lotte-giants": [
+    "2025/11/23/1010"
+  ],
+  "baseball-hobby": [
+    "2025/11/23/1010"
+  ],
+  "offseason-interest": [
+    "2025/11/23/1010"
+  ],
+  "player-interviews": [
+    "2025/11/23/1010"
+  ],
+  "min-seo-date": [
+    "2025/11/23/1010"
+  ],
+  "busan-local-sportsemotional_tone: neutral": [
+    "2025/11/23/1010"
+  ],
+  "company-wide-authority": [
+    "2026/01/04/2325"
+  ],
+  "year-end-results": [
+    "2026/01/04/2325"
+  ],
+  "missed-cargo-windows": [
+    "2026/01/04/2325"
+  ],
+  "rollout-pressure": [
+    "2026/01/04/2325"
+  ],
+  "compliance-theater-risk": [
+    "2026/01/04/2325"
+  ],
+  "kim-dong-wook-supportemotional_tone: neutral": [
+    "2026/01/04/2325"
+  ],
+  "apartment-move": [
+    "2026/02/17/0205"
+  ],
+  "yeongdo-uphill": [
+    "2026/02/17/0205"
+  ],
+  "noise-reduction": [
+    "2026/02/17/0205"
+  ],
+  "sleep-improvement": [
+    "2026/02/17/0205"
+  ],
+  "housing-cost-pressure": [
+    "2026/02/17/0205"
+  ],
+  "financial-squeeze": [
+    "2026/02/17/0205"
+  ],
+  "marriage-protection": [
+    "2026/02/17/0205"
+  ],
+  "deposit-strainemotional_tone: neutral": [
+    "2026/02/17/0205"
+  ],
+  "turnover-sheet-inconsistency": [
+    "2026/03/28/1455"
+  ],
+  "laminated-examples": [
+    "2026/03/28/1455"
+  ],
+  "shift-start-briefing": [
+    "2026/03/28/1455"
+  ],
+  "training-standardization": [
+    "2026/03/28/1455"
+  ],
+  "knowledge-transfer": [
+    "2026/03/28/1455"
+  ],
+  "new-dispatcher-coachingemotional_tone: neutral": [
+    "2026/03/28/1455"
+  ],
+  "mothers-concern": [
+    "2026/04/21/0700"
+  ],
+  "market-mackerel": [
+    "2026/04/21/0700"
+  ],
+  "reflux-diet": [
+    "2026/04/21/0700"
+  ],
+  "plain-fish-rice": [
+    "2026/04/21/0700"
+  ],
+  "post-shift-meal": [
+    "2026/04/21/0700"
+  ],
+  "family-food-habit": [
+    "2026/04/21/0700"
+  ],
+  "recovery-meal": [
+    "2026/04/21/0700"
+  ],
+  "home-cookingemotional_tone: neutral": [
+    "2026/04/21/0700"
+  ],
+  "customer-complaint": [
+    "2026/06/01/2215"
+  ],
+  "eta-consistency": [
+    "2026/06/01/2215"
+  ],
+  "board-first-rule": [
+    "2026/06/01/2215"
+  ],
+  "call-log-alignment": [
     "2026/06/01/2215",
-    "2026/07/10/1120",
-    "2026/08/26/1945",
-    "2026/10/01/0410",
-    "2026/11/16/1035",
-    "2027/01/08/1215",
-    "2027/02/26/0105",
-    "2027/04/12/0925",
-    "2027/05/29/2130",
-    "2027/07/18/0645",
-    "2027/09/05/2355",
-    "2028/01/12/0340",
-    "2028/04/03/0820"
+    "2027/09/05/2355"
   ],
-  "family": [
-    "2025/01/06/1310",
-    "2025/01/21/2240",
-    "2025/05/07/1230",
-    "2025/07/02/0840",
-    "2025/09/09/1300",
-    "2026/02/17/0205",
-    "2026/04/21/0700",
-    "2026/07/10/1120",
-    "2026/10/01/0410",
-    "2026/11/16/1035",
-    "2027/01/08/1215",
-    "2027/02/26/0105",
-    "2027/04/12/0925",
-    "2027/05/29/2130",
-    "2027/07/18/0645",
-    "2028/01/12/0340"
+  "communication-chain": [
+    "2026/06/01/2215"
   ],
-  "health": [
-    "2025/01/06/1310",
-    "2025/07/02/0840",
-    "2025/10/14/0535",
-    "2025/11/23/1010",
-    "2026/04/21/0700",
-    "2026/10/01/0410",
-    "2027/01/08/1215",
-    "2027/05/29/2130",
-    "2028/01/12/0340"
+  "client-promises": [
+    "2026/06/01/2215"
   ],
-  "finance": [
-    "2025/01/06/1310",
-    "2025/01/21/2240",
-    "2025/02/08/1150",
-    "2025/05/07/1230",
-    "2025/09/09/1300",
-    "2025/11/23/1010",
-    "2026/02/17/0205",
-    "2027/04/12/0925",
-    "2027/07/18/0645",
-    "2028/01/12/0340"
+  "verbal-gap-closingemotional_tone: neutral": [
+    "2026/06/01/2215"
   ],
-  "relationship": [
-    "2025/01/06/1310",
-    "2025/02/08/1150",
-    "2025/05/07/1230",
-    "2026/02/17/0205",
-    "2026/07/10/1120",
+  "protected-monthly-day": [
+    "2026/07/10/1120"
+  ],
+  "tongyeong-trip": [
+    "2026/07/10/1120"
+  ],
+  "marriage-boundary": [
+    "2026/07/10/1120"
+  ],
+  "family-errand-boundary": [
+    "2026/07/10/1120"
+  ],
+  "quality-time": [
+    "2026/07/10/1120"
+  ],
+  "relationship-prioritization": [
+    "2026/07/10/1120"
+  ],
+  "shift-work-relationshipemotional_tone: neutral": [
+    "2026/07/10/1120"
+  ],
+  "severe-weather-hold-sheet": [
+    "2026/08/26/1945"
+  ],
+  "typhoon-season": [
+    "2026/08/26/1945"
+  ],
+  "post-storm-review": [
+    "2026/08/26/1945"
+  ],
+  "weather-accountability": [
+    "2026/08/26/1945"
+  ],
+  "true-weather-blocks": [
+    "2026/08/26/1945"
+  ],
+  "metric-credibility": [
+    "2026/08/26/1945"
+  ],
+  "cause-separationemotional_tone: neutral": [
+    "2026/08/26/1945"
+  ],
+  "reflux-improvement": [
+    "2026/10/01/0410"
+  ],
+  "sleep-disruption": [
+    "2026/10/01/0410"
+  ],
+  "pre-sleep-routine": [
+    "2026/10/01/0410"
+  ],
+  "quiet-landing-spot": [
+    "2026/10/01/0410"
+  ],
+  "shift-body-strain": [
+    "2026/10/01/0410"
+  ],
+  "partial-recoveryemotional_tone: neutral": [
+    "2026/10/01/0410"
+  ],
+  "owner-presentation": [
+    "2026/11/16/1035"
+  ],
+  "monthly-wall-charts": [
+    "2026/11/16/1035"
+  ],
+  "reliability-metrics": [
+    "2026/11/16/1035"
+  ],
+  "upward-reporting": [
+    "2026/11/16/1035"
+  ],
+  "twenty-minute-threshold": [
+    "2026/11/16/1035"
+  ],
+  "handoff-gap-visibility": [
+    "2026/11/16/1035"
+  ],
+  "company-visibilityemotional_tone: neutral": [
+    "2026/11/16/1035"
+  ],
+  "vinyl-bar-discovery": [
+    "2027/01/08/1215"
+  ],
+  "softer-playlist": [
+    "2027/01/08/1215"
+  ],
+  "late-drive-routine": [
+    "2027/01/08/1215"
+  ],
+  "older-korean-ballads": [
+    "2027/01/08/1215"
+  ],
+  "decompression-habit": [
+    "2027/01/08/1215"
+  ],
+  "unstructured-calm": [
+    "2027/01/08/1215"
+  ],
+  "recovery-refinementemotional_tone: neutral": [
+    "2027/01/08/1215"
+  ],
+  "digital-template-approval": [
+    "2027/02/26/0105"
+  ],
+  "board-template-alignment": [
+    "2027/02/26/0105"
+  ],
+  "dual-record-split": [
+    "2027/02/26/0105"
+  ],
+  "mandatory-fields": [
+    "2027/02/26/0105"
+  ],
+  "owner-chart-momentumemotional_tone: neutral": [
+    "2027/02/26/0105"
+  ],
+  "sisters-interview-costs": [
     "2027/04/12/0925"
   ],
-  "travel": [
-    "2025/01/06/1310",
-    "2025/07/02/0840",
-    "2026/02/17/0205",
-    "2026/04/21/0700",
-    "2026/07/10/1120",
-    "2026/10/01/0410",
-    "2026/11/16/1035",
-    "2027/04/12/0925",
-    "2028/01/12/0340"
+  "min-seo-income-dip": [
+    "2027/04/12/0925"
   ],
-  "education": [
-    "2025/01/06/1310",
-    "2025/01/21/2240",
-    "2025/03/29/0315",
-    "2025/05/07/1230",
-    "2025/06/10/1810",
-    "2025/09/09/1300",
-    "2026/02/17/0205",
-    "2026/03/28/1455",
-    "2026/04/21/0700",
-    "2026/06/01/2215",
-    "2026/10/01/0410",
-    "2026/11/16/1035",
-    "2027/01/08/1215",
-    "2027/02/26/0105",
-    "2027/04/12/0925",
-    "2027/07/18/0645"
+  "shared-expense-shift": [
+    "2027/04/12/0925"
   ],
-  "housing": [
-    "2025/01/06/1310",
-    "2025/01/21/2240",
-    "2025/02/08/1150",
-    "2025/03/03/0620",
-    "2025/03/29/0315",
-    "2025/04/17/2155",
-    "2025/05/07/1230",
-    "2025/06/10/1810",
-    "2025/07/02/0840",
-    "2025/08/18/2025",
-    "2025/09/09/1300",
-    "2025/11/23/1010",
-    "2026/01/04/2325",
-    "2026/02/17/0205",
-    "2026/03/28/1455",
-    "2026/04/21/0700",
-    "2026/07/10/1120",
-    "2026/08/26/1945",
-    "2026/10/01/0410",
-    "2026/11/16/1035",
-    "2027/02/26/0105",
-    "2027/04/12/0925",
-    "2027/05/29/2130",
-    "2027/07/18/0645",
-    "2027/09/05/2355",
-    "2028/01/12/0340"
+  "savings-stagnation": [
+    "2027/04/12/0925"
   ],
-  "leisure": [
-    "2025/01/21/2240",
-    "2025/03/03/0620",
-    "2025/03/29/0315",
-    "2025/04/17/2155",
-    "2025/05/07/1230",
-    "2025/07/02/0840",
-    "2025/08/18/2025",
-    "2025/09/09/1300",
-    "2025/10/14/0535",
-    "2025/11/23/1010",
-    "2026/01/04/2325",
-    "2026/06/01/2215",
-    "2026/10/01/0410",
-    "2026/11/16/1035",
-    "2027/01/08/1215",
+  "family-support-burden": [
+    "2027/04/12/0925"
+  ],
+  "household-budget-review": [
+    "2027/04/12/0925"
+  ],
+  "temporary-squeezeemotional_tone: neutral": [
+    "2027/04/12/0925"
+  ],
+  "official-handoff-record": [
     "2027/05/29/2130"
   ],
-  "environment": [
-    "2025/01/21/2240",
-    "2025/03/03/0620",
-    "2025/06/10/1810",
-    "2025/08/18/2025",
-    "2025/10/14/0535",
-    "2026/08/26/1945",
-    "2026/11/16/1035",
-    "2027/02/26/0105",
-    "2027/09/05/2355",
+  "berth-time-discrepancy": [
+    "2027/05/29/2130"
+  ],
+  "memory-vs-written": [
+    "2027/05/29/2130"
+  ],
+  "verbal-calls-excluded": [
+    "2027/05/29/2130"
+  ],
+  "chain-of-custody": [
+    "2027/05/29/2130"
+  ],
+  "principled-enforcement": [
+    "2027/05/29/2130"
+  ],
+  "mismatch-logemotional_tone: neutral": [
+    "2027/05/29/2130"
+  ],
+  "rescue-dog-encounter": [
+    "2027/07/18/0645"
+  ],
+  "older-dog-preference": [
+    "2027/07/18/0645"
+  ],
+  "future-pet-plan": [
+    "2027/07/18/0645"
+  ],
+  "calm-companionship": [
+    "2027/07/18/0645"
+  ],
+  "stairwell-moment": [
+    "2027/07/18/0645"
+  ],
+  "adoption-consideration": [
+    "2027/07/18/0645"
+  ],
+  "household-visionemotional_tone: neutral": [
+    "2027/07/18/0645"
+  ],
+  "sustained-reliability": [
+    "2027/09/05/2355"
+  ],
+  "three-straight-quarters": [
+    "2027/09/05/2355"
+  ],
+  "ninety-percent-on-time": [
+    "2027/09/05/2355"
+  ],
+  "weather-coding-validation": [
+    "2027/09/05/2355"
+  ],
+  "consolidation-phase": [
+    "2027/09/05/2355"
+  ],
+  "process-as-systememotional_tone: neutral": [
+    "2027/09/05/2355"
+  ],
+  "domestic-trip-planning": [
+    "2028/01/12/0340"
+  ],
+  "gyeongju-vs-jeju": [
+    "2028/01/12/0340"
+  ],
+  "short-break-preference": [
+    "2028/01/12/0340"
+  ],
+  "calendars-alignment": [
+    "2028/01/12/0340"
+  ],
+  "realistic-rest": [
+    "2028/01/12/0340"
+  ],
+  "min-seo-initiative": [
+    "2028/01/12/0340"
+  ],
+  "travel-preference-clarifiedemotional_tone: neutral": [
+    "2028/01/12/0340"
+  ],
+  "formal-procedure-adoption": [
     "2028/04/03/0820"
   ],
-  "goals": [
-    "2025/02/08/1150",
-    "2025/03/03/0620",
-    "2025/03/29/0315",
-    "2025/04/17/2155",
-    "2025/05/07/1230",
-    "2025/06/10/1810",
-    "2025/07/02/0840",
-    "2025/08/18/2025",
-    "2025/09/09/1300",
-    "2025/11/23/1010",
-    "2026/02/17/0205",
-    "2026/03/28/1455",
-    "2026/04/21/0700",
-    "2026/06/01/2215",
-    "2026/07/10/1120",
-    "2026/08/26/1945",
-    "2026/10/01/0410",
-    "2027/01/08/1215",
-    "2027/04/12/0925",
-    "2027/07/18/0645",
-    "2028/01/12/0340",
+  "company-standard": [
+    "2028/04/03/0820"
+  ],
+  "career-milestone": [
+    "2028/04/03/0820"
+  ],
+  "system-survival": [
+    "2028/04/03/0820"
+  ],
+  "relief-and-exhaustion": [
+    "2028/04/03/0820"
+  ],
+  "role-shift": [
+    "2028/04/03/0820"
+  ],
+  "bundle-adoption": [
+    "2028/04/03/0820"
+  ],
+  "standing-procedureemotional_tone: neutral": [
     "2028/04/03/0820"
   ]
 }

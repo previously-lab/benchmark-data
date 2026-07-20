@@ -3,20 +3,25 @@
   "slices": [
     {
       "id": "2027-05-22-1130",
-      "focus": "A lot has felt a little softer lately, not easy exactly, but softer, and I had o",
-      "summary": "Exactly, it felt grounding instead of like one more thing needing something from me",
+      "focus": "Ariana spends an evening with a neighbor's foster tabby and rediscovers her desire for a senior cat someday",
+      "summary": "Ariana visits a neighbor fostering an older tabby and spends hours brushing the cat on the porch. The experience sharpens her preference for senior cats and low-demand companionship, but she responsibly concludes her home is not ready yet and settles for borrowed cat time.",
       "tags": [
-        "work",
-        "health",
-        "finance",
-        "travel",
-        "education",
-        "housing",
-        "goals"
+        "senior-cat-interest",
+        "foster-tabby",
+        "neighbor-porch",
+        "low-demand-companionship",
+        "manageable-care",
+        "contained-rituals",
+        "borrowed-peace",
+        "conditions-listemotional_tone: neutral"
       ],
       "status": "closed",
       "start": "2027-05-22T11:30:00.000Z",
-      "open_loops": [],
+      "open_loops": [
+        "Writing a conditions list for what would need to be true before adopting",
+        "Following senior cat rescue pages without turning browsing into longing",
+        "Continuing porch visits with the neighbor's tabby"
+      ],
       "decisions": [
         "Helping with an older tabby made Ariana more actively interested in someday adopting a senior cat, even though she still"
       ]

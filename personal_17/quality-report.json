@@ -1,0 +1,128 @@
+{
+  "personaId": "personal_17",
+  "reviewedAt": "2026-07-20T00:00:00.000Z",
+  "model": "claude-haiku-4-5",
+  "overallNotes": "Colleen Margaret Sweeney (born 1988-11-14), a 36-year-old single woman living in South Philadelphia, works as the Education Manager at Fireman's Hall Museum ($52K/yr, supplemented by freelance walking tours). Her defining trait is quietly persistent system-building -- she turns workplace frustrations into evidence-backed proposals, pilots, and eventually institutional programs. Over ~3.5 years, she transforms a fragile school-visit operation into a three-package, year-round program with 70+ annual bookings from 18+ schools, retrained volunteers, and board-level recognition. Key relationships: mother Patricia (now in formal monthly care routine for arthritis), father Michael (SEPTA retiree who shifts from skeptical to milestone-asking), nephew Owen (age 10, trusted activity tester), friend Nina Barrow (public librarian, practical support + restorative companionship), executive director Leonard (cautious but responsive to data), and veteran volunteer Franklin Russo (longtime guide whose storytelling style both anchors tours and resists standardization). Recurring stress pattern: seasonal voice hoarseness (spring/fall) that she finally addresses through microphone use, water discipline, and shared speaking load. Personal growth arc: from over-functioning rescuer to program steward who can step back and let volunteer-led visits run without constant intervention. She is ISFJ, conflict-averse but principled, family-centered, overprepared, and increasingly comfortable naming what she needs. Notable preferences: secondhand detective novels for depleted evenings, Irish folk music for car decompression, older cats (eventual adoption aspiration), civic ephemera collecting (neighborhood paper trail), short Northeast train trips for museum scouting, and tomato pie.",
+  "issues": [
+    {
+      "sliceId": "2025-01-08-0100",
+      "notes": "Rich onboarding slice with excellent life detail and clear goal articulation. Establishes all key relationships and provides a strong baseline for tracking Colleen's arc. The ISFJ/conflict-averse/overprepared self-description proves remarkably consistent across all subsequent slices."
+    },
+    {
+      "sliceId": "2025-01-22-0840",
+      "notes": "Pivotal slice showing Colleen's strength: turning vague frustration into structured evidence. The 'added school format' framing shows her political sensitivity. Good concrete metrics for success (one clean tracker, one on-time visit)."
+    },
+    {
+      "sliceId": "2025-02-09-0615",
+      "notes": "Beautiful slice capturing iterative design in its most natural form. The seam between adult explanation and kid engagement is identified as the core design problem. Owen's role as trusted tester is formalized. Bonus: voice health benefit of shorter spoken bridges."
+    },
+    {
+      "sliceId": "2025-03-05-0220",
+      "notes": "Major milestone -- first tangible product emerges from rebuild. The outreach cart solution is particularly clever, solving transportation fragility. Good framing discipline: 'protecting the test' as a phrase, narrow three-metric scorecard."
+    },
+    {
+      "sliceId": "2025-03-29-1030",
+      "notes": "Subtle but important slice about recognizing depletion signals and adjusting expectations accordingly. 'Accessible does not mean shallow' is a key insight. The reading-habit shift parallels her professional shift from heroic effort to sustainable systems."
+    },
+    {
+      "sliceId": "2025-04-17-0750",
+      "notes": "Crucial shift from building to inviting. Colleen correctly identifies that logistics are educational access, not an annoying side issue. The vulnerability of putting work into public view is candidly captured. Good instinct to draft follow-up before hitting send."
+    },
+    {
+      "sliceId": "2025-05-08-1210",
+      "notes": "Turning point for health awareness. The 'equipment not concession' reframe is essential for long-term adoption. Colleen's father Michael's ongoing worry about her workload is validated by this episode. Good sequencing: habits first, then raise scheduling as operational issue."
+    },
+    {
+      "sliceId": "2025-06-12-0305",
+      "notes": "Structural milestone: the program now has two distinct offers and a pipeline that can be described. The shift from 'maybe this will work' to 'this is starting to function' is well captured. Rule-based probable-repeat criteria prevents optimism from inflating the numbers."
+    },
+    {
+      "sliceId": "2025-07-06-0540",
+      "notes": "Colleen's professional curiosity is sustained even amid stress. The audio-guide idea is well-motivated (voice preservation + visitor experience). Framing as 'a workable little thread' avoids overcommitment. Scouting-as-preference is a genuine self-discovery."
+    },
+    {
+      "sliceId": "2025-09-03-0055",
+      "notes": "Good operational leadership under pressure. The map-based meeting shows Colleen's skill at making abstract problems visible. The 'protecting the test' framing keeps it from being personal. Recognizing the difference between content challenge and leadership challenge is mature."
+    },
+    {
+      "sliceId": "2025-09-29-1120",
+      "notes": "Important financial maturation. Colleen's honesty about identity hit vs math problem is insightful. The kitchen-table setting grounds the reset in family reality. Red-yellow-green system is a smart decision tool. Her father Michael's 'too much for too little pay' refrain is present but not dominating."
+    },
+    {
+      "sliceId": "2025-10-21-0810",
+      "notes": "Painful but valuable setback. Colleen's analysis is sharp: 'I underbuilt the operational cushion, not the educational piece.' Distinguishing content failure from delivery failure prevents over-correction. Building for failure rather than assuming ideal compliance is the right lesson."
+    },
+    {
+      "sliceId": "2025-11-16-0935",
+      "notes": "Small but real self-knowledge: the car is one of the few environments Colleen fully controls, so changing its sound has outsized effect. The origin story (family birthday cleanup) grounds the habit in real life rather than optimization. 'Ten percent less frayed' is a realistic target."
+    },
+    {
+      "sliceId": "2025-12-10-0200",
+      "notes": "Excellent operational response to the October failure. 'Personality as a bonus, not the load-bearing wall' is the clearest articulation of her standardization philosophy. The distinction between beloved style and school-day product is mature. Training newer volunteers first is strategically smart (less habit to unlearn)."
+    },
+    {
+      "sliceId": "2026-01-18-0725",
+      "notes": "Significant life-stage marker. Colleen's instinct to systemize (one folder, one checklist, one calendar slot) is consistent with her work patterns but applied to care. The sadness about changing relationship is acknowledged without melodrama. Good distinction between 'responsible' and 'too much.'"
+    },
+    {
+      "sliceId": "2026-02-11-0145",
+      "notes": "Major inflection point: the program now has real structural integrity. The city services package adds intellectual breadth. 'Service and evidence' as dual frame for each booking is strategically smart. The veteran volunteer following the station sequence without resistance is a culture-change milestone."
+    },
+    {
+      "sliceId": "2026-03-14-0450",
+      "notes": "Emotionally important slice showing Colleen's capacity for pleasure and connection when the work stabilizes. The 'not-in-charge' piece is the real insight. Nina is recognized as a friend offering restoration, not just problem-solving. Small but meaningful growth."
+    },
+    {
+      "sliceId": "2026-04-27-0630",
+      "notes": "Breakthrough moment: the program transitions from personal project to institutionally recognized. Colleen's discipline of arguing from logistics and observed behavior (not mission language) is why the ask lands. 'Sequencing not hesitating' reframes her caution as strategy. Wear-and-tear as evidence of success is a lovely framing."
+    },
+    {
+      "sliceId": "2026-05-22-1005",
+      "notes": "Crucial self-awareness: program stability doesn't eliminate physical limits. Colleen separates system health from personal health. The doctor's framing of 'recurring and seasonal, not dramatic collapse' is helpful. Taking real vacation days (not pseudo-rest) is a behavioral change, not just a language change."
+    },
+    {
+      "sliceId": "2026-07-09-0845",
+      "notes": "Colleen has moved from proving demand to making the system durable. The three weak points (packet confusion, transportation collapse, administrative timing) are correctly identified. The 'book, recover, rebook' test is a useful guardrail against over-refinement. The bus-contingency language protects relationships, not just bookings."
+    },
+    {
+      "sliceId": "2026-08-21-1100",
+      "notes": "Practical infrastructure that mirrors her professional systems-building. The dining room is a physical metaphor for the whole arc: from chaotic pile to functional system. Colleen's willingness to spend personal money on a work-support expense shows how blurred the line remains. 'Less jagged' is the real goal."
+    },
+    {
+      "sliceId": "2026-10-06-0110",
+      "notes": "Structural milestone: the program is now functioning without Colleen in the center. The sorting logic (complexity-based, not availability-based) is operationally sound. The shift from rescue to oversight is exactly what she was building toward. 'Relief more than excitement' is the right emotional register."
+    },
+    {
+      "sliceId": "2026-11-13-1220",
+      "notes": "Charming slice showing Colleen has enough breathing room for genuine curiosity. The hobby is perfectly matched to her temperament: civic-minded, detail-oriented, Philadelphia-rooted, and low-pressure. The collecting rule ('smile fastest' as acquisition standard) keeps it from becoming clutter. That Franklin is the gift-giver adds relational depth."
+    },
+    {
+      "sliceId": "2027-01-24-0335",
+      "notes": "Summit moment for the program arc. The shift from personal crusade to institutional evidence is the culmination of all prior work. The 'advocate to witness' framing captures how Colleen's relationship to the work has changed. The focus on repeat systems (not personal effort) for sustainability is exactly right. Pride and relief are both earned."
+    },
+    {
+      "sliceId": "2027-03-02-0955",
+      "notes": "Important family-relationship milestone that parallels the professional arc. Michael's shift from skepticism to specific questions mirrors how Leonard responded to data. Colleen's clarity ('I'm here on purpose') is the product of her entire journey. The ordinary setting (cheesesteaks after a basketball game) makes the conversation feel earned rather than staged."
+    },
+    {
+      "sliceId": "2027-05-18-0515",
+      "notes": "High-integrity self-assessment. The tracker does not flatter; it reveals. Colleen's willingness to see where she is still the bottleneck is the mark of real operational maturity. The decision to simplify the package before training people on it prevents training-in-dependence. 'The question is no longer whether there is a program at all' -- that says everything about how far she has come."
+    },
+    {
+      "sliceId": "2027-07-30-0310",
+      "notes": "Small but resonant self-discovery. The older-cat preference is consistent with Colleen's arc: drawn to steady, low-maintenance, non-performative presence. The pet-store context (prosaic errand, unexpected insight) is very 'Colleen.' Her realistic assessment of timing and budget prevents romanticizing."
+    },
+    {
+      "sliceId": "2027-10-04-0040",
+      "notes": "The vision Colleen had years earlier is now operational reality. The standard sequence holding without her is the strongest possible evidence of program durability. She correctly identifies that freed-up time for partnerships is more valuable than the raw visit count. 'Service and evidence' as dual purpose for each visit is now natural, not aspirational."
+    },
+    {
+      "sliceId": "2028-02-08-1025",
+      "notes": "Concrete proof that the health adjustments have taken root. The before-and-after comparison is in Colleen's own body. 'Evening depletion you can plan around vs losing the next several days' captures the improvement precisely. The resentment-reduction piece is psychologically sharp -- shared delivery protects stamina on multiple levels."
+    },
+    {
+      "sliceId": "2028-05-30-0740",
+      "notes": "Program arc complete. The original Museum Education Expansion goal (70 booked visits/year, 18 schools, three repeat-ready packages) is hit. More importantly, the system is no longer person-dependent. 'Dependable' as the word for this stage is perfect -- it captures what Colleen was really building all along. The relief is deeper than pride because it means trust, not just achievement."
+    }
+  ]
+}

@@ -3,15 +3,17 @@
   "slices": [
     {
       "id": "2026-10-04-0715",
-      "focus": "A lot has been shifting lately, and one thing at work finally crossed from me ju",
-      "summary": "I picked people who were already steady under pressure and who understood courtroom flow, even if in",
+      "focus": "Second-round backup cohort + formal training binder launched",
+      "summary": "Lucia expands the backup effort with a second-round cohort mixing selected bilingual clerks and one outside contract interpreter, deliberately broadening the pool to reduce single-point-of-failure risk. She builds a formal training binder with front-loaded emergency procedures (who to call, what order, key scripts) and deeper reference sections (glossary, courtroom language, call trees). The binder is designed as 'backup coverage procedures' — an emergency operations tool with training sections, not a classroom notebook. She plans to test the binder with one clerk and one outside person separately, add an internal-operations vs. outside-backup insert, and fix the most confusing section (internal call procedures) before declaring it version one.",
       "tags": [
-        "work",
-        "health",
-        "education",
-        "housing",
-        "goals",
-        "environment"
+        "second-round-cohort",
+        "formal-training-binder",
+        "emergency-procedures-documentation",
+        "outside-contract-interpreter",
+        "bilingual-clerk-selection",
+        "call-tree-clarification",
+        "knowledge-transfer-infrastructure",
+        "reducing-single-point-of-failureemotional_tone: neutral"
       ],
       "status": "closed",
       "start": "2026-10-04T07:15:00.000Z",

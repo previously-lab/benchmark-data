@@ -1,0 +1,218 @@
+{
+  "personaId": "personal_09",
+  "reviewedAt": "2026-07-20T23:59:00.000Z",
+  "model": "claude-haiku-4-5",
+  "overallNotes": "Nadia Samira Rahal: a 34-year-old casework supervisor at Journey's End Refugee Services in Buffalo, NY. Her persona arc is one of the most coherent in the dataset — a clear trajectory from reactive caseworker to intentional system-builder over 3.5 years. Key themes: turning personal workarounds into institutional process, family financial responsibility (fiance Omar, sister Leila, aunt Maha), physical stress manifestations (headaches, near-fainting, insomnia), practical over performative values, gradual leadership credibility. Major milestones: wedding to Omar (Oct 2025), apartment move (Feb 2026), starting counseling (Jul 2026), agency adoption of her intake model (Jun 2028). Data quality issues: (1) focus fields consistently truncated at ~80 character boundary, often cutting mid-word; (2) summaries are almost all quote fragments from user turns rather than descriptive summaries; (3) emotional_tone is 'neutral' for every single slice when many clearly lean positive or mixed; (4) tags are generic category labels (work, family, health) used identically across slices rather than specific to each conversation's content; (5) many slices lack open_loops fields despite clear unresolved action items in the conversation text. The persona itself feels authentically drawn — her voice is consistent, her growth is believable, and the Buffalo setting grounds everything.",
+  "issues": [
+    {
+      "sliceId": "2025-01-09-0030",
+      "focus_accurate": true,
+      "summary_accurate": true,
+      "tags_relevant": false,
+      "notes": "Tags are overly generic (work, family, health, finance). Original summary is just 'My name is Nadia Samira Rahal' — a quote fragment that misses the entire slice's content. Focus is correct."
+    },
+    {
+      "sliceId": "2025-02-03-1040",
+      "focus_accurate": false,
+      "summary_accurate": false,
+      "tags_relevant": false,
+      "notes": "Focus is truncated mid-word ('tipped fr'). Summary is a quote fragment ('I kept it really basic on purpose') from turn 3 — misses the entire conversation arc about triage board, informal leadership, and crisis response. Tags are generic. emotional_tone should be 'mixed' (stressed but directed, energized but sleep-deprived) not 'neutral'."
+    },
+    {
+      "sliceId": "2025-02-22-1310",
+      "focus_accurate": false,
+      "summary_accurate": false,
+      "tags_relevant": false,
+      "notes": "Focus truncated mid-word ('conv'). Summary is a quote fragment ('Honestly, it was both') — misses the entire conversation about wedding planning, boundaries, and relationship dynamics. Tags are generic. emotional_tone should be 'positive' (relieved, grounding, productive tension) not 'neutral'."
+    },
+    {
+      "sliceId": "2025-03-14-0955",
+      "focus_accurate": false,
+      "summary_accurate": false,
+      "tags_relevant": false,
+      "notes": "Focus truncated mid-word ('offi'). Summary is a quote fragment ('Honestly, numbers helped more than passion') from turn 3. Tags are generic — missing the core themes of pilot approval, data advocacy, and system-building. emotional_tone should be 'positive' (relieved, proud, cautiously optimistic) not 'neutral'."
+    },
+    {
+      "sliceId": "2025-04-06-0720",
+      "focus_accurate": false,
+      "summary_accurate": false,
+      "tags_relevant": false,
+      "notes": "Focus truncated mid-word ('th'). Summary is a quote fragment ('Yes, exactly, realistic is the key word'). Tags are generic — missing the entire conversation about tea, comfort rituals, and small sustainable changes. emotional_tone should be 'positive' (gentle, reflective, grounded) not 'neutral'."
+    },
+    {
+      "sliceId": "2025-05-01-1105",
+      "focus_accurate": false,
+      "summary_accurate": false,
+      "tags_relevant": false,
+      "notes": "Focus truncated at space ('concrete in '). Summary is a quote fragment ('Not easy, but clearer than I expected once I had enough examples in front of me'). Tags are generic — missing the school partnership, preventative design, and scope discipline themes. emotional_tone should be 'positive' (focused, grounded, evidence-backed confidence) not 'neutral'."
+    },
+    {
+      "sliceId": "2025-05-27-0430",
+      "focus_accurate": false,
+      "summary_accurate": false,
+      "tags_relevant": false,
+      "notes": "Focus truncated mid-word ('bas'). Summary is a quote fragment ('I did get checked out, although not as fast as I should have'). Tags are generic — missing the health crisis, doctor visit, and system-building response. emotional_tone should be 'negative' (scared, confronted with reality) shading to 'mixed' (proactive response) not 'neutral'."
+    },
+    {
+      "sliceId": "2025-06-18-1015",
+      "focus_accurate": false,
+      "summary_accurate": false,
+      "tags_relevant": false,
+      "notes": "Focus truncated mid-word ('bi'). Summary is a quote fragment ('I was really careful about that line'). Tags are generic — missing the volunteer rotation, retired teachers, and front-end friction reduction. emotional_tone should be 'positive' (relieved, proud, hopeful) not 'neutral'."
+    },
+    {
+      "sliceId": "2025-07-12-0240",
+      "focus_accurate": false,
+      "summary_accurate": false,
+      "tags_relevant": false,
+      "notes": "Focus truncated mid-word ('mo'). Summary is a quote fragment ('I told him the same night because I did not want to be sneaky about it'). Tags are generic — missing the wedding savings crisis, Leila's housing gap, emotional impact of repeated shrinking. emotional_tone should be 'negative' (frustrated, sad, financially squeezed) not 'neutral'."
+    },
+    {
+      "sliceId": "2025-08-09-0850",
+      "focus_accurate": false,
+      "summary_accurate": false,
+      "tags_relevant": false,
+      "notes": "Focus truncated mid-word ('b'). Summary is a quote fragment ('It turned into a humiliation spiral'). Tags are generic and sparse — missing the placement failure, motel scramble, internal review, and political fallout. emotional_tone should be 'negative' (ashamed, rattled, embarrassed) not 'neutral'."
+    },
+    {
+      "sliceId": "2025-09-03-1215",
+      "focus_accurate": false,
+      "summary_accurate": false,
+      "tags_relevant": false,
+      "notes": "Focus is complete but slightly truncated at phrase boundary. Summary is an overlong quote fragment that cuts off ('She was easy to talk to in a very Buffalo auntie kind of way, except she is Polish American and reti'). Tags are generic — missing Elena Nowak, the tailoring shop setting, and the neighborhood connection theme. emotional_tone should be 'positive' (warm, grounded, hopeful) not 'neutral'."
+    },
+    {
+      "sliceId": "2025-09-26-0625",
+      "focus_accurate": false,
+      "summary_accurate": false,
+      "tags_relevant": false,
+      "notes": "Focus truncated mid-word ('contro'). Summary is a quote fragment ('The non-negotiables are the things that burned us'). Tags are generic — missing the inspection packet, housing handoff rebuild, and shared accountability themes. emotional_tone should be 'mixed' (determined but still rattled, relieved but vigilant) not 'neutral'."
+    },
+    {
+      "sliceId": "2025-10-19-1130",
+      "focus_accurate": false,
+      "summary_accurate": false,
+      "tags_relevant": false,
+      "notes": "Focus is complete. Summary is a quote fragment ('Probably the moment everyone was eating and nobody was performing') — better than most but still a quote rather than a descriptive summary. Tags are generic — missing the wedding itself, mosque ceremony, relief, and post-wedding emotional state. emotional_tone should be 'positive' (relieved, joyful, grounded) not 'neutral'."
+    },
+    {
+      "sliceId": "2025-11-11-0345",
+      "focus_accurate": false,
+      "summary_accurate": false,
+      "tags_relevant": false,
+      "notes": "Focus truncated mid-word ('I w'). Summary is a quote fragment that cuts off mid-sentence ('The biggest thing is that it finally puts the housing speed next to what happens after move-in, whic'). Tags are generic — missing the dashboard, three-metric tracking, and the shift from defensive to operational framing. emotional_tone should be 'mixed' (determined but still defensive about the earlier failure) not 'neutral'."
+    },
+    {
+      "sliceId": "2025-12-08-1300",
+      "focus_accurate": false,
+      "summary_accurate": false,
+      "tags_relevant": false,
+      "notes": "Focus truncated mid-word ('a'). Summary is a quote fragment ('More the mood, I think'). Tags are generic — missing the entire conversation about Fairuz, weekend morning rituals, post-wedding decompression, and home atmosphere. emotional_tone should be 'positive' (peaceful, settled, warm) not 'neutral'."
+    },
+    {
+      "sliceId": "2026-01-27-0835",
+      "focus_accurate": false,
+      "summary_accurate": false,
+      "tags_relevant": false,
+      "notes": "Focus truncated mid-word ('o'). Summary is a quote fragment ('Honestly, the data got me in the door, but the combination mattered'). Tags are generic — missing the complexity-based assignment model, leadership approval, and policy change significance. emotional_tone should be 'positive' (vindicated, hopeful, cautiously proud) not 'neutral'."
+    },
+    {
+      "sliceId": "2026-02-20-0110",
+      "focus_accurate": false,
+      "summary_accurate": false,
+      "tags_relevant": false,
+      "notes": "Focus truncated at space ('life-admin '). Summary is a quote fragment ('Honestly, all three, but the logistics might be the biggest one'). Tags are generic — missing the apartment move, logistics relief, aunt proximity, and desk corner setup. emotional_tone should be 'positive' (relieved, settled, grateful) not 'neutral'."
+    },
+    {
+      "sliceId": "2026-03-29-0550",
+      "focus_accurate": false,
+      "summary_accurate": false,
+      "tags_relevant": false,
+      "notes": "Focus truncated mid-word ('over'). Summary is a quote fragment ('More visible first, honestly'). Tags are woefully generic and tiny ('work', 'leisure') — missing the entire conversation about the shared reminder system, data volunteer, and team infrastructure development. emotional_tone should be 'positive' (practical, hopeful, observant) not 'neutral'."
+    },
+    {
+      "sliceId": "2026-04-17-1005",
+      "focus_accurate": false,
+      "summary_accurate": false,
+      "tags_relevant": false,
+      "notes": "Focus truncated mid-word ('h'). Summary is a quote fragment ('Yes, manageable is the whole appeal'). Tags are missing the herbs, seed swap, Elena, and home-settling themes — using generic categories instead. emotional_tone should be 'positive' (warm, amused, grounded) not 'neutral'."
+    },
+    {
+      "sliceId": "2026-06-02-0730",
+      "focus_accurate": false,
+      "summary_accurate": false,
+      "tags_relevant": false,
+      "notes": "Focus truncated mid-word ('ah'). Summary is a quote fragment ('Harder than it should have been, honestly'). Tags are generic — missing the monthly welcome-center table, school form pre-check, interpreter flagging, and cross-institution coordination. emotional_tone should be 'positive' (determined, proud, strategic) not 'neutral'."
+    },
+    {
+      "sliceId": "2026-07-20-2340",
+      "focus_accurate": false,
+      "summary_accurate": false,
+      "tags_relevant": false,
+      "notes": "Focus truncated mid-word ('stress'). Summary is a quote fragment ('Some mix of all three, honestly'). Tags are generic — missing the start of counseling, 4 AM wake-up pattern, Omar's intervention, and specific coping tools. emotional_tone should be 'mixed' (vulnerable but proactive, embarrassed but relieved) not 'neutral'."
+    },
+    {
+      "sliceId": "2026-09-09-0920",
+      "focus_accurate": true,
+      "summary_accurate": false,
+      "tags_relevant": false,
+      "notes": "Focus is complete. Summary is a quote fragment ('I definitely had to make the case'). Tags are generic — missing peer-shadowing, overflow coverage, system resilience, and knowledge transfer. emotional_tone should be 'mixed' (pragmatic but shaken by the resignation, determined but tired) not 'neutral'."
+    },
+    {
+      "sliceId": "2026-10-28-1225",
+      "focus_accurate": true,
+      "summary_accurate": false,
+      "tags_relevant": false,
+      "notes": "Focus is complete. Summary is a quote fragment ('A little of both, honestly'). Tags use 'goals' and 'education' which barely fit — missing the fiction reading return, Hala Alyan, bedtime ritual, and coworker connection. emotional_tone should be 'positive' (warm, rediscovering pleasure, soft) not 'neutral'."
+    },
+    {
+      "sliceId": "2027-01-13-0255",
+      "focus_accurate": false,
+      "summary_accurate": false,
+      "tags_relevant": false,
+      "notes": "Focus truncated mid-word ('li'). Summary is a quote fragment ('Honestly, I could feel the mood change when I got to that slide'). Tags are generic — missing the quarterly review, cross-trained reception staff, surge support approval, and institutional buy-in. emotional_tone should be 'positive' (vindicated, proud, cautiously hopeful) not 'neutral'."
+    },
+    {
+      "sliceId": "2027-03-06-0610",
+      "focus_accurate": false,
+      "summary_accurate": false,
+      "tags_relevant": false,
+      "notes": "Focus truncated mid-word ('at'). Summary is an overlong fragment ('Exactly, it was not some dramatic bad decision, it was just two things that both had to be dealt wit'). Tags use broad categories — missing the car repair, Leila's move, savings depletion, and financial anxiety. emotional_tone should be 'negative' (worried, exposed, financially insecure) not 'neutral'."
+    },
+    {
+      "sliceId": "2027-05-18-0845",
+      "focus_accurate": true,
+      "summary_accurate": false,
+      "tags_relevant": false,
+      "notes": "Focus is complete. Summary is a quote fragment ('Honestly, the hardest part was forcing separate fixes into one map'). Tags use broad categories — missing the agency manual, consolidation of system pieces, written escalation rules, and knowledge transfer milestone. emotional_tone should be 'positive' (proud, relieved, accomplished) not 'neutral'."
+    },
+    {
+      "sliceId": "2027-07-30-0335",
+      "focus_accurate": false,
+      "summary_accurate": false,
+      "tags_relevant": false,
+      "notes": "Focus truncated mid-word ('g'). Summary is a quote fragment ('Yes, unfamiliar is exactly it'). Tags are generic — missing Leila's graduation, the shift from emergency fixer to sounding board, and the emotional adjustment. emotional_tone should be 'positive' (relieved, warm, proud) not 'neutral'."
+    },
+    {
+      "sliceId": "2027-10-12-0125",
+      "focus_accurate": true,
+      "summary_accurate": false,
+      "tags_relevant": false,
+      "notes": "Focus is complete. Summary is a quote fragment ('Honestly, the clearest proof was that I was not spending every hour patching holes from memory'). Tags use 'environment' which is meaningless here — missing the system stress test, housing placement targets, and the shift from catcher to architect. emotional_tone should be 'positive' (exhausted but proud, validated, relieved) not 'neutral'."
+    },
+    {
+      "sliceId": "2028-02-04-1055",
+      "focus_accurate": false,
+      "summary_accurate": false,
+      "tags_relevant": false,
+      "notes": "Focus truncated at space ('pure '). Summary is an overlong quote clipping ('It was about a neighborhood fighting over who gets to belong there, which is not exactly light, but '). Tags are generic — missing the documentary night, Rukhsana, immigration podcasts, and social re-emergence. emotional_tone should be 'positive' (reflective, socially reconnecting, intellectually engaged) not 'neutral'."
+    },
+    {
+      "sliceId": "2028-06-21-0710",
+      "focus_accurate": true,
+      "summary_accurate": false,
+      "tags_relevant": false,
+      "notes": "Focus is complete. Summary is a quote fragment ('Yes, exactly, that is why it landed so hard for me'). Tags are sparse and generic — missing the core milestones: agency adoption, 30% capacity increase, system proof, institutional backing. emotional_tone should be 'positive' (vindicated, proud, relieved, cautiously forward-looking) not 'neutral'."
+    }
+  ]
+}

@@ -3,19 +3,24 @@
   "slices": [
     {
       "id": "2026-01-18-0950",
-      "focus": "A lot has shifted lately, and I think the biggest change is that I finally admit",
-      "summary": "Honestly, the first thing was therapy",
+      "focus": "Increasing therapy frequency and building a scripted shutdown routine to interrupt post-crate trauma replay",
+      "summary": "Hannah increases therapy and builds a literal shutdown routine (write down loose thoughts, make tea, jaw stretches, read something with no museum relevance for 20 min) to interrupt the compulsive replaying of the crate timeline that was hijacking her nights.",
       "tags": [
-        "work",
-        "health",
-        "education",
-        "housing",
-        "leisure",
-        "goals"
+        "increased-therapy-frequency",
+        "shutdown-routine",
+        "rumination-interruption",
+        "bedtime-script",
+        "priya-paperwork-containment",
+        "stress-recovery-habitsemotional_tone: neutral"
       ],
       "status": "closed",
       "start": "2026-01-18T09:50:00.000Z",
-      "open_loops": [],
+      "open_loops": [
+        "Keep extra therapy frequency for a while longer",
+        "Make kitchen basket the official work-paper quarantine zone",
+        "Add short arrival ritual (5 min to unload bag, wash face, change clothes)",
+        "Weekly check-in on bedtime dread frequency, replaying frequency, paper containment"
+      ],
       "decisions": [
         "Hannah is still rattled by the crate incident, but more frequent therapy and a home shutdown routine have shifted her fr"
       ]

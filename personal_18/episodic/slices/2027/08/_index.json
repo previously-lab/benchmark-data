@@ -6,15 +6,22 @@
       "focus": "A lot has shifted at work since we last talked, and not in a good way. I was fee",
       "summary": "Honestly, the moment it tipped was when the supplier delay should have triggered a firm no, and inst",
       "tags": [
-        "work",
-        "health",
-        "finance",
-        "housing",
-        "goals"
+        "work-breakdown",
+        "system-failure",
+        "exception-pressure",
+        "supplier-crisis",
+        "operations-setback",
+        "founder-override",
+        "system-fragilityemotional_tone: neutral"
       ],
       "status": "closed",
       "start": "2027-08-30T22:35:00.000Z",
-      "open_loops": [],
+      "open_loops": [
+        "Whether the exception signoff redesign creates a genuine gate or another paper rule",
+        "Whether Jordan can separate ownership of the evidence from ownership of the decision",
+        "The emotional reset before the operational conversation with Glen",
+        "Building the anti-spiral home rule to prevent the breakdown from consuming evenings"
+      ],
       "decisions": [
         "Jordan remained operations manager, but a flashy new regional account colliding with packaging supplier delays exposed h",
         "Jordan's anxiety spiked during the late-summer breakdown because the collapse now felt partly attached to systems she ha"

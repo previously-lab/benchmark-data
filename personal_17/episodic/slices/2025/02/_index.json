@@ -3,20 +3,25 @@
   "slices": [
     {
       "id": "2025-02-09-0615",
-      "focus": "Things have been busy since we last talked, and I had one of those very ordinary",
-      "summary": "Yes, that is how it felt",
+      "focus": "A family visit with Owen reveals that shorter, activity-first formats engage kids better than explanatory lead-ins.",
+      "summary": "Colleen brings prototype hose-nozzle handling cards to her sister's house and tests them with Owen. She discovers he engages far more with a timed clue challenge than with her careful educational introduction. This sparks a broader design insight: earn the explanation, don't lead with it. She commits to a three-beat structure (hook, clue round, story tie-in) and starts a simple observation notebook for Owen's reactions.",
       "tags": [
-        "work",
-        "family",
-        "relationship",
-        "travel",
-        "education",
-        "housing",
-        "leisure"
+        "family-as-test-audience",
+        "child-engagement",
+        "prototyping",
+        "activity-design",
+        "pacing-insight",
+        "nephew-bonding",
+        "voice-awareness",
+        "design-iterationemotional_tone: neutral"
       ],
       "status": "closed",
       "start": "2025-02-09T06:15:00.000Z",
-      "open_loops": [],
+      "open_loops": [
+        "Three-beat activity format needs full rewrite and further testing with additional kids",
+        "Involving Nina (librarian) for professional observation of children's flow",
+        "Prototype notebook format (hook/drop-off/re-engage) created but not yet populated"
+      ],
       "decisions": [
         "Owen's enthusiastic reactions have become one of Colleen's most trusted checks on whether a museum activity is actually "
       ]

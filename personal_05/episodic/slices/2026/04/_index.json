@@ -3,21 +3,26 @@
   "slices": [
     {
       "id": "2026-04-27-1020",
-      "focus": "A lot has shifted lately, or maybe I am just finally noticing what has been gett",
-      "summary": "Yeah, exactly, it was not dramatic",
+      "focus": "Nathaniel and Erin's belated anniversary weekend in Hocking Hills reveals the need to protect one no-work evening per week.",
+      "summary": "After postponing twice, Nathaniel and Erin finally take a short cabin weekend in Hocking Hills. The trip reveals how much work has been bleeding into home life, and they agree to protect one no-work evening (Wednesday) with no email, no laptop, and explicit rescheduling if moved.",
       "tags": [
-        "work",
-        "health",
-        "finance",
-        "relationship",
-        "travel",
-        "housing",
-        "goals",
-        "environment"
+        "anniversary-trip",
+        "hocking-hills",
+        "erin-relationship",
+        "work-life-boundary",
+        "protected-evening",
+        "wednesday-ritual",
+        "no-email-rule",
+        "relationship-investmentemotional_tone: neutral"
       ],
       "status": "closed",
       "start": "2026-04-27T10:20:00.000Z",
-      "open_loops": [],
+      "open_loops": [
+        "Wednesday calendar block not yet placed",
+        "No-email rule not yet communicated/adopted",
+        "Exception definition for true emergencies not yet agreed",
+        "Replacement night protocol not yet formalized"
+      ],
       "decisions": [
         "Nathaniel's relationship status shifted from mainly reducing household strain after Darius moved out to being more inten"
       ]

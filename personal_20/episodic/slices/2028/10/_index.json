@@ -3,8 +3,8 @@
   "slices": [
     {
       "id": "2028-10-24-1105",
-      "focus": "It has been a while since we talked, and things have actually felt a little ligh",
-      "summary": "Definitely my own reaction",
+      "focus": "Danielle suggests an impromptu day drive through Kentucky, and Eric discovers he no longer automatically reflex-says-no to short trips; a stable year at work has reduced his hypervigilance enough that nearby drivable travel feels possible again rather than hypothetical.",
+      "summary": "A spontaneous Kentucky day drive reveals that Eric's baseline hypervigilance has durably reduced after a stable work year; short regional trips move from 'not for us' to 'sometimes yes' in his mental category system.",
       "tags": [
         "work",
         "family",
@@ -13,11 +13,14 @@
         "travel",
         "education",
         "housing",
-        "leisure"
+        "leisureemotional_tone: neutral"
       ],
       "status": "closed",
       "start": "2028-10-24T11:05:00.000Z",
-      "open_loops": [],
+      "open_loops": [
+        "Short list of three easy Kentucky spots and two Ohio spots not yet compiled",
+        "One general weekend window for next trip not yet agreed with Danielle"
+      ],
       "decisions": [
         "Eric became more willing to actually plan short drivable trips around Ohio and Kentucky after a calmer year at work made"
       ]

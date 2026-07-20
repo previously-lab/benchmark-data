@@ -3,19 +3,26 @@
   "slices": [
     {
       "id": "2025-11-23-0805",
-      "focus": "A lot has been shifting lately, and this one was probably overdue. The day after",
-      "summary": "The main thing is we quit pretending we can just squeeze family in around everything else",
+      "focus": "Post-birthday kitchen-table talk with Erin yields weekly family night and monthly no-tools Sunday",
+      "summary": "After his birthday, Derek and Erin have a blunt but calm conversation in their unfinished dining room about how every free weekend gets consumed by union prep, side work, or Logan drama. They agree on two concrete boundaries: one protected family night every week and one no-tools Sunday every month. Derek realizes he had been treating free time as leftover scrap rather than a household resource, and that the half-renovated house itself was part of the stress. He commits to stock sentences for saying no and to not reading the house like a report card.",
       "tags": [
-        "work",
-        "family",
-        "finance",
-        "relationship",
-        "housing",
-        "leisure"
+        "marriage-boundary-conversation",
+        "weekly-family-night",
+        "no-tools-sunday",
+        "free-time-as-household-resource",
+        "logan-drama-impact",
+        "renovation-perfectionism-pressure",
+        "unfinished-dining-room-symbolism",
+        "calendar-as-commitment-deviceemotional_tone: neutral"
       ],
       "status": "closed",
       "start": "2025-11-23T08:05:00.000Z",
-      "open_loops": [],
+      "open_loops": [
+        "Protecting the first no-tools Sunday when a renovation temptation arises",
+        "Developing a stock sentence for declining extra obligations",
+        "Communicating the new boundaries to Logan and managing his mother's reaction",
+        "Separating the renovation queue into manageable steps vs. overwhelming whole-house view"
+      ],
       "decisions": [
         "Derek's relationship status shifted from general marital strain around weekends to clearer boundaries with Erin around f"
       ]

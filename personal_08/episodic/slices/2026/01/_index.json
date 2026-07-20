@@ -6,15 +6,25 @@
       "focus": "A lot has shifted lately, and work finally moved in a direction that feels diffe",
       "summary": "The biggest thing is every new temp has to be paired with a specific named trainer, not just dropped",
       "tags": [
-        "work",
-        "family",
-        "housing",
-        "leisure",
-        "goals"
+        "formal-reset-plan",
+        "named-trainer-pairing",
+        "photo-audits",
+        "dock-door-audits",
+        "supervisor-board-accountability",
+        "incident-leverage",
+        "sharon-pruitt-allyship",
+        "program-rebuilding",
+        "repeat-incident-discussion",
+        "four-part-scriptemotional_tone: neutral"
       ],
       "status": "closed",
       "start": "2026-01-13T05:30:00.000Z",
-      "open_loops": [],
+      "open_loops": [
+        "Finalize named-trainer pairing list with shift leads",
+        "Lock photo-audit review rhythm (same week)",
+        "Write four-part board script for repeat incidents",
+        "Create checklist for complete rollout on each shift"
+      ],
       "decisions": [
         "Jermaine and Sharon won approval for a formal reset plan after using the ugly peak-season incident numbers as leverage i"
       ]

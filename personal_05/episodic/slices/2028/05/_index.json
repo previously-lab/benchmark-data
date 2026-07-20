@@ -3,20 +3,25 @@
   "slices": [
     {
       "id": "2028-05-18-1010",
-      "focus": "A lot has shifted in a pretty ordinary way lately, which I guess is the point. I",
-      "summary": "Probably the combination, honestly",
+      "focus": "Spring physical confirms blood pressure remains controlled and weight loss sustained; habits have become durable.",
+      "summary": "Nathaniel's spring physical confirms his blood pressure remains in a better-controlled range and he has kept off weight gained during his dispatch years. The doctor credits two years of consistent walking, better meal timing, and calmer evenings. He commits to two priorities: evening rhythm and walking floor.",
       "tags": [
-        "work",
-        "health",
-        "relationship",
-        "education",
-        "housing",
-        "leisure",
-        "goals"
+        "spring-physical",
+        "blood-pressure-controlled",
+        "weight-maintained",
+        "evening-rhythm",
+        "walking-floor",
+        "sustainable-habits",
+        "health-milestone",
+        "ordinary-progressemotional_tone: neutral"
       ],
       "status": "closed",
       "start": "2028-05-18T10:10:00.000Z",
-      "open_loops": [],
+      "open_loops": [
+        "One-paragraph health baseline not yet written",
+        "Default dinner and walking windows not yet formalized",
+        "List of solo habits vs shared habits not yet sorted"
+      ],
       "decisions": [
         "At a spring physical, Nathaniel learned that his blood pressure remains in a better-controlled range and that he has kep"
       ]

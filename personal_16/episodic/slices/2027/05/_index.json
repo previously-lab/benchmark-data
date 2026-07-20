@@ -3,20 +3,26 @@
   "slices": [
     {
       "id": "2027-05-16-0935",
-      "focus": "A lot has shifted at work since we last talked, and this week felt like one of t",
-      "summary": "It was the tone afterwards, really",
+      "focus": "Second inspection cycle finds no repeat issues in overhauled areas, solidifying Saira's authority",
+      "summary": "The next inspection cycle finds no repeat issues in the workflow areas Saira overhauled. Peter shifts from surviving inspections to linking discipline with independence. Saira feels her internal authority grow and plans a team huddle, one-page expectations, and a conversation with Peter to make the standard official.",
       "tags": [
-        "work",
-        "health",
-        "relationship",
-        "travel",
-        "education",
-        "housing",
-        "goals"
+        "second-inspection",
+        "no-repeat-findings",
+        "sustained-improvement",
+        "peter-independence-link",
+        "credibility-solidified",
+        "baseline-standard",
+        "operations-file",
+        "team-huddleemotional_tone: neutral"
       ],
       "status": "closed",
       "start": "2027-05-16T09:35:00.000Z",
-      "open_loops": [],
+      "open_loops": [
+        "One-page plain language expectations not yet written",
+        "Peter needs to say something in his own words about the standard",
+        "Team huddle not yet conducted",
+        "Saira needs to protect against post-inspection energy crash"
+      ],
       "decisions": [
         "After a second inspection cycle with no repeat findings in the workflow areas she had overhauled, Saira had stronger aut"
       ]

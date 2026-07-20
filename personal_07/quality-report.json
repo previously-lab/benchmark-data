@@ -1,0 +1,218 @@
+{
+  "personaId": "personal_07",
+  "reviewedAt": "2026-07-20T12:00:00.000Z",
+  "model": "claude-haiku-4-5",
+  "overallNotes": "Evan Michael Dorsey's arc across nearly four years (Jan 2025 - Sep 2028) tells the story of a senior procurement analyst who systematically builds a districtwide purchasing reform from scratch while managing a complex multigenerational household. His professional narrative follows a clear arc: tentative onboarding, informal cleanup assignment, formal mandate, spring pilot at three schools, summer HVAC derailment that triggers off-workflow purchasing chaos, a redesigned system with emergency exception codes, districtwide rollout, enforcement authority via title promotion (Lead Procurement Analyst for Purchasing Systems), and eventual system stabilization with near-zero audit exceptions. The personal arc runs in parallel: household coordination with wife Danielle (respiratory therapist), raising daughter Mina (preschool at start, elementary by end), and sharing a crowded split-level in Maplewood with mother-in-law Lourdes in the basement suite. Recurring themes include stress headaches tied to work pressure, a tight budget strained by preschool tuition, eldercare costs, and home safety modifications; a strong preference for structured small-scale leisure (crime fiction, local museum outings, pickup basketball, public radio, newsroom comedies); and a gradual evolution from absorbing all burden himself to setting boundaries, using employee counseling benefits, and trusting the systems he built. Key relationships: Danielle (wife and co-logistics partner), Marcus Jeffries (Mizzou friend, municipal budgeter, book and show recommender), Patrice Holcomb (assistant superintendent sponsor), Rashad Coleman (warehouse ground-truth voice), and Lourdes (mother-in-law, evolving from tension source to cooking connection). The dominant throughlines are procurement reform as a multiyear systems-building project and Evan's parallel journey toward accepting that durable structure -- not personal heroics -- is what stabilizes both a school district and a household. Current tags on all slices were generic regex output; replacement tags are specific to each slice's concrete content.",
+  "issues": [
+    {
+      "sliceId": "2025-01-09-1130",
+      "focus_accurate": false,
+      "summary_accurate": false,
+      "tags_relevant": false,
+      "notes": "Focus says 'nice to start using a tool like this' but the slice is a comprehensive life onboarding, not about tool satisfaction. Summary only captures name. Tags are completely generic. Slice is the richest single slice for persona background."
+    },
+    {
+      "sliceId": "2025-01-28-0040",
+      "focus_accurate": true,
+      "summary_accurate": false,
+      "tags_relevant": false,
+      "notes": "Focus is accurate - work crossed into official territory. Summary only captures one detail about the tracker. Tags generic. Decisions are excellent and specific."
+    },
+    {
+      "sliceId": "2025-02-16-0820",
+      "focus_accurate": true,
+      "summary_accurate": false,
+      "tags_relevant": false,
+      "notes": "Focus accurate about small normal break. Summary only mentions the book. Tags completely miss the leisure/personal growth nature of this slice. One of the most emotionally warm slices."
+    },
+    {
+      "sliceId": "2025-03-11-0950",
+      "focus_accurate": true,
+      "summary_accurate": false,
+      "tags_relevant": false,
+      "notes": "Focus accurate - work moved from gathering evidence to real pilot. Summary only captures the prove-it-first green light. Tags generic, missing the pilot launch and school engagement angle."
+    },
+    {
+      "sliceId": "2025-04-07-1310",
+      "focus_accurate": true,
+      "summary_accurate": false,
+      "tags_relevant": false,
+      "notes": "Focus accurate - small thing that is not small. Summary only says 'that is basically where we landed.' Tags miss the relationship/marriage renegotiation entirely. Excellent decisions field."
+    },
+    {
+      "sliceId": "2025-05-19-0735",
+      "focus_accurate": true,
+      "summary_accurate": false,
+      "tags_relevant": false,
+      "notes": "Focus accurate about good shift and proof. Summary only captures intake form being used. Tags generic, missing the expansion from pilot to infrastructure building."
+    },
+    {
+      "sliceId": "2025-06-14-0205",
+      "focus_accurate": true,
+      "summary_accurate": false,
+      "tags_relevant": false,
+      "notes": "Focus accurate - less frantic, basketball sneaking in. Summary only says why it worked. Tags generic with too many false categories (finance, education, civic are not relevant to this slice)."
+    },
+    {
+      "sliceId": "2025-07-23-0515",
+      "focus_accurate": true,
+      "summary_accurate": false,
+      "tags_relevant": false,
+      "notes": "Focus accurate - work went sideways from HVAC failure. Summary only mentions bypassing. Tags generic, missing the frustration and setback nature. The most emotionally negative slice in the dataset."
+    },
+    {
+      "sliceId": "2025-08-18-1240",
+      "focus_accurate": true,
+      "summary_accurate": true,
+      "tags_relevant": false,
+      "notes": "Focus accurate about putting off and then doing the doctor visit. Summary accurate about stress-related diagnosis. Tags generic - health tag barely captures the depth here."
+    },
+    {
+      "sliceId": "2025-09-30-1005",
+      "focus_accurate": true,
+      "summary_accurate": false,
+      "tags_relevant": false,
+      "notes": "Focus accurate - work moved in a solid direction. Summary only mentions warehouse check. Tags generic and too sparse - only 4 tags missing the redesign nature."
+    },
+    {
+      "sliceId": "2025-11-09-0625",
+      "focus_accurate": true,
+      "summary_accurate": false,
+      "tags_relevant": false,
+      "notes": "Focus accurate - small thing that was weirdly clarifying. Summary only mentions clean ending point. Tags generic with too many false positives (finance, health, education not relevant to this slice)."
+    },
+    {
+      "sliceId": "2026-01-15-0110",
+      "focus_accurate": true,
+      "summary_accurate": false,
+      "tags_relevant": false,
+      "notes": "Focus accurate - work stopped being side battle. Summary only captures 'probably the every school part.' Tags generic. This is a pivotal milestone slice that deserves better tagging."
+    },
+    {
+      "sliceId": "2026-02-21-0350",
+      "focus_accurate": true,
+      "summary_accurate": false,
+      "tags_relevant": false,
+      "notes": "Focus accurate - weekend showed something unexpected. Summary only captures Evan's 'more the second one' response. Tags generic, missing the Lourdes relationship shift entirely."
+    },
+    {
+      "sliceId": "2026-04-12-0845",
+      "focus_accurate": true,
+      "summary_accurate": false,
+      "tags_relevant": false,
+      "notes": "Focus accurate - big work piece crossed the line. Summary only mentions cleanup. Tags extremely sparse (only 3). Misses the secretary training and repository launch milestone."
+    },
+    {
+      "sliceId": "2026-05-30-1230",
+      "focus_accurate": true,
+      "summary_accurate": false,
+      "tags_relevant": false,
+      "notes": "Focus accurate about home front budget shift. Summary only captures 'both.' Tags generic. This is a rich slice about financial pressure and household teamwork that deserves specific tags."
+    },
+    {
+      "sliceId": "2026-07-08-0620",
+      "focus_accurate": true,
+      "summary_accurate": false,
+      "tags_relevant": false,
+      "notes": "Focus accurate about actual progress instead of cleanup. Summary only mentions hardest part was making it useful. Tags sparse and miss the dashboard/calendar operational milestone."
+    },
+    {
+      "sliceId": "2026-08-27-1055",
+      "focus_accurate": true,
+      "summary_accurate": false,
+      "tags_relevant": false,
+      "notes": "Focus accurate - less frantic, smaller update. Summary only mentions 'I think it is mostly the rhythm.' Tags generic, missing the public radio discovery and the significance of calmer opening."
+    },
+    {
+      "sliceId": "2026-10-19-0410",
+      "focus_accurate": true,
+      "summary_accurate": false,
+      "tags_relevant": false,
+      "notes": "Focus accurate - something solid at work. Summary only captures 'both mattered.' Tags sparse and miss the loophole detection and data-driven defense narrative."
+    },
+    {
+      "sliceId": "2026-12-03-1300",
+      "focus_accurate": true,
+      "summary_accurate": false,
+      "tags_relevant": false,
+      "notes": "Focus accurate - shifted around the house. Summary only captures 'pretty much both.' Tags generic - health and housing barely scratch the surface of this safety and caregiving slice."
+    },
+    {
+      "sliceId": "2027-01-24-0055",
+      "focus_accurate": true,
+      "summary_accurate": false,
+      "tags_relevant": false,
+      "notes": "Focus accurate about work moving in a real way. Summary only captures 'it was both.' Tags generic. This is a major career milestone slice - title change and enforcement authority."
+    },
+    {
+      "sliceId": "2027-03-06-0915",
+      "focus_accurate": true,
+      "summary_accurate": false,
+      "tags_relevant": false,
+      "notes": "Focus accurate - caught off guard by new interest. Summary only captures 'both.' Tags generic and include work which is not relevant to this purely personal slice."
+    },
+    {
+      "sliceId": "2027-05-11-0705",
+      "focus_accurate": true,
+      "summary_accurate": false,
+      "tags_relevant": false,
+      "notes": "Focus accurate - work gave a moment where system hardens or slides back. Summary only mentions 'the delays were mostly upstream.' Tags generic, missing the form revision and authority test."
+    },
+    {
+      "sliceId": "2027-06-29-1205",
+      "focus_accurate": true,
+      "summary_accurate": false,
+      "tags_relevant": false,
+      "notes": "Focus accurate - deliberate action about being wound up. Summary only captures 'the first thing was honestly a little embarrassing.' Tags extremely sparse (only 3). Misses the counseling and stress pattern discovery entirely."
+    },
+    {
+      "sliceId": "2027-08-23-0135",
+      "focus_accurate": true,
+      "summary_accurate": false,
+      "tags_relevant": false,
+      "notes": "Focus accurate - shifted in a solid way. Summary only mentions 'the pattern held.' Tags sparse (only 3). Misses the memo, the calm phone, and the system validation milestone."
+    },
+    {
+      "sliceId": "2027-10-01-1145",
+      "focus_accurate": true,
+      "summary_accurate": false,
+      "tags_relevant": false,
+      "notes": "Focus accurate - much smaller update about dog possibility. Summary only captures 'yeah, exactly.' Tags generic with too many irrelevant categories (finance, education, health not central here)."
+    },
+    {
+      "sliceId": "2028-01-17-0325",
+      "focus_accurate": true,
+      "summary_accurate": false,
+      "tags_relevant": false,
+      "notes": "Focus accurate - work moved to maintaining controlled repository with legal. Summary only mentions 'resistance mostly showed up as people acting like old copies were harmless.' Tags generic and include relationship/leisure which are not relevant."
+    },
+    {
+      "sliceId": "2028-03-09-1030",
+      "focus_accurate": true,
+      "summary_accurate": false,
+      "tags_relevant": false,
+      "notes": "Focus accurate - not dramatic but feel it month to month. Summary only captures 'yeah, a mix is where we landed.' Tags generic. This is a careful budget recovery slice with specific financial decisions."
+    },
+    {
+      "sliceId": "2028-05-22-0640",
+      "focus_accurate": true,
+      "summary_accurate": false,
+      "tags_relevant": false,
+      "notes": "Focus accurate - work changed shape to training. Summary only captures 'what made it feel real was how specific I had to get.' Tags generic. Misses the documentation-for-durability milestone."
+    },
+    {
+      "sliceId": "2028-07-13-1320",
+      "focus_accurate": true,
+      "summary_accurate": false,
+      "tags_relevant": false,
+      "notes": "Focus accurate - ordinary thing that felt important. Summary only captures 'honestly, the pace is a lot of it.' Tags generic. A warm slice about small couple rituals that deserves specific tags."
+    },
+    {
+      "sliceId": "2028-09-18-0215",
+      "focus_accurate": true,
+      "summary_accurate": false,
+      "tags_relevant": false,
+      "notes": "Focus accurate - good shift instead of fire to put out. Summary only mentions 'honestly, the rush orders hit me hardest.' Tags extremely sparse (only 3). This is the capstone slice of the entire arc."
+    }
+  ]
+}

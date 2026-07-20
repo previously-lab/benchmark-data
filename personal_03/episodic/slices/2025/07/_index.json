@@ -3,20 +3,27 @@
   "slices": [
     {
       "id": "2025-07-08-2320",
-      "focus": "A lot has shifted lately, and one thing finally caught up with me in a way I cou",
-      "summary": "I tried to gut it out first, which is probably the least surprising part of this",
+      "focus": "Summer back flare forces physical therapy, demo rotation, and honest workload limits",
+      "summary": "After a hot week of conduit pulls and standing instruction, Derek's chronic lower-back injury flares sharper than ever, forcing him to start physical therapy and accept strict lifting limits. He realizes he can no longer physically perform every shop demonstration himself and designs a three-category plan (things he still does, things he coaches but does not perform, things he fully hands off). Erin and his mother had been warning him about overcommitting, and the flare validates their concerns. He commits to pacing field work and instruction separately rather than pretending they are interchangeable.",
       "tags": [
-        "work",
-        "family",
-        "health",
-        "travel",
-        "education",
-        "housing",
-        "goals"
+        "chronic-back-flare-up",
+        "physical-therapy-start",
+        "demo-rotation-planning",
+        "lifting-limits-enforcement",
+        "heat-and-conduit-work-trigger",
+        "erins-reality-check",
+        "workload-boundary-negotiation",
+        "do-coach-handoff-categoriesemotional_tone: neutral"
       ],
       "status": "closed",
       "start": "2025-07-08T23:20:00.000Z",
-      "open_loops": [],
+      "open_loops": [
+        "First physical therapy appointment and aligning the three-category list with therapist guidance",
+        "Implementing demo rotation where apprentices and other instructors handle physical examples",
+        "Tracking which activity combinations trigger sharp catch vs. plain soreness",
+        "Setting a hard rule about no automatic yes to physically demanding tasks on field+shop double days",
+        "Communicating the changed situation to colleagues using 'treatment plan' language"
+      ],
       "decisions": [
         "Derek's old lower-back problem escalated into a sharper summer flare after a hot week split between conduit pulls on a p"
       ]

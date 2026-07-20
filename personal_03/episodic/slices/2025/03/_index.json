@@ -3,20 +3,29 @@
   "slices": [
     {
       "id": "2025-03-12-1020",
-      "focus": "A lot has shifted at work since we last talked, and it finally turned into somet",
-      "summary": "What pushed it was that I stopped relying on what we think we see in the shop and started pulling ha",
+      "focus": "Safety reset moves from proposal to active pilot with evidence from contractor field notes",
+      "summary": "Derek's first-year safety reset transitions from a review into an active pilot program after he compiles contractor write-ups, attendance sheets, and field notes from Tasha Freeman that reveal consistent unsafe patterns. His proposal includes more ladder work, repeated lockout-tagout practice, and short weekly check-ins for at-risk apprentices. Ron Belski pushes back hard, calling the check-ins 'hand-holding,' but the evidence is strong enough that the pilot launches despite resistance. Derek wrestles with how to protect the core while letting the old guard save face.",
       "tags": [
-        "work",
-        "family",
-        "education",
-        "housing",
-        "goals"
+        "first-year-safety-pilot",
+        "evidence-driven-reform",
+        "contractor-field-notes",
+        "ron-belski-resistance",
+        "apprentice-check-in-system",
+        "intervention-vs-hand-holding-debate",
+        "ladder-and-lockout-drills",
+        "early-attention-interventionemotional_tone: neutral"
       ],
       "status": "closed",
       "start": "2025-03-12T10:20:00.000Z",
-      "open_loops": [],
+      "open_loops": [
+        "Defining success metrics for the pilot before critics define them",
+        "Writing trigger rules for the ten-minute intervention talks",
+        "Building an outcome tracking box for each intervention conversation",
+        "Managing the political tension around early-attention model",
+        "Balancing the pilot with ongoing journeyman field work"
+      ],
       "decisions": [
-        "Derek moved from informally reviewing first-year safety instruction to actively piloting a redesigned first-year safety "
+        "Derek moved from informally reviewing first-year safety instruction to actively piloting a redesigned first-year safety"
       ]
     }
   ]

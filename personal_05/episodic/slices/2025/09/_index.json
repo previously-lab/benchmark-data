@@ -3,20 +3,25 @@
   "slices": [
     {
       "id": "2025-09-14-1105",
-      "focus": "It has been a calmer stretch lately, which honestly feels strange in a good way.",
-      "summary": "Yeah, exactly, I am not suddenly becoming the guy with a scarf and a whole calendar built around the",
+      "focus": "Nathaniel unexpectedly enjoys a Columbus Crew match and shifts from indifferent to actively wanting one or two games per season.",
+      "summary": "Greg drags Nathaniel and Erin to a Columbus Crew match. Despite low expectations, Nathaniel genuinely enjoys the live atmosphere and shifts from 'fine if it's on' to wanting one or two matches per season on purpose. The outing becomes a symbol of regained mental margin.",
       "tags": [
-        "work",
-        "family",
-        "health",
-        "finance",
-        "relationship",
-        "leisure",
-        "goals"
+        "columbus-crew",
+        "live-soccer",
+        "greg-friendship",
+        "erin-outing",
+        "leisure-rediscovery",
+        "hobby-expansion",
+        "social-container",
+        "bounded-pleasureemotional_tone: neutral"
       ],
       "status": "closed",
       "start": "2025-09-14T11:05:00.000Z",
-      "open_loops": [],
+      "open_loops": [
+        "One more match this season not yet identified or ticketed",
+        "Check if fall schedule aligns for easy attendance",
+        "Revisit next year rather than overplanning"
+      ],
       "decisions": [
         "Nathaniel's sports preference shifted after finally attending a Columbus Crew match with Greg, and he now sees one or tw"
       ]

@@ -3,21 +3,25 @@
   "slices": [
     {
       "id": "2026-02-11-0145",
-      "focus": "Things have been busy since we last talked, but in a way that finally feels a li",
-      "summary": "One is still the basic museum visit, one is the neighborhood fire safety and object handling one I a",
+      "focus": "January trainings succeed and Colleen opens spring bookings with three defined packages, marking a clear step toward program stability.",
+      "summary": "January volunteer trainings go better than expected. Colleen now runs three school packages (basic museum visit, neighborhood fire safety, and a new city services/response package). Laminated station checklists reduce improvisation. Volunteer assignments are tightened to stations and handoffs. A real test run shows the structure holds without one star guide. Colleen feels 'more planted' than triumphant, seeing the program as less fragile than before.",
       "tags": [
-        "work",
-        "health",
-        "relationship",
-        "travel",
-        "education",
-        "housing",
-        "leisure",
-        "goals"
+        "three-package-program",
+        "january-training-success",
+        "laminated-checklists",
+        "volunteer-retraining",
+        "spring-bookings",
+        "steadier-foundation",
+        "operational-proof",
+        "city-services-packageemotional_tone: neutral"
       ],
       "status": "closed",
       "start": "2026-02-11T01:45:00.000Z",
-      "open_loops": [],
+      "open_loops": [
+        "Spring outreach materials need to lead with reliability, then new packages as proof",
+        "Document one successful run in detail as evidence",
+        "Let three packages be three packages -- resist tweaking everything at once"
+      ],
       "decisions": [
         "Colleen is now running a three-package school program at Fireman's Hall Museum, with retrained volunteers, laminated sta",
         "Colleen feels steadier because the volunteer retraining and three-package structure make the school program look less fr"

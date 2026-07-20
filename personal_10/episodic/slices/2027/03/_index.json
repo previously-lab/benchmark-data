@@ -3,20 +3,25 @@
   "slices": [
     {
       "id": "2027-03-27-0405",
-      "focus": "It has been a while since we chatted, and things have felt a little less like pu",
-      "summary": "It is both, honestly",
+      "focus": "Kelli and Travis reopen a Coast Trip sinking fund after the pickup is paid down and finances gain breathing room.",
+      "summary": "With the pickup paid further down and month-end feeling less pinched, Kelli and Travis reopen a small sinking fund labeled 'Coast Trip'. They set a two-number threshold (one to seriously price it, a higher one to book it, including a buffer). Kelli defines raid rules (only true necessities) and an automatic monthly transfer. The fund itself becomes a relief marker — evidence that the household has moved from chaotic to forecastable.",
       "tags": [
-        "work",
-        "family",
-        "finance",
-        "relationship",
-        "travel",
-        "goals",
-        "environment"
+        "coast-trip-sinking-fund",
+        "financial-breathing-room",
+        "travis-shared-planning",
+        "truck-paid-down",
+        "aspirational-budgeting",
+        "two-number-threshold",
+        "raid-rules",
+        "hopeful-budget-categoryemotional_tone: neutral"
       ],
       "status": "closed",
       "start": "2027-03-27T04:05:00.000Z",
-      "open_loops": [],
+      "open_loops": [
+        "Automatic transfer amount not yet set",
+        "Two-number thresholds not yet formally decided",
+        "Monthly budget check-in ritual not yet established"
+      ],
       "decisions": [
         "Kelli and Travis reopened a small sinking fund labeled Coast Trip after their finances regained a little breathing room."
       ]

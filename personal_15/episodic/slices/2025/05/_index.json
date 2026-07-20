@@ -3,21 +3,25 @@
   "slices": [
     {
       "id": "2025-05-07-1230",
-      "focus": "A lot has shifted lately, even though on the surface it probably looks like I'm ",
-      "summary": "Honestly, better than I expected",
+      "focus": "Family financial demands deplete bonus and force household budget reset.",
+      "summary": "Two family expenses hit at once (sister's academy term fees, parents' seafood stall shortfall), forcing Jae-hyun to use his entire bonus for support. He and Min-seo redo the budget together, agreeing on a money threshold rule, a capped family-help category, and a slow rebuild plan rather than trying to replace the bonus immediately.",
       "tags": [
-        "work",
-        "family",
-        "finance",
-        "relationship",
-        "education",
-        "housing",
-        "leisure",
-        "goals"
+        "family-financial-support",
+        "sisters-exam-fees",
+        "bonus-depleted",
+        "household-budget-crisis",
+        "min-seo-communication",
+        "money-threshold-rule",
+        "family-support-capemotional_tone: neutral"
       ],
       "status": "closed",
       "start": "2025-05-07T12:30:00.000Z",
-      "open_loops": [],
+      "open_loops": [
+        "Savings recovery timeline",
+        "Sister's upcoming exam costs",
+        "Mother's stall revenue stability",
+        "Long-term wedding loan payoff"
+      ],
       "decisions": [
         "His cash flow tightened again after another round of family support, delaying his savings plans despite earning about 56"
       ]

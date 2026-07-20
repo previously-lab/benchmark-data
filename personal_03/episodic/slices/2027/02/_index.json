@@ -3,17 +3,27 @@
   "slices": [
     {
       "id": "2027-02-26-0830",
-      "focus": "A lot has shifted lately, and I finally got the kind of work numbers I have been",
-      "summary": "Honestly, the biggest thing was that it was not just one little bright spot I could explain away",
+      "focus": "Longer-range retention numbers confirm the model; Derek transitions from inventor to steward",
+      "summary": "Derek gets the longer-range cohort comparison he has been waiting for: the first group through his revised orientation, check-ins, and safety labs shows measurably better retention not just in early weeks but persisting further along the pipeline. The evidence is strong enough that even skeptical colleagues have less room to dismiss it. He feels quiet pride rather than excitement, recognizing his role has shifted from building a pilot to maintaining and defending a proven system. He plans a one-page outcomes summary paired with a practical field guide for instructors.",
       "tags": [
-        "work",
-        "family",
-        "education",
-        "housing"
+        "longitudinal-retention-proof",
+        "apples-to-apples-cohort-comparison",
+        "steward-mode-transition",
+        "linked-essentials-framework",
+        "field-guide-for-instructors",
+        "contractor-feedback-alignment",
+        "quiet-pride-over-victory-lap",
+        "defending-against-program-erosionemotional_tone: neutral"
       ],
       "status": "closed",
       "start": "2027-02-26T08:30:00.000Z",
-      "open_loops": [],
+      "open_loops": [
+        "Writing a one-page outcomes summary for the evidence-minded audience",
+        "Creating a short field guide for instructors with non-negotiables",
+        "Testing the guide with one skeptical and one supportive reader",
+        "Framing non-negotiables as: early visibility, early correction, safer skill formation",
+        "Defining what can flex vs. what breaks the result"
+      ],
       "decisions": [
         "Derek's job has shifted from building a pilot and boot-camp feeder to maintaining and defending a proven first-year rete",
         "Derek feels more settled and quietly proud now that longer-range numbers confirm the support model he fought to keep ali"

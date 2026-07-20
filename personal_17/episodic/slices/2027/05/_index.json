@@ -3,20 +3,25 @@
   "slices": [
     {
       "id": "2027-05-18-0515",
-      "focus": "Things have been shifting again since we last talked, in a mostly good way, but ",
-      "summary": "The first thing was that I could tell where the growth is real and where I have just been telling my",
+      "focus": "A new annual tracker reveals which parts of the program are genuinely transferable and which still depend on Colleen personally.",
+      "summary": "Colleen replaces her catch-all booking sheet with a formal annual tracker that breaks down the year by season, school type, package, volunteer lead, and likely rebooking. The tracker confirms genuine seasonal spread but also exposes uncomfortable truths: one package still depends heavily on her because she handles all the transitions and pivots. She commits to creating an explicitly volunteer version of that package and using the tracker as an operational tool, not just a evidence collection device.",
       "tags": [
-        "work",
-        "travel",
-        "education",
-        "leisure",
-        "goals",
-        "environment",
-        "civic"
+        "annual-tracker",
+        "volunteer-dependency-exposed",
+        "data-honesty",
+        "program-analysis",
+        "package-uptake",
+        "person-dependent-visits",
+        "volunteer-version",
+        "operational-maturityemotional_tone: neutral"
       ],
       "status": "closed",
       "start": "2027-05-18T05:15:00.000Z",
-      "open_loops": [],
+      "open_loops": [
+        "Simplify the most dependent package before training volunteers on it",
+        "Draft a clearly labeled volunteer version with visible differences from full version",
+        "Define success behaviorally: fewer rescue interventions, more confident handoffs, higher share of visits led without her"
+      ],
       "decisions": [
         "Colleen replaced her old catch-all booking spreadsheet with a formal annual tracker for the museum's school program."
       ]

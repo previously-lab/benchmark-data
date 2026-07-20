@@ -3,19 +3,24 @@
   "slices": [
     {
       "id": "2026-07-10-1120",
-      "focus": "A lot has been shifting lately, and this week felt like one of those points wher",
-      "summary": "More the second one, honestly",
+      "focus": "Hard conversation leads to protecting one day monthly for the couple.",
+      "summary": "After months of canceled dinners and provisional evenings, Jae-hyun and Min-seo have an honest conversation during a short Tongyeong trip. They agree to protect one fully planned day together each month, put on the calendar first and defended against work spillover and family errands. Jae-hyun commits to a polite but firm boundary line with family: 'I can't do that that day, we already have plans.'",
       "tags": [
-        "work",
-        "family",
-        "relationship",
-        "travel",
-        "housing",
-        "goals"
+        "protected-monthly-day",
+        "tongyeong-trip",
+        "marriage-boundary",
+        "family-errand-boundary",
+        "quality-time",
+        "relationship-prioritization",
+        "shift-work-relationshipemotional_tone: neutral"
       ],
       "status": "closed",
       "start": "2026-07-10T11:20:00.000Z",
-      "open_loops": [],
+      "open_loops": [
+        "First protected day execution and follow-through",
+        "Family pushback on new boundaries",
+        "Maintaining the habit during peak seasons"
+      ],
       "decisions": [
         "He and his wife agreed to protect one fully planned day together each month despite his rotating dispatch shifts."
       ]

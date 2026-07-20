@@ -3,18 +3,21 @@
   "slices": [
     {
       "id": "2026-10-28-0345",
-      "focus": "A lot has shifted since we last talked, and work has finally moved out of pure r",
-      "summary": "Honestly, it was seeing the same pattern over and over once things got running again",
+      "focus": "Eric implements a stricter pantry-tier system that reserves the most fragile dairy and cut produce for partner sites with proven on-time unload performance, reducing warm holds and same-day reroutes but creating politically delicate partner-tier conversations.",
+      "summary": "Moving beyond recovery mode, Eric establishes a readiness-based tier system for fragile product allocation, reducing spoilage and reroutes but requiring careful communication about standards, improvement paths, and the operational rationale.",
       "tags": [
         "work",
         "relationship",
         "housing",
         "leisure",
-        "goals"
+        "goalsemotional_tone: neutral"
       ],
       "status": "closed",
       "start": "2026-10-28T03:45:00.000Z",
-      "open_loops": [],
+      "open_loops": [
+        "One-page readiness checklist for all partner sites not yet finalized",
+        "Internal operational snapshot (warm holds, reroutes) not yet shared with operations first"
+      ],
       "decisions": [
         "Eric moved from recovery planning into a stricter pantry-tier system that sends the most fragile dairy and cut produce o"
       ]

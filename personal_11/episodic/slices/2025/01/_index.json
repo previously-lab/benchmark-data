@@ -4,35 +4,49 @@
     {
       "id": "2025-01-08-1130",
       "focus": "I appreciate that you are taking the time.",
-      "summary": "My name is Monica Renee Halverson",
+      "summary": "Monica provides a comprehensive personal introduction covering her background as a 40-year-old Milwaukee housing code inspector, ISTJ personality, divorced co-parenting of daughter Leah (12), asthma management, finances ($86K/year), key relationships (Andre/Denise/Shawna), and her driving goal to cut repeat housing-code violations on Milwaukee's north side by 40 percent.",
       "tags": [
-        "work",
-        "family",
-        "health",
-        "finance",
-        "relationship",
-        "travel",
-        "education",
-        "housing"
+        "personal-introduction",
+        "housing-code-inspection-career",
+        "milwaukee-wisconsin-life",
+        "istj-personality-profile",
+        "single-mother-co-parenting",
+        "divorce-financial-recovery",
+        "asthma-health-management",
+        "public-service-motivationemotional_tone: neutral"
       ],
       "status": "closed",
       "start": "2025-01-08T11:30:00.000Z",
-      "open_loops": [],
+      "open_loops": [
+        "Monitor north-side rental corridor safety outcomes",
+        "Leah's evolving custody and school schedule",
+        "Divorce debt payoff progress",
+        "New supervisor role adjustment with team"
+      ],
       "decisions": []
     },
     {
       "id": "2025-01-28-0010",
       "focus": "A lot has shifted lately, and this week was the first time the new level of resp",
-      "summary": "I pulled Andre into a late afternoon file review before everybody scattered, because I wanted anothe",
+      "summary": "After a north-side fourplex case with a toddler displaced by mold and failed furnace, Monica shifts from treating supervision as a promotion to personally running a child-exposure and repeat-owner hazard board, debating cutoff rituals, trigger rules, and how to keep the board from becoming dependent on her alone.",
       "tags": [
-        "work",
-        "family",
-        "housing",
-        "leisure"
+        "child-exposure-hazard-board",
+        "repeat-offender-corridor-tracker",
+        "fourplex-crisis-turning-point",
+        "andre-pruitt-pattern-recognition",
+        "supervisory-role-transition",
+        "three-bullet-escalation-rule",
+        "team-dependency-balance",
+        "owner-history-notes-systememotional_tone: neutral"
       ],
       "status": "closed",
       "start": "2025-01-28T00:10:00.000Z",
-      "open_loops": [],
+      "open_loops": [
+        "Finalize hazard board trigger rules for child exposure cases",
+        "Define cutoff ritual to prevent board from following her home",
+        "Build owner-history note field into board",
+        "Decide whether to present board upward or prove it first"
+      ],
       "decisions": [
         "Monica shifted from newly promoted frontline supervisor to personally running a north-side hazard board for child-exposu",
         "Monica became more keyed up after the fourplex case, feeling sharper urgency and responsibility because dangerous files "

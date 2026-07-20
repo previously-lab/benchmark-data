@@ -3,21 +3,25 @@
   "slices": [
     {
       "id": "2027-03-02-0955",
-      "focus": "A lot has been shifting lately, and one thing that surprised me is that I had a ",
-      "summary": "He stopped doing the whole, \"you're killing yourself for nothing,\" routine for a minute",
+      "focus": "A breakthrough conversation with Colleen's father Michael shifts from skeptical grumbling to asking what progress looks like.",
+      "summary": "After Owen's basketball game, over cheesesteaks, Colleen tells her father Michael plainly that she is not planning to leave the museum just because the work is hard and pay is modest. For the first time, he stops the 'you're killing yourself for nothing' routine and asks what success looks like. She answers with concrete markers (durability, others carrying the work, institutional shape). The conversation shifts from blanket warnings to milestone questions. Colleen feels less pitied and more taken seriously.",
       "tags": [
-        "work",
-        "family",
-        "finance",
-        "relationship",
-        "education",
-        "housing",
-        "leisure",
-        "goals"
+        "father-breakthrough",
+        "family-understanding",
+        "milestone-conversation",
+        "career-commitment",
+        "nonprofit-validation",
+        "defensiveness-release",
+        "ordinary-setting",
+        "cheesesteak-talkemotional_tone: neutral"
       ],
       "status": "closed",
       "start": "2027-03-02T09:55:00.000Z",
-      "open_loops": [],
+      "open_loops": [
+        "Keep a short answer ready for future check-ins: 'I'm watching whether the program keeps getting stronger and steadier'",
+        "Let the new pattern prove itself through repetition, overexplain nothing",
+        "Continue leading with durability markers, not salary defense"
+      ],
       "decisions": [
         "After that conversation, Michael shifted from skeptical grumbling about low museum pay to asking what concrete success i"
       ]

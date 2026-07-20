@@ -3,19 +3,25 @@
   "slices": [
     {
       "id": "2025-06-16-1050",
-      "focus": "Things have been shifting at work since we last talked, and it feels like one of",
-      "summary": "Yes, that is exactly what it feels like, half compliment and half trap",
+      "focus": "The pilot's success (fewer shouted questions) leads management to request a cross-team briefing and a written terminal memo codifying notice and cargo steps.",
+      "summary": "Ayaka's rough-weather pilot reduces counter confusion enough that management asks her to brief supervisors from both passenger operations and cargo handling. She drafts a one-page chain-of-action memo with a shared trigger (sailing decision changes), a table of owner + expected response time, and a minimal backup rule. She worries about becoming the default owner of every weather disruption.",
       "tags": [
-        "work",
-        "health",
-        "education",
-        "housing",
-        "goals",
-        "environment"
+        "pilot-expansion",
+        "cross-team-briefing",
+        "terminal-memo",
+        "ownership-clarity",
+        "shared-trigger",
+        "decision-chain",
+        "ad-hoc-handoffs",
+        "institutional-momentumemotional_tone: neutral"
       ],
       "status": "closed",
       "start": "2025-06-16T10:50:00.000Z",
-      "open_loops": [],
+      "open_loops": [
+        "Memo may not survive contact with rushed supervisors",
+        "Risk of becoming the default organizer for every disruption",
+        "Shared trigger depends on everyone receiving the same signal simultaneously"
+      ],
       "decisions": [
         "Ayaka's limited bad-weather pilot was expanded into a cross-team memo effort, making her the de facto organizer for disr"
       ]

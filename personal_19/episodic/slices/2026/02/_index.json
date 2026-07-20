@@ -3,20 +3,25 @@
   "slices": [
     {
       "id": "2026-02-22-1205",
-      "focus": "Things have been a little crowded lately, not in a dramatic way, just in that an",
-      "summary": "Yes, exactly, it was that safety-margin feeling",
+      "focus": "An unplanned washing-machine replacement and winter supplies for grandparents expose how thin Ayaka's savings cushion has become, forcing an honest budget reset.",
+      "summary": "Multiple practical expenses (washing machine replacement, winter supplies for grandparents) hit simultaneously, revealing Ayaka's savings buffer is much thinner than she believed. She designs a budget with a monthly cap on convenience spending, a separate home-maintenance reserve, and family support treated as a protected flexible-range category. She commits to a three-month recovery pace rather than aggressive austerity.",
       "tags": [
-        "work",
-        "family",
-        "health",
-        "finance",
-        "travel",
-        "housing",
-        "goals"
+        "washing-machine-failure",
+        "budget-crunch",
+        "savings-exposure",
+        "grandparent-support",
+        "convenience-spending",
+        "home-reserve",
+        "financial-honesty",
+        "three-month-planemotional_tone: neutral"
       ],
       "status": "closed",
       "start": "2026-02-22T12:05:00.000Z",
-      "open_loops": [],
+      "open_loops": [
+        "Three-month recovery plan could be derailed by another large unexpected expense",
+        "Family support as a flexible-range category may still squeeze other spending",
+        "One broken appliance felt catastrophic — next one may too"
+      ],
       "decisions": [
         "Ayaka's savings are now noticeably tighter after replacing a failing washing machine in her company apartment and sendin"
       ]

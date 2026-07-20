@@ -3,18 +3,26 @@
   "slices": [
     {
       "id": "2025-10-22-0925",
-      "focus": "A lot has shifted again since we last talked, and this time it is work in a way ",
-      "summary": "That is exactly why I am so wound up about it",
+      "focus": "A rushed practice-management software transition piles onto Kelli's denial work; her testing warnings are overruled.",
+      "summary": "A rushed practice-management software transition is piled on top of Kelli's denial work. She pushes for payer-rule testing and parallel claim checks before go-live, but leadership compresses the timeline anyway. She is assigned the old-to-new queue mapping with barely enough training time. She plans a risk note split into three categories (build, workflow, payer-rule) and starts an issue log to track conversion defects.",
       "tags": [
-        "work",
-        "health",
-        "housing",
-        "leisure",
-        "goals"
+        "rushed-software-transition",
+        "payer-rule-testing-deferred",
+        "queue-mapping-risk",
+        "monica-wren-ally",
+        "workload-scope-creep",
+        "claim-issue-log",
+        "vendor-risk-documentation",
+        "parallel-claim-checks-deniedemotional_tone: neutral"
       ],
       "status": "closed",
       "start": "2025-10-22T09:25:00.000Z",
-      "open_loops": [],
+      "open_loops": [
+        "Risk note draft not yet completed",
+        "Post-go-live manual monitoring plan not yet approved",
+        "Conversion task log (separate from denial work) not yet started",
+        "Scope change communication to leadership not yet sent"
+      ],
       "decisions": [
         "Kelli is still revenue-cycle lead, but the rushed practice-management software transition added system-mapping and conve"
       ]

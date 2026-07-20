@@ -3,20 +3,25 @@
   "slices": [
     {
       "id": "2026-07-03-1410",
-      "focus": "A lot has shifted lately, in a good way for once. The biggest thing is that Tom ",
-      "summary": "Probably the bit after, if I am honest",
+      "focus": "Saira and Tom get married in a small Leeds registry-office ceremony",
+      "summary": "Saira and Tom marry in a small registry-office ceremony followed by a family meal with homemade cake. Saira feels relief more than excitement, realizing the simple version suited them better. She plans to pack away wedding bits, keep one honest photo, and enjoy ordinary life as a married couple.",
       "tags": [
-        "work",
-        "family",
-        "finance",
-        "relationship",
-        "housing",
-        "leisure",
-        "goals"
+        "wedding-day",
+        "registry-ceremony",
+        "family-meal",
+        "homemade-cake",
+        "relief-over-spectacle",
+        "shared-decision",
+        "meaning-survived-trimming",
+        "ordinary-settlingemotional_tone: neutral"
       ],
       "status": "closed",
       "start": "2026-07-03T14:10:00.000Z",
-      "open_loops": [],
+      "open_loops": [
+        "Wedding bits need to be packed into one box",
+        "One photo to print needs to be selected",
+        "Need to resist turning relief into a fresh burden"
+      ],
       "decisions": [
         "Saira and Tom got married in a small Leeds registry-office ceremony."
       ]

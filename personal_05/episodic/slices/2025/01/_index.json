@@ -3,42 +3,53 @@
   "slices": [
     {
       "id": "2025-01-06-0030",
-      "focus": "I appreciate that you are taking the time.",
-      "summary": "My name is Nathaniel James Hollis",
+      "focus": "Self-introduction and life setup with personal background, goals, and relationships.",
+      "summary": "Nathaniel introduces himself: a 39-year-old senior transit scheduling analyst at COTA in Columbus, ISTJ personality, partnered with Erin, hosting cousin Darius. Life goal is transit reliability reform on two bus corridors.",
       "tags": [
-        "work",
-        "family",
-        "health",
-        "finance",
-        "relationship",
-        "travel",
-        "education",
-        "housing"
+        "self-introduction",
+        "personal-background",
+        "cota",
+        "transit-scheduling",
+        "columbus-ohio",
+        "health-concerns",
+        "family-obligations",
+        "istj-personalityemotional_tone: neutral"
       ],
       "status": "closed",
       "start": "2025-01-06T00:30:00.000Z",
-      "open_loops": [],
+      "open_loops": [
+        "Cousin Darius housing situation unresolved",
+        "Blood pressure monitoring and weight management ongoing",
+        "Career transition from dispatch to operations planning still early",
+        "Down payment savings lagging due to family support obligations"
+      ],
       "decisions": []
     },
     {
       "id": "2025-01-28-0840",
-      "focus": "A lot has shifted lately, and work especially has gotten more intense in a hurry",
-      "summary": "Honestly, all three",
+      "focus": "Work shift: Nathaniel assigned to build formal lateness diagnostic for two east-west commuter corridors after complaint spike.",
+      "summary": "Nathaniel is assigned to build a formal lateness and missed-trip diagnostic for two chronically late corridors, shifting from reactive dispatch to visible operations planning. He feels the weight of scrutiny and home strain simultaneously.",
       "tags": [
-        "work",
-        "health",
-        "travel",
-        "education",
-        "housing",
-        "leisure",
-        "goals"
+        "cota",
+        "corridor-diagnostic",
+        "transit-reliability",
+        "operations-planning",
+        "monica-mentorship",
+        "greg-field-advice",
+        "work-pressure",
+        "home-strainemotional_tone: neutral"
       ],
       "status": "closed",
       "start": "2025-01-28T08:40:00.000Z",
-      "open_loops": [],
+      "open_loops": [
+        "Cousin Darius still living on couch, no end date",
+        "Corridor diagnostic not yet presented to leadership",
+        "Monica sanity-check not yet scheduled",
+        "Capture page for stray work thoughts not yet set up"
+      ],
       "decisions": [
         "After a January complaint spike and a tense operations review, Nathaniel was assigned to build a formal lateness and mis",
-        "Nathaniel sees the corridor diagnostic as a narrow chance to fix upstream scheduling problems rather than only reacting "
+        "Nathaniel sees the corridor diagnostic as a narrow chance to fix upstream scheduling problems rather than only reacting"
       ]
     }
   ]

@@ -3,18 +3,22 @@
   "slices": [
     {
       "id": "2027-05-08-0520",
-      "focus": "A lot has been shifting lately, and one thing finally clicked at work in a way t",
-      "summary": "Honestly, the harder part was getting enough people to believe a fixed pattern would be fair, becaus",
+      "focus": "Eric moves the cold-chain effort from reporting into a scheduled-lane phase with fixed weekly perishables routes for the most reliable partner pantries, built collaboratively with Samuel and pantry managers to ensure field reality shapes the standard.",
+      "summary": "The cold-chain system matures from evidence-based reporting into scheduled weekly lanes for the strongest partner sites, with Samuel co-designing the structure, a readiness ladder for site advancement, and explicit exception triggers.",
       "tags": [
         "work",
         "relationship",
         "housing",
         "goals",
-        "environment"
+        "environmentemotional_tone: neutral"
       ],
       "status": "closed",
       "start": "2027-05-08T05:20:00.000Z",
-      "open_loops": [],
+      "open_loops": [
+        "One-page lane rule set and exception triggers not yet finalized",
+        "Readiness ladder for non-lane partners not yet documented",
+        "Whether the structure will hold under summer pressure and staffing changes"
+      ],
       "decisions": [
         "Eric moved the cold-chain effort from dashboard reporting into a scheduled-lane phase with fixed weekly perishables rout"
       ]

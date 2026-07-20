@@ -1,0 +1,218 @@
+{
+  "personaId": "personal_02",
+  "reviewedAt": "2026-07-20T12:00:00.000Z",
+  "model": "claude-sonnet-4-20250514",
+  "overallNotes": "Lucia Elena Montoya's arc spans over 3.5 years (Jan 2025 - Sep 2028) and is one of the most complete and satisfying persona trajectories in this dataset. She begins as a 37-year-old senior court interpreter in Albuquerque, ISTJ, duty-driven and conflict-averse but principled, with a clear five-year civic reform goal. Over the arc she builds a multi-layer Spanish-language interpreter coverage system from scratch — from handwritten incident logs to dashboard metrics, a training cohort, competency sign-offs, and finally standard operations with succession planning. Parallel arcs track her health (migraine prevention, telehealth counseling), marriage (Sunday planning board, couples counseling), father's aging (falls, cross-town moves, senior apartment), financial strain (home repair debt), and personal life (basketball with dad, soup lists, 1990s Latin pop, older-cat adoption idea with Daniel, short Santa Fe trips). The writing is excellent — consistent voice, earned emotional beats, no melodrama. KEY DATA QUALITY ISSUES: (1) All summaries are quote fragments (first words of a user turn) rather than actual summaries. (2) All focus fields are truncated mid-sentence with trailing ellipsis. (3) Tags are generic (work/family/health) with no specificity. (4) Emotional tone marked 'neutral' for every slice when many are clearly mixed, positive, or negative. (5) open_loops field entirely absent from all slices. (6) decisions are sometimes good but sometimes too verbose or vague.",
+  "issues": [
+    {
+      "sliceId": "2025-01-06-0010",
+      "focus_accurate": false,
+      "summary_accurate": false,
+      "tags_relevant": false,
+      "notes": "Focus is too vague ('nice to start using a tool') and misses that this is a comprehensive life intake. Summary is just the first 3 words of Turn 3 — completely inadequate."
+    },
+    {
+      "sliceId": "2025-01-22-0940",
+      "focus_accurate": false,
+      "summary_accurate": false,
+      "tags_relevant": false,
+      "notes": "Focus truncated. Summary is just a conversational fragment, not an actual summary. The slice has a clear narrative arc — crisis → permission → strategy."
+    },
+    {
+      "sliceId": "2025-02-09-0720",
+      "focus_accurate": false,
+      "summary_accurate": false,
+      "tags_relevant": false,
+      "notes": "Focus truncated. Summary is a conversational fragment. The slice has a warm, reflective tone about a simple but meaningful change."
+    },
+    {
+      "sliceId": "2025-03-03-1005",
+      "focus_accurate": false,
+      "summary_accurate": false,
+      "tags_relevant": false,
+      "notes": "Focus truncated. Summary is a conversational fragment. Significant work milestone achieved — this is a turning point slice."
+    },
+    {
+      "sliceId": "2025-03-24-1210",
+      "focus_accurate": false,
+      "summary_accurate": false,
+      "tags_relevant": false,
+      "notes": "Focus truncated. Summary is a conversational fragment. Strong slice for relationship arc — shows proactive problem-solving rather than avoidance."
+    },
+    {
+      "sliceId": "2025-04-11-0845",
+      "focus_accurate": false,
+      "summary_accurate": false,
+      "tags_relevant": false,
+      "notes": "Focus truncated. Summary is a conversational fragment. Important structural step — moves from timing fix to capacity building."
+    },
+    {
+      "sliceId": "2025-05-02-0430",
+      "focus_accurate": false,
+      "summary_accurate": false,
+      "tags_relevant": false,
+      "notes": "Focus truncated. Summary is a quote fragment. Critical health wake-up call slice. Emotional tone is clearly mixed — scared and determined, not neutral."
+    },
+    {
+      "sliceId": "2025-06-18-1025",
+      "focus_accurate": false,
+      "summary_accurate": false,
+      "tags_relevant": false,
+      "notes": "Focus truncated. Summary is a quote fragment. Another structural milestone — the dashboard becomes a recurring institutional artifact."
+    },
+    {
+      "sliceId": "2025-07-07-1105",
+      "focus_accurate": false,
+      "summary_accurate": false,
+      "tags_relevant": false,
+      "notes": "Focus truncated. Summary is a quote fragment. Good slice showing financial resilience and joint decision-making under unexpected pressure."
+    },
+    {
+      "sliceId": "2025-08-14-0915",
+      "focus_accurate": false,
+      "summary_accurate": false,
+      "tags_relevant": false,
+      "notes": "Focus truncated. Summary cut off mid-sentence. Major structural milestone — the training pipeline becomes real."
+    },
+    {
+      "sliceId": "2025-09-01-0610",
+      "focus_accurate": false,
+      "summary_accurate": false,
+      "tags_relevant": false,
+      "notes": "Focus truncated. Summary cut off mid-sentence. Good personal-life slice showing how steadier periods enable different habits."
+    },
+    {
+      "sliceId": "2025-10-03-0855",
+      "focus_accurate": false,
+      "summary_accurate": false,
+      "tags_relevant": false,
+      "notes": "Focus truncated. Summary cut off mid-sentence. This is the low point of the work arc — emotional tone is clearly negative/demoralized, not neutral."
+    },
+    {
+      "sliceId": "2025-10-26-0350",
+      "focus_accurate": false,
+      "summary_accurate": false,
+      "tags_relevant": false,
+      "notes": "Focus truncated. Summary is a quote fragment. Quiet but meaningful slice about building small supports during a heavy period."
+    },
+    {
+      "sliceId": "2025-11-19-1020",
+      "focus_accurate": false,
+      "summary_accurate": false,
+      "tags_relevant": false,
+      "notes": "Focus truncated. Summary is a quote fragment. Key resilience moment — shows strategic adaptation rather than collapse after setback."
+    },
+    {
+      "sliceId": "2025-12-21-0835",
+      "focus_accurate": false,
+      "summary_accurate": false,
+      "tags_relevant": false,
+      "notes": "Focus truncated. Summary is a quote fragment. Major eldercare transition — from ad hoc to structured oversight."
+    },
+    {
+      "sliceId": "2026-01-28-0905",
+      "focus_accurate": false,
+      "summary_accurate": false,
+      "tags_relevant": false,
+      "notes": "Focus truncated. Summary is a quote fragment. First concrete evidence that the redesigned pipeline works — major morale milestone."
+    },
+    {
+      "sliceId": "2026-03-06-1200",
+      "focus_accurate": false,
+      "summary_accurate": false,
+      "tags_relevant": false,
+      "notes": "Focus truncated. Summary is a quote fragment. Lovely personal slice — shows Lucia's capacity for tenderness and forward-looking warmth."
+    },
+    {
+      "sliceId": "2026-04-18-0525",
+      "focus_accurate": false,
+      "summary_accurate": false,
+      "tags_relevant": false,
+      "notes": "Focus truncated. Summary is a quote fragment. Major institutional win — from pilot to standing process."
+    },
+    {
+      "sliceId": "2026-05-26-2350",
+      "focus_accurate": false,
+      "summary_accurate": false,
+      "tags_relevant": false,
+      "notes": "Focus truncated. Summary is a quote fragment. Important mental health inflection point — practical, not dramatic."
+    },
+    {
+      "sliceId": "2026-07-15-0840",
+      "focus_accurate": false,
+      "summary_accurate": false,
+      "tags_relevant": false,
+      "notes": "Focus truncated. Summary is a quote fragment. A measured win — progress through evidence accumulation rather than confrontation."
+    },
+    {
+      "sliceId": "2026-08-22-1055",
+      "focus_accurate": false,
+      "summary_accurate": false,
+      "tags_relevant": false,
+      "notes": "Focus truncated. Summary is a quote fragment. Emotional homecoming slice — the relief of a physical space finally feeling like home again."
+    },
+    {
+      "sliceId": "2026-10-04-0715",
+      "focus_accurate": false,
+      "summary_accurate": false,
+      "tags_relevant": false,
+      "notes": "Focus truncated. Summary cut off mid-sentence. Major infrastructure step — making institutional knowledge portable."
+    },
+    {
+      "sliceId": "2026-11-13-1310",
+      "focus_accurate": false,
+      "summary_accurate": false,
+      "tags_relevant": false,
+      "notes": "Focus truncated. Summary is a quote fragment. Lovely personal slice — small domestic joy leading to genuine behavioral shift."
+    },
+    {
+      "sliceId": "2027-01-24-0935",
+      "focus_accurate": false,
+      "summary_accurate": false,
+      "tags_relevant": false,
+      "notes": "Focus truncated. Summary is a quote fragment. Major validation point — the system passes its first real stress test."
+    },
+    {
+      "sliceId": "2027-03-09-0405",
+      "focus_accurate": false,
+      "summary_accurate": false,
+      "tags_relevant": false,
+      "notes": "Focus truncated. Summary cut off mid-sentence. Important relationship slice — proactive help-seeking rather than crisis."
+    },
+    {
+      "sliceId": "2027-05-30-0820",
+      "focus_accurate": false,
+      "summary_accurate": false,
+      "tags_relevant": false,
+      "notes": "Focus truncated. Summary is a quote fragment. Another structural milestone — the pipeline becomes a documented, reproducible process."
+    },
+    {
+      "sliceId": "2027-07-16-0230",
+      "focus_accurate": false,
+      "summary_accurate": false,
+      "tags_relevant": false,
+      "notes": "Focus truncated. Summary cut off mid-sentence. Lovely reframing slice — learning to accept 'enough' rather than chasing ideal conditions."
+    },
+    {
+      "sliceId": "2027-10-12-0950",
+      "focus_accurate": false,
+      "summary_accurate": false,
+      "tags_relevant": false,
+      "notes": "Focus truncated. Summary is a quote fragment. THE culminating milestone — the dream from Slice 1 (97%+ coverage) realized as standard operations. This is the peak of the work arc."
+    },
+    {
+      "sliceId": "2028-02-18-1045",
+      "focus_accurate": false,
+      "summary_accurate": false,
+      "tags_relevant": false,
+      "notes": "Focus truncated. Summary is a quote fragment. Major life transition — the eldercare arc reaches a new stage with proximity replacing cross-town scrambling."
+    },
+    {
+      "sliceId": "2028-09-06-0810",
+      "focus_accurate": false,
+      "summary_accurate": false,
+      "tags_relevant": false,
+      "notes": "Focus truncated. Summary is a quote fragment. The final slice — shows the arc completing as the system outlasts Lucia's daily improvising. The bittersweet feeling of becoming less indispensable is handled beautifully."
+    }
+  ]
+}

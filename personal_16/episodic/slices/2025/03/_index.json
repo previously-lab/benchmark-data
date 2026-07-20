@@ -3,39 +3,51 @@
   "slices": [
     {
       "id": "2025-03-03-1120",
-      "focus": "A lot has shifted at work since we last talked, and it has finally moved from me",
-      "summary": "Honestly, the people side",
+      "focus": "The dispensing overhaul moves from review to active pilot with Peter's approval",
+      "summary": "Saira turns six weeks of evidence (delay notes, photos, timestamps) into a live pilot: splitting repeat prescriptions from acute walk-ins, relabeling back-room sections, and installing a midday prep board. She develops staff and patient scripts and defines three pilot measures.",
       "tags": [
-        "work",
-        "education",
-        "housing",
-        "leisure",
-        "goals",
-        "environment"
+        "dispensing-pilot-launch",
+        "repeat-walkin-separation",
+        "team-pushback",
+        "evidence-based-change",
+        "pilot-metrics",
+        "peter-approval",
+        "workflow-redesign",
+        "operations-leademotional_tone: neutral"
       ],
       "status": "closed",
       "start": "2025-03-03T11:20:00.000Z",
-      "open_loops": [],
+      "open_loops": [
+        "Amelia's resistance to perceived slowdown needs ongoing management",
+        "Staff may bypass the staging board when busy",
+        "Pilot success criteria not yet formally defined with Peter",
+        "First messy week could trigger abandonment of the trial"
+      ],
       "decisions": [
         "Saira moved from reviewing dispensing flow problems to actively piloting a new workflow at Westgate Pharmacy with separa"
       ]
     },
     {
       "id": "2025-03-29-0330",
-      "focus": "A lot has shifted lately, and home has been the bit that finally forced a decisi",
-      "summary": "Yes, exactly, it was not really about paint",
+      "focus": "Wedding postponed to next year after a renovation argument reveals unrealistic timelines",
+      "summary": "After another argument about budget, dust, and timelines, Saira and Tom mutually agree to postpone their wedding into next year. They establish a stricter rule about booking and spending decisions together, and plan weekly budget check-ins with three headings.",
       "tags": [
-        "work",
-        "family",
-        "finance",
-        "relationship",
-        "housing",
-        "leisure",
-        "goals"
+        "wedding-postponed",
+        "renovation-stress",
+        "relationship-friction",
+        "budget-conflict",
+        "financial-boundaries",
+        "shared-decision-making",
+        "check-in-routine",
+        "realistic-planningemotional_tone: neutral"
       ],
       "status": "closed",
       "start": "2025-03-29T03:30:00.000Z",
-      "open_loops": [],
+      "open_loops": [
+        "Reassessment month for wedding date needs to be set",
+        "House livable threshold (kitchen usable, bedroom calm, front room clear) not yet achieved",
+        "Saira needs to practice flagging vague plans earlier with Tom"
+      ],
       "decisions": [
         "Saira and Tom mutually postponed their wedding into next year after another renovation-related argument."
       ]

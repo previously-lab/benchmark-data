@@ -4,17 +4,25 @@
     {
       "id": "2025-05-06-0105",
       "focus": "A lot has been shifting lately, and one work thing finally moved in a real way. ",
-      "summary": "I definitely had to push",
+      "summary": "Monica wins formal approval for weekly protected reinspection slots for high-risk repeat-offender cases in her two north-side corridors after presenting a marked-up packet showing timing gaps; she now focuses on building a cheat sheet, cover page, and tracking system to prevent slot drift.",
       "tags": [
-        "work",
-        "family",
-        "health",
-        "education",
-        "goals"
+        "protected-reinspection-slots",
+        "repeat-offender-heat-map",
+        "operations-meeting-win",
+        "ten-business-day-follow-up",
+        "eligibility-rule-cheat-sheet",
+        "one-page-cover-sheet",
+        "evidence-based-advocacy",
+        "pilot-to-formal-policyemotional_tone: neutral"
       ],
       "status": "closed",
       "start": "2025-05-06T01:05:00.000Z",
-      "open_loops": [],
+      "open_loops": [
+        "Write eligibility cheat sheet for inspectors",
+        "Build standard cover page for protected-slot files",
+        "Track slot usage and displacement rate",
+        "Hold team huddle to calibrate rollout"
+      ],
       "decisions": [
         "Monica's pilot on earlier reinspections became formal policy for her two north-side corridors, with protected weekly slo"
       ]
@@ -22,17 +30,24 @@
     {
       "id": "2025-05-24-1310",
       "focus": "A lot has shifted lately, not in some dramatic movie way, just enough that it fe",
-      "summary": "He is easy to be around, for one thing",
+      "summary": "Monica transitions from casual dates to a cautious new relationship with Colin Mercer, a civil engineer in Bay View; she navigates pacing, custody-calendar organizing, disclosure to Shawna, and the challenge of naming something real without accelerating it beyond what her life can hold.",
       "tags": [
-        "family",
-        "relationship",
-        "education",
-        "housing",
-        "goals"
+        "colin-mercer-relationship",
+        "cautious-dating-approach",
+        "custody-calendar-dating",
+        "bay-view-civil-engineer",
+        "definition-not-acceleration",
+        "shawna-brooks-first-disclosure",
+        "trust-and-steadiness-values",
+        "slow-pace-self-acceptanceemotional_tone: neutral"
       ],
       "status": "closed",
       "start": "2025-05-24T13:10:00.000Z",
-      "open_loops": [],
+      "open_loops": [
+        "Decide when/how to introduce Colin to Leah",
+        "Monitor consistency between Colin's actions and words",
+        "Protect dating pace from external pressure"
+      ],
       "decisions": [
         "Monica is now in a cautious new relationship with Colin Mercer and is moving slowly because her custody schedule and tru",
         "Colin Mercer is a Bay View civil engineer Monica met through a friend's patio gathering."

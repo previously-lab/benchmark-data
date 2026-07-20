@@ -1,192 +1,542 @@
 {
-  "work": [
-    "2025/01/08/0030",
-    "2025/02/03/0840",
-    "2025/02/22/1110",
-    "2025/03/18/0725",
-    "2025/04/06/0350",
-    "2025/04/29/0935",
-    "2025/05/17/0520",
-    "2025/06/11/0215",
-    "2025/06/28/1205",
-    "2025/07/22/0630",
-    "2025/08/09/0140",
-    "2025/09/03/0855",
-    "2025/10/12/1020",
-    "2025/11/20/0610",
-    "2025/12/14/0830",
-    "2026/01/21/0105",
-    "2026/02/27/1240",
-    "2026/03/24/0535",
-    "2026/05/02/0055",
-    "2026/06/16/0320",
-    "2026/07/30/1015",
-    "2026/09/07/0745",
-    "2026/10/21/2325",
-    "2026/12/08/0405",
-    "2027/01/29/0700",
-    "2027/03/13/0230",
-    "2027/06/04/1310",
-    "2027/09/19/0650",
-    "2028/02/11/1005",
-    "2028/10/24/0515"
+  "personal-introduction": [
+    "2025/01/08/0030"
   ],
-  "family": [
-    "2025/01/08/0030",
-    "2025/02/22/1110",
-    "2025/08/09/0140",
-    "2025/09/03/0855",
-    "2025/10/12/1020",
-    "2026/02/27/1240",
-    "2026/05/02/0055",
-    "2026/06/16/0320",
-    "2026/07/30/1015",
-    "2027/01/29/0700",
-    "2027/06/04/1310",
-    "2028/02/11/1005"
+  "biography-and-background": [
+    "2025/01/08/0030"
   ],
-  "health": [
-    "2025/01/08/0030",
-    "2025/04/06/0350",
-    "2025/05/17/0520",
-    "2025/08/09/0140",
-    "2026/05/02/0055",
-    "2026/10/21/2325",
-    "2027/01/29/0700",
-    "2027/06/04/1310",
-    "2028/10/24/0515"
+  "istj-personality-temperament": [
+    "2025/01/08/0030"
   ],
-  "finance": [
-    "2025/01/08/0030",
-    "2025/02/03/0840",
-    "2025/02/22/1110",
-    "2025/03/18/0725",
-    "2025/06/28/1205",
-    "2025/08/09/0140",
-    "2025/10/12/1020",
-    "2025/12/14/0830",
-    "2026/07/30/1015",
-    "2027/01/29/0700",
-    "2027/06/04/1310"
+  "phoenix-arizona-living": [
+    "2025/01/08/0030"
   ],
-  "travel": [
-    "2025/01/08/0030",
-    "2025/04/06/0350",
-    "2025/06/11/0215",
-    "2026/01/21/0105",
-    "2026/03/24/0535",
-    "2026/07/30/1015",
-    "2027/03/13/0230",
-    "2027/06/04/1310"
+  "single-mother-to-mateo": [
+    "2025/01/08/0030"
   ],
-  "education": [
-    "2025/01/08/0030",
-    "2025/02/03/0840",
-    "2025/02/22/1110",
-    "2025/04/06/0350",
-    "2025/04/29/0935",
-    "2025/06/11/0215",
-    "2025/06/28/1205",
-    "2025/07/22/0630",
-    "2025/08/09/0140",
-    "2025/09/03/0855",
-    "2025/10/12/1020",
-    "2025/12/14/0830",
-    "2026/01/21/0105",
-    "2026/02/27/1240",
-    "2026/03/24/0535",
-    "2026/05/02/0055",
-    "2026/07/30/1015",
-    "2026/09/07/0745",
-    "2026/12/08/0405",
-    "2027/01/29/0700",
-    "2027/03/13/0230",
-    "2028/02/11/1005",
-    "2028/10/24/0515"
+  "school-nutrition-logistics-roleemotional_tone: \"positive\"": [
+    "2025/01/08/0030"
   ],
-  "housing": [
-    "2025/01/08/0030",
-    "2025/02/03/0840",
-    "2025/02/22/1110",
-    "2025/04/06/0350",
-    "2025/04/29/0935",
-    "2025/05/17/0520",
-    "2025/07/22/0630",
-    "2025/09/03/0855",
-    "2025/10/12/1020",
-    "2025/11/20/0610",
-    "2025/12/14/0830",
-    "2026/01/21/0105",
-    "2026/03/24/0535",
-    "2026/05/02/0055",
-    "2026/06/16/0320",
-    "2026/09/07/0745",
-    "2026/10/21/2325",
-    "2026/12/08/0405",
-    "2027/01/29/0700",
-    "2027/03/13/0230",
-    "2028/02/11/1005",
-    "2028/10/24/0515"
+  "vendor-delivery-failure": [
+    "2025/02/03/0840"
   ],
-  "leisure": [
-    "2025/01/08/0030",
-    "2025/02/22/1110",
-    "2025/03/18/0725",
-    "2025/04/06/0350",
-    "2025/05/17/0520",
-    "2025/07/22/0630",
-    "2025/08/09/0140",
-    "2025/10/12/1020",
-    "2025/11/20/0610",
-    "2026/02/27/1240",
-    "2026/06/16/0320",
-    "2026/07/30/1015",
-    "2026/09/07/0745",
-    "2026/12/08/0405",
-    "2028/10/24/0515"
+  "incident-review-folder": [
+    "2025/02/03/0840"
   ],
-  "goals": [
-    "2025/02/03/0840",
-    "2025/02/22/1110",
-    "2025/03/18/0725",
-    "2025/04/06/0350",
-    "2025/05/17/0520",
-    "2025/06/28/1205",
-    "2025/07/22/0630",
-    "2025/08/09/0140",
-    "2025/09/03/0855",
-    "2025/10/12/1020",
-    "2025/11/20/0610",
-    "2025/12/14/0830",
-    "2026/02/27/1240",
-    "2026/03/24/0535",
-    "2026/05/02/0055",
-    "2026/06/16/0320",
-    "2026/07/30/1015",
-    "2026/09/07/0745",
-    "2026/10/21/2325",
-    "2026/12/08/0405",
-    "2027/01/29/0700",
-    "2027/03/13/0230",
-    "2027/06/04/1310",
-    "2027/09/19/0650",
-    "2028/02/11/1005",
-    "2028/10/24/0515"
+  "systemic-logistics-breakdown": [
+    "2025/02/03/0840"
   ],
-  "civic": [
-    "2025/02/22/1110",
-    "2025/05/17/0520",
-    "2025/08/09/0140",
+  "evidence-based-tracking": [
+    "2025/02/03/0840"
+  ],
+  "work-stress-replay-loop": [
+    "2025/02/03/0840"
+  ],
+  "boundary-setting-at-workemotional_tone: \"mixed\"": [
+    "2025/02/03/0840"
+  ],
+  "neighborhood-birthday-party": [
+    "2025/02/22/1110"
+  ],
+  "eleanor-community-connection": [
+    "2025/02/22/1110"
+  ],
+  "diamondbacks-promotions-discovery": [
+    "2025/02/22/1110"
+  ],
+  "affordable-mother-son-outings": [
+    "2025/02/22/1110"
+  ],
+  "low-stakes-leisure-value": [
+    "2025/02/22/1110"
+  ],
+  "parent-network-resourcesemotional_tone: \"positive\"": [
+    "2025/02/22/1110"
+  ],
+  "spring-pilot-approval": [
+    "2025/03/18/0725"
+  ],
+  "freezer-capacity-mapping": [
+    "2025/03/18/0725"
+  ],
+  "color-coded-shelf-photos": [
+    "2025/03/18/0725"
+  ],
+  "usable-space-vs-paper-space": [
+    "2025/03/18/0725"
+  ],
+  "substitution-chart-design": [
+    "2025/03/18/0725"
+  ],
+  "kitchen-frontline-feedback-loopemotional_tone: \"positive\"": [
+    "2025/03/18/0725"
+  ],
+  "urgent-care-dehydration": [
+    "2025/04/06/0350"
+  ],
+  "skipped-lunches-trigger": [
+    "2025/04/06/0350"
+  ],
+  "electrolyte-and-fruit-prep": [
+    "2025/04/06/0350"
+  ],
+  "heat-fatigue-awareness": [
+    "2025/04/06/0350"
+  ],
+  "field-day-routine-redesign": [
+    "2025/04/06/0350"
+  ],
+  "preset-decision-health-strategyemotional_tone: \"mixed\"": [
+    "2025/04/06/0350"
+  ],
+  "freezer-capacity-board": [
+    "2025/04/29/0935"
+  ],
+  "thursday-substitution-sheet": [
+    "2025/04/29/0935"
+  ],
+  "warehouse-campus-bridge": [
+    "2025/04/29/0935"
+  ],
+  "low-buffer-campus-identification": [
+    "2025/04/29/0935"
+  ],
+  "shared-operational-picture": [
+    "2025/04/29/0935"
+  ],
+  "weekly-pilot-rhythmemotional_tone: \"positive\"": [
+    "2025/04/29/0935"
+  ],
+  "reported-nonfiction-discovery": [
+    "2025/05/17/0520"
+  ],
+  "food-systems-literature": [
+    "2025/05/17/0520"
+  ],
+  "priya-library-book-gift": [
+    "2025/05/17/0520"
+  ],
+  "mystery-novels-alternating": [
+    "2025/05/17/0520"
+  ],
+  "intellectual-expansion-signal": [
+    "2025/05/17/0520"
+  ],
+  "reading-as-calm-period-markeremotional_tone: \"positive\"": [
+    "2025/05/17/0520"
+  ],
+  "leadership-pilot-presentation": [
+    "2025/06/11/0215"
+  ],
+  "districtwide-expansion-approval": [
+    "2025/06/11/0215"
+  ],
+  "vendor-on-time-performance-request": [
+    "2025/06/11/0215"
+  ],
+  "summer-rollout-planning": [
+    "2025/06/11/0215"
+  ],
+  "evidence-based-persuasion": [
+    "2025/06/11/0215"
+  ],
+  "accountability-tracking-shiftemotional_tone: \"positive\"": [
+    "2025/06/11/0215"
+  ],
+  "summer-camp-fee-surprise": [
+    "2025/06/28/1205"
+  ],
+  "budget-rebalancing": [
+    "2025/06/28/1205"
+  ],
+  "convenience-dinner-reduction": [
+    "2025/06/28/1205"
+  ],
+  "grocery-cost-tightening": [
+    "2025/06/28/1205"
+  ],
+  "monthly-cushion-squeeze": [
+    "2025/06/28/1205"
+  ],
+  "single-parent-financial-disciplineemotional_tone: \"mixed\"": [
+    "2025/06/28/1205"
+  ],
+  "walk-in-freezer-failures": [
+    "2025/07/22/0630"
+  ],
+  "heat-wave-crisis": [
+    "2025/07/22/0630"
+  ],
+  "expansion-to-resilience-pivot": [
+    "2025/07/22/0630"
+  ],
+  "emergency-freezer-risk-list": [
+    "2025/07/22/0630"
+  ],
+  "transfer-readiness-triage": [
+    "2025/07/22/0630"
+  ],
+  "equipment-reliability-concernemotional_tone: \"negative\"": [
+    "2025/07/22/0630"
+  ],
+  "library-family-movie-morning": [
+    "2025/08/09/0140"
+  ],
+  "low-friction-community-outings": [
+    "2025/08/09/0140"
+  ],
+  "animated-film-appreciation": [
+    "2025/08/09/0140"
+  ],
+  "back-to-school-decompression": [
+    "2025/08/09/0140"
+  ],
+  "budget-friendly-entertainment": [
+    "2025/08/09/0140"
+  ],
+  "mateo-quality-time-routineemotional_tone: \"positive\"": [
+    "2025/08/09/0140"
+  ],
+  "buddy-kitchen-pairing-system": [
+    "2025/09/03/0855"
+  ],
+  "fall-reliability-plan": [
+    "2025/09/03/0855"
+  ],
+  "kid-acceptable-substitution-chart": [
+    "2025/09/03/0855"
+  ],
+  "vendor-scorecard-development": [
+    "2025/09/03/0855"
+  ],
+  "high-risk-campus-triage": [
+    "2025/09/03/0855"
+  ],
+  "named-contingency-operating-relationshipsemotional_tone: \"positive\"": [
+    "2025/09/03/0855"
+  ],
+  "eleanor-pickup-pouch-system": [
+    "2025/10/12/1020"
+  ],
+  "spare-key-trust-signal": [
+    "2025/10/12/1020"
+  ],
+  "school-calendar-backup": [
+    "2025/10/12/1020"
+  ],
+  "after-school-logistics-structure": [
+    "2025/10/12/1020"
+  ],
+  "late-delivery-contingency": [
+    "2025/10/12/1020"
+  ],
+  "home-systems-thinkingemotional_tone: \"positive\"": [
+    "2025/10/12/1020"
+  ],
+  "semester-evidence-memo": [
+    "2025/11/20/0610"
+  ],
+  "district-playbook-drafting": [
+    "2025/11/20/0610"
+  ],
+  "fall-scorecard-results": [
+    "2025/11/20/0610"
+  ],
+  "emergency-call-reduction-data": [
+    "2025/11/20/0610"
+  ],
+  "freezer-photo-evidence": [
+    "2025/11/20/0610"
+  ],
+  "substitution-examples-in-packetemotional_tone: \"positive\"": [
+    "2025/11/20/0610"
+  ],
+  "green-chile-breakfast-burrito": [
+    "2025/12/14/0830"
+  ],
+  "warehouse-morning-ritual": [
+    "2025/12/14/0830"
+  ],
+  "cafeteria-fundraiser-discovery": [
+    "2025/12/14/0830"
+  ],
+  "intentional-morning-food-routine": [
+    "2025/12/14/0830"
+  ],
+  "dependable-food-over-perfect-food": [
+    "2025/12/14/0830"
+  ],
+  "small-daily-joyemotional_tone: \"positive\"": [
+    "2025/12/14/0830"
+  ],
+  "monthly-kitchen-logistics-huddle": [
+    "2026/01/21/0105"
+  ],
+  "district-playbook-drafting-begins": [
+    "2026/01/21/0105"
+  ],
+  "victor-and-shawna-collaboration": [
+    "2026/01/21/0105"
+  ],
+  "substitution-threshold-standardization": [
+    "2026/01/21/0105"
+  ],
+  "warehouse-campus-meeting-space": [
+    "2026/01/21/0105"
+  ],
+  "cross-campus-feedback-loop-containeremotional_tone: \"positive\"": [
+    "2026/01/21/0105"
+  ],
+  "90s-r-and-b-commute-playlist": [
+    "2026/02/27/1240"
+  ],
+  "priya-emotional-support": [
+    "2026/02/27/1240"
+  ],
+  "post-huddle-decompression": [
+    "2026/02/27/1240"
+  ],
+  "commute-recovery-practice": [
+    "2026/02/27/1240"
+  ],
+  "stress-management-through-music": [
+    "2026/02/27/1240"
+  ],
+  "transition-ritual-discoveryemotional_tone: \"mixed\"": [
+    "2026/02/27/1240"
+  ],
+  "vendor-timestamp-dispute": [
+    "2026/03/24/0535"
+  ],
+  "dock-sheet-verification": [
+    "2026/03/24/0535"
+  ],
+  "dual-timestamp-proof": [
+    "2026/03/24/0535"
+  ],
+  "scorecard-credibility-defense": [
+    "2026/03/24/0535"
+  ],
+  "reliability-framing-over-blame": [
+    "2026/03/24/0535"
+  ],
+  "evidence-strengthening-under-pressureemotional_tone: \"mixed\"": [
+    "2026/03/24/0535"
+  ],
+  "mateo-schedule-anxiety": [
+    "2026/05/02/0055"
+  ],
+  "laminated-weekly-routine-card": [
+    "2026/05/02/0055"
+  ],
+  "pickup-uncertainty-impact": [
+    "2026/05/02/0055"
+  ],
+  "explicit-parenting-language": [
+    "2026/05/02/0055"
+  ],
+  "child-communication-adjustment": [
+    "2026/05/02/0055"
+  ],
+  "emotional-security-through-predictabilityemotional_tone: \"mixed\"": [
+    "2026/05/02/0055"
+  ],
+  "districtwide-freezer-map-standard": [
+    "2026/06/16/0320"
+  ],
+  "substitution-matrix-training": [
+    "2026/06/16/0320"
+  ],
+  "manager-training-sessions": [
+    "2026/06/16/0320"
+  ],
+  "child-acceptance-criteria": [
+    "2026/06/16/0320"
+  ],
+  "storage-labor-kid-triangle": [
+    "2026/06/16/0320"
+  ],
+  "work-standardization-milestoneemotional_tone: \"positive\"": [
+    "2026/06/16/0320"
+  ],
+  "prescott-overnight-trip": [
+    "2026/07/30/1015"
+  ],
+  "low-friction-travel-style": [
+    "2026/07/30/1015"
+  ],
+  "arizona-in-state-getaways": [
+    "2026/07/30/1015"
+  ],
+  "mateo-bonding-time": [
+    "2026/07/30/1015"
+  ],
+  "priya-borrowed-chairs": [
+    "2026/07/30/1015"
+  ],
+  "simplicity-over-spectacle-travel-mindsetemotional_tone: \"positive\"": [
+    "2026/07/30/1015"
+  ],
+  "districtwide-rollout-complete": [
+    "2026/09/07/0745"
+  ],
+  "freezer-map-template-live": [
+    "2026/09/07/0745"
+  ],
+  "substitution-matrix-active": [
+    "2026/09/07/0745"
+  ],
+  "stale-map-flagging-system": [
+    "2026/09/07/0745"
+  ],
+  "compliance-drift-management": [
+    "2026/09/07/0745"
+  ],
+  "live-operational-responsibilityemotional_tone: \"positive\"": [
+    "2026/09/07/0745"
+  ],
+  "telehealth-counseling-start": [
+    "2026/10/21/2325"
+  ],
+  "waking-up-tense-pattern": [
+    "2026/10/21/2325"
+  ],
+  "work-stress-evening-spillover": [
+    "2026/10/21/2325"
+  ],
+  "shutdown-routine-development": [
+    "2026/10/21/2325"
+  ],
+  "boundary-setting-in-early-stages": [
+    "2026/10/21/2325"
+  ],
+  "stress-as-operational-problememotional_tone: \"mixed\"": [
+    "2026/10/21/2325"
+  ],
+  "district-playbook-draft": [
+    "2026/12/08/0405"
+  ],
+  "map-refresh-deadlines": [
+    "2026/12/08/0405"
+  ],
+  "overflow-transfer-steps": [
+    "2026/12/08/0405"
+  ],
+  "vendor-escalation-contacts": [
+    "2026/12/08/0405"
+  ],
+  "fewer-than-three-substitution-target": [
+    "2026/12/08/0405"
+  ],
+  "one-page-decision-treeemotional_tone: \"positive\"": [
+    "2026/12/08/0405"
+  ],
+  "school-robotics-event": [
     "2027/01/29/0700"
   ],
-  "environment": [
-    "2025/07/22/0630",
-    "2025/11/20/0610",
-    "2027/06/04/1310",
+  "calm-small-dog-possibility": [
+    "2027/01/29/0700"
+  ],
+  "future-imagination-signal": [
+    "2027/01/29/0700"
+  ],
+  "life-steadiness-indicator": [
+    "2027/01/29/0700"
+  ],
+  "practical-parenting-conversation": [
+    "2027/01/29/0700"
+  ],
+  "optional-thought-capacityemotional_tone: \"positive\"": [
+    "2027/01/29/0700"
+  ],
+  "quarterly-verification-visits": [
+    "2027/03/13/0230"
+  ],
+  "stale-map-detection": [
+    "2027/03/13/0230"
+  ],
+  "staffing-turnover-risk": [
+    "2027/03/13/0230"
+  ],
+  "manager-signoff-process": [
+    "2027/03/13/0230"
+  ],
+  "photo-checks-and-notes": [
+    "2027/03/13/0230"
+  ],
+  "accountability-layer-additionemotional_tone: \"mixed\"": [
+    "2027/03/13/0230"
+  ],
+  "district-step-increase": [
+    "2027/06/04/1310"
+  ],
+  "emergency-cushion-building": [
+    "2027/06/04/1310"
+  ],
+  "grocery-inflation-impact": [
+    "2027/06/04/1310"
+  ],
+  "camp-deposit-protection": [
+    "2027/06/04/1310"
+  ],
+  "flexibility-money-concept": [
+    "2027/06/04/1310"
+  ],
+  "cautious-financial-progressemotional_tone: \"positive\"": [
+    "2027/06/04/1310"
+  ],
+  "semester-reliability-reports": [
+    "2027/09/19/0650"
+  ],
+  "vendor-on-time-metric-standardization": [
+    "2027/09/19/0650"
+  ],
+  "substitution-count-clustering": [
+    "2027/09/19/0650"
+  ],
+  "overflow-incident-tracking": [
+    "2027/09/19/0650"
+  ],
+  "cluster-level-analysis": [
+    "2027/09/19/0650"
+  ],
+  "system-pattern-identificationemotional_tone: \"positive\"": [
+    "2027/09/19/0650"
+  ],
+  "second-bedroom-reorganization": [
+    "2028/02/11/1005"
+  ],
+  "labeled-bin-system": [
+    "2028/02/11/1005"
+  ],
+  "narrower-desk-upgrade": [
+    "2028/02/11/1005"
+  ],
+  "stacked-pantry-shelves": [
+    "2028/02/11/1005"
+  ],
+  "morning-routine-improvement": [
+    "2028/02/11/1005"
+  ],
+  "small-space-functional-designemotional_tone: \"positive\"": [
+    "2028/02/11/1005"
+  ],
+  "district-logistics-playbook-delivered": [
     "2028/10/24/0515"
   ],
-  "relationship": [
-    "2025/09/03/0855",
-    "2025/10/12/1020"
+  "vendor-mid-90s-on-time": [
+    "2028/10/24/0515"
+  ],
+  "emergency-substitution-reduction": [
+    "2028/10/24/0515"
+  ],
+  "buddy-kitchen-route-implementation": [
+    "2028/10/24/0515"
+  ],
+  "photo-standard-verification": [
+    "2028/10/24/0515"
+  ],
+  "stewardship-over-persuasion-shiftemotional_tone: \"positive\"": [
+    "2028/10/24/0515"
   ]
 }

@@ -3,21 +3,24 @@
   "slices": [
     {
       "id": "2026-10-01-0410",
-      "focus": "It has been a while since we talked, and things have been shifting in a more ord",
-      "summary": "The broken sleep is still the worst part, I think",
+      "focus": "Follow-up confirms reflux improvement; focus shifts to sleep and neck.",
+      "summary": "A follow-up clinic visit confirms Jae-hyun's reflux is less frequent and more controlled thanks to regular meal timing and simpler food. However, broken sleep before storm nights and persistent neck tension from the radio desk remain disruptive. He adopts a tiny pre-sleep sequence (10-minute neck/shoulder routine, no heavy food, bed) and keeps a quiet corner at home as a decompression landing spot.",
       "tags": [
-        "work",
-        "family",
-        "health",
-        "travel",
-        "education",
-        "housing",
-        "leisure",
-        "goals"
+        "reflux-improvement",
+        "sleep-disruption",
+        "neck-tension",
+        "pre-sleep-routine",
+        "quiet-landing-spot",
+        "shift-body-strain",
+        "partial-recoveryemotional_tone: neutral"
       ],
       "status": "closed",
       "start": "2026-10-01T04:10:00.000Z",
-      "open_loops": [],
+      "open_loops": [
+        "Sleep disruption improvement tracking",
+        "Neck tension management consistency",
+        "Anticipatory stress before storm nights"
+      ],
       "decisions": [
         "A follow-up clinic visit showed Jae-hyun's reflux is less frequent and more controlled now that his meals are timed more"
       ]

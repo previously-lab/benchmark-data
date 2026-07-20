@@ -3,16 +3,25 @@
   "slices": [
     {
       "id": "2025-07-02-1120",
-      "focus": "A lot has shifted lately, and I realized some of it has started leaking outside ",
-      "summary": "It was not dramatic at all, which honestly made it hit harder",
+      "focus": "Imani calls Tasha out on canceled dinners; they rebuild friendship with lighter check-ins",
+      "summary": "After canceling dinner with Imani twice during the complaint fallout, Tasha is gently but clearly called out. They get takeout Thai and talk honestly about the strain, leading to a reset: lower-pressure check-ins instead of elaborate dinner plans, direct honesty when Tasha is too overwhelmed, and no expectation of a full emotional debrief. The agent helps Tasha recognize this as 'friendship maintenance' rather than rescue, and Tasha plans to initiate the next plan, send a midweek check-in text, and extend a similar honest signal to one or two other important people without broadcasting widely.",
       "tags": [
-        "work",
-        "relationship",
-        "goals"
+        "imani-canceled-dinners",
+        "friendship-repair-conversation",
+        "work-spillover-personal-life",
+        "low-pressure-check-in-agreement",
+        "takeout-thai-reset",
+        "friendship-maintenance-routine",
+        "honest-signal-before-canceling",
+        "not-ghosting-by-accidentemotional_tone: neutral"
       ],
       "status": "closed",
       "start": "2025-07-02T11:20:00.000Z",
-      "open_loops": [],
+      "open_loops": [
+        "Midweek check-in text to Imani — to be sent",
+        "Simple weekend invitation — planned but not extended yet",
+        "Whether to name boundaries with 1-2 other people — undecided"
+      ],
       "decisions": [
         "Imani remained a close friend, and after their conversation they were more intentional about low-pressure check-ins and "
       ]

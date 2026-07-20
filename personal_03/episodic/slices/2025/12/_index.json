@@ -3,18 +3,27 @@
   "slices": [
     {
       "id": "2025-12-17-1225",
-      "focus": "A lot has shifted lately, and I finally feel like I stopped just reacting and ac",
-      "summary": "Right now I am trying to keep it simple enough that it actually gets used",
+      "focus": "Early-warning board built from attendance, safety slips, and contractor notes formalizes intervention process",
+      "summary": "After the fall cohort wobbles, Derek builds an early-warning board that consolidates attendance, missed labs, repeat safety slips, and contractor field notes into one visible system. He establishes trigger rules (one serious safety issue or any two flags from different buckets starts a conversation) and brings Tasha Freeman and two foremen in for short monthly 'reality talks' where they explain how attendance and safe habits affect hiring decisions. The board shifts his role from general orientation and check-ins to running a formal intervention process, and he begins simple trigger-action-outcome notes to track effectiveness.",
       "tags": [
-        "work",
-        "health",
-        "education",
-        "housing",
-        "leisure"
+        "early-warning-board-creation",
+        "three-signal-tracking-system",
+        "contractor-reality-talks",
+        "monthly-foreman-accountability",
+        "intervention-trigger-rules",
+        "beat-late-surprise-metric",
+        "attendance-safety-contractor-triad",
+        "tasha-freeman-backingemotional_tone: neutral"
       ],
       "status": "closed",
       "start": "2025-12-17T12:25:00.000Z",
-      "open_loops": [],
+      "open_loops": [
+        "Publishing clear trigger rules so instructors and foremen can use them consistently",
+        "Running the first monthly reality talk with contractor participation",
+        "Starting bare-bones intervention outcome notes (trigger, action, short outcome)",
+        "Tightening the response ladder so intervention is predictable rather than personal",
+        "Protecting mental load from the feeling that every missed pattern is a personal failure"
+      ],
       "decisions": [
         "Derek moved from general first-year orientation and retention check-ins to running a formal early-warning and interventi"
       ]

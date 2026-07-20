@@ -3,18 +3,25 @@
   "slices": [
     {
       "id": "2027-06-18-0955",
-      "focus": "It has been a pretty normal stretch lately, which honestly has been nice, but on",
-      "summary": "Mostly the presence, honestly",
+      "focus": "Nathaniel spends a weekend with an elderly beagle and realizes he wants a calm older rescue dog in a more settled home someday.",
+      "summary": "Erin helps her sister watch an elderly beagle for a weekend, and Nathaniel unexpectedly connects with the calm, low-energy companionship. He realizes his preference is specifically for an older, low-energy rescue dog once housing and routine are more permanent.",
       "tags": [
-        "work",
-        "family",
-        "housing",
-        "leisure",
-        "goals"
+        "elderly-beagle",
+        "pet-preference",
+        "calm-companionship",
+        "older-rescue-dog",
+        "erin-sister",
+        "future-planning",
+        "home-atmosphere",
+        "dog-ownership-idealsemotional_tone: neutral"
       ],
       "status": "closed",
       "start": "2027-06-18T09:55:00.000Z",
-      "open_loops": [],
+      "open_loops": [
+        "Three-condition readiness test not yet written",
+        "Note on phone with weekend lessons not yet created",
+        "Older rescue dog preference not yet shared as a concrete future goal"
+      ],
       "decisions": [
         "Nathaniel still cannot realistically have a pet in the apartment because of lease and schedule constraints, but after he"
       ]

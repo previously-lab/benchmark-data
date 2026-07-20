@@ -3,18 +3,24 @@
   "slices": [
     {
       "id": "2026-12-18-1130",
-      "focus": "Things have been busy lately, but I had one of those small funny shifts this wee",
-      "summary": "Exactly, it was not some huge personality transplant, just enough to freshen things up a little",
+      "focus": "A holiday potluck playlist introduces Kelli to early-2000s pop-country, freshening her dark winter commute.",
+      "summary": "At a clinic holiday potluck, a younger scheduler plays an early-2000s pop-country playlist (Rascal Flatts, Martina McBride, Keith Urban). Kelli adds a few songs to her commute mix and notices she arrives home less wound up. The experience reinforces that she responds to small, contained surprises within familiar routines, and she plans a short winter-commute playlist while keeping her 1990s country and talk radio defaults.",
       "tags": [
-        "work",
-        "travel",
-        "housing",
-        "leisure",
-        "goals"
+        "clinic-holiday-potluck",
+        "early-2000s-pop-country",
+        "commute-playlist-freshening",
+        "rascal-flatts-keith-urban",
+        "winter-commute-mood",
+        "small-surprise-joy",
+        "music-taste-expansion",
+        "gentler-evening-on-rampemotional_tone: neutral"
       ],
       "status": "closed",
       "start": "2026-12-18T11:30:00.000Z",
-      "open_loops": [],
+      "open_loops": [
+        "Short winter-commute playlist (10–12 tracks) not yet built",
+        "Light rule for evening decompression (music+quiet after work) not yet set"
+      ],
       "decisions": [
         "Kelli expanded her commute music from mostly 1990s country to include some early-2000s pop-country after the clinic holi"
       ]

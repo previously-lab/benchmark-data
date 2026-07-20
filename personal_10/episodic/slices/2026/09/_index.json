@@ -3,18 +3,26 @@
   "slices": [
     {
       "id": "2026-09-14-1245",
-      "focus": "A lot has shifted lately, even though on the surface it probably looks like the ",
-      "summary": "Honestly, better than I expected",
+      "focus": "After a dialysis access-site scare, Kelli and her brother formalize a caregiving rotation with transport and paperwork split.",
+      "summary": "Gary has a dialysis access-site infection scare that creates extra appointments, forcing Kelli and her brother to formalize a caregiving rotation. They split transport from paperwork/callback ownership and use a paper calendar plus text thread for coordination. The household atmosphere eases — Travis can plan evenings better, and the marriage feels less strained because the uncertainty around caregiving drops.",
       "tags": [
-        "work",
-        "family",
-        "relationship",
-        "leisure",
-        "goals"
+        "dialysis-access-site-scare",
+        "brother-caregiving-rotation",
+        "shared-logistics",
+        "callback-owner-assignment",
+        "travis-household-relief",
+        "paper-calendar-system",
+        "proud-parent-conversation",
+        "one-page-checklistemotional_tone: neutral"
       ],
       "status": "closed",
       "start": "2026-09-14T12:45:00.000Z",
-      "open_loops": [],
+      "open_loops": [
+        "One-page checklist for glove box/tote not yet created",
+        "Callback owner field not yet assigned on rotation",
+        "Kelli needs to tell Travis directly she sees how much he absorbed",
+        "First month of strict rotation adherence not yet completed"
+      ],
       "decisions": [
         "After a dialysis access-site infection scare led to extra appointments, Kelli and her brother set a more formal rotation",
         "Her marriage feels less strained now that caregiving for her father is being shared more deliberately instead of landing"
