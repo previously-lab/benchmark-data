@@ -1,41 +1,140 @@
 # Previously On — Benchmark Data
 
-Seeded conversation datasets for [Previously On](https://github.com/previously-lab/agent).
+Seeded conversation datasets for [Previously On](https://github.com/previously-lab/agent), a personal AI commander platform where cloud agents work while you're away and results are waiting when you return.
 
-## Source
+Each persona in this repository is a complete, ready-to-use episodic memory store — 30 multi-turn conversations spanning 3–4 years, with rich metadata designed for the Previously On memory architecture.
 
-All personas are derived from the [WorldMemArena](https://huggingface.co/datasets/LCZZZZ/WorldMemArena) benchmark
-(arXiv:2605.29341, CC BY-NC 4.0), converted into Previously On's episodic memory format.
+## Quick Start
 
-## Directory Structure
-
-Each persona is a self-contained episodic memory store:
+With Previously On deployed on Vercel, set one environment variable:
 
 ```
-personal_14/                  # Caleb Martin Hebert
+DEMO_MODE=true
+```
+
+The app reads persona data directly from this repository via `raw.githubusercontent.com` — **no GitHub token, no API key, no authentication required**. Choose a persona from the UI and start chatting immediately.
+
+## Source & Attribution
+
+All personas are derived from [**WorldMemArena**](https://huggingface.co/datasets/LCZZZZ/WorldMemArena), a large-scale multimodal memory benchmark introduced in:
+
+> Liu et al., *"WorldMemArena: Evaluating Multimodal Agent Memory Through Action–World Interaction"*, arXiv:2605.29341, 2026.
+
+WorldMemArena contains 461 samples across 8,489 sessions with 59,239 conversation turns and 40,194 annotated memory points, spanning lifelong personal evolution and agentic task execution. The 20 personal samples used here average 30 sessions each (~57K words per persona, comparable to a short novel).
+
+**We are grateful to the WorldMemArena authors** (Chengzhi Liu, Yuzhe Yang, Xin Eric Wang, and the UCSB AI team) for creating and releasing this benchmark under CC BY-NC 4.0, which made this seeded dataset possible.
+
+## What's Inside
+
+### 20 Complete Personas
+
+Each persona is a fictional individual with a coherent multi-year life story — career progression, family dynamics, health challenges, financial decisions, hobbies, and personal growth — told through 30 natural conversation sessions with an AI assistant.
+
+| Persona | Person |
+|---------|--------|
+| personal_01 | Marisa Elaine Cardenas — field supervisor, county restoration |
+| personal_02 | Lucia Elena Montoya — court interpreter, civic reform advocate |
+| personal_03 | Derek Anthony Kubik — journeyman wireman, IBEW Local 5 |
+| personal_04 | Tasha Nicole Whitfield — bereavement coordinator, Raleigh |
+| personal_05 | Nathaniel James Hollis — transit scheduling analyst, COTA |
+| personal_06 | Hannah Louise Mercer — registrar, Providence Museum of Art |
+| personal_07 | Evan Michael Dorsey — procurement analyst, school district |
+| personal_08 | Jermaine Allen Booker — safety trainer, Feeders Supply |
+| personal_09 | Nadia Samira Rahal — intake caseworker, family services |
+| personal_10 | Kelli Ann Brotherton — revenue-cycle lead, Emmett ID |
+| personal_11 | Monica Renee Halverson — housing code supervisor, Milwaukee |
+| personal_12 | Ariana Celeste Batiste — archivist, oral history program |
+| personal_13 | Danielle Marie Rosas — nutrition coordinator, school district |
+| personal_14 | **Caleb Martin Hebert** — floodplain outreach specialist, Harris County |
+| personal_15 | Park Jae-hyun — dispatch coordinator, Busan |
+| personal_16 | Saira Nadeem Hussain — operations lead, Westgate Pharmacy, Leeds |
+| personal_17 | Colleen Margaret Sweeney — education manager, Fireman's Hall Museum |
+| personal_18 | Jordan Elise Petrov — operations planner, Alder Street Roasting |
+| personal_19 | Nakamura Ayaka — operations coordinator, Hakata ferry terminal |
+| personal_20 | Eric Matthew Lang — cold-chain coordinator, Freestore Foodbank |
+
+### Previously On Memory Format
+
+Each persona directory is a self-contained episodic memory store:
+
+```
+personal_14/                       # Caleb Martin Hebert
 ├── episodic/
 │   ├── slices/
-│   │   ├── YYYY/
-│   │   │   ├── MM/
-│   │   │   │   ├── DD/
-│   │   │   │   │   └── HHMM.md      # time slice (YAML frontmatter + turns)
+│   │   ├── 2025/                  # Year
+│   │   │   ├── 01/                # Month
+│   │   │   │   ├── 08/            # Day
+│   │   │   │   │   └── 1130.md    # Time slice (YAML frontmatter + turns)
 │   │   │   │   └── ...
-│   │   │   └── _index.json          # monthly index
+│   │   │   └── _index.json        # Monthly index of all slices
 │   │   └── ...
-│   └── strands.json                 # keyword → slice-path index
-└── user/
-    └── profile.md                   # persona profile
+│   └── strands.json               # Keyword → slice-path index
+├── user/
+│   └── profile.md                 # Persona profile
+└── quality-report.json            # Metadata quality audit
 ```
 
-## Usage
+**Key concepts:**
 
-Set `DEMO_MODE=true` in Previously On to read from this repository.
-The app reads files via `raw.githubusercontent.com` — no GitHub token needed.
+- **Time Slice** — A single conversation session. YAML frontmatter carries `slice_id`, `focus`, `summary`, `tags`, `emotional_tone`, `open_loops`, and `decisions`. The body records each turn (`## Turn N — timestamp (role)`) as structured Markdown.
+
+- **Monthly Index** (`_index.json`) — Lightweight scan target for the Flash recall system. Lists every slice in a month with its metadata, so the system can find relevant conversations without reading full files.
+
+- **Strands** (`strands.json`) — A keyword → slice-path index. Each tag on a slice weaves a strand through time: `"flood-mitigation-outreach" → ["2025/01/08/1130", "2025/04/09/1010", ...]`. This is the thin, lossless semantic layer over the chronological slices.
+
+- **Quality Report** — Generated by Claude Haiku during enrichment. Flags metadata issues found and fixed in the original WorldMemArena conversion.
+
+### Data Quality
+
+Every slice in this repository has been reviewed by Claude Haiku 4.5:
+
+- **Tags**: Replaced generic regex-generated categories (`work`, `family`, `health`) with 4–8 specific, searchable kebab-case tags per slice (`flood-mitigation-outreach`, `mother-health-appointment`, `post-approval-retention-routine`)
+- **Emotional tone**: Corrected from universal `"neutral"` to accurate per-slice values
+- **Focus & Summary**: Fixed truncated or quote-fragment metadata
+- **Open loops**: Added unresolved action items missing from the original conversion
+
+This produces ~200–260 unique strands per persona, enabling precise conversational recall.
+
+## How Previously On Uses This Data
+
+The Previously On app uses a **Flash/Pro split** memory architecture:
+
+1. **Flash** (fast, cheap model) scans monthly `_index.json` files and `strands.json` to identify relevant past conversations
+2. **Pro** (main agent model) deep-reads specific time slices when Flash finds matches
+3. Every chat turn is recorded as a new time slice, building the user's own memory on top of the seed data (when GitHub write access is configured)
+
+This repository provides the seed data so users can experience the full memory system immediately, without waiting months for their own conversation history to accumulate.
 
 ## Conversion
 
-Run `scripts/batch-convert.mjs` in the Aftrbrez repo.
+The raw WorldMemArena JSON files are converted to Previously On format using `scripts/batch-convert.mjs` in the [Previously On repository](https://github.com/previously-lab/agent). Metadata enrichment is applied via `scripts/apply-enrichment.mjs` using Claude Haiku.
+
+To regenerate from source:
+
+```bash
+# 1. Download WorldMemArena personal samples from Hugging Face
+pip install huggingface_hub
+huggingface-cli download LCZZZZ/WorldMemArena --repo-type dataset \
+  --local-dir ./WorldMemArena \
+  --include "WorldMemArena/lifelong/personal/personal_*.json"
+
+# 2. Copy JSON files to benchmark-data/_raw/
+
+# 3. Convert
+node scripts/batch-convert.mjs --raw ../benchmark-data/_raw --out ../benchmark-data
+
+# 4. Enrich with Haiku (requires ANTHROPIC_API_KEY or use Claude Code agents)
+# See scripts/apply-enrichment.mjs for details
+```
 
 ## License
 
-CC BY-NC 4.0 (inherited from WorldMemArena).
+**CC BY-NC 4.0** — inherited from WorldMemArena.
+
+This means you are free to share and adapt this data for **non-commercial purposes** with appropriate attribution. For commercial use, please refer to the original WorldMemArena dataset and license terms.
+
+## Related Projects
+
+- [Previously On](https://github.com/previously-lab/agent) — The app that consumes this data
+- [WorldMemArena](https://huggingface.co/datasets/LCZZZZ/WorldMemArena) — The original benchmark dataset
+- [WorldMemArena Paper](https://arxiv.org/abs/2605.29341) — arXiv:2605.29341
