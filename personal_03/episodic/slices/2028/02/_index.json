@@ -1,0 +1,26 @@
+{
+  "month": "2028-02",
+  "slices": [
+    {
+      "id": "2028-02-03-1115",
+      "focus": "A lot has shifted lately on the home front, in a good way for once. We finally g",
+      "summary": "Yeah, threshold is the right word",
+      "tags": [
+        "work",
+        "family",
+        "health",
+        "finance",
+        "travel",
+        "education",
+        "housing",
+        "leisure"
+      ],
+      "status": "closed",
+      "start": "2028-02-03T11:15:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "By early 2028, Derek and Erin's Brookline row house was mostly functional with only scattered projects left, making dail"
+      ]
+    }
+  ]
+}

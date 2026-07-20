@@ -1,0 +1,26 @@
+{
+  "month": "2027-04",
+  "slices": [
+    {
+      "id": "2027-04-12-0925",
+      "focus": "A lot has shifted lately, even though on the surface things look about the same.",
+      "summary": "Probably the savings part",
+      "tags": [
+        "work",
+        "family",
+        "finance",
+        "relationship",
+        "travel",
+        "education",
+        "housing",
+        "goals"
+      ],
+      "status": "closed",
+      "start": "2027-04-12T09:25:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "Jae-hyun's savings stayed thin because higher housing costs were joined by helping his sister through the next civil-ser"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "month": "2025-10",
+  "slices": [
+    {
+      "id": "2025-10-12-1020",
+      "focus": "A lot has been shifting lately, and one thing I finally fixed was the after-scho",
+      "summary": "She actually looked relieved, which made me realize she was probably just as tired of the vague chec",
+      "tags": [
+        "work",
+        "family",
+        "finance",
+        "relationship",
+        "education",
+        "housing",
+        "leisure",
+        "goals"
+      ],
+      "status": "closed",
+      "start": "2025-10-12T10:20:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "Danielle formalized her late-delivery pickup backup with Eleanor by giving her a labeled pouch containing a printed scho"
+      ]
+    }
+  ]
+}

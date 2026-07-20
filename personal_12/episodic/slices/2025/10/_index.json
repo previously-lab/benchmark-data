@@ -1,0 +1,24 @@
+{
+  "month": "2025-10",
+  "slices": [
+    {
+      "id": "2025-10-14-0245",
+      "focus": "A lot has shifted lately, and for the first time in a while I feel like the work",
+      "summary": "What made it land was me being a lot blunter than I usually am",
+      "tags": [
+        "work",
+        "health",
+        "finance",
+        "housing",
+        "goals",
+        "civic"
+      ],
+      "status": "closed",
+      "start": "2025-10-14T02:45:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "Ariana moved the oral-history project out of damage control and into a recovery-and-systems-build phase after securing a"
+      ]
+    }
+  ]
+}

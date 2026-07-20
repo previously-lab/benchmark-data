@@ -1,0 +1,25 @@
+{
+  "month": "2026-02",
+  "slices": [
+    {
+      "id": "2026-02-16-1040",
+      "focus": "Things have been pretty packed lately, and I have been trying to keep at least a",
+      "summary": "Mostly the fact that I am looking up more, honestly",
+      "tags": [
+        "work",
+        "family",
+        "education",
+        "housing",
+        "leisure",
+        "environment",
+        "civic"
+      ],
+      "status": "closed",
+      "start": "2026-02-16T10:40:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "Marisa has started casually logging shorebirds on her tideflat walks, turning a simple outdoor walk into a quiet hobby."
+      ]
+    }
+  ]
+}

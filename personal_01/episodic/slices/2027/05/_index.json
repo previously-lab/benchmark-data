@@ -1,0 +1,24 @@
+{
+  "month": "2027-05",
+  "slices": [
+    {
+      "id": "2027-05-17-0405",
+      "focus": "A lot has shifted lately, in a way that finally feels real instead of theoretica",
+      "summary": "Honestly, the biggest difference is that one bad week does not feel fatal anymore",
+      "tags": [
+        "work",
+        "health",
+        "finance",
+        "housing",
+        "leisure",
+        "environment"
+      ],
+      "status": "closed",
+      "start": "2027-05-17T04:05:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "Marisa's oyster program moved from three operating sites to four operating or active shoreline sites once work opened on"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "month": "2026-04",
+  "slices": [
+    {
+      "id": "2026-04-10-0450",
+      "focus": "A lot has shifted lately, and one thing I finally did was stop pretending I was ",
+      "summary": "Honestly, all three, but the biggest thing is the mental noise dropped fast",
+      "tags": [
+        "work",
+        "family",
+        "health",
+        "finance",
+        "housing",
+        "goals"
+      ],
+      "status": "closed",
+      "start": "2026-04-10T04:50:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "The Brookline row house first floor is now substantially finished and much less chaotic, making the home feel usable ins",
+        "The household cash flow tightened again because they paid outside help to push the first-floor renovation through."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "month": "2028-05",
+  "slices": [
+    {
+      "id": "2028-05-27-0700",
+      "focus": "A lot has shifted a little since we last talked, not in a dramatic way, but in a",
+      "summary": "I ended up spending part of it on workflow materials almost immediately, because I did not want the ",
+      "tags": [
+        "work",
+        "family",
+        "health",
+        "finance",
+        "travel",
+        "education",
+        "housing",
+        "goals"
+      ],
+      "status": "closed",
+      "start": "2028-05-27T07:00:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "Ayaka now earns a slightly higher stable salary, and the raise tied to her resilience coordination remit has eased some ",
+        "Her formal resilience remit now comes with a modest training and materials budget she can use to improve the actual tool"
+      ]
+    }
+  ]
+}

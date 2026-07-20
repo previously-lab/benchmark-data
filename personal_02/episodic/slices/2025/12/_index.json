@@ -1,0 +1,24 @@
+{
+  "month": "2025-12",
+  "slices": [
+    {
+      "id": "2025-12-21-0835",
+      "focus": "A lot has shifted lately, and this weekend kind of forced me to admit I cannot k",
+      "summary": "Probably both, but the emotional part surprised me more",
+      "tags": [
+        "family",
+        "health",
+        "travel",
+        "housing",
+        "goals",
+        "environment"
+      ],
+      "status": "closed",
+      "start": "2025-12-21T08:35:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "Lucia now manages a more formal calendar, ride plan, and home-safety paperwork for her father after his minor fall."
+      ]
+    }
+  ]
+}

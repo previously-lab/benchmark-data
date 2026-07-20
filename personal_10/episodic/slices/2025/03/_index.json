@@ -1,0 +1,46 @@
+{
+  "month": "2025-03",
+  "slices": [
+    {
+      "id": "2025-03-07-0945",
+      "focus": "A lot has shifted lately, and this feels like the first real turn in the whole w",
+      "summary": "Honestly, I think it was both, but the practical part probably closed it",
+      "tags": [
+        "work",
+        "finance",
+        "travel",
+        "education",
+        "housing",
+        "goals"
+      ],
+      "status": "closed",
+      "start": "2025-03-07T09:45:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "Kelli won leadership approval to run a structured denial-reduction pilot with twice-weekly pre-bill scrub huddles, front"
+      ]
+    },
+    {
+      "id": "2025-03-29-0130",
+      "focus": "A lot has been shifting lately, and this weekend kind of forced one home issue i",
+      "summary": "Yes, that is exactly it",
+      "tags": [
+        "work",
+        "family",
+        "finance",
+        "relationship",
+        "travel",
+        "education",
+        "housing",
+        "leisure"
+      ],
+      "status": "closed",
+      "start": "2025-03-29T01:30:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "Her marriage is still steady, but they now rely on a more deliberate shared weekend schedule because Gary's dialysis log",
+        "After the talk, Kelli and Travis started planning around her work surges and her father's dialysis trips more openly ins"
+      ]
+    }
+  ]
+}

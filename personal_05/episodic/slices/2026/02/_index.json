@@ -1,0 +1,22 @@
+{
+  "month": "2026-02",
+  "slices": [
+    {
+      "id": "2026-02-08-0945",
+      "focus": "Things have been a little scrambled lately, and I ended up stumbling into a smal",
+      "summary": "Definitely the historical ones first",
+      "tags": [
+        "work",
+        "health",
+        "goals",
+        "environment"
+      ],
+      "status": "closed",
+      "start": "2026-02-08T09:45:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "After Elena sent him a public-radio segment on transit historians, Nathaniel started listening to transit-history and in"
+      ]
+    }
+  ]
+}

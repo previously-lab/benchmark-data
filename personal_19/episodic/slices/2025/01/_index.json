@@ -1,0 +1,24 @@
+{
+  "month": "2025-01",
+  "slices": [
+    {
+      "id": "2025-01-09-1120",
+      "focus": "It is nice to start using a tool like this.",
+      "summary": "My name is Nakamura Ayaka, and I am a 33-year-old woman",
+      "tags": [
+        "work",
+        "family",
+        "health",
+        "finance",
+        "relationship",
+        "travel",
+        "education",
+        "housing"
+      ],
+      "status": "closed",
+      "start": "2025-01-09T11:20:00.000Z",
+      "open_loops": [],
+      "decisions": []
+    }
+  ]
+}

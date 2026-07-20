@@ -1,0 +1,24 @@
+{
+  "month": "2025-01",
+  "slices": [
+    {
+      "id": "2025-01-06-0030",
+      "focus": "It is nice to start using a tool like this.",
+      "summary": "Certainly",
+      "tags": [
+        "work",
+        "family",
+        "health",
+        "finance",
+        "relationship",
+        "travel",
+        "education",
+        "housing"
+      ],
+      "status": "closed",
+      "start": "2025-01-06T00:30:00.000Z",
+      "open_loops": [],
+      "decisions": []
+    }
+  ]
+}

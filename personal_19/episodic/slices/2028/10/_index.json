@@ -1,0 +1,25 @@
+{
+  "month": "2028-10",
+  "slices": [
+    {
+      "id": "2028-10-03-1245",
+      "focus": "A lot has shifted lately, and I finally had one of those moments where the work ",
+      "summary": "It really does land differently",
+      "tags": [
+        "work",
+        "family",
+        "health",
+        "education",
+        "goals",
+        "environment"
+      ],
+      "status": "closed",
+      "start": "2028-10-03T12:45:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "By the end of the 2028 storm season, Ayaka verified sustained gains in notice speed, emergency cargo tracking, and sched",
+        "Ayaka still gets tense in storm season, but the sustained gains left her feeling less helpless and more confident that b"
+      ]
+    }
+  ]
+}

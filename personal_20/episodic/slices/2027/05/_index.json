@@ -1,0 +1,23 @@
+{
+  "month": "2027-05",
+  "slices": [
+    {
+      "id": "2027-05-08-0520",
+      "focus": "A lot has been shifting lately, and one thing finally clicked at work in a way t",
+      "summary": "Honestly, the harder part was getting enough people to believe a fixed pattern would be fair, becaus",
+      "tags": [
+        "work",
+        "relationship",
+        "housing",
+        "goals",
+        "environment"
+      ],
+      "status": "closed",
+      "start": "2027-05-08T05:20:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "Eric moved the cold-chain effort from dashboard reporting into a scheduled-lane phase with fixed weekly perishables rout"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "month": "2027-04",
+  "slices": [
+    {
+      "id": "2027-04-09-0710",
+      "focus": "A lot has shifted lately, and one thing at work turned into a bigger reckoning t",
+      "summary": "Exactly, it was not really about one line in a database",
+      "tags": [
+        "work",
+        "family",
+        "health",
+        "relationship",
+        "education",
+        "housing",
+        "goals",
+        "civic"
+      ],
+      "status": "closed",
+      "start": "2027-04-09T07:10:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "Ariana's archive work shifted from broad public access support to a more accountable public process with formal correcti"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "month": "2025-03",
+  "slices": [
+    {
+      "id": "2025-03-12-1020",
+      "focus": "A lot has shifted at work since we last talked, and it finally turned into somet",
+      "summary": "What pushed it was that I stopped relying on what we think we see in the shop and started pulling ha",
+      "tags": [
+        "work",
+        "family",
+        "education",
+        "housing",
+        "goals"
+      ],
+      "status": "closed",
+      "start": "2025-03-12T10:20:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "Derek moved from informally reviewing first-year safety instruction to actively piloting a redesigned first-year safety "
+      ]
+    }
+  ]
+}

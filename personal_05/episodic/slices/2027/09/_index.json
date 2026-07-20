@@ -1,0 +1,25 @@
+{
+  "month": "2027-09",
+  "slices": [
+    {
+      "id": "2027-09-27-0545",
+      "focus": "A lot has shifted since we last talked, and one thing finally became official at",
+      "summary": "Yeah, that is exactly why it hit me the way it did",
+      "tags": [
+        "work",
+        "health",
+        "finance",
+        "housing",
+        "leisure",
+        "goals"
+      ],
+      "status": "closed",
+      "start": "2027-09-27T05:45:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "Nathaniel's title was formally changed to senior analyst for service reliability and signup coordination at COTA.",
+        "Nathaniel's salary increased modestly with the formal title change, improving the household's ability to keep building e"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "month": "2025-01",
+  "slices": [
+    {
+      "id": "2025-01-07-0100",
+      "focus": "It is nice to start using a tool like this.",
+      "summary": "My name is Tasha Nicole Whitfield",
+      "tags": [
+        "work",
+        "family",
+        "finance",
+        "relationship",
+        "travel",
+        "education",
+        "housing",
+        "leisure"
+      ],
+      "status": "closed",
+      "start": "2025-01-07T01:00:00.000Z",
+      "open_loops": [],
+      "decisions": []
+    },
+    {
+      "id": "2025-01-21-1010",
+      "focus": "A lot has been shifting lately, and work finally tipped from vaguely messy into ",
+      "summary": "Blurry is the word",
+      "tags": [
+        "work",
+        "education",
+        "leisure"
+      ],
+      "status": "closed",
+      "start": "2025-01-21T10:10:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "Miriam informally carved out one day each week for Tasha to lead volunteer coverage triage and bereavement process clean"
+      ]
+    }
+  ]
+}

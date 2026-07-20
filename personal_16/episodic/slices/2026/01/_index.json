@@ -1,0 +1,22 @@
+{
+  "month": "2026-01",
+  "slices": [
+    {
+      "id": "2026-01-15-1035",
+      "focus": "A lot has been shifting lately, and this week felt like one of those moments whe",
+      "summary": "Better than I expected, honestly",
+      "tags": [
+        "work",
+        "travel",
+        "housing",
+        "goals"
+      ],
+      "status": "closed",
+      "start": "2026-01-15T10:35:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "Saira remained operations lead, and the winter inspection left her with stronger credibility because Westgate avoided re"
+      ]
+    }
+  ]
+}

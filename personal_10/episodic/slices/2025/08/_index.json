@@ -1,0 +1,25 @@
+{
+  "month": "2025-08",
+  "slices": [
+    {
+      "id": "2025-08-15-0740",
+      "focus": "Things have been shifting a lot lately, and for once I have a work update that i",
+      "summary": "I pushed for monthly payer drill-down meetings, and I got them",
+      "tags": [
+        "work",
+        "health",
+        "education",
+        "housing",
+        "goals",
+        "environment"
+      ],
+      "status": "closed",
+      "start": "2025-08-15T07:40:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "Kelli is still revenue-cycle lead, and quarter-end figures finally showed enough first-pass denial improvement to ease t",
+        "The first visible drop in denials gives Kelli brief relief and a stronger sense that the turnaround effort might actuall"
+      ]
+    }
+  ]
+}

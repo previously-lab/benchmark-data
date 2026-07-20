@@ -1,0 +1,25 @@
+{
+  "month": "2027-07",
+  "slices": [
+    {
+      "id": "2027-07-30-0310",
+      "focus": "Things have been busy, but in a fairly ordinary way, and I finally had one of th",
+      "summary": "I think it was both, but mostly the energy",
+      "tags": [
+        "work",
+        "family",
+        "finance",
+        "housing",
+        "leisure",
+        "goals",
+        "environment"
+      ],
+      "status": "closed",
+      "start": "2027-07-30T03:10:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "The visit made Colleen more serious about the idea that, if she ever adopts a pet, it would likely be an older cat."
+      ]
+    }
+  ]
+}

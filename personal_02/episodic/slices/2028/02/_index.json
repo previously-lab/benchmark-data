@@ -1,0 +1,27 @@
+{
+  "month": "2028-02",
+  "slices": [
+    {
+      "id": "2028-02-18-1045",
+      "focus": "A lot has shifted lately, and the biggest thing is my dad is not living alone ac",
+      "summary": "Exactly, it is less driving chaos, but not less responsibility",
+      "tags": [
+        "work",
+        "family",
+        "health",
+        "finance",
+        "relationship",
+        "travel",
+        "housing",
+        "goals"
+      ],
+      "status": "closed",
+      "start": "2028-02-18T10:45:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "Rogelio moved from living alone on the West Side into a small senior apartment closer to Lucia and Daniel after another ",
+        "Lucia still lives with Daniel in their Northeast Heights townhouse, but her father's move means he now lives nearby inst"
+      ]
+    }
+  ]
+}

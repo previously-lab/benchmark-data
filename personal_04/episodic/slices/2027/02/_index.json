@@ -1,0 +1,25 @@
+{
+  "month": "2027-02",
+  "slices": [
+    {
+      "id": "2027-02-25-1300",
+      "focus": "A lot has been shifting lately, and one thing I had to finally admit is that my ",
+      "summary": "At first I did the usual thing where I told myself it was just a busy patch and I could muscle throu",
+      "tags": [
+        "work",
+        "family",
+        "health",
+        "leisure",
+        "goals",
+        "environment",
+        "civic"
+      ],
+      "status": "closed",
+      "start": "2027-02-25T13:00:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "Tasha's physical-health pattern shifted from spring pilot jaw-clenching to a winter insomnia and jaw-tension flare that "
+      ]
+    }
+  ]
+}

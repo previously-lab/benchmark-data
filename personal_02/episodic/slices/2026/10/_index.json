@@ -1,0 +1,25 @@
+{
+  "month": "2026-10",
+  "slices": [
+    {
+      "id": "2026-10-04-0715",
+      "focus": "A lot has been shifting lately, and one thing at work finally crossed from me ju",
+      "summary": "I picked people who were already steady under pressure and who understood courtroom flow, even if in",
+      "tags": [
+        "work",
+        "health",
+        "education",
+        "housing",
+        "goals",
+        "environment"
+      ],
+      "status": "closed",
+      "start": "2026-10-04T07:15:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "Lucia expanded her Spanish backup effort into a second-round cohort that adds selected bilingual clerks and one external",
+        "Lucia is now maintaining both a second-round backup cohort and a formal training binder as part of Spanish-language cour"
+      ]
+    }
+  ]
+}

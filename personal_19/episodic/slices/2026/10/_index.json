@@ -1,0 +1,24 @@
+{
+  "month": "2026-10",
+  "slices": [
+    {
+      "id": "2026-10-29-0245",
+      "focus": "A lot has shifted lately, even though it is not some huge dramatic change. My co",
+      "summary": "Pretty quickly, honestly",
+      "tags": [
+        "work",
+        "family",
+        "finance",
+        "housing",
+        "goals"
+      ],
+      "status": "closed",
+      "start": "2026-10-29T02:45:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "Ayaka moved from her previous company-leased one-bedroom into a slightly smaller but quieter company-leased apartment st",
+        "The apartment move and setup costs kept her budget tight, though she feels the quieter unit is worth the expense."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "month": "2025-07",
+  "slices": [
+    {
+      "id": "2025-07-07-1105",
+      "focus": "A lot has shifted lately, and one of the bigger things is at home, not work. We ",
+      "summary": "More the second one, unfortunately",
+      "tags": [
+        "work",
+        "family",
+        "health",
+        "finance",
+        "housing",
+        "goals"
+      ],
+      "status": "closed",
+      "start": "2025-07-07T11:05:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "Lucia's household income remained stable, but expanded roof and bathroom payments increased the debt pressure they were "
+      ]
+    }
+  ]
+}

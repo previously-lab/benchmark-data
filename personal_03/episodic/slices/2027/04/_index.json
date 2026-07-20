@@ -1,0 +1,25 @@
+{
+  "month": "2027-04",
+  "slices": [
+    {
+      "id": "2027-04-19-1040",
+      "focus": "A lot has shifted lately, even though day to day it probably looks pretty normal",
+      "summary": "Not great",
+      "tags": [
+        "work",
+        "family",
+        "finance",
+        "relationship",
+        "housing",
+        "goals"
+      ],
+      "status": "closed",
+      "start": "2027-04-19T10:40:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "Derek is now helping Logan with practical job leads and next-step planning instead of open-ended cash bailouts, which ha",
+        "Calls with Marlene are now tenser because Derek stopped solving Logan's problems with cash and is holding a harder line "
+      ]
+    }
+  ]
+}

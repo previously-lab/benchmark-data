@@ -1,0 +1,21 @@
+{
+  "month": "2028-04",
+  "slices": [
+    {
+      "id": "2028-04-03-0820",
+      "focus": "A lot has shifted since we last talked, and this time it is the work thing final",
+      "summary": "Yes, that is exactly the part that feels different",
+      "tags": [
+        "work",
+        "goals",
+        "environment"
+      ],
+      "status": "closed",
+      "start": "2028-04-03T08:20:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "Daejin formally adopted Jae-hyun's standardized dispatch board, signed turnover sheet, severe-weather hold sheet, and of"
+      ]
+    }
+  ]
+}

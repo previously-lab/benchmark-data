@@ -1,0 +1,24 @@
+{
+  "month": "2025-03",
+  "slices": [
+    {
+      "id": "2025-03-11-0950",
+      "focus": "Things have been shifting a lot lately, and the work situation finally moved fro",
+      "summary": "Definitely more of a prove-it-first green light",
+      "tags": [
+        "work",
+        "health",
+        "education",
+        "housing",
+        "leisure",
+        "goals"
+      ],
+      "status": "closed",
+      "start": "2025-03-11T09:50:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "Evan's cleanup assignment advanced into a spring pilot at three schools using a standard purchasing intake form and appr"
+      ]
+    }
+  ]
+}

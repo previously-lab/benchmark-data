@@ -1,0 +1,24 @@
+{
+  "month": "2025-04",
+  "slices": [
+    {
+      "id": "2025-04-23-0720",
+      "focus": "A lot has shifted at work since we last talked, and I finally had the big review",
+      "summary": "The sharpest resistance came from operators who felt like I was messing with routines they have basi",
+      "tags": [
+        "work",
+        "health",
+        "housing",
+        "leisure",
+        "goals"
+      ],
+      "status": "closed",
+      "start": "2025-04-23T07:20:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "Nathaniel's first corridor redesign survived review in reduced form, and he is now responsible for a limited weekday pil",
+        "He felt validated that leadership backed a pilot, but the contentious review made him more anxious about whether his pap"
+      ]
+    }
+  ]
+}

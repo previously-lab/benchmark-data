@@ -1,0 +1,49 @@
+{
+  "month": "2025-02",
+  "slices": [
+    {
+      "id": "2025-02-03-1040",
+      "focus": "Things have been really intense since we last talked, and work kind of tipped fr",
+      "summary": "I kept it really basic on purpose",
+      "tags": [
+        "work",
+        "family",
+        "health",
+        "education",
+        "housing",
+        "leisure",
+        "goals",
+        "civic"
+      ],
+      "status": "closed",
+      "start": "2025-02-03T10:40:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "Nadia is still a casework supervisor, but after a winter intake surge she began informally leading a crisis-response ove",
+        "The intake surge left Nadia more keyed up than usual and sleeping even more lightly, but it also pushed her into a more "
+      ]
+    },
+    {
+      "id": "2025-02-22-1310",
+      "focus": "A lot has shifted lately, and not in some dramatic movie way, more like one conv",
+      "summary": "Honestly, it was both",
+      "tags": [
+        "work",
+        "family",
+        "health",
+        "finance",
+        "relationship",
+        "education",
+        "housing",
+        "goals"
+      ],
+      "status": "closed",
+      "start": "2025-02-22T13:10:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "Nadia and Omar finally set a firm October wedding date after a tense Sunday night conversation about her work bleeding i",
+        "Omar and Nadia agreed to keep the wedding small and simple enough to afford and realistically plan."
+      ]
+    }
+  ]
+}

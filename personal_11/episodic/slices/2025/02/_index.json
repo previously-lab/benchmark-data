@@ -1,0 +1,23 @@
+{
+  "month": "2025-02",
+  "slices": [
+    {
+      "id": "2025-02-14-1215",
+      "focus": "Things have been pretty full lately, and I ended up with a small new habit I did",
+      "summary": "Probably the neighborhood stories more than the big city overview stuff",
+      "tags": [
+        "work",
+        "housing",
+        "leisure",
+        "goals",
+        "civic"
+      ],
+      "status": "closed",
+      "start": "2025-02-14T12:15:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "Monica started deliberately adding Milwaukee neighborhood history nonfiction to her reading stack during a tense stretch"
+      ]
+    }
+  ]
+}

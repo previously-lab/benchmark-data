@@ -1,0 +1,25 @@
+{
+  "month": "2027-02",
+  "slices": [
+    {
+      "id": "2027-02-26-0445",
+      "focus": "A lot has shifted lately, and I hit a point this week that scared me enough to f",
+      "summary": "Yeah, baseline is exactly it",
+      "tags": [
+        "work",
+        "health",
+        "finance",
+        "education",
+        "housing",
+        "goals",
+        "civic"
+      ],
+      "status": "closed",
+      "start": "2027-02-26T04:45:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "Counseling is focused mainly on Ariana's burnout, guilt, poor sleep, and her belief that resting could put other people'"
+      ]
+    }
+  ]
+}

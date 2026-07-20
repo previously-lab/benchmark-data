@@ -1,0 +1,24 @@
+{
+  "month": "2025-12",
+  "slices": [
+    {
+      "id": "2025-12-08-1210",
+      "focus": "A lot has shifted lately, and I finally had to admit one part of it was not just",
+      "summary": "The main thing was not to keep pretending it would fix itself if I just powered through",
+      "tags": [
+        "work",
+        "family",
+        "health",
+        "housing",
+        "goals",
+        "environment"
+      ],
+      "status": "closed",
+      "start": "2025-12-08T12:10:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "After a rough storm season, Marisa's winter depression hit harder than usual, and she is now actively using a light box,"
+      ]
+    }
+  ]
+}

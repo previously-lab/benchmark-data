@@ -1,0 +1,23 @@
+{
+  "month": "2027-08",
+  "slices": [
+    {
+      "id": "2027-08-15-0840",
+      "focus": "A lot has been shifting lately, and this week felt like one of those moments whe",
+      "summary": "Better than I expected, actually",
+      "tags": [
+        "work",
+        "health",
+        "relationship",
+        "housing",
+        "environment"
+      ],
+      "status": "closed",
+      "start": "2027-08-15T08:40:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "The sustained low-spoilage stretch gave Eric his first real sense that the cold-chain system could improve through proce"
+      ]
+    }
+  ]
+}

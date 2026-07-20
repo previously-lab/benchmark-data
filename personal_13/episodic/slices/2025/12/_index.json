@@ -1,0 +1,23 @@
+{
+  "month": "2025-12",
+  "slices": [
+    {
+      "id": "2025-12-14-0830",
+      "focus": "Things have been a little calmer lately, at least compared to the stretch before",
+      "summary": "Honestly, all three",
+      "tags": [
+        "work",
+        "finance",
+        "education",
+        "housing",
+        "goals"
+      ],
+      "status": "closed",
+      "start": "2025-12-14T08:30:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "Danielle became especially loyal to green chile breakfast burritos from a local stand and now treats them as her preferr"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "month": "2027-07",
+  "slices": [
+    {
+      "id": "2027-07-02-1315",
+      "focus": "A lot has shifted lately, in a good way for once. We have finally done something",
+      "summary": "Yes, that is exactly it, it feels chosen instead of defensive",
+      "tags": [
+        "work",
+        "family",
+        "finance",
+        "relationship",
+        "travel",
+        "housing",
+        "goals",
+        "environment"
+      ],
+      "status": "closed",
+      "start": "2027-07-02T13:15:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "Saira and Tom finally opened a dedicated savings pot after paying off the wedding and getting past the most urgent renov"
+      ]
+    }
+  ]
+}

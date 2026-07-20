@@ -1,0 +1,26 @@
+{
+  "month": "2025-08",
+  "slices": [
+    {
+      "id": "2025-08-09-0140",
+      "focus": "Things have been pretty packed lately, and I ended up stumbling into something s",
+      "summary": "Yes, exactly",
+      "tags": [
+        "work",
+        "family",
+        "health",
+        "finance",
+        "education",
+        "leisure",
+        "goals",
+        "civic"
+      ],
+      "status": "closed",
+      "start": "2025-08-09T01:40:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "After a library family movie morning with Mateo, Danielle became more enthusiastic about animated films and community sc"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "month": "2027-10",
+  "slices": [
+    {
+      "id": "2027-10-14-0600",
+      "focus": "A lot has shifted lately, even with things feeling a little steadier in some par",
+      "summary": "Both, really",
+      "tags": [
+        "work",
+        "family",
+        "health",
+        "finance",
+        "housing",
+        "goals",
+        "environment",
+        "civic"
+      ],
+      "status": "closed",
+      "start": "2027-10-14T06:00:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "Caleb still owns the same one-story ranch house with Lena near the San Jacinto watershed, but by late 2027 they added a ",
+        "The drainage and gutter project kept Caleb and Lena's savings thin and made them postpone other spending plans again."
+      ]
+    }
+  ]
+}

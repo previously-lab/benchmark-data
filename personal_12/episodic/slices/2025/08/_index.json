@@ -1,0 +1,24 @@
+{
+  "month": "2025-08",
+  "slices": [
+    {
+      "id": "2025-08-28-0105",
+      "focus": "A lot has shifted lately, and not in a good way. I had finally gotten into a rhy",
+      "summary": "It was less dramatic than visible mold everywhere, but more upsetting in a slow-burn way",
+      "tags": [
+        "work",
+        "relationship",
+        "housing",
+        "goals",
+        "environment"
+      ],
+      "status": "closed",
+      "start": "2025-08-28T01:05:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "After a late-summer AC failure left one archive room damp for a weekend, Ariana paused parts of the oral-history intake ",
+        "Ariana became exhausted and shaken after the humidity scare, feeling angry but vindicated that climate control remained "
+      ]
+    }
+  ]
+}

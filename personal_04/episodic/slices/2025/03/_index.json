@@ -1,0 +1,40 @@
+{
+  "month": "2025-03",
+  "slices": [
+    {
+      "id": "2025-03-05-0040",
+      "focus": "A lot has been shifting lately, and one work thing finally tipped into something",
+      "summary": "Better than I expected, honestly",
+      "tags": [
+        "work",
+        "family",
+        "housing",
+        "goals"
+      ],
+      "status": "closed",
+      "start": "2025-03-05T00:40:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "Tasha is now the bereavement coordinator informally designated to pilot a structured grief-group calendar, standard refe"
+      ]
+    },
+    {
+      "id": "2025-03-29-0330",
+      "focus": "A lot has been shifting lately, and I finally had to admit my body has been keep",
+      "summary": "The big one was that this spring planning stretch is landing in my body harder than I wanted to admi",
+      "tags": [
+        "work",
+        "education",
+        "leisure",
+        "goals"
+      ],
+      "status": "closed",
+      "start": "2025-03-29T03:30:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "Tasha started using a dental guard to address the stress-related clenching.",
+        "Her physical health baseline is still generally good, but stress symptoms became more frequent during this work stretch."
+      ]
+    }
+  ]
+}

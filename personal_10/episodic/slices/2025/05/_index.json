@@ -1,0 +1,25 @@
+{
+  "month": "2025-05",
+  "slices": [
+    {
+      "id": "2025-05-09-1120",
+      "focus": "Things have been packed for a while, but I had one oddly lighter Friday and some",
+      "summary": "Honestly, probably all three, but the biggest thing was that it got into that knot right along the t",
+      "tags": [
+        "work",
+        "family",
+        "health",
+        "education",
+        "housing",
+        "goals",
+        "civic"
+      ],
+      "status": "closed",
+      "start": "2025-05-09T11:20:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "Kelli has started attending a simple weekly community-center stretching class for people with desk jobs."
+      ]
+    }
+  ]
+}

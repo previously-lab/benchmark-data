@@ -1,0 +1,23 @@
+{
+  "month": "2026-06",
+  "slices": [
+    {
+      "id": "2026-06-16-0320",
+      "focus": "A lot has shifted lately, and this feels like one of the bigger turns in that wh",
+      "summary": "Probably the training, honestly",
+      "tags": [
+        "work",
+        "family",
+        "housing",
+        "leisure",
+        "goals"
+      ],
+      "status": "closed",
+      "start": "2026-06-16T03:20:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "Danielle won summer approval to standardize districtwide freezer-capacity maps and manager training on a substitution ma"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "month": "2026-04",
+  "slices": [
+    {
+      "id": "2026-04-21-0655",
+      "focus": "A lot has shifted lately, and work finally feels like it has turned a corner ins",
+      "summary": "Definitely the habit change part",
+      "tags": [
+        "work",
+        "education",
+        "goals"
+      ],
+      "status": "closed",
+      "start": "2026-04-21T06:55:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "Hannah expanded her post-crate overhaul from outbound shipping controls into a formal room-by-room collections audit wit"
+      ]
+    }
+  ]
+}

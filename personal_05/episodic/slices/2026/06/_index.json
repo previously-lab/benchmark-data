@@ -1,0 +1,24 @@
+{
+  "month": "2026-06",
+  "slices": [
+    {
+      "id": "2026-06-01-2335",
+      "focus": "A lot has shifted lately, or at least it finally feels like some of the work is ",
+      "summary": "Honestly, the reaction was more serious than enthusiastic, but that was still a win",
+      "tags": [
+        "work",
+        "finance",
+        "housing",
+        "leisure",
+        "goals"
+      ],
+      "status": "closed",
+      "start": "2026-06-01T23:35:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "Nathaniel is now overseeing two monitored corridor redesigns, with improving second-corridor data and a formal reliabili",
+        "The improving second-corridor numbers gave Nathaniel a more grounded sense that schedule reform can survive setbacks if "
+      ]
+    }
+  ]
+}

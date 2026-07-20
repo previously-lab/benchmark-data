@@ -1,0 +1,25 @@
+{
+  "month": "2025-02",
+  "slices": [
+    {
+      "id": "2025-02-14-1215",
+      "focus": "A lot has been shifting lately, and tonight turned into a bigger conversation th",
+      "summary": "He did not blow up, which honestly was my biggest fear",
+      "tags": [
+        "work",
+        "family",
+        "finance",
+        "relationship",
+        "housing",
+        "goals"
+      ],
+      "status": "closed",
+      "start": "2025-02-14T12:15:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "On Valentine's Day, Nathaniel and Erin had a careful talk and agreed that Darius has six weeks to either find other hous",
+        "Darius is still staying with them temporarily, but the arrangement is now more structured and a little tense because he "
+      ]
+    }
+  ]
+}

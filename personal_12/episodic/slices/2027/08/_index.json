@@ -1,0 +1,26 @@
+{
+  "month": "2027-08",
+  "slices": [
+    {
+      "id": "2027-08-17-0250",
+      "focus": "Things have been moving again since we last talked, and this one feels like a re",
+      "summary": "Exactly, plateau is the word that has been haunting me",
+      "tags": [
+        "work",
+        "family",
+        "relationship",
+        "housing",
+        "leisure",
+        "goals",
+        "environment",
+        "civic"
+      ],
+      "status": "closed",
+      "start": "2027-08-17T02:50:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "Ariana moved the oral-history project into a targeted expansion phase aimed at underdocumented blocks, commercial corrid"
+      ]
+    }
+  ]
+}

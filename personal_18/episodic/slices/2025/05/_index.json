@@ -1,0 +1,24 @@
+{
+  "month": "2025-05",
+  "slices": [
+    {
+      "id": "2025-05-09-0720",
+      "focus": "A lot has shifted at work since we last talked, and I finally pushed one thing o",
+      "summary": "The first full run was tense, but honestly kind of great",
+      "tags": [
+        "work",
+        "relationship",
+        "education",
+        "housing",
+        "leisure",
+        "goals"
+      ],
+      "status": "closed",
+      "start": "2025-05-09T07:20:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "Jordan became the planner who runs Alder Street's new visual production board, replacing her earlier capacity-sheet syst"
+      ]
+    }
+  ]
+}

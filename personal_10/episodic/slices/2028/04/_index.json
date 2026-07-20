@@ -1,0 +1,23 @@
+{
+  "month": "2028-04",
+  "slices": [
+    {
+      "id": "2028-04-09-0935",
+      "focus": "A lot has shifted lately, and one big thing finally crossed from feeling fragile",
+      "summary": "Honestly, it was the quiet more than the numbers",
+      "tags": [
+        "work",
+        "finance",
+        "housing",
+        "goals",
+        "environment"
+      ],
+      "status": "closed",
+      "start": "2028-04-09T09:35:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "By spring 2028, Kelli could document a successful claims-recovery turnaround with sustained low denial rates, shorter pa"
+      ]
+    }
+  ]
+}

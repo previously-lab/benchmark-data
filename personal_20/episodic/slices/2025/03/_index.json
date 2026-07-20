@@ -1,0 +1,24 @@
+{
+  "month": "2025-03",
+  "slices": [
+    {
+      "id": "2025-03-11-0615",
+      "focus": "A lot has shifted at work since we last talked, and it finally feels like one of",
+      "summary": "It got more specific fast",
+      "tags": [
+        "work",
+        "health",
+        "relationship",
+        "housing",
+        "goals"
+      ],
+      "status": "closed",
+      "start": "2025-03-11T06:15:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "Leadership informally assigned Eric to build a spoilage baseline report across Freestore Foodbank's regional perishables",
+        "Eric felt more tense but also newly focused because leadership was finally taking the spoilage problem seriously and exp"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "month": "2026-10",
+  "slices": [
+    {
+      "id": "2026-10-06-0110",
+      "focus": "Things have been shifting a lot lately, in a good way for once. The big thing is",
+      "summary": "Honestly, more the second one",
+      "tags": [
+        "work",
+        "travel",
+        "education",
+        "housing",
+        "leisure",
+        "goals",
+        "environment",
+        "civic"
+      ],
+      "status": "closed",
+      "start": "2026-10-06T01:10:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "Colleen has started assigning easier repeat school visits fully to trained volunteers instead of personally covering eve"
+      ]
+    }
+  ]
+}

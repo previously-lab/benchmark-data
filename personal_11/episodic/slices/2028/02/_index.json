@@ -1,0 +1,21 @@
+{
+  "month": "2028-02",
+  "slices": [
+    {
+      "id": "2028-02-06-0140",
+      "focus": "A lot has been shifting lately, and I finally did something I had been putting o",
+      "summary": "The first thing was chronic-offender criteria, because that was where too much drift could creep in",
+      "tags": [
+        "work",
+        "travel",
+        "housing"
+      ],
+      "status": "closed",
+      "start": "2028-02-06T01:40:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "Monica codified her two-corridor enforcement workflow into a written supervisor packet so the approach would survive sta"
+      ]
+    }
+  ]
+}

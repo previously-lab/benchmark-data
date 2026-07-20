@@ -1,0 +1,24 @@
+{
+  "month": "2025-06",
+  "slices": [
+    {
+      "id": "2025-06-11-0205",
+      "focus": "A lot has shifted since we last talked, and work got hit with the kind of moment",
+      "summary": "What stings is that my own spreadsheet is what made it obvious",
+      "tags": [
+        "work",
+        "family",
+        "education",
+        "housing",
+        "leisure",
+        "goals"
+      ],
+      "status": "closed",
+      "start": "2025-06-11T02:05:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "Tasha is still running the bereavement pilot at Transitions LifeCare, but a documented family complaint exposed a missed"
+      ]
+    }
+  ]
+}

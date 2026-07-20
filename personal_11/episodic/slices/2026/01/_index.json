@@ -1,0 +1,24 @@
+{
+  "month": "2026-01",
+  "slices": [
+    {
+      "id": "2026-01-12-0045",
+      "focus": "A lot has shifted lately, and I finally feel like I have something real to show ",
+      "summary": "Probably the triggers",
+      "tags": [
+        "work",
+        "education",
+        "housing",
+        "leisure",
+        "goals",
+        "environment"
+      ],
+      "status": "closed",
+      "start": "2026-01-12T00:45:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "Monica rebuilt her slowed corridor enforcement process around a formal chronic-offender brief and a standardized escalat"
+      ]
+    }
+  ]
+}

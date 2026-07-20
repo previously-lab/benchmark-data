@@ -1,0 +1,24 @@
+{
+  "month": "2025-05",
+  "slices": [
+    {
+      "id": "2025-05-02-0430",
+      "focus": "Things have been intense lately, and I finally hit a point where I could not jus",
+      "summary": "The biggest thing was, stop pretending I can just push past the warning signs",
+      "tags": [
+        "work",
+        "family",
+        "health",
+        "travel",
+        "goals"
+      ],
+      "status": "closed",
+      "start": "2025-05-02T04:30:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "After a severe migraine-related workweek flare, Lucia saw her primary care doctor and adopted a prevention routine for c",
+        "The migraine scare made Lucia less reckless about her own limits even as she stays determined about court reform."
+      ]
+    }
+  ]
+}

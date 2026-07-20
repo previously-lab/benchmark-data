@@ -1,0 +1,22 @@
+{
+  "month": "2026-06",
+  "slices": [
+    {
+      "id": "2026-06-18-1140",
+      "focus": "Things have been busy since we last talked, and work has kind of shifted again. ",
+      "summary": "Honestly, it was two things together",
+      "tags": [
+        "work",
+        "family",
+        "education",
+        "housing"
+      ],
+      "status": "closed",
+      "start": "2026-06-18T11:40:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "Saira remained operations lead and extended her workflow overhaul into pickup scheduling and day-coded collection shelvi"
+      ]
+    }
+  ]
+}

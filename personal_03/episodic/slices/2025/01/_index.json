@@ -1,0 +1,44 @@
+{
+  "month": "2025-01",
+  "slices": [
+    {
+      "id": "2025-01-08-1130",
+      "focus": "It is nice to start using a tool like this.",
+      "summary": "Sure",
+      "tags": [
+        "work",
+        "family",
+        "health",
+        "finance",
+        "relationship",
+        "travel",
+        "education",
+        "housing"
+      ],
+      "status": "closed",
+      "start": "2025-01-08T11:30:00.000Z",
+      "open_loops": [],
+      "decisions": []
+    },
+    {
+      "id": "2025-01-28-0750",
+      "focus": "A lot has shifted lately, and work just got heavier in a way I did not exactly a",
+      "summary": "Part of it was how obvious it was",
+      "tags": [
+        "work",
+        "family",
+        "education",
+        "housing",
+        "leisure",
+        "environment"
+      ],
+      "status": "closed",
+      "start": "2025-01-28T07:50:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "After a first-year apprentice slipped while overreaching from an extension ladder during a winter lighting retrofit, Der",
+        "Derek feels more keyed up and grimly focused after the near-miss, and his sleep is a little worse because he keeps repla"
+      ]
+    }
+  ]
+}

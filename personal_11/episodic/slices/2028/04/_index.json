@@ -1,0 +1,27 @@
+{
+  "month": "2028-04",
+  "slices": [
+    {
+      "id": "2028-04-27-1205",
+      "focus": "A lot has shifted lately, not in some huge dramatic way, just enough that I real",
+      "summary": "Honestly, the first thing was how unbothered she seemed by structure",
+      "tags": [
+        "work",
+        "family",
+        "finance",
+        "relationship",
+        "education",
+        "housing",
+        "leisure",
+        "goals"
+      ],
+      "status": "closed",
+      "start": "2028-04-27T12:05:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "Monica is no longer in a mostly single routine and is now cautiously dating Naomi Sato, moving slowly but with more opti",
+        "Naomi Sato is a Milwaukee Public Library archivist Monica met through Shawna's birthday dinner, and by spring 2028 they "
+      ]
+    }
+  ]
+}

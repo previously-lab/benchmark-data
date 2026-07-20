@@ -1,0 +1,24 @@
+{
+  "month": "2025-05",
+  "slices": [
+    {
+      "id": "2025-05-12-1030",
+      "focus": "A lot has shifted lately, mostly on the home front. The big thing is Darius fina",
+      "summary": "Mostly relieved, honestly",
+      "tags": [
+        "work",
+        "family",
+        "finance",
+        "housing",
+        "goals"
+      ],
+      "status": "closed",
+      "start": "2025-05-12T10:30:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "Darius moved out of Nathaniel and Erin's apartment after landing a night-shift warehouse job through a church contact, r",
+        "Darius found a shared townhouse room on the South Side after getting warehouse work, so Nathaniel no longer hosts him da"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "month": "2027-01",
+  "slices": [
+    {
+      "id": "2027-01-17-0055",
+      "focus": "Things have been shifting again at work, and this time it actually moved in a di",
+      "summary": "Honestly, the harder part was the priority order",
+      "tags": [
+        "work",
+        "housing",
+        "goals",
+        "civic"
+      ],
+      "status": "closed",
+      "start": "2027-01-17T00:55:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "Monica won an internal priority rule that any reopened high-risk case in the two target corridors gets triaged to reinsp"
+      ]
+    }
+  ]
+}

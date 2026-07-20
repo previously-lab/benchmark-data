@@ -1,0 +1,25 @@
+{
+  "month": "2028-01",
+  "slices": [
+    {
+      "id": "2028-01-08-0800",
+      "focus": "A lot has shifted lately, and one thing that finally became real is money feels ",
+      "summary": "Mostly calming, with a little superstition around it, like if I look at it too directly something wi",
+      "tags": [
+        "work",
+        "family",
+        "finance",
+        "relationship",
+        "housing",
+        "goals",
+        "environment"
+      ],
+      "status": "closed",
+      "start": "2028-01-08T08:00:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "Jordan got a further raise that finally stuck in Alder Street's year-end budget."
+      ]
+    }
+  ]
+}

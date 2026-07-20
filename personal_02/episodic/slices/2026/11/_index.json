@@ -1,0 +1,24 @@
+{
+  "month": "2026-11",
+  "slices": [
+    {
+      "id": "2026-11-13-1310",
+      "focus": "It has been a busy stretch, but in a pretty ordinary way for once. Around my bir",
+      "summary": "I think it is a mix of all three, honestly",
+      "tags": [
+        "work",
+        "health",
+        "relationship",
+        "education",
+        "housing",
+        "leisure"
+      ],
+      "status": "closed",
+      "start": "2026-11-13T13:10:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "After a birthday weekend painting a patched hallway with Daniel, Lucia began relying more heavily on restored 1990s Lati"
+      ]
+    }
+  ]
+}

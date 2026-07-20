@@ -1,0 +1,23 @@
+{
+  "month": "2025-07",
+  "slices": [
+    {
+      "id": "2025-07-13-0730",
+      "focus": "Things have been busy lately, and in the middle of all that I had one of those t",
+      "summary": "More the second one",
+      "tags": [
+        "work",
+        "family",
+        "health",
+        "leisure",
+        "goals"
+      ],
+      "status": "closed",
+      "start": "2025-07-13T07:30:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "Ariana started favoring milder seafood stews and less pepper-heavy meals when stress made her eczema act up."
+      ]
+    }
+  ]
+}

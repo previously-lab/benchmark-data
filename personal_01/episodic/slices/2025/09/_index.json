@@ -1,0 +1,25 @@
+{
+  "month": "2025-09",
+  "slices": [
+    {
+      "id": "2025-09-14-0950",
+      "focus": "Things have been busy in the usual way, and this weekend ended up giving me a ve",
+      "summary": "The first birria one got me because they handed over that little cup of consommé and suddenly I was ",
+      "tags": [
+        "work",
+        "family",
+        "finance",
+        "travel",
+        "housing",
+        "leisure",
+        "environment"
+      ],
+      "status": "closed",
+      "start": "2025-09-14T09:50:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "Marisa's food preferences broadened from just liking fish tacos and pozole to actively seeking out regional birria and t"
+      ]
+    }
+  ]
+}

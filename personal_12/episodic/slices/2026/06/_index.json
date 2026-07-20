@@ -1,0 +1,26 @@
+{
+  "month": "2026-06",
+  "slices": [
+    {
+      "id": "2026-06-30-0310",
+      "focus": "A lot has shifted lately, and for once I feel like the work moved from careful p",
+      "summary": "Exactly, I did not want it to turn into vague nostalgia hour",
+      "tags": [
+        "work",
+        "family",
+        "health",
+        "finance",
+        "relationship",
+        "travel",
+        "housing",
+        "leisure"
+      ],
+      "status": "closed",
+      "start": "2026-06-30T03:10:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "Ariana expanded the Tremé Heritage Center oral-history program into public use by running structured neighborhood listen"
+      ]
+    }
+  ]
+}

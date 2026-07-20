@@ -1,0 +1,26 @@
+{
+  "month": "2027-10",
+  "slices": [
+    {
+      "id": "2027-10-15-0255",
+      "focus": "It has been a little while, and life has felt just busy enough that I almost for",
+      "summary": "Honestly, how completely it pulled my brain somewhere else",
+      "tags": [
+        "work",
+        "health",
+        "finance",
+        "travel",
+        "housing",
+        "leisure",
+        "goals",
+        "environment"
+      ],
+      "status": "closed",
+      "start": "2027-10-15T02:55:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "Lena Morales is a volunteer coordinator Tasha met through community nonprofit work who later became her occasional bird-"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "month": "2026-01",
+  "slices": [
+    {
+      "id": "2026-01-18-0815",
+      "focus": "It has been a busy stretch, but in a more ordinary winter way than some of the b",
+      "summary": "Probably both",
+      "tags": [
+        "work",
+        "family",
+        "finance",
+        "education",
+        "housing",
+        "leisure",
+        "goals",
+        "environment"
+      ],
+      "status": "closed",
+      "start": "2026-01-18T08:15:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "After a library family movie night with Maya during a cold January stretch, Eric leaned harder into baseball movies as h"
+      ]
+    }
+  ]
+}

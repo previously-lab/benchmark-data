@@ -1,0 +1,22 @@
+{
+  "month": "2028-02",
+  "slices": [
+    {
+      "id": "2028-02-08-1025",
+      "focus": "Things have been busy since we last talked, but in a way that felt a little diff",
+      "summary": "Honestly, probably all three",
+      "tags": [
+        "work",
+        "health",
+        "education",
+        "goals"
+      ],
+      "status": "closed",
+      "start": "2028-02-08T10:25:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "Her voice still gets strained in heavy seasons, but better pacing, shared tour coverage, and routine microphone use have"
+      ]
+    }
+  ]
+}

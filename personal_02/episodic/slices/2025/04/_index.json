@@ -1,0 +1,26 @@
+{
+  "month": "2025-04",
+  "slices": [
+    {
+      "id": "2025-04-11-0845",
+      "focus": "Things have been shifting at work again since we last talked, and I finally feel",
+      "summary": "I kept it very small on purpose",
+      "tags": [
+        "work",
+        "health",
+        "finance",
+        "education",
+        "housing",
+        "leisure",
+        "goals",
+        "environment"
+      ],
+      "status": "closed",
+      "start": "2025-04-11T08:45:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "Lucia now pairs the court's scheduling-buffer pilot with a monthly in-house interpreter skills circle to build possible "
+      ]
+    }
+  ]
+}

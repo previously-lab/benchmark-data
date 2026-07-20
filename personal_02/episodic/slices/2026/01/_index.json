@@ -1,0 +1,21 @@
+{
+  "month": "2026-01",
+  "slices": [
+    {
+      "id": "2026-01-28-0905",
+      "focus": "A lot has been shifting lately, and for once I actually have a work update that ",
+      "summary": "Honestly, the scramble changed first",
+      "tags": [
+        "work",
+        "housing",
+        "goals"
+      ],
+      "status": "closed",
+      "start": "2026-01-28T09:05:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "Lucia's redesigned cohort produced its first operational win: three cohort members were cleared for limited backup assig"
+      ]
+    }
+  ]
+}

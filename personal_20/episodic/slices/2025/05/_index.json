@@ -1,0 +1,23 @@
+{
+  "month": "2025-05",
+  "slices": [
+    {
+      "id": "2025-05-21-0850",
+      "focus": "A lot has shifted lately, and this finally feels like it crossed from me just ma",
+      "summary": "I kept it pretty practical",
+      "tags": [
+        "work",
+        "health",
+        "education",
+        "housing",
+        "leisure"
+      ],
+      "status": "closed",
+      "start": "2025-05-21T08:50:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "Eric moved from baseline mapping into leading a small operational redesign inside his cold-chain coordinator role, with "
+      ]
+    }
+  ]
+}

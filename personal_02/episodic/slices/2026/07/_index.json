@@ -1,0 +1,21 @@
+{
+  "month": "2026-07",
+  "slices": [
+    {
+      "id": "2026-07-15-0840",
+      "focus": "A lot has shifted lately, and one work thing finally moved in a direction I have",
+      "summary": "Honestly, all three",
+      "tags": [
+        "work",
+        "leisure",
+        "goals"
+      ],
+      "status": "closed",
+      "start": "2026-07-15T08:40:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "Lucia's job structure now includes backup tiers, monthly operations review, and partially restored targeted spacing tied"
+      ]
+    }
+  ]
+}

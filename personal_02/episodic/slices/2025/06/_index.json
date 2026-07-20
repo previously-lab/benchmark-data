@@ -1,0 +1,20 @@
+{
+  "month": "2025-06",
+  "slices": [
+    {
+      "id": "2025-06-18-1025",
+      "focus": "A lot has been shifting lately, and one work thing finally clicked into a more o",
+      "summary": "The hardest part was not overstuffing it",
+      "tags": [
+        "work",
+        "environment"
+      ],
+      "status": "closed",
+      "start": "2025-06-18T10:25:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "Lucia turned her handwritten pilot log into a monthly one-page language-access dashboard for the Albuquerque Municipal C"
+      ]
+    }
+  ]
+}

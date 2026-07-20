@@ -1,0 +1,20 @@
+{
+  "month": "2027-09",
+  "slices": [
+    {
+      "id": "2027-09-19-0650",
+      "focus": "A lot has shifted at work lately, in a way that feels bigger than just cleaning ",
+      "summary": "Better than I expected, honestly",
+      "tags": [
+        "work",
+        "goals"
+      ],
+      "status": "closed",
+      "start": "2027-09-19T06:50:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "Danielle's district nutrition logistics role now includes issuing semester reliability reports that connect vendor on-ti"
+      ]
+    }
+  ]
+}

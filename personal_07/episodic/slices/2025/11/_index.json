@@ -1,0 +1,26 @@
+{
+  "month": "2025-11",
+  "slices": [
+    {
+      "id": "2025-11-09-0625",
+      "focus": "It has been a busy stretch, and this is a much smaller thing than some of what h",
+      "summary": "Yeah, the clean ending point was a big part of it",
+      "tags": [
+        "work",
+        "family",
+        "health",
+        "finance",
+        "travel",
+        "housing",
+        "leisure",
+        "goals"
+      ],
+      "status": "closed",
+      "start": "2025-11-09T06:25:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "After a successful Forest Park museum day, Evan leaned even more strongly toward short regional car trips built around m"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "month": "2025-10",
+  "slices": [
+    {
+      "id": "2025-10-03-0855",
+      "focus": "A lot has shifted lately, and I feel like I just hit the first real wall with th",
+      "summary": "Honestly, both, but the bigger thing is that it makes me feel publicly controlled in a way I have no",
+      "tags": [
+        "work",
+        "finance",
+        "education",
+        "housing",
+        "goals",
+        "environment"
+      ],
+      "status": "closed",
+      "start": "2025-10-03T08:55:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "Judge Evelyn Baca pushed leadership to suspend Lucia's training shadows and scheduling buffer gaps on high-volume days, ",
+        "Lucia feels publicly controlled and privately demoralized after Judge Baca overrode parts of her scheduling pilot, and s"
+      ]
+    },
+    {
+      "id": "2025-10-26-0350",
+      "focus": "Things have felt heavy for a while, so I wanted to tell you about a very small t",
+      "summary": "Yes, exactly, it felt off-duty in a way I have not managed much lately",
+      "tags": [
+        "work",
+        "housing",
+        "goals"
+      ],
+      "status": "closed",
+      "start": "2025-10-26T03:50:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "After stopping at a small Sunday market near Old Town and trying a vendor's caldo sample, Lucia started keeping a short "
+      ]
+    }
+  ]
+}

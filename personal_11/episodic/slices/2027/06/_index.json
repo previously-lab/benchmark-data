@@ -1,0 +1,25 @@
+{
+  "month": "2027-06",
+  "slices": [
+    {
+      "id": "2027-06-29-1315",
+      "focus": "A lot has been shifting lately, and I finally admitted to myself that I have not",
+      "summary": "Honestly, it was the combination that got me",
+      "tags": [
+        "work",
+        "family",
+        "health",
+        "education",
+        "housing",
+        "goals",
+        "environment"
+      ],
+      "status": "closed",
+      "start": "2027-06-29T13:15:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "Monica started short-term counseling through the City of Milwaukee's employee assistance program after finally admitting"
+      ]
+    }
+  ]
+}

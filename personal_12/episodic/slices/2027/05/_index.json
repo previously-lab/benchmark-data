@@ -1,0 +1,25 @@
+{
+  "month": "2027-05",
+  "slices": [
+    {
+      "id": "2027-05-22-1130",
+      "focus": "A lot has felt a little softer lately, not easy exactly, but softer, and I had o",
+      "summary": "Exactly, it felt grounding instead of like one more thing needing something from me",
+      "tags": [
+        "work",
+        "health",
+        "finance",
+        "travel",
+        "education",
+        "housing",
+        "goals"
+      ],
+      "status": "closed",
+      "start": "2027-05-22T11:30:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "Helping with an older tabby made Ariana more actively interested in someday adopting a senior cat, even though she still"
+      ]
+    }
+  ]
+}

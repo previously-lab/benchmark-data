@@ -1,0 +1,22 @@
+{
+  "month": "2025-04",
+  "slices": [
+    {
+      "id": "2025-04-17-0610",
+      "focus": "A lot has shifted at work since we last talked, and the pilot finally moved off ",
+      "summary": "Mixed, honestly",
+      "tags": [
+        "work",
+        "health",
+        "finance",
+        "housing"
+      ],
+      "status": "closed",
+      "start": "2025-04-17T06:10:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "Hannah remains the Providence Museum of Art's registrar, but after the cleanup pilot exposed widespread location mismatc"
+      ]
+    }
+  ]
+}

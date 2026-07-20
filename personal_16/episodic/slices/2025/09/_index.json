@@ -1,0 +1,25 @@
+{
+  "month": "2025-09",
+  "slices": [
+    {
+      "id": "2025-09-14-0410",
+      "focus": "Things have been a bit relentless again since we last talked, and I ended up hav",
+      "summary": "Yes, that is exactly it",
+      "tags": [
+        "work",
+        "family",
+        "health",
+        "finance",
+        "housing",
+        "leisure",
+        "goals"
+      ],
+      "status": "closed",
+      "start": "2025-09-14T04:10:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "Saira's savings buffer got thinner again because she gave Imran another round of financial help and postponed more house"
+      ]
+    }
+  ]
+}

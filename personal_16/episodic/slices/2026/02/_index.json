@@ -1,0 +1,25 @@
+{
+  "month": "2026-02",
+  "slices": [
+    {
+      "id": "2026-02-27-1230",
+      "focus": "A lot has shifted lately, in a quiet practical sort of way. The big thing is tha",
+      "summary": "Honestly, we got tired of having the same argument in different clothes",
+      "tags": [
+        "work",
+        "family",
+        "finance",
+        "travel",
+        "education",
+        "housing",
+        "goals"
+      ],
+      "status": "closed",
+      "start": "2026-02-27T12:30:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "Saira and Tom finally booked a small registry-office wedding for early summer after months of postponement."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "month": "2026-10",
+  "slices": [
+    {
+      "id": "2026-10-27-1035",
+      "focus": "It has been one of those stretches where regular work life keeps spilling into l",
+      "summary": "What changed is that I asked Clifton afterward for a copy of a brass band reissue he had mentioned w",
+      "tags": [
+        "work",
+        "housing",
+        "leisure",
+        "goals",
+        "civic"
+      ],
+      "status": "closed",
+      "start": "2026-10-27T10:35:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "Ariana started curating more specific archival New Orleans playlists for long metadata sessions instead of relying mostl"
+      ]
+    }
+  ]
+}

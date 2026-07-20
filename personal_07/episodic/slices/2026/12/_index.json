@@ -1,0 +1,25 @@
+{
+  "month": "2026-12",
+  "slices": [
+    {
+      "id": "2026-12-03-1300",
+      "focus": "A lot has shifted around the house since we last talked, not in some huge dramat",
+      "summary": "Pretty much both",
+      "tags": [
+        "work",
+        "family",
+        "health",
+        "travel",
+        "housing",
+        "goals"
+      ],
+      "status": "closed",
+      "start": "2026-12-03T13:00:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "The family added handrails and made the basement entrance safer after Lourdes's near fall.",
+        "Lourdes still lives in the basement suite and helps when she can, but her scary slip made her care needs more explicit a"
+      ]
+    }
+  ]
+}

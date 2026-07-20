@@ -1,0 +1,23 @@
+{
+  "month": "2027-11",
+  "slices": [
+    {
+      "id": "2027-11-18-0500",
+      "focus": "Things have been a bit calmer lately, which is probably why this silly little th",
+      "summary": "Mostly what I remembered to pack, if I'm honest",
+      "tags": [
+        "work",
+        "health",
+        "finance",
+        "housing",
+        "goals"
+      ],
+      "status": "closed",
+      "start": "2027-11-18T05:00:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "Saira shifted from defaulting to supermarket meal deals on long workdays to bringing packed leftovers and simple lunches"
+      ]
+    }
+  ]
+}

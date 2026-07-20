@@ -1,0 +1,25 @@
+{
+  "month": "2027-11",
+  "slices": [
+    {
+      "id": "2027-11-11-1020",
+      "focus": "It has been a little while, and life has felt calmer in a way I have not had muc",
+      "summary": "Honestly, it was the combination",
+      "tags": [
+        "work",
+        "family",
+        "relationship",
+        "travel",
+        "housing",
+        "goals",
+        "environment"
+      ],
+      "status": "closed",
+      "start": "2027-11-11T10:20:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "Monica's travel preference shifted from defaulting to Chicago weekends toward simple late-summer Wisconsin getaways with"
+      ]
+    }
+  ]
+}

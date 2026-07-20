@@ -1,0 +1,22 @@
+{
+  "month": "2028-03",
+  "slices": [
+    {
+      "id": "2028-03-09-1005",
+      "focus": "It has been a calmer stretch lately, which still feels a little strange to say o",
+      "summary": "Yes, exactly",
+      "tags": [
+        "work",
+        "family",
+        "goals",
+        "civic"
+      ],
+      "status": "closed",
+      "start": "2028-03-09T10:05:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "Ayaka's movie preference sharpened from generally liking grounded Japanese dramas to being especially drawn to low-key c"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "month": "2025-11",
+  "slices": [
+    {
+      "id": "2025-11-09-0140",
+      "focus": "A lot has shifted lately, and one thing that finally changed is home. Priya and ",
+      "summary": "Honestly, I think I just hit my limit",
+      "tags": [
+        "work",
+        "health",
+        "finance",
+        "housing",
+        "leisure",
+        "goals"
+      ],
+      "status": "closed",
+      "start": "2025-11-09T01:40:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "Hannah still lives with Priya, but the apartment is now decluttered enough for a calmer setup and less spillover from st"
+      ]
+    }
+  ]
+}

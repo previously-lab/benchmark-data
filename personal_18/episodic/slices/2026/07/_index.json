@@ -1,0 +1,26 @@
+{
+  "month": "2026-07",
+  "slices": [
+    {
+      "id": "2026-07-19-1115",
+      "focus": "It has been a while since we chatted, and life has felt a little less jagged in ",
+      "summary": "I think the low stakes are what made it click",
+      "tags": [
+        "work",
+        "family",
+        "travel",
+        "education",
+        "housing",
+        "leisure",
+        "goals",
+        "civic"
+      ],
+      "status": "closed",
+      "start": "2026-07-19T11:15:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "Jordan became friendly with a new neighbor, Inez Park, who invited her to a once-a-month jigsaw puzzle night in their bu"
+      ]
+    }
+  ]
+}

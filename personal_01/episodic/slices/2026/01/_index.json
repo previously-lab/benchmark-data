@@ -1,0 +1,25 @@
+{
+  "month": "2026-01",
+  "slices": [
+    {
+      "id": "2026-01-27-0735",
+      "focus": "A lot has shifted lately, and work changed faster than I expected. Gordon retire",
+      "summary": "Honestly, the buffer part",
+      "tags": [
+        "work",
+        "finance",
+        "education",
+        "housing",
+        "goals",
+        "environment"
+      ],
+      "status": "closed",
+      "start": "2026-01-27T07:35:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "After Gordon retired, Marisa became the primary public-facing lead for the county oyster program, handling commission br",
+        "Gordon is now retired and has shifted from an internal county protector to an occasional off-the-clock sounding board fo"
+      ]
+    }
+  ]
+}

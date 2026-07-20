@@ -1,0 +1,25 @@
+{
+  "month": "2026-04",
+  "slices": [
+    {
+      "id": "2026-04-21-0700",
+      "focus": "Things have been busy lately, but a pretty ordinary Sunday ended up sticking wit",
+      "summary": "Yeah, it did",
+      "tags": [
+        "work",
+        "family",
+        "health",
+        "travel",
+        "education",
+        "housing",
+        "goals"
+      ],
+      "status": "closed",
+      "start": "2026-04-21T07:00:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "Jae-hyun now strongly favors simple home-cooked fish and rice after shifts because greasy dock meals aggravate his reflu"
+      ]
+    }
+  ]
+}

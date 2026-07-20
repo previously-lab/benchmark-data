@@ -1,0 +1,26 @@
+{
+  "month": "2027-10",
+  "slices": [
+    {
+      "id": "2027-10-06-1205",
+      "focus": "A lot has been shifting lately, and one thing finally came to a head at home. I ",
+      "summary": "Yeah, clarity is exactly what it was",
+      "tags": [
+        "work",
+        "health",
+        "relationship",
+        "travel",
+        "education",
+        "housing",
+        "goals",
+        "environment"
+      ],
+      "status": "closed",
+      "start": "2027-10-06T12:05:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "Mei-Lin shifted from quietly supportive to actively confronting Jordan when work started swallowing their shared time."
+      ]
+    }
+  ]
+}

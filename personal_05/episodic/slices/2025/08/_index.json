@@ -1,0 +1,23 @@
+{
+  "month": "2025-08",
+  "slices": [
+    {
+      "id": "2025-08-21-0815",
+      "focus": "A lot has shifted lately, and this one feels pretty significant. The corridor wo",
+      "summary": "Honestly both, almost at the same time",
+      "tags": [
+        "work",
+        "health",
+        "travel",
+        "housing",
+        "goals"
+      ],
+      "status": "closed",
+      "start": "2025-08-21T08:15:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "Nathaniel's first corridor weekday pilot was successful enough on on-time performance and complaint reduction that leade"
+      ]
+    }
+  ]
+}

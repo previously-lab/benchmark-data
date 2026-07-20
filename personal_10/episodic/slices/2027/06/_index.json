@@ -1,0 +1,26 @@
+{
+  "month": "2027-06",
+  "slices": [
+    {
+      "id": "2027-06-16-1000",
+      "focus": "A lot has shifted lately, in a good way for once. The biggest thing is I finally",
+      "summary": "Honestly, I think what landed was that I could show this wasn't theory anymore",
+      "tags": [
+        "work",
+        "health",
+        "travel",
+        "education",
+        "housing",
+        "leisure",
+        "goals",
+        "environment"
+      ],
+      "status": "closed",
+      "start": "2027-06-16T10:00:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "Kelli is still revenue-cycle lead, and denial prevention is now built into front-desk onboarding with documented trainin"
+      ]
+    }
+  ]
+}

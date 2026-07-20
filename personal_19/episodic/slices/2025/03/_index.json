@@ -1,0 +1,23 @@
+{
+  "month": "2025-03",
+  "slices": [
+    {
+      "id": "2025-03-07-1240",
+      "focus": "Things have been a little tense lately, but in a very ordinary way, if that make",
+      "summary": "Mostly steadier, I think",
+      "tags": [
+        "work",
+        "health",
+        "finance",
+        "travel",
+        "housing"
+      ],
+      "status": "closed",
+      "start": "2025-03-07T12:40:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "Ayaka started keeping mint herbal tea in her locker for late paperwork shifts instead of relying on vending-machine coff"
+      ]
+    }
+  ]
+}

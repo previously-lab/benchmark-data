@@ -1,0 +1,22 @@
+{
+  "month": "2025-08",
+  "slices": [
+    {
+      "id": "2025-08-24-0605",
+      "focus": "It has been a little while, and things have felt oddly calmer lately, at least i",
+      "summary": "Yeah, that is exactly it, the not-having-to-care-too-hard part",
+      "tags": [
+        "work",
+        "housing",
+        "leisure",
+        "environment"
+      ],
+      "status": "closed",
+      "start": "2025-08-24T06:05:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "Jordan developed a new low-stakes evening habit of listening to local baseball radio broadcasts while doing dishes."
+      ]
+    }
+  ]
+}

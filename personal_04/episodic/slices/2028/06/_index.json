@@ -1,0 +1,23 @@
+{
+  "month": "2028-06",
+  "slices": [
+    {
+      "id": "2028-06-27-0805",
+      "focus": "A lot has shifted since we last talked, and for once it feels like the work is s",
+      "summary": "Honestly, it was seeing all six groups in one place and realizing they are recurring, not hopeful pl",
+      "tags": [
+        "work",
+        "health",
+        "finance",
+        "relationship",
+        "housing"
+      ],
+      "status": "closed",
+      "start": "2028-06-27T08:05:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "Tasha is now the recognized lead of a durable countywide bereavement follow-up program at Transitions LifeCare, with six"
+      ]
+    }
+  ]
+}

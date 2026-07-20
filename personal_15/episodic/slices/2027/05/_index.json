@@ -1,0 +1,24 @@
+{
+  "month": "2027-05",
+  "slices": [
+    {
+      "id": "2027-05-29-2130",
+      "focus": "A lot has shifted again since we last talked, and this time it finally turned in",
+      "summary": "It was one of the older dispatchers, the kind of guy who thinks his memory is better than any form",
+      "tags": [
+        "work",
+        "family",
+        "health",
+        "housing",
+        "leisure"
+      ],
+      "status": "closed",
+      "start": "2027-05-29T21:30:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "Jae-hyun made the board-matched digital template the official shift handoff record, so only entries that matched the dis",
+        "Enforcing one official handoff record made Jae-hyun more stubbornly principled and slightly less panicked by each indivi"
+      ]
+    }
+  ]
+}

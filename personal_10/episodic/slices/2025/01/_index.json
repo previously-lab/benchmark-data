@@ -1,0 +1,44 @@
+{
+  "month": "2025-01",
+  "slices": [
+    {
+      "id": "2025-01-05-2340",
+      "focus": "I appreciate that you are taking the time.",
+      "summary": "My name is Kelli Ann Brotherton",
+      "tags": [
+        "work",
+        "family",
+        "health",
+        "finance",
+        "relationship",
+        "travel",
+        "education",
+        "housing"
+      ],
+      "status": "closed",
+      "start": "2025-01-05T23:40:00.000Z",
+      "open_loops": [],
+      "decisions": []
+    },
+    {
+      "id": "2025-01-21-1010",
+      "focus": "A lot has shifted lately, and work kind of lurched into a bigger thing than it w",
+      "summary": "Triage is exactly what it feels like, and I think that is part of why my brain will not shut off",
+      "tags": [
+        "work",
+        "family",
+        "finance",
+        "housing",
+        "leisure",
+        "goals"
+      ],
+      "status": "closed",
+      "start": "2025-01-21T10:10:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "After a payroll-close cash scare, Monica formally put Kelli in charge of a network-wide denial and payment-lag turnaroun",
+        "Kelli became more mentally keyed up after getting the turnaround project and now spends nights replaying denial categori"
+      ]
+    }
+  ]
+}

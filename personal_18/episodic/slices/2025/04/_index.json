@@ -1,0 +1,23 @@
+{
+  "month": "2025-04",
+  "slices": [
+    {
+      "id": "2025-04-02-1310",
+      "focus": "Things have been busy lately, and I finally did something very adult about one p",
+      "summary": "Mostly the very unglamorous stuff, which honestly I probably needed",
+      "tags": [
+        "work",
+        "health",
+        "relationship",
+        "housing",
+        "goals"
+      ],
+      "status": "closed",
+      "start": "2025-04-02T13:10:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "Jordan started actively managing her peak-week jittery headaches and sleep loss by cutting late-day coffee after the pri"
+      ]
+    }
+  ]
+}

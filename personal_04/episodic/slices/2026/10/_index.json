@@ -1,0 +1,26 @@
+{
+  "month": "2026-10",
+  "slices": [
+    {
+      "id": "2026-10-09-1040",
+      "focus": "It has been a busy stretch, but in a more ordinary-life way than some of the big",
+      "summary": "Exactly, grounded is the word",
+      "tags": [
+        "work",
+        "health",
+        "finance",
+        "relationship",
+        "travel",
+        "housing",
+        "leisure",
+        "goals"
+      ],
+      "status": "closed",
+      "start": "2026-10-09T10:40:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "Meeting the rescue animals made Tasha more serious about eventually adopting an older cat once her routines feel steadie"
+      ]
+    }
+  ]
+}

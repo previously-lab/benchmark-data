@@ -1,0 +1,27 @@
+{
+  "month": "2026-08",
+  "slices": [
+    {
+      "id": "2026-08-22-1055",
+      "focus": "A lot has shifted lately, at least on the home front. After what felt like forev",
+      "summary": "Honestly, the biggest difference is that every ordinary task stopped being annoying",
+      "tags": [
+        "work",
+        "family",
+        "health",
+        "finance",
+        "relationship",
+        "travel",
+        "housing",
+        "goals"
+      ],
+      "status": "closed",
+      "start": "2026-08-22T10:55:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "Lucia's living situation is updated: their modest Northeast Heights townhouse is finally through the worst of the roof a",
+        "Lucia's financial situation is updated: repair debt remains, but it is no longer growing now that the major townhouse wo"
+      ]
+    }
+  ]
+}

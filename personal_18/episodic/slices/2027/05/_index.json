@@ -1,0 +1,24 @@
+{
+  "month": "2027-05",
+  "slices": [
+    {
+      "id": "2027-05-12-1020",
+      "focus": "Things have been a little busy in my head lately, even when nothing dramatic is ",
+      "summary": "Probably the reopening part first, honestly",
+      "tags": [
+        "work",
+        "health",
+        "housing",
+        "leisure",
+        "goals",
+        "civic"
+      ],
+      "status": "closed",
+      "start": "2027-05-12T10:20:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "Jordan began using calmer instrumental playlists for evening walks as a deliberate unwind habit, not just instrumental m"
+      ]
+    }
+  ]
+}

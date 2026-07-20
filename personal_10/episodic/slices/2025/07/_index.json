@@ -1,0 +1,26 @@
+{
+  "month": "2025-07",
+  "slices": [
+    {
+      "id": "2025-07-02-1210",
+      "focus": "A lot has shifted lately, and this week turned into one of those pile-on stretch",
+      "summary": "We made the call pretty fast, honestly",
+      "tags": [
+        "work",
+        "family",
+        "finance",
+        "relationship",
+        "travel",
+        "education",
+        "housing",
+        "goals"
+      ],
+      "status": "closed",
+      "start": "2025-07-02T12:10:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "Kelli and Travis had to use part of their emergency savings after their 2008 pickup needed a transmission rebuild during"
+      ]
+    }
+  ]
+}

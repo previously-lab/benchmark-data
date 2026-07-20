@@ -1,0 +1,25 @@
+{
+  "month": "2025-05",
+  "slices": [
+    {
+      "id": "2025-05-18-0945",
+      "focus": "Things have been busy for a while, so today felt unusual in the best way. I had ",
+      "summary": "Yes, that is exactly it, it felt like a tool",
+      "tags": [
+        "work",
+        "family",
+        "health",
+        "travel",
+        "housing",
+        "leisure",
+        "goals"
+      ],
+      "status": "closed",
+      "start": "2025-05-18T09:45:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "After Denise's church picnic, Tasha began using soft gospel more intentionally as a decompression soundtrack after heavy"
+      ]
+    }
+  ]
+}

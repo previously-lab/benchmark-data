@@ -1,0 +1,45 @@
+{
+  "month": "2025-02",
+  "slices": [
+    {
+      "id": "2025-02-03-0840",
+      "focus": "Things have been busy since we last talked, and work just tipped into one of tho",
+      "summary": "I stayed late with Victor and we started reconstructing the whole thing instead of just closing the ",
+      "tags": [
+        "work",
+        "finance",
+        "education",
+        "housing",
+        "goals"
+      ],
+      "status": "closed",
+      "start": "2025-02-03T08:40:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "After a districtwide produce vendor miss, Danielle added a self-directed incident review project tracking missed trucks,",
+        "The vendor miss left Danielle more vigilant and tired because she keeps replaying the scramble calls and mentally review"
+      ]
+    },
+    {
+      "id": "2025-02-22-1110",
+      "focus": "Things have been kind of tense lately, but there was one unexpectedly nice littl",
+      "summary": "Honestly, all three",
+      "tags": [
+        "work",
+        "family",
+        "finance",
+        "education",
+        "housing",
+        "leisure",
+        "goals",
+        "civic"
+      ],
+      "status": "closed",
+      "start": "2025-02-22T11:10:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "Danielle has started checking Diamondbacks box scores and weekend promotions more regularly because discounted family se"
+      ]
+    }
+  ]
+}

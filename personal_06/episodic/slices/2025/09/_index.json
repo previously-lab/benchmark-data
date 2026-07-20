@@ -1,0 +1,25 @@
+{
+  "month": "2025-09",
+  "slices": [
+    {
+      "id": "2025-09-14-0400",
+      "focus": "Things have been busy in a very ordinary but slightly ridiculous way since we la",
+      "summary": "The best one was a gingery pork and cabbage situation that held up well, and a mushroom one was good",
+      "tags": [
+        "work",
+        "family",
+        "health",
+        "education",
+        "housing",
+        "leisure",
+        "goals"
+      ],
+      "status": "closed",
+      "start": "2025-09-14T04:00:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "Hannah has recently become attached to make-ahead dumplings and other freezer-friendly comfort meals to get through ship"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "month": "2028-03",
+  "slices": [
+    {
+      "id": "2028-03-11-0820",
+      "focus": "Things have been busy in the usual way, but I had one of those small unexpected ",
+      "summary": "Yes, that is exactly it",
+      "tags": [
+        "work",
+        "housing",
+        "civic"
+      ],
+      "status": "closed",
+      "start": "2028-03-11T08:20:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "After tagging along to a library makers event because Janelle needed more adult attendees, Ariana got interested in neig"
+      ]
+    }
+  ]
+}

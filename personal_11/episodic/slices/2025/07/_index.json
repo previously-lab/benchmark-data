@@ -1,0 +1,25 @@
+{
+  "month": "2025-07",
+  "slices": [
+    {
+      "id": "2025-07-13-0635",
+      "focus": "Things have been busy lately, and in the middle of all that I did something pret",
+      "summary": "Honestly, a mix of all three",
+      "tags": [
+        "work",
+        "family",
+        "finance",
+        "education",
+        "housing",
+        "leisure",
+        "goals"
+      ],
+      "status": "closed",
+      "start": "2025-07-13T06:35:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "Monica's sports preference shifted slightly: she still cares most about Leah's volleyball, but after a midsummer Brewers"
+      ]
+    }
+  ]
+}

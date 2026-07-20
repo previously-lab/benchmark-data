@@ -1,0 +1,23 @@
+{
+  "month": "2025-04",
+  "slices": [
+    {
+      "id": "2025-04-17-0605",
+      "focus": "A lot has shifted lately, and this one finally feels like actual movement instea",
+      "summary": "The biggest shift was giving up the bigger showpiece version",
+      "tags": [
+        "work",
+        "finance",
+        "education",
+        "housing",
+        "goals"
+      ],
+      "status": "closed",
+      "start": "2025-04-17T06:05:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "Marisa's oyster expansion work is no longer fully stalled; after a redesign, she now has a narrower but viable path to i"
+      ]
+    }
+  ]
+}

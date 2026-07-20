@@ -1,0 +1,21 @@
+{
+  "month": "2026-09",
+  "slices": [
+    {
+      "id": "2026-09-08-0750",
+      "focus": "A lot has shifted at work lately, in a way that feels bigger than just another b",
+      "summary": "Mostly a mix, yeah",
+      "tags": [
+        "work",
+        "housing",
+        "goals"
+      ],
+      "status": "closed",
+      "start": "2026-09-08T07:50:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "Nathaniel was asked to co-lead the signup review process with operations planning after both monitored corridors posted "
+      ]
+    }
+  ]
+}

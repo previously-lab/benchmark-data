@@ -1,0 +1,44 @@
+{
+  "month": "2025-05",
+  "slices": [
+    {
+      "id": "2025-05-01-1210",
+      "focus": "A lot has shifted lately at work, and it finally turned into something more offi",
+      "summary": "Yeah, that is exactly it, the opening stretch is the whole proving ground now",
+      "tags": [
+        "work",
+        "family",
+        "health",
+        "education",
+        "housing",
+        "leisure"
+      ],
+      "status": "closed",
+      "start": "2025-05-01T12:10:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "Derek is now the lead instructor for one pilot first-year section built around revised safety labs and attendance follow"
+      ]
+    },
+    {
+      "id": "2025-05-24-0600",
+      "focus": "Things have been busy lately, but today had a different feel to it. I actually h",
+      "summary": "Yeah, that was the part that got me",
+      "tags": [
+        "work",
+        "family",
+        "health",
+        "finance",
+        "housing",
+        "leisure",
+        "civic"
+      ],
+      "status": "closed",
+      "start": "2025-05-24T06:00:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "Derek's sports preference expanded into a casual interest in collecting Pittsburgh sports and union memorabilia after a "
+      ]
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "month": "2025-12",
+  "slices": [
+    {
+      "id": "2025-12-09-1215",
+      "focus": "Things have been pretty heavy lately, so this is a smaller update than some of t",
+      "summary": "Yeah, that is exactly it, it does not feel like one more thing I am failing to keep up with",
+      "tags": [
+        "work",
+        "housing"
+      ],
+      "status": "closed",
+      "start": "2025-12-09T12:15:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "Jermaine's reading habit shifted after Darius gave him a used habit-formation paperback, and he now keeps short leadersh"
+      ]
+    }
+  ]
+}

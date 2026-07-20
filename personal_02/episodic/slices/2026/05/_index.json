@@ -1,0 +1,26 @@
+{
+  "month": "2026-05",
+  "slices": [
+    {
+      "id": "2026-05-26-2350",
+      "focus": "A lot has been shifting lately, and I realized I was starting every morning alre",
+      "summary": "Yes, that is exactly it, it had become a system",
+      "tags": [
+        "work",
+        "family",
+        "health",
+        "relationship",
+        "education",
+        "housing",
+        "goals",
+        "environment"
+      ],
+      "status": "closed",
+      "start": "2026-05-26T23:50:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "Telehealth counseling has helped Lucia separate court system flaws from personal blame and recover faster after bad dock"
+      ]
+    }
+  ]
+}

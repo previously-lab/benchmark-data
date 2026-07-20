@@ -1,0 +1,23 @@
+{
+  "month": "2026-01",
+  "slices": [
+    {
+      "id": "2026-01-12-0310",
+      "focus": "A lot has shifted lately, and one thing finally got put in writing. At the start",
+      "summary": "That is exactly the part I am squinting at",
+      "tags": [
+        "work",
+        "family",
+        "relationship",
+        "housing",
+        "goals"
+      ],
+      "status": "closed",
+      "start": "2026-01-12T03:10:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "Miriam revised Tasha's role description at the start of 2026 so her job now formally includes bereavement operations imp"
+      ]
+    }
+  ]
+}

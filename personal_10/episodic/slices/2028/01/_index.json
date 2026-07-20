@@ -1,0 +1,23 @@
+{
+  "month": "2028-01",
+  "slices": [
+    {
+      "id": "2028-01-13-0050",
+      "focus": "A lot has shifted lately, even though on the surface I probably still look like ",
+      "summary": "Yes, that is exactly it, the routine part",
+      "tags": [
+        "work",
+        "education",
+        "housing",
+        "goals"
+      ],
+      "status": "closed",
+      "start": "2028-01-13T00:50:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "Early 2028 brought a muted grief after Kelli and Travis quietly euthanized their aging blue heeler Juno following a decl",
+        "After losing Juno, Kelli and Travis are dogless for now and even less inclined to rush into another pet."
+      ]
+    }
+  ]
+}

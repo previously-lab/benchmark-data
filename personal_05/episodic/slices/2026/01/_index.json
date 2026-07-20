@@ -1,0 +1,25 @@
+{
+  "month": "2026-01",
+  "slices": [
+    {
+      "id": "2026-01-14-2220",
+      "focus": "A lot has shifted lately, and work has gone from complicated to pretty rough. Th",
+      "summary": "Honestly, both, but the interpretation part is what is getting under my skin",
+      "tags": [
+        "work",
+        "health",
+        "travel",
+        "housing",
+        "leisure",
+        "goals"
+      ],
+      "status": "closed",
+      "start": "2026-01-14T22:20:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "Nathaniel's second corridor rollout was undermined by operator shortages and emergency block swaps, pushing him from red",
+        "He is discouraged and more tense after the failed rollout, and he worries leadership will read the setback as proof that"
+      ]
+    }
+  ]
+}

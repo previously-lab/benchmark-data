@@ -1,0 +1,25 @@
+{
+  "month": "2027-03",
+  "slices": [
+    {
+      "id": "2027-03-19-0935",
+      "focus": "Things have been a little calmer lately, at least enough that I actually said ye",
+      "summary": "Honestly the actual playing part surprised me more",
+      "tags": [
+        "work",
+        "finance",
+        "education",
+        "housing",
+        "leisure",
+        "goals",
+        "environment"
+      ],
+      "status": "closed",
+      "start": "2027-03-19T09:35:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "Eric started occasionally joining short pickup softball sessions again after a casual park catch with Marcus and a few f"
+      ]
+    }
+  ]
+}

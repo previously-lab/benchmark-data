@@ -1,0 +1,22 @@
+{
+  "month": "2026-01",
+  "slices": [
+    {
+      "id": "2026-01-14-0035",
+      "focus": "A lot has shifted since we last talked, and for once it is in a good direction. ",
+      "summary": "Yes, exactly",
+      "tags": [
+        "work",
+        "education",
+        "goals",
+        "environment"
+      ],
+      "status": "closed",
+      "start": "2026-01-14T00:35:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "Ayaka got formal approval to run a winter resilience test at the Fukuoka City Ferry Terminal Operations Center with post"
+      ]
+    }
+  ]
+}

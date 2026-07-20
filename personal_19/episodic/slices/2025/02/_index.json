@@ -1,0 +1,23 @@
+{
+  "month": "2025-02",
+  "slices": [
+    {
+      "id": "2025-02-18-1310",
+      "focus": "A lot has shifted at work lately, and I think I crossed into a new kind of respo",
+      "summary": "The back-end problems, because once I started replaying it, the pattern was ugly",
+      "tags": [
+        "work",
+        "health",
+        "housing",
+        "goals",
+        "environment"
+      ],
+      "status": "closed",
+      "start": "2025-02-18T13:10:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "After a February service breakdown, Ayaka informally took on a self-started disruption log project to track notice delay"
+      ]
+    }
+  ]
+}

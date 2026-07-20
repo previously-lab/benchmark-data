@@ -1,0 +1,22 @@
+{
+  "month": "2025-12",
+  "slices": [
+    {
+      "id": "2025-12-05-1005",
+      "focus": "A lot has shifted at work since we last talked, and for once it shifted in a dir",
+      "summary": "Honestly, probably the thermometers first, even though the laminated sheets are what people will not",
+      "tags": [
+        "work",
+        "finance",
+        "housing",
+        "goals"
+      ],
+      "status": "closed",
+      "start": "2025-12-05T10:05:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "Eric remained the cold-chain coordinator, but his spoilage-reduction pilot won a modest implementation budget for dock t"
+      ]
+    }
+  ]
+}

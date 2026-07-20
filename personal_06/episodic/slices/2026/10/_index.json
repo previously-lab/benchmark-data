@@ -1,0 +1,23 @@
+{
+  "month": "2026-10",
+  "slices": [
+    {
+      "id": "2026-10-03-0705",
+      "focus": "A lot has shifted at work lately, in a way that finally feels more like movement",
+      "summary": "Probably the fact that I could walk in with numbers instead of just my level of concern",
+      "tags": [
+        "work",
+        "family",
+        "finance",
+        "housing",
+        "goals"
+      ],
+      "status": "closed",
+      "start": "2026-10-03T07:05:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "Hannah won approval to test her rebuilt loan and storage procedures on a moderately complex incoming exhibition with mul"
+      ]
+    }
+  ]
+}

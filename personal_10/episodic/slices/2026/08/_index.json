@@ -1,0 +1,24 @@
+{
+  "month": "2026-08",
+  "slices": [
+    {
+      "id": "2026-08-08-0235",
+      "focus": "Things have been shifting again since we last talked. For the first time in a wh",
+      "summary": "Mostly it was exactly what the reports had been hinting at, but seeing it in person made it harder f",
+      "tags": [
+        "work",
+        "health",
+        "travel",
+        "housing",
+        "goals"
+      ],
+      "status": "closed",
+      "start": "2026-08-08T02:35:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "Kelli is still revenue-cycle lead, but with recovery underway she has shifted from broad turnaround management into site",
+        "The visible improvement in payment lag made Kelli feel less trapped in pure damage control even though she is still tire"
+      ]
+    }
+  ]
+}

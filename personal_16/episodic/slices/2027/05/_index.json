@@ -1,0 +1,25 @@
+{
+  "month": "2027-05",
+  "slices": [
+    {
+      "id": "2027-05-16-0935",
+      "focus": "A lot has shifted at work since we last talked, and this week felt like one of t",
+      "summary": "It was the tone afterwards, really",
+      "tags": [
+        "work",
+        "health",
+        "relationship",
+        "travel",
+        "education",
+        "housing",
+        "goals"
+      ],
+      "status": "closed",
+      "start": "2027-05-16T09:35:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "After a second inspection cycle with no repeat findings in the workflow areas she had overhauled, Saira had stronger aut"
+      ]
+    }
+  ]
+}

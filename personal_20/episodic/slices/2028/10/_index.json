@@ -1,0 +1,26 @@
+{
+  "month": "2028-10",
+  "slices": [
+    {
+      "id": "2028-10-24-1105",
+      "focus": "It has been a while since we talked, and things have actually felt a little ligh",
+      "summary": "Definitely my own reaction",
+      "tags": [
+        "work",
+        "family",
+        "health",
+        "finance",
+        "travel",
+        "education",
+        "housing",
+        "leisure"
+      ],
+      "status": "closed",
+      "start": "2028-10-24T11:05:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "Eric became more willing to actually plan short drivable trips around Ohio and Kentucky after a calmer year at work made"
+      ]
+    }
+  ]
+}

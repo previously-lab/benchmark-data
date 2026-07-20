@@ -1,0 +1,23 @@
+{
+  "month": "2025-10",
+  "slices": [
+    {
+      "id": "2025-10-07-0010",
+      "focus": "Things have been moving fast since we last talked, and work has started tipping ",
+      "summary": "The ugly answer was packaging",
+      "tags": [
+        "work",
+        "health",
+        "travel",
+        "leisure",
+        "goals"
+      ],
+      "status": "closed",
+      "start": "2025-10-07T00:10:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "Jordan strengthened her planning role by using holiday load simulations to justify earlier packaging buys and limiting c"
+      ]
+    }
+  ]
+}

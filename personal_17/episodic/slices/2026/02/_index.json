@@ -1,0 +1,27 @@
+{
+  "month": "2026-02",
+  "slices": [
+    {
+      "id": "2026-02-11-0145",
+      "focus": "Things have been busy since we last talked, but in a way that finally feels a li",
+      "summary": "One is still the basic museum visit, one is the neighborhood fire safety and object handling one I a",
+      "tags": [
+        "work",
+        "health",
+        "relationship",
+        "travel",
+        "education",
+        "housing",
+        "leisure",
+        "goals"
+      ],
+      "status": "closed",
+      "start": "2026-02-11T01:45:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "Colleen is now running a three-package school program at Fireman's Hall Museum, with retrained volunteers, laminated sta",
+        "Colleen feels steadier because the volunteer retraining and three-package structure make the school program look less fr"
+      ]
+    }
+  ]
+}

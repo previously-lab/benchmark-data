@@ -1,0 +1,26 @@
+{
+  "month": "2027-01",
+  "slices": [
+    {
+      "id": "2027-01-29-0700",
+      "focus": "It has been a pretty steady stretch lately, which honestly feels strange in a go",
+      "summary": "Exactly, impossible is the word that softened",
+      "tags": [
+        "work",
+        "family",
+        "health",
+        "finance",
+        "education",
+        "housing",
+        "goals",
+        "civic"
+      ],
+      "status": "closed",
+      "start": "2027-01-29T07:00:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "Danielle still does not want a pet right now, but she is slightly more open to the idea of a calm small dog years later "
+      ]
+    }
+  ]
+}

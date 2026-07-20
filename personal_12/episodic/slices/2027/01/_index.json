@@ -1,0 +1,22 @@
+{
+  "month": "2027-01",
+  "slices": [
+    {
+      "id": "2027-01-12-0225",
+      "focus": "A lot has shifted lately, and one big thing finally moved in a way I have been t",
+      "summary": "More compromise than triumph, honestly, but still real",
+      "tags": [
+        "work",
+        "education",
+        "goals",
+        "civic"
+      ],
+      "status": "closed",
+      "start": "2027-01-12T02:25:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "Ariana won board approval for a part-time community-access coordinator shared with programming, expanding the oral-histo"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "month": "2025-02",
+  "slices": [
+    {
+      "id": "2025-02-16-0340",
+      "focus": "A lot has been rattling around lately, so this is a smaller thing, but it has ac",
+      "summary": "Yeah, that was exactly it",
+      "tags": [
+        "work",
+        "health",
+        "finance",
+        "education",
+        "housing",
+        "leisure",
+        "goals"
+      ],
+      "status": "closed",
+      "start": "2025-02-16T03:40:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "He now queues labor and trade podcasts for early drives instead of defaulting to only sports radio in the truck."
+      ]
+    }
+  ]
+}

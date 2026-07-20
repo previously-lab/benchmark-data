@@ -1,0 +1,41 @@
+{
+  "month": "2025-03",
+  "slices": [
+    {
+      "id": "2025-03-03-0620",
+      "focus": "A lot has been shifting lately, and this finally feels like one of those moments",
+      "summary": "Yes, exactly, I am trying to make it visible enough that nobody can just shrug and say the delay was",
+      "tags": [
+        "work",
+        "housing",
+        "leisure",
+        "goals",
+        "environment"
+      ],
+      "status": "closed",
+      "start": "2025-03-03T06:20:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "Jae-hyun is still dispatch manager and is now running a limited pilot of a color-coded dispatch board on two coastal rou"
+      ]
+    },
+    {
+      "id": "2025-03-29-0315",
+      "focus": "Things have been a little less frantic for a minute, which still feels strange t",
+      "summary": "Probably the Busan angle first",
+      "tags": [
+        "work",
+        "education",
+        "housing",
+        "leisure",
+        "goals"
+      ],
+      "status": "closed",
+      "start": "2025-03-29T03:15:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "Jae-hyun now actively seeks out Korean nonfiction and documentary content about Busan port history, expanding a niche in"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "month": "2027-03",
+  "slices": [
+    {
+      "id": "2027-03-09-0405",
+      "focus": "A lot has shifted lately, and one of the bigger things is that Daniel and I star",
+      "summary": "The first focus has been schedule unpredictability, family-help boundaries, and learning how to ask ",
+      "tags": [
+        "work",
+        "family",
+        "relationship",
+        "housing",
+        "goals"
+      ],
+      "status": "closed",
+      "start": "2027-03-09T04:05:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "Lucia and Daniel began couples counseling through an employee assistance referral after a fraught month of conflict over",
+        "Daniel still struggles with Lucia's unpredictable court hours, but counseling and the Sunday planning board have helped "
+      ]
+    }
+  ]
+}

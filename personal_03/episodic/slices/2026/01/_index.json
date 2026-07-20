@@ -1,0 +1,25 @@
+{
+  "month": "2026-01",
+  "slices": [
+    {
+      "id": "2026-01-29-1010",
+      "focus": "It has been a pretty homebound stretch lately, just cold enough that nobody real",
+      "summary": "Probably more the whole mood, if I am honest",
+      "tags": [
+        "work",
+        "family",
+        "finance",
+        "housing",
+        "leisure",
+        "goals",
+        "environment"
+      ],
+      "status": "closed",
+      "start": "2026-01-29T10:10:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "Derek still prefers crime dramas and older war movies, but after the winter marathon he leaned even harder toward one-si"
+      ]
+    }
+  ]
+}

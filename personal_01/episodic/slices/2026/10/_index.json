@@ -1,0 +1,26 @@
+{
+  "month": "2026-10",
+  "slices": [
+    {
+      "id": "2026-10-20-1320",
+      "focus": "A lot has shifted lately, and not in some huge dramatic way, more like too many ",
+      "summary": "Honestly, the mental load changed first",
+      "tags": [
+        "work",
+        "family",
+        "health",
+        "finance",
+        "travel",
+        "housing",
+        "leisure",
+        "goals"
+      ],
+      "status": "closed",
+      "start": "2026-10-20T13:20:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "After a pileup of soccer travel bills, car repairs, and leftover move costs, Marisa refinanced some old legal-fee debt a"
+      ]
+    }
+  ]
+}

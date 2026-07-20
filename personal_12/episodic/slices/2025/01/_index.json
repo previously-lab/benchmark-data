@@ -1,0 +1,45 @@
+{
+  "month": "2025-01",
+  "slices": [
+    {
+      "id": "2025-01-08-0200",
+      "focus": "It is nice to start using a tool like this.",
+      "summary": "My name is Ariana Celeste Batiste",
+      "tags": [
+        "work",
+        "family",
+        "finance",
+        "relationship",
+        "travel",
+        "education",
+        "housing",
+        "leisure"
+      ],
+      "status": "closed",
+      "start": "2025-01-08T02:00:00.000Z",
+      "open_loops": [],
+      "decisions": []
+    },
+    {
+      "id": "2025-01-23-0840",
+      "focus": "A lot has shifted lately, and I finally had one of those moments where the thing",
+      "summary": "I pushed harder than I usually do",
+      "tags": [
+        "work",
+        "health",
+        "education",
+        "housing",
+        "goals",
+        "environment",
+        "civic"
+      ],
+      "status": "closed",
+      "start": "2025-01-23T08:40:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "Ariana became the de facto lead on a two week emergency oral history stabilization review at Tremé Heritage Center inste",
+        "Seeing the actual condition of the collection made Ariana feel grimly validated that her long standing fears about loss "
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "month": "2025-05",
+  "slices": [
+    {
+      "id": "2025-05-09-1025",
+      "focus": "Things have been a little less frantic for a minute, which is probably why I eve",
+      "summary": "Less driving is exactly it",
+      "tags": [
+        "work",
+        "family",
+        "travel",
+        "housing",
+        "leisure",
+        "environment",
+        "civic"
+      ],
+      "status": "closed",
+      "start": "2025-05-09T10:25:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "Marisa's music preferences broadened from KEXP-style indie rock, older Northwest punk, and steady drive playlists to als"
+      ]
+    }
+  ]
+}

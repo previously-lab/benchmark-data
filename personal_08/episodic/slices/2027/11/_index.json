@@ -1,0 +1,25 @@
+{
+  "month": "2027-11",
+  "slices": [
+    {
+      "id": "2027-11-12-1345",
+      "focus": "A lot has shifted lately, not in some huge dramatic way, but enough that I can f",
+      "summary": "A couple things lined up",
+      "tags": [
+        "work",
+        "family",
+        "finance",
+        "travel",
+        "education",
+        "housing",
+        "goals"
+      ],
+      "status": "closed",
+      "start": "2027-11-12T13:45:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "Jermaine's financial situation improved from tight but predictable to less chaotic after reduced legal friction and debt"
+      ]
+    }
+  ]
+}

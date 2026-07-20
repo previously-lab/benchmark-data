@@ -1,0 +1,24 @@
+{
+  "month": "2027-11",
+  "slices": [
+    {
+      "id": "2027-11-14-0055",
+      "focus": "A lot has shifted since we last talked, and for a minute I honestly thought I mi",
+      "summary": "The biggest win is that I strengthened my role instead of shrinking in it",
+      "tags": [
+        "work",
+        "health",
+        "relationship",
+        "travel",
+        "housing",
+        "goals"
+      ],
+      "status": "closed",
+      "start": "2027-11-14T00:55:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "Jordan strengthened her operations manager role after the breakdown by winning earlier holiday booking deadlines, a no-e"
+      ]
+    }
+  ]
+}

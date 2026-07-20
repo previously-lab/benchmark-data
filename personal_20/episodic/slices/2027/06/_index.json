@@ -1,0 +1,27 @@
+{
+  "month": "2027-06",
+  "slices": [
+    {
+      "id": "2027-06-26-0115",
+      "focus": "A lot has shifted at home lately, in a good way, and it feels strange enough tha",
+      "summary": "The privacy part hit first, honestly",
+      "tags": [
+        "work",
+        "family",
+        "finance",
+        "relationship",
+        "education",
+        "housing",
+        "leisure",
+        "goals"
+      ],
+      "status": "closed",
+      "start": "2027-06-26T01:15:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "Trevor moved out of Eric's basement and into a shared apartment with a coworker after his warehouse job became steady en",
+        "Trevor's move-out gave Eric's house immediate relief from crowding and restored more normal privacy for the family."
+      ]
+    }
+  ]
+}

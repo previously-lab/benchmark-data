@@ -1,0 +1,24 @@
+{
+  "month": "2025-06",
+  "slices": [
+    {
+      "id": "2025-06-14-0305",
+      "focus": "Things have been shifting lately, and I finally had one of those moments where m",
+      "summary": "They told me to follow up with my regular doctor, keep an eye on readings, and quit acting like head",
+      "tags": [
+        "work",
+        "health",
+        "education",
+        "housing",
+        "goals"
+      ],
+      "status": "closed",
+      "start": "2025-06-14T03:05:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "Kelli's blood pressure became concerning during heavy cleanup months after repeated dawn-to-evening claims work, with st",
+        "Kelli is still revenue-cycle lead, but she has started delegating ownership of specific denial categories to two senior "
+      ]
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "month": "2025-03",
+  "slices": [
+    {
+      "id": "2025-03-06-0220",
+      "focus": "A lot has shifted since we last talked, and not in the direction I wanted. The f",
+      "summary": "The big issues were shoreline armoring questions and incomplete sediment documentation",
+      "tags": [
+        "work",
+        "family",
+        "health",
+        "travel",
+        "housing",
+        "goals"
+      ],
+      "status": "closed",
+      "start": "2025-03-06T02:20:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "Marisa's oyster-habitat expansion work is now stalled because the state kicked back the first expansion package and forc"
+      ]
+    },
+    {
+      "id": "2025-03-24-1300",
+      "focus": "A lot has been shifting lately, and one thing finally came to a head this weeken",
+      "summary": "Honestly, the call is what I don't trust yet",
+      "tags": [
+        "work",
+        "family",
+        "health",
+        "finance",
+        "relationship",
+        "travel",
+        "leisure",
+        "goals"
+      ],
+      "status": "closed",
+      "start": "2025-03-24T13:00:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "Marisa and Daniel agreed to use a shared expense spreadsheet and a scheduled monthly planning call for Evan's travel soc",
+        "Her co-parenting dynamic with Daniel shifted from ad hoc arguing about sports expenses and schedule swaps to a more stru"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "month": "2026-12",
+  "slices": [
+    {
+      "id": "2026-12-06-1040",
+      "focus": "A lot has shifted lately, and this one feels bigger than just another good meeti",
+      "summary": "The biggest thing was realistic running time review, and I think that hit because everybody in the r",
+      "tags": [
+        "work",
+        "housing",
+        "leisure",
+        "goals"
+      ],
+      "status": "closed",
+      "start": "2026-12-06T10:40:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "Nathaniel's two-corridor reliability work was formalized into a draft playbook for future planning cycles, expanding his"
+      ]
+    }
+  ]
+}

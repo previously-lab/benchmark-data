@@ -1,0 +1,20 @@
+{
+  "month": "2026-04",
+  "slices": [
+    {
+      "id": "2026-04-05-2245",
+      "focus": "A lot has been shifting lately, and for once I have a work update that actually ",
+      "summary": "The biggest one was repainting the blind-corner floor markings in a couple spots where backing risk ",
+      "tags": [
+        "work",
+        "housing"
+      ],
+      "status": "closed",
+      "start": "2026-04-05T22:45:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "Jermaine's safety role expanded from training enforcement into practical operational fixes like floor markings and visib"
+      ]
+    }
+  ]
+}

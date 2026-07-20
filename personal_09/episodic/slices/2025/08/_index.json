@@ -1,0 +1,23 @@
+{
+  "month": "2025-08",
+  "slices": [
+    {
+      "id": "2025-08-09-0850",
+      "focus": "A lot has shifted lately, and this week at work went badly in a way that feels b",
+      "summary": "It turned into a humiliation spiral",
+      "tags": [
+        "work",
+        "family",
+        "health",
+        "housing"
+      ],
+      "status": "closed",
+      "start": "2025-08-09T08:50:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "Nadia's intake pilot suffered a public setback after a rushed apartment placement collapsed and the family had to be mov",
+        "Nadia is now rattled, embarrassed, and sleeping poorly after the failed apartment placement."
+      ]
+    }
+  ]
+}

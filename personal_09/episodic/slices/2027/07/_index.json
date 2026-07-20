@@ -1,0 +1,25 @@
+{
+  "month": "2027-07",
+  "slices": [
+    {
+      "id": "2027-07-30-0335",
+      "focus": "A lot has shifted lately, and one of the nicest changes is with my sister. She g",
+      "summary": "Yes, unfamiliar is exactly it",
+      "tags": [
+        "work",
+        "family",
+        "health",
+        "finance",
+        "relationship",
+        "housing",
+        "leisure"
+      ],
+      "status": "closed",
+      "start": "2027-07-30T03:35:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "Leila graduated from SUNY Geneseo and started an entry-level job near Rochester."
+      ]
+    }
+  ]
+}

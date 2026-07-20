@@ -1,0 +1,24 @@
+{
+  "month": "2025-07",
+  "slices": [
+    {
+      "id": "2025-07-15-2350",
+      "focus": "Things have been shifting again since we last talked, mostly at work. A grocery ",
+      "summary": "I framed it around the actual choke points instead of making it abstract",
+      "tags": [
+        "work",
+        "family",
+        "relationship",
+        "housing",
+        "leisure",
+        "goals"
+      ],
+      "status": "closed",
+      "start": "2025-07-15T23:50:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "Jordan added written wholesale order cutoffs and a basic service scorecard to her planning role, giving Alder Street its"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "month": "2027-05",
+  "slices": [
+    {
+      "id": "2027-05-18-0805",
+      "focus": "A lot has been shifting lately, and work took up most of my brain this week. I e",
+      "summary": "Pretty predictably, some people went straight to language about balance and visibility",
+      "tags": [
+        "work",
+        "relationship",
+        "travel",
+        "education",
+        "housing",
+        "leisure",
+        "goals",
+        "environment"
+      ],
+      "status": "closed",
+      "start": "2027-05-18T08:05:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "Monica is now defending a concentrated two-corridor enforcement strategy with three years of complaint maps, reopened-ca"
+      ]
+    }
+  ]
+}

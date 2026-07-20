@@ -1,0 +1,23 @@
+{
+  "month": "2028-06",
+  "slices": [
+    {
+      "id": "2028-06-21-0710",
+      "focus": "A lot has shifted since we last talked, and for once it is the kind of shift tha",
+      "summary": "Yes, exactly, that is why it landed so hard for me",
+      "tags": [
+        "work",
+        "education",
+        "housing",
+        "environment"
+      ],
+      "status": "closed",
+      "start": "2028-06-21T07:10:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "Journey's End adopted Nadia's intake and follow-up model as the agency's standing frontline process.",
+        "Nadia still feels nonprofit-work stress, but agency adoption of the system she built has made her feel less constantly b"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "month": "2026-10",
+  "slices": [
+    {
+      "id": "2026-10-28-0345",
+      "focus": "A lot has shifted since we last talked, and work has finally moved out of pure r",
+      "summary": "Honestly, it was seeing the same pattern over and over once things got running again",
+      "tags": [
+        "work",
+        "relationship",
+        "housing",
+        "leisure",
+        "goals"
+      ],
+      "status": "closed",
+      "start": "2026-10-28T03:45:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "Eric moved from recovery planning into a stricter pantry-tier system that sends the most fragile dairy and cut produce o"
+      ]
+    }
+  ]
+}

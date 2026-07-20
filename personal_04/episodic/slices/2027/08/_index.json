@@ -1,0 +1,25 @@
+{
+  "month": "2027-08",
+  "slices": [
+    {
+      "id": "2027-08-22-0110",
+      "focus": "A lot has shifted lately, and work finally crossed into a different phase. What ",
+      "summary": "Honestly, the combination mattered more than any single number",
+      "tags": [
+        "work",
+        "health",
+        "relationship",
+        "travel",
+        "housing",
+        "leisure",
+        "goals"
+      ],
+      "status": "closed",
+      "start": "2027-08-22T01:10:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "Tasha's bereavement role shifted from partner-specific reporting to a data-driven monthly dashboard tracking referral fl"
+      ]
+    }
+  ]
+}

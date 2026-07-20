@@ -1,0 +1,25 @@
+{
+  "month": "2026-02",
+  "slices": [
+    {
+      "id": "2026-02-21-0940",
+      "focus": "Things have been a little less chaotic lately, at least for a minute, and I actu",
+      "summary": "Honestly, it turned out to be the around-it part as much as the movie",
+      "tags": [
+        "work",
+        "travel",
+        "education",
+        "housing",
+        "leisure",
+        "goals",
+        "civic"
+      ],
+      "status": "closed",
+      "start": "2026-02-21T09:40:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "Ariana now leans even more strongly toward Louisiana-made films and local post-film talks over mainstream releases."
+      ]
+    }
+  ]
+}

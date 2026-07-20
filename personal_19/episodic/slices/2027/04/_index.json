@@ -1,0 +1,23 @@
+{
+  "month": "2027-04",
+  "slices": [
+    {
+      "id": "2027-04-14-0735",
+      "focus": "Things have been shifting again at work, and I had one of those moments where a ",
+      "summary": "What happened was messy in a very ordinary way, which is why it bothered me",
+      "tags": [
+        "work",
+        "finance",
+        "housing",
+        "goals",
+        "environment"
+      ],
+      "status": "closed",
+      "start": "2027-04-14T07:35:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "Ayaka's bad-weather operations manual draft now explicitly includes backup posting locations and manual signage caches a"
+      ]
+    }
+  ]
+}

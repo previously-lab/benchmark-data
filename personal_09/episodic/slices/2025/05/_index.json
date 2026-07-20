@@ -1,0 +1,46 @@
+{
+  "month": "2025-05",
+  "slices": [
+    {
+      "id": "2025-05-01-1105",
+      "focus": "A lot has been shifting lately, and one piece of work just got more concrete in ",
+      "summary": "Not easy, but clearer than I expected once I had enough examples in front of me",
+      "tags": [
+        "work",
+        "family",
+        "health",
+        "relationship",
+        "education",
+        "housing",
+        "leisure",
+        "goals"
+      ],
+      "status": "closed",
+      "start": "2025-05-01T11:05:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "Nadia expanded her intake pilot by adding a standing school-document review partnership with Lafayette International to "
+      ]
+    },
+    {
+      "id": "2025-05-27-0430",
+      "focus": "A lot has been shifting lately, and I had one of those moments where my body bas",
+      "summary": "I did get checked out, although not as fast as I should have",
+      "tags": [
+        "work",
+        "health",
+        "relationship",
+        "education",
+        "housing",
+        "leisure",
+        "goals"
+      ],
+      "status": "closed",
+      "start": "2025-05-27T04:30:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "Nadia's physical health update: she still considers herself generally healthy, but her stress headaches are becoming mor"
+      ]
+    }
+  ]
+}

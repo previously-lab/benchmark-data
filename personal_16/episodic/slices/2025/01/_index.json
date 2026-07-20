@@ -1,0 +1,40 @@
+{
+  "month": "2025-01",
+  "slices": [
+    {
+      "id": "2025-01-06-0100",
+      "focus": "It is nice to start using a tool like this.",
+      "summary": "My name is Saira Nadeem Hussain",
+      "tags": [
+        "work",
+        "family",
+        "health",
+        "finance",
+        "relationship",
+        "travel",
+        "education",
+        "housing"
+      ],
+      "status": "closed",
+      "start": "2025-01-06T01:00:00.000Z",
+      "open_loops": [],
+      "decisions": []
+    },
+    {
+      "id": "2025-01-22-1040",
+      "focus": "A lot has shifted lately, and work has suddenly become much more serious than th",
+      "summary": "What changed is that I am still operations lead, but now Peter has explicitly put a three-month revi",
+      "tags": [
+        "work",
+        "housing",
+        "goals"
+      ],
+      "status": "closed",
+      "start": "2025-01-22T10:40:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "After a repeat-pack compliance scare, Saira stayed late at Westgate Pharmacy and formally took on a three-month operatio"
+      ]
+    }
+  ]
+}

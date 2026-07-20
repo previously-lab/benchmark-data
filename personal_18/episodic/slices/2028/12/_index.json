@@ -1,0 +1,27 @@
+{
+  "month": "2028-12",
+  "slices": [
+    {
+      "id": "2028-12-19-2325",
+      "focus": "It has been a while since we talked, and work has been moving fast in that end-o",
+      "summary": "Yeah, threshold moment is exactly how it feels",
+      "tags": [
+        "work",
+        "family",
+        "health",
+        "finance",
+        "relationship",
+        "travel",
+        "education",
+        "housing"
+      ],
+      "status": "closed",
+      "start": "2028-12-19T23:25:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "Jordan ended 2028 as the operations manager who had helped turn Alder Street's wholesale production into a measurably mo",
+        "Cleaner numbers and documented backups made Jordan's peak-week anxiety feel far less like an endless impending disaster,"
+      ]
+    }
+  ]
+}

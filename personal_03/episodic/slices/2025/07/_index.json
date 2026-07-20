@@ -1,0 +1,25 @@
+{
+  "month": "2025-07",
+  "slices": [
+    {
+      "id": "2025-07-08-2320",
+      "focus": "A lot has shifted lately, and one thing finally caught up with me in a way I cou",
+      "summary": "I tried to gut it out first, which is probably the least surprising part of this",
+      "tags": [
+        "work",
+        "family",
+        "health",
+        "travel",
+        "education",
+        "housing",
+        "goals"
+      ],
+      "status": "closed",
+      "start": "2025-07-08T23:20:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "Derek's old lower-back problem escalated into a sharper summer flare after a hot week split between conduit pulls on a p"
+      ]
+    }
+  ]
+}

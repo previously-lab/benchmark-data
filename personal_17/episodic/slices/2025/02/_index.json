@@ -1,0 +1,25 @@
+{
+  "month": "2025-02",
+  "slices": [
+    {
+      "id": "2025-02-09-0615",
+      "focus": "Things have been busy since we last talked, and I had one of those very ordinary",
+      "summary": "Yes, that is how it felt",
+      "tags": [
+        "work",
+        "family",
+        "relationship",
+        "travel",
+        "education",
+        "housing",
+        "leisure"
+      ],
+      "status": "closed",
+      "start": "2025-02-09T06:15:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "Owen's enthusiastic reactions have become one of Colleen's most trusted checks on whether a museum activity is actually "
+      ]
+    }
+  ]
+}

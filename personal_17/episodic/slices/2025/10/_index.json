@@ -1,0 +1,27 @@
+{
+  "month": "2025-10",
+  "slices": [
+    {
+      "id": "2025-10-21-0810",
+      "focus": "Things have been moving fast lately, and I finally had the kind of day I was afr",
+      "summary": "It started before the bus even unloaded",
+      "tags": [
+        "work",
+        "finance",
+        "travel",
+        "education",
+        "housing",
+        "leisure",
+        "goals",
+        "environment"
+      ],
+      "status": "closed",
+      "start": "2025-10-21T08:10:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "Colleen's fall school-program push took a credibility hit after a chaotic field-trip day exposed how fragile the museum'",
+        "She felt embarrassed and rattled after the failed visit, worrying that one bad day could erase months of teacher trust."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "month": "2027-02",
+  "slices": [
+    {
+      "id": "2027-02-26-0830",
+      "focus": "A lot has shifted lately, and I finally got the kind of work numbers I have been",
+      "summary": "Honestly, the biggest thing was that it was not just one little bright spot I could explain away",
+      "tags": [
+        "work",
+        "family",
+        "education",
+        "housing"
+      ],
+      "status": "closed",
+      "start": "2027-02-26T08:30:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "Derek's job has shifted from building a pilot and boot-camp feeder to maintaining and defending a proven first-year rete",
+        "Derek feels more settled and quietly proud now that longer-range numbers confirm the support model he fought to keep ali"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "month": "2025-02",
+  "slices": [
+    {
+      "id": "2025-02-09-0330",
+      "focus": "Things have been a little tense lately, so this feels like a very small update b",
+      "summary": "Yes, weirdly",
+      "tags": [
+        "work",
+        "travel",
+        "housing",
+        "goals"
+      ],
+      "status": "closed",
+      "start": "2025-02-09T03:30:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "Hannah still wants a cat someday, but she now sees low-maintenance houseplants as a better fit for her current cluttered"
+      ]
+    }
+  ]
+}

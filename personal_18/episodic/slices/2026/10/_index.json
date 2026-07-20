@@ -1,0 +1,26 @@
+{
+  "month": "2026-10",
+  "slices": [
+    {
+      "id": "2026-10-28-1400",
+      "focus": "A lot has shifted lately, even though from the outside things are actually calme",
+      "summary": "Honestly, it was how automatic it got",
+      "tags": [
+        "work",
+        "health",
+        "relationship",
+        "travel",
+        "education",
+        "housing",
+        "leisure",
+        "goals"
+      ],
+      "status": "closed",
+      "start": "2026-10-28T14:00:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "Jordan started brief therapy after realizing that promotion-season responsibility had shifted her anxiety from floor cha"
+      ]
+    }
+  ]
+}

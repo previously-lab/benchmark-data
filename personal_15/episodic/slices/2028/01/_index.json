@@ -1,0 +1,25 @@
+{
+  "month": "2028-01",
+  "slices": [
+    {
+      "id": "2028-01-12-0340",
+      "focus": "It has been a while since we talked, and things have felt a little less frantic ",
+      "summary": "Yes, that is exactly how it felt",
+      "tags": [
+        "work",
+        "family",
+        "health",
+        "finance",
+        "travel",
+        "housing",
+        "goals"
+      ],
+      "status": "closed",
+      "start": "2028-01-12T03:40:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "Jae-hyun realized he now strongly prefers tightly planned short domestic trips like Gyeongju or Jeju that can fit around"
+      ]
+    }
+  ]
+}

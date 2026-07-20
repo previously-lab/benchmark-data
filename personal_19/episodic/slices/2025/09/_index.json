@@ -1,0 +1,25 @@
+{
+  "month": "2025-09",
+  "slices": [
+    {
+      "id": "2025-09-12-1130",
+      "focus": "A lot has shifted lately, and I finally did something I had been putting off. I ",
+      "summary": "Mostly both, actually",
+      "tags": [
+        "work",
+        "family",
+        "health",
+        "travel",
+        "goals",
+        "environment"
+      ],
+      "status": "closed",
+      "start": "2025-09-12T11:30:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "After a rough late-summer spell, Ayaka began managing her motion-triggered nausea more actively using clinic advice and ",
+        "After getting clinic advice and speaking honestly with Nozomi, Ayaka felt slightly less panicked about her sleep and sta"
+      ]
+    }
+  ]
+}

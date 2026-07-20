@@ -1,0 +1,26 @@
+{
+  "month": "2026-12",
+  "slices": [
+    {
+      "id": "2026-12-17-1410",
+      "focus": "A lot has shifted lately, or maybe it is more accurate to say a lot finally caug",
+      "summary": "Yeah, that is the part that got my attention",
+      "tags": [
+        "work",
+        "family",
+        "health",
+        "travel",
+        "education",
+        "leisure",
+        "goals"
+      ],
+      "status": "closed",
+      "start": "2026-12-17T14:10:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "Eric now treats scheduled meals, short lunch-break walks, and occasional personal days as part of managing his stress-re",
+        "Seeing that the operation held together during his two days off gave Eric a little more confidence that every problem is"
+      ]
+    }
+  ]
+}

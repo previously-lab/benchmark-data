@@ -1,0 +1,44 @@
+{
+  "month": "2025-03",
+  "slices": [
+    {
+      "id": "2025-03-03-1120",
+      "focus": "A lot has shifted at work since we last talked, and it has finally moved from me",
+      "summary": "Honestly, the people side",
+      "tags": [
+        "work",
+        "education",
+        "housing",
+        "leisure",
+        "goals",
+        "environment"
+      ],
+      "status": "closed",
+      "start": "2025-03-03T11:20:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "Saira moved from reviewing dispensing flow problems to actively piloting a new workflow at Westgate Pharmacy with separa"
+      ]
+    },
+    {
+      "id": "2025-03-29-0330",
+      "focus": "A lot has shifted lately, and home has been the bit that finally forced a decisi",
+      "summary": "Yes, exactly, it was not really about paint",
+      "tags": [
+        "work",
+        "family",
+        "finance",
+        "relationship",
+        "housing",
+        "leisure",
+        "goals"
+      ],
+      "status": "closed",
+      "start": "2025-03-29T03:30:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "Saira and Tom mutually postponed their wedding into next year after another renovation-related argument."
+      ]
+    }
+  ]
+}

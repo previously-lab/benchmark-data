@@ -1,0 +1,23 @@
+{
+  "month": "2025-11",
+  "slices": [
+    {
+      "id": "2025-11-17-2305",
+      "focus": "A lot has shifted lately, and work took a real bad turn. What I had going into p",
+      "summary": "Mostly the second thing",
+      "tags": [
+        "work",
+        "housing",
+        "leisure",
+        "goals"
+      ],
+      "status": "closed",
+      "start": "2025-11-17T23:05:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "Jermaine's peak-season safety program hit a major setback after two recordable loading incidents in three weeks showed h",
+        "Jermaine is more worn down and irritable after the incidents, sleeping even less and replaying the details because he wo"
+      ]
+    }
+  ]
+}

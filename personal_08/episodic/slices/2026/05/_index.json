@@ -1,0 +1,26 @@
+{
+  "month": "2026-05",
+  "slices": [
+    {
+      "id": "2026-05-29-1325",
+      "focus": "It has been a pretty full stretch lately, but in a good way for once. With the w",
+      "summary": "It was low pressure, that is the main thing",
+      "tags": [
+        "work",
+        "family",
+        "finance",
+        "education",
+        "housing",
+        "leisure",
+        "goals",
+        "environment"
+      ],
+      "status": "closed",
+      "start": "2026-05-29T13:25:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "A coworker from shipping, Marcus Lee Benton, invited Jermaine to the local youth basketball open gym."
+      ]
+    }
+  ]
+}

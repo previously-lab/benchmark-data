@@ -1,0 +1,25 @@
+{
+  "month": "2025-11",
+  "slices": [
+    {
+      "id": "2025-11-23-1005",
+      "focus": "It has been a little while, and life has finally felt just steady enough for me ",
+      "summary": "Honestly, all three",
+      "tags": [
+        "work",
+        "family",
+        "health",
+        "finance",
+        "housing",
+        "goals",
+        "civic"
+      ],
+      "status": "closed",
+      "start": "2025-11-23T10:05:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "After attending Imani's library documentary night in Cary, Tasha developed a stronger preference for quiet community-his"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "month": "2025-10",
+  "slices": [
+    {
+      "id": "2025-10-16-0740",
+      "focus": "A lot has shifted lately, and for once the thing I have been pushing at work act",
+      "summary": "Honestly, I think it was the combination",
+      "tags": [
+        "work",
+        "family",
+        "health",
+        "finance",
+        "travel",
+        "housing",
+        "goals"
+      ],
+      "status": "closed",
+      "start": "2025-10-16T07:40:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "Tasha is now recognized internally as the lead for Transitions LifeCare's standard bereavement calendar and referral-tra"
+      ]
+    }
+  ]
+}

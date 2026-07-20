@@ -1,0 +1,24 @@
+{
+  "month": "2025-06",
+  "slices": [
+    {
+      "id": "2025-06-16-1050",
+      "focus": "Things have been shifting at work since we last talked, and it feels like one of",
+      "summary": "Yes, that is exactly what it feels like, half compliment and half trap",
+      "tags": [
+        "work",
+        "health",
+        "education",
+        "housing",
+        "goals",
+        "environment"
+      ],
+      "status": "closed",
+      "start": "2025-06-16T10:50:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "Ayaka's limited bad-weather pilot was expanded into a cross-team memo effort, making her the de facto organizer for disr"
+      ]
+    }
+  ]
+}

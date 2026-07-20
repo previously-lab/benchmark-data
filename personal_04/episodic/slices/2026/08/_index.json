@@ -1,0 +1,25 @@
+{
+  "month": "2026-08",
+  "slices": [
+    {
+      "id": "2026-08-26-0250",
+      "focus": "A lot has shifted lately, in a way that finally feels like movement instead of c",
+      "summary": "Honestly, I waited until the cancellations stopped being such a frequent fire",
+      "tags": [
+        "work",
+        "travel",
+        "housing",
+        "leisure",
+        "goals",
+        "environment",
+        "civic"
+      ],
+      "status": "closed",
+      "start": "2026-08-26T02:50:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "Tasha moved from tightening volunteer quality to coordinating a county-spread bereavement group plan with dependable cov"
+      ]
+    }
+  ]
+}

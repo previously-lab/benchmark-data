@@ -1,0 +1,22 @@
+{
+  "month": "2027-06",
+  "slices": [
+    {
+      "id": "2027-06-14-0720",
+      "focus": "A lot has shifted lately, and work has kind of moved into a different phase. I a",
+      "summary": "Yeah, that is exactly it",
+      "tags": [
+        "work",
+        "family",
+        "education",
+        "housing"
+      ],
+      "status": "closed",
+      "start": "2027-06-14T07:20:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "Derek now has backing through Local 5 and the Western Pennsylvania Electrical JATC to standardize first-year instructor "
+      ]
+    }
+  ]
+}

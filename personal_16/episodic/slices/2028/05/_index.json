@@ -1,0 +1,24 @@
+{
+  "month": "2028-05",
+  "slices": [
+    {
+      "id": "2028-05-30-1220",
+      "focus": "It has been a while since we properly caught up, and things have shifted in a wa",
+      "summary": "Honestly, it was probably the boxes as much as the wall",
+      "tags": [
+        "work",
+        "finance",
+        "travel",
+        "education",
+        "housing",
+        "goals"
+      ],
+      "status": "closed",
+      "start": "2028-05-30T12:20:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "Saira and Tom finished the last upstairs wall and cleared the landing boxes, making the house feel finished enough to st"
+      ]
+    }
+  ]
+}

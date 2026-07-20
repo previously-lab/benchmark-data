@@ -1,0 +1,23 @@
+{
+  "month": "2025-10",
+  "slices": [
+    {
+      "id": "2025-10-30-0730",
+      "focus": "A lot has shifted lately, and work got messier in a way I honestly saw coming bu",
+      "summary": "They dressed it up as consistency and sensitivity because the owner is high-profile, but I do not bu",
+      "tags": [
+        "work",
+        "health",
+        "education",
+        "housing"
+      ],
+      "status": "closed",
+      "start": "2025-10-30T07:30:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "Monica's corridor enforcement process was partially slowed after upper management required extra review for properties t",
+        "Monica became more discouraged and angry after political pressure slowed the faster reinspection process she had built."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "month": "2027-03",
+  "slices": [
+    {
+      "id": "2027-03-05-0440",
+      "focus": "It has been a slightly calmer stretch lately, at least at home, and I had one of",
+      "summary": "Probably both, if I'm honest",
+      "tags": [
+        "work",
+        "finance",
+        "travel",
+        "education",
+        "housing",
+        "goals"
+      ],
+      "status": "closed",
+      "start": "2027-03-05T04:40:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "Saira still had no pets because the house was not fully ready, but after meeting a colleague's unusually placid rescue c"
+      ]
+    }
+  ]
+}

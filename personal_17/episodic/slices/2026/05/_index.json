@@ -1,0 +1,24 @@
+{
+  "month": "2026-05",
+  "slices": [
+    {
+      "id": "2026-05-22-1005",
+      "focus": "Things have been busy since we last talked, and in some ways better organized, b",
+      "summary": "Mostly rest and paying attention to the pattern, honestly",
+      "tags": [
+        "work",
+        "family",
+        "health",
+        "travel",
+        "education",
+        "environment"
+      ],
+      "status": "closed",
+      "start": "2026-05-22T10:05:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "Colleen updated her view of her stress pattern: she now recognizes that spring exhaustion builds gradually and tries to "
+      ]
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "month": "2027-02",
+  "slices": [
+    {
+      "id": "2027-02-26-1205",
+      "focus": "A lot has shifted lately, not in some dramatic way, but enough that I noticed it",
+      "summary": "I think it was a couple things working together",
+      "tags": [
+        "work",
+        "family",
+        "health",
+        "finance",
+        "relationship",
+        "education",
+        "housing",
+        "goals"
+      ],
+      "status": "closed",
+      "start": "2027-02-26T12:05:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "Jermaine now sees his relationship with Danielle as tense but workable instead of constantly feeling one text away from "
+      ]
+    }
+  ]
+}

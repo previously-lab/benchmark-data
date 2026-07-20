@@ -1,0 +1,25 @@
+{
+  "month": "2027-10",
+  "slices": [
+    {
+      "id": "2027-10-08-0910",
+      "focus": "It has been a while since we chatted, and things have felt a little lighter late",
+      "summary": "Probably both, but more the second one at first",
+      "tags": [
+        "work",
+        "health",
+        "finance",
+        "education",
+        "leisure",
+        "goals",
+        "environment"
+      ],
+      "status": "closed",
+      "start": "2027-10-08T09:10:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "Ayaka now follows the Fukuoka SoftBank Hawks more actively than before and treats occasional games with terminal coworke"
+      ]
+    }
+  ]
+}

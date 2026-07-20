@@ -1,0 +1,22 @@
+{
+  "month": "2025-10",
+  "slices": [
+    {
+      "id": "2025-10-21-1015",
+      "focus": "A lot has shifted since we last talked, mostly in the same work problem that has",
+      "summary": "The biggest change is that I stopped trying to make it elegant",
+      "tags": [
+        "work",
+        "health",
+        "housing",
+        "environment"
+      ],
+      "status": "closed",
+      "start": "2025-10-21T10:15:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "After the late-August typhoon failure, Ayaka reshaped the disruption pilot into a leaner recovery package centered on ba"
+      ]
+    }
+  ]
+}

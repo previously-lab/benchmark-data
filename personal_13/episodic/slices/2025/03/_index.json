@@ -1,0 +1,22 @@
+{
+  "month": "2025-03",
+  "slices": [
+    {
+      "id": "2025-03-18-0725",
+      "focus": "A lot has shifted at work since we last talked, and I finally have something sol",
+      "summary": "Probably getting the maps to reflect what is actually usable, not what looks available on paper",
+      "tags": [
+        "work",
+        "finance",
+        "leisure",
+        "goals"
+      ],
+      "status": "closed",
+      "start": "2025-03-18T07:25:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "Danielle got director approval to run a spring pilot at six campuses mapping freezer capacity and backup substitutions."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "month": "2025-10",
+  "slices": [
+    {
+      "id": "2025-10-19-1130",
+      "focus": "A lot has shifted lately, in a way that feels both very big and strangely simple",
+      "summary": "Probably the moment everyone was eating and nobody was performing",
+      "tags": [
+        "work",
+        "family",
+        "health",
+        "finance",
+        "relationship",
+        "education",
+        "housing",
+        "leisure"
+      ],
+      "status": "closed",
+      "start": "2025-10-19T11:30:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "Nadia married Omar in October in a small practical ceremony that fit their budget and work schedules.",
+        "Omar Elias Haddad is now Nadia's husband; he works as a respiratory therapist at Mercy Hospital of Buffalo."
+      ]
+    }
+  ]
+}

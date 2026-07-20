@@ -1,0 +1,25 @@
+{
+  "month": "2027-03",
+  "slices": [
+    {
+      "id": "2027-03-06-0915",
+      "focus": "Things have been pretty full lately, and I think that is why this caught me off ",
+      "summary": "Honestly, probably both",
+      "tags": [
+        "work",
+        "family",
+        "travel",
+        "housing",
+        "leisure",
+        "goals",
+        "civic"
+      ],
+      "status": "closed",
+      "start": "2027-03-06T09:15:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "Evan's local-outings preference sharpened from museum-centered short regional trips to quick local drives that can inclu"
+      ]
+    }
+  ]
+}

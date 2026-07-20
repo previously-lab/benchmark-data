@@ -1,0 +1,26 @@
+{
+  "month": "2025-10",
+  "slices": [
+    {
+      "id": "2025-10-30-0940",
+      "focus": "A lot has shifted since we last talked, and work got a lot more real all at once",
+      "summary": "Yeah, that is exactly it",
+      "tags": [
+        "work",
+        "family",
+        "health",
+        "education",
+        "housing",
+        "leisure",
+        "goals",
+        "environment"
+      ],
+      "status": "closed",
+      "start": "2025-10-30T09:40:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "He is now more stressed and shorter on sleep because real apprentice drop-off is testing the new attendance system he ov"
+      ]
+    }
+  ]
+}

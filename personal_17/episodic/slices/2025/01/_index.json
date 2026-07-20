@@ -1,0 +1,46 @@
+{
+  "month": "2025-01",
+  "slices": [
+    {
+      "id": "2025-01-08-0100",
+      "focus": "It is nice to start using a tool like this.",
+      "summary": "My name is Colleen Margaret Sweeney, and I am a 36-year-old woman",
+      "tags": [
+        "work",
+        "family",
+        "health",
+        "finance",
+        "travel",
+        "education",
+        "housing",
+        "leisure"
+      ],
+      "status": "closed",
+      "start": "2025-01-08T01:00:00.000Z",
+      "open_loops": [],
+      "decisions": []
+    },
+    {
+      "id": "2025-01-22-0840",
+      "focus": "Things have been busy since we last talked, and I finally had one of those work ",
+      "summary": "The biggest thing was missed capacity",
+      "tags": [
+        "work",
+        "health",
+        "travel",
+        "education",
+        "housing",
+        "goals",
+        "environment",
+        "civic"
+      ],
+      "status": "closed",
+      "start": "2025-01-22T08:40:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "Leonard approved Colleen's plan to treat 2025 as a formal rebuild year for Fireman's Hall Museum's school-program calend",
+        "Colleen feels discouraged by the weak school season but more focused now that the stagnation is documented and harder fo"
+      ]
+    }
+  ]
+}

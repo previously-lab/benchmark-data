@@ -1,0 +1,25 @@
+{
+  "month": "2025-05",
+  "slices": [
+    {
+      "id": "2025-05-09-1215",
+      "focus": "A lot has shifted lately, and one thing finally came to a head at home. Devon wa",
+      "summary": "Exactly, and I think hearing him say every room in the house hit me harder than if he had just compl",
+      "tags": [
+        "work",
+        "relationship",
+        "education",
+        "housing",
+        "leisure",
+        "goals"
+      ],
+      "status": "closed",
+      "start": "2025-05-09T12:15:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "Ariana is still partnered with Devon, but their relationship now has clearer boundaries around work taking over home lif",
+        "Devon remains a supportive partner and public school band director, but he pushed Ariana for firmer boundaries after con"
+      ]
+    }
+  ]
+}

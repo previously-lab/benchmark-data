@@ -1,0 +1,23 @@
+{
+  "month": "2025-12",
+  "slices": [
+    {
+      "id": "2025-12-17-1225",
+      "focus": "A lot has shifted lately, and I finally feel like I stopped just reacting and ac",
+      "summary": "Right now I am trying to keep it simple enough that it actually gets used",
+      "tags": [
+        "work",
+        "health",
+        "education",
+        "housing",
+        "leisure"
+      ],
+      "status": "closed",
+      "start": "2025-12-17T12:25:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "Derek moved from general first-year orientation and retention check-ins to running a formal early-warning and interventi"
+      ]
+    }
+  ]
+}

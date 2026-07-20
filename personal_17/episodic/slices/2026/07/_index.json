@@ -1,0 +1,26 @@
+{
+  "month": "2026-07",
+  "slices": [
+    {
+      "id": "2026-07-09-0845",
+      "focus": "A lot has shifted lately, in a good but very nuts-and-bolts way. Since we last t",
+      "summary": "Honestly, the reminder system might matter most, even though it is the least glamorous",
+      "tags": [
+        "work",
+        "health",
+        "finance",
+        "relationship",
+        "travel",
+        "education",
+        "housing",
+        "environment"
+      ],
+      "status": "closed",
+      "start": "2026-07-09T08:45:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "Colleen's education-manager role has shifted from proving year-round demand to building a more durable school-program pi"
+      ]
+    }
+  ]
+}

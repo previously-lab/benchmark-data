@@ -1,0 +1,24 @@
+{
+  "month": "2026-07",
+  "slices": [
+    {
+      "id": "2026-07-10-0410",
+      "focus": "A lot has shifted lately, and the biggest non-work thing is that I moved. My apa",
+      "summary": "I definitely went back and forth",
+      "tags": [
+        "work",
+        "finance",
+        "relationship",
+        "housing",
+        "goals",
+        "civic"
+      ],
+      "status": "closed",
+      "start": "2026-07-10T04:10:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "Tasha moved from her old apartment into a slightly quieter one-bedroom elsewhere in Raleigh that is farther from the hos"
+      ]
+    }
+  ]
+}

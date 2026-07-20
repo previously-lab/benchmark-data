@@ -1,0 +1,42 @@
+{
+  "month": "2025-03",
+  "slices": [
+    {
+      "id": "2025-03-07-0330",
+      "focus": "A lot has shifted lately. The big thing is that I actually won a small local pre",
+      "summary": "The best part is it covers actual archival boxes, dehumidifying supplies, and a part-time metadata a",
+      "tags": [
+        "work",
+        "finance",
+        "housing",
+        "leisure",
+        "goals"
+      ],
+      "status": "closed",
+      "start": "2025-03-07T03:30:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "Ariana was now leading a grant-backed oral-history stabilization and cataloging push at Tremé Heritage Center, coordinat",
+        "Her personal finances were still tight, but the work grant reduced pressure by covering supplies and limited hourly help"
+      ]
+    },
+    {
+      "id": "2025-03-29-0620",
+      "focus": "Things have been busy in that same ongoing way, but one thing finally tipped ove",
+      "summary": "The biggest thing is that I have an actual plan now, instead of me just guessing based on weather an",
+      "tags": [
+        "work",
+        "health",
+        "education",
+        "goals",
+        "environment"
+      ],
+      "status": "closed",
+      "start": "2025-03-29T06:20:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "Her eczema now has a more structured treatment plan for hand flares after the dermatologist visit, replacing her earlier"
+      ]
+    }
+  ]
+}

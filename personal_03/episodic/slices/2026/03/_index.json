@@ -1,0 +1,24 @@
+{
+  "month": "2026-03",
+  "slices": [
+    {
+      "id": "2026-03-03-0815",
+      "focus": "Things have been pretty full lately, and some of the work stuff finally tipped i",
+      "summary": "Probably all three, but the part that hit hardest was the ones we flagged early did not keep driftin",
+      "tags": [
+        "work",
+        "family",
+        "travel",
+        "housing",
+        "goals"
+      ],
+      "status": "closed",
+      "start": "2026-03-03T08:15:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "Because the winter numbers held up, Derek was given authority to standardize first-year retention and safety tracking ac",
+        "The successful winter numbers eased Derek's fear that the added structure would become paperwork without real retention "
+      ]
+    }
+  ]
+}

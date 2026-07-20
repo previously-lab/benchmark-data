@@ -1,0 +1,26 @@
+{
+  "month": "2028-01",
+  "slices": [
+    {
+      "id": "2028-01-20-0505",
+      "focus": "A lot has shifted since we last talked, and the biggest thing is that the archiv",
+      "summary": "Honestly, part relief and part a weird kind of exposure",
+      "tags": [
+        "work",
+        "family",
+        "relationship",
+        "travel",
+        "housing",
+        "leisure",
+        "goals",
+        "civic"
+      ],
+      "status": "closed",
+      "start": "2028-01-20T05:05:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "Ariana moved from targeted expansion work into stewarding a publicly launched neighborhood oral-history portal with sear"
+      ]
+    }
+  ]
+}

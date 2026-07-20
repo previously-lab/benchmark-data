@@ -1,0 +1,26 @@
+{
+  "month": "2027-05",
+  "slices": [
+    {
+      "id": "2027-05-18-0845",
+      "focus": "A lot has been shifting lately, and work finally tipped into a different phase. ",
+      "summary": "Honestly, the hardest part was forcing separate fixes into one map",
+      "tags": [
+        "work",
+        "family",
+        "health",
+        "relationship",
+        "education",
+        "housing",
+        "leisure",
+        "goals"
+      ],
+      "status": "closed",
+      "start": "2027-05-18T08:45:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "Nadia shifted from just running the intake model to documenting it in a written agency manual that combines triage, hous"
+      ]
+    }
+  ]
+}

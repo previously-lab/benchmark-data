@@ -1,0 +1,24 @@
+{
+  "month": "2025-11",
+  "slices": [
+    {
+      "id": "2025-11-23-0805",
+      "focus": "A lot has been shifting lately, and this one was probably overdue. The day after",
+      "summary": "The main thing is we quit pretending we can just squeeze family in around everything else",
+      "tags": [
+        "work",
+        "family",
+        "finance",
+        "relationship",
+        "housing",
+        "leisure"
+      ],
+      "status": "closed",
+      "start": "2025-11-23T08:05:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "Derek's relationship status shifted from general marital strain around weekends to clearer boundaries with Erin around f"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "month": "2025-04",
+  "slices": [
+    {
+      "id": "2025-04-06-1110",
+      "focus": "Things have been pretty full lately, and I have been spending a lot of my evenin",
+      "summary": "Probably both",
+      "tags": [
+        "work",
+        "health",
+        "housing",
+        "leisure",
+        "goals"
+      ],
+      "status": "closed",
+      "start": "2025-04-06T11:10:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "After Marcus sent him a hospital facilities podcast episode about preventive maintenance checklists, Eric leaned more he"
+      ]
+    }
+  ]
+}

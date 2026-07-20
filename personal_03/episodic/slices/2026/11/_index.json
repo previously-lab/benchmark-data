@@ -1,0 +1,22 @@
+{
+  "month": "2026-11",
+  "slices": [
+    {
+      "id": "2026-11-17-0955",
+      "focus": "A lot has shifted lately, and one thing finally moved in a good direction at wor",
+      "summary": "Honestly, I think it was the contractor side first, then the school numbers backed it up",
+      "tags": [
+        "work",
+        "family",
+        "finance",
+        "education"
+      ],
+      "status": "closed",
+      "start": "2026-11-17T09:55:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "IBEW Local 5 and the training committee now recognize Derek internally as the point person for the continuing first-year"
+      ]
+    }
+  ]
+}

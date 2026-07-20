@@ -1,0 +1,25 @@
+{
+  "month": "2028-06",
+  "slices": [
+    {
+      "id": "2028-06-18-1000",
+      "focus": "A lot has shifted since we last talked, and I finally have the kind of work upda",
+      "summary": "Honestly, the returns might have been the part that made me believe it",
+      "tags": [
+        "work",
+        "family",
+        "health",
+        "finance",
+        "education",
+        "housing",
+        "goals"
+      ],
+      "status": "closed",
+      "start": "2028-06-18T10:00:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "Hannah is now the Providence Museum of Art's lead registrar for a substantially more reliable collections and loan syste"
+      ]
+    }
+  ]
+}

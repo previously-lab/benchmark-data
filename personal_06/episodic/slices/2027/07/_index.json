@@ -1,0 +1,24 @@
+{
+  "month": "2027-07",
+  "slices": [
+    {
+      "id": "2027-07-30-0810",
+      "focus": "A lot has shifted lately, and the biggest non-work thing is that my housing situ",
+      "summary": "Honestly, I pictured the roommate search and immediately felt tired",
+      "tags": [
+        "work",
+        "finance",
+        "travel",
+        "education",
+        "housing",
+        "goals"
+      ],
+      "status": "closed",
+      "start": "2027-07-30T08:10:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "After Priya accepted a stronger development job in Boston and planned to move at the end of the summer, Hannah moved out"
+      ]
+    }
+  ]
+}

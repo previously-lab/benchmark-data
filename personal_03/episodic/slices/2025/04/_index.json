@@ -1,0 +1,26 @@
+{
+  "month": "2025-04",
+  "slices": [
+    {
+      "id": "2025-04-05-0115",
+      "focus": "A lot has been shifting lately, and this week it was money stuff at home more th",
+      "summary": "Honestly, his reaction was rough but the bigger thing was seeing it on paper",
+      "tags": [
+        "work",
+        "family",
+        "finance",
+        "relationship",
+        "housing",
+        "leisure",
+        "goals"
+      ],
+      "status": "closed",
+      "start": "2025-04-05T01:15:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "Derek's household income is still solid, but the capped loan to Logan plus ongoing renovation costs leave the family run",
+        "After this latest bailout, Derek set firmer limits with Logan, reducing the money bleed but making their conversations m"
+      ]
+    }
+  ]
+}

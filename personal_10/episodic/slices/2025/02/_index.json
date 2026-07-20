@@ -1,0 +1,24 @@
+{
+  "month": "2025-02",
+  "slices": [
+    {
+      "id": "2025-02-11-1225",
+      "focus": "Things have been busy since we last talked, and most of it has been the same kin",
+      "summary": "Honestly, the no-jargon part helped a lot",
+      "tags": [
+        "work",
+        "health",
+        "housing",
+        "leisure",
+        "goals",
+        "environment"
+      ],
+      "status": "closed",
+      "start": "2025-02-11T12:25:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "Kelli's commute listening now includes practical podcasts about workplace communication in addition to budgeting and hom"
+      ]
+    }
+  ]
+}

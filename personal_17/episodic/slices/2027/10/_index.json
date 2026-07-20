@@ -1,0 +1,26 @@
+{
+  "month": "2027-10",
+  "slices": [
+    {
+      "id": "2027-10-04-0040",
+      "focus": "Things have been busy again, but in a different way than they used to be. I am i",
+      "summary": "It hit me because I kept waiting for the usual snag that would pull me into one station for twenty m",
+      "tags": [
+        "work",
+        "family",
+        "relationship",
+        "travel",
+        "education",
+        "housing",
+        "leisure",
+        "environment"
+      ],
+      "status": "closed",
+      "start": "2027-10-04T00:40:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "Colleen's school program has matured to the point that volunteer-led standard visits often run without her direct rescue"
+      ]
+    }
+  ]
+}

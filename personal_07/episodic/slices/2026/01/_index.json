@@ -1,0 +1,25 @@
+{
+  "month": "2026-01",
+  "slices": [
+    {
+      "id": "2026-01-15-0110",
+      "focus": "A lot has shifted lately, and this feels like one of those moments where the wor",
+      "summary": "Probably the every school part, if I am being honest",
+      "tags": [
+        "work",
+        "family",
+        "health",
+        "finance",
+        "education",
+        "housing",
+        "goals"
+      ],
+      "status": "closed",
+      "start": "2026-01-15T01:10:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "Evan's role expanded from redesigning the purchasing process to districtwide responsibility for launching a central repo"
+      ]
+    }
+  ]
+}

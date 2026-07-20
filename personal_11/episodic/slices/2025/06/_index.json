@@ -1,0 +1,23 @@
+{
+  "month": "2025-06",
+  "slices": [
+    {
+      "id": "2025-06-18-0850",
+      "focus": "A lot has shifted at work lately, and one case in particular kind of changed the",
+      "summary": "The biggest difference was that we treated it like we were proving a pattern, not just checking whet",
+      "tags": [
+        "work",
+        "travel",
+        "education",
+        "housing",
+        "goals"
+      ],
+      "status": "closed",
+      "start": "2025-06-18T08:50:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "Monica's corridor reinspection process became a higher-visibility enforcement model inside City Hall after stronger evid"
+      ]
+    }
+  ]
+}

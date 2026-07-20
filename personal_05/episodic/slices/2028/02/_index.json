@@ -1,0 +1,22 @@
+{
+  "month": "2028-02",
+  "slices": [
+    {
+      "id": "2028-02-29-0040",
+      "focus": "A lot has been shifting lately, and this feels like one of those moments where t",
+      "summary": "Honestly, the leadership reaction mattered almost as much as the metrics",
+      "tags": [
+        "work",
+        "health",
+        "housing"
+      ],
+      "status": "closed",
+      "start": "2028-02-29T00:40:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "The review showed both target corridors had cleared the on-time benchmark he had been trying to prove.",
+        "Meeting the corridor benchmarks eased Nathaniel's old helplessness and gave him cautious confidence that he can fix prob"
+      ]
+    }
+  ]
+}

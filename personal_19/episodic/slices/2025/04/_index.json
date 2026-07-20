@@ -1,0 +1,24 @@
+{
+  "month": "2025-04",
+  "slices": [
+    {
+      "id": "2025-04-11-0925",
+      "focus": "A lot has been shifting lately, and I finally have a real development instead of",
+      "summary": "Yes, simple is exactly the line I had to argue",
+      "tags": [
+        "work",
+        "health",
+        "finance",
+        "education",
+        "goals",
+        "environment"
+      ],
+      "status": "closed",
+      "start": "2025-04-11T09:25:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "Ayaka's self-started disruption log led to approval for a limited pilot of color-coded bad-weather notices and an essent"
+      ]
+    }
+  ]
+}

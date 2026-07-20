@@ -1,0 +1,22 @@
+{
+  "month": "2028-01",
+  "slices": [
+    {
+      "id": "2028-01-16-0000",
+      "focus": "A lot has shifted lately, and this one feels bigger than the usual work update. ",
+      "summary": "Honestly, hearing them ask for the documentation is what got me",
+      "tags": [
+        "work",
+        "housing",
+        "leisure",
+        "goals"
+      ],
+      "status": "closed",
+      "start": "2028-01-16T00:00:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "Jermaine's forklift and dock injury-reduction system was adopted as the Louisville site's standard playbook after two co"
+      ]
+    }
+  ]
+}

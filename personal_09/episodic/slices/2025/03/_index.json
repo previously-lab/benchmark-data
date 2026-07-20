@@ -1,0 +1,21 @@
+{
+  "month": "2025-03",
+  "slices": [
+    {
+      "id": "2025-03-14-0955",
+      "focus": "A lot has been shifting lately, and work finally tipped into something more offi",
+      "summary": "Honestly, numbers helped more than passion",
+      "tags": [
+        "work",
+        "family",
+        "finance"
+      ],
+      "status": "closed",
+      "start": "2025-03-14T09:55:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "Nadia moved from informally managing intake fixes to formally piloting twice-weekly intake huddles and a shared 30-day c"
+      ]
+    }
+  ]
+}

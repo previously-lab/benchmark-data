@@ -1,0 +1,25 @@
+{
+  "month": "2025-07",
+  "slices": [
+    {
+      "id": "2025-07-02-0840",
+      "focus": "Things have been a bit rough lately, and I finally had to admit my body was not ",
+      "summary": "Yeah, that is basically how it felt, like I had run out of excuses",
+      "tags": [
+        "work",
+        "family",
+        "health",
+        "travel",
+        "housing",
+        "leisure",
+        "goals"
+      ],
+      "status": "closed",
+      "start": "2025-07-02T08:40:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "A clinic visit pushed Jae-hyun from casual antacids and coffee toward a stricter reflux plan with regular meal timing, l"
+      ]
+    }
+  ]
+}

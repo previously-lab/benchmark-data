@@ -1,0 +1,23 @@
+{
+  "month": "2025-07",
+  "slices": [
+    {
+      "id": "2025-07-05-0610",
+      "focus": "Things have been a little less intense for a moment, so I actually did something",
+      "summary": "Yes, exactly, it did not feel random once I had it in my hands",
+      "tags": [
+        "work",
+        "finance",
+        "housing",
+        "leisure",
+        "environment"
+      ],
+      "status": "closed",
+      "start": "2025-07-05T06:10:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "Ayaka's book preferences broadened from general regional-history and infrastructure nonfiction to a stronger interest in"
+      ]
+    }
+  ]
+}

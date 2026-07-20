@@ -1,0 +1,26 @@
+{
+  "month": "2027-03",
+  "slices": [
+    {
+      "id": "2027-03-02-0955",
+      "focus": "A lot has been shifting lately, and one thing that surprised me is that I had a ",
+      "summary": "He stopped doing the whole, \"you're killing yourself for nothing,\" routine for a minute",
+      "tags": [
+        "work",
+        "family",
+        "finance",
+        "relationship",
+        "education",
+        "housing",
+        "leisure",
+        "goals"
+      ],
+      "status": "closed",
+      "start": "2027-03-02T09:55:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "After that conversation, Michael shifted from skeptical grumbling about low museum pay to asking what concrete success i"
+      ]
+    }
+  ]
+}

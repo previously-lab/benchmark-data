@@ -1,0 +1,22 @@
+{
+  "month": "2028-01",
+  "slices": [
+    {
+      "id": "2028-01-12-0205",
+      "focus": "A lot has shifted lately, or maybe it is more accurate to say the work finally h",
+      "summary": "Part of it was just realizing I was answering the same questions over and over, but the bigger part ",
+      "tags": [
+        "work",
+        "family",
+        "housing",
+        "leisure"
+      ],
+      "status": "closed",
+      "start": "2028-01-12T02:05:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "Eric formalized the cold-chain work into a documented playbook for incoming staff and pantry coordinators instead of rel"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "month": "2025-04",
+  "slices": [
+    {
+      "id": "2025-04-11-1025",
+      "focus": "A lot has shifted lately, and one piece of it finally caught up with me physical",
+      "summary": "It got to the point where I was sitting in my car after the second stop trying to decide whether I c",
+      "tags": [
+        "work",
+        "health",
+        "travel",
+        "housing",
+        "goals",
+        "environment"
+      ],
+      "status": "closed",
+      "start": "2025-04-11T10:25:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "After a spring asthma flare that sent her to urgent care, Monica now follows a stricter inhaler routine and is more care"
+      ]
+    }
+  ]
+}

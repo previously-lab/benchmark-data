@@ -1,0 +1,25 @@
+{
+  "month": "2026-07",
+  "slices": [
+    {
+      "id": "2026-07-19-1225",
+      "focus": "A lot has been shifting lately, and I finally made one home decision I had been ",
+      "summary": "Right away, honestly",
+      "tags": [
+        "work",
+        "health",
+        "finance",
+        "housing",
+        "leisure",
+        "goals"
+      ],
+      "status": "closed",
+      "start": "2026-07-19T12:25:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "Her condo still has the same two-bedroom setup near Lake Michigan, but it now feels more orderly after the ventilation a",
+        "The condo work tightened Monica's budget for a while even though she is still steadily paying down debt."
+      ]
+    }
+  ]
+}

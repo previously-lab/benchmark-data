@@ -1,0 +1,23 @@
+{
+  "month": "2027-03",
+  "slices": [
+    {
+      "id": "2027-03-13-0230",
+      "focus": "A lot has shifted at work since we last talked, even though on paper it looked l",
+      "summary": "It started with a storage mismatch that could have become a delivery mess if nobody caught it",
+      "tags": [
+        "work",
+        "travel",
+        "education",
+        "housing",
+        "goals"
+      ],
+      "status": "closed",
+      "start": "2027-03-13T02:30:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "Danielle updated her district nutrition playbook to require quarterly freezer-map verification visits with photo checks "
+      ]
+    }
+  ]
+}

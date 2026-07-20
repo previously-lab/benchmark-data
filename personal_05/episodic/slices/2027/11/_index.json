@@ -1,0 +1,23 @@
+{
+  "month": "2027-11",
+  "slices": [
+    {
+      "id": "2027-11-16-1120",
+      "focus": "A lot has shifted lately, mostly in the home category. After months of scanning ",
+      "summary": "Mostly relief, honestly, with a little bruised pride mixed in",
+      "tags": [
+        "work",
+        "health",
+        "education",
+        "housing",
+        "goals"
+      ],
+      "status": "closed",
+      "start": "2027-11-16T11:20:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "Nathaniel and Erin renewed their lease but moved into a quieter top-floor unit in the same apartment complex instead of "
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "month": "2026-02",
+  "slices": [
+    {
+      "id": "2026-02-22-1205",
+      "focus": "Things have been a little crowded lately, not in a dramatic way, just in that an",
+      "summary": "Yes, exactly, it was that safety-margin feeling",
+      "tags": [
+        "work",
+        "family",
+        "health",
+        "finance",
+        "travel",
+        "housing",
+        "goals"
+      ],
+      "status": "closed",
+      "start": "2026-02-22T12:05:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "Ayaka's savings are now noticeably tighter after replacing a failing washing machine in her company apartment and sendin"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "month": "2027-01",
+  "slices": [
+    {
+      "id": "2027-01-08-1220",
+      "focus": "It has been a steadier stretch lately, which probably helped this catch me off g",
+      "summary": "Yeah, manageable is exactly the word",
+      "tags": [
+        "work",
+        "family",
+        "health",
+        "finance",
+        "travel",
+        "education",
+        "housing",
+        "leisure"
+      ],
+      "status": "closed",
+      "start": "2027-01-08T12:20:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "After visiting a South Hills cousin with a newly adopted older rescue dog, Derek became open to eventually getting an ol"
+      ]
+    }
+  ]
+}

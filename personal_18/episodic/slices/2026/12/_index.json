@@ -1,0 +1,25 @@
+{
+  "month": "2026-12",
+  "slices": [
+    {
+      "id": "2026-12-15-2310",
+      "focus": "A lot has shifted lately, or maybe it is more that a long stretch of pushing fin",
+      "summary": "More the second one, honestly",
+      "tags": [
+        "work",
+        "family",
+        "relationship",
+        "travel",
+        "education",
+        "housing",
+        "goals"
+      ],
+      "status": "closed",
+      "start": "2026-12-15T23:10:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "Jordan ended 2026 as operations manager with enough improved holiday reporting to lock forecast reviews, packaging minim"
+      ]
+    }
+  ]
+}

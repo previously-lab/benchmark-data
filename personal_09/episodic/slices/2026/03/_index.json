@@ -1,0 +1,20 @@
+{
+  "month": "2026-03",
+  "slices": [
+    {
+      "id": "2026-03-29-0550",
+      "focus": "A lot has been shifting lately, and work kept showing me the same weak spot over",
+      "summary": "More visible first, honestly",
+      "tags": [
+        "work",
+        "leisure"
+      ],
+      "status": "closed",
+      "start": "2026-03-29T05:50:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "Nadia shifted from only using dashboard-based complexity assignment to also running a shared reminder system for 30-day "
+      ]
+    }
+  ]
+}

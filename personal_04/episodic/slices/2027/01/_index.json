@@ -1,0 +1,25 @@
+{
+  "month": "2027-01",
+  "slices": [
+    {
+      "id": "2027-01-18-0520",
+      "focus": "A lot has been shifting lately, and I finally crossed into the next phase of the",
+      "summary": "Honestly, calmer than I expected",
+      "tags": [
+        "work",
+        "travel",
+        "housing",
+        "leisure",
+        "goals",
+        "environment",
+        "civic"
+      ],
+      "status": "closed",
+      "start": "2027-01-18T05:20:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "Tasha expanded her role from coordinating countywide bereavement groups to also leading outreach to palliative and clini"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "month": "2026-07",
+  "slices": [
+    {
+      "id": "2026-07-11-0815",
+      "focus": "It has been one of those packed stretches lately where everything blurs together",
+      "summary": "It was Crimson Tide, which I realize is maybe the most obvious possible answer, but it landed",
+      "tags": [
+        "work",
+        "family",
+        "housing",
+        "leisure",
+        "goals",
+        "environment"
+      ],
+      "status": "closed",
+      "start": "2026-07-11T08:15:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "Marisa's movie taste shifted further toward keeping rewatchable 1990s action movies in regular summer rotation with Evan"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "month": "2027-07",
+  "slices": [
+    {
+      "id": "2027-07-16-0230",
+      "focus": "Things have felt a little lighter lately, which is not a sentence I say often. W",
+      "summary": "Part of it was that I did not spend the whole drive up thinking about what I should have done at hom",
+      "tags": [
+        "work",
+        "family",
+        "relationship",
+        "travel",
+        "education",
+        "goals"
+      ],
+      "status": "closed",
+      "start": "2027-07-16T02:30:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "Lucia now treats one-night in-state road trips like Santa Fe or Las Cruces as real restorative breaks rather than lesser"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "month": "2026-12",
+  "slices": [
+    {
+      "id": "2026-12-18-1130",
+      "focus": "Things have been busy lately, but I had one of those small funny shifts this wee",
+      "summary": "Exactly, it was not some huge personality transplant, just enough to freshen things up a little",
+      "tags": [
+        "work",
+        "travel",
+        "housing",
+        "leisure",
+        "goals"
+      ],
+      "status": "closed",
+      "start": "2026-12-18T11:30:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "Kelli expanded her commute music from mostly 1990s country to include some early-2000s pop-country after the clinic holi"
+      ]
+    }
+  ]
+}

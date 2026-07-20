@@ -1,0 +1,22 @@
+{
+  "month": "2028-02",
+  "slices": [
+    {
+      "id": "2028-02-04-1130",
+      "focus": "Things have been busy for a while, but in a more manageable way than they used t",
+      "summary": "I think it was partly familiarity and partly the fact that it doesn't demand too much from me",
+      "tags": [
+        "work",
+        "health",
+        "education",
+        "leisure"
+      ],
+      "status": "closed",
+      "start": "2028-02-04T11:30:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "Hannah now treats late 1990s indie rock as her favorite soundtrack for repetitive labeling and documentation sessions."
+      ]
+    }
+  ]
+}

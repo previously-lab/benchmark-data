@@ -1,0 +1,23 @@
+{
+  "month": "2026-03",
+  "slices": [
+    {
+      "id": "2026-03-18-0830",
+      "focus": "A lot has shifted lately, and I finally feel like one part of work has moved fro",
+      "summary": "Part of it was me getting tired of hearing, \"we are looking into it,\" with nothing attached to it",
+      "tags": [
+        "work",
+        "health",
+        "housing",
+        "leisure",
+        "goals"
+      ],
+      "status": "closed",
+      "start": "2026-03-18T08:30:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "Kelli is still revenue-cycle lead, but she has shifted from broad vendor complaints to a formal defect-log and escalatio"
+      ]
+    }
+  ]
+}

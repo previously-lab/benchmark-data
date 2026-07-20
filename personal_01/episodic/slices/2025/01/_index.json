@@ -1,0 +1,43 @@
+{
+  "month": "2025-01",
+  "slices": [
+    {
+      "id": "2025-01-09-0030",
+      "focus": "It is nice to start using a tool like this.",
+      "summary": "My name is Marisa Elaine Cardenas",
+      "tags": [
+        "work",
+        "family",
+        "health",
+        "finance",
+        "relationship",
+        "travel",
+        "education",
+        "housing"
+      ],
+      "status": "closed",
+      "start": "2025-01-09T00:30:00.000Z",
+      "open_loops": [],
+      "decisions": []
+    },
+    {
+      "id": "2025-01-22-0840",
+      "focus": "A lot has shifted lately, and work just crossed into a different category for me",
+      "summary": "Honestly, it was the room",
+      "tags": [
+        "work",
+        "health",
+        "finance",
+        "housing",
+        "goals",
+        "environment"
+      ],
+      "status": "closed",
+      "start": "2025-01-22T08:40:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "Marisa is now the named internal lead on Pierce County Surface Water Management's oyster-habitat expansion package for t"
+      ]
+    }
+  ]
+}

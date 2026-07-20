@@ -1,0 +1,23 @@
+{
+  "month": "2025-06",
+  "slices": [
+    {
+      "id": "2025-06-18-0845",
+      "focus": "A lot has shifted lately, in a way that finally feels like some of the extra wor",
+      "summary": "Probably the fact that I could show it",
+      "tags": [
+        "work",
+        "health",
+        "education",
+        "housing",
+        "leisure"
+      ],
+      "status": "closed",
+      "start": "2025-06-18T08:45:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "Derek's role broadened from leading one pilot first-year section to helping shape first-year orientation and baseline sa"
+      ]
+    }
+  ]
+}

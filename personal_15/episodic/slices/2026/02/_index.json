@@ -1,0 +1,27 @@
+{
+  "month": "2026-02",
+  "slices": [
+    {
+      "id": "2026-02-17-0205",
+      "focus": "A lot has shifted lately, and one change ended up feeling bigger than I expected",
+      "summary": "Honestly, the difference showed up the first night",
+      "tags": [
+        "work",
+        "family",
+        "finance",
+        "relationship",
+        "travel",
+        "education",
+        "housing",
+        "goals"
+      ],
+      "status": "closed",
+      "start": "2026-02-17T02:05:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "Jae-hyun and Min-seo moved out of their first compact one-bedroom in Yeongdo to a slightly larger rental on a quieter up",
+        "The move increased housing pressure because the new rental costs more and required extra deposit money."
+      ]
+    }
+  ]
+}

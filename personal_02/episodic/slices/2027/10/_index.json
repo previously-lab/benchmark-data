@@ -1,0 +1,24 @@
+{
+  "month": "2027-10",
+  "slices": [
+    {
+      "id": "2027-10-12-0950",
+      "focus": "A lot has shifted since we last talked, and for once it is the kind of shift tha",
+      "summary": "Honestly, hearing them say it was staying in place hit harder",
+      "tags": [
+        "work",
+        "health",
+        "relationship",
+        "housing",
+        "goals"
+      ],
+      "status": "closed",
+      "start": "2027-10-12T09:50:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "After three strong quarters, Lucia's reporting dashboard, backup tiers, and training binder were adopted as standard cou",
+        "Lucia now feels less haunted by the idea that one absence could undo the whole coverage system because the gains were su"
+      ]
+    }
+  ]
+}

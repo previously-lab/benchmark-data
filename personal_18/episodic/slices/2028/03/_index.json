@@ -1,0 +1,23 @@
+{
+  "month": "2028-03",
+  "slices": [
+    {
+      "id": "2028-03-18-0230",
+      "focus": "A lot has shifted lately, and the big thing is that work has finally moved from ",
+      "summary": "The bag-change instructions, weirdly",
+      "tags": [
+        "work",
+        "health",
+        "relationship",
+        "housing",
+        "goals"
+      ],
+      "status": "closed",
+      "start": "2028-03-18T02:30:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "Jordan rebuilt Alder Street's wholesale operation around documented backup roast plans, bag-change instructions, and del"
+      ]
+    }
+  ]
+}

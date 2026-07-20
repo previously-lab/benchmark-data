@@ -1,0 +1,23 @@
+{
+  "month": "2028-05",
+  "slices": [
+    {
+      "id": "2028-05-30-0840",
+      "focus": "A lot has shifted lately, and this feels like one of those points where somethin",
+      "summary": "It felt more permanent than anything before",
+      "tags": [
+        "work",
+        "family",
+        "education",
+        "housing"
+      ],
+      "status": "closed",
+      "start": "2028-05-30T08:40:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "Years of Derek's notes, arguments, and contractor call lists have now solidified into a training system that Local 5 and",
+        "He feels lighter and more grounded because the apprenticeship overhaul now has hard proof behind it instead of resting o"
+      ]
+    }
+  ]
+}

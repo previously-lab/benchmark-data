@@ -1,0 +1,26 @@
+{
+  "month": "2025-09",
+  "slices": [
+    {
+      "id": "2025-09-07-0550",
+      "focus": "A lot has been shifting lately, and this weekend I ended up dealing with money i",
+      "summary": "The practical version was, if I took the new amount as is, it was going to start eating the little f",
+      "tags": [
+        "work",
+        "family",
+        "health",
+        "finance",
+        "education",
+        "housing",
+        "leisure",
+        "goals"
+      ],
+      "status": "closed",
+      "start": "2025-09-07T05:50:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "Tasha enrolled in an income-driven repayment plan after her federal student loan servicer recalculated her payment upwar"
+      ]
+    }
+  ]
+}

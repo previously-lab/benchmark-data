@@ -1,0 +1,24 @@
+{
+  "month": "2026-11",
+  "slices": [
+    {
+      "id": "2026-11-27-1245",
+      "focus": "A lot has been piling up lately, not in one dramatic way, just in that constant ",
+      "summary": "Yes, exactly, it was the accumulation more than one crisis",
+      "tags": [
+        "work",
+        "family",
+        "health",
+        "housing",
+        "leisure",
+        "goals"
+      ],
+      "status": "closed",
+      "start": "2026-11-27T12:45:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "Her mental health shifted from general stress easing somewhat to having slightly better coping tools, more honest langua"
+      ]
+    }
+  ]
+}

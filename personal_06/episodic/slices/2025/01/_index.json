@@ -1,0 +1,45 @@
+{
+  "month": "2025-01",
+  "slices": [
+    {
+      "id": "2025-01-05-0200",
+      "focus": "It is nice to start using a tool like this.",
+      "summary": "My name is Hannah Louise Mercer",
+      "tags": [
+        "work",
+        "family",
+        "health",
+        "finance",
+        "relationship",
+        "travel",
+        "education",
+        "housing"
+      ],
+      "status": "closed",
+      "start": "2025-01-05T02:00:00.000Z",
+      "open_loops": [],
+      "decisions": []
+    },
+    {
+      "id": "2025-01-22-0840",
+      "focus": "A lot has shifted at work lately, and I think one thing finally tipped from back",
+      "summary": "It got ugly fast",
+      "tags": [
+        "work",
+        "family",
+        "health",
+        "finance",
+        "education",
+        "housing",
+        "leisure",
+        "goals"
+      ],
+      "status": "closed",
+      "start": "2025-01-22T08:40:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "Hannah is still the Providence Museum of Art's registrar, and after the photography loan request she is now leading an i"
+      ]
+    }
+  ]
+}

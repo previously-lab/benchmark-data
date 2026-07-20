@@ -1,0 +1,25 @@
+{
+  "month": "2028-05",
+  "slices": [
+    {
+      "id": "2028-05-18-1245",
+      "focus": "Things have been busy lately, but a funny little travel idea got lodged in my he",
+      "summary": "Yes, that is exactly it, no heroic packing list",
+      "tags": [
+        "work",
+        "family",
+        "travel",
+        "education",
+        "housing",
+        "goals",
+        "environment"
+      ],
+      "status": "closed",
+      "start": "2028-05-18T12:45:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "Marisa has become more open to simple overnight Olympic Peninsula trips and short beach stays instead of treating travel"
+      ]
+    }
+  ]
+}

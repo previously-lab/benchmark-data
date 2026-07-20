@@ -1,0 +1,42 @@
+{
+  "month": "2025-03",
+  "slices": [
+    {
+      "id": "2025-03-03-0115",
+      "focus": "A lot has been shifting lately, and I finally had the meeting about the collecti",
+      "summary": "Probably the evidence",
+      "tags": [
+        "work",
+        "health",
+        "finance",
+        "housing",
+        "goals",
+        "environment"
+      ],
+      "status": "closed",
+      "start": "2025-03-03T01:15:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "Hannah remains the Providence Museum of Art's registrar and won limited approval for a phased collections cleanup pilot "
+      ]
+    },
+    {
+      "id": "2025-03-28-1120",
+      "focus": "Things have been pretty compressed lately, and I finally had one of those moment",
+      "summary": "A little of both, honestly",
+      "tags": [
+        "work",
+        "health",
+        "finance",
+        "housing"
+      ],
+      "status": "closed",
+      "start": "2025-03-28T11:20:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "Hannah now uses stretching and heat therapy to keep deadline-related jaw tension and headaches from becoming constant.",
+        "Hannah has started using therapy worksheets, sleep boundaries, and physical tension tracking to manage work anxiety arou"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "month": "2027-05",
+  "slices": [
+    {
+      "id": "2027-05-11-0705",
+      "focus": "A lot has been shifting lately, and work gave me one of those moments where the ",
+      "summary": "The delays were mostly upstream",
+      "tags": [
+        "work",
+        "finance",
+        "education",
+        "housing",
+        "leisure"
+      ],
+      "status": "closed",
+      "start": "2027-05-11T07:05:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "Evan is the district's lead procurement analyst refining the mandatory intake system with stricter required fields after"
+      ]
+    }
+  ]
+}

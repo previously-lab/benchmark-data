@@ -1,0 +1,24 @@
+{
+  "month": "2025-07",
+  "slices": [
+    {
+      "id": "2025-07-06-0540",
+      "focus": "Things have been a little calmer for a minute, which feels strange after how ful",
+      "summary": "Yes, that was the part that really got me",
+      "tags": [
+        "work",
+        "family",
+        "travel",
+        "education",
+        "housing",
+        "goals"
+      ],
+      "status": "closed",
+      "start": "2025-07-06T05:40:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "Colleen now leans even more toward short Northeast train trips specifically to scout small museums for practical educati"
+      ]
+    }
+  ]
+}

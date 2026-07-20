@@ -1,0 +1,26 @@
+{
+  "month": "2026-03",
+  "slices": [
+    {
+      "id": "2026-03-06-1200",
+      "focus": "Things have been a little less frantic lately, at least in pockets, and I had on",
+      "summary": "I think it was partly him and partly the whole scene",
+      "tags": [
+        "work",
+        "health",
+        "finance",
+        "travel",
+        "education",
+        "housing",
+        "leisure",
+        "goals"
+      ],
+      "status": "closed",
+      "start": "2026-03-06T12:00:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "Lucia still does not have pets, but after bonding with Yesenia's elderly orange cat she and Daniel became more serious a"
+      ]
+    }
+  ]
+}

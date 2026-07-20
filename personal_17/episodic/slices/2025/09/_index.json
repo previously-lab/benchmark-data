@@ -1,0 +1,45 @@
+{
+  "month": "2025-09",
+  "slices": [
+    {
+      "id": "2025-09-03-0055",
+      "focus": "Things have been moving fast since we last talked, and the general shape of my j",
+      "summary": "Exactly, and the pressure point was the volunteer tours",
+      "tags": [
+        "work",
+        "relationship",
+        "travel",
+        "education",
+        "leisure",
+        "environment"
+      ],
+      "status": "closed",
+      "start": "2025-09-03T00:55:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "Colleen's education-manager role has shifted from building the school program to managing a busier season and trying to "
+      ]
+    },
+    {
+      "id": "2025-09-29-1120",
+      "focus": "A lot has shifted lately, even though on the surface things still look pretty st",
+      "summary": "It looked very unglamorous, honestly",
+      "tags": [
+        "work",
+        "family",
+        "health",
+        "finance",
+        "housing",
+        "leisure",
+        "goals",
+        "environment"
+      ],
+      "status": "closed",
+      "start": "2025-09-29T11:20:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "Colleen reworked her budget after cutting back some freelance weekend walking tours because spring voice trouble made th"
+      ]
+    }
+  ]
+}

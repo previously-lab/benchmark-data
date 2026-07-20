@@ -1,0 +1,22 @@
+{
+  "month": "2026-09",
+  "slices": [
+    {
+      "id": "2026-09-08-0620",
+      "focus": "A lot has shifted lately, and work has gotten bigger in a way I did not exactly ",
+      "summary": "Honestly, I feel more exposed, but also more useful",
+      "tags": [
+        "work",
+        "education",
+        "leisure",
+        "goals"
+      ],
+      "status": "closed",
+      "start": "2026-09-08T06:20:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "Monica's corridor work expanded from one protected pilot corridor into a formal north-side enforcement priority tracking"
+      ]
+    }
+  ]
+}

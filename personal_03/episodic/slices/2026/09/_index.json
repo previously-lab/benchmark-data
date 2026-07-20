@@ -1,0 +1,26 @@
+{
+  "month": "2026-09",
+  "slices": [
+    {
+      "id": "2026-09-22-0010",
+      "focus": "A lot has shifted lately, and one thing I finally had to admit is my back was no",
+      "summary": "Probably the consistency more than any one thing",
+      "tags": [
+        "work",
+        "family",
+        "health",
+        "travel",
+        "housing",
+        "leisure",
+        "goals",
+        "environment"
+      ],
+      "status": "closed",
+      "start": "2026-09-22T00:10:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "Derek's back is still a chronic issue, but steady morning stretching, sticking with physical therapy, and cutting back o"
+      ]
+    }
+  ]
+}

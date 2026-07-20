@@ -1,0 +1,23 @@
+{
+  "month": "2027-05",
+  "slices": [
+    {
+      "id": "2027-05-24-0525",
+      "focus": "A lot has shifted at work since we last talked, and I finally got one of the cha",
+      "summary": "Definitely the earlier checkpoints",
+      "tags": [
+        "work",
+        "finance",
+        "education",
+        "housing",
+        "goals"
+      ],
+      "status": "closed",
+      "start": "2027-05-24T05:25:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "Hannah remains registrar and got the museum to adopt quarterly spot audits plus a standing cross-department exhibition p"
+      ]
+    }
+  ]
+}

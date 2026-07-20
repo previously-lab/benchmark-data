@@ -1,0 +1,25 @@
+{
+  "month": "2028-05",
+  "slices": [
+    {
+      "id": "2028-05-18-1010",
+      "focus": "A lot has shifted in a pretty ordinary way lately, which I guess is the point. I",
+      "summary": "Probably the combination, honestly",
+      "tags": [
+        "work",
+        "health",
+        "relationship",
+        "education",
+        "housing",
+        "leisure",
+        "goals"
+      ],
+      "status": "closed",
+      "start": "2028-05-18T10:10:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "At a spring physical, Nathaniel learned that his blood pressure remains in a better-controlled range and that he has kep"
+      ]
+    }
+  ]
+}

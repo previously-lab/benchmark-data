@@ -1,0 +1,42 @@
+{
+  "month": "2025-05",
+  "slices": [
+    {
+      "id": "2025-05-06-0105",
+      "focus": "A lot has been shifting lately, and one work thing finally moved in a real way. ",
+      "summary": "I definitely had to push",
+      "tags": [
+        "work",
+        "family",
+        "health",
+        "education",
+        "goals"
+      ],
+      "status": "closed",
+      "start": "2025-05-06T01:05:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "Monica's pilot on earlier reinspections became formal policy for her two north-side corridors, with protected weekly slo"
+      ]
+    },
+    {
+      "id": "2025-05-24-1310",
+      "focus": "A lot has shifted lately, not in some dramatic movie way, just enough that it fe",
+      "summary": "He is easy to be around, for one thing",
+      "tags": [
+        "family",
+        "relationship",
+        "education",
+        "housing",
+        "goals"
+      ],
+      "status": "closed",
+      "start": "2025-05-24T13:10:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "Monica is now in a cautious new relationship with Colin Mercer and is moving slowly because her custody schedule and tru",
+        "Colin Mercer is a Bay View civil engineer Monica met through a friend's patio gathering."
+      ]
+    }
+  ]
+}

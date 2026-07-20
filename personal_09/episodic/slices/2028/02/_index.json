@@ -1,0 +1,26 @@
+{
+  "month": "2028-02",
+  "slices": [
+    {
+      "id": "2028-02-04-1055",
+      "focus": "It has been a while since we chatted, and life has felt a little less like pure ",
+      "summary": "It was about a neighborhood fighting over who gets to belong there, which is not exactly light, but ",
+      "tags": [
+        "work",
+        "family",
+        "travel",
+        "education",
+        "housing",
+        "leisure",
+        "goals",
+        "civic"
+      ],
+      "status": "closed",
+      "start": "2028-02-04T10:55:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "After a documentary night at Rukhsana's house, Nadia got into local immigration reporting podcasts for short drives betw"
+      ]
+    }
+  ]
+}

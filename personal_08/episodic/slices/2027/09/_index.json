@@ -1,0 +1,21 @@
+{
+  "month": "2027-09",
+  "slices": [
+    {
+      "id": "2027-09-06-2320",
+      "focus": "A lot has shifted lately at work. The biggest thing is I finally got leadership ",
+      "summary": "They listened more seriously than I expected, honestly",
+      "tags": [
+        "work",
+        "housing",
+        "goals"
+      ],
+      "status": "closed",
+      "start": "2027-09-06T23:20:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "Jermaine's safety role expanded from refining forklift handoff controls to overseeing peer safety coaches across multipl"
+      ]
+    }
+  ]
+}

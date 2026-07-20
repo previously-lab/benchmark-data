@@ -1,0 +1,26 @@
+{
+  "month": "2027-06",
+  "slices": [
+    {
+      "id": "2027-06-06-0925",
+      "focus": "A lot has been shifting lately, even in the quieter parts of my life. This past ",
+      "summary": "Exactly, it was not some huge medical crisis, just a string of small things that needed doing",
+      "tags": [
+        "work",
+        "family",
+        "health",
+        "finance",
+        "relationship",
+        "travel",
+        "education",
+        "housing"
+      ],
+      "status": "closed",
+      "start": "2027-06-06T09:25:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "Supporting Denise during recovery shifted their dynamic from Denise mainly being Tasha's emotional anchor to a more mutu"
+      ]
+    }
+  ]
+}

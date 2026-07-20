@@ -1,0 +1,24 @@
+{
+  "month": "2025-07",
+  "slices": [
+    {
+      "id": "2025-07-23-0515",
+      "focus": "A lot has shifted lately, and work kind of went sideways on me. I had been tryin",
+      "summary": "Honestly, the bypassing has been the part that gets under my skin",
+      "tags": [
+        "work",
+        "health",
+        "education",
+        "housing",
+        "goals"
+      ],
+      "status": "closed",
+      "start": "2025-07-23T05:15:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "Evan's broader procurement rollout stalled after a midsummer HVAC failure triggered widespread off-workflow purchasing a",
+        "Evan is feeling more drained and frustrated after the emergency disrupted work he had been building into a districtwide "
+      ]
+    }
+  ]
+}

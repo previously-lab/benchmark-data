@@ -1,0 +1,25 @@
+{
+  "month": "2027-03",
+  "slices": [
+    {
+      "id": "2027-03-06-0610",
+      "focus": "A lot has shifted lately, and this past month kind of hit from two directions at",
+      "summary": "Exactly, it was not some dramatic bad decision, it was just two things that both had to be dealt wit",
+      "tags": [
+        "work",
+        "family",
+        "health",
+        "finance",
+        "relationship",
+        "housing",
+        "goals"
+      ],
+      "status": "closed",
+      "start": "2027-03-06T06:10:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "Nadia and Omar's emergency savings were thinned to a nervous minimum after Omar's car needed a major transmission repair"
+      ]
+    }
+  ]
+}

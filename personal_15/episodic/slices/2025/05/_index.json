@@ -1,0 +1,26 @@
+{
+  "month": "2025-05",
+  "slices": [
+    {
+      "id": "2025-05-07-1230",
+      "focus": "A lot has shifted lately, even though on the surface it probably looks like I'm ",
+      "summary": "Honestly, better than I expected",
+      "tags": [
+        "work",
+        "family",
+        "finance",
+        "relationship",
+        "education",
+        "housing",
+        "leisure",
+        "goals"
+      ],
+      "status": "closed",
+      "start": "2025-05-07T12:30:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "His cash flow tightened again after another round of family support, delaying his savings plans despite earning about 56"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "month": "2026-08",
+  "slices": [
+    {
+      "id": "2026-08-11-1045",
+      "focus": "A lot has shifted lately, and the work thing I was trying to keep alive finally ",
+      "summary": "The biggest thing was how uneven they were",
+      "tags": [
+        "work",
+        "family",
+        "education",
+        "housing",
+        "goals"
+      ],
+      "status": "closed",
+      "start": "2026-08-11T10:45:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "Derek now oversees a contractor-backed pre-apprenticeship boot camp that feeds into the first-year classes and gives him"
+      ]
+    }
+  ]
+}

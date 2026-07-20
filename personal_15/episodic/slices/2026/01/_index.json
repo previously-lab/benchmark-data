@@ -1,0 +1,21 @@
+{
+  "month": "2026-01",
+  "slices": [
+    {
+      "id": "2026-01-04-2325",
+      "focus": "A lot has shifted lately, and this one feels bigger than the usual day to day me",
+      "summary": "Honestly, all three",
+      "tags": [
+        "work",
+        "housing",
+        "leisure"
+      ],
+      "status": "closed",
+      "start": "2026-01-04T23:25:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "Park Jae-hyun is still dispatch manager and now has company-wide authority to use the standardized dispatch board and si"
+      ]
+    }
+  ]
+}

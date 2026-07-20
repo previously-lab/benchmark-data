@@ -1,0 +1,26 @@
+{
+  "month": "2027-10",
+  "slices": [
+    {
+      "id": "2027-10-01-1025",
+      "focus": "It has been a while since we chatted, and life has felt a little more ordinary i",
+      "summary": "Probably a mix of all three, but honestly the home piece mattered more than I expected",
+      "tags": [
+        "work",
+        "family",
+        "health",
+        "finance",
+        "travel",
+        "housing",
+        "leisure",
+        "goals"
+      ],
+      "status": "closed",
+      "start": "2027-10-01T10:25:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "Eric became more open to eventually adopting a calm adult cat that would fit the family's schedule and energy level."
+      ]
+    }
+  ]
+}

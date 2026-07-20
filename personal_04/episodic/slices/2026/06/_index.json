@@ -1,0 +1,22 @@
+{
+  "month": "2026-06",
+  "slices": [
+    {
+      "id": "2026-06-02-0135",
+      "focus": "A lot has been shifting lately, and I finally feel like I can name one big thing",
+      "summary": "Honestly, it was two shaky group nights back to back",
+      "tags": [
+        "work",
+        "health",
+        "education",
+        "housing"
+      ],
+      "status": "closed",
+      "start": "2026-06-02T01:35:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "Tasha shifted the bereavement volunteer program to a more selective model with clearer screening, paired co-leaders, and"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "month": "2027-05",
+  "slices": [
+    {
+      "id": "2027-05-09-0005",
+      "focus": "A lot has shifted lately, in a good way for once. The work I have been buried in",
+      "summary": "Probably the second one, if I am honest",
+      "tags": [
+        "work",
+        "health",
+        "travel",
+        "education",
+        "housing",
+        "leisure",
+        "environment"
+      ],
+      "status": "closed",
+      "start": "2027-05-09T00:05:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "Nathaniel's role expanded from drafting a corridor reliability playbook to serving as an internal trainer on reliability"
+      ]
+    }
+  ]
+}

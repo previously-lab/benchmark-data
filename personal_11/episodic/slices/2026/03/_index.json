@@ -1,0 +1,23 @@
+{
+  "month": "2026-03",
+  "slices": [
+    {
+      "id": "2026-03-24-0235",
+      "focus": "A lot has been shifting lately, and one thing at work finally felt like it moved",
+      "summary": "They were more open than I expected, honestly",
+      "tags": [
+        "work",
+        "family",
+        "education",
+        "housing",
+        "goals"
+      ],
+      "status": "closed",
+      "start": "2026-03-24T02:35:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "Monica is a frontline housing code supervisor now training her team on chronic-offender briefs and tenant-contact script"
+      ]
+    }
+  ]
+}

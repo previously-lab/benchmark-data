@@ -1,0 +1,22 @@
+{
+  "month": "2026-07",
+  "slices": [
+    {
+      "id": "2026-07-14-0335",
+      "focus": "Things have been busy again since we last talked, and work has taken another tur",
+      "summary": "Yes, exactly, the location could be technically correct and still attached to the wrong record, whic",
+      "tags": [
+        "work",
+        "housing",
+        "goals",
+        "environment"
+      ],
+      "status": "closed",
+      "start": "2026-07-14T03:35:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "Hannah remains registrar and widened the collections overhaul to include numbering reconciliation and image attachment c"
+      ]
+    }
+  ]
+}

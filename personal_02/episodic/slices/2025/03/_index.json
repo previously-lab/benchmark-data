@@ -1,0 +1,41 @@
+{
+  "month": "2025-03",
+  "slices": [
+    {
+      "id": "2025-03-03-1005",
+      "focus": "A lot has been shifting lately, and work finally moved in a direction that feels",
+      "summary": "It was the pattern more than any one bad day",
+      "tags": [
+        "work",
+        "health",
+        "housing",
+        "leisure",
+        "goals"
+      ],
+      "status": "closed",
+      "start": "2025-03-03T10:05:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "Lucia's role shifted from maintaining a manual crisis log to running a three-month scheduling-buffer pilot for the busie"
+      ]
+    },
+    {
+      "id": "2025-03-24-1210",
+      "focus": "A lot has shifted lately, even though on the surface it probably looks like the ",
+      "summary": "Exactly, it was not really about one dinner",
+      "tags": [
+        "work",
+        "family",
+        "relationship",
+        "housing"
+      ],
+      "status": "closed",
+      "start": "2025-03-24T12:10:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "Lucia's marriage is still strained by late schedule changes and eldercare, but she and Daniel are now using a shared wee",
+        "Daniel is still frustrated by Lucia's last-minute court schedule changes, but he and Lucia have started a Sunday plannin"
+      ]
+    }
+  ]
+}

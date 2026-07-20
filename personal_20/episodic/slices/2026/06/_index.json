@@ -1,0 +1,23 @@
+{
+  "month": "2026-06",
+  "slices": [
+    {
+      "id": "2026-06-23-1045",
+      "focus": "Things have been busy since we last talked, and a lot of my days still feel like",
+      "summary": "Honestly, probably more the dependable part than the culinary part",
+      "tags": [
+        "work",
+        "family",
+        "finance",
+        "housing",
+        "goals"
+      ],
+      "status": "closed",
+      "start": "2026-06-23T10:45:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "After Samuel pointed him to a dependable chili place near his northern Kentucky pantry dock, chili became Eric's default"
+      ]
+    }
+  ]
+}

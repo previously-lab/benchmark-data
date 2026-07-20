@@ -1,0 +1,22 @@
+{
+  "month": "2026-11",
+  "slices": [
+    {
+      "id": "2026-11-21-0735",
+      "focus": "Things have been busy lately, just regular life stacking up on top of itself. La",
+      "summary": "Yeah, that is exactly it, it was not some planned switch",
+      "tags": [
+        "work",
+        "family",
+        "education",
+        "leisure"
+      ],
+      "status": "closed",
+      "start": "2026-11-21T07:35:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "Jermaine's commute listening shifted toward more local sports radio and postgame call-in shows after long weekend drivin"
+      ]
+    }
+  ]
+}

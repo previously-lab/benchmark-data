@@ -1,0 +1,21 @@
+{
+  "month": "2027-09",
+  "slices": [
+    {
+      "id": "2027-09-14-0210",
+      "focus": "A lot has shifted lately, and for once I have a work update that actually feels ",
+      "summary": "The room got quieter, which honestly was the best possible reaction",
+      "tags": [
+        "work",
+        "housing",
+        "goals"
+      ],
+      "status": "closed",
+      "start": "2027-09-14T02:10:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "Monica's two-corridor enforcement approach now has documented declines in repeat complaint addresses and long-open dange"
+      ]
+    }
+  ]
+}

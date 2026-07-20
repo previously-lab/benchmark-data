@@ -1,0 +1,25 @@
+{
+  "month": "2027-09",
+  "slices": [
+    {
+      "id": "2027-09-22-0230",
+      "focus": "A lot has shifted since we last talked, and I finally hit a work milestone that ",
+      "summary": "I think it was having to absorb the same skeptical questions over and over and stay calm every time",
+      "tags": [
+        "work",
+        "health",
+        "education",
+        "housing",
+        "goals",
+        "environment",
+        "civic"
+      ],
+      "status": "closed",
+      "start": "2027-09-22T02:30:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "Marisa secured final local approvals for a fifth shoreline oyster-habitat site, making her five-site target newly realis"
+      ]
+    }
+  ]
+}

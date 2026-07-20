@@ -1,0 +1,23 @@
+{
+  "month": "2025-11",
+  "slices": [
+    {
+      "id": "2025-11-19-1020",
+      "focus": "A lot has shifted lately, and I finally have a version of this work that is movi",
+      "summary": "The biggest change is that I stopped trying to protect those longer shadow blocks during the day",
+      "tags": [
+        "work",
+        "housing",
+        "leisure",
+        "goals",
+        "environment"
+      ],
+      "status": "closed",
+      "start": "2025-11-19T10:20:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "Lucia redesigned the interpreter training cohort into a lower-disruption format after losing the original scheduling buf"
+      ]
+    }
+  ]
+}

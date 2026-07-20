@@ -1,0 +1,22 @@
+{
+  "month": "2026-04",
+  "slices": [
+    {
+      "id": "2026-04-23-1205",
+      "focus": "A lot has shifted lately, and the biggest thing is I had to move fast. My landlo",
+      "summary": "Honestly, all three, but the getting pushed part really got under my skin",
+      "tags": [
+        "work",
+        "family",
+        "housing",
+        "goals"
+      ],
+      "status": "closed",
+      "start": "2026-04-23T12:05:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "Marisa now rents a slightly smaller house in South Tacoma with a steadier lease, replacing her older duplex near the ind"
+      ]
+    }
+  ]
+}

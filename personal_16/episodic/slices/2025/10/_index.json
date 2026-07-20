@@ -1,0 +1,22 @@
+{
+  "month": "2025-10",
+  "slices": [
+    {
+      "id": "2025-10-07-1105",
+      "focus": "A lot has shifted at work since we last talked, and it has actually settled into",
+      "summary": "Yes, exactly, that is how it started to make sense to me too",
+      "tags": [
+        "work",
+        "health",
+        "education"
+      ],
+      "status": "closed",
+      "start": "2025-10-07T11:05:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "Saira stayed operations lead at Westgate Pharmacy and rebuilt her stalled workflow overhaul into a leaner version the te",
+        "Saira was still stressed, but the leaner workflow gave the project a second wind and eased the worst of her burnout."
+      ]
+    }
+  ]
+}

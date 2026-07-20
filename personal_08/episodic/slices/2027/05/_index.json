@@ -1,0 +1,21 @@
+{
+  "month": "2027-05",
+  "slices": [
+    {
+      "id": "2027-05-14-0340",
+      "focus": "A lot has been shifting lately, and work gave me another one of those reminders ",
+      "summary": "That was exactly the part that bothered me, because on paper it could have been easy to shrug and sa",
+      "tags": [
+        "work",
+        "health",
+        "housing"
+      ],
+      "status": "closed",
+      "start": "2027-05-14T03:40:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "Jermaine updated his safety program beyond dock checks by adding forklift handoff controls in replenishment after tracin"
+      ]
+    }
+  ]
+}

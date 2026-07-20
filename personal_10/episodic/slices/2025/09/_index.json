@@ -1,0 +1,24 @@
+{
+  "month": "2025-09",
+  "slices": [
+    {
+      "id": "2025-09-07-0615",
+      "focus": "Things have felt a little more breathable lately, not perfect, just not quite so",
+      "summary": "Not a ton yet, honestly",
+      "tags": [
+        "work",
+        "finance",
+        "education",
+        "housing",
+        "leisure",
+        "goals"
+      ],
+      "status": "closed",
+      "start": "2025-09-07T06:15:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "Kelli's food routine expanded to include quick air-fryer potatoes and reheated leftovers after Mikayla gave her a used a"
+      ]
+    }
+  ]
+}

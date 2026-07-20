@@ -1,0 +1,22 @@
+{
+  "month": "2027-01",
+  "slices": [
+    {
+      "id": "2027-01-31-0700",
+      "focus": "A lot has shifted lately, and I feel like work finally moved from constant clean",
+      "summary": "Honestly, the strongest part was that it stopped being about one bad pallet or one lucky week",
+      "tags": [
+        "work",
+        "relationship",
+        "housing",
+        "goals"
+      ],
+      "status": "closed",
+      "start": "2027-01-31T07:00:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "Eric now presents a quarterly cold-chain dashboard that combines pantry readiness, on-time fresh deliveries, and spoilag"
+      ]
+    }
+  ]
+}

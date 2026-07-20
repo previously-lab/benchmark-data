@@ -1,0 +1,26 @@
+{
+  "month": "2027-03",
+  "slices": [
+    {
+      "id": "2027-03-18-0055",
+      "focus": "A lot has shifted lately, in a good but slightly surreal way. I had my annual re",
+      "summary": "Pretty explicit, actually, which is part of why it landed with me",
+      "tags": [
+        "work",
+        "family",
+        "health",
+        "finance",
+        "education",
+        "housing",
+        "leisure",
+        "goals"
+      ],
+      "status": "closed",
+      "start": "2027-03-18T00:55:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "Hannah received a modest annual-review raise that explicitly recognized her collections systems work beyond routine loan"
+      ]
+    }
+  ]
+}

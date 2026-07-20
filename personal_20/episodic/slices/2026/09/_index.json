@@ -1,0 +1,26 @@
+{
+  "month": "2026-09",
+  "slices": [
+    {
+      "id": "2026-09-10-1220",
+      "focus": "A lot has shifted lately, and one thing we finally did was pay to have a backyar",
+      "summary": "Mostly messy transition, but in a good way",
+      "tags": [
+        "work",
+        "family",
+        "finance",
+        "education",
+        "housing",
+        "leisure",
+        "goals"
+      ],
+      "status": "closed",
+      "start": "2026-09-10T12:20:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "Eric and Danielle paid to have a backyard shed installed so overflow household storage would stop taking over the garage",
+        "Paying for the shed delayed any real savings rebuild and kept Eric feeling financially narrow after other recent repair "
+      ]
+    }
+  ]
+}

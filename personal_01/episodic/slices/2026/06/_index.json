@@ -1,0 +1,25 @@
+{
+  "month": "2026-06",
+  "slices": [
+    {
+      "id": "2026-06-02-0125",
+      "focus": "A lot has shifted lately, and this one feels like the first work update in a whi",
+      "summary": "The biggest physical change was heavier edge anchoring",
+      "tags": [
+        "work",
+        "finance",
+        "travel",
+        "education",
+        "housing",
+        "goals",
+        "environment"
+      ],
+      "status": "closed",
+      "start": "2026-06-02T01:25:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "Marisa is now the county habitat field supervisor overseeing three operating oyster-habitat sites, with the newest site "
+      ]
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "month": "2025-09",
+  "slices": [
+    {
+      "id": "2025-09-14-0530",
+      "focus": "Things have been busy since we last talked, just that whole fall pileup where wo",
+      "summary": "Yeah, that is exactly it",
+      "tags": [
+        "work",
+        "family",
+        "health",
+        "finance",
+        "education",
+        "housing",
+        "goals",
+        "environment"
+      ],
+      "status": "closed",
+      "start": "2025-09-14T05:30:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "Derek got more serious about packing leftovers and thermos lunches instead of grabbing gas-station food after a contract"
+      ]
+    }
+  ]
+}

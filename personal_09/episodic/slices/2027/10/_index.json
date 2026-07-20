@@ -1,0 +1,24 @@
+{
+  "month": "2027-10",
+  "slices": [
+    {
+      "id": "2027-10-12-0125",
+      "focus": "A lot has shifted at work lately, and this feels like the first week I can even ",
+      "summary": "Honestly, the clearest proof was that I was not spending every hour patching holes from memory",
+      "tags": [
+        "work",
+        "family",
+        "relationship",
+        "education",
+        "housing",
+        "environment"
+      ],
+      "status": "closed",
+      "start": "2027-10-12T01:25:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "Nadia's documented intake system proved itself during an unusually heavy fall quarter by keeping housing placement times"
+      ]
+    }
+  ]
+}

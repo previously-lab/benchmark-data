@@ -1,0 +1,26 @@
+{
+  "month": "2027-08",
+  "slices": [
+    {
+      "id": "2027-08-11-1310",
+      "focus": "It has been a while since we chatted, and life has still felt pretty full, but i",
+      "summary": "Yes, exactly, and honestly I was a little surprised by how much that clicked for me",
+      "tags": [
+        "work",
+        "family",
+        "finance",
+        "relationship",
+        "travel",
+        "education",
+        "goals",
+        "environment"
+      ],
+      "status": "closed",
+      "start": "2027-08-11T13:10:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "The trip confirmed for Kelli that she strongly prefers slow, low-agenda travel centered on walking, coffee, and weather "
+      ]
+    }
+  ]
+}

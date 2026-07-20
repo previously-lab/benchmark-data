@@ -1,0 +1,25 @@
+{
+  "month": "2025-08",
+  "slices": [
+    {
+      "id": "2025-08-19-0345",
+      "focus": "A lot has shifted lately, and this feels like one of those moments where the wor",
+      "summary": "The strongest part was that I finally had actual field evidence instead of hand waving",
+      "tags": [
+        "work",
+        "finance",
+        "travel",
+        "education",
+        "housing",
+        "leisure",
+        "goals"
+      ],
+      "status": "closed",
+      "start": "2025-08-19T03:45:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "Marisa became the lead author and presenter on a county and foundation grant package to secure recurring maintenance fun"
+      ]
+    }
+  ]
+}

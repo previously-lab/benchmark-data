@@ -1,0 +1,24 @@
+{
+  "month": "2028-01",
+  "slices": [
+    {
+      "id": "2028-01-22-0330",
+      "focus": "A lot has shifted since we last talked, in a good way for once. The biggest thin",
+      "summary": "Yes, that is exactly why it hit me so hard",
+      "tags": [
+        "work",
+        "health",
+        "education",
+        "housing",
+        "goals",
+        "environment"
+      ],
+      "status": "closed",
+      "start": "2028-01-22T03:30:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "Ayaka is now a mid-career operations coordinator with a formal resilience coordination remit inside her existing termina"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "month": "2026-04",
+  "slices": [
+    {
+      "id": "2026-04-18-0525",
+      "focus": "A lot has been shifting lately, and I finally had one of those work mornings whe",
+      "summary": "Yes, that is exactly where my head went",
+      "tags": [
+        "work",
+        "housing",
+        "goals",
+        "environment"
+      ],
+      "status": "closed",
+      "start": "2026-04-18T05:25:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "Lucia's occupation status now includes written backup tiers for Spanish-language court coverage and a standing monthly o"
+      ]
+    }
+  ]
+}

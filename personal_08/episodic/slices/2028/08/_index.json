@@ -1,0 +1,25 @@
+{
+  "month": "2028-08",
+  "slices": [
+    {
+      "id": "2028-08-23-0900",
+      "focus": "It has been a while since we caught up, and things have shifted in a way I did n",
+      "summary": "The replaying has backed off the most",
+      "tags": [
+        "work",
+        "family",
+        "health",
+        "housing",
+        "leisure",
+        "goals",
+        "environment"
+      ],
+      "status": "closed",
+      "start": "2028-08-23T09:00:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "Jermaine's mental health improved from constant incident replay and poor sleep to being still stress-prone but noticeabl"
+      ]
+    }
+  ]
+}

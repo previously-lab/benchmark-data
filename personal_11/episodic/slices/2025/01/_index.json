@@ -1,0 +1,42 @@
+{
+  "month": "2025-01",
+  "slices": [
+    {
+      "id": "2025-01-08-1130",
+      "focus": "I appreciate that you are taking the time.",
+      "summary": "My name is Monica Renee Halverson",
+      "tags": [
+        "work",
+        "family",
+        "health",
+        "finance",
+        "relationship",
+        "travel",
+        "education",
+        "housing"
+      ],
+      "status": "closed",
+      "start": "2025-01-08T11:30:00.000Z",
+      "open_loops": [],
+      "decisions": []
+    },
+    {
+      "id": "2025-01-28-0010",
+      "focus": "A lot has shifted lately, and this week was the first time the new level of resp",
+      "summary": "I pulled Andre into a late afternoon file review before everybody scattered, because I wanted anothe",
+      "tags": [
+        "work",
+        "family",
+        "housing",
+        "leisure"
+      ],
+      "status": "closed",
+      "start": "2025-01-28T00:10:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "Monica shifted from newly promoted frontline supervisor to personally running a north-side hazard board for child-exposu",
+        "Monica became more keyed up after the fourplex case, feeling sharper urgency and responsibility because dangerous files "
+      ]
+    }
+  ]
+}

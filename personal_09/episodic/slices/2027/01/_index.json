@@ -1,0 +1,23 @@
+{
+  "month": "2027-01",
+  "slices": [
+    {
+      "id": "2027-01-13-0255",
+      "focus": "Things have been busy since we last talked, but in a way that finally feels a li",
+      "summary": "Honestly, I could feel the mood change when I got to that slide",
+      "tags": [
+        "work",
+        "education",
+        "housing",
+        "leisure",
+        "goals"
+      ],
+      "status": "closed",
+      "start": "2027-01-13T02:55:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "Nadia's intake system now includes two reception staff cross-trained to provide part-time intake support during surge pe"
+      ]
+    }
+  ]
+}

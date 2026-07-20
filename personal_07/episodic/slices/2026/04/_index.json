@@ -1,0 +1,21 @@
+{
+  "month": "2026-04",
+  "slices": [
+    {
+      "id": "2026-04-12-0845",
+      "focus": "Things have been pretty full lately, and one of the big work pieces finally cros",
+      "summary": "Honestly, the cleanup part was grim but satisfying in a stubborn way",
+      "tags": [
+        "work",
+        "education",
+        "housing"
+      ],
+      "status": "closed",
+      "start": "2026-04-12T08:45:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "Evan completed the School District of University City's first current searchable repository of active vendor contracts a"
+      ]
+    }
+  ]
+}

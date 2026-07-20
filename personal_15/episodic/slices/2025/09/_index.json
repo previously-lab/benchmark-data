@@ -1,0 +1,25 @@
+{
+  "month": "2025-09",
+  "slices": [
+    {
+      "id": "2025-09-09-1300",
+      "focus": "Things have been pretty tense lately, so this is a smaller update than the usual",
+      "summary": "We watched one of those realistic maritime incident films I always like, the kind that's more about ",
+      "tags": [
+        "work",
+        "family",
+        "finance",
+        "education",
+        "housing",
+        "leisure",
+        "goals"
+      ],
+      "status": "closed",
+      "start": "2025-09-09T13:00:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "Jae-hyun has started deliberately using quiet home movie nights as a post-shift decompression routine, especially by rew"
+      ]
+    }
+  ]
+}

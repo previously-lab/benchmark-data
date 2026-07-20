@@ -1,0 +1,22 @@
+{
+  "month": "2025-11",
+  "slices": [
+    {
+      "id": "2025-11-16-0955",
+      "focus": "Things have felt a little heavy lately, so this is a smaller update, but it ende",
+      "summary": "Yeah, that was part of it",
+      "tags": [
+        "work",
+        "health",
+        "education",
+        "leisure"
+      ],
+      "status": "closed",
+      "start": "2025-11-16T09:55:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "Monica now leans even harder on batch cooking and labeled leftovers to keep home life orderly during a stressful fall."
+      ]
+    }
+  ]
+}

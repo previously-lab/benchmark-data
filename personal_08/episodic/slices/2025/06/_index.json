@@ -1,0 +1,23 @@
+{
+  "month": "2025-06",
+  "slices": [
+    {
+      "id": "2025-06-11-0740",
+      "focus": "A lot has been shifting lately, and I had one of those work moments where I coul",
+      "summary": "Yeah, that's exactly it",
+      "tags": [
+        "work",
+        "travel",
+        "education",
+        "housing",
+        "goals"
+      ],
+      "status": "closed",
+      "start": "2025-06-11T07:40:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "Jermaine shifted his safety rollout from longer classroom-style talks to short assignment-based micro-sessions at the st"
+      ]
+    }
+  ]
+}

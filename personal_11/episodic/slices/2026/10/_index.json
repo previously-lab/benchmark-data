@@ -1,0 +1,25 @@
+{
+  "month": "2026-10",
+  "slices": [
+    {
+      "id": "2026-10-15-1150",
+      "focus": "Things have been busy since we last talked, just that packed fall feeling where ",
+      "summary": "I think it's mostly the steadier pace",
+      "tags": [
+        "work",
+        "finance",
+        "education",
+        "housing",
+        "leisure",
+        "goals",
+        "civic"
+      ],
+      "status": "closed",
+      "start": "2026-10-15T11:50:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "Monica started keeping more Milwaukee public radio on at home during evening paperwork and school-night prep, not just i"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "month": "2027-02",
+  "slices": [
+    {
+      "id": "2027-02-26-1100",
+      "focus": "Things have been a little less frantic lately, at least for one week at a time, ",
+      "summary": "The first one was about old working piers and how cargo patterns changed the shoreline over time, wh",
+      "tags": [
+        "work",
+        "family",
+        "education",
+        "housing",
+        "leisure",
+        "goals",
+        "civic"
+      ],
+      "status": "closed",
+      "start": "2027-02-26T11:00:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "Nina Bui has become Marisa's occasional companion for public lectures and waterfront history talks, not just a practical"
+      ]
+    }
+  ]
+}

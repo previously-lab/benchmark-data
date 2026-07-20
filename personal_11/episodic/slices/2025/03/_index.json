@@ -1,0 +1,21 @@
+{
+  "month": "2025-03",
+  "slices": [
+    {
+      "id": "2025-03-19-0940",
+      "focus": "A lot has been shifting lately, and work finally tipped into something more conc",
+      "summary": "Exactly, the consistency part is what I am worried about",
+      "tags": [
+        "work",
+        "housing",
+        "leisure"
+      ],
+      "status": "closed",
+      "start": "2025-03-19T09:40:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "Monica is now piloting a repeat-violation tracker and earlier reinspection scheduling for two north-side rental corridor"
+      ]
+    }
+  ]
+}

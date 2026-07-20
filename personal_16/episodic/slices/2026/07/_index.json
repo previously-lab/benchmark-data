@@ -1,0 +1,25 @@
+{
+  "month": "2026-07",
+  "slices": [
+    {
+      "id": "2026-07-03-1410",
+      "focus": "A lot has shifted lately, in a good way for once. The biggest thing is that Tom ",
+      "summary": "Probably the bit after, if I am honest",
+      "tags": [
+        "work",
+        "family",
+        "finance",
+        "relationship",
+        "housing",
+        "leisure",
+        "goals"
+      ],
+      "status": "closed",
+      "start": "2026-07-03T14:10:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "Saira and Tom got married in a small Leeds registry-office ceremony."
+      ]
+    }
+  ]
+}

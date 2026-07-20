@@ -1,0 +1,22 @@
+{
+  "month": "2025-07",
+  "slices": [
+    {
+      "id": "2025-07-09-0505",
+      "focus": "A lot has shifted lately, and work kind of blew past the point where I could sti",
+      "summary": "Yeah, that is exactly it",
+      "tags": [
+        "work",
+        "housing",
+        "goals"
+      ],
+      "status": "closed",
+      "start": "2025-07-09T05:05:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "Eric stayed in the same cold-chain coordinator role, but after a visible spoilage failure leadership approved a ninety-d",
+        "Eric felt shaken by the dumped milk and spoiled produce, but the crisis also gave him a narrow sense of leverage because"
+      ]
+    }
+  ]
+}

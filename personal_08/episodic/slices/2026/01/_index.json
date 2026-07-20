@@ -1,0 +1,23 @@
+{
+  "month": "2026-01",
+  "slices": [
+    {
+      "id": "2026-01-13-0530",
+      "focus": "A lot has shifted lately, and work finally moved in a direction that feels diffe",
+      "summary": "The biggest thing is every new temp has to be paired with a specific named trainer, not just dropped",
+      "tags": [
+        "work",
+        "family",
+        "housing",
+        "leisure",
+        "goals"
+      ],
+      "status": "closed",
+      "start": "2026-01-13T05:30:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "Jermaine and Sharon won approval for a formal reset plan after using the ugly peak-season incident numbers as leverage i"
+      ]
+    }
+  ]
+}

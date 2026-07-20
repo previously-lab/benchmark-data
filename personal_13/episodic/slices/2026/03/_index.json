@@ -1,0 +1,23 @@
+{
+  "month": "2026-03",
+  "slices": [
+    {
+      "id": "2026-03-24-0535",
+      "focus": "A lot has been shifting lately, and one work thing finally turned a corner in a ",
+      "summary": "Mostly the times",
+      "tags": [
+        "work",
+        "travel",
+        "education",
+        "housing",
+        "goals"
+      ],
+      "status": "closed",
+      "start": "2026-03-24T05:35:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "Danielle strengthened the district nutrition reliability playbook by validating vendor arrival timestamps against both d"
+      ]
+    }
+  ]
+}

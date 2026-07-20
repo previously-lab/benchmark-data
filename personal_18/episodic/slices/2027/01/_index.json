@@ -1,0 +1,23 @@
+{
+  "month": "2027-01",
+  "slices": [
+    {
+      "id": "2027-01-29-0950",
+      "focus": "It has been a while since we chatted, and things have finally eased up enough th",
+      "summary": "Honestly, all three",
+      "tags": [
+        "work",
+        "health",
+        "housing",
+        "leisure",
+        "goals"
+      ],
+      "status": "closed",
+      "start": "2027-01-29T09:50:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "Jordan refined her movie preference after a repertory screening and now deliberately uses brisk older workplace comedies"
+      ]
+    }
+  ]
+}

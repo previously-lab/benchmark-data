@@ -1,0 +1,25 @@
+{
+  "month": "2028-10",
+  "slices": [
+    {
+      "id": "2028-10-03-0720",
+      "focus": "A lot has shifted since we last talked, and I finally got one of the work milest",
+      "summary": "Honestly, the part that hit me hardest was not having to argue from scratch again",
+      "tags": [
+        "work",
+        "family",
+        "finance",
+        "travel",
+        "housing",
+        "goals"
+      ],
+      "status": "closed",
+      "start": "2028-10-03T07:20:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "Marisa won formal county inclusion of the oyster work as a recurring restoration program rather than a temporary pilot.",
+        "The oyster program now has county-recognized recurring support that covers maintenance and crew time without the old eme"
+      ]
+    }
+  ]
+}

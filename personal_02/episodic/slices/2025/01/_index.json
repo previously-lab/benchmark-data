@@ -1,0 +1,44 @@
+{
+  "month": "2025-01",
+  "slices": [
+    {
+      "id": "2025-01-06-0010",
+      "focus": "It is nice to start using a tool like this.",
+      "summary": "My name is Lucia Elena Montoya",
+      "tags": [
+        "work",
+        "family",
+        "health",
+        "finance",
+        "relationship",
+        "travel",
+        "education",
+        "leisure"
+      ],
+      "status": "closed",
+      "start": "2025-01-06T00:10:00.000Z",
+      "open_loops": [],
+      "decisions": []
+    },
+    {
+      "id": "2025-01-22-0940",
+      "focus": "A lot has shifted lately at work, and this week finally pushed something over th",
+      "summary": "Yes, and I think that is the part that matters",
+      "tags": [
+        "work",
+        "family",
+        "health",
+        "finance",
+        "housing",
+        "goals"
+      ],
+      "status": "closed",
+      "start": "2025-01-22T09:40:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "After a public same-day Spanish coverage breakdown, Lucia was allowed to start and maintain a manual incident log for ev",
+        "Lucia now sees the court as more exposed than before and feels newly keyed up but determined after the humiliating colla"
+      ]
+    }
+  ]
+}
