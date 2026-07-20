@@ -1,0 +1,30 @@
+{
+  "month": "2022-07",
+  "slices": [
+    {
+      "id": "2022-07-06-0825",
+      "focus": "A spontaneous cinema outing sparks Saira to build a curated list of light British comedies",
+      "summary": "An impromptu visit to a local independent cinema with Tom reveals Saira is tired of serious crime dramas. She starts actively collecting light, rewatchable British comedies for low-energy evenings, creating a categorized list (comfort rewrites, low-effort comedies, sharper options) shared with Tom.",
+      "tags": [
+        "local-cinema",
+        "british-comedy",
+        "rewatchable-films",
+        "low-capacity-evenings",
+        "preference-refinement",
+        "taste-shift",
+        "shared-leisure",
+        "evening-routineemotional_tone: neutral"
+      ],
+      "status": "closed",
+      "start": "2022-07-06T08:25:00.000Z",
+      "open_loops": [
+        "Film list needs to be finalized and moved to visible location (fridge/TV)",
+        "Tom's picks need to be added to make it shared",
+        "Once-a-month cinema habit not yet established"
+      ],
+      "decisions": [
+        "Saira began actively collecting lighter rewatchable comedies for tired evenings instead of relying mostly on serious cri"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "month": "2022-10",
+  "slices": [
+    {
+      "id": "2022-10-28-0230",
+      "focus": "Caleb shifts from broad corridor clinics to targeted case-tracking on a shorter repeat-loss subsection after proving application clustering to Sharon",
+      "summary": "Using scanned deed packets, handwritten contact notes, and a cluster map showing where repeat-loss applications were bunching, Caleb convinces Sharon to narrow follow-up onto a shorter subsection. His role shifts from running clinics broadly to tracking specific households through stages toward signed scopes.",
+      "tags": [
+        "repeat-loss-subsection-focus",
+        "case-tracking-system",
+        "concentrated-follow-through-pilot",
+        "sharon-boudreaux-approval",
+        "stage-based-household-tracking",
+        "strategic-depth-over-sprawl",
+        "cooling-off-rule-definition",
+        "curiosity-versus-active-pipelineemotional_tone: neutral"
+      ],
+      "status": "closed",
+      "start": "2022-10-28T02:30:00.000Z",
+      "open_loops": [
+        "Build stripped-down tracker for the shorter repeat-loss subsection",
+        "Define cooling-off rules (no response threshold, document movement interval)",
+        "Add owner column to tracker to prevent all delays becoming Caleb's problem"
+      ],
+      "decisions": [
+        "Caleb shifted from broad corridor paperwork clinics into a targeted case-tracking role focused on a shorter repeat-loss"
+      ]
+    }
+  ]
+}

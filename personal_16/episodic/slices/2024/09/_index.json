@@ -1,0 +1,31 @@
+{
+  "month": "2024-09",
+  "slices": [
+    {
+      "id": "2024-09-09-1055",
+      "focus": "Saira writes a blunt memo to Peter arguing against a rushed sale, using workflow evidence",
+      "summary": "Peter quietly sounds out retirement timing amid outside interest in local pharmacies. Saira writes a direct memo using two years of queue data, error reduction, and patient comments to argue the pharmacy has a realistic fighting chance to remain independent. Peter engages with practical questions rather than defensiveness.",
+      "tags": [
+        "peter-retirement",
+        "independence-memo",
+        "strategic-influence",
+        "queue-data-evidence",
+        "patient-comments",
+        "ownership-conversation",
+        "future-planning",
+        "fighting-chanceemotional_tone: neutral"
+      ],
+      "status": "closed",
+      "start": "2024-09-09T10:55:00.000Z",
+      "open_loops": [
+        "Winter stress test needs to be tracked as evidence",
+        "One-page summary of strongest measures needs to be prepared for broader discussion",
+        "Saira needs to balance strategic influence with daily operations energy",
+        "Need to avoid turning every ambiguity into a personal threat"
+      ],
+      "decisions": [
+        "Saira remained operations lead and became a central voice in Westgate's independence planning, using hard workflow evide"
+      ]
+    }
+  ]
+}

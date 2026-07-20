@@ -1,0 +1,28 @@
+{
+  "month": "2023-11",
+  "slices": [
+    {
+      "id": "2023-11-11-1300",
+      "focus": "A volunteer's mystery paperback recommendation starts a used-bookstore habit that deepens into a Sunday ritual",
+      "summary": "During a quiet work stretch, a volunteer presses a battered mystery paperback into Hannah's hands; it sparks a deepening habit of Sunday afternoon Providence used-bookstore prowls for crime novels with clipped, unsentimental, dry voices.",
+      "tags": [
+        "used-mystery-paperbacks",
+        "sunday-bookstore-routine",
+        "volunteer-recommendation",
+        "reading-corner-in-use",
+        "low-cost-pleasure",
+        "clipped-observant-tasteemotional_tone: neutral"
+      ],
+      "status": "closed",
+      "start": "2023-11-11T13:00:00.000Z",
+      "open_loops": [
+        "Keep minimal phone note of authors + one-word descriptors (dry, fast, good ending)",
+        "Ask volunteer for one more recommendation",
+        "Keep Sundays loosely unplanned: coffee + bookstore, no pressure to buy"
+      ],
+      "decisions": [
+        "Hannah still reads museum case studies and narrative nonfiction, but a volunteer's recommendation has deepened her devot"
+      ]
+    }
+  ]
+}

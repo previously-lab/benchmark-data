@@ -1,0 +1,30 @@
+{
+  "month": "2023-03",
+  "slices": [
+    {
+      "id": "2023-03-30-1300",
+      "focus": "Trevor secures overnight receiving work at a grocery warehouse after several months of steady follow-through on the basement agreement, creating a mixed-win: lower household tension and reliable financial contribution, but an off-kilter overnight rhythm.",
+      "summary": "Trevor's job acquisition validates the written-agreement approach and reduces household tension, but introduces an overnight schedule that requires a fresh set of house rules for shared rhythm and space.",
+      "tags": [
+        "work",
+        "family",
+        "finance",
+        "education",
+        "housing",
+        "leisure",
+        "goals",
+        "environmentemotional_tone: neutral"
+      ],
+      "status": "closed",
+      "start": "2023-03-30T13:00:00.000Z",
+      "open_loops": [
+        "Household rhythm reset conversation not yet held",
+        "Broader check-in about money and timeline not yet scheduled",
+        "Whether Trevor can sustain the job pattern long-term"
+      ],
+      "decisions": [
+        "Trevor secured overnight receiving work at a grocery warehouse while still living in Eric's basement."
+      ]
+    }
+  ]
+}

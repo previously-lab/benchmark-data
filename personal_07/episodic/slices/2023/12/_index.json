@@ -1,0 +1,25 @@
+{
+  "month": "2023-12",
+  "slices": [
+    {
+      "id": "2023-12-03-1300",
+      "focus": "A lot has shifted around the house since we last talked, not in some huge dramat",
+      "summary": "Pretty much both",
+      "tags": [
+        "lourdes-stair-slip-incident",
+        "handrail-installation",
+        "household-safety-rule-formalization",
+        "basement-entrance-protocol",
+        "post-scare-proactive-fix",
+        "care-needs-explicit-acknowledgmentemotional_tone: \"mixed\""
+      ],
+      "status": "closed",
+      "start": "2023-12-03T13:00:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "The family added handrails and made the basement entrance safer after Lourdes's near fall.",
+        "Lourdes still lives in the basement suite and helps when she can, but her scary slip made her care needs more explicit a"
+      ]
+    }
+  ]
+}

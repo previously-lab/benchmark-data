@@ -1,0 +1,30 @@
+{
+  "month": "2023-05",
+  "slices": [
+    {
+      "id": "2023-05-29-1325",
+      "focus": "It has been a pretty full stretch lately, but in a good way for once. With the w",
+      "summary": "It was low pressure, that is the main thing",
+      "tags": [
+        "youth-basketball-open-gym",
+        "marcus-lee-benton",
+        "community-volunteering",
+        "son-bonding",
+        "knee-friendly-activity",
+        "casual-friendship",
+        "low-pressure-community",
+        "shipping-department-connectionemotional_tone: neutral"
+      ],
+      "status": "closed",
+      "start": "2023-05-29T13:25:00.000Z",
+      "open_loops": [
+        "Text Marcus about next session",
+        "Keep as occasional drop-in on calendar",
+        "Invite daughter once if timing works"
+      ],
+      "decisions": [
+        "A coworker from shipping, Marcus Lee Benton, invited Jermaine to the local youth basketball open gym."
+      ]
+    }
+  ]
+}

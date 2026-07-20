@@ -1,0 +1,31 @@
+{
+  "month": "2022-05",
+  "slices": [
+    {
+      "id": "2022-05-02-0115",
+      "focus": "After a spring island visit, Ayaka's grandparents become more candid about how delayed cargo affects household decisions, deepening her understanding of the stakes.",
+      "summary": "Ayaka visits Shikanoshima and hears her grandfather's blunt critique about mainland staff underestimating how people ration supplies when worried about the next boat. Calls with both grandparents become more frequent, more honest, and more detailed — grandmother Fumiko now gives field reports on medicine timing, grocery shelf thinness, and anxious neighbors. Ayaka struggles to separate operational insight from emotional weight.",
+      "tags": [
+        "grandparent-relationship",
+        "island-perspective",
+        "household-impact",
+        "candid-communication",
+        "family-trust",
+        "medicine-timing",
+        "grocery-access",
+        "emotional-laboremotional_tone: neutral"
+      ],
+      "status": "closed",
+      "start": "2022-05-02T01:15:00.000Z",
+      "open_loops": [
+        "Risk of turning family calls into operational intelligence-gathering",
+        "Harder to maintain emotional boundary when household examples are vivid",
+        "Grandfather's dockside bluntness may increase pressure on Ayaka"
+      ],
+      "decisions": [
+        "After a spring island visit, Ayaka's grandmother Fumiko began calling with specific examples about medicine timing, groc",
+        "After a spring dockside conversation, Ayaka's grandfather Ryoichi became even more direct about what delayed cargo means"
+      ]
+    }
+  ]
+}

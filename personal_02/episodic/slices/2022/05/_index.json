@@ -1,0 +1,27 @@
+{
+  "month": "2022-05",
+  "slices": [
+    {
+      "id": "2022-05-02-0430",
+      "focus": "Severe migraine forces health prevention routine change",
+      "summary": "After a fluorescent-heavy week with packed arraignment calendars and skipped meals, Lucia vomits in the staff restroom from a severe migraine and sees her primary care doctor. She adopts a prevention routine: medication and electrolyte packets always in her court bag, a simple emergency snack, no skipped lunches on heavy days, and an early-warning medication rule rather than waiting until symptoms spiral. She tells Daniel what happened and he responds supportively, helping with a Sunday restock check for her bag. The conversation marks a shift from 'heroic endurance' to 'prevent the crash' — Lucia recognizes she's been treating determination as durability and decides to be less sacrificial, not less committed.",
+      "tags": [
+        "severe-migraine-episode",
+        "primary-care-intervention",
+        "migraine-prevention-routine",
+        "fluorescent-light-trigger",
+        "court-bag-preparedness-kit",
+        "self-neglect-pattern",
+        "daniel-supportive-response",
+        "sunday-restock-ritualemotional_tone: neutral"
+      ],
+      "status": "closed",
+      "start": "2022-05-02T04:30:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "After a severe migraine-related workweek flare, Lucia saw her primary care doctor and adopted a prevention routine for c",
+        "The migraine scare made Lucia less reckless about her own limits even as she stays determined about court reform."
+      ]
+    }
+  ]
+}

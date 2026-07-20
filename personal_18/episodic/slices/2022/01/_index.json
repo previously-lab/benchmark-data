@@ -1,0 +1,57 @@
+{
+  "month": "2022-01",
+  "slices": [
+    {
+      "id": "2022-01-06-1130",
+      "focus": "It is nice to start using a tool like this.",
+      "summary": "My name is Jordan Elise Petrov",
+      "tags": [
+        "life-introduction",
+        "personality-istj",
+        "career-profile",
+        "relationship-partner",
+        "family-obligations",
+        "health-anxiety",
+        "housing-noise",
+        "leisure-preferencesemotional_tone: neutral"
+      ],
+      "status": "closed",
+      "start": "2022-01-06T11:30:00.000Z",
+      "open_loops": [
+        "Career stability and the path to operations maturity at Alder Street",
+        "Family rescue dynamic with Rafael creating recurring financial/time drain",
+        "Savings fragility against family emergencies",
+        "Apartment noise wearing on wellbeing",
+        "Anxiety around production chaos and founder improvisation"
+      ],
+      "decisions": []
+    },
+    {
+      "id": "2022-01-28-0840",
+      "focus": "A lot has shifted lately, and work finally hit the kind of breaking point I alwa",
+      "summary": "Yeah, that is the part I am still trying to absorb",
+      "tags": [
+        "work-crisis",
+        "operations-authority",
+        "capacity-planning",
+        "exception-management",
+        "career-pivot",
+        "production-discipline",
+        "conflict-aversion",
+        "pattern-recognitionemotional_tone: neutral"
+      ],
+      "status": "closed",
+      "start": "2022-01-28T08:40:00.000Z",
+      "open_loops": [
+        "Whether Glen will respect the new freeze meeting authority",
+        "Whether the capacity sheet becomes a real tool or a bureaucratic artifact",
+        "Tanya and Jordan's shared burden of physically covering shortages",
+        "Exception path design that prevents the 'magic coffee appears' assumption",
+        "Balancing enforcement credibility with team buy-in"
+      ],
+      "decisions": [
+        "Jordan became the operations planner formally responsible for running a weekly wholesale freeze meeting and maintaining"
+      ]
+    }
+  ]
+}

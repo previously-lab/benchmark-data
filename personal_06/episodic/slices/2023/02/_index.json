@@ -1,0 +1,29 @@
+{
+  "month": "2023-02",
+  "slices": [
+    {
+      "id": "2023-02-11-0230",
+      "focus": "Converting the crate damage into mandatory outgoing loan controls using a blunt incident packet",
+      "summary": "Hannah assembles an incident packet (shipping photos, email timestamps, repair estimates, missing signoff trail) that forces a new policy: no outgoing loan crate moves without written registrar approval, a current condition report, and a complete packing worksheet.",
+      "tags": [
+        "outgoing-loan-controls",
+        "incident-packet-evidence",
+        "registrar-approval-mandate",
+        "condition-report-requirement",
+        "missing-signoff-trail",
+        "policy-leverageemotional_tone: neutral"
+      ],
+      "status": "closed",
+      "start": "2023-02-11T02:30:00.000Z",
+      "open_loops": [
+        "Draft one-page release checklist with three non-negotiables",
+        "Schedule short training session (15-20 min walkthrough of stop points)",
+        "Create release sheet that physically cannot be closed without three attachments",
+        "Prepare script for first deadline collision"
+      ],
+      "decisions": [
+        "Hannah remains registrar and turned the damaged crate incident into stricter outgoing loan controls requiring documented"
+      ]
+    }
+  ]
+}

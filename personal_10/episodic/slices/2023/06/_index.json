@@ -1,0 +1,31 @@
+{
+  "month": "2023-06",
+  "slices": [
+    {
+      "id": "2023-06-21-0800",
+      "focus": "Kelli starts low-dose blood pressure medication; her doctor bluntly tells her the stress pattern is no longer a phase.",
+      "summary": "At a primary-care follow-up postponed twice, Kelli is started on low-dose blood pressure medication. Her doctor bluntly tells her the neck tension, bad sleep, and drive-through dinners are no longer a temporary phase. Kelli feels embarrassed but commits to four changes: medication daily, one prepared dinner fallback, protecting the stretching class, and a small sleep boundary (10 min less screen time).",
+      "tags": [
+        "hypertension-medication",
+        "primary-care-follow-up",
+        "drive-through-dinner-cycle",
+        "desk-posture-problems",
+        "stretching-class-protection",
+        "sleep-boundary",
+        "neck-shoulder-tension",
+        "self-care-hierarchyemotional_tone: neutral"
+      ],
+      "status": "closed",
+      "start": "2023-06-21T08:00:00.000Z",
+      "open_loops": [
+        "Commute-friendly food rule not yet defined",
+        "Hard work-screen cutoff not yet set",
+        "Next follow-up already scheduled but lifestyle changes not yet tested",
+        "Kelli needs to tell key people (need-to-know basis) about boundaries"
+      ],
+      "decisions": [
+        "At a primary-care follow-up she had postponed twice, Kelli was started on low-dose blood pressure medication."
+      ]
+    }
+  ]
+}

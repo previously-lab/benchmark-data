@@ -1,0 +1,34 @@
+{
+  "month": "2022-05",
+  "slices": [
+    {
+      "id": "2022-05-05-1310",
+      "focus": "Things have been piling up lately, and I finally had to deal with something I ke",
+      "summary": "Yeah, that was pretty much it, my body made the call for me",
+      "tags": [
+        "knee-injury-flare",
+        "urgent-care-visit",
+        "physical-therapy-prescribed",
+        "stress-eating-pattern",
+        "weight-management",
+        "overtime-burnout",
+        "vending-machine-dinners",
+        "body-made-the-call",
+        "early-correction",
+        "accountability-buddyemotional_tone: neutral"
+      ],
+      "status": "closed",
+      "start": "2022-05-05T13:10:00.000Z",
+      "open_loops": [
+        "Start daily knee strengthening exercises",
+        "Ice knee every evening after work",
+        "Replace vending-machine dinners with packed food",
+        "Text sister about the medical plan and ask for check-ins",
+        "Weekly weigh-in to track trend"
+      ],
+      "decisions": [
+        "Jermaine's old right knee injury worsened into visible swelling after two overtime-heavy weeks and crouching during a do"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "month": "2022-12",
+  "slices": [
+    {
+      "id": "2022-12-18-2255",
+      "focus": "A lot has shifted lately, and I finally have enough distance from the last few w",
+      "summary": "Honestly, the delivery side may have convinced me more than the production side",
+      "tags": [
+        "work-results",
+        "holiday-data",
+        "service-improvement",
+        "operational-maturity",
+        "intervention-dependency",
+        "evidence-based",
+        "role-validationemotional_tone: neutral"
+      ],
+      "status": "closed",
+      "start": "2022-12-18T22:55:00.000Z",
+      "open_loops": [
+        "Whether the one-page recap makes the case stick vs being treated as a lucky month",
+        "Which manual saves by Jordan should be turned into default habits",
+        "Whether the organization absorbs the discipline or remains dependent on her",
+        "The postmortem that separates 'better outcomes' from 'still too intervention-dependent'"
+      ],
+      "decisions": [
+        "Jordan finished the year with enough holiday service data to argue that Alder Street's stricter planning discipline was "
+      ]
+    }
+  ]
+}

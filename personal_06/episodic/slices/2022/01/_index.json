@@ -1,0 +1,52 @@
+{
+  "month": "2022-01",
+  "slices": [
+    {
+      "id": "2022-01-05-0200",
+      "focus": "Initial onboarding: personal background, personality, and professional context",
+      "summary": "Hannah Louise Mercer (36, Providence RI) introduces herself as a mid-career registrar — quiet stubborn, anxious overpreparer, ISTJ — with a Master's in Museum Studies and a five-year vision to bring the museum's collections records, storage, and loan procedures to 98% verified reliability.",
+      "tags": [
+        "persona-onboarding",
+        "museum-registrar",
+        "providence-rhode-island",
+        "istj-personality",
+        "museum-studies-background",
+        "collections-integrity-vision",
+        "family-dynamics",
+        "modest-salary-constraintsemotional_tone: neutral"
+      ],
+      "status": "closed",
+      "start": "2022-01-05T02:00:00.000Z",
+      "open_loops": [
+        "None — this is a pure onboarding slice establishing baseline context"
+      ],
+      "decisions": []
+    },
+    {
+      "id": "2022-01-22-0840",
+      "focus": "Photography loan request exposes widespread records gaps, leading to formal collections integrity review",
+      "summary": "When a Boston lender asks about a photography loan, Hannah's honest digging reveals unreliable object locations, incomplete files, and prep-room documentation gaps — forcing her to lead a formal collections integrity review.",
+      "tags": [
+        "collections-integrity-review",
+        "photography-loan-trigger",
+        "registrar-advocacy",
+        "documentation-gap-exposure",
+        "institutional-risk-assessment",
+        "phase-one-scoping",
+        "meeting-tone-strategy",
+        "delegation-tacticsemotional_tone: neutral"
+      ],
+      "status": "closed",
+      "start": "2022-01-22T08:40:00.000Z",
+      "open_loops": [
+        "Draft phase-one scope in 'question, findings, risk, phase one' format",
+        "Define sample set and failure categories for repeatable testing",
+        "Request one clearly delegated support task from leadership",
+        "Establish recurring standing check-in instead of ad-hoc chasing"
+      ],
+      "decisions": [
+        "Hannah is still the Providence Museum of Art's registrar, and after the photography loan request she is now leading an i"
+      ]
+    }
+  ]
+}

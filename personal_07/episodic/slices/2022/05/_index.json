@@ -1,0 +1,24 @@
+{
+  "month": "2022-05",
+  "slices": [
+    {
+      "id": "2022-05-19-0735",
+      "focus": "A lot has shifted lately, in a good way for once. The work I've been trying to g",
+      "summary": "The most solid part is that the intake form is not theoretical anymore, people are actually using it",
+      "tags": [
+        "pilot-success-evidence",
+        "vendor-agreement-repository-drafting",
+        "summer-bid-calendar-planning",
+        "reduced-duplicate-requests",
+        "protecting-against-drift",
+        "bare-bones-first-version-strategyemotional_tone: \"positive\""
+      ],
+      "status": "closed",
+      "start": "2022-05-19T07:35:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "Evan's three-school purchasing pilot showed enough early success that his role expanded from running the pilot to drafti"
+      ]
+    }
+  ]
+}

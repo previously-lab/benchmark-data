@@ -1,0 +1,29 @@
+{
+  "month": "2023-11",
+  "slices": [
+    {
+      "id": "2023-11-16-1035",
+      "focus": "Jae-hyun presents reliability metrics to company owner via wall charts.",
+      "summary": "After two quarters of sustained improvement, Kim Dong-wook asks Jae-hyun to present dispatch numbers to the company owner. Jae-hyun creates monthly wall charts with three categories: on-time departures within 20 minutes, avoidable misses, and handoff gaps by shift. The handoff-gap section shifts the room, giving misses a visible cause rather than making them look like bad luck.",
+      "tags": [
+        "owner-presentation",
+        "monthly-wall-charts",
+        "reliability-metrics",
+        "upward-reporting",
+        "twenty-minute-threshold",
+        "handoff-gap-visibility",
+        "company-visibilityemotional_tone: neutral"
+      ],
+      "status": "closed",
+      "start": "2023-11-16T10:35:00.000Z",
+      "open_loops": [
+        "Sustaining monthly reporting rhythm",
+        "Preventing gaming of visible metrics",
+        "Converting visibility into concrete support/resources"
+      ],
+      "decisions": [
+        "Park Jae-hyun is still dispatch manager, and Kim Dong-wook asked him to present dispatch reliability metrics directly to"
+      ]
+    }
+  ]
+}

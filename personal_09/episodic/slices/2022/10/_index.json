@@ -1,0 +1,32 @@
+{
+  "month": "2022-10",
+  "slices": [
+    {
+      "id": "2022-10-19-1130",
+      "focus": "Nadia and Omar marry in a small, practical ceremony — relief and groundedness replace spectacle.",
+      "summary": "Nadia and Omar marry in a small mosque ceremony with a simple catered meal in a community room. Despite earlier financial stress (wedding savings diverted to Leila's housing), Nadia feels relieved rather than disappointed — the day felt manageable, not impressive. She plans to protect quiet married-life rituals (tea together), politely deflect relatives hinting at a bigger celebration later, and not reopen the planning file in her head.",
+      "tags": [
+        "wedding-milestone",
+        "omar-husband",
+        "small-mosque-ceremony",
+        "community-room-reception",
+        "relief-over-spectacle",
+        "practical-wedding-success",
+        "family-expectation-boundaries",
+        "post-wedding-decompressionemotional_tone: neutral"
+      ],
+      "status": "closed",
+      "start": "2022-10-19T11:30:00.000Z",
+      "open_loops": [
+        "Protect one ordinary married-life ritual (e.g., evening tea together)",
+        "Use one calm line with relatives: 'We already had the wedding we wanted'",
+        "Rest and decompress without immediately replacing the planning void",
+        "Optional: consider a small dinner with more people later, no commitment now"
+      ],
+      "decisions": [
+        "Nadia married Omar in October in a small practical ceremony that fit their budget and work schedules.",
+        "Omar Elias Haddad is now Nadia's husband; he works as a respiratory therapist at Mercy Hospital of Buffalo."
+      ]
+    }
+  ]
+}

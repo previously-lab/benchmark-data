@@ -1,0 +1,31 @@
+{
+  "month": "2023-06",
+  "slices": [
+    {
+      "id": "2023-06-18-1140",
+      "focus": "Workflow overhaul extends into pickup scheduling and day-coded collection shelving",
+      "summary": "With prep side improved, Saira tackles after-school collection bottlenecks. She introduces a text-ready rhythm for selected repeat patients, day-coded then surname-block collection shelves, and a compact prompt card. Early results show quicker retrievals and one patient compliment.",
+      "tags": [
+        "collection-scheduling",
+        "day-coded-shelves",
+        "text-ready-rhythm",
+        "patient-flow",
+        "felt-efficiency",
+        "retrieval-speed",
+        "selective-rollout",
+        "staff-confidenceemotional_tone: neutral"
+      ],
+      "status": "closed",
+      "start": "2023-06-18T11:40:00.000Z",
+      "open_loops": [
+        "Staff confidence in the new shelf logic needs to be built",
+        "Patient text script needs softening to avoid sounding bossy",
+        "One-snag staff check-in not yet done",
+        "Edge cases (early/late patients) need clearer handling"
+      ],
+      "decisions": [
+        "Saira remained operations lead and extended her workflow overhaul into pickup scheduling and day-coded collection shelvi"
+      ]
+    }
+  ]
+}

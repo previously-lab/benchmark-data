@@ -1,0 +1,30 @@
+{
+  "month": "2023-07",
+  "slices": [
+    {
+      "id": "2023-07-24-0855",
+      "focus": "A family carpool to Lafayette reminds Ariana she needs short regional trips for restoration",
+      "summary": "Ariana rides with cousins to a church anniversary in Lafayette and realizes how much she misses short, low-stakes regional drives. She plans to be more intentional about grabbing nearby getaways with Devon when windows open up.",
+      "tags": [
+        "regional-travel",
+        "family-carpool",
+        "lafayette-church-anniversary",
+        "short-getaways",
+        "rest-and-motion",
+        "devon-landry",
+        "cousin-connections",
+        "low-pressure-escapesemotional_tone: neutral"
+      ],
+      "status": "closed",
+      "start": "2023-07-24T08:55:00.000Z",
+      "open_loops": [
+        "Creating a short standing list of easy destinations (Lafayette, Baton Rouge, Gulf Coast)",
+        "Setting up a Thursday night check-in with Devon for weekend openings",
+        "Preparing a tiny go-bag list to reduce friction for spontaneous trips"
+      ],
+      "decisions": [
+        "Ariana's preference for short regional travel sharpened after a family carpool to Lafayette, making her more intentional"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "month": "2024-11",
+  "slices": [
+    {
+      "id": "2024-11-14-0055",
+      "focus": "A lot has shifted since we last talked, and for a minute I honestly thought I mi",
+      "summary": "The biggest win is that I strengthened my role instead of shrinking in it",
+      "tags": [
+        "work-redesign",
+        "crisis-leverage",
+        "booking-deadlines",
+        "signoff-rules",
+        "backup-packaging",
+        "operational-improvement",
+        "near-quittingemotional_tone: neutral"
+      ],
+      "status": "closed",
+      "start": "2024-11-14T00:55:00.000Z",
+      "open_loops": [
+        "Whether the first exception tests the new signoff rule or people comply",
+        "Whether Tanya and Jordan stay aligned on enforcement during early crunches",
+        "Tracking three simple metrics through the rush to prove behavior actually changed",
+        "Whether Jordan can be predictable rather than intense — firm without becoming a zealot"
+      ],
+      "decisions": [
+        "Jordan strengthened her operations manager role after the breakdown by winning earlier holiday booking deadlines, a no-e"
+      ]
+    }
+  ]
+}

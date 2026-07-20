@@ -127,6 +127,15 @@ node scripts/batch-convert.mjs --raw ../benchmark-data/_raw --out ../benchmark-d
 # See scripts/apply-enrichment.mjs for details
 ```
 
+## A Note on Dates
+
+The original WorldMemArena dataset places all conversation timelines in 2025–2028. Since Previously should never have "memories from the future," the dates in this repository have been shifted back 3 years — all slices now fall within **2022–2025**.
+
+To restore the original dates:
+```bash
+node scripts/shift-all-dates.mjs --reverse
+```
+
 ## License
 
 **CC BY-NC 4.0** — inherited from WorldMemArena.

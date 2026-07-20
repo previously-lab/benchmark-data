@@ -1,0 +1,30 @@
+{
+  "month": "2022-11",
+  "slices": [
+    {
+      "id": "2022-11-16-1040",
+      "focus": "Travis creates a library-movie birthday weekend that helps Kelli discover her preference for older comedies over heavy dramas.",
+      "summary": "With money tight, Travis borrows older comedies and a newsroom drama from the Emmett library for Kelli's birthday. The experience clarifies her entertainment preferences: older comedies and light true-story films now rank ahead of grounded dramas, especially on stressful weeks. She discovers the distinction between 'restore me' and 'engage me' content, and plans a short list of go-to decompression movies.",
+      "tags": [
+        "library-birthday",
+        "older-comedies",
+        "travis-thoughtfulness",
+        "movie-preference-shift",
+        "dry-workplace-comedy",
+        "at-home-movie-weekend",
+        "restore-vs-engage",
+        "budget-friendly-celebrationemotional_tone: neutral"
+      ],
+      "status": "closed",
+      "start": "2022-11-16T10:40:00.000Z",
+      "open_loops": [
+        "Movie list categories not yet created",
+        "Kelli wants to thank Travis for the emotional fit specifically",
+        "Library movie ritual not yet scheduled as recurring"
+      ],
+      "decisions": [
+        "Kelli now prefers older comedies and true-story films even more strongly than grounded dramas, especially on stressful w"
+      ]
+    }
+  ]
+}

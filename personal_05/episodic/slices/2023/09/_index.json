@@ -1,0 +1,31 @@
+{
+  "month": "2023-09",
+  "slices": [
+    {
+      "id": "2023-09-08-0750",
+      "focus": "Nathaniel is asked to co-lead signup review process and present corridor numbers to senior staff after sustained results.",
+      "summary": "Both monitored corridors post stronger weekday reliability, and Nathaniel is tapped to co-lead the signup review process with operations planning and present corridor performance to senior staff. His role shifts from technical analyst to cross-functional decision influencer.",
+      "tags": [
+        "cota",
+        "signup-co-lead",
+        "senior-staff-presentation",
+        "leadership-track",
+        "operational-influence",
+        "career-transition",
+        "risk-statements",
+        "role-definitionemotional_tone: neutral"
+      ],
+      "status": "closed",
+      "start": "2023-09-08T07:50:00.000Z",
+      "open_loops": [
+        "Conversation with manager about role evolution not yet scheduled",
+        "Three things to be known for not yet written down",
+        "Filter decisions for meeting attendance not yet applied",
+        "Headline-two-reasons-condition format not yet practiced"
+      ],
+      "decisions": [
+        "Nathaniel was asked to co-lead the signup review process with operations planning after both monitored corridors posted"
+      ]
+    }
+  ]
+}

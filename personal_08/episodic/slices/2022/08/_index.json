@@ -1,0 +1,32 @@
+{
+  "month": "2022-08",
+  "slices": [
+    {
+      "id": "2022-08-21-2225",
+      "focus": "Things have been shifting again since we last talked, mostly at work. I have bee",
+      "summary": "They gave me a stripped-down version",
+      "tags": [
+        "peak-season-prep",
+        "temp-heavy-shifts",
+        "stripped-down-approval",
+        "operations-warning",
+        "safety-vs-throughput",
+        "handoff-checks",
+        "partial-retraining",
+        "documented-warning",
+        "six-months-board-photosemotional_tone: neutral"
+      ],
+      "status": "closed",
+      "start": "2022-08-21T22:25:00.000Z",
+      "open_loops": [
+        "Define what counts as a miss pre-emptively",
+        "Tighten handoff checks as highest-leverage approved piece",
+        "Track temp-heavy shift patterns to build next case",
+        "Keep larger model in notes for incremental asks"
+      ],
+      "decisions": [
+        "Jermaine is entering peak-season prep with only partial approval for temp-worker retraining and extra handoff checks, an"
+      ]
+    }
+  ]
+}

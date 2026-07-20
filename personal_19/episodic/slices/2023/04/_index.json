@@ -1,0 +1,30 @@
+{
+  "month": "2023-04",
+  "slices": [
+    {
+      "id": "2023-04-06-0955",
+      "focus": "A spring squall becomes the first real test of the revised process — backup cards, cargo tags, and same-day schedule recovery all hold up under real pressure.",
+      "summary": "A spring squall tests the revised process under real (moderate) pressure. Backup notice cards are in place, emergency cargo tags are ready, and a same-day schedule is posted much faster than the old baseline. Clinic-bound boxes get onto the first feasible sailing — the moment Ayaka realizes the system protects real needs, not just terminal neatness. She compiles a one-page summary with timestamps, a cargo example, and remaining limits.",
+      "tags": [
+        "spring-squall-test",
+        "operational-success",
+        "backup-cards-used",
+        "cargo-tags-functional",
+        "same-day-recovery",
+        "clinic-cargo",
+        "decision-friction",
+        "evidence-milestoneemotional_tone: neutral"
+      ],
+      "status": "closed",
+      "start": "2023-04-06T09:55:00.000Z",
+      "open_loops": [
+        "Success is under moderate conditions — heavier weather may still expose gaps",
+        "One-page summary could be dismissed by management as anecdotal",
+        "Ayaka may over-invest defending this result instead of iterating"
+      ],
+      "decisions": [
+        "Ayaka's revised weather-disruption process produced its first credible success, showing faster recovery of same-day sche"
+      ]
+    }
+  ]
+}

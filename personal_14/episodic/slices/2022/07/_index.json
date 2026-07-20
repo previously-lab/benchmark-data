@@ -1,0 +1,26 @@
+{
+  "month": "2022-07",
+  "slices": [
+    {
+      "id": "2022-07-12-0350",
+      "focus": "Caleb discovers smoked turkey as a reflux-safe cookout option and develops a practical framework for food choices with stress-triggered acid reflux",
+      "summary": "After a stressful day, Caleb chooses smoked turkey over spicier options at a high school baseball fundraiser and notices he sleeps much better. This leads to a broader realization about building a mental ranking of safe cookout choices, keeping sauce light, and recognizing that stress + hunger = bad decisions.",
+      "tags": [
+        "acid-reflux-diet-adjustment",
+        "smoked-turkey-discovery",
+        "stress-triggered-eating-patterns",
+        "cookout-food-strategy",
+        "practical-health-guardrails",
+        "body-awareness-development",
+        "default-food-choices",
+        "community-event-participationemotional_tone: neutral"
+      ],
+      "status": "closed",
+      "start": "2022-07-12T03:50:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "Caleb's reflux-driven food preference shifted more clearly toward milder cookout options after smoked turkey sat better "
+      ]
+    }
+  ]
+}

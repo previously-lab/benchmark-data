@@ -1,0 +1,24 @@
+{
+  "month": "2022-09",
+  "slices": [
+    {
+      "id": "2022-09-14-0950",
+      "focus": "Things have been busy in the usual way, and this weekend ended up giving me a ve",
+      "summary": "During a rainy soccer tournament in Tukwila, Marisa discovers birria from a food truck and develops a personal ranking system, turning dead tournament time into a low-stakes weekend side quest.",
+      "tags": [
+        "birria-taco-discovery",
+        "soccer-tournament-food-truck-row",
+        "tukwila-rainy-weekend",
+        "personal-food-ranking-system",
+        "pocket-of-weekend-agency",
+        "mother-son-food-adventureemotional_tone: neutral"
+      ],
+      "status": "closed",
+      "start": "2022-09-14T09:50:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "Marisa's food preferences broadened from just liking fish tacos and pozole to actively seeking out regional birria and t"
+      ]
+    }
+  ]
+}

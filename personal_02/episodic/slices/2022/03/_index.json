@@ -1,0 +1,48 @@
+{
+  "month": "2022-03",
+  "slices": [
+    {
+      "id": "2022-03-03-1005",
+      "focus": "Crisis log turned into scheduling-buffer pilot approval",
+      "summary": "Lucia converts six weeks of handwritten incident counts and start-delay notes into a cleaned-up spreadsheet with Martin's help, and presents the pattern evidence — not blame — to Judge Evelyn Baca. She gets approval for a three-month scheduling-buffer pilot on the busiest Spanish dockets, a major step up from merely maintaining a crisis log. The conversation covers pilot design (three key measures: scramble count, start delay minutes, full coverage), reporting strategy (monthly one-page snapshots), and Lucia's recognition that she must protect her own health (migraine prevention, emergency snacks) during the trial period. She decides to keep the pilot 'survivable, not heroic.'",
+      "tags": [
+        "scheduling-buffer-pilot",
+        "evidence-based-advocacy",
+        "judge-baca-conditional-buy-in",
+        "martin-salazar-data-collaboration",
+        "operational-metrics-design",
+        "migraine-self-protection",
+        "incremental-institutional-change",
+        "three-month-pilot-timelineemotional_tone: neutral"
+      ],
+      "status": "closed",
+      "start": "2022-03-03T10:05:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "Lucia's role shifted from maintaining a manual crisis log to running a three-month scheduling-buffer pilot for the busie"
+      ]
+    },
+    {
+      "id": "2022-03-24-1210",
+      "focus": "Kitchen-table talk leads to shared Sunday planning board",
+      "summary": "After Lucia misses a planned dinner due to a late docket and an unscheduled stop at her father's house, she and Daniel have a blunt kitchen-table conversation about uneven evening labor and chronic unpredictability. They agree to start a shared Sunday planning board covering meals, eldercare tasks, likely late court days, and 'who owns what' each week. The conversation reveals that Daniel doesn't need punctuality — he needs earlier visibility and not to be surprised repeatedly. Lucia recognizes her tendency to minimize rather than communicate clearly when her home life gets rearranged by work and eldercare. The board becomes a coordination tool that makes spillover visible, with a planned 15-minute Sunday check-in ritual and one protected night each week.",
+      "tags": [
+        "marriage-communication",
+        "uneven-evening-labor",
+        "sunday-planning-board",
+        "schedule-unpredictability-conflict",
+        "eldercare-spillover",
+        "shared-visibility-tools",
+        "daniel-rivas-relationship",
+        "domestic-coordination-systememotional_tone: neutral"
+      ],
+      "status": "closed",
+      "start": "2022-03-24T12:10:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "Lucia's marriage is still strained by late schedule changes and eldercare, but she and Daniel are now using a shared wee",
+        "Daniel is still frustrated by Lucia's last-minute court schedule changes, but he and Lucia have started a Sunday plannin"
+      ]
+    }
+  ]
+}

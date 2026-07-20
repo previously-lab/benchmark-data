@@ -1,0 +1,31 @@
+{
+  "month": "2024-05",
+  "slices": [
+    {
+      "id": "2024-05-09-0005",
+      "focus": "Nathaniel's role expands to training newer analysts on reliability scheduling after sustained results validate his methods.",
+      "summary": "After sustained corridor results hold up in spring review, Nathaniel is tapped to train newer analysts on the reliability side of scheduling. His first training block focuses on getting analysts out of their chairs and into field validation, with recovery time as the practical consequence.",
+      "tags": [
+        "cota",
+        "training-role",
+        "new-analysts",
+        "field-validation",
+        "reliability-method",
+        "recovery-time",
+        "mentorship",
+        "knowledge-transferemotional_tone: neutral"
+      ],
+      "status": "closed",
+      "start": "2024-05-09T00:05:00.000Z",
+      "open_loops": [
+        "Three-anchor training outline not yet finalized",
+        "Section on non-accusatory presentation not yet written",
+        "One-page handout not yet drafted",
+        "Post-session revision notes not yet planned"
+      ],
+      "decisions": [
+        "Nathaniel's role expanded from drafting a corridor reliability playbook to serving as an internal trainer on reliability"
+      ]
+    }
+  ]
+}

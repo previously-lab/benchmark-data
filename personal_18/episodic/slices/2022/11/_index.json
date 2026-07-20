@@ -1,0 +1,31 @@
+{
+  "month": "2022-11",
+  "slices": [
+    {
+      "id": "2022-11-23-1140",
+      "focus": "A lot has shifted lately, and I had one of those weeks where life at home sudden",
+      "summary": "Yeah, that is exactly what I was trying to do, keep it bounded",
+      "tags": [
+        "family-crisis",
+        "financial-setback",
+        "cousin-support",
+        "savings-strain",
+        "boundary-testing",
+        "partner-transparency",
+        "rescue-gravityemotional_tone: neutral"
+      ],
+      "status": "closed",
+      "start": "2022-11-23T11:40:00.000Z",
+      "open_loops": [
+        "Whether Jordan can set and maintain financial boundaries with Rafael",
+        "The six-week savings rebuild push — will it hold against another crisis?",
+        "Telling Mei-Lin the actual amount sent and being transparent about the impact",
+        "Whether Rafael's increased contact entrenches dependency or stabilizes"
+      ],
+      "decisions": [
+        "Jordan's savings took another setback after she helped Rafael replace the failed sober-house deposit, even though she st",
+        "Rafael is Jordan's younger cousin in recovery, and after she helped cover the replacement deposit he leaned on her even "
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "month": "2023-03",
+  "slices": [
+    {
+      "id": "2023-03-18-0255",
+      "focus": "A lot has shifted lately, and I finally have one piece of news that is actually ",
+      "summary": "Marisa secures a one-year grant covering monitoring supplies and seasonal crew hours for the two existing sites — a modest win that stabilizes operations but funds maintenance rather than the expansion she wanted.",
+      "tags": [
+        "one-year-grant-approved",
+        "monitoring-supplies-coverage",
+        "seasonal-crew-hour-funding",
+        "strategic-stabilization-win",
+        "grant-funded-vs-deferred",
+        "program-continuity-protectionemotional_tone: neutral"
+      ],
+      "status": "closed",
+      "start": "2023-03-18T02:55:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "Marisa secured a modest one-year grant that covers monitoring supplies and seasonal crew hours for the two existing oyst",
+        "The grant did not fund the broader oyster expansion Marisa wanted, so she is still pushing for future expansion beyond b"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "month": "2022-02",
+  "slices": [
+    {
+      "id": "2022-02-08-1240",
+      "focus": "Things have been pretty tense lately, and it kind of spilled over into home more",
+      "summary": "I think that is why I listened instead of getting defensive, because she had already helped me out",
+      "tags": [
+        "home-making",
+        "living-room-warmth",
+        "kayla-booker-blunt-feedback",
+        "cardinals-fandom",
+        "family-photos",
+        "old-tournament-games",
+        "kid-bonding",
+        "stress-and-function-mode",
+        "simple-corrections",
+        "townhouse-settlingemotional_tone: neutral"
+      ],
+      "status": "closed",
+      "start": "2022-02-08T12:40:00.000Z",
+      "open_loops": [
+        "Buy a warmer lamp for the living room",
+        "Keep game nights with kids going"
+      ],
+      "decisions": [
+        "After making the living room feel more lived in, Jermaine started replaying sports documentaries and old Cardinals tourn"
+      ]
+    }
+  ]
+}

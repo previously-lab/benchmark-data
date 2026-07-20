@@ -1,0 +1,27 @@
+{
+  "month": "2022-07",
+  "slices": [
+    {
+      "id": "2022-07-09-0505",
+      "focus": "A hot-week produce run goes sideways with dumped milk and spoiled produce, validating Eric's earlier readiness analysis and earning a formal 90-day cold-chain pilot from leadership, which transforms his role from informal patcher to sanctioned pilot leader.",
+      "summary": "A visible spoilage failure during a heat week, documented with photos and spoilage sheets, convinces leadership to approve a 90-day cold-chain pilot with tighter handoff windows, pre-call confirmation, and route-compliance tracking.",
+      "tags": [
+        "work",
+        "health",
+        "housing",
+        "goalsemotional_tone: neutral"
+      ],
+      "status": "closed",
+      "start": "2022-07-09T05:05:00.000Z",
+      "open_loops": [
+        "First-month pilot metrics not yet defined",
+        "Fallback actions for missed confirmations not yet codified",
+        "Real-time decision authority not yet assigned for pilot"
+      ],
+      "decisions": [
+        "Eric stayed in the same cold-chain coordinator role, but after a visible spoilage failure leadership approved a ninety-d",
+        "Eric felt shaken by the dumped milk and spoiled produce, but the crisis also gave him a narrow sense of leverage because"
+      ]
+    }
+  ]
+}

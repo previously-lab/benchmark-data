@@ -1,0 +1,30 @@
+{
+  "month": "2022-10",
+  "slices": [
+    {
+      "id": "2022-10-22-0140",
+      "focus": "A severe reflux flare during a morning warehouse walk forces Eric to make a primary-care appointment, where the doctor prescribes consistent medication, empty-stomach coffee avoidance, and symptom tracking, marking a shift from powering through to active health management.",
+      "summary": "After a bad reflux episode interrupts a warehouse walk, Eric commits to consistent medication, a simple symptom log, pre-tagged peak weeks, and a small breakfast before coffee, transitioning from emergency antacid reliance to structured prevention.",
+      "tags": [
+        "work",
+        "family",
+        "health",
+        "travel",
+        "education",
+        "housing",
+        "leisure",
+        "goalsemotional_tone: neutral"
+      ],
+      "status": "closed",
+      "start": "2022-10-22T01:40:00.000Z",
+      "open_loops": [
+        "Symptom log template not yet built and populated",
+        "Phone reminder for late-morning tracking not yet set",
+        "Telling Danielle the actual plan rather than saying 'appointment was fine'"
+      ],
+      "decisions": [
+        "After a stronger reflux episode during a morning warehouse walk, Eric started taking reflux medication more consistently"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "month": "2023-05",
+  "slices": [
+    {
+      "id": "2023-05-18-0520",
+      "focus": "A coworker introduces Ayaka to a tiny teishoku shop near the wholesale market, which becomes a dependable post-shift decompression ritual for ugly morning shifts.",
+      "summary": "After a brutal morning shift, a coworker drags Ayaka to a tiny teishoku shop near the wholesale market. The saba set meal (crisp skin, caring miso soup) becomes her default after terrible mornings. She goes solo, sitting for twenty minutes without her phone, and finds it reliably shifts her from coiled tension to functionality. She budgets it as targeted recovery spending a couple of times per month.",
+      "tags": [
+        "teishoku-shop",
+        "saba-set-meal",
+        "post-shift-refuge",
+        "market-area",
+        "recovery-routine",
+        "mid-option",
+        "no-phone-decompression",
+        "ordinary-comfortemotional_tone: neutral"
+      ],
+      "status": "closed",
+      "start": "2023-05-18T05:20:00.000Z",
+      "open_loops": [
+        "Regular visits could strain the tighter post-move budget",
+        "Dependence on one specific place could become a vulnerability if it closes or changes",
+        "The 'permission slip' framing may not hold during peak storm season"
+      ],
+      "decisions": [
+        "Ayaka's food preferences now include being attached to a small market-area teishoku shop after hard shifts, alongside he"
+      ]
+    }
+  ]
+}

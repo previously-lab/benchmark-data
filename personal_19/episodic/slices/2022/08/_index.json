@@ -1,0 +1,32 @@
+{
+  "month": "2022-08",
+  "slices": [
+    {
+      "id": "2022-08-29-1505",
+      "focus": "A punishing late-August typhoon stretch exposes the pilot's fragility: jammed boards, flooded lane markings, and shouted coordination replace the careful process.",
+      "summary": "A sustained typhoon stretch overwhelms the pilot: berth changes multiply, the weather board jams, lane markings flood, and the terminal reverts to verbal improvisation. Ayaka makes logging mistakes for the first time, sleeps badly, and admits to her manager that the current system is too fragile for heavy disruption. She confronts the gap between well-intentioned process and infrastructure-dependent reality.",
+      "tags": [
+        "typhoon-failure",
+        "system-breakdown",
+        "logging-mistakes",
+        "sleep-disruption",
+        "structural-limits",
+        "self-criticism",
+        "infrastructure-failure",
+        "process-fragilityemotional_tone: neutral"
+      ],
+      "status": "closed",
+      "start": "2022-08-29T15:05:00.000Z",
+      "open_loops": [
+        "Sleep disruption may not self-reset without intervention",
+        "Manager now knows the system failed — could undermine future credibility",
+        "Sakurai's warnings about equipment limits have been vindicated",
+        "Ayaka's reliable-person identity is shaken"
+      ],
+      "decisions": [
+        "After a punishing late-August typhoon stretch, Ayaka's disruption pilot was exposed as too dependent on manual workaroun",
+        "Ayaka ended the week sleeping badly, making mistakes in her own logs, and feeling more frayed and self-critical because "
+      ]
+    }
+  ]
+}

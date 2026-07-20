@@ -1,0 +1,28 @@
+{
+  "month": "2023-01",
+  "slices": [
+    {
+      "id": "2023-01-04-2325",
+      "focus": "Sustained results earn Jae-hyun company-wide handoff system authority.",
+      "summary": "Three straight months with only one avoidable missed cargo window each convinces Kim Dong-wook to grant Jae-hyun company-wide authority to use the signed turnover sheet and common board on all short-haul departures. Jae-hyun feels vindicated but wary of fake compliance, planning a one-page minimum standard, anonymized examples of usable vs unusable handoffs, and a one-month checkpoint.",
+      "tags": [
+        "company-wide-authority",
+        "year-end-results",
+        "missed-cargo-windows",
+        "rollout-pressure",
+        "compliance-theater-risk",
+        "kim-dong-wook-supportemotional_tone: neutral"
+      ],
+      "status": "closed",
+      "start": "2023-01-04T23:25:00.000Z",
+      "open_loops": [
+        "Rollout without extra staffing",
+        "Risk of compliance theater across expanded scope",
+        "Identifying reliable dispatchers without creating political factions"
+      ],
+      "decisions": [
+        "Park Jae-hyun is still dispatch manager and now has company-wide authority to use the standardized dispatch board and si"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "month": "2022-04",
+  "slices": [
+    {
+      "id": "2022-04-16-2155",
+      "focus": "A lot has been shifting lately at work, and this feels like the first time I hav",
+      "summary": "The part that mattered most was getting permission to post color-coded repeat-incident boards by dep",
+      "tags": [
+        "safety-board-expansion",
+        "department-incident-boards",
+        "supervisor-signoff",
+        "shift-handoff-gaps",
+        "handoff-discipline",
+        "first-quarter-proof",
+        "color-coded-tracking",
+        "leadership-credibilityemotional_tone: neutral"
+      ],
+      "status": "closed",
+      "start": "2022-04-16T21:55:00.000Z",
+      "open_loops": [
+        "Set regular board refresh cadence",
+        "Quietly match signed huddles against actual floor outcomes",
+        "Collect department-specific examples for comparison",
+        "Prioritize readability, initial verification, and department patterns"
+      ],
+      "decisions": [
+        "Jermaine's safety-trainer role expanded from a one-lane receiving pilot into a documented safety-board and supervisor si"
+      ]
+    }
+  ]
+}

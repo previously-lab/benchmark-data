@@ -1,0 +1,56 @@
+{
+  "month": "2022-01",
+  "slices": [
+    {
+      "id": "2022-01-05-2340",
+      "focus": "Kelli introduces herself fully: work, family, health, finances, and life preferences.",
+      "summary": "Initial onboarding session. Kelli shares her full life picture: ISTJ health information manager, revenue-cycle lead at Gem Valley Rural Health Network, married to Travis, stepdaughter Mikayla, father Gary on dialysis, 50-min commute, borderline BP, claims turnaround goal.",
+      "tags": [
+        "onboarding-intake",
+        "rural-healthcare-admin",
+        "claims-turnaround-goal",
+        "istj-personality",
+        "dialysis-caregiving",
+        "emmett-idaho",
+        "revenue-cycle-lead",
+        "health-information-managementemotional_tone: neutral"
+      ],
+      "status": "closed",
+      "start": "2022-01-05T23:40:00.000Z",
+      "open_loops": [
+        "Claims turnaround metrics not yet tracked (first-pass denials, payment lag)",
+        "Blood pressure borderline but no intervention plan yet",
+        "Dialysis caregiving logistics undefined with brother",
+        "Emergency fund untested against vehicle/medical cost stack"
+      ],
+      "decisions": []
+    },
+    {
+      "id": "2022-01-21-1010",
+      "focus": "Monica puts Kelli in charge of a network-wide denial turnaround; she builds a color-coded tracker at home.",
+      "summary": "After a payroll-close cash scare, Monica formally puts Kelli in charge of a network-wide denial and payment-lag turnaround project. Kelli builds a color-coded tracker combining clearinghouse exports, payer remits, and front-desk correction logs, working evenings. She struggles with how much to share versus perfect first, and whether the project is changing her actual role.",
+      "tags": [
+        "claims-turnaround-project",
+        "denial-categories",
+        "monica-wren-ally",
+        "cash-flow-scare",
+        "tracker-building",
+        "invisible-labor-risk",
+        "aging-claims-triage",
+        "workplace-boundariesemotional_tone: neutral"
+      ],
+      "status": "closed",
+      "start": "2022-01-21T10:10:00.000Z",
+      "open_loops": [
+        "Tracker draft not yet shown to leadership",
+        "No distribution plan for clinic ownership yet",
+        "Hard stop time for evening analysis not set",
+        "Shoulder/neck tension worsening from hunching"
+      ],
+      "decisions": [
+        "After a payroll-close cash scare, Monica formally put Kelli in charge of a network-wide denial and payment-lag turnaroun",
+        "Kelli became more mentally keyed up after getting the turnaround project and now spends nights replaying denial categori"
+      ]
+    }
+  ]
+}

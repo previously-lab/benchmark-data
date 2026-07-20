@@ -1,0 +1,31 @@
+{
+  "month": "2022-04",
+  "slices": [
+    {
+      "id": "2022-04-11-1025",
+      "focus": "A lot has shifted lately, and one piece of it finally caught up with me physical",
+      "summary": "After a spring asthma flare sends her to urgent care following two wet-basement inspections and a high-pollen day, Monica tightens her inhaler routine, creates a field-day checklist, and develops exposure thresholds including mask use and spacing of high-risk inspections to stay active in the field without pretending the triggers are imaginary.",
+      "tags": [
+        "spring-asthma-flare-urgent-care",
+        "mold-exposure-field-risk",
+        "controller-inhaler-routine",
+        "baseline-field-day-checklist",
+        "exposure-threshold-triggers",
+        "post-field-recovery-habit",
+        "procedural-health-planning",
+        "workplace-disclosure-strategyemotional_tone: neutral"
+      ],
+      "status": "closed",
+      "start": "2022-04-11T10:25:00.000Z",
+      "open_loops": [
+        "Build Sunday night prep reset for week's exposure risks",
+        "Draft work conversation about asthma adjustments",
+        "Implement post-high-risk-day recovery routine",
+        "Keep spare masks and inhaler in work bag"
+      ],
+      "decisions": [
+        "After a spring asthma flare that sent her to urgent care, Monica now follows a stricter inhaler routine and is more care"
+      ]
+    }
+  ]
+}

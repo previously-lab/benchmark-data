@@ -1,0 +1,30 @@
+{
+  "month": "2022-12",
+  "slices": [
+    {
+      "id": "2022-12-02-0505",
+      "focus": "The patched crate fails during transit, confirming Hannah's worst fears and triggering insurer scrutiny, internal blame, and urgent review",
+      "summary": "The partially repaired crate fails in transit — split panel and internal shift marks at exactly the soft area Hannah flagged. No object damage (a near miss), but now the insurer, lender, and internal blame dynamics are in motion, spiking Hannah's anxiety into hypervigilance.",
+      "tags": [
+        "crate-transit-failure",
+        "insurer-scrutiny",
+        "preventable-damage-confirmed",
+        "internal-blame-dynamics",
+        "near-miss-object-safety",
+        "registrar-credibility-shakenemotional_tone: neutral"
+      ],
+      "status": "closed",
+      "start": "2022-12-02T05:05:00.000Z",
+      "open_loops": [
+        "Write clean chronology of events now, before memories rearrange",
+        "Draft separate process recommendations from factual sequence",
+        "Save personal copy of all drafts before they start circulating",
+        "Set hard stop time each evening to prevent hypervigilance from consuming nights"
+      ],
+      "decisions": [
+        "Hannah remains registrar, but the outgoing loan crate failure has triggered insurer scrutiny, internal blame, and an urg",
+        "Hannah's work anxiety spiked sharply after the crate damage confirmed one of her biggest fears, leaving her hypervigilan"
+      ]
+    }
+  ]
+}

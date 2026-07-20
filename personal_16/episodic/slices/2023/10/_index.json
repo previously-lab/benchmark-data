@@ -1,0 +1,31 @@
+{
+  "month": "2023-10",
+  "slices": [
+    {
+      "id": "2023-10-10-1025",
+      "focus": "Saira creates a monthly dashboard for Peter tracking queue times, labeling slips, and repeat-bag corrections",
+      "summary": "Saira formalizes her wall notes into a monthly one-page dashboard for Peter tracking queue times, labeling slips, and repeat-bag corrections. Autumn numbers show the busiest weekday queues are faster than the previous year. She plans a fixed monthly send date with three-line summary and minimal context notes.",
+      "tags": [
+        "monthly-dashboard",
+        "queue-metrics",
+        "safety-and-speed",
+        "peter-reporting",
+        "operational-baseline",
+        "speed-safety-corrections",
+        "data-driven-culture",
+        "autumn-improvementemotional_tone: neutral"
+      ],
+      "status": "closed",
+      "start": "2023-10-10T10:25:00.000Z",
+      "open_loops": [
+        "Fixed monthly send date not yet established",
+        "Dashboard needs a boundary rule to prevent scope creep",
+        "Protecting routines from drift is ongoing priority",
+        "Staff need to hear that corrections numbers are protective, not punitive"
+      ],
+      "decisions": [
+        "Saira remained operations lead and turned her wall notes into a simple monthly dashboard tracking queue times, labeling "
+      ]
+    }
+  ]
+}

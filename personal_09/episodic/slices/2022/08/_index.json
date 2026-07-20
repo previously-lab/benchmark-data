@@ -1,0 +1,32 @@
+{
+  "month": "2022-08",
+  "slices": [
+    {
+      "id": "2022-08-09-0850",
+      "focus": "A rushed apartment placement collapses — broken appliances force a family into motels, triggering a public review.",
+      "summary": "A rushed placement fails catastrophically: broken stove and refrigerator force a family into motels, an angry relative escalates publicly, and an internal review targets Nadia's intake process. Daniel had flagged the landlord but placement was rushed. Nadia plans to write a factual timeline, define three concrete fixes (documented appliance check, clear sign-off owner, stop rule for flagged landlords under time pressure), and present the failure as a housing handoff seam rather than a total system collapse.",
+      "tags": [
+        "apartment-placement-failure",
+        "public-setback",
+        "humiliation-spiral",
+        "stove-and-refrigerator-broken",
+        "motel-scramble",
+        "internal-review",
+        "daniel-kopec-warning",
+        "three-fixes-frameworkemotional_tone: neutral"
+      ],
+      "status": "closed",
+      "start": "2022-08-09T08:50:00.000Z",
+      "open_loops": [
+        "Write factual timeline of the placement sequence",
+        "Define three fixes: documented appliance check, clear final sign-off owner, stop rule for flagged landlords",
+        "Prepare for review meeting with timeline first, fixes second, confidence sentence third",
+        "Keep family disruption as the center of the narrative"
+      ],
+      "decisions": [
+        "Nadia's intake pilot suffered a public setback after a rushed apartment placement collapsed and the family had to be mov",
+        "Nadia is now rattled, embarrassed, and sleeping poorly after the failed apartment placement."
+      ]
+    }
+  ]
+}

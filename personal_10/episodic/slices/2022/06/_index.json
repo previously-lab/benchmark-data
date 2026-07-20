@@ -1,0 +1,33 @@
+{
+  "month": "2022-06",
+  "slices": [
+    {
+      "id": "2022-06-14-0305",
+      "focus": "A blood pressure scare in urgent care forces Kelli to delegate denial category ownership to senior billers.",
+      "summary": "After weeks of dawn-to-evening cleanup on old Medicaid and commercial claims, Kelli gets stress headaches and a concerning blood pressure reading at urgent care. She follows up with her doctor and begins real delegation: two senior billers get ownership of authorization-related denials and eligibility/registration fallout respectively. She drafts one-page ownership lane sheets with aging thresholds and payer quirks.",
+      "tags": [
+        "hypertension-scare",
+        "urgent-care-visit",
+        "delegation-of-denial-categories",
+        "stress-headaches",
+        "monica-wren-ally",
+        "lane-sheets",
+        "senior-biller-ownership",
+        "home-blood-pressure-cuffemotional_tone: neutral"
+      ],
+      "status": "closed",
+      "start": "2022-06-14T03:05:00.000Z",
+      "open_loops": [
+        "Home blood pressure cuff not yet purchased",
+        "Doctor follow-up booked but not completed",
+        "Hard-stop evenings (at least 2/week) not yet enforced",
+        "Headache-type tracking (work type vs headache level) not started",
+        "Lane sheets not yet reviewed with assigned billers"
+      ],
+      "decisions": [
+        "Kelli's blood pressure became concerning during heavy cleanup months after repeated dawn-to-evening claims work, with st",
+        "Kelli is still revenue-cycle lead, but she has started delegating ownership of specific denial categories to two senior "
+      ]
+    }
+  ]
+}

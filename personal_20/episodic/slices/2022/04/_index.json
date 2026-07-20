@@ -1,0 +1,26 @@
+{
+  "month": "2022-04",
+  "slices": [
+    {
+      "id": "2022-04-06-1110",
+      "focus": "Eric's commute-listening habit shifts from music and general radio to operations and maintenance podcasts after Marcus sends a hospital-facilities preventive-maintenance episode, which he begins using as a focus aid before early route checks.",
+      "summary": "A podcast recommendation from Marcus triggers a shift in Eric's commute ritual toward practical operations content, which he uses as a focus aid but intentionally limits to avoid turning every drive into work intake.",
+      "tags": [
+        "work",
+        "health",
+        "housing",
+        "leisure",
+        "goalsemotional_tone: neutral"
+      ],
+      "status": "closed",
+      "start": "2022-04-06T11:10:00.000Z",
+      "open_loops": [
+        "Short list of repeated concepts from podcasts not yet written in his own language",
+        "Whether the practical-listening habit will be sustained with the uneven-drive approach"
+      ],
+      "decisions": [
+        "After Marcus sent him a hospital facilities podcast episode about preventive maintenance checklists, Eric leaned more he"
+      ]
+    }
+  ]
+}

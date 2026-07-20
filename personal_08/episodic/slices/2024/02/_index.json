@@ -1,0 +1,30 @@
+{
+  "month": "2024-02",
+  "slices": [
+    {
+      "id": "2024-02-26-1205",
+      "focus": "A lot has shifted lately, not in some dramatic way, but enough that I noticed it",
+      "summary": "I think it was a couple things working together",
+      "tags": [
+        "co-parenting-milestone",
+        "parent-teacher-conference",
+        "conflict-free-meeting",
+        "danielle-booker-truce",
+        "shared-co-parenting-app",
+        "tense-but-workable",
+        "kid-centered-focus",
+        "boring-progressemotional_tone: neutral"
+      ],
+      "status": "closed",
+      "start": "2024-02-26T12:05:00.000Z",
+      "open_loops": [
+        "Send short factual recap of teacher action items in app",
+        "Keep consistency in app usage",
+        "Let routine prove itself before symbolic meaning"
+      ],
+      "decisions": [
+        "Jermaine now sees his relationship with Danielle as tense but workable instead of constantly feeling one text away from"
+      ]
+    }
+  ]
+}

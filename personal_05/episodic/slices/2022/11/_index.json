@@ -1,0 +1,31 @@
+{
+  "month": "2022-11",
+  "slices": [
+    {
+      "id": "2022-11-22-0125",
+      "focus": "Nathaniel and Erin meet with a mortgage lender and get a sobering reality check on their homebuying readiness.",
+      "summary": "A meeting with a mortgage lender reveals Nathaniel and Erin are not yet ready for the neighborhoods they want. They restart a dedicated down-payment fund with automatic transfers, replacing vague optimism with structured saving. The disappointment is real but the clarity is useful.",
+      "tags": [
+        "mortgage-lender",
+        "down-payment-fund",
+        "financial-reality-check",
+        "erin-partnership",
+        "housing-goals",
+        "automatic-transfer",
+        "affordability-constraint",
+        "household-planningemotional_tone: neutral"
+      ],
+      "status": "closed",
+      "start": "2022-11-22T01:25:00.000Z",
+      "open_loops": [
+        "Down-payment fund auto-transfer amount not yet finalized",
+        "Neighborhood non-negotiables vs prestige conversation not yet had",
+        "Monthly check-in date not yet set",
+        "Emergency fund vs down-payment prioritization not fully resolved"
+      ],
+      "decisions": [
+        "After several months of not covering Darius's daily expenses, Nathaniel and Erin decided to restart a dedicated down-pay"
+      ]
+    }
+  ]
+}

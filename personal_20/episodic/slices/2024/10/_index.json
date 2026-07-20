@@ -1,0 +1,29 @@
+{
+  "month": "2024-10",
+  "slices": [
+    {
+      "id": "2024-10-01-1025",
+      "focus": "Maya talks Eric into a local shelter open house, where the family explores cat adoption without committing; Eric's position softens from 'absolutely not' to 'maybe later if we find a calm adult cat,' marking the household crowding reduction as the enabling condition.",
+      "summary": "With the house feeling less cramped after Trevor's move, Eric agrees to a shelter visit and reconsiders cat adoption from a hardened 'no' to a conditional 'maybe later' centered on a calm adult cat that fits the family's actual schedule and energy.",
+      "tags": [
+        "work",
+        "family",
+        "health",
+        "finance",
+        "travel",
+        "housing",
+        "leisure",
+        "goalsemotional_tone: neutral"
+      ],
+      "status": "closed",
+      "start": "2024-10-01T10:25:00.000Z",
+      "open_loops": [
+        "Cat-readiness checklist for Maya not yet created",
+        "Planned pause of a few weeks to see if interest remains organic"
+      ],
+      "decisions": [
+        "Eric became more open to eventually adopting a calm adult cat that would fit the family's schedule and energy level."
+      ]
+    }
+  ]
+}

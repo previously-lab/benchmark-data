@@ -1,0 +1,25 @@
+{
+  "month": "2022-12",
+  "slices": [
+    {
+      "id": "2022-12-14-1020",
+      "focus": "Caleb discovers Gulf Coast history audiobooks for workday drives, replacing constant weather radio and providing a calmer transition between site visits",
+      "summary": "A friend recommends Gulf Coast history audiobooks through the library app, and Caleb finds they make his workday drives calmer than constant AM weather radio. Lena notices he comes home less wound up. He plans to keep a queue of regional nonfiction titles for the truck.",
+      "tags": [
+        "gulf-coast-history-audiobooks",
+        "library-app-discovery",
+        "calmer-workday-drives",
+        "weather-radio-reduction",
+        "stress-management-habit",
+        "regional-nonfiction-engagement",
+        "lena-notices-differenceemotional_tone: neutral"
+      ],
+      "status": "closed",
+      "start": "2022-12-14T10:20:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "Caleb got into Gulf Coast history audiobooks for long drives between site visits, adding audio listening to his usual no"
+      ]
+    }
+  ]
+}

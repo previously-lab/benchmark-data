@@ -1,0 +1,32 @@
+{
+  "month": "2023-09",
+  "slices": [
+    {
+      "id": "2023-09-09-0920",
+      "focus": "An experienced caseworker's resignation pushes Nadia to build peer-shadowing and overflow coverage instead of scrambling.",
+      "summary": "After an experienced caseworker gives notice following a brutal summer, Nadia pushes leadership to approve a peer-shadowing and overflow-coverage plan rather than just posting the job and stretching remaining staff. She plans to draft a task priority hierarchy first (time-sensitive intake vs. deferrable work), then a rotating shadow calendar, then a simple coverage protocol for absences. She will use an upcoming vacation as a practice run with a three-question debrief.",
+      "tags": [
+        "peer-shadowing-plan",
+        "overflow-coverage-protocol",
+        "caseworker-resignation-response",
+        "system-resilience",
+        "task-hierarchy",
+        "continuity-protection",
+        "vacation-coverage-test",
+        "knowledge-transfer-designemotional_tone: neutral"
+      ],
+      "status": "closed",
+      "start": "2023-09-09T09:20:00.000Z",
+      "open_loops": [
+        "Draft task priority hierarchy (what must be protected vs. what can pause)",
+        "Build rotating shadow calendar",
+        "Design simple coverage protocol for absences",
+        "Test plan using upcoming vacation as practice run",
+        "Debrief with three questions: what got covered smoothly, what confused people, what depended on one person's memory"
+      ],
+      "decisions": [
+        "Nadia shifted her supervisory focus from the school-district welcome-center expansion to a peer-shadowing and overflow-c"
+      ]
+    }
+  ]
+}

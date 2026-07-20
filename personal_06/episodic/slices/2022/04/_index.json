@@ -1,0 +1,30 @@
+{
+  "month": "2022-04",
+  "slices": [
+    {
+      "id": "2022-04-17-0610",
+      "focus": "Pilot shelf check reveals dozens of location mismatches, forcing temporary movement controls and a signed relocation log",
+      "summary": "The pilot shelf check discovers dozens of objects where database, tag, and box label all disagree — Hannah immediately mandates a signed relocation log before any object leaves a rack and a temporary hold process for discrepancies.",
+      "tags": [
+        "location-mismatch-discovery",
+        "movement-control-system",
+        "relocation-log-mandate",
+        "object-hold-process",
+        "staff-resistance-navigation",
+        "inconvenience-vs-risk",
+        "floor-level-process-firstemotional_tone: neutral"
+      ],
+      "status": "closed",
+      "start": "2022-04-17T06:10:00.000Z",
+      "open_loops": [
+        "Draft one-page hold instruction sheet (trigger -> hold -> document -> resolve -> release)",
+        "Keep relocation log narrow (who moved what, from where, when — separate from research notes)",
+        "Send short explanatory note upward explaining the control change and evidence basis",
+        "Stop apologizing when introducing new forms"
+      ],
+      "decisions": [
+        "Hannah remains the Providence Museum of Art's registrar, but after the cleanup pilot exposed widespread location mismatc"
+      ]
+    }
+  ]
+}

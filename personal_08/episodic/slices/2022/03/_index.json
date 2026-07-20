@@ -1,0 +1,61 @@
+{
+  "month": "2022-03",
+  "slices": [
+    {
+      "id": "2022-03-03-0620",
+      "focus": "A lot has been shifting lately, and this feels like the first time the work is a",
+      "summary": "Yeah, and I built it around the spots that keep showing up instead of making it some generic complia",
+      "tags": [
+        "safety-pilot-launch",
+        "receiving-lane-test",
+        "evidence-based-training",
+        "dock-map-evidence",
+        "forklift-damage-photos",
+        "darius-wayne-feedback",
+        "throughput-vs-safety",
+        "ramon-ortega-pushback",
+        "floor-credibility",
+        "answer-once-then-writeemotional_tone: neutral"
+      ],
+      "status": "closed",
+      "start": "2022-03-03T06:20:00.000Z",
+      "open_loops": [
+        "One-on-one with Ramon to discuss his throughput concerns",
+        "Send brief status update to Sharon",
+        "Let the pilot run long enough to produce usable patterns",
+        "Document objections raised and floor feedback"
+      ],
+      "decisions": [
+        "Jermaine moved from planning the injury-reduction push to actively running a one-lane pre-shift safety pilot in receivin"
+      ]
+    },
+    {
+      "id": "2022-03-26-1015",
+      "focus": "A lot has shifted lately, and this week ended up being more about home math than",
+      "summary": "Yeah, the main point was to cut down on those surprise arguments with Danielle",
+      "tags": [
+        "custody-expense-revision",
+        "co-parenting-finance",
+        "legal-mediation",
+        "school-year-costs",
+        "budget-planning",
+        "conflict-reduction",
+        "danielle-booker-communication",
+        "predictability-over-chaos",
+        "spreadsheet-coping",
+        "monthly-check-inemotional_tone: neutral"
+      ],
+      "status": "closed",
+      "start": "2022-03-26T10:15:00.000Z",
+      "open_loops": [
+        "Monthly budget check-in after first paycheck",
+        "Separate kid vs. personal spending on paper",
+        "Send brief practical message to Danielle about new arrangement",
+        "Plan one small personal allowance category"
+      ],
+      "decisions": [
+        "Jermaine agreed to a revised custody expense split that makes his monthly outflow more predictable but leaves him paying"
+      ]
+    }
+  ]
+}

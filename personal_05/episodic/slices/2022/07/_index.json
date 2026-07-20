@@ -1,0 +1,31 @@
+{
+  "month": "2022-07",
+  "slices": [
+    {
+      "id": "2022-07-06-0240",
+      "focus": "Midyear primary care follow-up: blood pressure improved modestly, no medication yet, with clear warnings about consistency.",
+      "summary": "Nathaniel's midyear checkup shows modest blood pressure improvement, allowing him to avoid medication for now. The doctor attributes the change to steadier walking, less sodium, and fewer drive-through meals. He commits to small repeatable habits rather than dramatic overhauls.",
+      "tags": [
+        "health-follow-up",
+        "blood-pressure",
+        "medication-avoided",
+        "walking-routine",
+        "reduced-sodium",
+        "practical-habits",
+        "primary-care",
+        "work-induced-movementemotional_tone: neutral"
+      ],
+      "status": "closed",
+      "start": "2022-07-06T02:40:00.000Z",
+      "open_loops": [
+        "Winter walking plan not yet developed",
+        "Better late-meal options list incomplete",
+        "Walking tracking method undecided (loose vs structured)",
+        "Weekend park loops for Erin not yet explored"
+      ],
+      "decisions": [
+        "Nathaniel's midyear primary care follow-up showed his blood pressure was still elevated but modestly improved, so his do"
+      ]
+    }
+  ]
+}

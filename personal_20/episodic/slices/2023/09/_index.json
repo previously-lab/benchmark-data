@@ -1,0 +1,29 @@
+{
+  "month": "2023-09",
+  "slices": [
+    {
+      "id": "2023-09-10-1220",
+      "focus": "Eric and Danielle pay to install a backyard shed to relieve the storage overflow that had been consuming closets and Maya's play space, accepting the financial hit as a practical correction to household crowding rather than continuing to normalize a bad setup.",
+      "summary": "A backyard shed purchase relieves months of storage overflow that had been shrinking Maya's play space and consuming closets, with Eric and Danielle agreeing on zones, a donation pass, and a no-new-projects spending rule afterward.",
+      "tags": [
+        "work",
+        "family",
+        "finance",
+        "education",
+        "housing",
+        "leisure",
+        "goalsemotional_tone: neutral"
+      ],
+      "status": "closed",
+      "start": "2023-09-10T12:20:00.000Z",
+      "open_loops": [
+        "Full inventory vs light zones approach not yet decided",
+        "Whether the garage becomes usable space or just cleaner storage"
+      ],
+      "decisions": [
+        "Eric and Danielle paid to have a backyard shed installed so overflow household storage would stop taking over the garage",
+        "Paying for the shed delayed any real savings rebuild and kept Eric feeling financially narrow after other recent repair"
+      ]
+    }
+  ]
+}

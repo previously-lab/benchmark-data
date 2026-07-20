@@ -1,0 +1,24 @@
+{
+  "month": "2023-01",
+  "slices": [
+    {
+      "id": "2023-01-15-0110",
+      "focus": "A lot has shifted lately, and this feels like one of those moments where the wor",
+      "summary": "Probably the every school part, if I am being honest",
+      "tags": [
+        "winter-finance-retreat-win",
+        "side-by-side-screenshots-evidence",
+        "districtwide-repository-authorization",
+        "full-workflow-rollout-approval",
+        "public-roadmap-strategy",
+        "implementation-phase-leadershipemotional_tone: \"mixed\""
+      ],
+      "status": "closed",
+      "start": "2023-01-15T01:10:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "Evan's role expanded from redesigning the purchasing process to districtwide responsibility for launching a central repo"
+      ]
+    }
+  ]
+}

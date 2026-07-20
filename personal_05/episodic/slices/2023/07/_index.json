@@ -1,0 +1,31 @@
+{
+  "month": "2023-07",
+  "slices": [
+    {
+      "id": "2023-07-19-0110",
+      "focus": "Nathaniel discovers unexpected enjoyment in a map-and-trail workshop at Highbanks, reconnecting with his geography background.",
+      "summary": "Erin signs up for a beginner map-and-trail workshop at Highbanks. Nathaniel attends expecting a polite few hours but gets drawn into the map-reading and orientation aspects, reconnecting with old geography instincts. The hobby becomes a regular low-friction weekend outing.",
+      "tags": [
+        "map-and-trail",
+        "highbanks",
+        "erin-outing",
+        "geography-instincts",
+        "local-hobby",
+        "orientation-focus",
+        "weekend-routine",
+        "low-friction-leisureemotional_tone: neutral"
+      ],
+      "status": "closed",
+      "start": "2023-07-19T01:10:00.000Z",
+      "open_loops": [
+        "Elena short list of local spots not yet requested",
+        "Shared phone note of favorite parks not yet started",
+        "80/20 consistency-to-variety ratio not yet operationalized",
+        "Printing one favorite map not yet done"
+      ],
+      "decisions": [
+        "Nathaniel's travel and leisure preferences broadened beyond short Ohio and western Pennsylvania road trips to include lo"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "month": "2023-10",
+  "slices": [
+    {
+      "id": "2023-10-20-1320",
+      "focus": "A lot has shifted lately, and not in some huge dramatic way, more like too many ",
+      "summary": "After soccer travel bills, car repairs, and move costs piled up, Marisa refinances old legal-fee debt and sets up an automatic sinking fund to treat tournament weekends as predictable costs rather than emergencies.",
+      "tags": [
+        "legal-debt-refinance",
+        "auto-sinking-fund-setup",
+        "soccer-travel-cost-management",
+        "car-repair-budget-pressure",
+        "irregular-expense-structuring",
+        "household-financial-systememotional_tone: neutral"
+      ],
+      "status": "closed",
+      "start": "2023-10-20T13:20:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "After a pileup of soccer travel bills, car repairs, and leftover move costs, Marisa refinanced some old legal-fee debt a"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "month": "2022-06",
+  "slices": [
+    {
+      "id": "2022-06-11-0215",
+      "focus": "Things have been shifting a lot since we last talked, and I finally had one of t",
+      "summary": "Yeah, that is exactly why I walked out feeling different",
+      "tags": [
+        "leadership-pilot-presentation",
+        "districtwide-expansion-approval",
+        "vendor-on-time-performance-request",
+        "summer-rollout-planning",
+        "evidence-based-persuasion",
+        "accountability-tracking-shiftemotional_tone: \"positive\""
+      ],
+      "status": "closed",
+      "start": "2022-06-11T02:15:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "Danielle was authorized to expand freezer-capacity mapping to every district campus kitchen over the summer and to forma"
+      ]
+    },
+    {
+      "id": "2022-06-28-1205",
+      "focus": "Things have been busy since we last talked, and I ended up having one of those v",
+      "summary": "That is exactly it, annoying but not catastrophic",
+      "tags": [
+        "summer-camp-fee-surprise",
+        "budget-rebalancing",
+        "convenience-dinner-reduction",
+        "grocery-cost-tightening",
+        "monthly-cushion-squeeze",
+        "single-parent-financial-disciplineemotional_tone: \"mixed\""
+      ],
+      "status": "closed",
+      "start": "2022-06-28T12:05:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "Danielle's monthly cushion tightened after Mateo's summer camp posted a surprise fee increase and a second payment due d"
+      ]
+    }
+  ]
+}

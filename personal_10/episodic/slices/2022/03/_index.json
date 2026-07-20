@@ -1,0 +1,58 @@
+{
+  "month": "2022-03",
+  "slices": [
+    {
+      "id": "2022-03-07-0945",
+      "focus": "Leadership approves Kelli's structured denial-reduction pilot with twice-weekly huddles and site tracking.",
+      "summary": "Kelli wins leadership approval for a structured denial-reduction pilot using clinic-by-clinic mapping of three months of denial codes. The pilot includes twice-weekly pre-bill scrub huddles, front-desk quick-check guides (renamed from 'cheat sheets' for sensitivity), and tracking errors by site. She chooses eligibility denials as the first target for a quick early win.",
+      "tags": [
+        "denial-reduction-pilot",
+        "pre-bill-scrub-huddles",
+        "leadership-approval",
+        "clinic-by-clinic-data",
+        "eligibility-denials-first",
+        "monica-wren-ally",
+        "dr-owen-leland-stakeholder",
+        "front-desk-cheat-sheetsemotional_tone: neutral"
+      ],
+      "status": "closed",
+      "start": "2022-03-07T09:45:00.000Z",
+      "open_loops": [
+        "First huddle format not yet tested",
+        "Dr. Leland check-in not yet scheduled",
+        "Metric (repeat eligibility denials per site per week) not yet sent",
+        "Pilot site selection (best site vs worst site) undecided"
+      ],
+      "decisions": [
+        "Kelli won leadership approval to run a structured denial-reduction pilot with twice-weekly pre-bill scrub huddles, front"
+      ]
+    },
+    {
+      "id": "2022-03-29-0130",
+      "focus": "After a tense night, Kelli and Travis reset their weekend communication around her father's dialysis schedule.",
+      "summary": "After Travis eats reheated soup alone following another Saturday of dialysis driving, Kelli and Travis have an honest kitchen-table talk. They agree on Friday-night weekend forecasts, plain texts when plans change, and a protected half-day each month. The marriage remains steady but is now running on deliberate shared scheduling rather than silent expectation.",
+      "tags": [
+        "kitchen-table-talk",
+        "travis-communication",
+        "dialysis-caregiving-strain",
+        "marriage-reset",
+        "weekend-predictability",
+        "friday-night-planning",
+        "caregiver-burnout",
+        "protected-half-dayemotional_tone: neutral"
+      ],
+      "status": "closed",
+      "start": "2022-03-29T01:30:00.000Z",
+      "open_loops": [
+        "Friday-night rundown ritual not yet established",
+        "Protected half-day not yet tried/scheduled",
+        "Kelli needs to say 'I know the guessing has been unfair to you' directly to Travis",
+        "Weekend planning system (three buckets: gone/home/check-by-noon) not yet implemented"
+      ],
+      "decisions": [
+        "Her marriage is still steady, but they now rely on a more deliberate shared weekend schedule because Gary's dialysis log",
+        "After the talk, Kelli and Travis started planning around her work surges and her father's dialysis trips more openly ins"
+      ]
+    }
+  ]
+}

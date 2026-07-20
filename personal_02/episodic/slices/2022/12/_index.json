@@ -1,0 +1,26 @@
+{
+  "month": "2022-12",
+  "slices": [
+    {
+      "id": "2022-12-21-0835",
+      "focus": "Father's minor fall leads to formal care calendar system",
+      "summary": "Lucia's father Rogelio slips while bringing in groceries — minor injury but major scare. She spends the weekend sorting pill bottles, appointment cards, and grab-bar estimates, and they agree she'll take over a formal calendar and transportation routine. The conversation sequences her plan: medical calendar and ride plan first, home-safety improvements (rugs, bathroom layout, medication cleanup) second. She decides to keep a simple wall calendar for him and a more detailed admin version on her phone, with one weekly admin block to contain the responsibility. The shift is from occasional help to formally owning logistics, which feels heavier but clearer.",
+      "tags": [
+        "father-fall-incident",
+        "eldercare-formalization",
+        "care-calendar-system",
+        "ride-plan-creation",
+        "home-safety-assessment",
+        "medication-organization",
+        "guilt-and-relief-mixed",
+        "transition-from-reactive-helpemotional_tone: neutral"
+      ],
+      "status": "closed",
+      "start": "2022-12-21T08:35:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "Lucia now manages a more formal calendar, ride plan, and home-safety paperwork for her father after his minor fall."
+      ]
+    }
+  ]
+}

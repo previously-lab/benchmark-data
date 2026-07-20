@@ -1,0 +1,29 @@
+{
+  "month": "2022-09",
+  "slices": [
+    {
+      "id": "2022-09-14-0400",
+      "focus": "Building a make-ahead freezer meal system after helping brother test dumpling fillings, to reduce evening stress during shipping-heavy weeks",
+      "summary": "After a video call testing dumpling fillings with her brother Evan (culinary school), Hannah plans a freezer-friendly make-ahead meal system — dumplings, soup, and baked pasta — to reduce bad dinner decisions during shipping-heavy weeks.",
+      "tags": [
+        "freezer-meal-planning",
+        "dumpling-test-session",
+        "brother-connection",
+        "make-ahead-comfort-food",
+        "work-spillover-apartment",
+        "infrastructure-over-optimizationemotional_tone: neutral"
+      ],
+      "status": "closed",
+      "start": "2022-09-14T04:00:00.000Z",
+      "open_loops": [
+        "One batch dumplings and one pot of soup as starting test",
+        "Freezer-door list of what's available",
+        "Friday-night-trigger rule: table still covered with work = weekend freezer reset",
+        "Write down successful filling ratios so next round doesn't depend on memory"
+      ],
+      "decisions": [
+        "Hannah has recently become attached to make-ahead dumplings and other freezer-friendly comfort meals to get through ship"
+      ]
+    }
+  ]
+}

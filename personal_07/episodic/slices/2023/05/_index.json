@@ -1,0 +1,24 @@
+{
+  "month": "2023-05",
+  "slices": [
+    {
+      "id": "2023-05-30-1230",
+      "focus": "A lot has shifted lately on the home front, even though the income side of thing",
+      "summary": "Honestly, both",
+      "tags": [
+        "preschool-tuition-increase",
+        "lourdes-mobility-aid-costs",
+        "memorial-day-budget-rebuild",
+        "discretionary-spending-audit",
+        "eldercare-cost-pattern",
+        "shared-budget-teamworkemotional_tone: \"mixed\""
+      ],
+      "status": "closed",
+      "start": "2023-05-30T12:30:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "A preschool tuition increase for the next school year tightened Evan and Danielle's already narrow household budget."
+      ]
+    }
+  ]
+}

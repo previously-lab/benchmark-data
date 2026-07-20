@@ -1,0 +1,27 @@
+{
+  "month": "2024-03",
+  "slices": [
+    {
+      "id": "2024-03-09-0405",
+      "focus": "Couples counseling started through employee assistance",
+      "summary": "After a fraught month where medical rides for Lucia's father consumed many evenings and resentment hardened between them, Lucia and Daniel start couples counseling through an employee assistance referral. The counselor focuses on schedule unpredictability, family-help boundaries, and asking for support before anger sets in. Lucia recognizes she's been treating urgency as if it automatically settles questions of whose time matters. The conversation yields practical moves: a 'pause rule' (never volunteer both of them without a quick check-in), two-script communication ('I need help tonight' vs 'I'll be late but have a backup plan'), and protected evenings. Daniel remains frustrated by unpredictable court hours but feels more included through counseling and the Sunday board.",
+      "tags": [
+        "couples-counseling-start",
+        "employee-assistance-referral",
+        "eldercare-boundary-negotiation",
+        "schedule-unpredictability-conflict",
+        "pause-rule-decision-making",
+        "two-script-communication",
+        "resentment-interruption",
+        "marriage-under-strainemotional_tone: neutral"
+      ],
+      "status": "closed",
+      "start": "2024-03-09T04:05:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "Lucia and Daniel began couples counseling through an employee assistance referral after a fraught month of conflict over",
+        "Daniel still struggles with Lucia's unpredictable court hours, but counseling and the Sunday planning board have helped "
+      ]
+    }
+  ]
+}

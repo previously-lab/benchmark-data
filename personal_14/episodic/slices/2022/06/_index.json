@@ -1,0 +1,31 @@
+{
+  "month": "2022-06",
+  "slices": [
+    {
+      "id": "2022-06-24-0105",
+      "focus": "Caleb launches monthly paperwork clinics for the corridor after proving doubled workshop-to-application conversion rates to Sharon",
+      "summary": "Using sign-in sheets, call logs, and a whiteboard tally, Caleb shows Sharon that the hands-on workshop format nearly doubled conversion rates. This earns him approval to start monthly paperwork clinics at a church fellowship hall, with one-on-one application help, document troubleshooting, and Miguel's engineer office hours.",
+      "tags": [
+        "monthly-paperwork-clinic-launch",
+        "conversion-rate-evidence",
+        "church-fellowship-hall-venue",
+        "miguel-trevino-engineer-office-hours",
+        "triage-sheet-system",
+        "controlled-expansion-strategy",
+        "application-follow-through-model",
+        "what-to-bring-checklistemotional_tone: neutral"
+      ],
+      "status": "closed",
+      "start": "2022-06-24T01:05:00.000Z",
+      "open_loops": [
+        "Build check-in triage sheet, what-to-bring list, and three outcome categories for first clinic",
+        "Define scope of Miguel's office hours to keep it sustainable",
+        "Capture common technical questions into a plain-language handout"
+      ],
+      "decisions": [
+        "Caleb took on monthly corridor paperwork clinics in addition to workshops, coordinating one-on-one application help, doc",
+        "Caleb felt cautiously encouraged because the new workshop format was converting better, though he worried the heavier fo"
+      ]
+    }
+  ]
+}

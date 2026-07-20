@@ -1,0 +1,24 @@
+{
+  "month": "2023-12",
+  "slices": [
+    {
+      "id": "2023-12-08-0405",
+      "focus": "A lot has shifted since we last talked, in a good way for once. The big thing is",
+      "summary": "That question was exactly the issue, because I did not want a document that only makes sense if I'm ",
+      "tags": [
+        "district-playbook-draft",
+        "map-refresh-deadlines",
+        "overflow-transfer-steps",
+        "vendor-escalation-contacts",
+        "fewer-than-three-substitution-target",
+        "one-page-decision-treeemotional_tone: \"positive\""
+      ],
+      "status": "closed",
+      "start": "2023-12-08T04:05:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "Danielle's occupation status updated from a districtwide freezer-map and substitution-tracking rollout to a formal logis"
+      ]
+    }
+  ]
+}

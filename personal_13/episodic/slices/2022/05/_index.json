@@ -1,0 +1,24 @@
+{
+  "month": "2022-05",
+  "slices": [
+    {
+      "id": "2022-05-17-0520",
+      "focus": "Things have been a little less frantic lately, at least enough that my brain is ",
+      "summary": "Probably the subject matter first, then the writing",
+      "tags": [
+        "reported-nonfiction-discovery",
+        "food-systems-literature",
+        "priya-library-book-gift",
+        "mystery-novels-alternating",
+        "intellectual-expansion-signal",
+        "reading-as-calm-period-markeremotional_tone: \"positive\""
+      ],
+      "status": "closed",
+      "start": "2022-05-17T05:20:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "Danielle's reading preference broadened from practical nonfiction and quick mystery novels to include reported narrative"
+      ]
+    }
+  ]
+}

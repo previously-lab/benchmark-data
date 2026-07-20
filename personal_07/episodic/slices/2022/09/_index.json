@@ -1,0 +1,24 @@
+{
+  "month": "2022-09",
+  "slices": [
+    {
+      "id": "2022-09-30-1005",
+      "focus": "A lot has shifted lately, and work finally moved in a direction that feels more ",
+      "summary": "Honestly, the warehouse check might matter most day to day, because once we started tracing things, ",
+      "tags": [
+        "redesigned-purchasing-reform",
+        "emergency-exception-code",
+        "warehouse-inventory-check-integration",
+        "principal-approval-path",
+        "rashad-ground-truth-partnership",
+        "summer-failure-as-case-studyemotional_tone: \"positive\""
+      ],
+      "status": "closed",
+      "start": "2022-09-30T10:05:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "Evan moved from a stalled rollout to leading a redesigned district purchasing reform that adds emergency exception codin"
+      ]
+    }
+  ]
+}

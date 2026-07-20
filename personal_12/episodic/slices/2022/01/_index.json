@@ -1,0 +1,54 @@
+{
+  "month": "2022-01",
+  "slices": [
+    {
+      "id": "2022-01-08-0200",
+      "focus": "Ariana shares her full life story for the first time",
+      "summary": "Ariana Celeste Batiste introduces herself: 34-year-old archivist at Tremé Heritage Center, ISFJ, partnered with Devon Landry, living in a New Orleans shotgun house. Her mission is to preserve 450+ neighborhood oral histories with verified permissions and metadata.",
+      "tags": [
+        "self-introduction",
+        "personal-background",
+        "archivist-identity",
+        "oral-history-mission",
+        "new-orleans-roots",
+        "treme-heritage-center",
+        "community-preservation",
+        "life-prioritiesemotional_tone: neutral"
+      ],
+      "status": "closed",
+      "start": "2022-01-08T02:00:00.000Z",
+      "open_loops": [
+        "Turning 450-recording goal into measurable milestones",
+        "Building sustainable archive infrastructure beyond personal effort",
+        "Managing eczema and stress while pursuing ambitious preservation work"
+      ],
+      "decisions": []
+    },
+    {
+      "id": "2022-01-23-0840",
+      "focus": "Ariana discovers mold in an oral-history storage closet and launches an emergency review",
+      "summary": "Ariana opens a catch-all closet at work and finds mixed-format recordings with mold, bad labels, and no chain of custody. She pushes to lead a two-week emergency stabilization review, shifting from intake work to preservation triage.",
+      "tags": [
+        "mold-discovery",
+        "emergency-stabilization",
+        "archive-crisis",
+        "storage-triage",
+        "preservation-advocacy",
+        "workplace-leadership",
+        "blunt-communication",
+        "clifton-rousselemotional_tone: neutral"
+      ],
+      "status": "closed",
+      "start": "2022-01-23T08:40:00.000Z",
+      "open_loops": [
+        "Writing emergency memo with three-bucket framework (damage, confusion, storage)",
+        "Asking Clifton for protected hours after the review ends",
+        "Ensuring stabilization decisions stick rather than being treated as temporary"
+      ],
+      "decisions": [
+        "Ariana became the de facto lead on a two week emergency oral history stabilization review at Tremé Heritage Center inste",
+        "Seeing the actual condition of the collection made Ariana feel grimly validated that her long standing fears about loss"
+      ]
+    }
+  ]
+}

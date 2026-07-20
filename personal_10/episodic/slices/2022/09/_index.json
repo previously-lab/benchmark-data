@@ -1,0 +1,30 @@
+{
+  "month": "2022-09",
+  "slices": [
+    {
+      "id": "2022-09-07-0615",
+      "focus": "Mikayla gives Kelli a used air fryer that makes quick potatoes and reheats leftovers, reducing evening friction.",
+      "summary": "Mikayla passes along a used air fryer that becomes a small evening game-changer for Kelli — quick air-fryer potatoes, reheated burritos, and leftovers come together fast after dark commutes. Kelli notices the ripple effect on her evening mood and plans a simple index-card meal system. The slice captures a period of slightly more breathable life where small conveniences register as meaningful.",
+      "tags": [
+        "used-air-fryer",
+        "mikayla-hand-me-down",
+        "quick-dinner-routine",
+        "potatoes-and-burritos",
+        "evening-friction-reduction",
+        "home-routine-upgrade",
+        "freezer-backup-plan",
+        "index-card-meal-listemotional_tone: neutral"
+      ],
+      "status": "closed",
+      "start": "2022-09-07T06:15:00.000Z",
+      "open_loops": [
+        "Index card meal combos not yet written",
+        "Extra potato supply not yet purchased",
+        "Freezer burrito backup not yet stocked"
+      ],
+      "decisions": [
+        "Kelli's food routine expanded to include quick air-fryer potatoes and reheated leftovers after Mikayla gave her a used a"
+      ]
+    }
+  ]
+}

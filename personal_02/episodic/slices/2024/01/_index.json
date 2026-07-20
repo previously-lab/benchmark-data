@@ -1,0 +1,26 @@
+{
+  "month": "2024-01",
+  "slices": [
+    {
+      "id": "2024-01-24-0935",
+      "focus": "Winter illness wave tests system; filled request rate holds near target",
+      "summary": "The winter illness wave at the courthouse — exactly the kind of predictable seasonal stress that used to collapse coverage — is handled without a major failure. The binder, backup tiers, and second-round trainees work together: minor reshuffling instead of full-day crises. The filled-request rate stays near Lucia's long-term target for the first time. She plans to present this to leadership as 'here is why we should keep protecting it' rather than 'look, it works,' narrating the near-misses to prevent complacency. She also plans a short after-action note on the binder and a proposal for clearer trainee progression thresholds, converting this stress test into durable structure.",
+      "tags": [
+        "winter-illness-stress-test",
+        "sustained-target-coverage",
+        "system-holds-under-pressure",
+        "near-miss-narration-strategy",
+        "binder-plus-tiers-validation",
+        "trainee-progression-thresholds",
+        "pattern-based-credibility",
+        "maintenance-continuity-shiftemotional_tone: neutral"
+      ],
+      "status": "closed",
+      "start": "2024-01-24T09:35:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "Lucia's Spanish coverage system held through the winter illness wave, and filled interpreter-request rates stayed near h"
+      ]
+    }
+  ]
+}

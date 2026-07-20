@@ -1,0 +1,30 @@
+{
+  "month": "2022-09",
+  "slices": [
+    {
+      "id": "2022-09-19-1025",
+      "focus": "Ariana falls into the social world of marching-band competitions as a stress refuge",
+      "summary": "Ariana attends a marching-band competition with Devon and becomes fascinated by the parent gossip, director rivalries, and lineup politics. She develops a genuine interest in local band culture over pro sports, keeping it as a light seasonal side interest.",
+      "tags": [
+        "marching-band-competition",
+        "devon-landry",
+        "local-rivalries",
+        "halftime-gossip",
+        "niche-interest",
+        "stress-relief",
+        "shared-experience",
+        "observer-modeemotional_tone: neutral"
+      ],
+      "status": "closed",
+      "start": "2022-09-19T10:25:00.000Z",
+      "open_loops": [
+        "Attending one more competition this season as a bounded interest",
+        "Maintaining the 'no spreadsheet' rule to keep it restorative",
+        "Asking Devon for one or two unwritten rules of the scene"
+      ],
+      "decisions": [
+        "Ariana still loosely follows the Saints, but she now pays more attention to local marching-band rivalries, directors, an"
+      ]
+    }
+  ]
+}

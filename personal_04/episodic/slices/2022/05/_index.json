@@ -1,0 +1,30 @@
+{
+  "month": "2022-05",
+  "slices": [
+    {
+      "id": "2022-05-18-0945",
+      "focus": "Tasha discovers soft gospel as a decompression tool after Denise's church picnic",
+      "summary": "After a lighter Sunday at Denise's church picnic, Tasha notices that quiet gospel music on the drive home helped her arrive without the usual buzzing tension in her shoulders. She realizes the music functioned as a 'container' rather than a trigger — giving her somewhere to put the emotional residue from the day without spiraling. The agent helps her plan two short playlists ('after the hard ones' and 'just get home easy'), a fixed first-three-songs ritual to cue her body that the workday is ending, and a simple two-word tracking system ('helped' or 'too sleepy') after each drive to refine the practice.",
+      "tags": [
+        "denise-church-picnic",
+        "soft-gospel-decompression",
+        "drive-home-playlist-idea",
+        "low-pressure-nourishment",
+        "after-hard-ones-playlist",
+        "transition-ritual-discovery",
+        "container-not-trigger",
+        "family-church-community-careemotional_tone: neutral"
+      ],
+      "status": "closed",
+      "start": "2022-05-18T09:45:00.000Z",
+      "open_loops": [
+        "Two playlists — not yet created",
+        "Two-word post-drive tracking — not yet started",
+        "Test music after a heavy meeting (not waiting until fried) — planned but not done"
+      ],
+      "decisions": [
+        "After Denise's church picnic, Tasha began using soft gospel more intentionally as a decompression soundtrack after heavy"
+      ]
+    }
+  ]
+}

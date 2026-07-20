@@ -1,0 +1,30 @@
+{
+  "month": "2022-12",
+  "slices": [
+    {
+      "id": "2022-12-10-0200",
+      "focus": "Colleen moves from damage control to a concrete rebuild: shortened core route, rearranged floor, and January volunteer training.",
+      "summary": "Colleen systematizes the post-failure rebuild. With Leonard's help, she rearranges a physical bottleneck on the apparatus floor. She splits the route into essential core stops and optional stops. She recruits two newer volunteers for a January training series focused on station-to-station handoffs, building a version that doesn't depend on the longtime storytelling style. Her framing: 'personality is a bonus, not the load-bearing wall.'",
+      "tags": [
+        "operational-rebuild",
+        "core-route",
+        "floor-rearrangement",
+        "january-training",
+        "optional-stops",
+        "personality-vs-structure",
+        "volunteer-backup",
+        "post-crisis-recoveryemotional_tone: neutral"
+      ],
+      "status": "closed",
+      "start": "2022-12-10T02:00:00.000Z",
+      "open_loops": [
+        "Quiet test of core route with small group before January training",
+        "Station scripts, prop checks, and handoff sentences need final drafting",
+        "Debrief sheet after test run (timing, bottlenecks, confusing handoffs, one smooth thing)"
+      ],
+      "decisions": [
+        "Colleen shifted from damage control after the chaotic school visit to a concrete rebuild plan built around a shortened c"
+      ]
+    }
+  ]
+}

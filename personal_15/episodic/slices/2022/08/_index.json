@@ -1,0 +1,29 @@
+{
+  "month": "2022-08",
+  "slices": [
+    {
+      "id": "2022-08-18-2025",
+      "focus": "Crews game weather category; Jae-hyun adds source notes and reviews.",
+      "summary": "During an ugly August storm stretch, crews throw nearly every delay into the weather column to avoid scrutiny. Jae-hyun discovers a missed paperwork delay hidden behind a weather label and adds mandatory written delay-source notes for all problem entries plus a post-shift review. The change shifts the pilot from color-coding to enforced written cause trails with credibility checks.",
+      "tags": [
+        "weather-excuse-gaming",
+        "delay-source-notes",
+        "post-shift-review",
+        "board-credibility",
+        "handoff-traceability",
+        "august-storm-chaosemotional_tone: neutral"
+      ],
+      "status": "closed",
+      "start": "2022-08-18T20:25:00.000Z",
+      "open_loops": [
+        "Sustainment of mandatory notes under future storms",
+        "Older captains' resistance to written cause trails",
+        "Kim Dong-wook's continued support without extra staffing"
+      ],
+      "decisions": [
+        "Park Jae-hyun is still dispatch manager, but after a storm-heavy week exposed crews misclassifying delays, he shifted th",
+        "The setback made Jae-hyun more convinced that undocumented handoffs, not just bad weather, are the core operational prob"
+      ]
+    }
+  ]
+}

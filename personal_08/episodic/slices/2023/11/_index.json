@@ -1,0 +1,30 @@
+{
+  "month": "2023-11",
+  "slices": [
+    {
+      "id": "2023-11-21-0735",
+      "focus": "Things have been busy lately, just regular life stacking up on top of itself. La",
+      "summary": "Yeah, that is exactly it, it was not some planned switch",
+      "tags": [
+        "sports-radio-habit",
+        "commute-change",
+        "son-bonding",
+        "local-football-postgame",
+        "cardinals-fandom",
+        "caller-reactions",
+        "family-car-time",
+        "preference-evolution",
+        "music-sports-splitemotional_tone: neutral"
+      ],
+      "status": "closed",
+      "start": "2023-11-21T07:35:00.000Z",
+      "open_loops": [
+        "Set presets for 2 music, 2 sports, 1 wildcard",
+        "Pick one local show for energy and one for knowledge"
+      ],
+      "decisions": [
+        "Jermaine's commute listening shifted toward more local sports radio and postgame call-in shows after long weekend drivin"
+      ]
+    }
+  ]
+}

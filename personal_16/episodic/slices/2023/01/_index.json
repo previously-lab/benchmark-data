@@ -1,0 +1,31 @@
+{
+  "month": "2023-01",
+  "slices": [
+    {
+      "id": "2023-01-15-1035",
+      "focus": "Winter inspection passes without repeat findings in the overhauled workflow areas",
+      "summary": "Saira walks the inspector through the repeat shelves, locum bench guide, and collection-card process using labeled photo sheets. The pharmacy gets minor housekeeping observations but avoids repeat findings on handoff and repeat-dispensing weaknesses. Saira plans a post-inspection note with 'keep and tidy' columns.",
+      "tags": [
+        "winter-inspection",
+        "no-repeat-findings",
+        "inspection-evidence",
+        "credibility-gain",
+        "photo-sheets",
+        "peter-follow-up",
+        "post-inspection-note",
+        "keep-and-tidyemotional_tone: neutral"
+      ],
+      "status": "closed",
+      "start": "2023-01-15T10:35:00.000Z",
+      "open_loops": [
+        "Post-inspection note with keep/tidy columns not yet written",
+        "Peter follow-up conversation not yet had",
+        "Staff team message about inspection results not yet delivered",
+        "Minor consistency observations need wording tweaks"
+      ],
+      "decisions": [
+        "Saira remained operations lead, and the winter inspection left her with stronger credibility because Westgate avoided re"
+      ]
+    }
+  ]
+}

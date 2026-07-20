@@ -1,0 +1,29 @@
+{
+  "month": "2023-10",
+  "slices": [
+    {
+      "id": "2023-10-15-1150",
+      "focus": "Things have been busy since we last talked, just that packed fall feeling where ",
+      "summary": "A coworker's recommendation leads Monica to keep a quiet public radio evening program on at home during case notes and school-night prep; the steadier audio tone helps the apartment feel less jangly after bad days, reduces doom-scrolling, and creates a low-cost environmental cue that signals the workday is over.",
+      "tags": [
+        "public-radio-evening-program",
+        "steady-pace-home-audio",
+        "r-and-b-vs-radio-split",
+        "work-to-home-transition",
+        "low-cost-environmental-design",
+        "lamp-and-radio-cue",
+        "neutral-background-parenting",
+        "cue-not-commandment-approachemotional_tone: neutral"
+      ],
+      "status": "closed",
+      "start": "2023-10-15T11:50:00.000Z",
+      "open_loops": [
+        "Pair radio with specific lamp as transition cue",
+        "Let the habit stay flexible rather than rigid"
+      ],
+      "decisions": [
+        "Monica started keeping more Milwaukee public radio on at home during evening paperwork and school-night prep, not just i"
+      ]
+    }
+  ]
+}

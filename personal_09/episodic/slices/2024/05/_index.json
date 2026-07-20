@@ -1,0 +1,31 @@
+{
+  "month": "2024-05",
+  "slices": [
+    {
+      "id": "2024-05-18-0845",
+      "focus": "Nadia consolidates all system pieces into a written agency intake manual — triage, inspection, school support, volunteer roles.",
+      "summary": "Nadia spends weeks consolidating her intake system (triage, housing inspection, school support, volunteer roles, deadline escalation rules) into a written agency manual. She includes sample checklists, landlord-photo documentation standards (angles, appliances, damage, smoke detectors, windows), and clear escalation triggers. Daniel reviews the housing sections. She plans to train the highest-risk sections first (escalation rules, inspection docs), ask two staff to cold-test a checklist, and set up a revision process with section leads rather than owning every update herself.",
+      "tags": [
+        "agency-intake-manual",
+        "written-consolidation",
+        "triage-housing-school-volunteer",
+        "landlord-photo-standards",
+        "escalation-rules",
+        "living-document-design",
+        "knowledge-transfer",
+        "daniel-kopec-collaborationemotional_tone: neutral"
+      ],
+      "status": "closed",
+      "start": "2024-05-18T08:45:00.000Z",
+      "open_loops": [
+        "Train highest-risk sections first (escalation rules, inspection documentation)",
+        "Ask two staff to cold-test a checklist and report where they hesitate",
+        "Set up revision process with section leads on a trigger-based schedule",
+        "Roll out school support and volunteer sections in a separate chunk"
+      ],
+      "decisions": [
+        "Nadia shifted from just running the intake model to documenting it in a written agency manual that combines triage, hous"
+      ]
+    }
+  ]
+}

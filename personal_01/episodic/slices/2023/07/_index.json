@@ -1,0 +1,24 @@
+{
+  "month": "2023-07",
+  "slices": [
+    {
+      "id": "2023-07-11-0815",
+      "focus": "It has been one of those packed stretches lately where everything blurs together",
+      "summary": "While killing time at Rosa's house before a soccer match, Marisa puts on Crimson Tide and starts curating a summer rotation of rewatchable 90s action movies as easy social glue for tired teenage evenings.",
+      "tags": [
+        "crimson-tide-summer-movie",
+        "90s-action-rewatchable-list",
+        "rosa-house-summer-evening",
+        "heat-wave-comfort-cinema",
+        "teenager-social-bonding",
+        "low-effort-fallback-ritualemotional_tone: neutral"
+      ],
+      "status": "closed",
+      "start": "2023-07-11T08:15:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "Marisa's movie taste shifted further toward keeping rewatchable 1990s action movies in regular summer rotation with Evan"
+      ]
+    }
+  ]
+}

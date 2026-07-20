@@ -1,0 +1,30 @@
+{
+  "month": "2023-04",
+  "slices": [
+    {
+      "id": "2023-04-17-1005",
+      "focus": "A seed swap with Elena leads to a tiny windowsill herb garden (mint and parsley) — a manageable, home-based hobby.",
+      "summary": "Elena Nowak invites Nadia to a Saturday seed swap at a church basement. Nadia comes home with mint and parsley starts, starting a tiny windowsill garden. She ties herb care to her existing tea routine (kettle on, check herbs) and keeps the scope deliberately at two plants. The hobby represents the apartment feeling more like home and less like managed space. Nadia plans to protect the simplicity and attend the next seed swap if it still sounds nice.",
+      "tags": [
+        "windowsill-herbs",
+        "mint-and-parsley",
+        "seed-swap-church-basement",
+        "elena-nowak-invitation",
+        "neighborhood-community",
+        "manageable-hobby",
+        "home-settling",
+        "tea-herb-routineemotional_tone: neutral"
+      ],
+      "status": "closed",
+      "start": "2023-04-17T10:05:00.000Z",
+      "open_loops": [
+        "Keep mint and parsley alive (tie to tea routine)",
+        "Resist expanding beyond two herbs until they're fully absorbed into routine",
+        "Optional: attend next seed swap if it still sounds nice"
+      ],
+      "decisions": [
+        "Nadia still does not have a pet because her schedule is too erratic, but after the seed swap she started framing her win"
+      ]
+    }
+  ]
+}

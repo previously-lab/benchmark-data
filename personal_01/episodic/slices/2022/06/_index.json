@@ -1,0 +1,44 @@
+{
+  "month": "2022-06",
+  "slices": [
+    {
+      "id": "2022-06-03-0110",
+      "focus": "A lot has shifted since we last talked, and for once I get to bring you somethin",
+      "summary": "The redesigned expansion is installed as a public work party, giving Marisa two operating oyster sites; she processes the exposed feeling of delivering a public result after months of redesign and review.",
+      "tags": [
+        "second-site-public-installation",
+        "work-party-volunteer-day",
+        "permit-conditions-approved",
+        "two-operating-sites-milestone",
+        "after-action-documentation",
+        "public-engagement-scriptemotional_tone: neutral"
+      ],
+      "status": "closed",
+      "start": "2022-06-03T01:10:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "Marisa moved from one operating oyster-habitat site to two after getting the redesigned expansion installed, while a thi"
+      ]
+    },
+    {
+      "id": "2022-06-28-0530",
+      "focus": "A lot has shifted lately, and one thing finally caught up with me physically. My",
+      "summary": "Marisa's chronic right shoulder flares severely after weeks of hauling gear; urgent care refers her to PT with lifting restrictions, forcing her to accept limits and redesign field logistics.",
+      "tags": [
+        "acute-shoulder-summer-flare",
+        "urgent-care-visit",
+        "physical-therapy-beginning",
+        "temporary-lifting-restrictions",
+        "workload-redesign-delegation",
+        "cumulative-repetitive-strainemotional_tone: neutral"
+      ],
+      "status": "closed",
+      "start": "2022-06-28T05:30:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "Marisa's chronic right shoulder strain escalated into a sharper summer flare after two straight weeks of hauling sample ",
+        "Marisa has now started physical therapy and is under temporary lifting restrictions while her right shoulder settles dow"
+      ]
+    }
+  ]
+}

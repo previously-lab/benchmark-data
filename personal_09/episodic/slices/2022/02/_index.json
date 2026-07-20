@@ -1,0 +1,60 @@
+{
+  "month": "2022-02",
+  "slices": [
+    {
+      "id": "2022-02-03-1040",
+      "focus": "Winter intake surge pushes Nadia to build a triage board; she shifts from managing chaos to redesigning the workflow.",
+      "summary": "After three simultaneous winter arrivals, Nadia creates a color-coded triage board (housing, benefits, school enrollment) with Daniel to track first-week tasks. The agent helps her frame it as a 'field-tested prototype' rather than a grand reform. She plans to run it one more week, collect caught/missed/confusing notes, and hold one-on-one conversations with heavy updaters before a team meeting.",
+      "tags": [
+        "winter-intake-surge",
+        "triage-board-prototype",
+        "crisis-response-leadership",
+        "team-workflow-redesign",
+        "daniel-kopec-collaboration",
+        "sleep-disruption",
+        "prototype-mindset",
+        "one-on-one-feedbackemotional_tone: neutral"
+      ],
+      "status": "closed",
+      "start": "2022-02-03T10:40:00.000Z",
+      "open_loops": [
+        "Run triage board for one more week",
+        "Collect daily 'caught, missed, confusing' notes",
+        "Conduct one-on-ones with heavy updaters",
+        "Set personal cutoff time for board tinkering",
+        "Document board's impact (reduced misses, faster handoffs)"
+      ],
+      "decisions": [
+        "Nadia is still a casework supervisor, but after a winter intake surge she began informally leading a crisis-response ove",
+        "The intake surge left Nadia more keyed up than usual and sleeping even more lightly, but it also pushed her into a more "
+      ]
+    },
+    {
+      "id": "2022-02-22-1310",
+      "focus": "Nadia and Omar set an October wedding date after a tense conversation about her work boundaries.",
+      "summary": "After a tense Sunday conversation at aunt Maha's kitchen table, Nadia and Omar set an October wedding date. They agree on a small, simple ceremony they can afford. Nadia acknowledges her weak work boundaries (answering texts at dinner) contributed to stalling. She plans to make a mosque deposit first, then tell immediate family the final plan, and implement one protected dinner per week with her phone facedown.",
+      "tags": [
+        "wedding-date-set",
+        "omar-conflict-resolution",
+        "work-boundaries",
+        "small-wedding-planning",
+        "family-negotiation",
+        "aunt-maha-support",
+        "phone-boundaries",
+        "budget-prioritizationemotional_tone: neutral"
+      ],
+      "status": "closed",
+      "start": "2022-02-22T13:10:00.000Z",
+      "open_loops": [
+        "Make mosque deposit to secure date",
+        "Tell immediate family the plan (informing, not asking input)",
+        "Implement one protected dinner per week (phone facedown)",
+        "Enlist aunt Maha to help deflect family pressure"
+      ],
+      "decisions": [
+        "Nadia and Omar finally set a firm October wedding date after a tense Sunday night conversation about her work bleeding i",
+        "Omar and Nadia agreed to keep the wedding small and simple enough to afford and realistically plan."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "month": "2023-01",
+  "slices": [
+    {
+      "id": "2023-01-29-1010",
+      "focus": "Snow-night war movie marathon with son reshapes entertainment toward one-sitting, self-contained films",
+      "summary": "During a cold homebound stretch, Derek and his son get pulled into an old war movie marathon on local TV, leading to a genuine bonding experience around military and industrial dramas. Derek realizes his entertainment sweet spot is films with concrete stakes and clean endings that can be finished in one sitting, rather than long series he never completes. He decides to build a short movie list split into war, industrial, and crime categories (about 6-8 total), leaving one slot open for random TV discoveries, and stops pretending he will become a 'big TV person.'",
+      "tags": [
+        "snow-night-war-movie-marathon",
+        "son-bonding-movie-night",
+        "self-contained-entertainment-preference",
+        "industrial-and-military-dramas",
+        "short-list-movie-rotation",
+        "long-series-abandonment",
+        "budget-friendly-home-evening",
+        "one-sitting-movie-formatemotional_tone: neutral"
+      ],
+      "status": "closed",
+      "start": "2023-01-29T10:10:00.000Z",
+      "open_loops": [
+        "Building a 6-8 movie short list split by mood (war/industrial/crime)",
+        "Marking 1-2 films as especially good for watching with his son",
+        "Keeping one slot open for accidental TV discoveries",
+        "Accepting that long series are a bad fit and not forcing them"
+      ],
+      "decisions": [
+        "Derek still prefers crime dramas and older war movies, but after the winter marathon he leaned even harder toward one-si"
+      ]
+    }
+  ]
+}

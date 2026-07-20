@@ -1,0 +1,29 @@
+{
+  "month": "2023-10",
+  "slices": [
+    {
+      "id": "2023-10-03-0705",
+      "focus": "Getting approval to test rebuilt procedures on a moderately complex multi-lender exhibition",
+      "summary": "Using complete loan files and verified storage locations from the audit, Hannah gets leadership to test her rebuilt procedures on a moderately complex incoming exhibition with multiple lenders — the first real operational test.",
+      "tags": [
+        "multi-lender-exhibition-trial",
+        "operational-system-test",
+        "evidence-based-approval",
+        "active-loan-file-completeness",
+        "verified-location-evidence",
+        "exception-log-designemotional_tone: neutral"
+      ],
+      "status": "closed",
+      "start": "2023-10-03T07:05:00.000Z",
+      "open_loops": [
+        "Draft one-page trial frame (evaluating reliability, traceability, compliance — not just outcome)",
+        "Build exception log with minimal mandatory fields (what changed, why, who approved, what was updated)",
+        "Create personal approve-vs-audit-vs-exception list to avoid overcontrol",
+        "Send pre-mortem note naming three failure modes and required responses"
+      ],
+      "decisions": [
+        "Hannah won approval to test her rebuilt loan and storage procedures on a moderately complex incoming exhibition with mul"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "month": "2023-04",
+  "slices": [
+    {
+      "id": "2023-04-12-0955",
+      "focus": "Saira wins Peter's backing for equipment after proving the prep window's impact with three months of timing data",
+      "summary": "Saira uses three months of stopwatch timings and queue notes to prove the protected repeat-prep window reduces the after-school bottleneck. Peter approves clearer basket dividers and a dedicated label printer for the repeat station. Saira plans a tiny proof loop to track the new baseline.",
+      "tags": [
+        "evidence-based-request",
+        "label-printer",
+        "basket-dividers",
+        "peter-backing",
+        "post-inspection-credibility",
+        "repeat-prep-window",
+        "infrastructure-upgrade",
+        "tiny-proof-loopemotional_tone: neutral"
+      ],
+      "status": "closed",
+      "start": "2023-04-12T09:55:00.000Z",
+      "open_loops": [
+        "Tiny proof loop (queue peak + repeat basket split) needs to be established",
+        "Short follow-up for Peter after equipment settles not yet done",
+        "Need to resist adding more improvements while momentum is high"
+      ],
+      "decisions": [
+        "Saira remained operations lead and won Peter's backing for modest equipment and clearer basket separation after proving "
+      ]
+    }
+  ]
+}

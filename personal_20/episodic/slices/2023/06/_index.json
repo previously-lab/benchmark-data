@@ -1,0 +1,26 @@
+{
+  "month": "2023-06",
+  "slices": [
+    {
+      "id": "2023-06-23-1045",
+      "focus": "Samuel recommends a dependable chili place near his northern Kentucky dock, which becomes Eric's default late-night meal on hard route weeks, replacing the antacids-and-toast stress-eating pattern with a predictable eating routine.",
+      "summary": "A chili place recommended by Samuel becomes Eric's emergency food structure on late pickup nights, providing predictability when dinner otherwise falls apart, while he manages cost concerns with a light formalization approach.",
+      "tags": [
+        "work",
+        "family",
+        "finance",
+        "housing",
+        "goalsemotional_tone: neutral"
+      ],
+      "status": "closed",
+      "start": "2023-06-23T10:45:00.000Z",
+      "open_loops": [
+        "One backup meal option not yet identified",
+        "Rough weekly spending cap not yet set for takeout"
+      ],
+      "decisions": [
+        "After Samuel pointed him to a dependable chili place near his northern Kentucky pantry dock, chili became Eric's default"
+      ]
+    }
+  ]
+}

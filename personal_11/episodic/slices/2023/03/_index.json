@@ -1,0 +1,30 @@
+{
+  "month": "2023-03",
+  "slices": [
+    {
+      "id": "2023-03-24-0235",
+      "focus": "A lot has been shifting lately, and one thing at work finally felt like it moved",
+      "summary": "Monica trains two newer inspectors on the chronic-offender brief and a tenant-contact script to standardize how the team documents retaliation fears and access problems before reinspections, marking a shift from personal vigilance to building shared team judgment and reducing her sole ownership of the corridor process.",
+      "tags": [
+        "chronic-offender-brief-training",
+        "tenant-contact-script-standardization",
+        "new-inspector-coaching",
+        "retaliation-fear-documentation",
+        "team-habit-spread",
+        "uncertainty-vs-vagueness-distinction",
+        "supervisory-role-evolution",
+        "first-use-shadowing-ruleemotional_tone: neutral"
+      ],
+      "status": "closed",
+      "start": "2023-03-24T02:35:00.000Z",
+      "open_loops": [
+        "Shadow first few high-friction reinspections with new inspectors",
+        "Hold follow-up meeting on one-strong-one-uncertain notes",
+        "Watch for unsolicited quality in file notes"
+      ],
+      "decisions": [
+        "Monica is a frontline housing code supervisor now training her team on chronic-offender briefs and tenant-contact script"
+      ]
+    }
+  ]
+}

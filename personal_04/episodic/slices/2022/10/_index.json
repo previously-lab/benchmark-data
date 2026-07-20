@@ -1,0 +1,32 @@
+{
+  "month": "2022-10",
+  "slices": [
+    {
+      "id": "2022-10-16-0740",
+      "focus": "Pilot approved as agency standard; Tasha recognized as internal lead for bereavement workflow",
+      "summary": "In a review with Miriam and the quality team, Tasha presents clean referral data showing documented first contacts have risen sharply since the workflow tightened. The team approves turning the pilot into the agency's standard bereavement calendar, and Tasha is recognized internally as the lead for the calendar and referral tracking process. The agent helps her plan a follow-up email documenting what was approved, prioritize a contact-attempt rule (addressing unanswered-family gray areas) over a dashboard, and approach Miriam for a written scope rather than immediately pushing for title/compensation. Tasha plans a stabilization window and a supervision conversation about boundaries as operational lead.",
+      "tags": [
+        "pilot-approved-as-standard",
+        "first-contact-numbers-proven",
+        "internal-lead-recognition",
+        "quality-team-legitimization",
+        "miriam-public-backing",
+        "written-scope-request-plan",
+        "contact-attempt-rule-priority",
+        "stabilization-window-strategyemotional_tone: neutral"
+      ],
+      "status": "closed",
+      "start": "2022-10-16T07:40:00.000Z",
+      "open_loops": [
+        "Follow-up summary email to Miriam — to be drafted today",
+        "Contact-attempt rule with time-based owner definition — priority task",
+        "Monthly dashboard for quality team — deferred until after rule is done",
+        "Boundary discussion with Renee in supervision — planned",
+        "Written scope/authority summary request — to be asked"
+      ],
+      "decisions": [
+        "Tasha is now recognized internally as the lead for Transitions LifeCare's standard bereavement calendar and referral-tra"
+      ]
+    }
+  ]
+}

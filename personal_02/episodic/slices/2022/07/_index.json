@@ -1,0 +1,26 @@
+{
+  "month": "2022-07",
+  "slices": [
+    {
+      "id": "2022-07-07-1105",
+      "focus": "Roof repair estimate jumps, household tightens budget",
+      "summary": "A small roof concern reveals hidden water damage above the hall bathroom, and the repair estimate jumps significantly. Lucia and Daniel choose a payment plan rather than paying upfront, keeping their regular bills current and continuing monthly support for Lucia's father while adding the repair debt. They agree to tighten summer spending (less eating out, no weekend extras) and plan a one-month check-in to reassess. The conversation clarifies that their household is 'stable but not cushioned' — low margin under extra pressure, not collapse. Lucia decides to map payment timing against the monthly calendar and ask the contractor about late fees and payoff flexibility.",
+      "tags": [
+        "home-repair-crisis",
+        "roof-water-damage",
+        "payment-plan-decision",
+        "summer-budget-tightening",
+        "financial-low-margin",
+        "daniel-financial-alignment",
+        "eldercare-support-prioritization",
+        "household-debt-managementemotional_tone: neutral"
+      ],
+      "status": "closed",
+      "start": "2022-07-07T11:05:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "Lucia's household income remained stable, but expanded roof and bathroom payments increased the debt pressure they were "
+      ]
+    }
+  ]
+}

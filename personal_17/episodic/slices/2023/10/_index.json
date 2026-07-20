@@ -1,0 +1,30 @@
+{
+  "month": "2023-10",
+  "slices": [
+    {
+      "id": "2023-10-06-0110",
+      "focus": "Teachers rebook without prompting and Colleen begins assigning easier repeat visits fully to trained volunteers.",
+      "summary": "The fall calendar is fuller and several teachers rebook without Colleen chasing them. She starts assigning straightforward repeat visits to trained volunteers while keeping larger classes and outreach days for herself. The sorting logic is based on complexity, not availability. Her role shifts from constant rescue to floating oversight and teacher partnership-building. The program is starting to look repeatable rather than heroic.",
+      "tags": [
+        "self-rebooking",
+        "volunteer-leadership",
+        "role-shift",
+        "program-durability",
+        "fall-calendar",
+        "unsolicited-return",
+        "triage-over-rescue",
+        "oversight-modeemotional_tone: neutral"
+      ],
+      "status": "closed",
+      "start": "2023-10-06T01:10:00.000Z",
+      "open_loops": [
+        "Gatekeeping question before reclaiming any visit: 'actual risk or just my anxiety?'",
+        "Brief post-visit note from volunteer leads to maintain standards without hovering",
+        "Document self-driven rebookings and volunteer-led formats as evidence"
+      ],
+      "decisions": [
+        "Colleen has started assigning easier repeat school visits fully to trained volunteers instead of personally covering eve"
+      ]
+    }
+  ]
+}

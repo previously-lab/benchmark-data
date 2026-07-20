@@ -1,0 +1,30 @@
+{
+  "month": "2022-02",
+  "slices": [
+    {
+      "id": "2022-02-16-0340",
+      "focus": "Labor history podcast discovery through Mike's garage day shifts commute habits",
+      "summary": "Derek spends a Sunday at Mike Cercone's garage sorting pipe fittings and listening to a Mon Valley labor history podcast. The combination of hands-on work and compelling local history unexpectedly helps quiet his anxious mental loops. This experience leads him to replace default sports radio with labor and trade history podcasts on his early morning drives, a small but meaningful shift that Erin notices and appreciates.",
+      "tags": [
+        "garage-day-with-friend",
+        "labor-history-podcasts",
+        "mon-valley-mill-history",
+        "commute-habit-change",
+        "anxiety-management",
+        "union-podcast-discovery",
+        "morning-drive-routine",
+        "mike-cercone-friendshipemotional_tone: neutral"
+      ],
+      "status": "closed",
+      "start": "2022-02-16T03:40:00.000Z",
+      "open_loops": [
+        "Building a two-bucket podcast list (heavy history for morning, lighter trade talk for evening)",
+        "Asking Mike for the name of the first Mon Valley episode that hooked him",
+        "Developing a sustainable commute media rotation"
+      ],
+      "decisions": [
+        "He now queues labor and trade podcasts for early drives instead of defaulting to only sports radio in the truck."
+      ]
+    }
+  ]
+}

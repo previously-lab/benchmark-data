@@ -1,0 +1,30 @@
+{
+  "month": "2023-02",
+  "slices": [
+    {
+      "id": "2023-02-21-0940",
+      "focus": "Ariana attends a neighborhood film screening and realizes she prefers local films with post-film talks",
+      "summary": "Janelle brings Ariana to a neighborhood screening where the post-film discussion with local elders becomes the highlight. Ariana discovers she prefers Louisiana-made films with community talks over mainstream releases and plans to attend more.",
+      "tags": [
+        "neighborhood-screening",
+        "louisiana-film",
+        "post-film-discussion",
+        "janelle-duplessis",
+        "local-culture",
+        "community-conversation",
+        "pleasure-beyond-productivity",
+        "taste-refinementemotional_tone: neutral"
+      ],
+      "status": "closed",
+      "start": "2023-02-21T09:40:00.000Z",
+      "open_loops": [
+        "Putting one local screening with discussion on the calendar",
+        "Keeping a loose informal note of film recommendations",
+        "Asking 2-3 trusted people for one local film suggestion each month"
+      ],
+      "decisions": [
+        "Ariana now leans even more strongly toward Louisiana-made films and local post-film talks over mainstream releases."
+      ]
+    }
+  ]
+}

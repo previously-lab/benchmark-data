@@ -1,0 +1,44 @@
+{
+  "month": "2022-03",
+  "slices": [
+    {
+      "id": "2022-03-06-0220",
+      "focus": "A lot has shifted since we last talked, and not in the direction I wanted. The f",
+      "summary": "The big issues were shoreline armoring questions and incomplete sediment documentation",
+      "tags": [
+        "state-review-setback",
+        "shoreline-armoring-concerns",
+        "sediment-documentation-gaps",
+        "permit-redesign-effort",
+        "crew-schedule-postponement",
+        "talia-sutherland-consultationemotional_tone: neutral"
+      ],
+      "status": "closed",
+      "start": "2022-03-06T02:20:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "Marisa's oyster-habitat expansion work is now stalled because the state kicked back the first expansion package and forc"
+      ]
+    },
+    {
+      "id": "2022-03-24-1300",
+      "focus": "A lot has been shifting lately, and one thing finally came to a head this weeken",
+      "summary": "After a tense parking-lot argument about hotel costs, Marisa and Daniel agree to use a shared expense spreadsheet and monthly planning call to reduce co-parenting friction around Evan's club soccer.",
+      "tags": [
+        "co-parenting-expense-spreadsheet",
+        "evan-soccer-travel-costs",
+        "daniel-mercer-communication",
+        "monthly-planning-call-system",
+        "conflict-reduction-structure",
+        "teenager-emotional-protectionemotional_tone: neutral"
+      ],
+      "status": "closed",
+      "start": "2022-03-24T13:00:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "Marisa and Daniel agreed to use a shared expense spreadsheet and a scheduled monthly planning call for Evan's travel soc",
+        "Her co-parenting dynamic with Daniel shifted from ad hoc arguing about sports expenses and schedule swaps to a more stru"
+      ]
+    }
+  ]
+}

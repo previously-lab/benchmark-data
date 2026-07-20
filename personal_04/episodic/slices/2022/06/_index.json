@@ -1,0 +1,32 @@
+{
+  "month": "2022-06",
+  "slices": [
+    {
+      "id": "2022-06-11-0205",
+      "focus": "Missed referral handoff exposed by Tasha's own spreadsheet leads to corrective memo and frozen expansion",
+      "summary": "A furious family complaint reveals that a referral was lost between hospice discharge documentation and bereavement intake — a gap Tasha's own tracking spreadsheet made visible. Miriam freezes expansion plans and has Tasha draft a corrective memo instead of celebrating early attendance gains. Tasha processes the setback with the agent, developing a four-part memo structure (family impact, failure point, how tracking caught it, corrective steps with owners). The core fix is an 'ownership checkpoint' ensuring no referral is considered complete until one named person confirms active follow-up status. Tasha also plans a weekly unresolved-referrals check and a conversation with Miriam to align on the corrective path.",
+      "tags": [
+        "family-complaint-missed-handoff",
+        "corrective-memo-drafting",
+        "cross-department-referral-gap",
+        "spreadsheet-as-accountability-tool",
+        "pilot-under-scrutiny",
+        "expansion-plans-frozen",
+        "adjacent-to-ownership-problem",
+        "weekly-unresolved-referrals-checkemotional_tone: neutral"
+      ],
+      "status": "closed",
+      "start": "2022-06-11T02:05:00.000Z",
+      "open_loops": [
+        "Corrective memo — to be finished and sent with pause before sending",
+        "Conversation with Miriam to walk through fix and review plan",
+        "Weekly unresolved-referrals check — needs implementation",
+        "Definition of 'confirmed follow-up' — needs to be written",
+        "One-sentence goal for Miriam meeting: establish ownership checkpoint"
+      ],
+      "decisions": [
+        "Tasha is still running the bereavement pilot at Transitions LifeCare, but a documented family complaint exposed a missed"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "month": "2023-02",
+  "slices": [
+    {
+      "id": "2023-02-17-0205",
+      "focus": "Jae-hyun and Min-seo move to quieter rental, improving sleep but raising costs.",
+      "summary": "Jae-hyun and Min-seo move from their compact one-bedroom in Yeongdo to a slightly larger rental on a quieter uphill street. The difference is immediate: fewer horn-induced jolts, better sleep, less baseline irritation. However, the higher rent and deposit strain already-tight finances, forcing Jae-hyun to prioritize a small cash buffer over aggressive debt repayment in the short term.",
+      "tags": [
+        "apartment-move",
+        "yeongdo-uphill",
+        "noise-reduction",
+        "sleep-improvement",
+        "housing-cost-pressure",
+        "financial-squeeze",
+        "marriage-protection",
+        "deposit-strainemotional_tone: neutral"
+      ],
+      "status": "closed",
+      "start": "2023-02-17T02:05:00.000Z",
+      "open_loops": [
+        "Financial adjustment to higher housing costs",
+        "Rebuilding savings after deposit drain",
+        "Sustaining sleep improvement across both shift types"
+      ],
+      "decisions": [
+        "Jae-hyun and Min-seo moved out of their first compact one-bedroom in Yeongdo to a slightly larger rental on a quieter up",
+        "The move increased housing pressure because the new rental costs more and required extra deposit money."
+      ]
+    }
+  ]
+}

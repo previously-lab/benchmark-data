@@ -1,0 +1,28 @@
+{
+  "month": "2022-09",
+  "slices": [
+    {
+      "id": "2022-09-09-1300",
+      "focus": "Projector movie night becomes an effective decompression routine.",
+      "summary": "Min-seo borrows a projector from a coworker; they have a quiet dinner and watch a realistic maritime film on the apartment wall. Jae-hyun realizes the ritual (dinner at home, dim lights, one familiar film, phone away) decompresses him far better than doom-scrolling port clips. He plans to borrow the projector again and build a short rewatch list rather than buying gear prematurely.",
+      "tags": [
+        "projector-movie-night",
+        "maritime-films",
+        "decompression-routine",
+        "phone-boundaries",
+        "home-dinner-ritual",
+        "rewatching-comfortemotional_tone: neutral"
+      ],
+      "status": "closed",
+      "start": "2022-09-09T13:00:00.000Z",
+      "open_loops": [
+        "Borrowing projector again vs purchasing",
+        "Building a reliable rewatch list",
+        "Maintaining phone-free evening habit"
+      ],
+      "decisions": [
+        "Jae-hyun has started deliberately using quiet home movie nights as a post-shift decompression routine, especially by rew"
+      ]
+    }
+  ]
+}

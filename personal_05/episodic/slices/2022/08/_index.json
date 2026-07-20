@@ -1,0 +1,31 @@
+{
+  "month": "2022-08",
+  "slices": [
+    {
+      "id": "2022-08-21-0815",
+      "focus": "First corridor promoted to full signup status; leadership tasks Nathaniel with starting the second corridor.",
+      "summary": "After successful summer pilot results, leadership moves Nathaniel's first corridor to full signup status and tasks him with scoping the second corridor. He now faces recurring monthly reliability metrics and must build a reporting template.",
+      "tags": [
+        "cota",
+        "corridor-full-signup",
+        "leadership-validation",
+        "monthly-metrics",
+        "second-corridor-scoping",
+        "performance-dashboard",
+        "career-milestone",
+        "operational-credibilityemotional_tone: neutral"
+      ],
+      "status": "closed",
+      "start": "2022-08-21T08:15:00.000Z",
+      "open_loops": [
+        "Monthly reporting template not yet built",
+        "Second-corridor failure-mode list not yet drafted",
+        "Reality-check field visit cadence not yet defined",
+        "Leadership language for mixed months not prepared"
+      ],
+      "decisions": [
+        "Nathaniel's first corridor weekday pilot was successful enough on on-time performance and complaint reduction that leade"
+      ]
+    }
+  ]
+}

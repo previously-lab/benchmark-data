@@ -1,0 +1,30 @@
+{
+  "month": "2023-04",
+  "slices": [
+    {
+      "id": "2023-04-22-1040",
+      "focus": "Things have felt a little steadier lately, at least enough that I noticed I was ",
+      "summary": "With work feeling less jagged, Monica discovers older courtroom movies and dry legal dramas as her ideal Sunday-night reset; she turns a library display discovery into a low-effort ritual of tea, blanket, and contained storytelling that helps her decompress before Monday without demanding emotional output.",
+      "tags": [
+        "courtroom-movie-sunday-ritual",
+        "legal-drama-decompression",
+        "library-discover-recovery-shelf",
+        "low-effort-weekend-reset",
+        "dry-contained-entertainment",
+        "containment-over-stimulation",
+        "sunday-reset-night-label",
+        "library-recommendations-listemotional_tone: neutral"
+      ],
+      "status": "closed",
+      "start": "2023-04-22T10:40:00.000Z",
+      "open_loops": [
+        "Ask librarian for dry courtroom movie recommendations",
+        "Build two-column list: soothing vs too performative",
+        "Pre-approve 2-3 titles for tired Sundays"
+      ],
+      "decisions": [
+        "Monica started defaulting to older courtroom movies and dry legal dramas as her preferred Sunday-night recovery watch."
+      ]
+    }
+  ]
+}

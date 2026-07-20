@@ -1,0 +1,24 @@
+{
+  "month": "2022-10",
+  "slices": [
+    {
+      "id": "2022-10-12-1020",
+      "focus": "A lot has been shifting lately, and one thing I finally fixed was the after-scho",
+      "summary": "She actually looked relieved, which made me realize she was probably just as tired of the vague chec",
+      "tags": [
+        "eleanor-pickup-pouch-system",
+        "spare-key-trust-signal",
+        "school-calendar-backup",
+        "after-school-logistics-structure",
+        "late-delivery-contingency",
+        "home-systems-thinkingemotional_tone: \"positive\""
+      ],
+      "status": "closed",
+      "start": "2022-10-12T10:20:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "Danielle formalized her late-delivery pickup backup with Eleanor by giving her a labeled pouch containing a printed scho"
+      ]
+    }
+  ]
+}

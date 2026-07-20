@@ -1,0 +1,26 @@
+{
+  "month": "2022-04",
+  "slices": [
+    {
+      "id": "2022-04-11-0845",
+      "focus": "Pilot reveals backup shortage; skills circle launched",
+      "summary": "The scheduling-buffer pilot helps with start-time pileups but reveals a deeper vulnerability: one absence can still break the day because there's no backup bench. Lucia launches a monthly in-house interpreter skills circle — a voluntary lunch-hour training for bilingual clerks and staff who might become cross-trained backups. She keeps the format small and low-disruption (conference room, sandwiches, no budget line) to avoid bureaucratic resistance. The conversation covers session design (terminology, ethics, practical exercises), participant assessment (accuracy, role discipline, composure), and Lucia's awareness that she's not just fixing timing — she's trying to build actual coverage resilience through a training pipeline.",
+      "tags": [
+        "interpreter-skills-circle",
+        "voluntary-training-model",
+        "backup-capacity-building",
+        "bilingual-staff-development",
+        "courtroom-interpreter-ethics",
+        "hidden-capacity-discovery",
+        "resilience-over-patching",
+        "incremental-training-pipelineemotional_tone: neutral"
+      ],
+      "status": "closed",
+      "start": "2022-04-11T08:45:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "Lucia now pairs the court's scheduling-buffer pilot with a monthly in-house interpreter skills circle to build possible "
+      ]
+    }
+  ]
+}

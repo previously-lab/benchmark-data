@@ -1,0 +1,30 @@
+{
+  "month": "2023-02",
+  "slices": [
+    {
+      "id": "2023-02-02-2315",
+      "focus": "Kelli and Travis install a basic ramp for aging blue heeler Juno and patch the fence before winter worsens.",
+      "summary": "Juno starts slipping on icy back steps and a fence section gives way in hard winter wind, so Kelli and Travis pay for a basic ramp and partial fence repair. They choose basic and safe over ambitious, acknowledging that money is tight. Kelli notes the ramp changes how the yard feels — adapting the house to an older season — and plans a three-line spring follow-up list.",
+      "tags": [
+        "juno-ramp-installation",
+        "aging-dog-safety",
+        "fence-repair",
+        "winter-home-maintenance",
+        "travis-partnership",
+        "stable-enough-threshold",
+        "good-enough-spring-list",
+        "pet-care-adaptationemotional_tone: neutral"
+      ],
+      "status": "closed",
+      "start": "2023-02-02T23:15:00.000Z",
+      "open_loops": [
+        "Spring follow-up list not yet written (fence reassess, ramp traction, safety/cost check)",
+        "Weather-shift check-in point not yet set for temporary fixes",
+        "Kelli needs to protect one half-day weekend that isn't a project block"
+      ],
+      "decisions": [
+        "Kelli and Travis paid for a basic ramp off the back step after their aging blue heeler Juno started slipping there in wi"
+      ]
+    }
+  ]
+}

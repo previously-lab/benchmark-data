@@ -1,0 +1,31 @@
+{
+  "month": "2022-08",
+  "slices": [
+    {
+      "id": "2022-08-28-0105",
+      "focus": "A late-summer AC failure leaves archive materials damp, triggering salvage triage",
+      "summary": "An AC failure leaves one archive room damp for a weekend, making tape boxes clammy. Ariana pauses intake, triages affected materials into rebox vs. monitor categories, and plans an incident memo to push for better climate response protocols.",
+      "tags": [
+        "ac-failure",
+        "humidity-damage",
+        "damp-archive-room",
+        "salvage-triage",
+        "climate-response-gap",
+        "preservation-setback",
+        "incident-memo",
+        "intake-pauseemotional_tone: neutral"
+      ],
+      "status": "closed",
+      "start": "2022-08-28T01:05:00.000Z",
+      "open_loops": [
+        "Writing a climate-response checklist for future AC failures",
+        "Completing the salvage log and incident memo",
+        "Determining when to resume normal intake after stabilization"
+      ],
+      "decisions": [
+        "After a late-summer AC failure left one archive room damp for a weekend, Ariana paused parts of the oral-history intake ",
+        "Ariana became exhausted and shaken after the humidity scare, feeling angry but vindicated that climate control remained "
+      ]
+    }
+  ]
+}

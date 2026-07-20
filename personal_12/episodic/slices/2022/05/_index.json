@@ -1,0 +1,31 @@
+{
+  "month": "2022-05",
+  "slices": [
+    {
+      "id": "2022-05-09-1215",
+      "focus": "Devon confronts Ariana about work occupying every room at home",
+      "summary": "Devon tells Ariana her archive work has taken over the house. They negotiate two archive-free evenings per week, no donor calls during band-concert nights, and a clear-dinner-table rule. The relationship emerges with firmer, healthier boundaries.",
+      "tags": [
+        "relationship-boundaries",
+        "work-creep-at-home",
+        "devon-landry",
+        "archive-free-evenings",
+        "shared-time-protection",
+        "band-concert-nights",
+        "dinner-table-boundary",
+        "partnership-renegotiationemotional_tone: neutral"
+      ],
+      "status": "closed",
+      "start": "2022-05-09T12:15:00.000Z",
+      "open_loops": [
+        "Sustaining the two archive-free evenings per week consistently",
+        "Building a table-clearing ritual before protected evenings",
+        "Resetting expectations with work contacts about evening availability"
+      ],
+      "decisions": [
+        "Ariana is still partnered with Devon, but their relationship now has clearer boundaries around work taking over home lif",
+        "Devon remains a supportive partner and public school band director, but he pushed Ariana for firmer boundaries after con"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "month": "2023-07",
+  "slices": [
+    {
+      "id": "2023-07-14-0335",
+      "focus": "Duplicate object numbers discovered during audit force a wider overhaul including numbering reconciliation and image attachment checks",
+      "summary": "A conservation intern discovers duplicate object numbers in the works-on-paper cabinets, revealing years of inconsistent data entry. Hannah widens the overhaul to include numbering reconciliation and image attachment verification, imposing a temporary freeze on nonessential moves.",
+      "tags": [
+        "duplicate-object-numbers",
+        "numbering-reconciliation",
+        "image-attachment-checks",
+        "temporary-move-freeze",
+        "conservation-intern-discovery",
+        "identity-controlemotional_tone: neutral"
+      ],
+      "status": "closed",
+      "start": "2023-07-14T03:35:00.000Z",
+      "open_loops": [
+        "Write restart threshold with three visible checks: confirmed numbering, image attachment, shelf label",
+        "Circulate example packet (screenshots showing how mismatch traveled) with short note together",
+        "Prioritize cabinets and ranges most likely to have old numbering drift",
+        "Protect intern by framing discovery as systems alert, not personal fault-finding"
+      ],
+      "decisions": [
+        "Hannah remains registrar and widened the collections overhaul to include numbering reconciliation and image attachment c"
+      ]
+    }
+  ]
+}

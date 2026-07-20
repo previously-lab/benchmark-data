@@ -1,0 +1,32 @@
+{
+  "month": "2023-04",
+  "slices": [
+    {
+      "id": "2023-04-21-0610",
+      "focus": "Contractor prequalification problems and ownership document mismatches cause a trust crisis with corridor residents, forcing Caleb into damage-control mode",
+      "summary": "After the address-specific packets were finally working, contractor prequalification problems and mismatched ownership documents stall multiple household files at once. Residents start spreading word that the county overpromised. Caleb faces two bruising church-hall meetings, feeling discouraged and defensive. He develops a blocker-separation board to sort rumor from actual obstruction.",
+      "tags": [
+        "contractor-prequalification-crisis",
+        "ownership-document-mismatches",
+        "homeowner-trust-erosion",
+        "church-hall-meeting-difficulty",
+        "scope-recheck-uncertainty",
+        "defensiveness-recognition",
+        "blocker-separation-board",
+        "damage-control-mode",
+        "pre-bid-stage-collapseemotional_tone: neutral"
+      ],
+      "status": "closed",
+      "start": "2023-04-21T06:10:00.000Z",
+      "open_loops": [
+        "Call households with scope rechecks individually before next public meeting",
+        "Prepare cleaner public script with contained apology for timeline changes",
+        "Keep blocker-separation board current"
+      ],
+      "decisions": [
+        "Caleb was pulled into corridor damage-control work after contractor prequalification problems and mismatched ownership d",
+        "Caleb became discouraged and defensive once the contractor and documentation bottleneck made residents question whether"
+      ]
+    }
+  ]
+}

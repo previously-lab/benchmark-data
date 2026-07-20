@@ -1,0 +1,30 @@
+{
+  "month": "2022-08",
+  "slices": [
+    {
+      "id": "2022-08-24-0605",
+      "focus": "It has been a little while, and things have felt oddly calmer lately, at least i",
+      "summary": "Yeah, that is exactly it, the not-having-to-care-too-hard part",
+      "tags": [
+        "leisure-discovery",
+        "baseball-radio",
+        "evening-routine",
+        "decompression-ritual",
+        "home-environment",
+        "analog-comfort",
+        "low-stakes-joyemotional_tone: neutral"
+      ],
+      "status": "closed",
+      "start": "2022-08-24T06:05:00.000Z",
+      "open_loops": [
+        "Whether Jordan buys a cheap radio to separate the habit from her phone",
+        "Whether the 'baseball during dishes' rule solidifies or fades",
+        "The tension between having a low-stakes ritual and staying present",
+        "Whether to share the quirky habit with Luis or keep it private"
+      ],
+      "decisions": [
+        "Jordan developed a new low-stakes evening habit of listening to local baseball radio broadcasts while doing dishes."
+      ]
+    }
+  ]
+}

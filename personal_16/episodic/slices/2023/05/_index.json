@@ -1,0 +1,30 @@
+{
+  "month": "2023-05",
+  "slices": [
+    {
+      "id": "2023-05-29-0515",
+      "focus": "Front room flooring is finally laid, making downstairs feel like a real home again",
+      "summary": "Tom clears the front room of renovation tools and lays the flooring, making downstairs feel like a real home for the first time in months. Saira plans a defined renovation pause until after the wedding, protects downstairs as a tool-free zone, and sets a two-item finishing limit.",
+      "tags": [
+        "front-room-flooring",
+        "renovation-milestone",
+        "downstairs-livable",
+        "pre-wedding-progress",
+        "shared-accomplishment",
+        "renovation-pause",
+        "tool-free-zone",
+        "usable-over-polishedemotional_tone: neutral"
+      ],
+      "status": "closed",
+      "start": "2023-05-29T05:15:00.000Z",
+      "open_loops": [
+        "Rug and curtain still needed for the front room",
+        "Upstairs renovation paused but not abandoned",
+        "Need to agree on pause definition with Tom explicitly"
+      ],
+      "decisions": [
+        "Saira and Tom finally got the front room cleared of most renovation tools and laid the long-delayed flooring, making the"
+      ]
+    }
+  ]
+}

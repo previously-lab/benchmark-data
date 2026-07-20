@@ -1,0 +1,25 @@
+{
+  "month": "2023-01",
+  "slices": [
+    {
+      "id": "2023-01-27-0735",
+      "focus": "A lot has shifted lately, and work changed faster than I expected. Gordon retire",
+      "summary": "Gordon retires and hands Marissa the county oyster program's public leadership, including commission briefings, shoreline homeowner questions, and storm redesign explanations without his political buffer.",
+      "tags": [
+        "gordon-whitaker-retirement",
+        "program-public-face-transition",
+        "commission-briefing-preparation",
+        "shoreline-homeowner-engagement",
+        "institutional-memory-handoff",
+        "one-page-narrative-buildingemotional_tone: neutral"
+      ],
+      "status": "closed",
+      "start": "2023-01-27T07:35:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "After Gordon retired, Marisa became the primary public-facing lead for the county oyster program, handling commission br",
+        "Gordon is now retired and has shifted from an internal county protector to an occasional off-the-clock sounding board fo"
+      ]
+    }
+  ]
+}

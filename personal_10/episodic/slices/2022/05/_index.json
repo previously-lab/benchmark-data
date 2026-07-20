@@ -1,0 +1,30 @@
+{
+  "month": "2022-05",
+  "slices": [
+    {
+      "id": "2022-05-09-1120",
+      "focus": "Kelli starts a weekly low-key stretching class at the community center that relieves her shoulder and neck tightness.",
+      "summary": "A neighbor talks Kelli into a weekly stretching class at the community center for people with desk jobs. She finds real relief in her right shoulder and neck, notices better sleep and less irritability with chores, and decides to keep it as weekly 'maintenance' rather than aspirational self-care. She plans to ask for a 5-minute home routine from the instructor.",
+      "tags": [
+        "stretching-class",
+        "community-center",
+        "shoulder-neck-tension",
+        "desk-job-health",
+        "weekly-maintenance-routine",
+        "body-awareness",
+        "sleep-improvement",
+        "neighbor-connectionemotional_tone: neutral"
+      ],
+      "status": "closed",
+      "start": "2022-05-09T11:20:00.000Z",
+      "open_loops": [
+        "5-minute home routine not yet requested from instructor",
+        "Phone tracking notes (shoulder/neck/chores rating) not yet started",
+        "Habit still needs explicit scheduling protection at home"
+      ],
+      "decisions": [
+        "Kelli has started attending a simple weekly community-center stretching class for people with desk jobs."
+      ]
+    }
+  ]
+}

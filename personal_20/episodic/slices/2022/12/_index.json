@@ -1,0 +1,26 @@
+{
+  "month": "2022-12",
+  "slices": [
+    {
+      "id": "2022-12-05-1005",
+      "focus": "Eric presents quarterly logs at the year-end operations meeting showing lower spoilage and steadier on-time fresh arrivals on pilot routes, earning a small implementation budget for dock thermometers, laminated route sheets, and limited refresher calls with pantry staff.",
+      "summary": "Evidence-based persuasion succeeds: leadership approves Eric's first implementation budget for practical cold-chain tools (thermometers, laminated sheets, refresher calls), validating that his pilot work has moved from provisional experiment toward recognized operating practice.",
+      "tags": [
+        "work",
+        "finance",
+        "housing",
+        "goalsemotional_tone: neutral"
+      ],
+      "status": "closed",
+      "start": "2022-12-05T10:05:00.000Z",
+      "open_loops": [
+        "One-page rollout outline not yet written",
+        "Priority grid for which partner sites get refresher calls first",
+        "First-month success indicators not yet defined"
+      ],
+      "decisions": [
+        "Eric remained the cold-chain coordinator, but his spoilage-reduction pilot won a modest implementation budget for dock t"
+      ]
+    }
+  ]
+}

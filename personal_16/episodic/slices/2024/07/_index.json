@@ -1,0 +1,31 @@
+{
+  "month": "2024-07",
+  "slices": [
+    {
+      "id": "2024-07-02-1315",
+      "focus": "Saira and Tom open a dedicated savings pot for Lisbon and house contingencies",
+      "summary": "With the wedding paid off and renovation spending easing, Saira and Tom open a shared savings pot split between a Lisbon trip and a house contingency buffer. Saira sets a rule that family help comes from monthly cash flow, not the buffer, and plans a modest first threshold target.",
+      "tags": [
+        "savings-pot-opened",
+        "lisbon-trip-fund",
+        "house-buffer",
+        "shared-finances",
+        "financial-stability",
+        "post-wedding-budget",
+        "monthly-check-in",
+        "money-boundariesemotional_tone: neutral"
+      ],
+      "status": "closed",
+      "start": "2024-07-02T13:15:00.000Z",
+      "open_loops": [
+        "Monthly transfer amount not yet agreed with Tom",
+        "First house threshold target not yet set",
+        "Windfall/extra money rule not yet decided",
+        "Lisbon research (costs, months, neighborhoods) not yet done"
+      ],
+      "decisions": [
+        "Saira and Tom finally opened a dedicated savings pot after paying off the wedding and getting past the most urgent renov"
+      ]
+    }
+  ]
+}

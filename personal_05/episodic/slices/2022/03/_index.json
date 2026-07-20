@@ -1,0 +1,56 @@
+{
+  "month": "2022-03",
+  "slices": [
+    {
+      "id": "2022-03-10-2310",
+      "focus": "Leadership authorized Nathaniel to lead a first-pass redesign proposal for one priority corridor after his analysis landed well.",
+      "summary": "Nathaniel's corridor analysis, built on AVL logs, run-cut sheets, and field notes, convinces leadership to authorize him to lead a first-pass redesign proposal for a chronically late corridor. The shift from diagnostic to design feels significant but exposes him to new scrutiny.",
+      "tags": [
+        "cota",
+        "corridor-redesign",
+        "leadership-trust",
+        "data-driven-case",
+        "monica-framing",
+        "operations-planning",
+        "career-growth",
+        "avl-analysisemotional_tone: neutral"
+      ],
+      "status": "closed",
+      "start": "2022-03-10T23:10:00.000Z",
+      "open_loops": [
+        "First redesign proposal not yet drafted",
+        "One-page summary not yet written",
+        "Monica framing review not yet scheduled",
+        "Definition of success for first pass not fully locked"
+      ],
+      "decisions": [
+        "Nathaniel is still a senior transit scheduling analyst, but leadership authorized him to lead a first-pass redesign prop"
+      ]
+    },
+    {
+      "id": "2022-03-29-0350",
+      "focus": "Nathaniel discovers a Lebanese takeout spot at Elena's housewarming and adopts it as a regular late-work meal option.",
+      "summary": "A housewarming party at Elena's in Clintonville leads Nathaniel to discover a Lebanese takeout spot that becomes his default late-work dinner, replacing drive-through meals. The small routine helps reduce decision fatigue and improves his evenings.",
+      "tags": [
+        "elena-friendship",
+        "clintonville",
+        "lebanese-takeout",
+        "healthy-habits",
+        "work-life-balance",
+        "columbus-discovery",
+        "decision-fatigue",
+        "practical-routinesemotional_tone: neutral"
+      ],
+      "status": "closed",
+      "start": "2022-03-29T03:50:00.000Z",
+      "open_loops": [
+        "Three-option fallback meal plan not fully set up",
+        "Podcast/playlist rotation for note cleanup not locked",
+        "Running list of easy Columbus spots not started"
+      ],
+      "decisions": [
+        "After Elena's housewarming, Nathaniel added a new Lebanese takeout spot in Clintonville to his regular late-work dinner "
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "month": "2023-11",
+  "slices": [
+    {
+      "id": "2023-11-19-1110",
+      "focus": "Caleb rediscovers his enjoyment of older legal and civic procedural movies after a neighbor's backyard movie night, reclaiming a dormant leisure preference",
+      "summary": "Lena takes Caleb to a neighbor's backyard movie night featuring an older legal thriller. Caleb is surprised by how locked-in he gets, realizing he drifted away from procedural dramas without noticing. He now plans to keep a short list of older legal and civic procedurals sorted by mood, marking a recovery of active engagement over passive numbing.",
+      "tags": [
+        "legal-procedural-movie-discovery",
+        "civic-drama-preference",
+        "lena-quality-time",
+        "backyard-movie-night",
+        "leisure-taste-reclaiming",
+        "competence-and-process-storytelling",
+        "movie-mood-list-systememotional_tone: neutral"
+      ],
+      "status": "closed",
+      "start": "2023-11-19T11:10:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "Caleb renewed a taste for older legal and civic procedurals after a neighbor's backyard movie night held his attention m"
+      ]
+    }
+  ]
+}

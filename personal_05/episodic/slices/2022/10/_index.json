@@ -1,0 +1,33 @@
+{
+  "month": "2022-10",
+  "slices": [
+    {
+      "id": "2022-10-30-0600",
+      "focus": "Second corridor scoping reveals deeper problems: operator availability, relief logistics, and school dismissal peaks, not just timetable issues.",
+      "summary": "Nathaniel begins scoping the second corridor and discovers the problems extend far beyond timetable adjustments. Operator availability, relief travel logistics, and school bell time peaks all collide, pushing the work from schedule revision into depot coordination and staffing design.",
+      "tags": [
+        "cota",
+        "second-corridor",
+        "operator-availability",
+        "relief-logistics",
+        "school-bell-peaks",
+        "staffing-constraints",
+        "operations-design",
+        "monica-and-gregemotional_tone: neutral"
+      ],
+      "status": "closed",
+      "start": "2022-10-30T06:00:00.000Z",
+      "open_loops": [
+        "Three-pattern diagnostic deck not yet built",
+        "Monica framing review not yet scheduled",
+        "Greg field validation not yet obtained",
+        "Phased implementation plan not yet drafted",
+        "Risk of overpromising certainty on staffing-dependent fixes"
+      ],
+      "decisions": [
+        "Nathaniel's second corridor redesign expanded beyond timetable adjustment into operator piece design, relief logistics, ",
+        "Nathaniel is proud that the first corridor redesign held up, but the second corridor's staffing and relief complications"
+      ]
+    }
+  ]
+}

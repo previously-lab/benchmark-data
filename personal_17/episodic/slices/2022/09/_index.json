@@ -1,0 +1,55 @@
+{
+  "month": "2022-09",
+  "slices": [
+    {
+      "id": "2022-09-03-0055",
+      "focus": "A busy fall start forces Colleen to standardize volunteer-led tours with route cards, check-ins, and pacing rules.",
+      "summary": "More school buses than expected arrive in September, exposing that tours are not built for school-day clocks. Colleen calls a tense volunteer meeting using the apparatus floor map to show where time disappears. She introduces timed route cards, shorter story options, and guide check-in sheets. The hardest pushback comes from the most respected veteran guide. She plans one-on-one conversation to recruit him as a collaborator on the 'best short version.'",
+      "tags": [
+        "volunteer-standardization",
+        "timed-route-cards",
+        "tense-meeting",
+        "pacing-culture",
+        "school-logistics",
+        "leaderhip-test",
+        "operaional-triage",
+        "guide-check-insemotional_tone: neutral"
+      ],
+      "status": "closed",
+      "start": "2022-09-03T00:55:00.000Z",
+      "open_loops": [
+        "One-on-one with resistant veteran guide -- needs to be framed as recruitment, not correction",
+        "Fixed/flexible split on route cards to preserve personality where it matters",
+        "One-page rationale for volunteers explaining school-day constraints"
+      ],
+      "decisions": [
+        "Colleen's education-manager role has shifted from building the school program to managing a busier season and trying to "
+      ]
+    },
+    {
+      "id": "2022-09-29-1120",
+      "focus": "Colleen does a real financial reset, cutting freelance weekend tours to protect her voice and reworking her budget on a yellow legal pad.",
+      "summary": "At her parents' kitchen table, Colleen recalculates her budget knowing she needs fewer freelance walking-tour weekends to protect her voice. The museum salary ($52K) still covers basics, but the cushion is thinner. She cuts mindless spending, keeps deliberate comforts, creates a red-yellow-green system for deciding when to take extra work, and starts an 'annoying life' fund. The identity hit of not being the person who always says yes to extra work is harder than the math.",
+      "tags": [
+        "financial-reset",
+        "freelance-reduction",
+        "voice-protection",
+        "budget-tradeoff",
+        "family-finances",
+        "annoying-life-fund",
+        "household-organization",
+        "identity-shiftemotional_tone: neutral"
+      ],
+      "status": "closed",
+      "start": "2022-09-29T11:20:00.000Z",
+      "open_loops": [
+        "Red-yellow-green system needs concrete triggers (hours of speaking, need for amplification, end-of-day strain)",
+        "Dining room organization needed to reduce duplicate purchases and evening friction",
+        "Annoying-life fund as psychological buffer, grows slowly"
+      ],
+      "decisions": [
+        "Colleen reworked her budget after cutting back some freelance weekend walking tours because spring voice trouble made th"
+      ]
+    }
+  ]
+}

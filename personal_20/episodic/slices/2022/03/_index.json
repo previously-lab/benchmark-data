@@ -1,0 +1,28 @@
+{
+  "month": "2022-03",
+  "slices": [
+    {
+      "id": "2022-03-11-0615",
+      "focus": "Leadership formally tasks Eric with building a spoilage baseline report across Freestore Foodbank's regional perishables network after Patricia compiled three months of cooler alarms, rejected pallets, and late-arrival notes, expanding his scope beyond warehouse cleanup to pantry handoff analysis.",
+      "summary": "Eric receives a formal spoilage-baseline assignment that broadens his cold-chain scope from internal warehouse metrics to partner-pantry handoff analysis, marking his transition from operational worker to analytical change agent.",
+      "tags": [
+        "work",
+        "health",
+        "relationship",
+        "housing",
+        "goalsemotional_tone: neutral"
+      ],
+      "status": "closed",
+      "start": "2022-03-11T06:15:00.000Z",
+      "open_loops": [
+        "Partner-pantry calls to validate failure categories not yet made",
+        "One-page summary template not yet built",
+        "Blunt call with Samuel pending"
+      ],
+      "decisions": [
+        "Leadership informally assigned Eric to build a spoilage baseline report across Freestore Foodbank's regional perishables",
+        "Eric felt more tense but also newly focused because leadership was finally taking the spoilage problem seriously and exp"
+      ]
+    }
+  ]
+}

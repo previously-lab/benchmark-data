@@ -1,0 +1,28 @@
+{
+  "month": "2022-02",
+  "slices": [
+    {
+      "id": "2022-02-08-1150",
+      "focus": "Relationship strain leads to shared calendar and weekly check-in.",
+      "summary": "After Min-seo's calm but pointed complaint about finding Jae-hyun's schedule from fridge sticky notes, they adopt a shared weekly calendar with protected meal nights, sleep blocks after night shifts, and a Sunday check-in ritual to reduce the low-grade uncertainty eroding their newlywed rhythm.",
+      "tags": [
+        "marriage-communication",
+        "shared-calendar",
+        "shift-work-strain",
+        "sleep-protection",
+        "weekly-check-in",
+        "yeongdo-apartmentemotional_tone: neutral"
+      ],
+      "status": "closed",
+      "start": "2022-02-08T11:50:00.000Z",
+      "open_loops": [
+        "Long-term sustainability of check-in habit",
+        "Balancing family obligations against couple time",
+        "Impact of shift food choices on shared dinners"
+      ],
+      "decisions": [
+        "Jae-hyun and his wife Min-seo started using a shared weekly calendar and set check-in routines to reduce fights caused b"
+      ]
+    }
+  ]
+}
