@@ -1,6 +1,6 @@
 # Previously On — Benchmark Data
 
-Seeded conversation datasets for [Previously On](https://github.com/LikeDreamwalker/Aftrbrez).
+Seeded conversation datasets for [Previously On](https://github.com/previously-lab/agent).
 
 ## Source
 
@@ -17,13 +17,14 @@ personal_14/                  # Caleb Martin Hebert
 │   ├── slices/
 │   │   ├── YYYY/
 │   │   │   ├── MM/
-│   │   │   │   ├── DD.md          # time slice (YAML frontmatter + turns)
+│   │   │   │   ├── DD/
+│   │   │   │   │   └── HHMM.md      # time slice (YAML frontmatter + turns)
 │   │   │   │   └── ...
-│   │   │   └── _index.json         # monthly index
+│   │   │   └── _index.json          # monthly index
 │   │   └── ...
-│   └── strands.json                # keyword → slice-path index
+│   └── strands.json                 # keyword → slice-path index
 └── user/
-    └── profile.md                  # persona profile
+    └── profile.md                   # persona profile
 ```
 
 ## Usage
