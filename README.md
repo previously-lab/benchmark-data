@@ -1,12 +1,12 @@
-# Previously On — Benchmark Data
+# Previously — Benchmark Data
 
-Seeded conversation datasets for [Previously On](https://github.com/previously-lab/agent), a personal AI commander platform where cloud agents work while you're away and results are waiting when you return.
+Seeded conversation datasets for [Previously](https://github.com/previously-lab/agent), a personal AI commander platform where cloud agents work while you're away and results are waiting when you return.
 
-Each persona in this repository is a complete, ready-to-use episodic memory store — 30 multi-turn conversations spanning 3–4 years, with rich metadata designed for the Previously On memory architecture.
+Each persona in this repository is a complete, ready-to-use episodic memory store — 30 multi-turn conversations spanning 3–4 years, with rich metadata designed for the Previously memory architecture.
 
 ## Quick Start
 
-With Previously On deployed on Vercel, set one environment variable:
+With Previously deployed on Vercel, set one environment variable:
 
 ```
 DEMO_MODE=true
@@ -53,7 +53,7 @@ Each persona is a fictional individual with a coherent multi-year life story —
 | personal_19 | Nakamura Ayaka — operations coordinator, Hakata ferry terminal |
 | personal_20 | Eric Matthew Lang — cold-chain coordinator, Freestore Foodbank |
 
-### Previously On Memory Format
+### Previously Memory Format
 
 Each persona directory is a self-contained episodic memory store:
 
@@ -95,9 +95,9 @@ Every slice in this repository has been reviewed by Claude Haiku 4.5:
 
 This produces ~200–260 unique strands per persona, enabling precise conversational recall.
 
-## How Previously On Uses This Data
+## How Previously Uses This Data
 
-The Previously On app uses a **Flash/Pro split** memory architecture:
+Previously uses a **Flash/Pro split** memory architecture:
 
 1. **Flash** (fast, cheap model) scans monthly `_index.json` files and `strands.json` to identify relevant past conversations
 2. **Pro** (main agent model) deep-reads specific time slices when Flash finds matches
@@ -107,7 +107,7 @@ This repository provides the seed data so users can experience the full memory s
 
 ## Conversion
 
-The raw WorldMemArena JSON files are converted to Previously On format using `scripts/batch-convert.mjs` in the [Previously On repository](https://github.com/previously-lab/agent). Metadata enrichment is applied via `scripts/apply-enrichment.mjs` using Claude Haiku.
+The raw WorldMemArena JSON files are converted to Previously format using `scripts/batch-convert.mjs` in the [Previously repository](https://github.com/previously-lab/agent). Metadata enrichment is applied via `scripts/apply-enrichment.mjs` using Claude Haiku.
 
 To regenerate from source:
 
@@ -135,6 +135,6 @@ This means you are free to share and adapt this data for **non-commercial purpos
 
 ## Related Projects
 
-- [Previously On](https://github.com/previously-lab/agent) — The app that consumes this data
+- [Previously](https://github.com/previously-lab/agent) — The app that consumes this data
 - [WorldMemArena](https://huggingface.co/datasets/LCZZZZ/WorldMemArena) — The original benchmark dataset
 - [WorldMemArena Paper](https://arxiv.org/abs/2605.29341) — arXiv:2605.29341
