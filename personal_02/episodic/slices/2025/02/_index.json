@@ -1,0 +1,27 @@
+{
+  "month": "2025-02",
+  "slices": [
+    {
+      "id": "2025-02-18-1045",
+      "focus": "Father moves to senior apartment closer to Lucia and Daniel",
+      "summary": "After another winter wobble and a blunt doctor's conversation about mobility, Lucia's father Rogelio agrees to move from living alone on the West Side into a small senior apartment closer to Lucia and Daniel. The move reduces the driving chaos but maintains the responsibility — shifting from emergency transport to ongoing oversight. Lucia works to separate tasks into urgent/legal/sentimental categories, designs one folder system (physical + digital) with practical tabs (identification, lease, medical, medications, appointments, transportation), and plans a 'who-handles-what' list with her father to preserve his autonomy. She also creates different visit types (practical visits vs. coffee-and-sitting visits) to keep grief from hijacking logistics, and protects two evenings a week from automatic drop-ins.",
+      "tags": [
+        "father-senior-apartment-move",
+        "eldercare-transition",
+        "nearby-oversight-role",
+        "practical-folder-system",
+        "autonomy-preservation",
+        "guilt-and-relief-coexistence",
+        "visit-type-separation",
+        "daniel-household-protectionemotional_tone: neutral"
+      ],
+      "status": "closed",
+      "start": "2025-02-18T10:45:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "Rogelio moved from living alone on the West Side into a small senior apartment closer to Lucia and Daniel after another",
+        "Lucia still lives with Daniel in their Northeast Heights townhouse, but her father's move means he now lives nearby inst"
+      ]
+    }
+  ]
+}

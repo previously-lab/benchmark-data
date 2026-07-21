@@ -1,0 +1,30 @@
+{
+  "month": "2025-07",
+  "slices": [
+    {
+      "id": "2025-07-16-0425",
+      "focus": "Spending a rainy afternoon with Miki's sleepy senior rescue cat clarifies that Ayaka's future pet preference is for calm older companionship, not kitten energy.",
+      "summary": "A rainy holiday weekend leads Ayaka to spend an hour with Miki's senior rescue cat. The cat's undemanding presence (blinking, shifting to a warmer cushion, leaning against her leg) crystallizes her pet preference: she wants a calm older cat, not a kitten, but her current shift schedule cannot support one reliably. She decides to wait until her routine stabilizes, using the preference as a future goal rather than an immediate plan.",
+      "tags": [
+        "senior-cat",
+        "mikis-cat",
+        "pet-preference",
+        "calm-companionship",
+        "schedule-stability",
+        "future-planning",
+        "rainy-afternoon",
+        "self-knowledgeemotional_tone: neutral"
+      ],
+      "status": "closed",
+      "start": "2025-07-16T04:25:00.000Z",
+      "open_loops": [
+        "Preference may romanticize senior cats if only sampled from one very sweet cat",
+        "Schedule stability is not entirely within Ayaka's control",
+        "Future adoption timing remains vague"
+      ],
+      "decisions": [
+        "After spending an hour with Kuroda Miki's sleepy senior rescue cat during a rainy holiday weekend, Ayaka felt more certa"
+      ]
+    }
+  ]
+}

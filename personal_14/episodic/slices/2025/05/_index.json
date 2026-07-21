@@ -1,0 +1,30 @@
+{
+  "month": "2025-05",
+  "slices": [
+    {
+      "id": "2025-05-28-0505",
+      "focus": "Caleb presents corridor results to senior staff, framing success around reduced post-approval abandonment rather than attendance or awareness",
+      "summary": "Sharon asks Caleb to brief senior staff on corridor results, making him the lead presenter rather than just supplying numbers. He focuses on reduced post-approval abandonment as the real win, using resident photos, a marked corridor map, and dropout-stage counts. The presentation validates years of unglamorous follow-through work and establishes him as a builder of the method.",
+      "tags": [
+        "senior-staff-briefing",
+        "corridor-results-presentation",
+        "post-approval-abandonment-focus",
+        "dropout-stage-evidence",
+        "professional-credibility-growth",
+        "builder-of-method-role",
+        "tired-but-vindicated",
+        "plain-language-evidenceemotional_tone: neutral"
+      ],
+      "status": "closed",
+      "start": "2025-05-28T05:05:00.000Z",
+      "open_loops": [
+        "Write a one-page internal note with map image, stage-count table, and paragraph on visible starts",
+        "Save the phrasing that worked for future reviews"
+      ],
+      "decisions": [
+        "Caleb became the lead presenter of the corridor's adoption results to senior staff, framing progress around reduced post",
+        "Caleb felt tired but vindicated because the corridor finally had enough measurable movement for him to defend years of t"
+      ]
+    }
+  ]
+}

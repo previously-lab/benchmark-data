@@ -1,0 +1,30 @@
+{
+  "month": "2025-04",
+  "slices": [
+    {
+      "id": "2025-04-09-0935",
+      "focus": "Three straight quarters under denial target and shorter payment lag prove the turnaround is sustained, not luck.",
+      "summary": "Kelli can now document three straight quarters with first-pass denials under target and materially shorter payment lag. The network is calmer — far less month-end panic across clinics. She frames the sustained turnaround as the result of 'repeatable operating habits, not luck' and plans a one-page maintenance sheet (core metrics, owners, escalation thresholds). She feels protective of the process rather than territorial, and states her role has shifted from emergency responder to system operator.",
+      "tags": [
+        "sustained-turnaround-evidence",
+        "three-straight-quarters",
+        "first-pass-denial-target",
+        "payment-lag-reduction",
+        "month-end-calm",
+        "board-finance-presentation",
+        "repeatable-operating-habits",
+        "stewardship-over-correctionemotional_tone: neutral"
+      ],
+      "status": "closed",
+      "start": "2025-04-09T09:35:00.000Z",
+      "open_loops": [
+        "One-page maintenance sheet not yet finalized",
+        "Tighter spoken summary not yet rehearsed",
+        "Kelli needs to codify what she will no longer spend energy on (over-explaining)"
+      ],
+      "decisions": [
+        "By spring 2028, Kelli could document a successful claims-recovery turnaround with sustained low denial rates, shorter pa"
+      ]
+    }
+  ]
+}

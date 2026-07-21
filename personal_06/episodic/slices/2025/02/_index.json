@@ -1,0 +1,29 @@
+{
+  "month": "2025-02",
+  "slices": [
+    {
+      "id": "2025-02-04-1130",
+      "focus": "Rediscovering 1990s indie rock as the best soundtrack for labeling marathons during an archive-cleanout fundraiser",
+      "summary": "At a winter archive-cleanout fundraiser, Hannah rediscovers that late 1990s indie rock provides the ideal rhythm for sustained labeling work — familiar enough not to distract, structured enough to hold attention — and begins building a task-specific playlist.",
+      "tags": [
+        "1990s-indie-rock",
+        "archive-cleanout-fundraiser",
+        "labeling-marathon-tool",
+        "task-specific-soundtrack",
+        "practical-self-regulation",
+        "warmup-and-marathon-playlistemotional_tone: neutral"
+      ],
+      "status": "closed",
+      "start": "2025-02-04T11:30:00.000Z",
+      "open_loops": [
+        "Build core playlist + rotating outer ring to avoid saturation",
+        "Test on labeling block and documentation cleanup separately",
+        "Keep ritual small: tea, playlist, labels, timer, stretch break",
+        "10-minute test: if still reorganizing pencils at minute 11, the ritual has become procrastination"
+      ],
+      "decisions": [
+        "Hannah now treats late 1990s indie rock as her favorite soundtrack for repetitive labeling and documentation sessions."
+      ]
+    }
+  ]
+}

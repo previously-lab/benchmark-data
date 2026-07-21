@@ -1,0 +1,33 @@
+{
+  "month": "2025-05",
+  "slices": [
+    {
+      "id": "2025-05-30-0840",
+      "focus": "Spring completion meetings confirm back-to-back strong cohorts; first-year system becomes permanent program",
+      "summary": "The spring completion meetings mark the ultimate validation: back-to-back stronger cohorts, improved first-to-third-year retention, fewer repeat preventable safety write-ups, and foremen asking for redesigned-class graduates by name. The room's tone shifts from 'let's see if this experiment keeps working' to 'this is how first year runs now.' Derek feels relief more than pride — the emotional burden of proving the model lifts as the system institutionalizes. He resolves to write non-negotiables, set a review cadence, and formally distinguish between what must stay fixed and what is open to instructor style.",
+      "tags": [
+        "back-to-back-strong-cohorts",
+        "retention-safety-foreman-demand-triad",
+        "system-institutionalized",
+        "relief-over-pride",
+        "non-negotiable-vs-style-distinction",
+        "empty-room-proof-moment",
+        "steward-not-inventor",
+        "lighter-emotional-burdenemotional_tone: neutral"
+      ],
+      "status": "closed",
+      "start": "2025-05-30T08:40:00.000Z",
+      "open_loops": [
+        "Writing a clean one-page outcomes summary with the retention-safety-demand triad",
+        "Formally distinguishing non-negotiables from optional style elements",
+        "Setting a simple review checkpoint to prevent drift",
+        "Identifying at least one other person who can carry the system logic",
+        "Letting the relief settle before jumping into the next improvement"
+      ],
+      "decisions": [
+        "Years of Derek's notes, arguments, and contractor call lists have now solidified into a training system that Local 5 and",
+        "He feels lighter and more grounded because the apprenticeship overhaul now has hard proof behind it instead of resting o"
+      ]
+    }
+  ]
+}
