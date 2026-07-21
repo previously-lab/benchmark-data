@@ -1,0 +1,28 @@
+{
+  "month": "2025-06",
+  "slices": [
+    {
+      "id": "2025-06-18-1000",
+      "focus": "The full exhibition cycle completes without documentation scramble, validating the rebuilt system and Hannah's role",
+      "summary": "The large exhibition completes its full cycle (in and back out) without the old documentation scramble — object locations stayed correct, condition reports findable, crate records matching reality. Hannah presents a board-facing summary showing verified records near 98% and overdue catalog cleanup below the danger zone.",
+      "tags": [
+        "full-cycle-exhibition-success",
+        "board-facing-summary",
+        "lead-registrar-status",
+        "verified-digital-coverage",
+        "overdue-catalog-below-danger",
+        "system-reliability-demonstratedemotional_tone: neutral"
+      ],
+      "status": "closed",
+      "start": "2025-06-18T10:00:00.000Z",
+      "open_loops": [
+        "Formalize lead registrar role language in org charts and planning documents",
+        "Create standard closeout template so each project keeps generating evidence",
+        "Send follow-up note linking success to specific conditions: complete lender packets, verified locations, adequate registrar review time"
+      ],
+      "decisions": [
+        "Hannah is now the Providence Museum of Art's lead registrar for a substantially more reliable collections and loan syste"
+      ]
+    }
+  ]
+}

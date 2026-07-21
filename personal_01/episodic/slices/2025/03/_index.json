@@ -1,0 +1,24 @@
+{
+  "month": "2025-03",
+  "slices": [
+    {
+      "id": "2025-03-08-0140",
+      "focus": "A lot has shifted since we last talked, and this week felt like one of those mom",
+      "summary": "The fifth oyster site is installed via contractor barge in cold spring rain; Marisa updates the county dashboard to show five permitted, operating sites with annual monitoring and maintenance built into the work calendar.",
+      "tags": [
+        "fifth-site-installation-complete",
+        "contractor-barge-deployment",
+        "county-dashboard-five-sites",
+        "annual-monitoring-calendar-embedded",
+        "buildout-to-operations-transition",
+        "program-institutionalization-milestoneemotional_tone: neutral"
+      ],
+      "status": "closed",
+      "start": "2025-03-08T01:40:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "Marisa now oversees five permitted and operating oyster-habitat sites for Pierce County, with annual monitoring and main"
+      ]
+    }
+  ]
+}

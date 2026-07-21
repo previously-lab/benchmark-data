@@ -1,0 +1,30 @@
+{
+  "month": "2025-01",
+  "slices": [
+    {
+      "id": "2025-01-22-0330",
+      "focus": "Leadership adopts Ayaka's bad-weather manual as standard guidance and gives her a formal resilience coordination remit inside her operations role.",
+      "summary": "Leadership reviews two storm seasons of data and adopts Ayaka's bad-weather manual as the standard guidance for island disruption days. She receives a formal resilience coordination remit inside her operations role — responsible for keeping the manual current, notice standards on disruption days, and emergency cargo staging procedures. She navigates the new accountability by designing a simple version log (monthly minor revisions, clear escalation thresholds) and an issue intake form (immediate hazard / process gap / training confusion). She sends Mori a quiet 'you were annoyingly correct' message.",
+      "tags": [
+        "manual-adoption",
+        "resilience-remit",
+        "formal-recognition",
+        "evidence-based-approval",
+        "institutional-ownership",
+        "boundary-early",
+        "version-log",
+        "milestone-landingemotional_tone: neutral"
+      ],
+      "status": "closed",
+      "start": "2025-01-22T03:30:00.000Z",
+      "open_loops": [
+        "Formal remit could make Ayaka a single point of failure for all storm issues",
+        "Issue intake form needs adoption by others to prevent corridor ambushes",
+        "Version log may become bureaucratic if not kept lean"
+      ],
+      "decisions": [
+        "Ayaka is now a mid-career operations coordinator with a formal resilience coordination remit inside her existing termina"
+      ]
+    }
+  ]
+}

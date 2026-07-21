@@ -1,0 +1,31 @@
+{
+  "month": "2025-08",
+  "slices": [
+    {
+      "id": "2025-08-21-0755",
+      "focus": "A lot has shifted since we last talked, and this one feels like a real marker. I",
+      "summary": "In a late-summer leadership review, Monica presents evidence that both targeted north-side corridors have reached a visibly safer baseline — faster high-risk reinspections, fewer prolonged open chronic-offender cases, and declined repeat complaint blocks; the recognition confirms her three-year enforcement strategy, leaving her more grounded than triumphant.",
+      "tags": [
+        "leadership-review-recognition",
+        "safer-baseline-confirmation",
+        "two-corridor-outcome-data",
+        "faster-high-risk-reinspection-evidence",
+        "repeat-complaint-block-decline",
+        "chronic-offender-case-closure",
+        "vindicated-conflict-tired",
+        "three-part-outcome-storyemotional_tone: neutral"
+      ],
+      "status": "closed",
+      "start": "2025-08-21T07:55:00.000Z",
+      "open_loops": [
+        "Take one quiet night to absorb the recognition",
+        "Write one-page note about the review while fresh",
+        "Lock down 2-3 protections for the process based on review learnings"
+      ],
+      "decisions": [
+        "Monica was recognized in a late-summer leadership review for bringing two targeted north-side rental corridors to a visi",
+        "Seeing measurable safer-housing gains left Monica still conflict-tired but more grounded and vindicated about the system"
+      ]
+    }
+  ]
+}

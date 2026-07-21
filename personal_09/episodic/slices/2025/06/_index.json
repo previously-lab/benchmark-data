@@ -1,0 +1,32 @@
+{
+  "month": "2025-06",
+  "slices": [
+    {
+      "id": "2025-06-21-0710",
+      "focus": "Journey's End adopts Nadia's intake model as the agency's standing frontline process after proven results.",
+      "summary": "After 3+ years of building, Nadia presents midyear numbers showing the agency serves roughly a third more newly arrived families while maintaining ~10-day first housing placement and keeping follow-up misses below the old norm. Leadership adopts her intake and follow-up model as the agency's standing frontline process. Nadia feels less braced for preventable failure. She plans to draft a one-page memo with results and conditions, then make one concrete ask for protected training time and documentation upkeep authority to prevent the adoption from becoming merely symbolic.",
+      "tags": [
+        "agency-adoption",
+        "standing-frontline-process",
+        "quarter-over-quarter-numbers",
+        "thirty-percent-more-families",
+        "ten-day-housing-target",
+        "low-turnover-evidence",
+        "from-personal-effort-to-institutional-structure",
+        "training-time-askemotional_tone: neutral"
+      ],
+      "status": "closed",
+      "start": "2025-06-21T07:10:00.000Z",
+      "open_loops": [
+        "Draft one-page memo summarizing results and conditions that produced them",
+        "Make one concrete ask: protected training time and documentation upkeep authority",
+        "Define success markers (quarterly training blocks, explicit revision ownership)",
+        "Preserve conditions that made the 30% capacity increase possible — don't let it become a squeeze"
+      ],
+      "decisions": [
+        "Journey's End adopted Nadia's intake and follow-up model as the agency's standing frontline process.",
+        "Nadia still feels nonprofit-work stress, but agency adoption of the system she built has made her feel less constantly b"
+      ]
+    }
+  ]
+}

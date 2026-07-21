@@ -1,0 +1,30 @@
+{
+  "month": "2025-03",
+  "slices": [
+    {
+      "id": "2025-03-09-1005",
+      "focus": "A Mori-recommended Japanese drama about municipal crisis response crystallizes Ayaka's film preference toward low-key procedural storytelling over fantasy or melodrama.",
+      "summary": "During a calmer stretch, Mori recommends a Japanese drama about municipal crisis response. Ayaka finds herself drawn to its restraint, its attention to small practical details, and its framing of competent procedure as meaningful rather than dull. She recognizes her preference has sharpened from 'generally liking grounded dramas' to specifically seeking low-key workplace and civic-response stories. She creates a short three-title watchlist and plans to keep one evening every week or two as a deliberate slow-watch ritual.",
+      "tags": [
+        "mori-recommendation",
+        "municipal-drama",
+        "crisis-response-film",
+        "preference-sharpening",
+        "competent-procedure",
+        "grounded-storytelling",
+        "texture-over-plot",
+        "slow-watch-ritualemotional_tone: neutral"
+      ],
+      "status": "closed",
+      "start": "2025-03-09T10:05:00.000Z",
+      "open_loops": [
+        "Sharpened preference may not hold if stress levels spike again",
+        "Watchlist could become homework if over-structured",
+        "One friend (Mori) may tire of being the sole recommendation source"
+      ],
+      "decisions": [
+        "Ayaka's movie preference sharpened from generally liking grounded Japanese dramas to being especially drawn to low-key c"
+      ]
+    }
+  ]
+}
