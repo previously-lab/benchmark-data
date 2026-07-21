@@ -1,0 +1,30 @@
+{
+  "month": "2025-06",
+  "slices": [
+    {
+      "id": "2025-06-22-1110",
+      "focus": "It has been a while since we chatted, and things have actually felt a little mor",
+      "summary": "Yeah, that is why it landed for me",
+      "tags": [
+        "weekend-trip",
+        "older-cat-adoption",
+        "future-planning",
+        "relationship-quality",
+        "restorative-break",
+        "pet-preference",
+        "sustainable-livingemotional_tone: neutral"
+      ],
+      "status": "closed",
+      "start": "2025-06-22T11:10:00.000Z",
+      "open_loops": [
+        "Whether the cat timeline gets pinned to specific stability markers or remains vague",
+        "Whether the care-limits red lines (medication complexity, vet frequency) are defined",
+        "Whether the short-practical-trip preference becomes a more regular pattern",
+        "Whether Jordan improves at noticing when she is canceling rest on herself"
+      ],
+      "decisions": [
+        "After a restorative long weekend in Hood River, Jordan became more specifically committed to eventually adopting an olde"
+      ]
+    }
+  ]
+}

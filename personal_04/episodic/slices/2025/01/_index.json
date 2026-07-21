@@ -1,0 +1,33 @@
+{
+  "month": "2025-01",
+  "slices": [
+    {
+      "id": "2025-01-11-0635",
+      "focus": "Tasha secures budget for volunteer training materials and part-time admin support; receives modest raise",
+      "summary": "Tasha achieves a structural win: budget approval for volunteer training materials and part-time administrative help for roster maintenance, plus a modest salary increase tied to her expanded responsibilities. The agent helps her plan a three-bucket task handoff (repetitive/rules-based tasks go first, exceptions documented, higher-stakes pattern-reading kept), use the old binder as a training map, define ninety-day stability goals (fewer after-hours corrections, cleaner rosters, materials flowing without last-minute assembly), and split the raise between savings cushion and time-buying convenience. Tasha recognizes the real milestone: 'The system stops depending on my private reserve of labor.' She commits to capping version-one documents and not filling the breathing room with new projects.",
+      "tags": [
+        "budget-approval-admin-support",
+        "volunteer-training-materials-stipend",
+        "modest-salary-increase",
+        "binder-to-training-map",
+        "three-bucket-task-handoff",
+        "support-vs-overfunctioning",
+        "ninety-day-stability-definition",
+        "system-holding-own-weightemotional_tone: neutral"
+      ],
+      "status": "closed",
+      "start": "2025-01-11T06:35:00.000Z",
+      "open_loops": [
+        "Three-bucket task handoff list — to be created",
+        "Binder-to-training-map conversion — to be started",
+        "Ninety-day stability goals — defined but not formalized",
+        "Admin onboarding materials (packet, checklist, exception sheet) — to be drafted",
+        "Raise allocation: savings cushion + time-buying spend — to be implemented"
+      ],
+      "decisions": [
+        "At the start of 2028, Tasha secured budget approval for volunteer training materials and part-time administrative help f",
+        "Tasha's finances became slightly less constricting because her expanded responsibilities came with a modest salary incre"
+      ]
+    }
+  ]
+}

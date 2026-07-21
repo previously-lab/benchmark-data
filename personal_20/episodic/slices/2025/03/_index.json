@@ -1,0 +1,29 @@
+{
+  "month": "2025-03",
+  "slices": [
+    {
+      "id": "2025-03-07-1255",
+      "focus": "Eric and Danielle use a tax refund to rebuild their emergency fund and pay down the lingering credit-card balance from the AC repair and shed install, establishing a minimum-savings floor and shared financial rule for future windfalls.",
+      "summary": "A tax refund enables Eric and Danielle to restore a modest emergency cushion and clear the repair debt that had been weighing on the household, with agreements on a savings floor and future-windfall rules to prevent the old cycle from repeating.",
+      "tags": [
+        "work",
+        "health",
+        "finance",
+        "education",
+        "housing",
+        "leisure",
+        "goals",
+        "environmentemotional_tone: neutral"
+      ],
+      "status": "closed",
+      "start": "2025-03-07T12:55:00.000Z",
+      "open_loops": [
+        "Minimum savings floor not yet formally defined with Danielle",
+        "One small acknowledgment of the progress not yet chosen"
+      ],
+      "decisions": [
+        "A tax refund let Eric and Danielle finally rebuild a modest emergency fund and pay down the small credit-card balance le"
+      ]
+    }
+  ]
+}

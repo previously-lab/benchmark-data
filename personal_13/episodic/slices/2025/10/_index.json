@@ -1,0 +1,25 @@
+{
+  "month": "2025-10",
+  "slices": [
+    {
+      "id": "2025-10-24-0515",
+      "focus": "It has been a while since we talked, and a lot has shifted at work in a good way",
+      "summary": "Honestly, the semester numbers gave me the nerve to do it",
+      "tags": [
+        "district-logistics-playbook-delivered",
+        "vendor-mid-90s-on-time",
+        "emergency-substitution-reduction",
+        "buddy-kitchen-route-implementation",
+        "photo-standard-verification",
+        "stewardship-over-persuasion-shiftemotional_tone: \"positive\""
+      ],
+      "status": "closed",
+      "start": "2025-10-24T05:15:00.000Z",
+      "open_loops": [],
+      "decisions": [
+        "Danielle completed the district nutrition logistics playbook as a working operating packet that campuses are already usi",
+        "The smoother semester left Danielle less constantly braced for crisis and more confident that kitchens were no longer im"
+      ]
+    }
+  ]
+}

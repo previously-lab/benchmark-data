@@ -1,0 +1,31 @@
+{
+  "month": "2025-05",
+  "slices": [
+    {
+      "id": "2025-05-30-0740",
+      "focus": "Colleen closes the school year at 70+ bookings and 18+ schools, with three rebooked packages and multiple clean volunteer-led visits.",
+      "summary": "Colleen closes the 2027-2028 school-year tracker: 70+ booked class visits or outreach programs, 18+ district or charter schools, three program packages being rebooked by teachers, and multiple volunteer-led visits running cleanly without her intervention. The evidence matches what the work has felt like day-to-day. She feels deeply relieved rather than hyped, recognizing the program is now dependable rather than fragile. She plans a one-page summary leading with 'dependable year-round program' backed by specific metrics, ending with what to protect next year (repeat-ready packages, volunteer consistency, school follow-through).",
+      "tags": [
+        "year-end-milestone",
+        "70-bookings",
+        "18-schools",
+        "three-packages-rebooked",
+        "volunteer-led-success",
+        "durable-program",
+        "institutional-legitimacy",
+        "deep-reliefemotional_tone: neutral"
+      ],
+      "status": "closed",
+      "start": "2025-05-30T07:40:00.000Z",
+      "open_loops": [
+        "One-page end-of-year summary: lead with dependable year-round, back with 70+/18+, three rebooked packages, volunteer-led visits",
+        "Name three nonnegotiables to protect: repeat-ready packages, volunteer-led standard flow, follow-up rhythm",
+        "Frame next phase as 'preserving reliability' not chasing novelty"
+      ],
+      "decisions": [
+        "By the close of the 2027 to 2028 school year, Colleen's education program had reached at least 70 booked class visits or",
+        "Colleen feels deeply relieved and validated because the school program now looks durable, measurable, and genuinely usef"
+      ]
+    }
+  ]
+}

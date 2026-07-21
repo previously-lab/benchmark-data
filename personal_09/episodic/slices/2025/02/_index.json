@@ -1,0 +1,32 @@
+{
+  "month": "2025-02",
+  "slices": [
+    {
+      "id": "2025-02-04-1055",
+      "focus": "Nadia says yes to a documentary night at Rukhsana's, sparking an immigration podcast habit for short drives.",
+      "summary": "Nadia accepts a social invitation from Rukhsana for a documentary night — a sign of more breathing room. The documentary about neighborhood belonging sparks discussion and leads Nadia to start listening to local immigration reporting podcasts during her short drives between work, home, and errands. She plans to keep a default short episode downloaded, separate heavier listens from the morning commute, ask Rukhsana for 2-3 podcast recommendations, and consider hosting Rukhsana back with a simple tea-and-dessert template.",
+      "tags": [
+        "documentary-night",
+        "rukhsana-invitation",
+        "omar-social-easing",
+        "immigration-reporting-podcasts",
+        "local-civic-reporting",
+        "short-drive-decompression",
+        "hosting-ambition",
+        "low-pressure-social-lifeemotional_tone: neutral"
+      ],
+      "status": "closed",
+      "start": "2025-02-04T10:55:00.000Z",
+      "open_loops": [
+        "Keep one short podcast episode downloaded as default for drives",
+        "Separate heavier reporting listens from morning commute (save for drive home)",
+        "Ask Rukhsana for 2-3 favorite recommendations",
+        "Consider hosting Rukhsana back with a simple tea template",
+        "Keep one-line notes per episode — just enough to remember what stayed"
+      ],
+      "decisions": [
+        "After a documentary night at Rukhsana's house, Nadia got into local immigration reporting podcasts for short drives betw"
+      ]
+    }
+  ]
+}
