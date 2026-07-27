@@ -20,7 +20,7 @@
   "revenue-cycle-lead": [
     "2022/01/05/2340"
   ],
-  "health-information-managementemotional_tone: neutral": [
+  "health-information-management": [
     "2022/01/05/2340"
   ],
   "claims-turnaround-project": [
@@ -55,7 +55,7 @@
   "aging-claims-triage": [
     "2022/01/21/1010"
   ],
-  "workplace-boundariesemotional_tone: neutral": [
+  "workplace-boundaries": [
     "2022/01/21/1010"
   ],
   "workplace-communication": [
@@ -79,7 +79,7 @@
   "conflict-avoidance-pattern": [
     "2022/02/11/1225"
   ],
-  "90s-country-musicemotional_tone: neutral": [
+  "90s-country-music": [
     "2022/02/11/1225"
   ],
   "denial-reduction-pilot": [
@@ -100,7 +100,7 @@
   "dr-owen-leland-stakeholder": [
     "2022/03/07/0945"
   ],
-  "front-desk-cheat-sheetsemotional_tone: neutral": [
+  "front-desk-cheat-sheets": [
     "2022/03/07/0945"
   ],
   "kitchen-table-talk": [
@@ -124,7 +124,7 @@
   "caregiver-burnout": [
     "2022/03/29/0130"
   ],
-  "protected-half-dayemotional_tone: neutral": [
+  "protected-half-day": [
     "2022/03/29/0130"
   ],
   "pilot-expansion": [
@@ -148,7 +148,7 @@
   "reporting-consistency": [
     "2022/04/18/0855"
   ],
-  "monica-wren-allyemotional_tone: neutral": [
+  "monica-wren-ally": [
     "2022/04/18/0855"
   ],
   "stretching-class": [
@@ -172,7 +172,7 @@
   "sleep-improvement": [
     "2022/05/09/1120"
   ],
-  "neighbor-connectionemotional_tone: neutral": [
+  "neighbor-connection": [
     "2022/05/09/1120"
   ],
   "hypertension-scare": [
@@ -193,7 +193,7 @@
   "senior-biller-ownership": [
     "2022/06/14/0305"
   ],
-  "home-blood-pressure-cuffemotional_tone: neutral": [
+  "home-blood-pressure-cuff": [
     "2022/06/14/0305"
   ],
   "transmission-rebuild": [
@@ -218,7 +218,7 @@
   "truck-repair-cycle": [
     "2022/07/02/1210"
   ],
-  "vehicle-and-medical-bufferemotional_tone: neutral": [
+  "vehicle-and-medical-buffer": [
     "2022/07/02/1210"
   ],
   "first-pass-denial-improvement": [
@@ -239,7 +239,7 @@
   "repeat-error-accountability": [
     "2022/08/15/0740"
   ],
-  "denial-pattern-evidenceemotional_tone: neutral": [
+  "denial-pattern-evidence": [
     "2022/08/15/0740"
   ],
   "used-air-fryer": [
@@ -263,7 +263,7 @@
   "freezer-backup-plan": [
     "2022/09/07/0615"
   ],
-  "index-card-meal-listemotional_tone: neutral": [
+  "index-card-meal-list": [
     "2022/09/07/0615"
   ],
   "rushed-software-transition": [
@@ -284,7 +284,7 @@
   "vendor-risk-documentation": [
     "2022/10/22/0925"
   ],
-  "parallel-claim-checks-deniedemotional_tone: neutral": [
+  "parallel-claim-checks-denied": [
     "2022/10/22/0925"
   ],
   "library-birthday": [
@@ -308,7 +308,7 @@
   "restore-vs-engage": [
     "2022/11/16/1040"
   ],
-  "budget-friendly-celebrationemotional_tone: neutral": [
+  "budget-friendly-celebration": [
     "2022/11/16/1040"
   ],
   "software-go-live-failure": [
@@ -329,7 +329,7 @@
   "rollback-threshold": [
     "2023/01/12/1105"
   ],
-  "evidence-packet-buildingemotional_tone: neutral": [
+  "evidence-packet-building": [
     "2023/01/12/1105"
   ],
   "juno-ramp-installation": [
@@ -350,7 +350,7 @@
   "good-enough-spring-list": [
     "2023/02/02/2315"
   ],
-  "pet-care-adaptationemotional_tone: neutral": [
+  "pet-care-adaptation": [
     "2023/02/02/2315"
   ],
   "shared-defect-log": [
@@ -371,7 +371,7 @@
   "intake-tab-separation": [
     "2023/03/18/0830"
   ],
-  "three-step-fix-datesemotional_tone: neutral": [
+  "three-step-fix-dates": [
     "2023/03/18/0830"
   ],
   "rural-hospital-memoir": [
@@ -395,7 +395,7 @@
   "commitment-to-light-reading": [
     "2023/04/24/0510"
   ],
-  "hardware-store-recommendationemotional_tone: neutral": [
+  "hardware-store-recommendation": [
     "2023/04/24/0510"
   ],
   "two-track-workstreams": [
@@ -419,7 +419,7 @@
   "blame-reduction": [
     "2023/05/27/1050"
   ],
-  "evidence-based-sortingemotional_tone: neutral": [
+  "evidence-based-sorting": [
     "2023/05/27/1050"
   ],
   "hypertension-medication": [
@@ -443,7 +443,7 @@
   "neck-shoulder-tension": [
     "2023/06/21/0800"
   ],
-  "self-care-hierarchyemotional_tone: neutral": [
+  "self-care-hierarchy": [
     "2023/06/21/0800"
   ],
   "payment-lag-improvement": [
@@ -464,7 +464,7 @@
   "regression-habits": [
     "2023/08/08/0235"
   ],
-  "site-specific-trackingemotional_tone: neutral": [
+  "site-specific-tracking": [
     "2023/08/08/0235"
   ],
   "dialysis-access-site-scare": [
@@ -488,7 +488,7 @@
   "proud-parent-conversation": [
     "2023/09/14/1245"
   ],
-  "one-page-checklistemotional_tone: neutral": [
+  "one-page-checklist": [
     "2023/09/14/1245"
   ],
   "denial-aging-dashboard": [
@@ -509,7 +509,7 @@
   "owner-payer-next-action": [
     "2023/11/05/0955"
   ],
-  "steering-over-scramblingemotional_tone: neutral": [
+  "steering-over-scrambling": [
     "2023/11/05/0955"
   ],
   "clinic-holiday-potluck": [
@@ -533,7 +533,7 @@
   "music-taste-expansion": [
     "2023/12/18/1130"
   ],
-  "gentler-evening-on-rampemotional_tone: neutral": [
+  "gentler-evening-on-ramp": [
     "2023/12/18/1130"
   ],
   "payer-rule-change-detection": [
@@ -554,7 +554,7 @@
   "system-maturity-milestone": [
     "2024/02/09/0820"
   ],
-  "contained-responseemotional_tone: neutral": [
+  "contained-response": [
     "2024/02/09/0820"
   ],
   "coast-trip-sinking-fund": [
@@ -578,7 +578,7 @@
   "raid-rules": [
     "2024/03/27/0405"
   ],
-  "hopeful-budget-categoryemotional_tone: neutral": [
+  "hopeful-budget-category": [
     "2024/03/27/0405"
   ],
   "front-desk-onboarding-training": [
@@ -599,7 +599,7 @@
   "top-five-mistakes-sheet": [
     "2024/06/16/1000"
   ],
-  "observer-not-instructoremotional_tone: neutral": [
+  "observer-not-instructor": [
     "2024/06/16/1000"
   ],
   "oregon-coast-trip": [
@@ -623,7 +623,7 @@
   "coast-style-travel": [
     "2024/08/11/1310"
   ],
-  "better-calibrationemotional_tone: neutral": [
+  "better-calibration": [
     "2024/08/11/1310"
   ],
   "board-recognition": [
@@ -644,7 +644,7 @@
   "proof-based-process-improvement": [
     "2024/10/24/0715"
   ],
-  "grounded-competenceemotional_tone: neutral": [
+  "grounded-competence": [
     "2024/10/24/0715"
   ],
   "juno-euthanasia": [
@@ -668,7 +668,7 @@
   "replacement-habit": [
     "2025/01/13/0050"
   ],
-  "muted-grief-fatigueemotional_tone: neutral": [
+  "muted-grief-fatigue": [
     "2025/01/13/0050"
   ],
   "sustained-turnaround-evidence": [
@@ -692,7 +692,7 @@
   "repeatable-operating-habits": [
     "2025/04/09/0935"
   ],
-  "stewardship-over-correctionemotional_tone: neutral": [
+  "stewardship-over-correction": [
     "2025/04/09/0935"
   ]
 }

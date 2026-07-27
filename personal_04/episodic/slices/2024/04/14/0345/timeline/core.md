@@ -1,0 +1,145 @@
+---
+slice_id: 2024-04-14-0345
+focus: "Two palliative practices adopt Tasha's referral packet; group attendance stabilizes across county sites"
+status: closed
+start: "2024-04-14T03:45:00.000Z"
+end: "2024-04-14T05:11:00.000Z"
+timezone: America/Chicago
+summary: "Tasha's clinic outreach crosses a milestone when two palliative practices agree to use her bereavement referral packet and designate named point people for handoffs. The result is measurable: monthly groups in Cary and southeast Raleigh fill more consistently without the swings that used to plague them. Tasha recognizes this as the first time external partners have adopted her tools, proving the program real beyond her own department. The agent helps her frame the update around 'mechanism' (the reporting shows cause and effect between cleaner handoffs and steadier turnout), plan partner-specific reporting for leadership, add a simple referral-quality checkbox, and stabilize before expanding further. Tasha plans to write the update with reporting first, attendance second, and a clear 'stabilize these two partners' stance."
+decisions:
+  - "Tasha's clinic outreach paid off when two palliative practices agreed to use her bereavement referral packet and named p"
+tags:
+  - palliative-practice-packet-adoption
+  - named-handoff-contacts
+  - partner-specific-referral-data
+  - fuller-monthly-groups
+  - cary-southeast-raleigh-access
+  - stabilize-before-expanding
+  - mechanism-over-outcome
+  - pilot-language-with-evidence
+open_loops:
+  - Partner-specific report for leadership — to be written
+  - Referral quality checkbox (complete / partially complete / needed follow-up) — to be added
+  - Light operational feedback from two practices — one narrow question each
+  - Review point after 1-2 more reporting cycles before expanding
+emotional_tone: "positive"
+---
+## Turn 1 — 2024-04-14T03:45:00.000Z (user)
+
+A lot has shifted since we last talked, and for once it is in a way that feels solid instead of just busy. The outreach work I have been pushing actually started paying off. Two palliative practices agreed to use my bereavement referral packet, and they each named a point person for bereavement handoffs instead of sending things over in a vague way. It feels like I have crossed from trying to sell an idea into actually leading a bereavement program with real clinic referral partners.
+
+## Turn 2 — 2024-04-14T03:47:00.000Z (agent)
+
+That is a real shift, not just more activity. You are describing outside practices actually adopting the tools, which is very different from simply introducing them. It also fits the way you tend to work, you waited until the process felt sturdy enough to put in front of other people, and now you have proof that the groundwork held. What changed for those two practices, was it the packet itself, the named point people, or just enough repetition that they finally trusted the handoff?
+
+## Turn 3 — 2024-04-14T03:50:00.000Z (user)
+
+I think it was a mix, but the biggest thing is that the packet stopped being theoretical. They could see exactly what would happen after a death, month by month, and the point person piece made it feel less like dropping families into a black hole. Now when somebody is referred, I know who is supposed to send what and who I can call if it gets stuck. That alone has cut down so much ambiguity.
+
+## Turn 4 — 2024-04-14T03:54:00.000Z (agent)
+
+That makes sense, because people will tolerate a lot of paperwork if the next step is unmistakable. Named handoff contacts are not glamorous, but they are often the difference between a program existing on paper and a family actually getting reached. I would treat that clarity as one of the main wins when you talk about this internally, not just the referral volume. Are you already seeing the effect in actual group attendance, or is it still too early?
+
+## Turn 5 — 2024-04-14T03:56:00.000Z (user)
+
+I am seeing it already, which is the part that surprised me. The monthly groups in Cary and southeast Raleigh are filling more consistently now instead of having those weird swings where one month is thin and the next month is packed. It finally feels like the countywide sites and the clinic outreach are connecting to each other the way I hoped they would. That has been weirdly emotional for me, honestly.
+
+## Turn 6 — 2024-04-14T03:59:00.000Z (agent)
+
+I can see why, because this is the first moment where the earlier structure and the newer outreach are feeding each other instead of living in separate buckets. Fuller groups in those areas suggest you did not just expand for appearances, you built local access and then created a steadier stream into it. That kind of validation can hit hard when you have been carrying the logic of it mostly by yourself. When you say emotional, does it feel more like relief, pride, or a little fear that success will bring even more onto your plate?
+
+## Turn 7 — 2024-04-14T04:03:00.000Z (user)
+
+Mostly relief with a side of pride, and yes, a little worry about what happens next. I also finally have partner-specific numbers for the reports, which is new for me. Before, I could talk about total attendance and general follow-up, but now I can actually say what came from which practice and what happened after that. Do you think I should lead with the fuller groups when I talk to leadership, or lead with the cleaner reporting?
+
+## Turn 8 — 2024-04-14T04:05:00.000Z (agent)
+
+I would lead with the reporting, then use the fuller groups as the human consequence of that cleaner system. Partner-specific numbers give you credibility because they show cause and effect, not just busier rooms. Once leadership sees that you can explain outcomes by partner, the attendance picture lands as evidence instead of anecdote. If you can, frame it as clearer handoffs, more reliable follow-up, and then steadier turnout as the result.
+
+## Turn 9 — 2024-04-14T04:08:00.000Z (user)
+
+That helps. I have been trying to figure out how not to sound like I am overselling a small sample, because right now it is two practices, not a whole wave. But at the same time, it feels important that the referral packet and that 13 month timeline became real working tools for outside partners, not just something I handed out at meetings. I want to name the progress without making it sound finished.
+
+## Turn 10 — 2024-04-14T04:12:00.000Z (agent)
+
+You do not need to inflate it, because the adoption itself is the milestone. Saying, "two practices have implemented the packet and designated handoff contacts, and we are already seeing more consistent attendance in the sites they feed," is measured and strong. It tells the truth and leaves room for replication. I would avoid victory language and use pilot language, but with specific evidence.
+
+## Turn 11 — 2024-04-14T04:14:00.000Z (user)
+
+Pilot language feels right. I think part of why this matters so much is that for a long time I have been doing process cleanup that sits kind of beyond my title, and a lot of it is invisible unless something goes wrong. This is one of the first times I can point to measurable external results and say, no, this changed how people are actually getting into care. That feels different in my body than fixing another internal mess.
+
+## Turn 12 — 2024-04-14T04:17:00.000Z (agent)
+
+Yes, internal cleanup often gets treated like maintenance, even when it is the thing that makes outcomes possible. External uptake changes the story because now the work has visible consequences outside your own department. Also, the stronger reporting gives you a layer of protection, since you are not just saying "trust me," you can show what these partnerships produced. I would save copies of the first few reports and any emails confirming the designated contacts, because early proof gets surprisingly useful later.
+
+## Turn 13 — 2024-04-14T04:21:00.000Z (user)
+
+That is smart, especially the email part. I can already imagine this becoming one of those things everybody starts treating as normal six months from now, like it just magically existed. I am also wondering how much to push the two practices for feedback now versus just letting the referrals keep coming for another month or two. I do not want to spook them by acting too hungry for validation.
+
+## Turn 14 — 2024-04-14T04:23:00.000Z (agent)
+
+I would keep it light and operational. Instead of asking for broad feedback, ask one narrow question each, something like whether the packet answers the most common family questions and whether the handoff path is clear on their side. That makes you sound attentive, not needy, and it may surface tiny friction points before they harden. You are still in the phase where preserving ease matters as much as gathering praise.
+
+## Turn 15 — 2024-04-14T04:26:00.000Z (user)
+
+That is probably the tone I need. Another piece is Caleb, because he really helped me get in the room with some of these palliative folks and made the materials feel less foreign to them. He has also seen firsthand how much strain came from fuzzy transitions into bereavement, so I think he gets why this feels big to me. I want to make sure I credit that without turning the whole update into a thank-you speech.
+
+## Turn 16 — 2024-04-14T04:30:00.000Z (agent)
+
+You can credit him in one clean sentence and keep the focus on the program. Something like, "This grew out of cross-team outreach support, and that bridge helped us move from informal referrals to defined bereavement handoffs." That honors the collaboration while still making the result legible. It also signals that the strain point he had been seeing is actually being reduced now.
+
+## Turn 17 — 2024-04-14T04:32:00.000Z (user)
+
+That wording is good. I think what I want people to hear is that this was not random luck, it linked the earlier site expansion with a steadier referral stream. The groups being fuller in Cary and southeast Raleigh are not just a scheduling coincidence, they are tied to actual partner behavior now. I know I sound a little intense about that, but I have been carrying the logic of it for so long.
+
+## Turn 18 — 2024-04-14T04:35:00.000Z (agent)
+
+You do sound intense, but in a useful way, because you can now explain the mechanism instead of just the outcome. That is exactly what makes a leadership update persuasive. And in a similar way, the lighter check-ins and dinners with your friend were what eventually repaired that earlier tension, so you have already seen how consistent small structures can change the bigger relationship picture too. If you keep the update focused on mechanism, people are more likely to see this as a model they can support rather than a one-off good month.
+
+## Turn 19 — 2024-04-14T04:39:00.000Z (user)
+
+That idea of mechanism is what keeps landing for me. I am not trying to present myself as some miracle worker, I just want people to see that clearer paths produce better follow-through. I am also trying to protect myself from getting handed five new expectations just because something is finally working. How would you set that boundary without sounding territorial?
+
+## Turn 20 — 2024-04-14T04:41:00.000Z (agent)
+
+I would separate enthusiasm from capacity very explicitly. You can say you are encouraged by the early results and ready to stabilize the current partners before expanding further, because protecting fidelity now will make any later growth more reliable. That does not sound territorial, it sounds responsible. It also matches the way you have approached this whole effort, build what you can defend, then widen it.
+
+## Turn 21 — 2024-04-14T04:44:00.000Z (user)
+
+That phrasing fits me better than a flat no. Stabilize before expanding feels honest, and it keeps me from getting pulled into proving too much too fast. I also think the partner-specific numbers give me more room to say that, because I can point to what is happening instead of arguing from instinct. Part of me still worries I will be seen as difficult if I name limits while the news is good.
+
+## Turn 22 — 2024-04-14T04:48:00.000Z (agent)
+
+That worry is understandable, but limits sound less difficult when they are tied to protecting outcomes people already care about. You are not saying no to growth, you are saying the current success depends on defined handoffs, usable reporting, and consistent follow-up, and you do not want to dilute that. If you want, you could even propose a review point, like revisiting expansion after another reporting cycle or two, so the boundary comes with a concrete path forward.
+
+## Turn 23 — 2024-04-14T04:50:00.000Z (user)
+
+A review point would help me feel less defensive. I could say let's get through another couple of reporting cycles, make sure the referrals and attendance stay steady, and then talk about where to add next. That also gives me time to see whether these named point people really stay engaged or if this is just a strong start. I think I need the permission to call this promising instead of permanent.
+
+## Turn 24 — 2024-04-14T04:53:00.000Z (agent)
+
+Exactly, promising is the right word. Early success is worth naming, but durability is a separate question, and you are wise to keep those distinct. I would also pay attention to whether the quality of handoffs stays high, not just the quantity, because a steady stream only helps if the families arrive with enough context to be served well. That gives you another meaningful indicator besides headcount.
+
+## Turn 25 — 2024-04-14T04:57:00.000Z (user)
+
+That is a good catch. I do not want to get dazzled by fuller rooms if the referrals come in half-baked and my team has to chase details. Right now the handoffs feel cleaner, and just knowing who the point person is has changed the tone a lot, but I should probably build in a way to note referral quality too. Maybe a simple internal checkbox instead of another giant form.
+
+## Turn 26 — 2024-04-14T04:59:00.000Z (agent)
+
+A checkbox approach sounds right, especially if you are trying not to create more reporting burden than the insight is worth. Something brief like complete, partially complete, or needed follow-up could tell you a lot over time. That would strengthen your case later because then you are showing not only that the partnerships increase attendance, but that they improve the handoff itself. Small tracking can preserve a lot of clarity.
+
+## Turn 27 — 2024-04-14T05:02:00.000Z (user)
+
+I like that. I am realizing this whole thing feels different because I am not just coordinating pieces anymore, I really am leading something with active partners attached to it. Fuller monthly groups in multiple parts of the county, clearer handoffs, and numbers I can actually break out by partner, that is a different level of responsibility than where I was. It feels good, but it also makes me want to be careful.
+
+## Turn 28 — 2024-04-14T05:06:00.000Z (agent)
+
+That is a very grounded read of it. You are not imagining the shift, the work now has active external buy-in, visible local effects, and evidence you can carry into decision-making. The carefulness is part of why it is working, not a brake on it. If you hold onto that mix of pride and discipline, this milestone can become a stable platform instead of a spike.
+
+## Turn 29 — 2024-04-14T05:08:00.000Z (user)
+
+That is probably where I am landing. I think my next step is to write the update with the reporting first, attendance second, and a clear line that I want to stabilize these two partners before expanding. And for myself, I want to let this count as a real win instead of immediately moving the goalposts. I have not been very good at that.
+
+## Turn 30 — 2024-04-14T05:11:00.000Z (agent)
+
+That sounds like the right sequence, and it respects both the accomplishment and the reality of your workload. Write it as evidence of a working model, not a finished empire, and give yourself credit for moving something from internal cleanup to measurable outside results. Letting it count does not make you complacent, it just keeps you from living as if every success only matters once the next thing is done.

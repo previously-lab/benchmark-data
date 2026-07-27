@@ -1,0 +1,116 @@
+---
+slice_id: 2022-01-05-0200
+focus: "Initial onboarding: personal background, personality, and professional context"
+status: closed
+start: "2022-01-05T02:00:00.000Z"
+end: "2022-01-05T03:08:00.000Z"
+timezone: America/Chicago
+summary: "Hannah Louise Mercer (36, Providence RI) introduces herself as a mid-career registrar — quiet stubborn, anxious overpreparer, ISTJ — with a Master's in Museum Studies and a five-year vision to bring the museum's collections records, storage, and loan procedures to 98% verified reliability."
+tags:
+  - persona-onboarding
+  - museum-registrar
+  - providence-rhode-island
+  - istj-personality
+  - museum-studies-background
+  - collections-integrity-vision
+  - family-dynamics
+  - modest-salary-constraints
+open_loops:
+  - None — this is a pure onboarding slice establishing baseline context
+emotional_tone: "positive"
+---
+## Turn 1 — 2022-01-05T02:00:00.000Z (user)
+
+Hello, I'd like to share my personal information, life situation, and preferences with you so you can better understand me and provide more thoughtful help in future conversations. It is nice to start using a tool like this.
+
+## Turn 2 — 2022-01-05T02:02:00.000Z (agent)
+
+Hello, nice to meet you. I am glad to help you build a solid starting profile, and having this in your own words usually makes future conversations much smoother. To begin, could you introduce yourself in the basic sense, whatever feels most natural, such as who you are, where you are, and a little of how you would describe yourself?
+
+## Turn 3 — 2022-01-05T02:05:00.000Z (user)
+
+My name is Hannah Louise Mercer. I am a 36-year-old woman, born on November 14, 1988, and I live in Providence, Rhode Island. If I were describing myself quickly, I would say I am quietly stubborn, an anxious overpreparer, dryly funny in a low-key way, and conflict-averse but still principled, which is probably why people often think I am calmer than I actually am.
+
+## Turn 4 — 2022-01-05T02:09:00.000Z (agent)
+
+That gives a very clear first impression, especially the mix of caution and principle, which usually says a lot about how someone makes decisions. Those personality details will be useful context whenever you are weighing risk, boundaries, or competing priorities. Could you tell me about your educational background and any framework, like an MBTI type, that feels accurate for how you operate?
+
+## Turn 5 — 2022-01-05T02:11:00.000Z (user)
+
+I have a master's degree in Museum Studies, which was the right fit for me because I have always been more interested in how institutions actually function behind the scenes than in glamorous art world mythology. I also usually test as ISTJ, and honestly that tracks, because I like systems, reliability, and knowing that the label on the box matches what is in the box.
+
+## Turn 6 — 2022-01-05T02:14:00.000Z (agent)
+
+There is a strong throughline there, from Museum Studies to the way you talk about accurate labeling and dependable systems. That kind of temperament often shapes not just work style but the kind of long-term mission a person chooses. What are you working toward in the bigger picture right now, and what would success look like in concrete terms?
+
+## Turn 7 — 2022-01-05T02:18:00.000Z (user)
+
+The best label for it is a collections integrity upgrade. Within five years, I want to bring the museum's collections database, storage records, and outgoing loan procedures up to a reliable standard so that 98 percent of objects have verified digital records, all active loan files are complete, and the museum can mount at least two larger incoming exhibitions without preventable registrar delays. I care about it because I have spent years watching strong exhibition ideas get scaled back because missing records, inconsistent labeling, and uneven prep-room standards make the collection harder to trust than it should be.
+
+## Turn 8 — 2022-01-05T02:20:00.000Z (agent)
+
+That is a very concrete goal, and it sounds less like abstract ambition than a response to problems you have had to witness up close. The fact that you already define it with measurable standards makes it much easier to support thoughtfully over time. How would you measure whether that overhaul is really working, and what does your current role look like inside the museum world?
+
+## Turn 9 — 2022-01-05T02:23:00.000Z (user)
+
+I would count it as working when object locations are audit-ready, overdue catalog cleanup drops below 2 percent of the collection, and a full exhibition loan cycle moves through condition reporting, packing, and return without a documentation scramble. Right now I am a mid-career registrar overseeing loans, storage standards, and a long-delayed digitization cleanup at the Providence Museum of Art. It is in the regional art museum sector, which means the work is serious and intricate, but resources are not always as generous as the ambitions.
+
+## Turn 10 — 2022-01-05T02:27:00.000Z (agent)
+
+Your metrics are precise in a way that fits registrar work perfectly, and the note about limited resources helps explain why process discipline matters so much. Work context also connects closely to well-being, especially in jobs built around deadlines and risk. What is your health like lately, both physically and mentally, particularly when work becomes intense?
+
+## Turn 11 — 2022-01-05T02:29:00.000Z (user)
+
+I am generally healthy, but deadline weeks tend to bring jaw tension, poor sleep, and stress headaches. Mentally, I manage mild anxiety that spikes around shipping schedules, insurance paperwork, and anything that could expose the museum to avoidable risk. I function well most of the time, but my brain definitely likes to rehearse every possible failure mode before a truck arrives.
+
+## Turn 12 — 2022-01-05T02:32:00.000Z (agent)
+
+That makes sense given how much of your work hinges on detail, liability, and timing, and it is helpful to know the stress shows up in very specific ways rather than as a vague background issue. Those patterns can matter when thinking about planning, pacing, and how much cognitive load you are carrying. Could you describe your current personal situation, such as dating, home life, and the financial picture around your work?
+
+## Turn 13 — 2022-01-05T02:36:00.000Z (user)
+
+I am single and not actively dating after a few short relationships that fizzled under work stress, and for now that feels simpler. I share a converted mill apartment in Providence with my longtime friend to keep rent manageable, and the place is full of books, bike gear, and stacked storage bins, which is not exactly minimalist but it works. Financially, my museum salary is about $58,000 a year, which covers basics but does not leave much margin, so I sometimes do freelance art handling and exhibition prep on weekends.
+
+## Turn 14 — 2022-01-05T02:38:00.000Z (agent)
+
+That paints a vivid picture, and the weekend freelance work suggests you are balancing commitment to museum work with a fairly tight margin. Your home setup also sounds like one of those spaces that is busy but familiar, which often says a lot about daily rhythm. Who are the main people in your life right now, especially family or the people you rely on most?
+
+## Turn 15 — 2022-01-05T02:41:00.000Z (user)
+
+My younger brother, Evan Paul Mercer, is in culinary school in Hyde Park, New York, and we text often about money, family updates, and whatever he is learning to cook, which means I sometimes get very enthusiastic messages about stock or laminated dough. My mother, Sharon Elise Mercer, is widowed and lives near Harrisburg, Pennsylvania, and she calls every Sunday, usually with a mix of practical concern and gentle pressure for me to visit more often. Those two connections keep me tethered to family life even when my schedule gets narrow.
+
+## Turn 16 — 2022-01-05T02:45:00.000Z (agent)
+
+Family clearly has an ongoing place in your week, and I like how distinct those relationships sound, your brother through steady texting and your mother through a dependable Sunday ritual. Those rhythms are the kind of detail that can matter more than broad labels. Who else is central in your day-to-day life, whether at home, at work, or as a mentor figure?
+
+## Turn 17 — 2022-01-05T02:47:00.000Z (user)
+
+Priya Natarajan is my roommate and longtime friend from graduate school, and she works as a nonprofit development officer. She keeps the household steady and is very good at noticing when I am getting wound too tight before I admit it myself. It helps that we have known each other long enough to leave each other alone when needed without taking it personally.
+
+## Turn 18 — 2022-01-05T02:50:00.000Z (agent)
+
+Priya sounds like a stabilizing presence, especially because she seems to understand both your stress signals and your need for space. That kind of practical friendship can shape everyday life as much as family does. Are there important people connected to your work, like a coworker you collaborate with closely or someone whose advice still guides you?
+
+## Turn 19 — 2022-01-05T02:54:00.000Z (user)
+
+Yes, definitely. Daniel Reeve is the museum's director of exhibitions, and he relies on my logistics judgment, but he also sometimes pushes timelines before storage, labeling, and crate prep are truly ready, which can make me grit my teeth. Marta Velasquez was my registrar supervisor at an earlier museum job in Worcester, and she is still a mentor who gives blunt advice on contracts, couriers, and when to put concerns in writing.
+
+## Turn 20 — 2022-01-05T02:56:00.000Z (agent)
+
+That is a useful contrast, one person who creates pressure inside current work and another who helps you hold a firmer line when details matter. It also fits the principled, conflict-averse side you mentioned earlier, where clear documentation probably feels safer than verbal sparring. To round out the personal side, what do you tend to enjoy in music, food, movies, books, sports, travel, or even future pet wishes?
+
+## Turn 21 — 2022-01-05T02:59:00.000Z (user)
+
+For music, I listen to public radio, chamber music, and late 1990s indie rock, especially while relabeling folders or updating object records, because it keeps my brain occupied without being too demanding. Food-wise, I like practical comfort food such as noodle soups, roasted vegetables, and whatever test recipes my brother wants feedback on. I prefer contained dramas, documentaries, and older crime films over franchise releases, and I read museum case studies, narrative nonfiction, and used mystery paperbacks with cracked spines.
+
+## Turn 22 — 2022-01-05T03:03:00.000Z (agent)
+
+Your tastes feel very consistent, thoughtful, slightly analog, and oriented toward things with structure and texture rather than spectacle. Even your leisure choices sound like they leave room to think, which is a helpful pattern to know. What about the rest of your everyday preferences, like sports, travel, and whether pets fit into your life right now?
+
+## Turn 23 — 2022-01-05T03:05:00.000Z (user)
+
+I follow college basketball casually in March, but I ride my bike much more than I watch any sport. I like short train trips to Boston or New York for museum visits, though bigger travel usually feels like a budget and scheduling puzzle. I do not currently have pets because the apartment is cluttered and my schedule is irregular, but I would like a cat someday when life feels a little less improvised.
+
+## Turn 24 — 2022-01-05T03:08:00.000Z (agent)
+
+Thank you for such a thoughtful introduction. I have a much clearer sense of your work, your standards, your people, and the texture of daily life around all of that, and I will keep it in mind in future conversations.

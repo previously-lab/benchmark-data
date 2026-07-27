@@ -1,0 +1,137 @@
+---
+slice_id: 2023-01-12-0310
+focus: "Miriam revises Tasha's role description to formally include bereavement operations and reporting"
+status: closed
+start: "2023-01-12T03:10:00.000Z"
+end: "2023-01-12T04:31:00.000Z"
+timezone: America/Chicago
+summary: "At the start of 2026, Miriam revises Tasha's role description to formally include bereavement operations improvement, volunteer coordination support, and monthly referral reporting. Tasha feels validated but wary — the broader language means she could become the designated landing pad for every broken process. The agent helps her plan a one-page scope document with four headings (own, support, depend on others for, monthly reporting), a conversation with Miriam asking for specific support structure rather than vague reassurance, and success criteria to prevent being measured by 'endless availability.' The key reframe: 'recognition becoming boundaries.'"
+decisions:
+  - "Miriam revised Tasha's role description at the start of 2026 so her job now formally includes bereavement operations imp"
+tags:
+  - role-description-revision
+  - formal-ops-improvement-inclusion
+  - monthly-referral-reporting
+  - volunteer-coordination-explicit
+  - support-vs-ownership-distinction
+  - non-negotiables-definition
+  - recognition-becoming-boundaries
+  - one-pager-before-miriam-meeting
+open_loops:
+  - One-page scope document — to be drafted before Miriam meeting
+  - Conversation with Miriam about support structure — planned
+  - Clarification of support vs. ownership for volunteer coordination — needs definition
+  - Monthly reporting success criteria — to be defined
+emotional_tone: "mixed"
+---
+## Turn 1 — 2023-01-12T03:10:00.000Z (user)
+
+A lot has shifted lately, and one thing finally got put in writing. At the start of the year, Miriam revised my role description, so now my job formally includes bereavement operations improvement, volunteer coordination support, and monthly referral reporting at Transitions LifeCare. It is basically the work I had already been doing around the edges, but now it is on paper instead of living in my evenings. I feel validated, but I also do not fully trust what comes after validation around here.
+
+## Turn 2 — 2023-01-12T03:12:00.000Z (agent)
+
+That is a real shift, not just a nice comment in a meeting. Getting it written down means the systems work is being recognized as core to bereavement services, not invisible cleanup you happen to be good at. It also makes sense that your guard is up, because formal recognition can come with a wider lane and not necessarily more backup. Has anything been said yet about what this changes in practice, beyond the wording itself?
+
+## Turn 3 — 2023-01-12T03:15:00.000Z (user)
+
+That is exactly the part I am squinting at. The language is broader than what I had before, because it is not just the calendar and referral workflow now, it reaches into agency-facing process improvement work too. And volunteer coordination support is finally explicit instead of being this unofficial thing I stepped into whenever coverage got ragged. On one hand, I am relieved nobody can act like I made that up, but on the other hand I can already feel how easy it would be for people to send me every messy handoff problem they do not want to own.
+
+## Turn 4 — 2023-01-12T03:19:00.000Z (agent)
+
+You are reading it clearly. The gain is legitimacy, but the risk is becoming the designated landing pad for every broken process with a grief label on it. Since the wording now reaches beyond one workflow, I would want you to define what belongs to you before everyone else defines it for you. A practical move might be drafting a one page scope note for yourself, what you own directly, what you support, and what still stays with other teams.
+
+## Turn 5 — 2023-01-12T03:21:00.000Z (user)
+
+I think I need that, because monthly referral reporting is in there now too, which makes me the person expected to keep the data clean and turn it into something agency leadership can actually look at every month. That part grew straight out of all the process cleanup and usable referral data I have been building. I do not mind the reporting itself, honestly, but it changes the quality conversations because now they can point to my documentation habits as the official source. Do you think I should treat that as leverage or as a liability first?
+
+## Turn 6 — 2023-01-12T03:24:00.000Z (agent)
+
+First, leverage, with safeguards. Once monthly reporting is a formal deliverable, your documentation becomes part of how the agency understands reality, and that gives you influence in any quality conversation. I would pair that with a simple rule for yourself, if another team's input affects the report, build visible checkpoints so the report does not quietly turn into responsibility for errors you did not create. What parts of the reporting chain still depend on other people handing you clean information?
+
+## Turn 7 — 2023-01-12T03:28:00.000Z (user)
+
+The weak spots are still mostly at the front end and around volunteer availability. If referrals come in late or incomplete, or if somebody assumes volunteer coverage exists when it does not, then the report will show the outcome but not always the reason unless I document it carefully. Caleb has been seeing those strain points too, so at least I am not imagining them. I guess what unsettles me is that this whole revision proves they trust my judgment enough to formalize expanded duties, but I have worked here long enough to know trust does not automatically come with staff support.
+
+## Turn 8 — 2023-01-12T03:30:00.000Z (agent)
+
+That is the sharp edge of it. Trust can feel good and still be a mechanism for loading more onto the person who is competent. Since you work in nonprofit hospice and palliative support services because the agency built its bereavement operations around monthly referral reporting and volunteer coordination support, there is a real chance people will see those pieces as naturally belonging to you now. I think the most protective thing you can do early is separate support from ownership in writing, especially around volunteer gaps and incomplete referrals.
+
+## Turn 9 — 2023-01-12T03:33:00.000Z (user)
+
+Yes, and I think the support versus ownership distinction is where I keep landing too. I can support volunteer coordination, but that does not mean I can magically create volunteers or cover every empty slot myself. Same with process improvement, I can fix and tighten a lot, but I cannot be the sole answer to every department's inconsistency. Part of me is less resentful now that the extra labor is at least acknowledged, but part of me worries this broader workload is getting locked in permanently.
+
+## Turn 10 — 2023-01-12T03:37:00.000Z (agent)
+
+That mixed feeling sounds sane to me, not ungrateful. Formalizing work that used to spill into your after hours can reduce the bitterness of feeling unseen, but it can also freeze an already broad load into the official structure. I would not rush to solve the whole future right now. I would start by naming two or three non negotiables, like what support means, what turnaround times are realistic, and what information has to be complete before something lands on your monthly report.
+
+## Turn 11 — 2023-01-12T03:39:00.000Z (user)
+
+I like the idea of non negotiables more than trying to write a giant defensive memo. If I am honest, what feels most important is making sure the new title language does not just praise me for invisible cleanup while continuing to depend on it. I want this to mean the operations and systems work is recognized as part of bereavement services, not just Tasha being reliable. How would you say that without sounding territorial?
+
+## Turn 12 — 2023-01-12T03:42:00.000Z (agent)
+
+I would keep it concrete and service-based, not personal. Something like, "I am glad the revised role reflects that operations improvement, volunteer coordination support, and referral reporting are part of the bereavement program's core function. To make that sustainable, I want us to clarify where I have direct ownership, where I am a support partner, and what inputs need to come from other teams." That frames it around program reliability, which fits the measurable, durable kind of fix you have been building toward.
+
+## Turn 13 — 2023-01-12T03:46:00.000Z (user)
+
+That wording is good, especially the sustainability piece. I think I also need to say plainly that the monthly reporting only helps if people understand it is not just a spreadsheet ritual, it is how patterns get caught before families feel the consequences. The weird thing is, I am proud of this. It really does feel like my formal scope now extends beyond the calendar and referral workflow into actual agency-facing improvement work. I just do not want pride to make me overagree.
+
+## Turn 14 — 2023-01-12T03:48:00.000Z (agent)
+
+Pride can make people generous past their own limit, especially when the work matters. The fact that this grew out of the pilot and the cleanup work is exactly why you do not need to overprove yourself now, the proof is already in the role revision. One useful check would be deciding in advance what you will say yes to this quarter, and what you will say, "I can help shape, but I cannot personally carry," before requests start arriving.
+
+## Turn 15 — 2023-01-12T03:51:00.000Z (user)
+
+That makes sense. If I wait until people ask in the moment, I will answer from guilt or urgency instead of from a plan. I am also thinking about whether I should ask Miriam directly what support she imagines with the revision, or whether that just invites a vague answer that sounds nice and changes nothing. Would you ask for specifics now, or wait until the first month of reporting is underway?
+
+## Turn 16 — 2023-01-12T03:55:00.000Z (agent)
+
+I would ask now, but in a way that forces specifics. Not, "What support will I get," which can stay abstract, but, "As this revised role starts, what support structure do you want in place for volunteer coordination and monthly referral reporting, and what do you see as shared with other teams?" That gives her a chance to be concrete before the workload pattern hardens.
+
+## Turn 17 — 2023-01-12T03:57:00.000Z (user)
+
+I can do that. And I probably need to bring a short list instead of hoping the conversation organizes itself. Something like reporting inputs, volunteer coverage boundaries, and how process improvement requests get prioritized. I keep coming back to the fact that I am the kind of person who keeps doing needed systems work before anybody officially recognizes it, especially when families are the ones who would pay for a failure. That is a strength, but it is also how I end up quietly donating labor.
+
+## Turn 18 — 2023-01-12T04:00:00.000Z (agent)
+
+That is exactly the pattern to protect without losing what is best about you. Your instinct to stabilize things is valuable, but the revised role gives you a chance to turn that instinct into a structure instead of a private sacrifice. Bringing a short list is smart, and I would add one more item, how success will be judged, so you are not measured by endless availability when the actual job is improvement, support, and reporting.
+
+## Turn 19 — 2023-01-12T04:04:00.000Z (user)
+
+Success criteria is a good addition. Otherwise it becomes, "If a problem exists, why did Tasha not absorb it?" I also keep thinking about the volunteer piece specifically, because making that support role explicit is honestly a relief. For a long time it was treated like a small side thing tied to coverage gaps, but it touches scheduling, family expectations, and the whole texture of follow-up. I want to respect that without letting it swallow everything else.
+
+## Turn 20 — 2023-01-12T04:06:00.000Z (agent)
+
+Right, volunteer coordination support sounds modest on paper, but in practice it can spread into scheduling, communication, backup planning, and cleanup after preventable confusion. Naming that complexity is not overdramatizing, it is accurate. You might want to define a few specific volunteer-related responsibilities you will consistently handle, and a few that stay outside your lane unless someone explicitly reassigns them.
+
+## Turn 21 — 2023-01-12T04:09:00.000Z (user)
+
+I think I can sketch that out this week. I am hearing that I do not need a grand speech, I need a short document and a focused conversation. There is something emotionally different, though, about seeing this in official language. It makes me feel less like I was just doing invisible cleanup after hours and more like the organization is admitting this work is real. Maybe that is why I feel both steadier and a little exposed.
+
+## Turn 22 — 2023-01-12T04:13:00.000Z (agent)
+
+That emotional split makes perfect sense. Being seen is stabilizing, but it also means more people can now reach for the part of you that has been quietly holding things together. The good news is that official language gives you something solid to point to, not just your personal goodwill. This is a moment to let recognition become boundaries, not just more access to you.
+
+## Turn 23 — 2023-01-12T04:15:00.000Z (user)
+
+That line helps, recognition becoming boundaries. I think my next step is to draft a one pager before I meet with Miriam, with direct ownership, support functions, required inputs from others, and what I want monthly reporting to include. Then I can ask the support question in a way that is harder to answer with vague encouragement. Does that sound like the right order, or would you simplify it even more?
+
+## Turn 24 — 2023-01-12T04:18:00.000Z (agent)
+
+That order sounds right, and I would only simplify by keeping the page lean enough that it can actually guide the conversation. Four headings is probably enough: own, support, depend on others for, and monthly reporting. If you walk in with that, you are much less likely to be pulled into a fuzzy discussion about being helpful and much more likely to leave with usable clarity.
+
+## Turn 25 — 2023-01-12T04:22:00.000Z (user)
+
+Okay, that feels workable. I can write that without turning it into a whole weekend project, which matters because I do not want this formal change to instantly start eating my home time too. I am still taking in that my job really is different now, even if the day to day will look deceptively familiar at first. It feels like one of those moments where the paper catches up to the truth.
+
+## Turn 26 — 2023-01-12T04:24:00.000Z (agent)
+
+Yes, that is a good read on it, the paper is catching up to work you were already carrying. That can be satisfying without meaning you owe even more than before. If you keep this first step contained and concrete, you give yourself a better chance of shaping the role while it is still fresh instead of reacting once expectations have already spread.
+
+## Turn 27 — 2023-01-12T04:27:00.000Z (user)
+
+That is where I want to land. I am going to draft the one pager, ask for specifics early, and pay attention to where support starts turning into ownership by default. I do feel proud, which I want to let myself have, but I want the pride to come with structure. That feels like the healthiest version of this promotion-without-a-title-change kind of thing.
+
+## Turn 28 — 2023-01-12T04:31:00.000Z (agent)
+
+That sounds grounded and strong. You are letting yourself take in the validation while also building guardrails, which is probably the most sustainable way to meet a role that has expanded on paper as well as in practice. If you hold onto that one question, "Is this support or ownership," you will have a reliable compass as the new expectations settle in.

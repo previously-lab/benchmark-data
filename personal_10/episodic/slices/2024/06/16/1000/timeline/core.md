@@ -1,0 +1,130 @@
+---
+slice_id: 2024-06-16-1000
+focus: "Approval secured to build denial prevention into front-desk onboarding using three steadier quarters as proof."
+status: closed
+start: "2024-06-16T10:00:00.000Z"
+end: "2024-06-16T11:14:00.000Z"
+timezone: America/Chicago
+summary: "Using three steadier quarters as proof, Kelli wins approval to build denial prevention into front-desk onboarding rather than cleaning up mistakes after the fact. She builds a training packet with sample claims, screenshots, and common-payer scenarios showing the chain from registration error to denial. She plans to observe the first sessions as an observer (not permanent instructor), keep the core packet modular with clinic-specific inserts, and track first-month error themes."
+decisions:
+  - "Kelli is still revenue-cycle lead, and denial prevention is now built into front-desk onboarding with documented trainin"
+tags:
+  - front-desk-onboarding-training
+  - denial-prevention-upstream
+  - sample-claims-and-screenshots
+  - monica-wren-ally
+  - three-steadier-quarters
+  - modular-training-packet
+  - top-five-mistakes-sheet
+  - observer-not-instructor
+open_loops:
+  - Core packet not yet finalized
+  - Clinic-specific inserts not yet built
+  - First onboarding session (as observer) not yet scheduled
+  - First-month error tracking log not yet designed
+  - Error source field (confusion/habit/missing-info) not yet added
+emotional_tone: "positive"
+---
+## Turn 1 — 2024-06-16T10:00:00.000Z (user)
+
+A lot has shifted lately, in a good way for once. The biggest thing is I finally got approval to build denial prevention into front-desk onboarding instead of waiting until people make mistakes and then my team cleans it up later. I used the fact that we've had three steadier quarters to make the case that this should be a new-hire expectation, not just something I keep chasing after the fact. It feels like the work has crossed over from emergency response into something more real and teachable.
+
+## Turn 2 — 2024-06-16T10:02:00.000Z (agent)
+
+That is a real shift, not just a small process tweak. Getting prevention into onboarding means the work is moving upstream, which usually matters more than one more cleanup tool on the back end. You also picked your moment well, because steadier results give people fewer excuses to dismiss a structural change. What part of your pitch do you think actually got the approval over the line?
+
+## Turn 3 — 2024-06-16T10:05:00.000Z (user)
+
+Honestly, I think what landed was that I could show this wasn't theory anymore. I told them we keep proving that small front-end misses turn into expensive denials later, and if we already know the patterns, then it makes no sense to hide that knowledge in billing. Monica backed me up hard, which helped. I also said I wasn't asking for some giant class, just a documented piece of onboarding with examples people can actually use on day one.
+
+## Turn 4 — 2024-06-16T10:09:00.000Z (agent)
+
+That makes sense. You framed it as practical risk reduction, not as one more training burden, and having a leadership ally behind it probably made it easier for people to hear. It also sounds like you translated your own specialty knowledge into something the whole system can use, which is a bigger win than fixing one quarter. Did anyone push back on time at the front desk or act like this would slow intake too much?
+
+## Turn 5 — 2024-06-16T10:11:00.000Z (user)
+
+Yes, a little. The basic worry was exactly that, that registration staff are already juggling enough and this would turn into one more binder nobody opens. So I built the materials to be pretty plain: sample claims, screenshots, and a few common-payer scenarios that show where people usually trip up. I wanted new staff to see the chain from one wrong box at the desk to a denial later, not just hear me lecture about accuracy.
+
+## Turn 6 — 2024-06-16T10:14:00.000Z (agent)
+
+That packet looks useful because it is concrete, not abstract. Screenshots and sample claims give people something they can recognize under pressure, and the cause-and-effect piece is what makes the lesson stick. This also fits the pattern you've been building for a while, where you turn repeated pain points into named examples and reusable tools instead of relying on memory or reminders. If you want one extra layer, I would add a one-page 'top five mistakes in the first 30 days' sheet so the material feels even less overwhelming.
+
+## Turn 7 — 2024-06-16T10:18:00.000Z (user)
+
+I like that better than making it too thick. I'm trying hard not to create one of those giant training packets that everyone pretends to read. Part of me wants to keep adding more examples because I know how messy real claims can get, but part of me knows new people will shut down if I dump the whole world on them at once. If you were me, would you keep it basic at first or build out more detail now that I have the green light?
+
+## Turn 8 — 2024-06-16T10:20:00.000Z (agent)
+
+I would keep version one basic and deliberately incomplete. The goal of onboarding is not to transfer your entire brain, it is to help a new person avoid the most preventable errors early and know where to look next. Since you already have proof that quick guidance updates can stop a small payer change from spreading, you can treat the packet as a living tool and add detail only where you see repeat misses. What are the two or three errors you most want no new hire to make in the first month?
+
+## Turn 9 — 2024-06-16T10:23:00.000Z (user)
+
+The big ones are insurance selection mistakes, missing or weak authorization details, and basic registration fields that don't look dramatic until they bounce the claim later. Those are the things that keep turning into avoidable rework for billing. I keep thinking about how much of my job used to be chasing fallout after somebody upstream guessed or rushed. This feels different because now the expectation is written down before they ever touch a live patient account.
+
+## Turn 10 — 2024-06-16T10:27:00.000Z (agent)
+
+That written expectation is the culture change. You are moving from 'we fix it when it breaks' to 'this is part of competent entry into the role,' and that tends to outlast any one person pushing. It may also help to make those three errors the spine of the training, with one visual example each and one sentence on why it matters financially and operationally. That keeps the message sharp instead of sprawling.
+
+## Turn 11 — 2024-06-16T10:29:00.000Z (user)
+
+That's pretty much where I landed. I even kept telling myself that if I make this too fancy, the clinics will smell homework and resist it. What surprised me is that a couple of front-desk supervisors actually seemed relieved, like nobody had ever really shown their new hires how these mistakes travel downstream. I think they were tired of getting corrected later with no context.
+
+## Turn 12 — 2024-06-16T10:32:00.000Z (agent)
+
+That reaction is a good sign, because relief means the training is solving a frustration they already felt. People usually resist when something feels punitive, but they lean in when it explains the why and saves them embarrassment later. Also, with someone like Dr. Leland around, reducing avoidable slowdowns at the front end is probably easier to defend if you can show the clinics this prevents downstream friction. Did any site ask to tailor the examples to their own payer mix or workflow?
+
+## Turn 13 — 2024-06-16T10:36:00.000Z (user)
+
+A couple did, yes. One clinic wants more examples around the plans they see every day, which I think is fair, and another asked if we can make the screenshots match what staff actually click in sequence instead of how billing talks about it. That was useful feedback, honestly. It reminded me this has to feel like their onboarding, not me dropping revenue-cycle language on top of them.
+
+## Turn 14 — 2024-06-16T10:38:00.000Z (agent)
+
+That is smart feedback, and it does not weaken your idea, it makes it more adoptable. If the examples mirror their actual clicks and payer mix, staff will experience the training as help instead of correction. You could keep one shared core packet for the network, then add slim clinic-specific inserts so you are not rebuilding the whole thing every time. That kind of modular setup usually keeps the maintenance sane.
+
+## Turn 15 — 2024-06-16T10:41:00.000Z (user)
+
+Modular might be the only way this stays manageable. I can already feel my brain wanting to turn one good packet into six side projects. The thing I am trying to protect is that this finally feels like I turned all that denial-control knowledge into something repeatable, instead of me being the person who swoops in later and untangles the knot. That matters to me more than I expected.
+
+## Turn 16 — 2024-06-16T10:45:00.000Z (agent)
+
+Yes, and there is a professional identity shift in that. You are not just troubleshooting anymore, you are building an operating system other people can step into. It also makes sense that you still feel tired and stress-prone because feeling more in control after the mess has pushed even more cleanup responsibility onto you, even if emotionally you are less stuck in damage response. I would protect against that by setting a rule now for what belongs in the core packet and what stays out unless it shows up repeatedly.
+
+## Turn 17 — 2024-06-16T10:47:00.000Z (user)
+
+That rule would probably save me from myself. I can make something useful and then immediately start overworking it. I actually put together a rough cover page that says what the packet is for and what it is not for, because I don't want managers thinking this replaces all supervision. Do you think that's too defensive, or is it smart to name the boundaries early?
+
+## Turn 18 — 2024-06-16T10:50:00.000Z (agent)
+
+That is smart, not defensive. A boundary statement keeps the packet from being misunderstood as magic, and it protects you from the very common move where people treat one tool as a substitute for actual coaching. The cover page also gives managers language they can repeat consistently, which matters just as much as the packet itself. I would keep it brief and plain, then add one line about when a supervisor should escalate a question instead of guessing.
+
+## Turn 19 — 2024-06-16T10:54:00.000Z (user)
+
+I can do that. Another thing I am wondering about is whether I should personally sit in on the first few onboarding runs, or if that defeats the point of making this a system. Part of me wants to be there so I can see where people get lost. The other part of me knows if I become a required ingredient, we are back to depending on me.
+
+## Turn 20 — 2024-06-16T10:56:00.000Z (agent)
+
+I would split the difference. Sit in on the first one or two as an observer and note confusion points, but do not position yourself as the permanent instructor. Then revise the packet fast and hand the teaching back, because the whole value here is that denial prevention becomes a documented expectation, not a performance that only works when you are in the room. A short feedback form from the trainer and the new hire could give you the same learning without locking you into every session.
+
+## Turn 21 — 2024-06-16T10:59:00.000Z (user)
+
+Observer, not permanent instructor, that feels like the right line. I think I needed somebody else to say it. The whole reason I pushed for this was to stop treating avoidable denials like weather. We know enough now that some of this should be prevented before it ever hits billing, and if the training works, maybe my team gets fewer of those stupid preventable corrections.
+
+## Turn 22 — 2024-06-16T11:03:00.000Z (agent)
+
+Exactly. If the training does what it should, it reduces preventable registration and authorization errors before they become back-end work, which is where your team has been paying the price. That does not mean all denials disappear, but it changes the baseline from cleanup as a habit to prevention as part of the role. I would measure early with something simple, maybe first-month error themes by site, so you can prove the effect without creating another reporting monster.
+
+## Turn 23 — 2024-06-16T11:05:00.000Z (user)
+
+Simple measurement I can handle. If I make the tracking too elaborate, I know I'll resent it by month two. I am thinking one basic log for first-month front-end misses, then a quick check at thirty and sixty days to see whether the same issues keep showing up. Does that sound lean enough, or am I missing something obvious?
+
+## Turn 24 — 2024-06-16T11:08:00.000Z (agent)
+
+That sounds lean and useful. A first-month log plus thirty and sixty day checks gives you enough signal to spot whether the onboarding content is landing, and it keeps you focused on repeat patterns instead of one-off noise. The only thing I would add is a field for whether the error came from confusion, habit, or missing information, because those need different fixes. Then you can decide whether to revise the packet, coach the trainer, or tighten the workflow itself.
+
+## Turn 25 — 2024-06-16T11:12:00.000Z (user)
+
+That distinction is good. I can see how I would otherwise lump everything together and miss the real reason. I feel better about this than I did a week ago. I am still tired, but in a different way, like I am building something that might actually hold instead of running around with a bucket. So I think my next step is keep the core packet tight, do the first couple sessions as an observer, and track only enough to learn from it.
+
+## Turn 26 — 2024-06-16T11:14:00.000Z (agent)
+
+That sounds like a solid next step, and it matches what this moment seems to be about. You are taking knowledge that used to live in crisis response and turning it into a repeatable part of how people enter the job, which is a bigger kind of control than just being good at cleanup. Keep it narrow, watch where people stumble, and let the packet earn its way into becoming more detailed. This feels like one of those changes that can quietly reshape the culture if you protect its simplicity at the start.

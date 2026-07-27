@@ -13,7 +13,7 @@
         "istj-personality",
         "family-obligation",
         "shift-work-health",
-        "newly-marriedemotional_tone: neutral"
+        "newly-married"
       ],
       "status": "closed",
       "start": "2022-01-06T13:10:00.000Z",
@@ -35,7 +35,7 @@
         "verbal-handoff-conflict",
         "delay-documentation",
         "incident-log-trial",
-        "crew-resistanceemotional_tone: neutral"
+        "crew-resistance"
       ],
       "status": "closed",
       "start": "2022-01-21T22:40:00.000Z",

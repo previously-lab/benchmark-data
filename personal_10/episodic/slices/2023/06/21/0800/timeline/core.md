@@ -1,0 +1,129 @@
+---
+slice_id: 2023-06-21-0800
+focus: "Kelli starts low-dose blood pressure medication; her doctor bluntly tells her the stress pattern is no longer a phase."
+status: closed
+start: "2023-06-21T08:00:00.000Z"
+end: "2023-06-21T09:14:00.000Z"
+timezone: America/Chicago
+summary: "At a primary-care follow-up postponed twice, Kelli is started on low-dose blood pressure medication. Her doctor bluntly tells her the neck tension, bad sleep, and drive-through dinners are no longer a temporary phase. Kelli feels embarrassed but commits to four changes: medication daily, one prepared dinner fallback, protecting the stretching class, and a small sleep boundary (10 min less screen time)."
+decisions:
+  - "At a primary-care follow-up she had postponed twice, Kelli was started on low-dose blood pressure medication."
+tags:
+  - hypertension-medication
+  - primary-care-follow-up
+  - drive-through-dinner-cycle
+  - desk-posture-problems
+  - stretching-class-protection
+  - sleep-boundary
+  - neck-shoulder-tension
+  - self-care-hierarchy
+open_loops:
+  - Commute-friendly food rule not yet defined
+  - Hard work-screen cutoff not yet set
+  - Next follow-up already scheduled but lifestyle changes not yet tested
+  - Kelli needs to tell key people (need-to-know basis) about boundaries
+emotional_tone: "negative"
+---
+## Turn 1 — 2023-06-21T08:00:00.000Z (user)
+
+Things have been busy for a while, and I finally dealt with something I had been putting off. I had a primary-care follow-up this week that I had postponed twice, and it did not stay in the "just keep an eye on it" category. My doctor started me on a low-dose blood pressure medication. She was also very blunt that the neck tension, bad sleep, and drive-through dinners are not a temporary phase anymore.
+
+## Turn 2 — 2023-06-21T08:02:00.000Z (agent)
+
+That sounds like one of those appointments that changes the tone of things fast. Starting medication makes it more concrete, and the doctor being that direct probably landed hard because it means this is no longer something to outwork or wait out. I am glad you finally went in. How are you feeling about it now, rattled, relieved, annoyed, some mix of all three?
+
+## Turn 3 — 2023-06-21T08:05:00.000Z (user)
+
+Mostly embarrassed, if I am honest. I kept acting like once this rough stretch eased up I would magically sleep better and eat like a normal person again, and she basically said my body does not care what story I am telling myself. She tied a lot of it to sustained stress, and she was right. The blood pressure problem has been building during this long cleanup mess, right along with me getting more short-tempered and sleeping worse.
+
+## Turn 4 — 2023-06-21T08:09:00.000Z (agent)
+
+Embarrassment makes sense, but it also sounds like she named the pattern clearly instead of leaving you to minimize it again. The useful part here is that this is treatable, and the medication is only one piece, the bigger shift is that your habits are now part of the problem, not just the circumstances around you. I would treat this as a signal to pick two changes you can actually repeat on hard weeks, not a total self-rebuild. What did she want you to focus on first besides taking the pill?
+
+## Turn 5 — 2023-06-21T08:11:00.000Z (user)
+
+Sleep and food, pretty much in that order. She said the neck and shoulder tightness is still from too many hours locked up at a desk and carrying stress around in my jaw and shoulders, so the medication is not going to fix that part. She wants me to stop pretending a burger in a paper sack at 7:30 at night counts as a plan. I know she is right, but I am trying to figure out what is realistic when the days run long.
+
+## Turn 6 — 2023-06-21T08:14:00.000Z (agent)
+
+That is a fair distinction, because the pill addresses pressure, not the whole wear pattern your body is in. Realistically, this is probably about reducing the number of bad-default evenings rather than creating ideal ones. If I were narrowing it down, I would make one commute-friendly food rule and one evening shut-down rule, something like keeping two non-drive-through fallback meals ready and setting a hard point where work screens stop. Which of those feels more reachable this week?
+
+## Turn 7 — 2023-06-21T08:18:00.000Z (user)
+
+The food one probably does. Sleep feels harder because my brain keeps running after I get home, but I can at least cut down on the random drive-through dinners if I have something easy waiting. I have been doing air-fryer potatoes and leftovers some nights, and that is probably better than what I slide into when I am wiped out. Do you think it is better to focus on food first, or should I force the sleep issue even if I do it badly?
+
+## Turn 8 — 2023-06-21T08:20:00.000Z (agent)
+
+Food first is reasonable if it gives you an immediate win without adding more strain. Better evening food can also help sleep indirectly, because you are not ending the day overstimulated, overhungry, or running on salt and grease. I would not wait on sleep entirely, though. Make the first sleep goal embarrassingly small, like ten minutes less screen time and one repeated wind-down cue, not some perfect bedtime. Also, your friend from billing has probably become one of the people you lean on because she keeps pushing you to protect your health when work starts swallowing everything.
+
+## Turn 9 — 2023-06-21T08:23:00.000Z (user)
+
+That smaller version actually helps, because every time I think "fix sleep" it turns into this giant impossible project in my head. I can do ten minutes and a cutoff. I also signed up to keep going to that stretching class once a week, and I think I need to stop treating it like the optional first thing to cancel. The neck and shoulder stuff has not magically gone away just because I started the medication.
+
+## Turn 10 — 2023-06-21T08:27:00.000Z (agent)
+
+That is exactly the right read. Keeping the stretching class matters because it targets the part the medication does not touch, and it gives your week at least one built-in interruption to the desk-stress cycle. I would protect that appointment the same way you would protect something for anyone else, because right now it is maintenance, not indulgence. Has the medication itself been okay so far, any dizziness or weird side effects?
+
+## Turn 11 — 2023-06-21T08:29:00.000Z (user)
+
+So far it has been pretty uneventful, which I guess is good. Maybe a little draggy the first morning, but nothing dramatic. What hit harder was seeing it sitting on the counter, honestly. It made me realize I crossed from "watch it" into actually treating it, and I do not love that feeling even if it probably needed to happen.
+
+## Turn 12 — 2023-06-21T08:32:00.000Z (agent)
+
+Yes, that bottle can feel like proof that something has become real. But it can also mark a useful turning point, from hoping this passes on its own to actively getting ahead of it. That is not failure, it is a course correction. It might help to pair the pill with the same morning action every day so it becomes routine instead of a daily little jolt of dread.
+
+## Turn 13 — 2023-06-21T08:36:00.000Z (user)
+
+I put it by the coffee stuff for that reason, so at least I do not have to think too hard. Another thing the doctor called out was how fast I default to postponing my own appointments while still showing up for everybody else. I did not really have a defense for that because it is true. I can keep a whole machine running and somehow act like my own follow-up can slide two times.
+
+## Turn 14 — 2023-06-21T08:38:00.000Z (agent)
+
+That is a pretty sharp insight, and probably the part worth paying the most attention to. The postponed appointment was not just a scheduling hiccup, it exposed your default hierarchy, where your care drops below every other obligation until your body forces the issue. One practical fix is to treat follow-ups as locked commitments the moment they are scheduled, not flexible placeholders. If you expect resistance from yourself, put the next one on the calendar now and tell one person you are not moving it.
+
+## Turn 15 — 2023-06-21T08:41:00.000Z (user)
+
+That makes sense. If I leave it in the category of "I will get to it," I apparently do not get to it. I already made the next check-in before I left, partly because I did not want to have another lecture, but mostly because I know I will keep bumping it otherwise. I am trying to take this more seriously instead of talking myself into one more season of pushing through.
+
+## Turn 16 — 2023-06-21T08:45:00.000Z (agent)
+
+Good, that is a meaningful shift. The important thing is not whether you suddenly become perfectly healthy, it is that you are no longer negotiating with the warning signs as if they are temporary noise. Since you are taking it seriously now, I would keep the next couple of weeks simple and measurable, medication daily, one prepared dinner fallback, one protected stretch class, and one small sleep boundary. Too many goals would let this blur back into intention instead of action.
+
+## Turn 17 — 2023-06-21T08:47:00.000Z (user)
+
+I like that better than making some giant overhaul chart. Here is what the desk looked like one night this week, and I think it explains part of why my shoulders stay up around my ears by dinner. I can sit like that for hours and not notice until I stand up and feel like a board.
+
+## Turn 18 — 2023-06-21T08:50:00.000Z (agent)
+
+That picture makes the problem very easy to believe. A cramped setup plus long stretches of focus can absolutely keep your neck and shoulders clenched without you noticing, especially if you are eating at the same desk and never really resetting. I would add one physical interrupt to your plan, not because it solves stress, but because it stops four straight hours from becoming your default. Even standing up every hour for two minutes or doing one shoulder release each time you refill water would be useful.
+
+## Turn 19 — 2023-06-21T08:54:00.000Z (user)
+
+That is probably more realistic than saying I am going to transform the whole setup right now. I do wonder if I need to tell people around me more directly that I am on medication now, or if that just turns into drama I do not need. I have told my husband, obviously, but not many other people. Would you keep it private unless it affects scheduling, or be more open about it?
+
+## Turn 20 — 2023-06-21T08:56:00.000Z (agent)
+
+I would keep it need-to-know and purpose-based. The people who help you protect the actual changes, your spouse, maybe one trusted friend, maybe someone who would respect an appointment or a boundary, are worth telling. You do not owe a wider audience a health bulletin, especially if all it does is invite commentary. The useful question is, who helps you follow through rather than just react?
+
+## Turn 21 — 2023-06-21T08:59:00.000Z (user)
+
+That is about where I was landing too. I do not want to make it into a whole announcement. I mostly want a couple people to know enough that I cannot quietly slide back into the same habits and call it fine. It is strange, because part of me is relieved someone finally said it plainly, and part of me is mad I needed it said that plainly.
+
+## Turn 22 — 2023-06-21T09:03:00.000Z (agent)
+
+Both reactions fit. Relief comes from finally having the fog cut through, and anger comes from realizing the cost of how long you have been absorbing this. I would not spend too much time judging which feeling is the right one. The more useful takeaway is that the appointment gave you a clear line in the sand, and you seem ready to respect it more than you were a month ago.
+
+## Turn 23 — 2023-06-21T09:05:00.000Z (user)
+
+Yeah, that is probably the real difference. A month ago I would have taken the prescription and then still acted like it did not mean much. Now it feels more like, okay, this is officially part of my life and I need to quit pretending I can bargain with it. If you were me, what would you track for the next two weeks so I do not overcomplicate it?
+
+## Turn 24 — 2023-06-21T09:08:00.000Z (agent)
+
+I would track only four things, and I would keep them binary so you do not create another project. Took the medication, ate a prepared-at-home dinner or leftover instead of drive-through, did a short physical reset during the workday, and shut screens down by your chosen cutoff. If you want a fifth, make it whether you went to the stretching class. That gives you a simple picture of whether your actual week matches the seriousness you are bringing to this now.
+
+## Turn 25 — 2023-06-21T09:12:00.000Z (user)
+
+That is manageable. I can do checkboxes without turning it into a spreadsheet monster. So I think my next step is pretty plain, take the medication, keep the next follow-up, protect the stretching class, and make a couple decent dinners easy enough that tired me will still choose them. I do not feel cheerful about any of this, but I do feel more honest about it.
+
+## Turn 26 — 2023-06-21T09:14:00.000Z (agent)
+
+Honestly, more honest is better than more cheerful right now. You do not need to feel inspired, you just need a plan that still works on the nights when you are tired, irritated, and tempted to wave it off. What you laid out is solid and specific, and it matches the real problem instead of some ideal version of it. This sounds like the start of taking care of yourself in the same practical way you handle everything else.

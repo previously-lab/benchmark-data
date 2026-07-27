@@ -1,0 +1,130 @@
+---
+slice_id: 2022-05-19-0735
+focus: "A lot has shifted lately, in a good way for once. The work I've been trying to g"
+status: closed
+start: "2022-05-19T07:35:00.000Z"
+end: "2022-05-19T08:56:00.000Z"
+timezone: America/Chicago
+summary: "The most solid part is that the intake form is not theoretical anymore, people are actually using it"
+decisions:
+  - "Evan's three-school purchasing pilot showed enough early success that his role expanded from running the pilot to drafti"
+tags:
+  - pilot-success-evidence
+  - vendor-agreement-repository-drafting
+  - summer-bid-calendar-planning
+  - reduced-duplicate-requests
+  - protecting-against-drift
+  - bare-bones-first-version-strategy
+emotional_tone: "positive"
+---
+## Turn 1 — 2022-05-19T07:35:00.000Z (user)
+
+A lot has shifted lately, in a good way for once. The work I've been trying to get off the ground finally has some proof behind it instead of just me insisting it should exist. By the end of the first month, the three principals in the test group were using the intake form often enough that I could actually show fewer duplicate requests and faster routing through approvals. And now my role is changing a bit, because I'm not just running the pilot anymore, I'm starting to draft a searchable list of active vendor agreements and summer bid dates for broader district use.
+
+## Turn 2 — 2022-05-19T07:37:00.000Z (agent)
+
+That is real movement, not just a nice spin on a hard month. The important part is that you have operational evidence now, fewer duplicate requests and faster routing are the kind of specifics that make people stop treating this as a personal crusade. It also sounds like the work is shifting from proving a process to building infrastructure other people can keep using. What part of this expansion feels most solid to you already, and what part feels the most fragile?
+
+## Turn 3 — 2022-05-19T07:40:00.000Z (user)
+
+The most solid part is that the intake form is not theoretical anymore, people are actually using it regularly enough that the numbers mean something. The fragile part is the next layer, because a searchable agreement list sounds simple until you realize how many half-current files and odd naming habits are floating around. Patrice basically told me the first month gave her enough confidence to let me start building something broader, which felt great, but I also know this could turn into a junk drawer if I do it wrong. I'm trying to decide whether I should make the first version very bare-bones or spend longer making it cleaner before anyone sees it.
+
+## Turn 4 — 2022-05-19T07:44:00.000Z (agent)
+
+That trust matters, and it sounds earned. I would lean bare-bones first, but with a strict spine, vendor name, agreement status, expiration date, owner, and where the file lives, because a clean but incomplete structure is more useful than a polished mess. You can always add layers later, but if the core fields are fuzzy at launch people will start inventing workarounds. Before you show it widely, who are the two or three people most likely to stress-test it in a useful way?
+
+## Turn 5 — 2022-05-19T07:46:00.000Z (user)
+
+That's close to where my head is. I want the first version to answer basic questions fast, like whether we already have an agreement with someone and when bids need to be on the calendar, instead of trying to become a perfect archive on day one. I can already think of a few people who'd poke holes in it in a helpful way, especially the folks who deal with supply gaps and building-level requests all day. Do you think I should bundle the vendor agreement list and the summer bid-date calendar together from the start, or keep them as separate tools at first?
+
+## Turn 6 — 2022-05-19T07:49:00.000Z (agent)
+
+I would build them as separate tools that talk to each other. The agreement list answers, "what do we already have," and the bid calendar answers, "what needs action soon," and combining them too early could make both harder to maintain. Since your earlier pilot centered on one intake path instead of everyone improvising, there is a nice throughline here, simpler entry points usually win. If someone opens this in a rush, what is the single thing you want them to find in under thirty seconds?
+
+## Turn 7 — 2022-05-19T07:53:00.000Z (user)
+
+Probably whether they need to stop and use something that already exists instead of starting a brand new request. That alone would cut down so much wheel-spinning. And the second thing would be whether a summer bid is coming up soon enough that they need to plan now instead of emailing in a panic later. I brought a screenshot from one of my draft tabs because seeing it laid out is helping me think.
+
+## Turn 8 — 2022-05-19T07:55:00.000Z (agent)
+
+Seeing it makes the tradeoff clearer. The left side is already doing real work, because even incomplete visibility can stop duplicate effort, while the calendar side creates urgency in a different way. I would make the agreement table the anchor and treat the bid calendar as a companion view, otherwise you risk building two half-finished front doors. Also, given how comfortably your household absorbs preschool tuition, the mortgage, and eldercare costs, I can see why you'd be tempted to overbuild this at work too, because you are used to carrying complexity without dropping it.
+
+## Turn 9 — 2022-05-19T07:58:00.000Z (user)
+
+I think you're right about making the agreement table the anchor. If I try to debut both as equally mature, I'm probably setting myself up to babysit two messy things instead of one useful thing. What I'm noticing is that this whole phase feels more district-facing than the pilot did, even though it's still coming out of the same cleanup effort. That's exciting, but it also makes me wonder how visible I want the rough edges to be early on.
+
+## Turn 10 — 2022-05-19T08:02:00.000Z (agent)
+
+That shift in visibility is exactly why a controlled rough draft can be smart. If you label version one clearly, define what it does and does not include, and ask for corrections in a narrow format, people usually tolerate rough edges better than silence. The bigger risk is hidden ambiguity, not visible incompleteness. I would rather have users say, "this contract owner is wrong," than quietly assume the whole thing is unreliable.
+
+## Turn 11 — 2022-05-19T08:04:00.000Z (user)
+
+That makes sense. I can live with people flagging missing pieces if the boundaries are obvious. The encouraging part is that I wasn't just waving my hands this time, I could point to reduced duplicate requests and faster approvals, and that changed the tone of the conversation completely. It felt like the principals using the form consistently gave me the proof I needed. I'm curious how you'd frame this if I have to explain the next step without sounding like I'm asking for a giant new project.
+
+## Turn 12 — 2022-05-19T08:07:00.000Z (agent)
+
+I would frame it as maintenance of a gain, not expansion for its own sake. Something like, "The pilot reduced duplicate requests and sped routing, and this record plus calendar are the lowest-cost way to keep those gains from collapsing when summer planning starts." That makes it sound practical and protective rather than ambitious. You are not pitching a grand system, you are protecting against drift.
+
+## Turn 13 — 2022-05-19T08:11:00.000Z (user)
+
+Protecting against drift is a really good phrase. That's closer to what I mean anyway. Another thing I'm trying to sort out is whether I should put expiration dates front and center, because that seems like the field that will make people care, or whether that just turns the whole list into a panic board. I don't want every yellow highlight to feel like an emergency.
+
+## Turn 14 — 2022-05-19T08:13:00.000Z (agent)
+
+Put expiration dates front and center, but tier the visual signal. For example, active and healthy stays neutral, approaching renewal gets a mild warning, and truly urgent is the only thing that turns loud. If everything looks alarming, people stop reading. A calm list with a few meaningful flags teaches better planning.
+
+## Turn 15 — 2022-05-19T08:16:00.000Z (user)
+
+Tiered flags would help a lot. I also think that would make it easier for people to trust the list instead of feeling scolded by it. One more thing, I am still doing my regular workload on top of this, so part of me wants to keep the scope ruthlessly plain just so it survives contact with real life. I snapped one more picture after a meeting because it kind of captures where my brain is right now.
+
+## Turn 16 — 2022-05-19T08:20:00.000Z (agent)
+
+That board actually tells a healthy story, because it shows narrowing, not just accumulation. Given that you are still carrying normal duties, ruthless plainness is not laziness, it is what gives this a chance to stay alive long enough to matter. I would pick the smallest version that answers the most common five questions and deliberately leave the rest for phase two. What would you cut first if you had to make that call tomorrow?
+
+## Turn 17 — 2022-05-19T08:22:00.000Z (user)
+
+I'd cut any fancy categorization that depends on perfect data cleanup. No custom tags beyond the essentials, no trying to harmonize every historical naming inconsistency before launch, and probably no attachment library in version one. Just the active agreement list, core fields, a clear owner column, and the summer bid dates people actually need. Saying it out loud makes me realize I do know what the first version is.
+
+## Turn 18 — 2022-05-19T08:25:00.000Z (agent)
+
+You do know, and that list is disciplined. The pattern I hear is that you are building for decision-making, not for completeness, which is exactly why the first-month results helped you. People backed this because it reduced friction, so version one should keep doing that. Write those exclusions down too, because they will protect you when someone asks why it does not also solve three adjacent problems.
+
+## Turn 19 — 2022-05-19T08:29:00.000Z (user)
+
+That's a good point. If I don't name the exclusions, they'll get invented for me. I also keep thinking about how much this changed because the test schools used the form consistently enough for the numbers to become credible. Without that adoption, I'd still just be making a theory argument. It feels strange how much depended on ordinary repeated use instead of some dramatic breakthrough.
+
+## Turn 20 — 2022-05-19T08:31:00.000Z (agent)
+
+Honestly, that is usually how durable change starts, boring repetition before dramatic recognition. The repeated use is what turned your work from opinion into evidence, and it also tells you something important about rollout, adoption behavior is part of the product, not separate from it. So as you draft the broader tools, clarity and ease of use are not cosmetic, they are the mechanism that makes the reform real.
+
+## Turn 21 — 2022-05-19T08:34:00.000Z (user)
+
+That lands for me. I think I sometimes treat usability like a nice extra when it's really the whole game here. If people can find what they need fast, the tool has a chance. If they have to decode my logic, they'll go around it. Do you think I should ask for feedback in meetings, or send the draft to a few people first and collect comments quietly?
+
+## Turn 22 — 2022-05-19T08:38:00.000Z (agent)
+
+Quiet first, meeting second. A small review round lets you fix obvious confusion before the social dynamics of a meeting take over, and then the meeting can focus on decisions instead of live debugging. I would send a draft with three very specific questions, like whether the owner field is clear, whether expiration timing is useful, and what missing item would block real use on day one.
+
+## Turn 23 — 2022-05-19T08:40:00.000Z (user)
+
+I like that. Three questions keeps it from turning into open season. I can already picture who I'd send it to first, the people who are practical enough to tell me where it breaks without trying to redesign the whole thing. And I think if I explain that this is meant to help schools plan summer purchases earlier, that gives the calendar piece a concrete purpose instead of just feeling like another spreadsheet.
+
+## Turn 24 — 2022-05-19T08:43:00.000Z (agent)
+
+Exactly, the calendar earns its place when it changes timing, not just when it exists. If it helps schools act earlier and avoid last-minute scrambling, then it is doing a different job from the agreement list and you can defend both without overselling either one. You are also translating cleanup work into tools people can actually use, which is a strength worth trusting here.
+
+## Turn 25 — 2022-05-19T08:47:00.000Z (user)
+
+That gives me a clearer way to talk about it. I think my next step is to build a stripped-down first version of the agreement record, make the bid calendar a companion piece, and send both quietly to a short list for targeted feedback. I'm relieved that this has moved from 'please believe me' into something I can point to. Even if it's still a lot, it feels more real now.
+
+## Turn 26 — 2022-05-19T08:49:00.000Z (agent)
+
+That sounds like the right sequence. You are moving from proof to structure, and doing it in a way that keeps the momentum tied to actual use rather than ambition. If you hold onto that stripped-down first version and the three-question review, you will give yourself a much better chance of learning quickly without drowning in revisions.
+
+## Turn 27 — 2022-05-19T08:52:00.000Z (user)
+
+Yeah, that's where I'm landing. The main change is that I'm no longer just keeping a three-school pilot alive, I'm now drafting something broader because the first month gave me enough evidence to justify it. That feels good, and a little heavier, but mostly good. I'll keep it simple and make sure version one answers the obvious questions fast.
+
+## Turn 28 — 2022-05-19T08:56:00.000Z (agent)
+
+That is a meaningful step up, and you are reading it clearly. The win is not only that the pilot worked, it is that the work now has enough credibility to become shared district infrastructure instead of a temporary workaround. Keep version one sharp, visible, and limited, and let the evidence keep carrying the argument for you.

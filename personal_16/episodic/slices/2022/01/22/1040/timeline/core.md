@@ -1,0 +1,120 @@
+---
+slice_id: 2022-01-22-1040
+focus: "A compliance near-miss triggers a formal three-month operational review"
+status: closed
+start: "2022-01-22T10:40:00.000Z"
+end: "2022-01-22T11:48:00.000Z"
+timezone: America/Chicago
+summary: "After a repeat-pack compliance near-miss, Peter formally puts a three-month dispensing flow review in Saira's hands. She takes photos, starts an error log, and develops a lean tracking system for queue times and errors."
+decisions:
+  - "After a repeat-pack compliance scare, Saira stayed late at Westgate Pharmacy and formally took on a three-month operatio"
+tags:
+  - compliance-scare
+  - dispensing-error
+  - workflow-review
+  - operations-lead
+  - quality-improvement
+  - peter-trust
+  - error-logging
+  - team-dynamics
+open_loops:
+  - Amelia's buy-in remains uncertain for the extra checks
+  - Error log needs to be lean enough for busy staff to use
+  - Three-month review outcome is pending
+emotional_tone: "mixed"
+---
+## Turn 1 — 2022-01-22T10:40:00.000Z (user)
+
+A lot has shifted lately, and work has suddenly become much more serious than the usual busy kind of serious. We had a near-miss with a regular patient getting the wrong repeat pack handed over, and it was one of those moments where everyone goes a bit cold afterwards. I stayed late tonight because I could not just leave it as a scary story people tell for a week and then forget. It feels like something has actually changed in my job because of it.
+
+## Turn 2 — 2022-01-22T10:42:00.000Z (agent)
+
+That sounds like one of those incidents that strips away the comforting story that everything is basically fine. You were already the kind of person who worries about whether a system is too dependent on memory and pace, so it makes sense that this would land heavily with you. The important part is that you stayed with it long enough to see what actually failed, not just who happened to be nearest when it happened. What changed in your role after tonight?
+
+## Turn 3 — 2022-01-22T10:45:00.000Z (user)
+
+What changed is that I am still operations lead, but now Peter has explicitly put a three-month review in my hands. I am meant to keep an error log, track queue times, and do a proper documented review of the dispensing flow instead of us all saying we will be more careful. We traced the paper trail tonight from the repeat request through to the handoff point, and once we started pulling at it there were too many weak spots to pretend it was a one-off.
+
+## Turn 4 — 2022-01-22T10:49:00.000Z (agent)
+
+That is a real shift, not just extra tidying up after a bad day. Peter handing you the follow-up means he trusts your judgement enough to let you turn a scare into evidence, and the queue-time piece is smart because it stops the conversation becoming only about blame. If you document both risk and bottlenecks, you can show why shortcuts keep appearing instead of just telling people to stop. I would start by defining the few points you will measure every single day so the log stays usable when the week gets messy.
+
+## Turn 5 — 2022-01-22T10:51:00.000Z (user)
+
+That is exactly the tension, because if I make it too ambitious it will die by next Thursday. I also took photos while we were still there, partly so we could not later tidy the room and rewrite the memory of it. This one is the shelves at the back, and there are half-checked baskets just shoved wherever there is room, which is not dramatic until you imagine someone rushing at half five. I keep thinking maybe the photos are what finally stop us talking in vague terms.
+
+## Turn 6 — 2022-01-22T10:54:00.000Z (agent)
+
+The photos matter because they freeze the ordinary chaos people stop seeing after a while. A written incident note can get softened later, but a picture of half-checked baskets and overpacked shelving makes the workflow pressure visible. I would use those images to build a very small list of pressure points, maybe three to start, so the review stays anchored in what actually creates risk rather than becoming a general clean-up campaign. Which point looked worst to you, storage, basket handoff, or the final collection step?
+
+## Turn 7 — 2022-01-22T10:58:00.000Z (user)
+
+The handoff point, definitely. The patient was a regular, which somehow makes it more unsettling because familiarity makes everyone move faster and check less. The paper trail showed how easy it is for the wrong repeat pack to ride along once one assumption gets made early. I think the final collection step needs some kind of firmer pause built into it, but I am worried everyone will hear that as me trying to slow the whole shop down.
+
+## Turn 8 — 2022-01-22T11:00:00.000Z (agent)
+
+You are probably right that the familiar patient factor is part of the danger, because routine can disguise risk better than a confusing one-off. A firmer pause at handoff does not need to mean a dramatic slowdown if it is specific, something like one mandatory identity-and-item check rather than a broad instruction to be careful. Also, when you speak to Nusrat, the GP practice pharmacist you met during the compliance scare, she may help you separate what is genuinely essential from what just feels reassuring on paper. The trick will be keeping the pause narrow enough that staff can sustain it on a busy afternoon.
+
+## Turn 9 — 2022-01-22T11:03:00.000Z (user)
+
+Yes, that is the line I am trying to find, something real but not performative. Peter was actually better about it than I expected, because once we sat down and traced everything he stopped treating it like a passing wobble and put the review with me rather than keeping it at superintendent level. That felt significant. At the same time, I know the minute this starts affecting flow, I am going to get looks from the people who are keeping the place moving.
+
+## Turn 10 — 2022-01-22T11:07:00.000Z (agent)
+
+That sounds significant for two reasons, trust from him and responsibility landing squarely on you. The resistance you are expecting is not proof the review is wrong, it is a sign that the current speed is being propped up by informal workarounds. I would get ahead of that by saying plainly that this is a three-month test with measured queue times, so people know you are not asking for blind faith forever. That gives you a fair answer when someone says, this will slow us down.
+
+## Turn 11 — 2022-01-22T11:09:00.000Z (user)
+
+That makes sense. I think if I can say, we are measuring the delay as well as the errors, it sounds less like a lecture and more like an honest trade-off. Amelia is the one I am bracing for, because she is brilliant when it is manic and she already thinks extra checks are the sort of thing people invent when they are not the ones getting shouted at. How would you bring her in without making it a power struggle?
+
+## Turn 12 — 2022-01-22T11:12:00.000Z (agent)
+
+With someone like that, I would not lead with policy language at all. I would say you need her help identifying where the flow actually breaks under pressure, because fast operators usually know the weak spots better than anyone, and then ask her to test one or two checks rather than endorse the whole project upfront. If she feels she is being recruited as a practical expert instead of being corrected, you have a much better chance of getting honest buy-in. It may also help to show that the goal is evidence on wait times and errors together, not paperwork for its own sake.
+
+## Turn 13 — 2022-01-22T11:16:00.000Z (user)
+
+I can do that. I do not want this to turn into me versus the fast people, because that would miss the point completely. Here is another photo from tonight, the baskets on the side bench after we started digging through them properly. Looking at it now, you can almost see how many micro-decisions are being left half finished and resumed later, which is probably where the danger lives.
+
+## Turn 14 — 2022-01-22T11:18:00.000Z (agent)
+
+That photo really does show interrupted work rather than a single mistake, and that distinction matters. When tasks are constantly being paused and resumed, people start relying on memory to reconnect the thread, which is exactly where a wrong pack can slip through. I would turn that observation into one review question, maybe, where are we asking staff to remember status instead of seeing status. If you answer that, the fixes become much more concrete.
+
+## Turn 15 — 2022-01-22T11:21:00.000Z (user)
+
+That phrasing is useful, actually. Where are we asking people to remember status instead of seeing status, that feels sharper than saying everyone needs to focus. I am half tempted to relabel basket stages first because it is visible and cheap, but another part of me thinks I should spend two weeks just watching and logging before I touch anything. Which would you prioritise?
+
+## Turn 16 — 2022-01-22T11:25:00.000Z (agent)
+
+I would resist changing five things at once, but I also would not leave an obvious hazard untouched just to keep the data pure. A good compromise is to log first while making only the smallest safety clarifications, things that reduce ambiguity without redesigning the whole workflow, then use the first two weeks to decide what deserves a bigger change. That way your evidence still means something, and you are not knowingly leaving a confusing stage label in place because you wanted a cleaner experiment.
+
+## Turn 17 — 2022-01-22T11:27:00.000Z (user)
+
+Yes, that feels more realistic than pretending the room is a laboratory. Part of why I said yes to the full three months is that I genuinely do not think we can keep relying on shortcuts and goodwill if we want to stay trusted as an independent place. A verbal promise to be more careful would have made everyone feel better for about forty-eight hours, and then we would be back where we started. I think this has to produce something documented that proves what is going wrong and where the queues are getting jammed.
+
+## Turn 18 — 2022-01-22T11:30:00.000Z (agent)
+
+I think that is the clearest reading of it. You are not doing this because documentation is comforting, you are doing it because trust and independence become fragile when the system only works by heroics and memory. The fact that you want evidence on both safety and waiting tells me you are thinking like an operator, not just reacting to a scare. Write that principle down somewhere for yourself, because on the first ugly week it will help you remember why the extra effort is there.
+
+## Turn 19 — 2022-01-22T11:34:00.000Z (user)
+
+I probably need that reminder, because I can already feel the next ugly week coming. Also, selfishly, I am a bit daunted by the admin of it all. I can investigate, I can spot patterns, but if the log becomes clunky people will stop feeding it and I will end up reconstructing days from scraps. What would you keep in the error log if you had to make it lean enough that busy people might actually use it?
+
+## Turn 20 — 2022-01-22T11:36:00.000Z (agent)
+
+Keep it brutally small at first. Date and rough time, where in the process the issue appeared, what kind of mismatch or near-miss it was, what interrupted the flow, and how it was caught, that is enough to start seeing patterns without turning each entry into an essay. You can always add fields later, but if the first version feels like homework, the log will die and people will go back to verbal recollections. A one-page queue-time sheet with a few fixed check times would match that same philosophy.
+
+## Turn 21 — 2022-01-22T11:39:00.000Z (user)
+
+That is helpful, especially the bit about how it was caught, because that tells you what safety net still worked. I sketched a rough sheet before I left, and this is the notebook page with my first categories and a couple of queue timing slots scribbled down. It is messy, but I wanted something on paper before the whole thing got diluted by tomorrow's noise. I might ring for a reality check as well, just to make sure I am not inventing a process only I can tolerate.
+
+## Turn 22 — 2022-01-22T11:43:00.000Z (agent)
+
+That page looks like the right kind of rough, not polished for appearances but concrete enough to become a tool. Getting a reality check from someone who understands how process changes live or die in real settings is a good idea, because they can tell you whether your categories are practical before the team quietly abandons them. I would test the sheet for one day yourself, then trim anything you did not honestly have time to fill in. That will give you a version built for actual pressure, not ideal conditions.
+
+## Turn 23 — 2022-01-22T11:45:00.000Z (user)
+
+I think that is my plan then. Tomorrow I will test a very lean log on myself first, keep the queue timing simple, and frame the whole thing to the team as a three-month test rather than a permanent sermon. I still feel shaken by what happened, but I also feel strangely clearer than I did this afternoon. It is like the job has narrowed into something I can actually get my hands around.
+
+## Turn 24 — 2022-01-22T11:48:00.000Z (agent)
+
+That sounds like a strong first step, and it matches the way you work when something matters, make it visible, make it measurable, then decide what earns a bigger change. Feeling shaken and clearer at the same time makes sense, because the scare gave the problem edges. Start small enough that the system survives contact with a busy day, and let the evidence build your argument for you over the next three months. You do not need to solve the whole pharmacy tomorrow, just begin in a way that people can keep using.

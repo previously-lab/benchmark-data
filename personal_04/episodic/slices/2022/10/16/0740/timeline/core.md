@@ -1,0 +1,146 @@
+---
+slice_id: 2022-10-16-0740
+focus: "Pilot approved as agency standard; Tasha recognized as internal lead for bereavement workflow"
+status: closed
+start: "2022-10-16T07:40:00.000Z"
+end: "2022-10-16T09:06:00.000Z"
+timezone: America/Chicago
+summary: "In a review with Miriam and the quality team, Tasha presents clean referral data showing documented first contacts have risen sharply since the workflow tightened. The team approves turning the pilot into the agency's standard bereavement calendar, and Tasha is recognized internally as the lead for the calendar and referral tracking process. The agent helps her plan a follow-up email documenting what was approved, prioritize a contact-attempt rule (addressing unanswered-family gray areas) over a dashboard, and approach Miriam for a written scope rather than immediately pushing for title/compensation. Tasha plans a stabilization window and a supervision conversation about boundaries as operational lead."
+decisions:
+  - "Tasha is now recognized internally as the lead for Transitions LifeCare's standard bereavement calendar and referral-tra"
+tags:
+  - pilot-approved-as-standard
+  - first-contact-numbers-proven
+  - internal-lead-recognition
+  - quality-team-legitimization
+  - miriam-public-backing
+  - written-scope-request-plan
+  - contact-attempt-rule-priority
+  - stabilization-window-strategy
+open_loops:
+  - Follow-up summary email to Miriam — to be drafted today
+  - Contact-attempt rule with time-based owner definition — priority task
+  - Monthly dashboard for quality team — deferred until after rule is done
+  - Boundary discussion with Renee in supervision — planned
+  - Written scope/authority summary request — to be asked
+emotional_tone: "positive"
+---
+## Turn 1 — 2022-10-16T07:40:00.000Z (user)
+
+A lot has shifted lately, and for once the thing I have been pushing at work actually landed in a real way. I had a review this week with Miriam and the quality team, and I finally had clean enough referral data to show them what has changed. The biggest piece was that documented first contacts have gone up sharply since we tightened the workflow. They approved turning the pilot into next year's standard bereavement calendar instead of treating it like a temporary experiment, and that basically means I am now being recognized internally as the lead for the calendar and referral tracking process.
+
+## Turn 2 — 2022-10-16T07:42:00.000Z (agent)
+
+That is a real shift, not just a nice meeting. You were able to bring evidence, not just effort, and that matters a lot after the kind of scrutiny this work has been under. Turning it into the standard process means your work moved from cleanup into something the whole agency is going to rely on. What part of the review seemed to convince the room most, the rise in first contacts, the cleaner referral trail, or the fact that scheduling and tracking now sit together as one system?
+
+## Turn 3 — 2022-10-16T07:45:00.000Z (user)
+
+Honestly, I think it was the combination. The first-contact numbers got their attention fast, because that is the clearest proof that families are actually being reached, but the quality team also liked that the bereavement calendar and the referral tracking are no longer two separate messy things. I could show where a referral came in, when somebody made first contact, and where that person was placed on the calendar if they wanted a group. It felt less like me asking them to trust my instincts and more like me showing a working spine for the whole process.
+
+## Turn 4 — 2022-10-16T07:49:00.000Z (agent)
+
+That makes sense, because you were not selling a patch, you were showing a durable workflow. When scheduling and intake accountability are tied together, people can see the system instead of depending on whoever happens to remember a detail that day. It also sounds like the quality team became a legitimizing audience for you, not just spectators. Did Miriam back you in the room in a clear way, or was this more of you carrying the case yourself?
+
+## Turn 5 — 2022-10-16T07:51:00.000Z (user)
+
+She backed me, which mattered more than I expected. She let me walk through the numbers, then she stepped in and said she wanted this to be the agency standard for the next year, not an experiment we revisit every few weeks. Hearing her say that in front of the quality people felt important. I have been doing a lot of this beyond my title for months, so having it recognized out loud changed the temperature for me.
+
+## Turn 6 — 2022-10-16T07:54:00.000Z (agent)
+
+That public backing changes your footing. Even without a formal title change, being named as the internal lead gives you more room to set expectations instead of sounding like the person who is just volunteering extra effort. It also closes a hard stretch where the work had to prove itself with documentation rather than goodwill. I am curious whether that recognition felt mostly relieving, or whether it immediately came with the thought, great, now more people will bring me problems.
+
+## Turn 7 — 2022-10-16T07:58:00.000Z (user)
+
+Both, if I am being honest. I felt proud for maybe fifteen minutes, then I started thinking about how easy it is for a place to make something your lane without changing your title, pay, or staffing. I do think my standing improved because I had months of clean data and not just stories, but I am not naive about institutions. Do you think I should press on the role-definition piece now, or let this settle first and use the standardization as leverage later?
+
+## Turn 8 — 2022-10-16T08:00:00.000Z (agent)
+
+I would not rush straight into a big ask this week, but I would absolutely start building the paper trail for it now. The smart middle move is to capture what responsibilities are now formally expected, what decisions run through you, and what outcomes the agency is crediting to this process. Since you moved into the income-driven loan plan partly to free up room for a short restorative trip later this year, I would avoid adding a high-stakes compensation conversation before you have caught your breath. A calmer next step might be asking for a written summary of your scope and authority first. Would that feel doable, or too timid?
+
+## Turn 9 — 2022-10-16T08:03:00.000Z (user)
+
+The written scope idea does feel doable. I do not think timid is the issue, I think I need something I can point to before I start talking about title or compensation. If I ask for a summary of responsibilities and decision rights tied to the standard workflow, that gives me a base. I also want to be careful not to sound ungrateful the minute I got the approval, because this really is a win.
+
+## Turn 10 — 2022-10-16T08:07:00.000Z (agent)
+
+Exactly, and asking for clarity is not the same as immediately asking for more money. It is actually protective, because once a workflow becomes standard, vague authority creates new confusion fast. You can frame it as supporting consistency for the next year, not as making a personal demand. I would keep it concrete, responsibilities, decision points, reporting expectations, and where escalation lives. Have you noticed whether coworkers are already responding to you differently now that this got approved?
+
+## Turn 11 — 2022-10-16T08:09:00.000Z (user)
+
+A little, yes. There was a weirdly respectful tone today from people who were side-eyeing this all summer, and a couple of folks started asking me process questions like the answer would be final. That part is useful, but it also makes me realize how much this depends on me staying organized and not becoming the human workaround for everything. I want the system to be durable, not just me being extra available all the time.
+
+## Turn 12 — 2022-10-16T08:12:00.000Z (agent)
+
+That is exactly the right instinct. If people start treating you as the workflow, the whole thing becomes fragile again, just in a more flattering way. This is the moment to move recurring answers out of your mouth and into shared tools, a standard decision tree, a one-page guidance sheet, maybe a monthly dashboard that shows the same core measures each time. You seem to care a lot about fixes that hold up under pressure, not emergency patches, and that is what will protect you here. What is the first repeat question you are already tired of answering?
+
+## Turn 13 — 2022-10-16T08:16:00.000Z (user)
+
+The most repetitive one is basically, who owns the next step when a referral comes in but the family has not answered yet. People still want to toss that into a gray area. I am thinking I need a simple rule with a timeline so it is not a personality contest every time. Also, I have been wondering if I should start a monthly snapshot for the quality team, not because they asked, but because I do not want this to disappear into habit and then only get attention again if something goes wrong.
+
+## Turn 14 — 2022-10-16T08:18:00.000Z (agent)
+
+A monthly snapshot is a strong move, especially right after approval. It keeps the workflow visible as a standard, not just a project that fades once people stop talking about it, and it makes your leadership legible without you having to campaign for it. On the unanswered-family issue, I would make the rule time-based and owner-based, with one clear handoff point and one escalation point, so nobody gets to hide inside ambiguity. If you had to choose one thing this month, would it be the dashboard or the contact-attempt rule?
+
+## Turn 15 — 2022-10-16T08:21:00.000Z (user)
+
+The contact-attempt rule first, because that is where things can still quietly fail. The dashboard matters, but the rule is what keeps the actual care from slipping. I can probably draft both, but if I only finish one well in the next week, it needs to be that one. This whole milestone feels meaningful because it closes the loop on a really rough chapter, and I do not want to get sloppy right after getting the green light.
+
+## Turn 16 — 2022-10-16T08:25:00.000Z (agent)
+
+I agree with that priority. The dashboard proves value, but the contact-attempt rule protects families in real time, and that is the heart of the whole effort. You are also reading the moment well, approval is not the finish line, it is the handoff from proving the model to making it durable. Draft the rule first, test it against a few realistic edge cases, then let the dashboard follow from the categories that rule creates. Are there any edge cases already worrying you?
+
+## Turn 17 — 2022-10-16T08:27:00.000Z (user)
+
+Yes, a couple. One is when a family member says they want a call later but nobody writes down what later means, and another is when somebody informally mentions a referral in passing before the actual paperwork lands. Those are the spots where people start relying on memory and good intentions again. I want to write the rule so there is less room for that. I am also trying to decide whether to send Miriam a follow-up email summarizing what was approved, just so there is a clean record.
+
+## Turn 18 — 2022-10-16T08:30:00.000Z (agent)
+
+Send the follow-up email. That is not overkill, it is how you keep the verbal approval from becoming a fuzzy memory later, especially when your role is expanding without a formal title shift. You can keep it simple, what was approved, what standard process will start next year, and the two immediate implementation pieces you are drafting. For the edge cases, I would define them in plain language inside the rule itself, because if people can recognize the scenario quickly, they are more likely to follow the step instead of improvising. Do you want that email to sound mostly celebratory, mostly operational, or split down the middle?
+
+## Turn 19 — 2022-10-16T08:34:00.000Z (user)
+
+Split down the middle, probably. I want to acknowledge that this is a meaningful approval, but I also want the record to be practical and clear enough that nobody can later say we all heard something different. I think I will keep it short and name the standard calendar, the referral-tracking workflow, and the first two follow-up items. Part of me still feels weird calling it my leadership when I do not have a new title, though.
+
+## Turn 20 — 2022-10-16T08:36:00.000Z (agent)
+
+I get why that feels strange, but leadership is not imaginary just because the org chart is lagging behind. If people are looking to you for process decisions, if your data changed the agency's choice, and if the standard now runs through the workflow you built, that is leadership in practice. You do not have to inflate it, just name it accurately. One useful phrase might be, "the workflow I am responsible for implementing," because it is factual and hard to minimize. Does that wording sit okay with you?
+
+## Turn 21 — 2022-10-16T08:39:00.000Z (user)
+
+Yes, that wording actually helps. It feels grounded and not self-congratulatory. I think what has me off balance is that I spent so much time trying to prove this was measurable and durable that I did not really think about how it would feel once people accepted it. Now that they have, I need to act like the person responsible for maintaining it, not just the person who fought for it. That is a little daunting.
+
+## Turn 22 — 2022-10-16T08:43:00.000Z (agent)
+
+That is a normal second-wave feeling after a hard win. First you are braced for resistance, then approval arrives and suddenly the job becomes stewardship. The good news is that your instincts already fit that phase, because you are thinking about definitions, edge cases, records, and durability instead of basking in the approval. I would treat the next two weeks as a stabilization window, write the rule, send the summary, and note any places where the standard still depends too heavily on you personally.
+
+## Turn 23 — 2022-10-16T08:45:00.000Z (user)
+
+A stabilization window sounds right. That gives me a way to keep this from turning into one long victory lap followed by preventable mess. I may also use my supervision time to talk through the boundary piece, because once people start seeing you as the answer person, it gets easy to absorb too much. What would you prioritize if you were me, the email first or the contact rule first?
+
+## Turn 24 — 2022-10-16T08:48:00.000Z (agent)
+
+Email first, but only because it is fast and locks the approval into writing while the meeting is fresh. Then put your real energy into the contact rule, since that is the piece most tied to whether families are actually reached and whether the process keeps its credibility. Bringing the boundary issue into supervision is wise too, because operational leadership can quietly turn into emotional overfunctioning if nobody helps you sort the line. I would not spread yourself across five upgrades right now.
+
+## Turn 25 — 2022-10-16T08:52:00.000Z (user)
+
+That sequencing feels right. I can draft the email before I leave today, then use tomorrow morning for the contact rule while the meeting is still fresh in my head. After that I can sketch the dashboard without acting like it all has to be polished by next week. I am trying to let myself actually register that this is a win based on results, not just because somebody likes me.
+
+## Turn 26 — 2022-10-16T08:54:00.000Z (agent)
+
+That last part is important, because this approval rests on documented results, especially the stronger first-contact completion, not on anybody doing you a favor. You earned a different kind of standing by being able to show clean data after months of scrutiny. Let yourself take in that your judgment was validated through evidence, which is usually the sturdier kind of confidence anyway. If you want, you could even mark the moment in some small private way tonight so it does not get swallowed by the next task.
+
+## Turn 27 — 2022-10-16T08:57:00.000Z (user)
+
+You are right, I probably should mark it somehow. Nothing dramatic, maybe just decent takeout and not opening my laptop again tonight. I already called Denise in my head before I even left the building, because she will understand why this means something without making it into a whole performance. I think I needed this conversation to separate the real accomplishment from the anxiety that came right behind it.
+
+## Turn 28 — 2022-10-16T09:01:00.000Z (agent)
+
+That sounds like a good way to hold both parts of it, quiet celebration and practical restraint. Reaching for someone who can let the moment matter without turning it into a production fits the kind of day this is. And putting the laptop away tonight is not avoidance, it is part of making sure the win lands in your body before it gets converted into more unpaid vigilance. I hope the evening is gentle on purpose.
+
+## Turn 29 — 2022-10-16T09:03:00.000Z (user)
+
+That is the plan. I am going to send the summary email, write down the bones of the contact-attempt rule, and then be done for the day. More than anything, I think I am leaving this week with a clearer sense that I am not just patching holes anymore, I am actually responsible for a standard process now. That feels heavier, but also steadier.
+
+## Turn 30 — 2022-10-16T09:06:00.000Z (agent)
+
+That feels like the right takeaway. The weight is real, but it is steadier because it comes with proof, structure, and clearer standing, not just pressure. Your next steps are well chosen, capture the approval, define the vulnerable handoff, and then stop for the night. This chapter sounds less like emergency cleanup and more like you stepping into de facto operational leadership with your eyes open.

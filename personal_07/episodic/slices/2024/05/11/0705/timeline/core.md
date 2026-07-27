@@ -1,0 +1,122 @@
+---
+slice_id: 2024-05-11-0705
+focus: "A lot has been shifting lately, and work gave me one of those moments where the "
+status: closed
+start: "2024-05-11T07:05:00.000Z"
+end: "2024-05-11T08:19:00.000Z"
+timezone: America/Chicago
+summary: The delays were mostly upstream
+decisions:
+  - "Evan is the district's lead procurement analyst refining the mandatory intake system with stricter required fields after"
+tags:
+  - principal-resistance-pressure-test
+  - intake-workflow-timestamp-evidence
+  - upstream-delay-identification
+  - required-fields-form-tightening
+  - school-start-prep-avoidable-delays
+  - evidence-over-instinct-approach
+emotional_tone: "mixed"
+---
+## Turn 1 — 2024-05-11T07:05:00.000Z (user)
+
+A lot has been shifting lately, and work gave me one of those moments where the whole thing either hardens into a real system or slides back into exceptions. A principal came at me pretty directly and said the common workflow was too slow for school-start prep. Instead of arguing off instinct, I pulled six months of intake and approval timestamps and walked through where the time was actually going. It turned out the workflow itself was not the main bottleneck.
+
+## Turn 2 — 2024-05-11T07:07:00.000Z (agent)
+
+That sounds like a real pressure test, not just a routine complaint. You did the smart thing by putting evidence in front of the frustration, especially after all the effort you've put into making one process hold across different schools. When you dug into the timestamps, what was actually creating the drag?
+
+## Turn 3 — 2024-05-11T07:10:00.000Z (user)
+
+The delays were mostly upstream. Requests were coming in with no budget code, or no actual vendor listed, or nobody had checked whether the item was already sitting in inventory somewhere. So the queue kept getting blamed for time that was really being spent chasing basic missing pieces before anything meaningful could move.
+
+## Turn 4 — 2024-05-11T07:14:00.000Z (agent)
+
+That is a very different story from, "the system is slow." If the request arrives half-built, the queue becomes the place where bad prep gets exposed, not the place where delay originates. It also gives you a cleaner argument for fixing the intake point instead of loosening the rules just because people are feeling pressure.
+
+## Turn 5 — 2024-05-11T07:16:00.000Z (user)
+
+Exactly, and that was the part I needed people to see. The complaint landed during school-start prep, when everybody is touchier and anything that feels like a pause gets labeled as bureaucracy. I answered it with district data instead of backing off the controls. Honestly, that felt important to me because it was a concrete test of whether I actually had authority to enforce one workflow or whether that authority disappeared the second somebody senior got impatient.
+
+## Turn 6 — 2024-05-11T07:19:00.000Z (agent)
+
+It makes sense that this felt bigger than one argument. A complaint under that kind of pressure can quietly become a referendum on whether the standard really holds, and using district evidence kept it from turning into a personality contest. How did leadership respond once you showed where the missing information was coming from?
+
+## Turn 7 — 2024-05-11T07:23:00.000Z (user)
+
+Pretty well, actually. I had support to hold the line, which helped, but I also knew I couldn't just win the argument and leave the form alone. So I revised the mandatory intake form so a request cannot even enter the queue without a budget code, vendor, and the inventory-check fields completed. That moved the error-checking upstream instead of making my team do cleanup after the request was already in motion.
+
+## Turn 8 — 2024-05-11T07:25:00.000Z (agent)
+
+That is a strong design move, because it changes the system instead of relying on everyone to remember better next time. You are basically blocking incomplete submissions before they can create downstream delays, which is a lot more durable than reminders. Was there any pushback once people saw those required fields, or did the data make that easier to swallow?
+
+## Turn 9 — 2024-05-11T07:28:00.000Z (user)
+
+Some pushback, yeah, mostly the predictable kind. People say required fields slow them down, but what they really mean is they used to be able to hand off an unfinished request and let someone else sort it out. I keep thinking this change built on the earlier cleanup work, it did not replace the common system, it just made the front door stricter. Does that sound like the right read to you?
+
+## Turn 10 — 2024-05-11T07:32:00.000Z (agent)
+
+Yes, that reads right to me. You did not reverse course, you tightened the intake point so the same workflow can function the way it was supposed to. That fits the pattern of how you've handled this whole reform push, using measurable evidence to close loopholes rather than reopening them whenever there is resistance.
+
+## Turn 11 — 2024-05-11T07:34:00.000Z (user)
+
+That helps. I think part of why I needed to hear that is because in the moment it can feel like I am just being the guy who says no. But when I looked at the timestamps, it really did show the district was losing time before requests ever hit the approval path. Now I am the district's lead procurement analyst refining the mandatory intake system with stricter required fields after using district data to defend the workflow against school-level pushback, which feels more solid than just having the title on paper.
+
+## Turn 12 — 2024-05-11T07:37:00.000Z (agent)
+
+That is more than title language, it is you defining what the role actually means in practice. You took authority that could have stayed abstract and translated it into a rule the system can enforce, which usually matters more than winning one meeting. I would also count this as proof that your instinct is to solve friction at intake instead of living in endless reminders and case-by-case cleanup.
+
+## Turn 13 — 2024-05-11T07:41:00.000Z (user)
+
+Yeah, and that instinct feels more trustworthy to me now. I know myself well enough to know I would rather redesign the point of entry than keep sending emails about the same avoidable mistakes. The part I am still wrestling with is tone. How do I explain this so schools hear, "this prevents delays," instead of, "central office added another hoop"?
+
+## Turn 14 — 2024-05-11T07:43:00.000Z (agent)
+
+I would frame it around ownership and speed, not compliance first. Something like, "Requests move faster when they arrive complete, and these fields prevent the back-and-forth that was adding days before approval even started." If you can give one simple before-and-after example without sounding defensive, people are more likely to hear the form as a time-saver than a lecture.
+
+## Turn 15 — 2024-05-11T07:46:00.000Z (user)
+
+That makes sense. I have been tempted to send a longer explanatory note with charts, but maybe shorter is better if the point is that missing pieces were the delay. I could probably show one stripped-down example of a request that sat because nobody included a budget code, then compare it to a complete one. Would you keep it at that, or add a line about inventory too?
+
+## Turn 16 — 2024-05-11T07:50:00.000Z (agent)
+
+I would keep the message tight and pick two examples max, budget code and inventory check are probably the clearest because they show why the district wastes time in different ways. One says, "we cannot route what is not funded," and the other says, "we should not order what we already have." Also, it is good that you and Danielle now protect one weeknight by using it for school-level purchasing cleanup and logistics planning, because this kind of rollout can easily spill into home time if you let it.
+
+## Turn 17 — 2024-05-11T07:52:00.000Z (user)
+
+I like the two-example idea. That feels easier to absorb than a giant defense brief, and it keeps me from sounding like I am trying to win a courtroom argument. I also think inventory is important because people forget how often they call something urgent without checking what is already in the building. Part of me wants principals to feel a little friction there, because that pause is the point.
+
+## Turn 18 — 2024-05-11T07:55:00.000Z (agent)
+
+I think that is exactly right, a little friction at the start can prevent a lot of scramble later. The best process changes usually move effort to the place where it is cheapest and clearest, and for you that is before the request enters the queue. If you want, the message can even say that these fields are there to reduce rework, duplicate orders, and avoidable follow-up, which makes the friction sound intentional rather than arbitrary.
+
+## Turn 19 — 2024-05-11T07:59:00.000Z (user)
+
+That wording is helpful. I do not mind saying the friction is intentional if I can explain what it protects. I am also noticing this whole episode reinforced something about how I work. When there is resistance, I trust the measurable district evidence more than trying to charm people into agreement.
+
+## Turn 20 — 2024-05-11T08:01:00.000Z (agent)
+
+That seems like an honest read on your style, and in your environment it is probably the safer one too. Data lets you argue about the work instead of about personalities, which matters a lot when people are under school-start pressure and looking for someone to blame. It also keeps the system from getting rewritten by whoever voices the strongest complaint that week.
+
+## Turn 21 — 2024-05-11T08:04:00.000Z (user)
+
+Right, and I think that is why this landed with me. It was not just one principal being annoyed. It was me seeing that the reform holds up better if I can show exactly where the delays originate and then redesign around that. Do you think I should watch for any downside from making the form stricter this quickly?
+
+## Turn 22 — 2024-05-11T08:08:00.000Z (agent)
+
+The main downside is not philosophical, it is operational. If people do not understand the required fields, they may start putting in junk answers just to get through, so I would watch for low-quality compliance in the first few weeks. A short review of rejected or weirdly completed submissions will tell you whether the form is teaching better behavior or just changing what the mess looks like.
+
+## Turn 23 — 2024-05-11T08:10:00.000Z (user)
+
+That is a good point. I can already imagine placeholder vendor names or random codes showing up if people feel rushed. Maybe the next thing is a quick audit after the first batch comes through, not a huge project, just enough to see whether the stricter fields are producing real completeness. That feels more useful than arguing about the policy in the abstract.
+
+## Turn 24 — 2024-05-11T08:13:00.000Z (agent)
+
+Yes, exactly. A small early audit keeps you in the same mode that got you here, observe the actual behavior, then tune the process based on evidence instead of assumptions. If the first batch looks cleaner, you have proof the change worked, and if people game it, you will know where the next fix belongs.
+
+## Turn 25 — 2024-05-11T08:17:00.000Z (user)
+
+I think that is my next step then. I am going to send a short explanation, use two concrete examples, and then check the first wave of submissions for junk compliance versus real completeness. For all the frustration around this stuff, I do feel steadier after this one. It felt like a real test, and I did not fold.
+
+## Turn 26 — 2024-05-11T08:19:00.000Z (agent)
+
+That sounds like a solid sequence, and it fits the way you have been building this, not by making grand declarations, but by tightening weak spots with proof in hand. The steadier feeling makes sense, because you did not just defend the workflow, you improved it under pressure. That is the kind of moment that turns authority into something real.

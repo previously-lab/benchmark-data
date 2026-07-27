@@ -1,0 +1,129 @@
+---
+slice_id: 2023-03-29-0550
+focus: "Nadia turns her spreadsheet into a shared deadline-reminder system for 30-day and 90-day follow-ups across the team."
+status: closed
+start: "2023-03-29T05:50:00.000Z"
+end: "2023-03-29T07:04:00.000Z"
+timezone: America/Chicago
+summary: "With help from an agency data volunteer, Nadia converts her private tracking spreadsheet into a shared reminder system that flags upcoming 30-day and 90-day deadlines for every caseworker. The tool makes deadline visibility team-wide rather than dependent on Nadia's personal monitoring. She plans to watch for independent usage (do staff check it before asking her), track whether late paperwork spreads out instead of clustering, and redirect 'just tell me what's urgent' questions back to the shared view."
+decisions:
+  - Nadia shifted from only using dashboard-based complexity assignment to also running a shared reminder system for 30-day 
+tags:
+  - shared-deadline-reminders
+  - agency-data-volunteer
+  - 30-day-and-90-day-flags
+  - intake-system-expansion
+  - from-private-tracking-to-team-infrastructure
+  - independent-usage-goal
+  - late-paperwork-reduction
+  - spreadsheet-to-shared-tool
+open_loops:
+  - Monitor whether staff check the shared view independently before asking for guidance
+  - Track whether late paperwork deadlines begin to spread out instead of clustering
+  - Document examples of the shift from 'emergency questions' to 'capacity questions'
+  - Continue jotting one-sentence notes at the end of the day
+emotional_tone: "positive"
+---
+## Turn 1 — 2023-03-29T05:50:00.000Z (user)
+
+A lot has been shifting lately, and work kept showing me the same weak spot over and over. The front end is more organized now, but benefits renewals and those early follow-up calls were still bunching up into late paperwork. So I worked with one of our agency data volunteers and turned my spreadsheet into a shared reminder system for the whole team. It flags upcoming 30-day and 90-day deadlines for every caseworker, which feels like a real change in how I'm supervising now.
+
+## Turn 2 — 2023-03-29T05:52:00.000Z (agent)
+
+That sounds like a meaningful step, not just another patch. You noticed the intake side was no longer the main problem, and instead of leaning on everybody's memory you built infrastructure around the follow-through. It also fits the way your work has been evolving, from proving a process with data to making the process usable across the whole team. What changed once other people started using it, did it reduce the last-minute scramble right away or just make the scramble more visible?
+
+## Turn 3 — 2023-03-29T05:55:00.000Z (user)
+
+More visible first, honestly. Once it was shared, I could see that two people had clusters around the same weeks, and one person was doing the follow-up calls but not logging them until later, so on paper it looked like nothing had happened. Before, my spreadsheet was helping me monitor things, but now it's more like I'm running a reminder system on top of the complexity-based assignment model instead of just assigning cases and hoping the rest stays even. I think that's the real shift.
+
+## Turn 4 — 2023-03-29T05:59:00.000Z (agent)
+
+Yes, that is a different level of supervision. You are not just distributing work more fairly, you are creating a shared timing structure so the quieter failures have somewhere to show up before they become real problems. The fact that the first effect was visibility is actually good news, because hidden inconsistency is harder to fix than visible inconsistency. I would be curious whether your team experienced it as support or as surveillance at first.
+
+## Turn 5 — 2023-03-29T06:01:00.000Z (user)
+
+A little of both. One caseworker joked that I had built a polite alarm clock for adults, which was funny because it was true. But once they saw that the reminders were attached to everybody's cases, not just the people who were behind, it felt less personal. Do you think I should keep it very neutral and practical, or should I be more explicit that this came from me seeing the same misses repeat?
+
+## Turn 6 — 2023-03-29T06:04:00.000Z (agent)
+
+I would keep both pieces, neutral in tone but explicit about the reason. If you only present it as a generic efficiency tool, people may hear control, but if you say it targets the repeat weak spots around renewals and early follow-up timing, that gives it a fair purpose. You do not need to make it dramatic, just concrete. A simple line like, "we kept seeing deadlines cluster late, so this is here to spread the load earlier," probably lands well.
+
+## Turn 7 — 2023-03-29T06:08:00.000Z (user)
+
+That makes sense. The volunteer helped a lot with that framing too, actually, because she could look at my old sheet and say, this does not need to be replaced, it just needs to stop living inside your head. We converted what I already had instead of starting over from scratch, which mattered because I did not have the energy for a whole new system. I think if I'd tried to launch something brand new, I would have lost people.
+
+## Turn 8 — 2023-03-29T06:10:00.000Z (agent)
+
+That was smart. Converting an existing workflow is usually easier to adopt than introducing a clean-sheet tool, especially when the team is already working at full speed. And because the late renewals kept happening, it makes sense that you dropped the complexity-based assignment piece and made deadline reminders the main fix for the whole process. Did the volunteer help with the logic for how the 30-day and 90-day flags appear, or mostly with making it shareable?
+
+## Turn 9 — 2023-03-29T06:13:00.000Z (user)
+
+Mostly with making it shareable and less fragile. My original version worked if I was the one staring at it every day, but not if somebody else opened it and needed to know what to do in ten seconds. She cleaned up the views, set the reminders to surface upcoming deadlines more clearly, and made it easier to sort by caseworker. I am still the person checking patterns, but at least now the tool itself does some of the nudging.
+
+## Turn 10 — 2023-03-29T06:17:00.000Z (agent)
+
+That distinction matters a lot. A system that depends on your private logic is still basically manual, even if it looks organized, but a system that another person can open and understand starts becoming actual team infrastructure. It sounds like you are moving from being the human reminder to supervising a process that reminds people before you have to step in. I would protect that, because otherwise the tool turns back into your extra job.
+
+## Turn 11 — 2023-03-29T06:19:00.000Z (user)
+
+Yes, exactly, and I can feel that tension already. People are relieved to have the reminders, but they still come to me with, "can you just tell me what's urgent this week," and if I answer every time then I become the system again. I am trying to decide where to be helpful and where to say, open the sheet first. How would you handle that without sounding cold?
+
+## Turn 12 — 2023-03-29T06:22:00.000Z (agent)
+
+I would answer the question once, then redirect the habit. Something like, "The top urgent items are here, and I want you checking this view first because that is how we keep everyone from missing things." That is not cold, it is training. If you keep rescuing people from using the tool, the system never becomes shared, it just becomes one more thing you maintain for them.
+
+## Turn 13 — 2023-03-29T06:26:00.000Z (user)
+
+I think that's what I needed to hear. Part of me still feels like if I do not catch everything myself, then I have failed, and that is probably not sustainable. The 30-day reminders are already helping because those are the ones that used to slip by when a week got crowded. The 90-day flags matter too, but the early deadline is where I can see the team relaxing a little.
+
+## Turn 14 — 2023-03-29T06:28:00.000Z (agent)
+
+That tracks. The earlier deadline is where a system can buy back breathing room, because once something is late, every later milestone gets more stressful too. It also tells you this tool is targeting the right weak spot, not the intake assignment itself but the follow-through that comes after. You do not have to prove success with everything at once if the 30-day pressure is already easing.
+
+## Turn 15 — 2023-03-29T06:31:00.000Z (user)
+
+Right, and that helps me explain it better. I am not replacing the assignment model, I am layering this on top because the assignment piece fixed one problem and the reminder piece fixes a different one. I think I was having trouble saying that cleanly, and then people assumed every new tool meant I thought the last one had failed. Do you think I should say that out loud in supervision, or let people infer it?
+
+## Turn 16 — 2023-03-29T06:35:00.000Z (agent)
+
+Say it out loud. People often hear change as criticism unless someone names the continuity, and in your case the continuity is important because this new tool grows out of the same tracking work rather than replacing it. A sentence like, "This adds deadline follow-through to the structure we already built," would make the logic feel steadier. That kind of framing can reduce defensiveness before it starts.
+
+## Turn 17 — 2023-03-29T06:37:00.000Z (user)
+
+I like that wording. Another thing I noticed is that because everyone can see their own approaching deadlines more clearly, the conversations have become less dramatic. Instead of someone discovering a problem when I ask about it, they come in saying, I saw three things stacking up next week and I need help moving one. That feels healthier, but I do not want to oversell a system that is still very new.
+
+## Turn 18 — 2023-03-29T06:40:00.000Z (agent)
+
+You do not have to oversell it to trust what you are seeing. That shift in conversation is a real operational change, because people are bringing you capacity questions earlier instead of bringing you emergencies later. I would treat that as early evidence, not a grand victory, and maybe keep a small note of examples so you can describe the impact without sounding abstract.
+
+## Turn 19 — 2023-03-29T06:44:00.000Z (user)
+
+That is practical, I can do that. I have actually been jotting down little moments like that at my desk, mostly so I do not forget them by the end of the week. Also, selfishly, this setup means if I am out for a day the whole thing does not disappear into my inbox brain. I did not realize how much of the team's timing I was carrying privately until I tried to hand part of it over.
+
+## Turn 20 — 2023-03-29T06:46:00.000Z (agent)
+
+That is not selfish, that is a sign the structure is getting healthier. If the system only works when you are present and mentally tracking everything, then it is not really a system, it is your nervous system. The fact that you are documenting those small examples is useful too, because it helps you separate actual progress from the feeling that you must personally hold the whole thing together.
+
+## Turn 21 — 2023-03-29T06:49:00.000Z (user)
+
+That line hit me a little too hard, honestly. I think I have been building around that exact problem for months without saying it so plainly. The weird part is that this is still just a spreadsheet turned into something more shareable, not some fancy platform, but it feels more consequential than a bigger flashy change would have. Maybe because it solves a repeating annoyance instead of creating one.
+
+## Turn 22 — 2023-03-29T06:53:00.000Z (agent)
+
+Small tools can be consequential when they hit the exact failure point. Fancy systems often ask people to adapt to them, while this one seems to have adapted to the way the work already happens, which is probably why it has a chance of sticking. And it says something about your style too, you keep responding to recurring breakdowns by building practical shared structure instead of issuing one-off reminders. That usually lasts longer.
+
+## Turn 23 — 2023-03-29T06:55:00.000Z (user)
+
+I think that is true, even if it means I keep ending up as the person designing guardrails. For the next couple weeks I want to watch whether people actually use the reminders on their own or whether they wait for me to mention them in meetings. If you were me, what would you prioritize watching first, usage, tone, or whether late paperwork actually drops?
+
+## Turn 24 — 2023-03-29T06:58:00.000Z (agent)
+
+First I would watch independent usage, because if people are not consulting it on their own then any improvement may still be flowing through you. Second, I would watch whether the late paperwork begins to spread out instead of clustering, because that is the real outcome the system was built for. Tone matters, but if the tool is fair and useful, tone usually improves after people feel the relief. So I would prioritize habit formation, then deadline pattern, then morale.
+
+## Turn 25 — 2023-03-29T07:02:00.000Z (user)
+
+That ordering helps. I can pay attention to whether they check the sheet before coming to me, and then whether the renewal mess actually stops bunching up at the same points in the month. I feel better having a way to evaluate it that is not just my mood at the end of a long day. So I guess the headline is that I am not just overseeing assignment anymore, I am now running this shared reminder system for 30-day and 90-day deadlines too, and it actually feels like the next layer the team needed.
+
+## Turn 26 — 2023-03-29T07:04:00.000Z (agent)
+
+That sounds like the right headline. You have moved from organizing who gets what to building a team-wide structure for when key follow-up actually happens, and that is a real expansion of your role. Over the next two weeks, you do not need to prove perfection, just look for those two signals you named, whether people check the system without prompting and whether the paperwork stops bunching up late. If those start shifting, you will know this is becoming shared practice instead of another burden you carry alone.

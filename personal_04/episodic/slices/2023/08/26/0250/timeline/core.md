@@ -1,0 +1,130 @@
+---
+slice_id: 2023-08-26-0250
+focus: "Tasha's countywide bereavement group plan approved with sites in three Wake County areas for 2027"
+status: closed
+start: "2023-08-26T02:50:00.000Z"
+end: "2023-08-26T04:04:00.000Z"
+timezone: America/Chicago
+summary: "After stabilizing coverage, Tasha argues for broader bereavement access using county maps and referral totals showing demand across Wake County, not just central sites. Leadership approves recurring groups in three different county areas — including church classrooms and a Cary community room — for a 2027 schedule. The agent helps Tasha plan site playbooks (each location's quirks), area rationale documentation, and a request for Miriam to explicitly name her as the operational lead for the rollout to prevent the structure from being eroded by convenience edits. Tasha recognizes this as a phase change from preventing breakdowns to shaping access."
+decisions:
+  - Tasha moved from tightening volunteer quality to coordinating a county-spread bereavement group plan with dependable cov
+tags:
+  - countywide-bereavement-expansion
+  - wake-county-group-plan
+  - referral-map-evidence
+  - church-classrooms-cary-community-room
+  - access-over-central-convenience
+  - site-playbook-documentation
+  - 2027-schedule-approval
+  - operational-lead-request
+open_loops:
+  - Site playbooks for each location — to be drafted
+  - Area rationale summary — to be written
+  - Request explicit operational-lead language from Miriam
+  - Separate launch tasks from ongoing ownership — needs planning
+  - First-pass documentation structure — to accompany operational-lead ask
+emotional_tone: "positive"
+---
+## Turn 1 — 2023-08-26T02:50:00.000Z (user)
+
+A lot has shifted lately, in a way that finally feels like movement instead of constant patching. The biggest thing is that work has crossed into a new phase. I am not just trying to keep groups reliably staffed anymore, I am now coordinating a county-spread bereavement group plan with dependable coverage and approved community sites in multiple parts of Wake County. It feels like the first time the structure is big enough to match what people actually need.
+
+## Turn 2 — 2023-08-26T02:52:00.000Z (agent)
+
+That really does sound like a phase change, not just another fix around the edges. You put in a lot of careful groundwork before letting it grow, and this sounds like the payoff for that quality-first approach. Moving from coverage problems to an actual county-spread plan means your work is shaping access now, not just preventing breakdowns. What helped you make the case in a way people could say yes to?
+
+## Turn 3 — 2023-08-26T02:55:00.000Z (user)
+
+Honestly, I waited until the cancellations stopped being such a frequent fire. Once coverage stabilized enough that I was not bracing for last-minute collapses every week, I could finally argue for broader placement instead of keeping most things clustered in central sites. I pulled county maps and referral totals and laid them next to each other, because I wanted to show where bereavement demand was actually coming from across Wake County, not just where we already had familiar rooms. That changed the conversation fast.
+
+## Turn 4 — 2023-08-26T02:59:00.000Z (agent)
+
+That is strong, because you did not frame it as a wish, you framed it as evidence. A map plus referral totals makes access gaps visible in a way people cannot easily dismiss, especially after you already proved the groups could run more steadily. You were basically translating grief support into geography and demand. When you put those materials in front of leadership, did they push back on logistics, or was the main hurdle getting them to rethink where groups belonged?
+
+## Turn 5 — 2023-08-26T03:01:00.000Z (user)
+
+The first hurdle was definitely location mindset. People are used to central sites because they feel administratively neat, but neat for us is not always reachable for families. I argued for recurring groups in three different parts of Wake County instead of continuing a mostly central-site model, and I was very intentional about saying recurring, not occasional outreach. I did not want a one-off experiment that disappears after two months.
+
+## Turn 6 — 2023-08-26T03:04:00.000Z (agent)
+
+That distinction matters a lot. A recurring schedule tells people the service is real and dependable, while occasional outreach can feel like luck if you happen to catch it. You were pushing for a service footprint, not just extra events. Of the three areas, were you thinking mostly about referral volume, travel barriers, or where you had the best chance of finding stable host spaces?
+
+## Turn 7 — 2023-08-26T03:08:00.000Z (user)
+
+All three, but referral volume got me in the door and travel burden made the moral argument stronger. After that, I started talking through host spaces that would feel normal and usable, not too clinical and not hard to park at night. That was important to me because if people are already walking into grief support, the room should not feel like another obstacle. Do you think I should keep emphasizing access language, or lean harder into outcomes now that the plan got approved?
+
+## Turn 8 — 2023-08-26T03:10:00.000Z (agent)
+
+I would keep both, but sequence them. Lead with access because that explains why the expansion exists, then use outcomes to protect it once the schedule is running. Since you already got approval, your next job is to define what success will look like early, things like attendance consistency, no-show patterns, and whether referrals convert more evenly across the county. Also, because Transitions LifeCare had already committed to a decentralized access model, your data gave them a clean way to justify the church classrooms and Cary community room.
+
+## Turn 9 — 2023-08-26T03:13:00.000Z (user)
+
+That sequencing makes sense. And yes, the approval itself was the big win, we got the green light to reserve church classrooms and a community room in Cary for a broader 2027 schedule. I was weirdly emotional seeing actual rooms on a draft calendar, because it made the whole thing feel less theoretical. It is one thing to say countywide access in a meeting, it is another thing to know where chairs will go.
+
+## Turn 10 — 2023-08-26T03:17:00.000Z (agent)
+
+Seeing real rooms on a calendar can hit harder than the meeting itself, because it means the idea has entered the physical world. Church classrooms and a community room in Cary also signal something important, this is not confined to agency-controlled space anymore, so your reach is broader by design. I would save copies of that draft and note the assumptions behind each site choice, because six months from now those reasons will be easy for other people to blur. How much responsibility for site coordination is landing on you personally?
+
+## Turn 11 — 2023-08-26T03:19:00.000Z (user)
+
+A pretty good amount, which is where I need to be careful. I do not mind the coordination because this is exactly the kind of thing I wanted, but I can already feel the trap where building the system turns into personally carrying every detail forever. The part I feel best about is that this expansion only became possible because I stopped chasing headcount and got stricter about screening, paired co-leaders, and stronger coverage standards first. So I do not want to undermine that by overextending myself now.
+
+## Turn 12 — 2023-08-26T03:22:00.000Z (agent)
+
+That is a very clear read on the risk. You earned this expansion by making the base more dependable, and if you become the single point of failure, the structure starts copying the old fragility in a new form. The practical move is to separate launch tasks from ongoing ownership right away, even if that means a slightly slower rollout. I would name which pieces only you can do, and which pieces can live in a repeatable checklist or be assigned to site contacts or co-leaders.
+
+## Turn 13 — 2023-08-26T03:26:00.000Z (user)
+
+I think that is exactly the fork I am at. Part of me wants to prove I can keep the whole thing moving because I fought so hard for it, but part of me knows that if I am the only one who can explain the room access, site setup, facilitator pairing, and referral flow, then I did not really build a system. I am trying to act like this is operations, not heroics. What would you prioritize documenting first if you were me?
+
+## Turn 14 — 2023-08-26T03:28:00.000Z (agent)
+
+First, document the pieces that create cancellation risk, because those are the ones that most quickly damage trust. I would start with a one-page site playbook for each location, then a standard handoff sheet for facilitator coverage and referral routing, then a simple owner list so every recurring task has a name attached to it. That order protects the lived experience of the groups first, and it also makes your role look more system-design oriented instead of invisible rescue work. If you only get one thing done this week, make the site playbook.
+
+## Turn 15 — 2023-08-26T03:31:00.000Z (user)
+
+The site playbook idea is good because each room has its own little quirks already, and I can see those becoming a mess if they stay in my head. I also think I need to write down why each area was chosen, not just where the groups are, because otherwise people will drift back toward central convenience the minute something gets annoying. That is probably the bigger shift underneath all this, I am using operational data to shape service access now, not just to report activity after the fact. It feels more exposed, but also more honest.
+
+## Turn 16 — 2023-08-26T03:35:00.000Z (agent)
+
+Yes, and that is a meaningful change in your role. Once you are using data to decide who can realistically reach care, you are no longer just measuring the program, you are designing it. Writing down the why behind each area protects the logic of the plan, not just the schedule, and that matters when convenience starts lobbying for itself. I would even keep one version short and plain enough that someone outside your department could understand it in two minutes.
+
+## Turn 17 — 2023-08-26T03:37:00.000Z (user)
+
+That is smart. The plain-language version would probably help when I am talking to community hosts too, because they do not need my internal jargon, they need to know why their room matters. One thing I am still figuring out is how much credit to take. My supervisor approved it, and that matters a lot, but the actual push came from me staring at the numbers and refusing to pretend central access was good enough. I never know how directly to name that without sounding territorial.
+
+## Turn 18 — 2023-08-26T03:40:00.000Z (agent)
+
+You do not have to make it territorial to make it accurate. You can say you developed the proposal, built the case from referral and mapping data, and now you are coordinating implementation with leadership support. That gives proper credit upward without erasing your authorship. It is actually useful to be that clear, because if your contribution stays vague, the organization learns the wrong lesson about how this change happened. Has your supervisor been publicly naming your role in it, or mostly backing it behind the scenes?
+
+## Turn 19 — 2023-08-26T03:44:00.000Z (user)
+
+Mostly backing it, which I appreciate, but I may need a little more public clarity once implementation starts. Not because I need applause, just because if people are confused about who built the logic, they will bypass me when they start tweaking pieces. And I can already imagine someone suggesting, very reasonably on paper, that we drop a site because central rooms are easier to manage. I want enough standing to say no when no is the right answer.
+
+## Turn 20 — 2023-08-26T03:46:00.000Z (agent)
+
+That is not applause-seeking, that is governance. If people can alter the structure without understanding the access reasoning, the whole county-spread plan becomes vulnerable to small convenience edits that add up to a reversal. I would ask for one simple thing, a meeting or email where your supervisor explicitly identifies you as the operational lead for the 2027 bereavement group rollout. That gives you authority tied to function, not personality.
+
+## Turn 21 — 2023-08-26T03:49:00.000Z (user)
+
+I can do that. I think I have been hesitant because once something is more public, there is more pressure attached to it, and I am already aware that my body tends to register work stress before my brain admits it. But this does feel worth protecting. Also, I keep coming back to how different this feels from earlier in the year, when so much energy was going into just making sure a group would actually happen. Now I am thinking about footprint and fairness.
+
+## Turn 22 — 2023-08-26T03:53:00.000Z (agent)
+
+That contrast is important, because it shows the expansion is built on solved problems, not wishful momentum. You are right to notice the pressure piece too, so protect yourself while you protect the plan. A good middle ground is to ask for the public role clarity and, in the same breath, present your first-pass documentation structure so the message is, this rollout has an owner and a system, not just an owner. That tends to reduce pressure because it signals containment.
+
+## Turn 23 — 2023-08-26T03:55:00.000Z (user)
+
+I like that framing, especially the idea that public clarity and documentation should come together. That feels less like me stepping into a spotlight and more like me establishing the rails. My next move is probably to draft the site playbooks, the area rationale summary, and then ask for that explicit operational-lead language before the 2027 calendar gets circulated wider. Does that seem like the right order to you?
+
+## Turn 24 — 2023-08-26T03:58:00.000Z (agent)
+
+Yes, that order is solid. Drafting the materials first means when you ask for the operational-lead language, you are attaching it to something concrete and already useful, which makes it easier for leadership to support. I would keep the first versions lean, good enough to guide action, not polished to death. You are at the stage where clarity beats elegance.
+
+## Turn 25 — 2023-08-26T04:02:00.000Z (user)
+
+That helps. I do tend to overwork the presentation when I am trying to make something undeniable, but the real win here is that the plan exists and the rooms are real. I think I needed to say out loud that this is not just more tasks piled on me, it is an actual expansion in what I am building. I am tired, but in a more purposeful way than I have been in a while.
+
+## Turn 26 — 2023-08-26T04:04:00.000Z (agent)
+
+That sounds like earned tiredness, not chaotic depletion, and there is a real difference. You moved from stabilizing whether support could happen at all to shaping where it can happen across the county, and that is substantial. Hold onto the fact that this did not come from rushing bigger, it came from getting dependable first. Your next steps are clear, and they protect both the people using the groups and the person building them.

@@ -1,0 +1,122 @@
+---
+slice_id: 2022-05-01-1210
+focus: "Derek becomes lead instructor for pilot first-year section, implementing skill boards and paired practice"
+status: closed
+start: "2022-05-01T12:10:00.000Z"
+end: "2022-05-01T13:18:00.000Z"
+timezone: America/Chicago
+summary: "Derek is named lead instructor for one pilot first-year section, giving him direct responsibility for the opening six weeks. He implements color-coded skill check boards so progress is visible, enforces paired practice before solo ladder work, and adds Friday attendance calls to catch disengagement early. An older instructor (likely Ron Belski) constantly undermines him with side comments about the 'old way,' creating a difficult dynamic where apprentices hear mixed signals. Derek decides to document only patterns that affect outcomes and focus on running a clean, repeatable process rather than winning every argument."
+decisions:
+  - Derek is now the lead instructor for one pilot first-year section built around revised safety labs and attendance follow
+tags:
+  - lead-instructor-role
+  - first-year-pilot-section
+  - color-coded-skill-board
+  - paired-practice-method
+  - friday-attendance-calls
+  - veteran-instructor-undermining
+  - three-bucket-tracking-system
+  - outcomes-over-personalities
+open_loops:
+  - Managing the undermining instructor's commentary without escalating to turf war
+  - Opening next week with a clear explanation of why the board, paired work, and calls connect
+  - Tightening personal tracking with three-bucket system (safe to advance / needs repeat / needs contact)
+  - Protecting energy from the stacking of field work plus instruction
+  - Defining clear success for the six-week pilot to prevent mission creep
+emotional_tone: "mixed"
+---
+## Turn 1 — 2022-05-01T12:10:00.000Z (user)
+
+A lot has shifted lately at work, and it finally turned into something more official. Instead of just helping shape the reset, I am now the lead instructor for one pilot first-year section, and I am still carrying journeyman field work through the hall at the same time. They gave me the first six weeks to run my way with one incoming section, so now it is not just me talking about changes, it is my section tied to them. I feel good about that part, but it also means if this thing goes sideways it is going to have my fingerprints all over it.
+
+## Turn 2 — 2022-05-01T12:12:00.000Z (agent)
+
+That is a real shift, not just extra input around the edges. You moved from trying to influence the thing to being the person directly responsible for how one section starts, and that changes your leverage as much as your risk. The fact that they trusted you with the opening six weeks says your case landed somewhere, even if the pressure goes up now. The smartest move is probably to decide what success has to look like by week six, before everyone else's opinions start filling in the blanks.
+
+## Turn 3 — 2022-05-01T12:15:00.000Z (user)
+
+Yeah, that is exactly it, the opening stretch is the whole proving ground now. I built the shop around those color-coded skill check boards so nobody can hide where they are stuck, and I made them do paired practice before anybody touches solo ladder work. I also added Friday attendance calls, because I do not want this to be only about shop mechanics if the same guys are drifting before they even get traction. Does that sound too heavy for the first six weeks, or is that the right time to load it in?
+
+## Turn 4 — 2022-05-01T12:19:00.000Z (agent)
+
+It sounds front-loaded on purpose, which makes sense for brand-new apprentices. The paired practice before solo ladder work is especially strong, because it turns a safety rule into a visible habit instead of a speech, and the attendance calls tell people early that disappearing is part of the same problem, not a separate paperwork issue. You had already been thinking in that direction, tying shop behavior to follow-up instead of treating them as two different worlds. I would keep it, but make sure the calls stay short and specific so they feel like a line back in, not a scolding.
+
+## Turn 5 — 2022-05-01T12:21:00.000Z (user)
+
+That is what I am trying to do, keep it practical and not make it feel like school school. The hard part is I have one of the older guys needling it the whole time in the shop, telling apprentices the old way already produced plenty of electricians and acting like I am wrapping everybody in bubble wrap. He is not screaming at me, but it is that constant undercutting where they hear two philosophies in the same room. I can handle disagreement with me, but I hate mixed signals going to the kids.
+
+## Turn 6 — 2022-05-01T12:24:00.000Z (agent)
+
+That kind of side commentary can do more damage than a direct argument, because it teaches the apprentices that the standard is optional if the old hands roll their eyes at it. Since he was pushing back on the earlier check-in idea too, this sounds less like one bad day and more like a culture fight showing up in real time. I would not chase every remark, but I would put your expectations in plain language at the start of each lab so the class keeps hearing one clear operating standard from the person running the section.
+
+## Turn 7 — 2022-05-01T12:28:00.000Z (user)
+
+I have started doing that, almost like a reset every time we hit a new station. I tell them, in here the sequence is the sequence, paired first, then solo, and the board shows whether you are actually ready. What I cannot decide is whether I should address him directly in the moment when he tosses those comments out, or if that just turns the room into a turf fight. What would you prioritize there?
+
+## Turn 8 — 2022-05-01T12:30:00.000Z (agent)
+
+I would prioritize protecting the room over winning the argument. If he throws in a comment, you can answer the class, not him, with something short like, "For this section, this is the standard and here is why," then move on with the drill so he does not get to turn it into theater. Also, with the house still half renovated because you all took that project on to make more room, I can imagine you have limited appetite for extra conflict at the end of the day, so keeping your response repeatable matters.
+
+## Turn 9 — 2022-05-01T12:33:00.000Z (user)
+
+Yeah, keeping it repeatable is probably the only way I do not burn myself out. I do not think I need to convert him, I just need the apprentices to understand what applies in my section every single time. The weird thing is a few of them seem to like the clarity, especially the board, because they know exactly what they have and have not checked off. I was half afraid they would see that as me putting them on display.
+
+## Turn 10 — 2022-05-01T12:37:00.000Z (agent)
+
+That reaction is a good sign. A visible board can feel punitive if it is used to shame people, but it can also lower anxiety when it makes progress concrete and shows exactly what comes next. The paired stations in that setup probably help too, because the board is not just a scoreboard, it links straight to practice and repetition. If you are hearing relief instead of defensiveness, that tells me the structure is reading as fair.
+
+## Turn 11 — 2022-05-01T12:39:00.000Z (user)
+
+Fair is the word I keep coming back to. If somebody is behind, I want it to be obvious enough that we do something before he gets embarrassed or hurt, not after. The Friday calls have been interesting too, because one kid who looked like he was fading actually answered and sounded more scattered than lazy, so at least now I know there is a difference. I guess that is the part I am still feeling out, how much I am teaching electrical work versus trying to keep somebody attached long enough to become an electrician.
+
+## Turn 12 — 2022-05-01T12:42:00.000Z (agent)
+
+Honestly, in that first block those are the same job. If someone disengages early, the safety piece and the trade piece both start slipping, so your calls are not extra softness, they are part of getting them to the point where instruction can even take hold. It also sounds like the calls are giving you better signal, which matters because you can respond to scattered differently than you respond to checked-out. The key is probably having a simple line for yourself about what triggers follow-up, so you do not end up carrying every story personally.
+
+## Turn 13 — 2022-05-01T12:46:00.000Z (user)
+
+That makes sense, because I can already feel myself wanting to over-own it. I am still out doing hall work too, so this lead instructor thing is not replacing the rest of my week, it is stacking on top of it. By the time I get home after a field day and then shop time, my brain is still chewing on whether somebody got the ladder sequence right or whether I need to call someone Friday night. How would you keep that from swallowing everything?
+
+## Turn 14 — 2022-05-01T12:48:00.000Z (agent)
+
+The stacking is the part that could get expensive mentally. You are still carrying your journeyman identity and workload, so I would build a narrow system instead of relying on memory, maybe one sheet or note with only three categories, safe to advance, needs repeat, needs contact, then close the loop once before you leave. That gives you a container for the section without letting it sprawl across every evening. It is also a reminder that your job is to run a strong process, not personally rescue every apprentice.
+
+## Turn 15 — 2022-05-01T12:51:00.000Z (user)
+
+I like the three-bucket idea. Right now I am carrying too many little details around in my head, and then one comment from him gets mixed in with a legit issue from a kid and it all feels equally loud. Part of me wants to document every undercutting thing he says so I have a record, and part of me thinks that turns me into the hall monitor he already thinks I am. Would you write any of that down, or only if it starts messing with outcomes?
+
+## Turn 16 — 2022-05-01T12:55:00.000Z (agent)
+
+I would document patterns, not every irritation. If a comment directly contradicts a safety instruction, confuses the section about procedure, or lines up with someone skipping the process you set, that is worth noting in a clean factual way. But if you try to capture every dig, he starts taking up too much space in your own head. Save your energy for evidence that affects how the section runs.
+
+## Turn 17 — 2022-05-01T12:57:00.000Z (user)
+
+That is probably the cleaner line. I do not want this whole thing to become a story about me and him when the point is whether these first-years come out steadier. And honestly, if I can show that the first six weeks run tighter with fewer blind spots, that says more than me arguing in the shop ever will. I am noticing I care a lot more now that it is my section, which is probably good, but it definitely has my nerves up.
+
+## Turn 18 — 2022-05-01T13:00:00.000Z (agent)
+
+That jump in nerves makes sense, because your responsibility just got sharper. The useful part of it is that it is pushing you toward observable standards, not vague opinions, and that is exactly where this pilot will either stand or fall. If you can keep asking, "Did they practice it, did they demonstrate it, did they stay engaged enough to get there," you stay anchored in outcomes instead of personalities.
+
+## Turn 19 — 2022-05-01T13:04:00.000Z (user)
+
+Yeah, outcomes over personalities is probably the phrase I need in my pocket. I am thinking I should open next week by telling the class exactly why the board, the paired work, and the calls all belong together, instead of assuming they get it. That might also cut down on him framing it like random extra rules. Do you think saying that out loud helps, or is it overexplaining?
+
+## Turn 20 — 2022-05-01T13:06:00.000Z (agent)
+
+I think saying it out loud helps a lot, as long as you keep it plain. Something like, "We use the board to show progress, we pair first so nobody guesses on the ladder, and if attendance slips we follow up early because missing steps and missing time become the same problem fast." That is not overexplaining, that is giving the section one coherent logic. It also makes the redesign feel intentional rather than just stricter.
+
+## Turn 21 — 2022-05-01T13:09:00.000Z (user)
+
+That is close to how I want to put it, actually. The more we talk, the more I think my real job here is making the first six weeks feel structured enough that nobody can drift into bad habits by accident. If that works, then I have something real to point to besides my gut. I am still going to be annoyed every time he tosses in the old-way line, but maybe I do not have to chase it.
+
+## Turn 22 — 2022-05-01T13:13:00.000Z (agent)
+
+Right, you do not need to win every moment to win the section. If the apprentices experience a clean structure, repeated practice, and early follow-up, then the old-way commentary starts competing with something concrete they can actually feel working. Your best counterargument is a room where expectations are obvious and fewer people are slipping through cracks. That is a stronger position than debating tradition all day.
+
+## Turn 23 — 2022-05-01T13:15:00.000Z (user)
+
+That helps. I think my next step is to tighten my own tracking, give the class the one clear explanation next week, and only log his comments if they directly interfere with safety or procedure. Mostly I just wanted to say this out loud because it feels different now, like I crossed from proposing fixes into owning a piece of the outcome. That is exciting, but it is heavier too.
+
+## Turn 24 — 2022-05-01T13:18:00.000Z (agent)
+
+That sounds like the right read on it. You are not just advocating anymore, you are carrying a defined stretch of the pipeline, and the weight you feel is part of that shift. But you have already built this around specific habits, visible progress, and early contact, which is a much sturdier base than just hoping a class gels. Keep it narrow, keep it repeatable, and let the first six weeks give you the evidence.

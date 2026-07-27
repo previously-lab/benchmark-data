@@ -21,7 +21,7 @@
   "housing-noise": [
     "2022/01/06/1130"
   ],
-  "leisure-preferencesemotional_tone: neutral": [
+  "leisure-preferences": [
     "2022/01/06/1130"
   ],
   "work-crisis": [
@@ -45,7 +45,7 @@
   "conflict-aversion": [
     "2022/01/28/0840"
   ],
-  "pattern-recognitionemotional_tone: neutral": [
+  "pattern-recognition": [
     "2022/01/28/0840"
   ],
   "work-identity": [
@@ -69,7 +69,7 @@
     "2022/08/24/0605",
     "2024/05/12/1020"
   ],
-  "production-memoirsemotional_tone: neutral": [
+  "production-memoirs": [
     "2022/02/17/1215"
   ],
   "work-expansion": [
@@ -90,7 +90,7 @@
   "role-clarity": [
     "2022/03/11/0105"
   ],
-  "process-designemotional_tone: neutral": [
+  "process-design": [
     "2022/03/11/0105"
   ],
   "health-intervention": [
@@ -111,7 +111,7 @@
   "partner-support": [
     "2022/04/02/1310"
   ],
-  "pattern-trackingemotional_tone: neutral": [
+  "pattern-tracking": [
     "2022/04/02/1310"
   ],
   "work-visibility": [
@@ -132,7 +132,7 @@
   "decompression-need": [
     "2022/05/09/0720"
   ],
-  "role-evolutionemotional_tone: neutral": [
+  "role-evolution": [
     "2022/05/09/0720"
   ],
   "relationship-boundaries": [
@@ -151,7 +151,7 @@
   "emergency-thresholds": [
     "2022/06/01/1030"
   ],
-  "financial-strainemotional_tone: neutral": [
+  "financial-strain": [
     "2022/06/01/1030"
   ],
   "work-cutoffs": [
@@ -174,7 +174,7 @@
     "2022/10/07/0010",
     "2023/06/13/0020"
   ],
-  "scorecard-designemotional_tone: neutral": [
+  "scorecard-design": [
     "2022/07/15/2350"
   ],
   "leisure-discovery": [
@@ -192,7 +192,7 @@
   "analog-comfort": [
     "2022/08/24/0605"
   ],
-  "low-stakes-joyemotional_tone: neutral": [
+  "low-stakes-joy": [
     "2022/08/24/0605"
   ],
   "work-simulation": [
@@ -210,7 +210,7 @@
   "pre-commitment": [
     "2022/10/07/0010"
   ],
-  "operational-leverageemotional_tone: neutral": [
+  "operational-leverage": [
     "2022/10/07/0010"
   ],
   "family-crisis": [
@@ -228,7 +228,7 @@
   "partner-transparency": [
     "2022/11/23/1140"
   ],
-  "rescue-gravityemotional_tone: neutral": [
+  "rescue-gravity": [
     "2022/11/23/1140"
   ],
   "work-results": [
@@ -252,7 +252,7 @@
   "evidence-based": [
     "2022/12/18/2255"
   ],
-  "role-validationemotional_tone: neutral": [
+  "role-validation": [
     "2022/12/18/2255"
   ],
   "meal-prep": [
@@ -270,7 +270,7 @@
   "low-friction": [
     "2023/01/30/0325"
   ],
-  "practical-contentmentemotional_tone: neutral": [
+  "practical-contentment": [
     "2023/01/30/0325"
   ],
   "work-huddle": [
@@ -291,7 +291,7 @@
   "capacity-reality": [
     "2023/03/04/0210"
   ],
-  "decision-routingemotional_tone: neutral": [
+  "decision-routing": [
     "2023/03/04/0210"
   ],
   "apartment-move": [
@@ -312,7 +312,7 @@
   "quiet-environment": [
     "2023/04/22/1335"
   ],
-  "shared-decisionemotional_tone: neutral": [
+  "shared-decision": [
     "2023/04/22/1335"
   ],
   "work-forecasting": [
@@ -330,7 +330,7 @@
   "plain-language": [
     "2023/06/13/0020"
   ],
-  "role-expansionemotional_tone: neutral": [
+  "role-expansion": [
     "2023/06/13/0020"
   ],
   "leisure-expansion": [
@@ -352,7 +352,7 @@
     "2023/07/19/1115",
     "2024/05/12/1020"
   ],
-  "unstructured-restemotional_tone: neutral": [
+  "unstructured-rest": [
     "2023/07/19/1115"
   ],
   "work-promotion": [
@@ -374,7 +374,7 @@
   "service-scorecard": [
     "2023/09/08/0645"
   ],
-  "authority-recognitionemotional_tone: neutral": [
+  "authority-recognition": [
     "2023/09/08/0645"
   ],
   "therapy-start": [
@@ -395,7 +395,7 @@
   "checking-habits": [
     "2023/10/28/1400"
   ],
-  "self-awarenessemotional_tone: neutral": [
+  "self-awareness": [
     "2023/10/28/1400"
   ],
   "year-end-review": [
@@ -413,7 +413,7 @@
   "written-cutoffs": [
     "2023/12/15/2310"
   ],
-  "operational-evidenceemotional_tone: neutral": [
+  "operational-evidence": [
     "2023/12/15/2310"
   ],
   "leisure-refinement": [
@@ -434,7 +434,7 @@
   "self-knowledge": [
     "2024/01/29/0950"
   ],
-  "taste-awarenessemotional_tone: neutral": [
+  "taste-awareness": [
     "2024/01/29/0950"
   ],
   "work-reporting": [
@@ -455,7 +455,7 @@
   "operational-standards": [
     "2024/03/20/0140"
   ],
-  "organizational-memoryemotional_tone: neutral": [
+  "organizational-memory": [
     "2024/03/20/0140"
   ],
   "evening-walks": [
@@ -470,7 +470,7 @@
   "instrumental-music": [
     "2024/05/12/1020"
   ],
-  "boundary-practiceemotional_tone: neutral": [
+  "boundary-practice": [
     "2024/05/12/1020"
   ],
   "work-breakdown": [
@@ -491,7 +491,7 @@
   "founder-override": [
     "2024/08/30/2235"
   ],
-  "system-fragilityemotional_tone: neutral": [
+  "system-fragility": [
     "2024/08/30/2235"
   ],
   "relationship-confrontation": [
@@ -513,7 +513,7 @@
     "2024/10/06/1205",
     "2025/06/22/1110"
   ],
-  "repair-actionemotional_tone: neutral": [
+  "repair-action": [
     "2024/10/06/1205"
   ],
   "work-redesign": [
@@ -534,7 +534,7 @@
   "operational-improvement": [
     "2024/11/14/0055"
   ],
-  "near-quittingemotional_tone: neutral": [
+  "near-quitting": [
     "2024/11/14/0055"
   ],
   "finance-savings": [
@@ -552,7 +552,7 @@
   "pause-rule": [
     "2025/01/08/0800"
   ],
-  "generosity-capemotional_tone: neutral": [
+  "generosity-cap": [
     "2025/01/08/0800"
   ],
   "work-standards": [
@@ -570,7 +570,7 @@
   "system-building": [
     "2025/03/18/0230"
   ],
-  "dependency-reductionemotional_tone: neutral": [
+  "dependency-reduction": [
     "2025/03/18/0230"
   ],
   "older-cat-adoption": [
@@ -588,7 +588,7 @@
   "pet-preference": [
     "2025/06/22/1110"
   ],
-  "sustainable-livingemotional_tone: neutral": [
+  "sustainable-living": [
     "2025/06/22/1110"
   ],
   "work-peak-season": [
@@ -606,7 +606,7 @@
   "trust-shift": [
     "2025/12/19/2325"
   ],
-  "identity-changeemotional_tone: neutral": [
+  "identity-change": [
     "2025/12/19/2325"
   ]
 }

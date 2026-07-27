@@ -1,0 +1,146 @@
+---
+slice_id: 2022-06-11-0740
+focus: "A lot has been shifting lately, and I had one of those work moments where I coul"
+status: closed
+start: "2022-06-11T07:40:00.000Z"
+end: "2022-06-11T09:06:00.000Z"
+timezone: America/Chicago
+summary: "Yeah, that's exactly it"
+decisions:
+  - Jermaine shifted his safety rollout from longer classroom-style talks to short assignment-based micro-sessions at the st
+tags:
+  - training-format-redesign
+  - micro-session-launch
+  - assignment-based-training
+  - break-room-meeting
+  - sharon-pruitt-support
+  - ramon-ortega-engagement
+  - ten-minute-pieces
+  - floor-fit-over-classroom
+  - usable-safety
+  - core-points-scripted
+open_loops:
+  - Track micro-session completion, fit, and outcome
+  - Document phrases that travel well on the floor
+  - Make a light announcement of the new format
+emotional_tone: "mixed"
+---
+## Turn 1 — 2022-06-11T07:40:00.000Z (user)
+
+A lot has been shifting lately, and I had one of those work moments where I could feel the whole thing either getting more real or stalling out. I finally changed how I'm doing the safety training. Instead of the longer classroom-style talks I was trying to run, I'm now doing short assignment-based micro-sessions right at the start of shifts. It feels like a big pivot, but honestly probably the one I should have made sooner.
+
+## Turn 2 — 2022-06-11T07:42:00.000Z (agent)
+
+That does sound like a real turning point, not a small tweak. If the old format was technically sound but losing people before the work even started, changing the delivery was probably the stronger move than defending the original setup. You are keeping the goal and adjusting the method, which usually means you are paying attention to what the floor is actually telling you.
+
+## Turn 3 — 2022-06-11T07:45:00.000Z (user)
+
+Yeah, that's exactly it. The longer version wasn't wrong, it just wasn't landing. We had a hot break-room meeting this afternoon with Ramon there, two leads in the room, and Sharon on speakerphone, and I ended up breaking the whole thing into ten-minute pieces tied straight to actual dock assignments. By the time the first trailer was supposed to be opened, I was losing the room with the longer setup, so this way they can hear it and use it right away.
+
+## Turn 4 — 2022-06-11T07:49:00.000Z (agent)
+
+That meeting setup matters, because having the people who own the shift rhythm in the conversation makes this a working change instead of a paper change. Ten minutes tied to the actual assignment is concrete enough that nobody has to translate it later. What part of the old version was dropping out first, attention, pushback, or people mentally rushing ahead to the dock?
+
+## Turn 5 — 2022-06-11T07:51:00.000Z (user)
+
+Mostly that last part. You could see guys physically sitting there, but mentally already halfway to the dock door. Once they start thinking about trailer count and unload pace, anything that sounds like class just turns into background noise. That's why I kept the boards and the supervisor signoff piece in place, because I still need the accountability, I just had to stop acting like they'd give me a clean classroom window.
+
+## Turn 6 — 2022-06-11T07:54:00.000Z (agent)
+
+That makes sense, and keeping the boards and signoffs in place protects the part that creates accountability. You are not backing off the structure, you are fitting it into real timing pressure. Since you work in warehouse distribution and retail supply logistics, it sounds like the industry actually gives you more classroom time before trailers open, which is why redesigning around dock assignments was the smart way to use that extra window.
+
+## Turn 7 — 2022-06-11T07:58:00.000Z (user)
+
+What I keep circling is whether this looks like me caving or me getting smarter. I know how some people read any change, like if you don't force the original version through then maybe you never believed in it. But the evidence was right there in front of me. The process only matters if it actually fits shift timing.
+
+## Turn 8 — 2022-06-11T08:00:00.000Z (agent)
+
+I read it as getting sharper, not softer. The evidence from what you have been posting and tracking gave you a real-world answer, and you adjusted to match the work instead of pretending compliance equals learning. The weak version would have been protecting your format just because it was yours.
+
+## Turn 9 — 2022-06-11T08:03:00.000Z (user)
+
+That's kind of where I landed too. I told them I wasn't dropping the goal, I was changing the path. The ten-minute pieces are built around whoever is actually going where, so if somebody is headed to a certain dock assignment, that's the example they hear before they move. It felt more alive than me talking at a room.
+
+## Turn 10 — 2022-06-11T08:07:00.000Z (agent)
+
+That is a big difference, because relevance buys you attention faster than authority does. If each short session answers, "what do I need for the assignment I am about to do," then you are catching people at the moment they are most likely to retain it. I would treat this first stretch like a live pilot and watch for which assignment examples make people lean in versus tune out.
+
+## Turn 11 — 2022-06-11T08:09:00.000Z (user)
+
+I can do that. One thing I noticed even in the room today, when I started naming actual spots and actual tasks, the leads got more engaged too. That part mattered to me, because if shift-level buy-in isn't there from the start, then later on everybody acts like the format got dropped on them from nowhere. Do you think I should write the micro-sessions out tight, or leave them a little loose so they sound more natural?
+
+## Turn 12 — 2022-06-11T08:12:00.000Z (agent)
+
+I would split the difference. Lock down the core points that cannot drift, then leave the example and wording flexible so it still sounds tied to the crew in front of you. That keeps consistency without making you sound like you are reading a script nobody asked for.
+
+## Turn 13 — 2022-06-11T08:16:00.000Z (user)
+
+That sounds right. If I over-script it, it turns back into school. If I wing all of it, then one bad rushed morning and the whole point gets muddy. Ramon was more involved than I expected today too, which I still don't fully know how to read.
+
+## Turn 14 — 2022-06-11T08:18:00.000Z (agent)
+
+His involvement is important, especially if he influences what actually survives when the shift gets tight. I would not over-interpret it yet, but I would notice whether he starts reinforcing the ten-minute rhythm when pressure hits, because that tells you more than what he says in a meeting. If he helped shape it, he may be more likely to defend it later.
+
+## Turn 15 — 2022-06-11T08:21:00.000Z (user)
+
+That's what I'm watching. In the room he was practical more than negative, which is different for him. He kept asking, basically, "what can be said fast enough that people still move on time," and for once that wasn't him trying to kill it. It was more like he was helping trim it down to something the dock would tolerate.
+
+## Turn 16 — 2022-06-11T08:25:00.000Z (agent)
+
+That is useful. Practical buy-in from someone like that can carry more weight than polite agreement from people who do not feel the pace pressure. I would remember his exact phrasing too, because "fast enough to move on time" can become part of how you explain the format to others without making it sound watered down.
+
+## Turn 17 — 2022-06-11T08:27:00.000Z (user)
+
+Good point. Sharon being on speakerphone helped too, because it kept the whole thing from turning into just a local argument in a hot room. She let me rework it instead of acting like I had to defend the old version to prove I meant business. That backing matters more than I like to admit.
+
+## Turn 18 — 2022-06-11T08:30:00.000Z (agent)
+
+It matters because it gave you room to adapt without looking unsupported. Having that kind of backing during the redesign says the goal still has legitimacy even as the format changes. That also gives you cover to evaluate honestly, instead of pretending the first version was fine.
+
+## Turn 19 — 2022-06-11T08:34:00.000Z (user)
+
+Exactly. And honestly, I needed that today because the room was hot, everybody was annoyed, and if it had turned into a status fight I might have dug in just out of pride. Instead we actually got somewhere. Now I'm trying to figure out what I should track first so I can tell whether these micro-sessions are really working.
+
+## Turn 20 — 2022-06-11T08:36:00.000Z (agent)
+
+Start with three things only, whether the session happened on time, whether the assignment-specific point was actually the one people were about to face, and whether the same early-shift mistakes start dropping. That gives you one process measure, one fit measure, and one outcome measure without burying yourself. If you try to track ten things at once, the new format will become its own burden.
+
+## Turn 21 — 2022-06-11T08:39:00.000Z (user)
+
+I like that, especially the fit measure. That's the part I was missing before. I was treating delivery like if I said the right words, that should count, but now I'm seeing timing and relevance are part of the content too. I probably needed to learn that the hard way.
+
+## Turn 22 — 2022-06-11T08:43:00.000Z (agent)
+
+That is a strong read on it. In this kind of work, fit is not decoration, it is part of whether the message can even exist long enough to matter. You are building something usable inside the dock flow instead of adding a separate classroom burden on top of it.
+
+## Turn 23 — 2022-06-11T08:45:00.000Z (user)
+
+Yeah, that's the phrase I keep coming back to, usable. I don't need people nodding in a room and then doing the same thing five minutes later. I need something that survives contact with the shift. Part of me is relieved, and part of me is irritated I had to bend this much to get there.
+
+## Turn 24 — 2022-06-11T08:48:00.000Z (agent)
+
+Both reactions make sense. Relief means you found a version that can breathe, and irritation means you are seeing how much reality resists neat plans. I would not frame it as bending too much unless the core safety point got diluted, and from what you have said, it did not.
+
+## Turn 25 — 2022-06-11T08:52:00.000Z (user)
+
+No, the core stayed. That's the part I'm proud of. The boards are still up, the signoffs still matter, and the message is still direct, it's just cut into smaller pieces people can actually absorb before they move. Do you think I should announce this like a formal rollout, or just start doing it and let results speak?
+
+## Turn 26 — 2022-06-11T08:54:00.000Z (agent)
+
+I would do a light announcement, not a grand one. Name it clearly so people know the change is intentional, then get out of the way and let the rhythm prove itself. If you oversell it, people may listen for flaws instead of noticing that it fits better.
+
+## Turn 27 — 2022-06-11T08:57:00.000Z (user)
+
+That fits my style better anyway. Just enough to make it official, then let the work show it. I think tomorrow I'm going to tighten the first few segments, keep them tied to the actual assignments, and watch whether the leads repeat the same language back on the floor.
+
+## Turn 28 — 2022-06-11T09:01:00.000Z (agent)
+
+That is a solid next step. If the leads start echoing the language on the floor, that is a strong sign the format is portable and not dependent on you being the only one carrying it. I would jot down the exact phrases that travel well, because those become the backbone of the whole approach.
+
+## Turn 29 — 2022-06-11T09:03:00.000Z (user)
+
+I can do that. I feel better talking it through, because I was half worried this meant I was losing ground. Now it feels more like I finally stopped trying to force the dock to act like a classroom. I'm still tired, but this change feels real in a good way.
+
+## Turn 30 — 2022-06-11T09:06:00.000Z (agent)
+
+It sounds like real progress to me. You did not shrink the goal, you made it workable, and that kind of adjustment usually lasts longer because it respects how the day actually moves. Get through the first few rounds, note what sticks, and let the usable version earn its credibility.

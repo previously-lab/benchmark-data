@@ -1,0 +1,123 @@
+---
+slice_id: 2022-06-14-0305
+focus: "A blood pressure scare in urgent care forces Kelli to delegate denial category ownership to senior billers."
+status: closed
+start: "2022-06-14T03:05:00.000Z"
+end: "2022-06-14T04:13:00.000Z"
+timezone: America/Chicago
+summary: "After weeks of dawn-to-evening cleanup on old Medicaid and commercial claims, Kelli gets stress headaches and a concerning blood pressure reading at urgent care. She follows up with her doctor and begins real delegation: two senior billers get ownership of authorization-related denials and eligibility/registration fallout respectively. She drafts one-page ownership lane sheets with aging thresholds and payer quirks."
+decisions:
+  - "Kelli's blood pressure became concerning during heavy cleanup months after repeated dawn-to-evening claims work, with st"
+  - "Kelli is still revenue-cycle lead, but she has started delegating ownership of specific denial categories to two senior "
+tags:
+  - hypertension-scare
+  - urgent-care-visit
+  - delegation-of-denial-categories
+  - stress-headaches
+  - monica-wren-ally
+  - lane-sheets
+  - senior-biller-ownership
+  - home-blood-pressure-cuff
+open_loops:
+  - Home blood pressure cuff not yet purchased
+  - Doctor follow-up booked but not completed
+  - Hard-stop evenings (at least 2/week) not yet enforced
+  - Headache-type tracking (work type vs headache level) not started
+  - Lane sheets not yet reviewed with assigned billers
+emotional_tone: "negative"
+---
+## Turn 1 — 2022-06-14T03:05:00.000Z (user)
+
+Things have been shifting lately, and I finally had one of those moments where my body made it clear I cannot just push through forever. The last few weeks turned into dawn-to-evening cleanup on old Medicaid and commercial claims, and I started getting stress headaches on top of the usual tight right shoulder and neck. I went to urgent care because one headache got bad enough to worry me, and the nurse got a blood pressure reading that was a lot more concerning than the borderline numbers I had been skating by on. So now I am having to admit this work pattern is not just tiring, it is turning into a health problem.
+
+## Turn 2 — 2022-06-14T03:07:00.000Z (agent)
+
+That sounds like a real line-crossing moment, not just a rough week. Headaches plus a blood pressure reading scary enough for urgent care means your body is giving you a clearer message than stress alone ever does. You have been carrying a lot of the load around this work, and it makes sense that the pattern finally stopped being sustainable. What did they tell you to do next, and have you already changed anything about how you are handling month-end?
+
+## Turn 3 — 2022-06-14T03:10:00.000Z (user)
+
+They told me to follow up with my regular doctor, keep an eye on readings, and quit acting like headaches are just part of the job. The bigger change is at work, because the nurse's face alone was enough to shake me a little. Monica basically said, very directly, that the cleanup cannot keep depending on me staying late through every month-end, and she was right. I have started handing two senior billers real ownership of specific denial categories instead of treating them like extra hands when things get ugly.
+
+## Turn 4 — 2022-06-14T03:14:00.000Z (agent)
+
+That is a meaningful shift, and honestly a smart one. Delegating category ownership is different from just asking for help, because it spreads judgment and accountability instead of only spreading labor. It also fits the bigger system you already built, since reporting and review work better when somebody besides the lead actually owns part of the mess. Which categories did you hand off, and do those two people seem ready for recurring ownership rather than emergency backup?
+
+## Turn 5 — 2022-06-14T03:16:00.000Z (user)
+
+Yes, that is exactly the difference I am trying to make. One of them is taking authorization-related denials and the other is taking eligibility and registration fallout, because those are both big enough to matter and defined enough that we can track them without fuzziness. I picked them because they are the two senior billers I trust most to stay with it when I am not hovering. Part of me feels relieved, and part of me feels weirdly exposed, like if I am not carrying every bucket then I am not doing my job right.
+
+## Turn 6 — 2022-06-14T03:19:00.000Z (agent)
+
+That exposed feeling makes sense when you have been the person catching everything at the last minute. But the fact that you can name clean categories and match them to people you trust tells me this is structure, not abandonment. Sometimes people end up in healthcare administration and clinic billing operations because they wanted the stability and predictable office structure instead of the chaos of patient-facing work, and then they accidentally become the human shock absorber anyway. I would watch for one thing here, whether you are truly transferring decisions or just assigning tasks while still carrying all the mental load.
+
+## Turn 7 — 2022-06-14T03:23:00.000Z (user)
+
+That last part is the trap, I think. I can already tell I want to read every note, double-check every appeal, and still be the cleanup person if something sits too long. I am trying not to do that, because then I am only pretending to delegate. What would you actually prioritize first, clear rules, check-ins, or just forcing myself not to jump back in?
+
+## Turn 8 — 2022-06-14T03:25:00.000Z (agent)
+
+First, clear rules, because without them your brain will keep inventing reasons to step back in. I would give each biller a short written lane definition, what counts as theirs, what has to be escalated, and what metric you will review together weekly. Then do scheduled check-ins instead of constant hovering, because a calendar is gentler on your blood pressure than vigilance. The forcing-yourself part comes last, and it gets easier when the structure is real.
+
+## Turn 9 — 2022-06-14T03:28:00.000Z (user)
+
+That helps, because I was thinking in a mushier way than that. I already drafted a one-page ownership sheet for each category with aging thresholds, payer quirks, and when I want them to pull me in. Seeing it on paper made me realize how much of this lived only in my head before. I am also wondering if I should tell the wider group the reason for the change is my blood pressure scare, or if I should keep it framed as a process change.
+
+## Turn 10 — 2022-06-14T03:32:00.000Z (agent)
+
+You do not owe the wider group your medical details to make a sound operational change. I would frame it as a durability decision, the work needs defined ownership and cannot depend on one person doing heroic month-end catch-up. If you want, you can be lightly honest with a few trusted people and still keep the room-facing message about sustainability and consistency. That protects your privacy while making the real lesson visible.
+
+## Turn 11 — 2022-06-14T03:34:00.000Z (user)
+
+That sounds more like me. I do not want a dramatic reveal, but I also do not want to pretend nothing happened when something obviously did. Even after all the binders and huddles and regular reporting, I was still doing enough rework myself to end up with headaches and a warning I should not ignore. It is embarrassing to admit I built a cleaner system and still left myself as the single point of failure.
+
+## Turn 12 — 2022-06-14T03:37:00.000Z (agent)
+
+I do not hear embarrassment as the main truth there, I hear a useful diagnosis of the system. You built something strong enough to expose the next bottleneck, and unfortunately the bottleneck was you. That is not a character flaw, it is what happens when a dependable person keeps proving they can absorb overflow. The practical win now is that you caught it before your body forced a bigger shutdown.
+
+## Turn 13 — 2022-06-14T03:41:00.000Z (user)
+
+That is a better way to read it. I keep thinking about how those cleanup days started before sunrise and ran all the way into evening, and I just treated that like a season I had to survive. Then suddenly I had a nurse looking at me like, ma'am, no. I have my follow-up booked, but in the meantime I am not sure what counts as enough change to actually matter outside of work. Do I need to go bigger than delegation right away?
+
+## Turn 14 — 2022-06-14T03:43:00.000Z (agent)
+
+Delegation is the center of gravity, but I would add two smaller moves right away because they support the same goal. First, get a home blood pressure cuff and take readings at boring, consistent times so you are not relying on a single bad day. Second, pick one hard stop during heavy cleanup weeks, even if it is only two nights, where work ends at a defined hour no matter how unfinished things feel. That gives your doctor better information and gives your body at least some non-negotiable recovery time.
+
+## Turn 15 — 2022-06-14T03:46:00.000Z (user)
+
+I can do that. We actually do not have a decent cuff at home, so that is an easy errand, and two hard-stop nights sounds less fake than promising I will suddenly become balanced. The headaches are what spooked me most, because the shoulder and neck tightness I can almost normalize, but once the headaches started layering on top of that it felt different. I also do not want to drop the little stretching routine I finally started, because I think it is one of the few things helping at all.
+
+## Turn 16 — 2022-06-14T03:50:00.000Z (agent)
+
+Keep the stretching routine, definitely. When something is already built into your week and gives even modest relief, it is usually more valuable than an ambitious plan you will resent by week two. With the headaches showing up on top of the shoulder and neck tension, I would also pay attention to whether they spike after long screen stretches or after certain kinds of claim-review marathons. That pattern could help you adjust the workday, not just survive it.
+
+## Turn 17 — 2022-06-14T03:52:00.000Z (user)
+
+That tracks, because the worst ones have been after long stretches of staring at old claims and trying to unwind half-documented nonsense. I am noticing I clench my jaw when I am sorting through the oldest piles, especially the commercial stuff where every payer seems to want a different style of answer. The Medicaid side is exhausting too, but at least that mess feels more familiar. I might start noting what kind of workday led to the headache instead of just writing down that I had one.
+
+## Turn 18 — 2022-06-14T03:55:00.000Z (agent)
+
+That would be useful, because it turns a vague bad feeling into something you can actually work with. A simple note of time, work type, headache level, and whether you had been sitting for hours is enough, no need to build a second job out of tracking. It may also show you which denial category handoffs are reducing the worst strain fastest, which is encouraging data when your guilt starts arguing with your limits.
+
+## Turn 19 — 2022-06-14T03:59:00.000Z (user)
+
+I like the idea of making the proof visible, because otherwise I will rewrite the story in my head and tell myself I was overreacting. One thing I am still chewing on is whether trusting those two billers with recurring ownership changes how I lead for the better, or if I only did it because I got scared. Maybe both can be true. Does it read to you like a panic move or a grown-up one?
+
+## Turn 20 — 2022-06-14T04:01:00.000Z (agent)
+
+It reads like a grown-up move that was accelerated by a scare. The scare got your attention, but the actual response was practical, measured, and specific, redistribute work, define ownership, reduce the need for heroics. Panic would have looked more like random retreat or dumping tasks without structure. What you are doing sounds like leadership finally catching up with reality.
+
+## Turn 21 — 2022-06-14T04:04:00.000Z (user)
+
+That makes me feel a little less flimsy about it. I think the real shift is admitting that being dependable and making myself the fail-safe are not the same thing, even though I have treated them like they are. If I do this right, month-end should stop depending on whether I can outlast it physically. I am planning to finish those lane sheets this weekend and set the weekly review rhythm on Monday.
+
+## Turn 22 — 2022-06-14T04:08:00.000Z (agent)
+
+That sounds like exactly the right next step. The lane sheets make the change concrete, and the weekly rhythm keeps ownership from sliding back into your lap by default. I would also put your doctor follow-up and the cuff purchase in the same near-term category as the work plan, because this is one issue wearing two faces, operational and physical. You do not need drama, just consistency.
+
+## Turn 23 — 2022-06-14T04:10:00.000Z (user)
+
+Yes, that is probably the cleanest way to think about it. My plan is doctor follow-up, buy the cuff, keep the stretching class, finish the ownership sheets, and hold the line on at least two evenings when I do not stay glued to cleanup. I do not feel magically calm, but I do feel more honest about what has to change. That is better than pretending the headaches and blood pressure warning were just a fluke.
+
+## Turn 24 — 2022-06-14T04:13:00.000Z (agent)
+
+That is a solid, believable plan, and believable matters more than dramatic. You are not trying to become a different person overnight, you are taking a health scare seriously and redesigning the part of the system that was leaning too hard on you. The honesty piece may be the biggest shift of all, because it lets the practical changes stick. I am glad you are treating this as something to solve, not something to minimize.

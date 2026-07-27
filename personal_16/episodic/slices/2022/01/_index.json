@@ -13,7 +13,7 @@
         "personality-istj",
         "life-goals",
         "family-dynamics",
-        "health-concernsemotional_tone: neutral"
+        "health-concerns"
       ],
       "status": "closed",
       "start": "2022-01-06T01:00:00.000Z",
@@ -37,7 +37,7 @@
         "quality-improvement",
         "peter-trust",
         "error-logging",
-        "team-dynamicsemotional_tone: neutral"
+        "team-dynamics"
       ],
       "status": "closed",
       "start": "2022-01-22T10:40:00.000Z",

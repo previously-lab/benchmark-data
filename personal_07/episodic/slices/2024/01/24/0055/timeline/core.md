@@ -1,0 +1,130 @@
+---
+slice_id: 2024-01-24-0055
+focus: "A lot has shifted lately, and one work thing finally moved in a real way. The su"
+status: closed
+start: "2024-01-24T00:55:00.000Z"
+end: "2024-01-24T02:16:00.000Z"
+timezone: America/Chicago
+summary: "Honestly, it was both"
+decisions:
+  - "Evan's role was formally adjusted from senior procurement analyst to lead procurement analyst for purchasing systems, gi"
+tags:
+  - lead-analyst-title-change
+  - mandatory-intake-workflow-enforcement
+  - patrice-joint-message
+  - emergency-definition-faq
+  - enforcement-phase-transition
+  - operationally-helpful-compliant-underneath
+emotional_tone: "mixed"
+---
+## Turn 1 — 2024-01-24T00:55:00.000Z (user)
+
+A lot has shifted lately, and one work thing finally moved in a real way. The superintendent got interested after seeing how much cleaner the first-quarter purchasing numbers looked, and that turned into an actual title adjustment for me. I'm now the lead procurement analyst for purchasing systems instead of just a senior analyst doing the cleanup work without the title. It also comes with authority, schools now have to route all non-emergency supply and service requests through the common intake workflow before a purchase order can be issued.
+
+## Turn 2 — 2024-01-24T00:57:00.000Z (agent)
+
+That is a real shift, not just more responsibility piled onto the same job. You got formal authority tied to the work, and the workflow moved from something people could treat as optional to an actual gate in the purchasing process. It makes sense that measurable first-quarter results would be what got leadership's attention, especially since you tend to build your case with system data instead of asking people to trust a theory. How did the news reach you, was it framed more like recognition, or more like, "great, now go enforce it"?
+
+## Turn 3 — 2024-01-24T01:00:00.000Z (user)
+
+Honestly, it was both. Patrice called me in, said the superintendent had been looking at the numbers, and then slid the paperwork over like it was already decided. She was supportive, but the practical part of the conversation was very much, "now we can stop pretending this is voluntary." I felt proud for about ten minutes and then immediately started thinking about which principals are going to test the edges first.
+
+## Turn 4 — 2024-01-24T01:04:00.000Z (agent)
+
+That reaction sounds grounded, not cynical. A title change feels good, but the bigger change is that you now have a rule with teeth behind it, which means resistance gets more direct. Patrice still sounds like the internal sponsor who can help when school leaders push back, and that matters because enforcement is a different kind of work than designing the process. The smartest early move may be to define the exception lane very clearly so nobody can blur routine purchases into emergencies. Have you decided what the first week of enforcement is going to look like?
+
+## Turn 5 — 2024-01-24T01:06:00.000Z (user)
+
+That's exactly where my head is. I do not want the first week to be a bunch of angry emails with me sounding like the process police, but I also do not want this watered down on day one. My instinct is to send one plain-language district note, then follow it with a short FAQ that says what counts as a true emergency and what absolutely has to come through intake. Do you think that's enough, or do I need a harder opening move?
+
+## Turn 6 — 2024-01-24T01:09:00.000Z (agent)
+
+I would do the plain-language note and FAQ, but pair them with one operational consequence so it does not read like another guidance memo people can ignore. Something like, purchase orders for non-emergency requests will not be released unless there is an intake record attached, and then give a short list of examples. That keeps it procedural instead of personal. You already have evidence that the cleaner numbers came from changing behavior, so you're not inventing a burden for its own sake. Who actually controls the purchase order release step day to day, and are they fully aligned with you?
+
+## Turn 7 — 2024-01-24T01:13:00.000Z (user)
+
+Mostly yes, but alignment is going to have to become more explicit. The finance office can hold the line if the rule is written cleanly, and I think they will, but school staff are used to solving their own problem first and cleaning up paperwork second. That's part of why this is such a big change, the workflow is not just a reform project anymore, it's an enforceable gate. I keep thinking about how to explain that without making people feel like central office is trying to embarrass them.
+
+## Turn 8 — 2024-01-24T01:15:00.000Z (agent)
+
+Framing will matter a lot there. If you present it as a district protection tool, not a loyalty test, people have less room to take it as a personal rebuke. You can say the goal is to stop routine bypassing while preserving separate treatment for true emergencies, which is practical and hard to argue with. Since Rashad has a good read on what is a real shortage versus bad planning, it might help to run your emergency examples past him before the FAQ goes out. What wording are you leaning toward for that distinction?
+
+## Turn 9 — 2024-01-24T01:18:00.000Z (user)
+
+I was thinking something like, an emergency is an immediate operational or safety risk that could not reasonably have been anticipated, not just a late request or a preferred vendor issue. I want to include examples because otherwise everybody will decide their thing is special. The other wrinkle is services, not just supplies, because people still try to start work first and sort out approvals later. I know why this authority was given to me, but I can already hear the complaints about delay.
+
+## Turn 10 — 2024-01-24T01:22:00.000Z (agent)
+
+That draft definition is strong because it separates urgency from poor planning. The services piece is especially important, since once work starts, the district loses most of its leverage and the paperwork turns into a cleanup exercise. I also think your note should quietly name the rule in both directions: true emergencies have a separate path, everything else goes through intake before any purchase order. Since the household budget has already been tighter from preschool tuition and the extra money you put into home safety upgrades after that scare, it probably matters that this promotion feels meaningful even if it is not instantly changing life outside work. Are you expecting this title adjustment to come with any pay change, or mostly authority?
+
+## Turn 11 — 2024-01-24T01:24:00.000Z (user)
+
+Mostly authority, at least right now. There may be compensation movement later, but what happened this week was the title and the enforcement piece. And yes, I need the work part to feel meaningful because the effort behind it has been heavy. I keep bouncing between feeling validated and bracing for people to act like I suddenly became unreasonable.
+
+## Turn 12 — 2024-01-24T01:27:00.000Z (agent)
+
+That bounce makes sense. Recognition can land at the exact same moment that the burden gets sharper, especially when the new authority is aimed at people who have been relying on workarounds. One thing I would protect is your own script, maybe two or three sentences you can repeat whenever someone tries to turn this into a debate about personality: routine requests enter through intake, emergencies have a separate path, purchase orders follow documented routing. That kind of repetition keeps you from getting dragged into custom arguments. What part of enforcement feels most draining to you, the confrontation, the volume, or the fear of being blamed for delays?
+
+## Turn 13 — 2024-01-24T01:31:00.000Z (user)
+
+The blame part, probably. I can handle volume if the system is clear. What wears me out is when somebody skips steps, waits until the last minute, and then acts like the process itself created the crisis. That's where the summer fallout still lives in my head a little, even though this decision also feels like proof the cleanup regained traction. How would you keep the rule firm without turning every conflict into a referendum on me?
+
+## Turn 14 — 2024-01-24T01:33:00.000Z (agent)
+
+I would move as much as possible from Evan said no to the system requires this step. Put the standard in writing, use the same examples every time, and track exception requests in one visible log so patterns are easier to spot than personalities. That also gives you something concrete to bring upward if a few buildings keep trying the same dodge. The fact that leadership acted after seeing cleaner numbers means you are not standing alone here, you are enforcing a district decision built on evidence. If you had to choose one early metric to watch, what would tell you this is working?
+
+## Turn 15 — 2024-01-24T01:36:00.000Z (user)
+
+I think I would watch how many non-emergency requests try to show up without an intake record in the first month, and then how many of those stop after the first pushback. If the same few places keep doing it, that's useful in a different way. I also want to track service requests that arrive after work has already started, because that has been one of the ugliest versions of this problem. Part of me wants a dashboard right away, but part of me thinks that may be too much too fast.
+
+## Turn 16 — 2024-01-24T01:40:00.000Z (agent)
+
+That is a good split, leading indicator and repeat-offender indicator. You do not need a polished dashboard on day one, you need a reliable simple log that captures missing intake records, emergency claims, and after-the-fact service requests. Then if you see the same patterns for a few weeks, the dashboard becomes a tool instead of a distraction. The early win is clarity, not aesthetics. I would also decide now who gets the weekly summary, because behavior changes faster when people know the bypasses are visible. Do you want this rollout to sound mostly compliance-focused, or mostly operationally helpful?
+
+## Turn 17 — 2024-01-24T01:42:00.000Z (user)
+
+Operationally helpful on the surface, compliance underneath. That's probably the honest version. If I lead with "we're catching you," people will dig in, but if I only talk about convenience they'll hear optional. I want the message to be, this is how we avoid routine chaos and keep actual emergencies from getting buried under avoidable mess. I may ask Patrice to send the first note over both our names so it is clear this is not just my personal crusade. Does that sound right to you?
+
+## Turn 18 — 2024-01-24T01:45:00.000Z (agent)
+
+Yes, a joint message is smart. It signals that the rule is institutionally backed while still keeping you visible as the person who understands the workflow. I would make the note short, then attach the FAQ and examples so the authority and the practical help travel together. That balance fits the actual change here, you are still in district operations and vendor management work, but now with a lead role that can enforce the process across schools instead of just recommending it. If the note goes out that way, who do you think will become your first quiet ally at the school level?
+
+## Turn 19 — 2024-01-24T01:49:00.000Z (user)
+
+Probably the people who are tired of being handed last-minute messes by someone above them. The administrative staff who actually have to hunt down forms and vendors usually get why this matters faster than the people making the late request. I am also thinking about doing a short office-hours block for the first two weeks so people can ask annoying edge-case questions before they decide to freelance. That feels more useful than another formal training. I'm trying to be realistic, not idealistic.
+
+## Turn 20 — 2024-01-24T01:51:00.000Z (agent)
+
+Office hours sound better than a big training session for this stage. It lets you catch the real edge cases, and it gives reasonable people a place to ask before they improvise. I would keep a running list of the top five questions and turn those into revisions for the FAQ, because every repeated question is a sign the written rule still has a gap. Realistic is exactly the right posture here, especially since the goal is to make routine behavior boring and consistent. Are you planning to announce those office hours in the same message, or after the first wave of reactions?
+
+## Turn 21 — 2024-01-24T01:54:00.000Z (user)
+
+Same message, I think. If I wait, the first wave will just turn into private complaining and side interpretations. Better to say up front, here's the rule, here's the exception lane, here's when you can bring me edge cases. I'm also realizing I need to talk with Rashad before the note goes out, because if my examples don't match what the warehouse sees as a real emergency, people will exploit that gap immediately. This is one of those moments where I can feel the role change in my body, if that makes sense.
+
+## Turn 22 — 2024-01-24T01:58:00.000Z (agent)
+
+It makes complete sense. Formal authority changes the emotional load, because suddenly your wording and timing have system consequences, not just advisory ones. Talking with Rashad before the note goes out is exactly the kind of practical calibration that will save you trouble later, especially around what should stay in the emergency lane and what clearly belongs in planning. If you do that and get the joint note out, you will have covered policy, operations, and support in one move. What do you need most from yourself this week, precision, patience, or stamina?
+
+## Turn 23 — 2024-01-24T02:00:00.000Z (user)
+
+Probably precision first, then stamina. If the language is loose, I will pay for it for months. I can already feel the temptation to over-explain because I know every loophole people are going to look for, but that probably makes the main rule harder to see. My best next step is probably draft the short note, get Rashad's read on the emergency examples, and then ask Patrice to send it jointly. That feels like the cleanest sequence.
+
+## Turn 24 — 2024-01-24T02:03:00.000Z (agent)
+
+That sequence is solid. Short rule first, operational examples second, leadership backing attached, and then a place for edge cases so confusion does not become an excuse. I would actively trim anything in the note that sounds like a history lesson, because people only need to know what changed, what counts as an emergency, and what has to happen before a purchase order is issued. Save the deeper rationale and the data for the few people who push back hard. Once the draft is done, how will you tell whether it is clear enough before it goes out?
+
+## Turn 25 — 2024-01-24T02:07:00.000Z (user)
+
+If somebody outside my lane can read it in under two minutes and tell me the rule back in one sentence, it's probably clear enough. I might hand it to Danielle tonight just to see if the logic tracks without all my work assumptions packed into it. She is good at spotting when I've written something for people who already agree with me. Also, saying this out loud helps, because I was treating the title part and the enforcement part like separate things when they are really the same change.
+
+## Turn 26 — 2024-01-24T02:09:00.000Z (agent)
+
+That is a sharp read. The title matters because it formalizes the enforcement, and the enforcement matters because it gives the title real substance. Having someone outside the immediate work stream read it is a good test, because if the rule survives fresh eyes, it is more likely to survive stressed readers. And your one-sentence test is excellent. I think the real milestone here is that your workflow is no longer a hopeful reform sitting beside the system, it is part of the system. You have a clear next step now.
+
+## Turn 27 — 2024-01-24T02:12:00.000Z (user)
+
+Yeah, that lands right. I think that's why this feels bigger than the title itself. For a long time I was trying to prove the process should exist, and now the district is saying it does exist and people have to use it for routine purchases. I still expect friction, but at least the argument is different now. I'll work on the short note today and stop trying to solve every future fight in one document.
+
+## Turn 28 — 2024-01-24T02:16:00.000Z (agent)
+
+That sounds like the right cutoff point. You do not need a document that defeats every possible objection, you need one that makes the new rule unmistakable and usable. The bigger win here is that the district saw enough in the first-quarter improvement to move from experimentation to enforcement, and your role shifted with it. Draft the short note, pressure-test the emergency examples, send it jointly, and let the rest get handled through the office-hours channel instead of inside one giant memo.

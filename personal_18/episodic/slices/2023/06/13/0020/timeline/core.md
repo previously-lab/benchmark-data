@@ -1,0 +1,128 @@
+---
+slice_id: 2023-06-13-0020
+focus: "A lot has shifted lately, and work has taken up a weird amount of my weekends. T"
+status: closed
+start: "2023-06-13T00:20:00.000Z"
+end: "2023-06-13T01:34:00.000Z"
+timezone: America/Chicago
+summary: "Honestly, it landed better than I expected because I made it almost annoyingly simple"
+decisions:
+  - "Jordan added forecast ownership to her operations role, using cleaned historical usage data to flag green coffee and pac"
+tags:
+  - work-forecasting
+  - data-analysis
+  - supply-chain
+  - long-range-planning
+  - hidden-labor
+  - plain-language
+  - role-expansion
+open_loops:
+  - Whether the forecast review becomes a standing monthly practice
+  - Whether the invisible Saturday labor gets recognized as part of the role
+  - Protecting the simplicity of the front-facing version vs internal complexity
+  - Naming forecast ownership as part of the job without sounding self-important
+emotional_tone: "proud but aware of invisible labor"
+---
+## Turn 1 — 2023-06-13T00:20:00.000Z (user)
+
+A lot has shifted lately, and work has taken up a weird amount of my weekends. The big thing is I kind of added a new layer to my job without anyone formally announcing it, because I spent several Saturdays cleaning up old green coffee numbers and bag-usage history. I turned it into a plain-language forecast sheet, and now I am the one flagging supply and packaging conflicts before they actually hit the roast floor. It feels different from just running the weekly coordination stuff, like I crossed into owning the forecast itself.
+
+## Turn 2 — 2023-06-13T00:22:00.000Z (agent)
+
+That sounds like a real shift, not just extra homework you brought home. You moved from coordinating what was already in motion to building the thing that shows where the collisions are coming, which is a bigger kind of authority even if nobody has put a title on it yet. It also fits the pattern that you do your best work when the chaos gets translated into numbers people can actually use. How did the forecast first land when you showed it around?
+
+## Turn 3 — 2023-06-13T00:25:00.000Z (user)
+
+Honestly, it landed better than I expected because I made it almost annoyingly simple. I stripped out all the little internal shorthand and built one sheet that basically says, if these standing wholesale orders keep rolling and we also say yes to custom promo runs, these two lines cross way earlier than anyone feels it on the floor. The biggest choke points were green coffee and bags, which I kind of already suspected, but seeing the overlap laid out month by month made it hard to shrug off. I kept thinking, should I have done this sooner, or is that just me being dramatic after too many Saturdays with spreadsheets?
+
+## Turn 4 — 2023-06-13T00:29:00.000Z (agent)
+
+I do not think that is you being dramatic, I think you found the missing bridge between gut feel and proof. A plain-language sheet matters because decision-makers can act on it without needing a tour of the back-end logic, and that is often what makes planning tools actually stick. You are also extending the work from the weekly huddle into longer-range visibility, which is exactly where a lot of preventable pain hides. Did the forecast change any actual purchasing or sales decisions yet, or is everyone still in the impressed but passive stage?
+
+## Turn 5 — 2023-06-13T00:31:00.000Z (user)
+
+It changed at least one conversation immediately. I walked Glen through it and for once he could see the collision before it became people looking miserable in production. The sheet made it obvious that a couple of promo ideas were chewing into the same future capacity as the regular wholesale volume, and not in some abstract way, like literally the same bags and the same incoming coffee. That was the first time I felt like he was seeing future pain through numbers instead of waiting for the floor to start hurting.
+
+## Turn 6 — 2023-06-13T00:34:00.000Z (agent)
+
+That is a big win, especially with someone who usually responds more to live urgency than to projections. If he can see the bottleneck before people are scrambling, you have a chance to change decisions while they are still cheap to change. I would treat that moment as evidence, not just relief, because it shows the sheet is doing real translation work. What part of his reaction felt most meaningful, that he believed the numbers, or that he seemed willing to let those numbers limit what gets promised?
+
+## Turn 7 — 2023-06-13T00:38:00.000Z (user)
+
+Probably the second one. He did his usual first pass of trying to find some magical workaround, but then he got quiet and started asking what lead time would actually protect us. That was new. And I think part of why it worked is that I was not pitching some fancy forecasting model, I was just saying, here is what we have historically used, here is what is already committed, here is where the crash happens. Tanya was basically giving me the look across the table like, yes, thank you, finally.
+
+## Turn 8 — 2023-06-13T00:40:00.000Z (agent)
+
+That quiet shift into asking about lead time is the tell. Once someone moves from arguing with reality to asking how to work inside it, the tool has already changed the room. And having Tanya silently back it probably helped anchor that this was operationally real, not just a spreadsheet argument. If you want this to stick, the next move might be naming two or three decisions the forecast should drive every time, like coffee buys, bag orders, and promo approvals, so it does not become an impressive one-off.
+
+## Turn 9 — 2023-06-13T00:43:00.000Z (user)
+
+That makes sense, and I have been trying to think in exactly that direction. I do not want to be the person who heroically uncovers the problem and then everyone goes right back to vibes a week later. I am leaning toward making a standing forecast review once a month, but part of me worries that sounds too formal and people will resist it. Do you think I should push for a real recurring thing now, or wait until I have another month or two of proof?
+
+## Turn 10 — 2023-06-13T00:47:00.000Z (agent)
+
+I would not wait too long, because if the forecast is already useful, delay just gives everyone more time to treat it like a special project instead of part of the operating rhythm. But I also would not sell it as a grand new process. Frame it as a short monthly check on the two choke points you already proved matter most, and tie it to specific upcoming decisions so it feels practical. Also, if your college friend Luis is still your bluntest reader on work politics, he might give you a good read on whether your pitch sounds too ambitious or just appropriately clear.
+
+## Turn 11 — 2023-06-13T00:49:00.000Z (user)
+
+Yeah, keeping it small is probably the right instinct. I can already hear myself overexplaining it if I am not careful, and the whole point is that this sheet works because it is plain enough for people to use. The funny part is I built it at my dining table with instrumental music on, just cleaning old data for hours so I could stop hearing everybody say some version of we will know when it gets tight. I think I am proud of it, but also a little annoyed that I had to donate so many Saturdays to make the obvious visible.
+
+## Turn 12 — 2023-06-13T00:52:00.000Z (agent)
+
+You can be proud and annoyed at the same time, those fit together pretty cleanly here. The Saturdays matter because you turned messy history into something actionable, and that is real value, but it also says the system was relying on someone's unpaid persistence to become legible. I would keep an eye on that, because once people see you can rescue ambiguity with a spreadsheet, they may start assuming that rescue is just available. Have you thought about how to talk about the work involved, not in a resentful way, but in a way that makes forecast ownership visible as part of your role?
+
+## Turn 13 — 2023-06-13T00:56:00.000Z (user)
+
+That is exactly the part I am circling. I do not want to sound like I am demanding a medal for cleaning data, but I also do not want this to become invisible labor that everyone benefits from while I quietly maintain it forever. It really does feel like my job changed, from coordinating what different teams were doing week to week to owning the forward view. How would you phrase that without sounding self-important?
+
+## Turn 14 — 2023-06-13T00:58:00.000Z (agent)
+
+I would keep it concrete and operational. Something like, I have started maintaining a forecast based on cleaned historical usage so we can flag green coffee and packaging conflicts early, and I think that forecast should sit with my role because it directly shapes purchasing and scheduling decisions. That does not sound self-important, it sounds like you are naming a function that now exists and needs a home. You are not asking for praise, you are preventing ownership confusion.
+
+## Turn 15 — 2023-06-13T01:01:00.000Z (user)
+
+That wording is actually helpful. It sounds less like look what I built, and more like here is the tool and here is where it lives. I also think the plain-language part matters more than I expected, because once I stopped making it look like an analyst made it, people actually engaged with it. Does that mean I should protect the simplicity even if part of me wants to keep adding tabs and detail?
+
+## Turn 16 — 2023-06-13T01:05:00.000Z (agent)
+
+Yes, protect the simplicity hard. The hidden complexity can live in your backup tabs if you need them, but the front-facing version should stay readable enough that someone can grasp the collision in under a minute. A tool like this earns influence by being usable, not by proving how much logic sits underneath it. If you want, you can think of it as two layers, one for maintenance and one for decisions.
+
+## Turn 17 — 2023-06-13T01:07:00.000Z (user)
+
+Two layers is smart. I was starting to bloat it because I wanted to defend every number, and that is probably how a good tool turns into a museum exhibit. The part that still gets to me is that once I mapped the bag usage against future volume, the conflict showed up months earlier than the floor would ever physically feel it. That made me realize how much of our stress has probably been late recognition, not just too much work.
+
+## Turn 18 — 2023-06-13T01:10:00.000Z (agent)
+
+I think that is exactly the deeper shift here. You did not just make a report, you exposed that the real problem was hidden timing, where the signal arrived far too late for calm decisions. That kind of insight changes purchasing and scheduling because it turns a future scramble into an earlier tradeoff. It also explains why this work probably steadies your own brain a little, because the unknown gets converted into something you can see.
+
+## Turn 19 — 2023-06-13T01:14:00.000Z (user)
+
+Yes, that last part is very true. I am still me, I still get spun up when too many things are moving, but clean numbers calm me down fast because they give me somewhere to stand. I think that is part of why I kept going on it over those weekends even when I was irritated. If I can see the conflict early enough, it feels solvable instead of like the room is closing in. Is there any risk that I am becoming too attached to being the person with the numbers?
+
+## Turn 20 — 2023-06-13T01:16:00.000Z (agent)
+
+There is a real risk, but it is manageable if you build the role around shared decisions instead of private control. The healthy version is, you are the person who maintains visibility and helps others act on it. The risky version is, only you can interpret the system, and everyone waits for your rescue. That is another reason to keep the sheet plain and the monthly review short, because clarity is what lets the value spread without making you disappear inside it.
+
+## Turn 21 — 2023-06-13T01:19:00.000Z (user)
+
+That distinction helps. I do not actually want to be the oracle, I just want fewer avoidable disasters and fewer moments where everyone acts surprised by something that was visible if anybody had bothered to line up the numbers. So maybe the next step is I propose a monthly forecast check tied specifically to coffee buys, bags, and promo approvals, and I use that wording you gave me about the forecast sitting with my role. That feels pretty reasonable, right?
+
+## Turn 22 — 2023-06-13T01:23:00.000Z (agent)
+
+It feels very reasonable, and more importantly, proportionate to what you already proved. You are not asking the place to adopt some giant planning doctrine, you are asking for a lightweight habit around the exact choke points that keep causing expensive surprises. I would also go in with one example from the sheet that shows a collision early, because people remember a specific pinch point better than a general argument.
+
+## Turn 23 — 2023-06-13T01:25:00.000Z (user)
+
+I can do that. I have one very clean example where the standing volume and a custom run hit the same bag demand line way before anybody would have noticed, so that is probably the one to bring. I think I am finally seeing that this is not just me being good at cleanup, it is me building a longer-range planning function we did not really have. That feels kind of big when I say it out loud.
+
+## Turn 24 — 2023-06-13T01:28:00.000Z (agent)
+
+It is big, and saying it plainly does not make it inflated. You took operational history that was basically dead weight and turned it into a tool that can change purchasing, scheduling, and what gets promised before the damage starts. That is a longer-range planning function, whether or not anyone has caught up to the language yet. When you talk to them, keep it grounded in decisions and timing, and let the significance show through the usefulness.
+
+## Turn 25 — 2023-06-13T01:32:00.000Z (user)
+
+That is probably the line I needed. I am going to keep the sheet simple, pull one strong example, and pitch a short monthly review instead of a giant process overhaul. And I am going to describe it as forecast ownership, because that is honestly what this became. I feel less weird saying that now.
+
+## Turn 26 — 2023-06-13T01:34:00.000Z (agent)
+
+That sounds solid. You are naming the role accurately, protecting the part that makes the tool work, and giving people a small enough structure that they can actually adopt it. The bigger win is that you are making hidden conflicts visible early enough to change what happens next, which is exactly where your work has the most leverage. Hold onto that framing when the conversation starts wandering.

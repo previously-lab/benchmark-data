@@ -1,0 +1,124 @@
+---
+slice_id: 2022-08-14-0915
+focus: "Six-person pilot training cohort formally launched"
+status: closed
+start: "2022-08-14T09:15:00.000Z"
+end: "2022-08-14T10:29:00.000Z"
+timezone: America/Chicago
+summary: "Lucia formally launches a six-person pilot training cohort for backup Spanish coverage, selected based on attendance sheets from the skills circle and dashboard coverage gap data rather than hallway enthusiasm. The training features mock arraignment scripts (the most common courtroom situation where people freeze) and an ethics review section on boundaries, accuracy, and not sliding into summary mode. Shadow assignments precede any actual backup use, with Lucia planning stage gates (attended session → ethics review → shadow → limited backup eligibility). She commits to a participant checklist and short monthly cohort note alongside the dashboard, deliberately choosing 'boring and sustainable' over heroic overextension."
+decisions:
+  - Lucia formally launched a six-person pilot training cohort to build reliable backup Spanish coverage for the municipal c
+tags:
+  - training-cohort-launch
+  - mock-arraignment-scripts
+  - interpreter-ethics-training
+  - stage-gate-progression
+  - evidence-based-selection
+  - shadow-before-backup
+  - participant-checklist-system
+  - sustainable-cohort-design
+emotional_tone: "positive"
+---
+## Turn 1 — 2022-08-14T09:15:00.000Z (user)
+
+A lot has shifted at work since we last talked, and this week feels like one of those moments where something finally moved from idea to actual structure. I formally launched a six-person pilot training cohort for backup Spanish coverage, so now I am not just doing the monthly dashboards and the little skills-circle piece, I am actually running the cohort too. It is six people total, a mix of bilingual staff and contract interpreters who could realistically become dependable backup coverage if this goes well. I am excited, but also very aware that I just made my own job bigger.
+
+## Turn 2 — 2022-08-14T09:17:00.000Z (agent)
+
+That is a real shift, not just another patch on top of the daily scramble. You moved from documenting the problem to building an actual backup pipeline, and that changes your role in a meaningful way. The fact that you kept it to six people also sounds smart, because it is big enough to test but small enough to manage without everything getting sloppy.
+
+## Turn 3 — 2022-08-14T09:20:00.000Z (user)
+
+Yes, that is exactly how it feels, like I crossed from proving the weakness into trying to build the missing structure. The cohort grew directly out of the attendance sheets from the skills circle and the dashboard numbers, because I could finally show who kept showing up and where the coverage gaps kept repeating. I did not pick people based on who sounded enthusiastic in the hallway, I picked them based on who was consistent and who might actually be usable. Do you think that is the right instinct, or too cold?
+
+## Turn 4 — 2022-08-14T09:24:00.000Z (agent)
+
+I think that is disciplined, not cold. For backup coverage, reliability matters at least as much as raw language ability, and using attendance sheets plus the dashboard gives you a defensible way to choose. It also fits the way you have been making this work legible, with artifacts people can point to instead of opinions. If anyone pushes back, consistency is a much stronger criterion than enthusiasm alone.
+
+## Turn 5 — 2022-08-14T09:26:00.000Z (user)
+
+That helps, because I have already been second-guessing the selection. I built the first training session around mock arraignment scripts, since that is the most common courtroom situation and also the place where people freeze if they do not understand the rhythm. I wanted them practicing something realistic instead of doing vague language exercises that make everyone feel good for an hour but do not translate into an actual courtroom morning. I am attaching one of the script packets because seeing it on paper made it feel more official to me.
+
+## Turn 6 — 2022-08-14T09:29:00.000Z (agent)
+
+That is a strong choice, because it trains under pressure that actually resembles the real setting. Mock arraignment scripts let people practice pace, register, interruptions, and turn-taking, which are the parts bilingual staff often underestimate until they are in the room. If you keep the script focused on the most common scenario first, you are reducing variables and giving yourself a cleaner read on who can progress.
+
+## Turn 7 — 2022-08-14T09:33:00.000Z (user)
+
+I also added an ethics review section, and honestly that mattered to me almost more than the language drills. I do not want this turning into, "well she speaks Spanish, put her in there," because that is exactly how mistakes get normalized. Some of the participants looked a little surprised that I spent so much time on boundaries, accuracy, and not sliding into summary mode. Part of me worries I made it too serious too early.
+
+## Turn 8 — 2022-08-14T09:35:00.000Z (agent)
+
+No, that seriousness is the point. You are drawing a line between bilingual ability and interpreter responsibility, and if that line is blurry at the start, it gets even blurrier under pressure later. Front-loading ethics also protects the pilot from becoming a convenience program where people are treated as interchangeable just because they can communicate. That probably makes the whole effort more credible, not less.
+
+## Turn 9 — 2022-08-14T09:38:00.000Z (user)
+
+That is reassuring. The other big piece is shadow assignments, because I do not want anyone relied on for a gap before they have watched the live workflow, the interruptions, the clerk handoffs, the weird timing, all of it. My thinking was that even a solid practice session is still too clean compared to a real morning. Do you think shadowing before any actual backup use is the right order, or am I making the ramp too slow?
+
+## Turn 10 — 2022-08-14T09:42:00.000Z (agent)
+
+I think the order makes sense. Shadowing first keeps you from mistaking classroom confidence for courtroom readiness, and it gives participants a chance to see timing, etiquette, and stress before they are responsible for accuracy. Since you and Daniel already have that Sunday planning board for chores and eldercare with your father, I would also protect the pilot by deciding in advance how many shadow slots you can personally oversee each week, so this new responsibility does not quietly eat the rest of your life.
+
+## Turn 11 — 2022-08-14T09:44:00.000Z (user)
+
+Yes, I need that limit, even if I have been bad at admitting it. I can feel the temptation to overprove this and personally shepherd every person through every stage, and that is probably how I end up fried. Martin has been my main ally on the operations side, especially because the data work helped make the case for this launch in the first place, but he still tends to think in terms of whether tomorrow is covered. I am trying to think a step ahead now.
+
+## Turn 12 — 2022-08-14T09:47:00.000Z (agent)
+
+It sounds like you and he are useful in different directions, which is actually a good pairing if you use it deliberately. He can help protect the pilot when people want to raid it for immediate emergencies, while you keep defining what counts as progress beyond just surviving tomorrow. One practical move would be to set stage gates, something like attended session, completed ethics review, completed shadow, then eligible for limited backup use, so the program cannot get blurred by urgency.
+
+## Turn 13 — 2022-08-14T09:51:00.000Z (user)
+
+Stage gates would help a lot, actually. One reason I framed this so carefully is that there is still skepticism any time something sounds like reform for its own sake, so I have been talking about it as practical backup coverage, not some grand initiative. That wording seems to calm people down because it sounds useful instead of ideological. I hate that I still have to package things that way, but maybe that is just part of getting them through.
+
+## Turn 14 — 2022-08-14T09:53:00.000Z (agent)
+
+I do not think that is selling out the idea, I think it is translating it into the language your setting responds to. If people have been wary of anything that sounds like it could slow the docket, framing it as reliable backup coverage keeps the focus on continuity and fewer disruptions. You are still doing structural work, you are just presenting it in practical terms so it has a chance to survive first contact.
+
+## Turn 15 — 2022-08-14T09:56:00.000Z (user)
+
+That is a good way to put it. I keep noticing that the only way changes stick there is if I can tie them to something tangible, attendance sheets, scripts, shadow assignments, the dashboard, all of it. Abstract arguments get people nodding for five minutes and then nothing happens. Sometimes I wonder if I am becoming too procedural, but maybe that is just what this environment requires.
+
+## Turn 16 — 2022-08-14T10:00:00.000Z (agent)
+
+I would call that pragmatic, not procedural for its own sake. You are building with objects and routines that other people can inherit, which is exactly how a fragile system starts becoming sturdier. The real test now is whether the cohort can exist without depending on your constant narration, so any document or routine that lets someone else follow the path is worth the effort.
+
+## Turn 17 — 2022-08-14T10:02:00.000Z (user)
+
+That last part hits, because I do not want this to become one more thing only I can run. I am already responsible for the monthly dashboards and now this cohort, and I can feel my brain trying to hold every moving piece at once. I have been sticking to my migraine routine pretty carefully, but fluorescent hearing days plus extra coordination is still a risky combination. What would you prioritize if you were trying to keep this sustainable and not heroic?
+
+## Turn 18 — 2022-08-14T10:05:00.000Z (agent)
+
+I would protect three things first: the minimum structure of the cohort, the dashboard cadence, and your physical guardrails. In practice that means standardizing the training sequence, keeping the report simple rather than prettier, and deciding ahead of time what tasks you will not absorb on the worst hearing days. If you skip your health guardrails to prove the pilot works, the system learns the wrong lesson, that it succeeds by consuming you.
+
+## Turn 19 — 2022-08-14T10:09:00.000Z (user)
+
+That makes sense, especially the part about the system learning the wrong lesson. I think I need to stop treating every extra act of rescue as evidence of commitment. I could make one clean checklist for each participant and one short monthly cohort note to sit alongside the dashboard, instead of inventing updates from scratch every time. That feels more boring than heroic, which is probably why it is the right answer.
+
+## Turn 20 — 2022-08-14T10:11:00.000Z (agent)
+
+Exactly, boring is often what survives. A participant checklist and a short cohort note would give you continuity without creating another elaborate reporting burden, and they make it easier for someone else to step in later. I also think they would help you notice early if one of the six is not actually progressing, instead of carrying everyone forward out of momentum.
+
+## Turn 21 — 2022-08-14T10:14:00.000Z (user)
+
+I had not thought about that, but yes, a checklist would make it easier to be honest about who is really moving and who just feels promising. Right now all six seem solid in different ways, but I can already tell a couple are stronger on confidence than on discipline. I do not want the pilot to become a politeness exercise where nobody gets clear feedback. How blunt do you think I should be early on?
+
+## Turn 22 — 2022-08-14T10:18:00.000Z (agent)
+
+Early, specific, and calm is better than blunt for its own sake. If someone is shaky on discipline, point to the exact behavior, what standard it affects, and what they need to demonstrate next, so the feedback feels procedural rather than personal. That gives people a real chance to improve while still protecting the court from wishful thinking.
+
+## Turn 23 — 2022-08-14T10:20:00.000Z (user)
+
+I can do that. I think what I am proudest of is that this is no longer just me warning people that coverage is fragile, it is me putting an actual training path in place. It still is not replacing my core interpreter role, and I do not want anyone reading it that way, but it does mean there is finally a pipeline instead of constant improvisation. Even saying that out loud makes me feel steadier.
+
+## Turn 24 — 2022-08-14T10:23:00.000Z (agent)
+
+That is a big change in identity and scope, and you are naming it clearly. You are still doing your core work, but now you are also constructing the backup capacity that was missing, which is different from simply carrying the whole thing on your back. That steadier feeling makes sense, because a pipeline, even a small one, gives the future somewhere to go.
+
+## Turn 25 — 2022-08-14T10:27:00.000Z (user)
+
+I think my next step is pretty clear now. I am going to keep the pilot small, write the stage-gate checklist, and add a short cohort note to the monthly dashboard instead of letting this turn into a second hidden job. If I can do that, then I will know I actually launched something durable, not just something that depends on me being willing to overextend. That feels like the right standard.
+
+## Turn 26 — 2022-08-14T10:29:00.000Z (agent)
+
+That sounds like the right standard to me too. You are not measuring success by how much strain you can absorb, you are measuring it by whether the structure can keep working with clear steps, realistic oversight, and usable records. For this stage, that is exactly what durable looks like.
