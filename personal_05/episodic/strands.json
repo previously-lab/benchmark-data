@@ -34,7 +34,7 @@
   "family-obligations": [
     "2022/01/06/0030"
   ],
-  "istj-personalityemotional_tone: neutral": [
+  "istj-personality": [
     "2022/01/06/0030"
   ],
   "corridor-diagnostic": [
@@ -56,7 +56,7 @@
   "work-pressure": [
     "2022/01/28/0840"
   ],
-  "home-strainemotional_tone: neutral": [
+  "home-strain": [
     "2022/01/28/0840"
   ],
   "family-boundaries": [
@@ -80,7 +80,7 @@
   "household-tension": [
     "2022/02/14/1215"
   ],
-  "six-week-deadlineemotional_tone: neutral": [
+  "six-week-deadline": [
     "2022/02/14/1215"
   ],
   "corridor-redesign": [
@@ -99,7 +99,7 @@
   "career-growth": [
     "2022/03/10/2310"
   ],
-  "avl-analysisemotional_tone: neutral": [
+  "avl-analysis": [
     "2022/03/10/2310"
   ],
   "elena-friendship": [
@@ -124,7 +124,7 @@
   "decision-fatigue": [
     "2022/03/29/0350"
   ],
-  "practical-routinesemotional_tone: neutral": [
+  "practical-routines": [
     "2022/03/29/0350"
   ],
   "corridor-review": [
@@ -145,7 +145,7 @@
   "weekday-pilot": [
     "2022/04/23/0720"
   ],
-  "communication-strategyemotional_tone: neutral": [
+  "communication-strategy": [
     "2022/04/23/0720"
   ],
   "darius-moved-out": [
@@ -160,7 +160,7 @@
   "home-privacy": [
     "2022/05/12/1030"
   ],
-  "living-room-reclaimedemotional_tone: neutral": [
+  "living-room-reclaimed": [
     "2022/05/12/1030"
   ],
   "pilot-launch": [
@@ -182,7 +182,7 @@
   "daily-follow-up": [
     "2022/06/16/2155"
   ],
-  "work-identity-shiftemotional_tone: neutral": [
+  "work-identity-shift": [
     "2022/06/16/2155"
   ],
   "health-follow-up": [
@@ -208,7 +208,7 @@
   "primary-care": [
     "2022/07/06/0240"
   ],
-  "work-induced-movementemotional_tone: neutral": [
+  "work-induced-movement": [
     "2022/07/06/0240"
   ],
   "corridor-full-signup": [
@@ -231,7 +231,7 @@
     "2022/08/21/0815",
     "2024/09/27/0545"
   ],
-  "operational-credibilityemotional_tone: neutral": [
+  "operational-credibility": [
     "2022/08/21/0815"
   ],
   "columbus-crew": [
@@ -256,7 +256,7 @@
   "social-container": [
     "2022/09/14/1105"
   ],
-  "bounded-pleasureemotional_tone: neutral": [
+  "bounded-pleasure": [
     "2022/09/14/1105"
   ],
   "second-corridor": [
@@ -277,7 +277,7 @@
   "operations-design": [
     "2022/10/30/0600"
   ],
-  "monica-and-gregemotional_tone: neutral": [
+  "monica-and-greg": [
     "2022/10/30/0600"
   ],
   "mortgage-lender": [
@@ -302,7 +302,7 @@
   "affordability-constraint": [
     "2022/11/22/0125"
   ],
-  "household-planningemotional_tone: neutral": [
+  "household-planning": [
     "2022/11/22/0125"
   ],
   "corridor-setback": [
@@ -323,7 +323,7 @@
   "salvage-mode": [
     "2023/01/14/2220"
   ],
-  "workplace-anxietyemotional_tone: neutral": [
+  "workplace-anxiety": [
     "2023/01/14/2220"
   ],
   "transit-history": [
@@ -344,7 +344,7 @@
   "stress-management": [
     "2023/02/08/0945"
   ],
-  "orientation-over-inspirationemotional_tone: neutral": [
+  "orientation-over-inspiration": [
     "2023/02/08/0945"
   ],
   "salvage-redesign": [
@@ -362,7 +362,7 @@
   "greg-field-input": [
     "2023/03/19/0510"
   ],
-  "operations-ownershipemotional_tone: neutral": [
+  "operations-ownership": [
     "2023/03/19/0510"
   ],
   "anniversary-trip": [
@@ -383,7 +383,7 @@
   "no-email-rule": [
     "2023/04/27/1020"
   ],
-  "relationship-investmentemotional_tone: neutral": [
+  "relationship-investment": [
     "2023/04/27/1020"
   ],
   "salvage-results": [
@@ -404,7 +404,7 @@
   "measurable-outcomes": [
     "2023/06/01/2335"
   ],
-  "two-corridor-oversightemotional_tone: neutral": [
+  "two-corridor-oversight": [
     "2023/06/01/2335"
   ],
   "map-and-trail": [
@@ -425,7 +425,7 @@
   "weekend-routine": [
     "2023/07/19/0110"
   ],
-  "low-friction-leisureemotional_tone: neutral": [
+  "low-friction-leisure": [
     "2023/07/19/0110"
   ],
   "signup-co-lead": [
@@ -446,7 +446,7 @@
   "risk-statements": [
     "2023/09/08/0750"
   ],
-  "role-definitionemotional_tone: neutral": [
+  "role-definition": [
     "2023/09/08/0750"
   ],
   "fall-checkup": [
@@ -464,7 +464,7 @@
   "modest-habits": [
     "2023/10/11/0405"
   ],
-  "health-maintenanceemotional_tone: neutral": [
+  "health-maintenance": [
     "2023/10/11/0405"
   ],
   "corridor-playbook": [
@@ -485,7 +485,7 @@
   "exception-tracking": [
     "2023/12/06/1040"
   ],
-  "organizational-influenceemotional_tone: neutral": [
+  "organizational-influence": [
     "2023/12/06/1040"
   ],
   "vintage-bus-maps": [
@@ -509,7 +509,7 @@
   "transit-design": [
     "2024/01/22/0730"
   ],
-  "low-pressure-interestemotional_tone: neutral": [
+  "low-pressure-interest": [
     "2024/01/22/0730"
   ],
   "house-purchase-paused": [
@@ -531,7 +531,7 @@
   "sequence-vs-surrender": [
     "2024/03/14/0200"
   ],
-  "joint-planningemotional_tone: neutral": [
+  "joint-planning": [
     "2024/03/14/0200"
   ],
   "training-role": [
@@ -549,7 +549,7 @@
   "mentorship": [
     "2024/05/09/0005"
   ],
-  "knowledge-transferemotional_tone: neutral": [
+  "knowledge-transfer": [
     "2024/05/09/0005"
   ],
   "elderly-beagle": [
@@ -573,7 +573,7 @@
   "home-atmosphere": [
     "2024/06/18/0955"
   ],
-  "dog-ownership-idealsemotional_tone: neutral": [
+  "dog-ownership-ideals": [
     "2024/06/18/0955"
   ],
   "title-change": [
@@ -591,7 +591,7 @@
   "salary-bump": [
     "2024/09/27/0545"
   ],
-  "role-clarityemotional_tone: neutral": [
+  "role-clarity": [
     "2024/09/27/0545"
   ],
   "lease-renewed": [
@@ -612,7 +612,7 @@
   "apartment-improvement": [
     "2024/11/16/1120"
   ],
-  "home-stabilityemotional_tone: neutral": [
+  "home-stability": [
     "2024/11/16/1120"
   ],
   "corridor-benchmark": [
@@ -630,7 +630,7 @@
   "cautious-confidence": [
     "2025/02/29/0040"
   ],
-  "upstream-proofemotional_tone: neutral": [
+  "upstream-proof": [
     "2025/02/29/0040"
   ],
   "spring-physical": [
@@ -654,7 +654,7 @@
   "health-milestone": [
     "2025/05/18/1010"
   ],
-  "ordinary-progressemotional_tone: neutral": [
+  "ordinary-progress": [
     "2025/05/18/1010"
   ]
 }

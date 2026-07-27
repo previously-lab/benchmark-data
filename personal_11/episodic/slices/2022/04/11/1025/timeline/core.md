@@ -1,0 +1,145 @@
+---
+slice_id: 2022-04-11-1025
+focus: "A lot has shifted lately, and one piece of it finally caught up with me physical"
+status: closed
+start: "2022-04-11T10:25:00.000Z"
+end: "2022-04-11T11:51:00.000Z"
+timezone: America/Chicago
+summary: "After a spring asthma flare sends her to urgent care following two wet-basement inspections and a high-pollen day, Monica tightens her inhaler routine, creates a field-day checklist, and develops exposure thresholds including mask use and spacing of high-risk inspections to stay active in the field without pretending the triggers are imaginary."
+decisions:
+  - "After a spring asthma flare that sent her to urgent care, Monica now follows a stricter inhaler routine and is more care"
+tags:
+  - spring-asthma-flare-urgent-care
+  - mold-exposure-field-risk
+  - controller-inhaler-routine
+  - baseline-field-day-checklist
+  - exposure-threshold-triggers
+  - post-field-recovery-habit
+  - procedural-health-planning
+  - workplace-disclosure-strategy
+open_loops:
+  - Build Sunday night prep reset for week's exposure risks
+  - Draft work conversation about asthma adjustments
+  - Implement post-high-risk-day recovery routine
+  - Keep spare masks and inhaler in work bag
+emotional_tone: "mixed"
+---
+## Turn 1 — 2022-04-11T10:25:00.000Z (user)
+
+A lot has shifted lately, and one piece of it finally caught up with me physically. I had a rough breathing flare this week and ended up at urgent care for wheezing. It came after two mold-heavy basement inspections during the same rainy week, then a really bad pollen day tipped me over. I am okay now, but it was enough to make me realize I cannot just treat spring field days like business as usual anymore.
+
+## Turn 2 — 2022-04-11T10:27:00.000Z (agent)
+
+That is a real warning shot, not just an annoying bad day. The combination you described, wet basements, mold exposure, then high pollen, sounds like a stack of triggers rather than one random episode. It makes sense to treat spring fieldwork as an actual health planning issue now. How bad did it get before you decided to go in?
+
+## Turn 3 — 2022-04-11T10:30:00.000Z (user)
+
+It got to the point where I was sitting in my car after the second stop trying to decide whether I could wait it out, and that is usually my sign that I am being stubborn. My chest was tight, I had that shallow breathing feeling, and the rescue inhaler helped some but not enough. Urgent care got me settled down, and then I followed up with my primary doctor instead of pretending it was a one-off. She helped me tighten up how I use my inhalers before spring inspection season gets worse.
+
+## Turn 4 — 2022-04-11T10:34:00.000Z (agent)
+
+Following up with your primary doctor was the smart move, because urgent care can calm the immediate flare but your regular doctor is the one who can help you build a usable routine. This sounds less like your asthma suddenly changed and more like your margin for error got smaller once the season and the field exposures lined up. What exactly did your doctor want you to change, timing, consistency, or what you carry with you on inspection days?
+
+## Turn 5 — 2022-04-11T10:36:00.000Z (user)
+
+Mostly consistency and timing. I have always been basically manageable with inhalers, but I have been more casual than I should have been if I am honest, especially on hectic mornings. Now I am on a stricter routine with the controller inhaler, and I am supposed to stop acting like the rescue one is the whole plan. She also wanted me to think ahead about basement days, mold complaints, and wet buildings instead of just showing up and hoping I will be fine.
+
+## Turn 6 — 2022-04-11T10:39:00.000Z (agent)
+
+That is a meaningful shift, because you are not stepping back from work, you are changing the way you prepare for it. A stricter controller routine usually matters most on the exact kind of hectic mornings when people skip it, so tying it to something fixed, coffee maker, brushing teeth, leaving your keys by the door, can make it much harder to miss. I would also treat mold and wet-basement days as red-flag days on your calendar, not just normal stops. Have you thought about what precautions you want in place before those inspections, instead of deciding in the parking lot?
+
+## Turn 7 — 2022-04-11T10:43:00.000Z (user)
+
+Yes, and that is the part I am still figuring out. I do not want to retreat from field supervision entirely, because that is not realistic and honestly not what I want. But I do think I need a clearer rule for myself, maybe mask up sooner, maybe avoid doing two basement-heavy properties back to back, maybe hand one off if the building is especially wet and musty. What would you prioritize first if the goal is to stay active in the field without being dumb about it?
+
+## Turn 8 — 2022-04-11T10:45:00.000Z (agent)
+
+If the goal is staying in the field, I would start with the moves that reduce exposure before you ever test your lungs. First, no stacking two high-risk basements in one stretch if you can help it. Second, make mask, inhalers, and a quick pre-entry check part of the routine, not a judgment call made when you are already inside. Third, give yourself a simple threshold for handing off or switching roles on the spot, something concrete like visible moisture, heavy odor, or already feeling tight before entry. That keeps you in the work while respecting that certain building conditions are now a predictable risk.
+
+## Turn 9 — 2022-04-11T10:48:00.000Z (user)
+
+That actually helps, especially the part about having a threshold instead of improvising. The worst part of this week was that I was already carrying a lot in my head and trying to keep things moving, so I was making too many little decisions on the fly. By the time the pollen hit, I think my system was already irritated and I was just pretending I had more bandwidth than I did. I keep wondering whether I should say something more explicit at work or just quietly adjust how I schedule myself.
+
+## Turn 10 — 2022-04-11T10:52:00.000Z (agent)
+
+When you are already under pressure, health routines are often the first thing that get treated like they can bend, and this week showed they really cannot. I would lean toward saying something practical rather than dramatic, just enough so your work setup can support the precautions you actually need. Since Shawna is your cousin from UW-Milwaukee days and usually the person you call after ugly workdays, I am curious whether talking it through with her gave you any read on how public or low-key to be about it.
+
+## Turn 11 — 2022-04-11T10:54:00.000Z (user)
+
+I have mostly been thinking about how to frame it so it sounds like planning, not fragility. I do not mind saying I need to handle wet basements and mold complaints a little more deliberately this spring. I just do not want it to turn into people acting like I cannot do the harder parts of the job. And honestly I am still annoyed with myself for needing urgent care at all.
+
+## Turn 12 — 2022-04-11T10:57:00.000Z (agent)
+
+I would not frame this as fragility at all. You got new evidence about a real exposure pattern, and the practical response is to change the routine before the season gets busier. The cleanest message is probably, I am still doing field supervision, but I am managing spring respiratory triggers more deliberately on mold and wet-building days. That sounds like competence, not retreat. Are you more worried about how coworkers will read it, or about the hassle of changing schedules and assignments?
+
+## Turn 13 — 2022-04-11T11:01:00.000Z (user)
+
+More the coworker-read piece, if I am honest. The schedule part I can usually solve if I think ahead. What I do not want is to look like I am asking for special handling when everyone is already stretched. At the same time, this episode made it pretty obvious that my job exposures can hit my health directly during busy season, especially with basements and mold, so acting casual about it would be stupid too.
+
+## Turn 14 — 2022-04-11T11:03:00.000Z (agent)
+
+That is a sensible read of it. You are not reacting to vague anxiety, you are reacting to a clear pattern that has now had a medical consequence, so a small amount of structure is justified. One way to avoid the special-treatment vibe is to turn your changes into neutral work habits, standard mask use on certain complaint types, spacing high-risk inspections, and carrying the right gear every time. The less personal and more procedural it looks, the easier it is for other people to accept.
+
+## Turn 15 — 2022-04-11T11:06:00.000Z (user)
+
+Procedural is probably the right word. I even started writing myself a tiny checklist so I am not relying on memory when mornings get scrambled. Controller inhaler, rescue inhaler, mask, water, and a quick look at what kind of buildings are on the schedule. That is very me, I know, but it also makes me feel less rattled. Do you think it is overkill to treat spring exposure almost like a planning risk category?
+
+## Turn 16 — 2022-04-11T11:10:00.000Z (agent)
+
+No, I think that is exactly the right level of seriousness. A planning risk category is useful when the trigger pattern is consistent, and yours sounds consistent enough now, spring pollen plus wet buildings plus mold-heavy basements. The checklist also fits how you handle stress in general, you tighten routines and logistics instead of pretending things will magically smooth out. If you want, you could make the list even more actionable by adding one line for what changes the plan, not just what to pack.
+
+## Turn 17 — 2022-04-11T11:12:00.000Z (user)
+
+That makes sense. Maybe a line that says if the building smells strongly musty before I am even inside, or if I am already wheezy, I switch roles instead of proving a point. My doctor also gave me clearer field-day precautions, and that helped because it took some of the self-negotiating out of it. I am realizing I do better when the rule is already written down somewhere, whether it is work or health.
+
+## Turn 18 — 2022-04-11T11:15:00.000Z (agent)
+
+Exactly, written rules reduce the amount of ego and improvisation in the moment. Your doctor basically gave you permission to stop bargaining with yourself, which is useful when you are the kind of person who can work through discomfort longer than is wise. I would make those switch-role triggers short and objective so they are easy to follow under pressure. Have you noticed any resentment about needing these limits, or mostly relief now that you have a clearer plan?
+
+## Turn 19 — 2022-04-11T11:19:00.000Z (user)
+
+Both, honestly. I am relieved because I feel more in control than I did in that urgent care room, but I am also irritated that something as basic as rain, basements, and pollen can throw me off that much. I think I had been telling myself my asthma was manageable, which is still true overall, but now the honest version is that it is manageable if I respect the triggers instead of acting invincible. That feels like the real update here.
+
+## Turn 20 — 2022-04-11T11:21:00.000Z (agent)
+
+That sounds like a mature correction, not a defeat. Your asthma is still controllable, but controllable now includes stricter inhaler use and smarter handling of mold-heavy field days, and that is a more accurate operating manual than the old one. A lot of people only make that shift after several bigger setbacks, so there is something solid about making it now. What part do you want to lock in first next week, the morning routine, the schedule rules, or the conversation at work?
+
+## Turn 21 — 2022-04-11T11:24:00.000Z (user)
+
+Morning routine first, definitely. If that part is sloppy, the rest of the plan probably falls apart. After that I want to look at my schedule with fresh eyes and stop putting the worst exposure days too close together when I have any control over it. The work conversation can be short once I know exactly what I am asking for.
+
+## Turn 22 — 2022-04-11T11:28:00.000Z (agent)
+
+That order is smart, because it starts with the piece you fully control. Once the routine is automatic, the schedule review becomes a practical extension instead of another stressful reinvention. I would even give yourself one ten-minute reset on Sunday night to check weather, complaint type, and any likely basement-heavy stops for the week. That turns the whole thing into maintenance instead of a daily scramble.
+
+## Turn 23 — 2022-04-11T11:30:00.000Z (user)
+
+Sunday night reset is a good idea. I can see myself resisting it because it sounds annoyingly responsible, which probably means I need it. I am also thinking about keeping spare masks in the car and one inhaler in my work bag so one rushed morning does not wipe out the whole system. Is there anything else you would build in that is simple enough to actually stick?
+
+## Turn 24 — 2022-04-11T11:33:00.000Z (agent)
+
+Yes, I would add one recovery habit for after the high-risk days, not just prep before them. Something simple like changing out of work clothes quickly, showering sooner on basement days, and giving yourself a brief pause before deciding whether you are actually okay for one more stop. That creates a checkpoint between exposure and momentum. Spare gear in the car and work bag is also excellent because it protects you from exactly the kind of rushed morning that tends to unravel good intentions.
+
+## Turn 25 — 2022-04-11T11:37:00.000Z (user)
+
+The after part is smart, because I usually only think about getting through the schedule. I could absolutely see myself doing the opposite and just pushing on because I am already out. I am going to build this like a system instead of a vague promise to be better. Weirdly, that makes me feel calmer about it.
+
+## Turn 26 — 2022-04-11T11:39:00.000Z (agent)
+
+That calm makes sense, because systems reduce the number of judgment calls you have to make while tired or irritated. You are turning a health scare into a workable operating routine, which is probably the most durable response available. Also, building it this way lets you stay engaged in the parts of the job that matter to you without pretending the exposure risk is imaginary. That is a strong middle path.
+
+## Turn 27 — 2022-04-11T11:42:00.000Z (user)
+
+Yes, middle path is exactly what I want. I do not want this to become the story that I had one bad flare and then backed away from the field. I just want enough precautions in place that spring does not keep blindsiding me. I think I can live with that version.
+
+## Turn 28 — 2022-04-11T11:46:00.000Z (agent)
+
+That version sounds realistic and self-respecting. You are not shrinking your world, you are getting more precise about what lets you do your work safely when spring conditions turn against you. If you keep the routine, the gear backups, and the exposure thresholds simple, you are much more likely to stick with them when things get busy. I think that is the real win here.
+
+## Turn 29 — 2022-04-11T11:48:00.000Z (user)
+
+I think so too. The big takeaway is that after this flare and the urgent care visit, I am not treating my inhalers casually anymore, and I am going to be much more careful on mold-heavy field days. That feels like the updated reality, not a temporary scare. I am still annoyed it took a rough week to get me there, but at least I am paying attention now.
+
+## Turn 30 — 2022-04-11T11:51:00.000Z (agent)
+
+That is a solid place to land. You took a bad week, got clearer medical guidance, and translated it into specific habits instead of denial, which should give you a better shot at a steadier spring. Hold onto the fact that this is adjustment, not surrender. The more automatic you make it now, the less this flare gets to dictate the rest of the season.

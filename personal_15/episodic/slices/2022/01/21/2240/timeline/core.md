@@ -1,0 +1,142 @@
+---
+slice_id: 2022-01-21-2240
+focus: "Seafood handoff failure prompts formal incident log against verbal culture."
+status: closed
+start: "2022-01-21T22:40:00.000Z"
+end: "2022-01-22T00:06:00.000Z"
+timezone: America/Chicago
+summary: "A costly missed seafood-client transfer window caused by an unlogged freezer-truck delay during shift change. Jae-hyun documents evidence (radio times, whiteboard photos, captain call records) and gets operations chief approval to trial a single incident log for handoff failures, with a required consequence field."
+decisions:
+  - "After a costly missed seafood-client handoff, Jae-hyun is still dispatch manager but has informally taken on documenting"
+tags:
+  - handoff-failure
+  - seafood-client-incident
+  - verbal-handoff-conflict
+  - delay-documentation
+  - incident-log-trial
+  - crew-resistance
+open_loops:
+  - Incident log trial outcomes
+  - Captain Lee Sang-ho's cooperation with written reporting
+  - Kim Dong-wook's staffing support for the trial
+emotional_tone: "mixed"
+---
+## Turn 1 — 2022-01-21T22:40:00.000Z (user)
+
+A lot has shifted at work lately, and this week felt like the first time something really broke in a way nobody could brush off. We had a dawn blowup between the night crew and the day crew, and it turned out a freezer-truck delay never got logged during handoff. Because of that, we missed a major seafood client's transfer window at the pier. I am still the same dispatch manager, but now I have kind of ended up being the person documenting delay causes and trying to prove where these verbal handoffs are failing us.
+
+## Turn 2 — 2022-01-21T22:42:00.000Z (agent)
+
+That sounds like one of those moments where the underlying problem finally became impossible to deny. Missing a seafood transfer because a delay never made it through handoff is exactly the kind of preventable failure that hits both money and trust at once. You have been frustrated by verbal-only coordination for a while, so this seems like the point where you stopped just noticing the pattern and started building a case. What did you do right after the blowup, while everyone was still arguing about whose version was correct?
+
+## Turn 3 — 2022-01-21T22:45:00.000Z (user)
+
+I did not want it to turn into the usual thing where everyone reconstructs the story from memory and whichever person talks the loudest wins. So I pulled radio times, took photos of the whiteboard before anyone could rewrite it, and checked the captain call records. I ended up putting all of it into a written delay file, which is the first time I have ever turned one of these failures into an actual record instead of letting it stay verbal afterward. Honestly, I was angry enough to do it properly.
+
+## Turn 4 — 2022-01-21T22:49:00.000Z (agent)
+
+That was the right instinct. Radio times, board photos, and call records give you three different traces of the same event, so you were not just picking a side, you were triangulating what happened. That also protects you a bit, because it shows you are checking the system rather than blaming one crew outright. When you laid it out in writing, what did the timeline actually show about where the handoff broke?
+
+## Turn 5 — 2022-01-21T22:51:00.000Z (user)
+
+The timeline made the problem embarrassingly clear. The freezer truck was already running late before shift change, but the night side only mentioned it on the radio and never marked it anywhere the day side would reliably see. Then the day side assumed the cargo was still moving on the original timing, and by the time they realized the transfer slot was gone. The ugly part is that this one was not weather, not a vessel problem, not some unavoidable port mess, it was a handoff failure sitting right in the middle.
+
+## Turn 6 — 2022-01-21T22:54:00.000Z (agent)
+
+That distinction matters a lot. If it had been weather or vessel performance, people could shrug and call it the port being the port, but this points straight at a process gap between shifts. It also gives you a clean test case, because the failure is narrow enough to document without getting lost in ten other variables. Did the captain or operations chief push back once you showed that it was the handoff itself?
+
+## Turn 7 — 2022-01-21T22:58:00.000Z (user)
+
+The captain was defensive at first, especially because the whiteboard photo made it obvious nothing had been written down. I was careful not to make it personal, because I knew if I turned it into a fight with one person the whole thing would collapse into pride. The operations chief was more practical. He basically said if I want to prove this is a real pattern, then I need something more repeatable than one angry morning.
+
+## Turn 8 — 2022-01-21T23:00:00.000Z (agent)
+
+That is actually a useful opening, even if it came the hard way. If he is asking for something repeatable, he is giving you permission to move from complaint to method. I would keep the trial extremely narrow, one page, a few fields, and centered on what failed during handoff rather than every possible delay. What kind of log are you thinking of using?
+
+## Turn 9 — 2022-01-21T23:03:00.000Z (user)
+
+That is pretty much where it landed. He agreed to let me trial a single incident log just for handoff failures, not some big reporting overhaul. So now I have this small window, but it is definitely on me to prove it works without slowing everybody down. I am trying to decide whether the log should stay very bare, like time, source, missed note, consequence, or whether I should add one line for who confirmed the information.
+
+## Turn 10 — 2022-01-21T23:07:00.000Z (agent)
+
+A limited trial is probably better for you than a grand rollout, because it lowers the instinctive resistance. I would lean toward adding the confirmation line, but only if it is simple, something like who passed it and how it was verified, because that turns arguments about memory into something checkable later. Also, since your sister depends on you for exam fees because you help structure her study weeks, you already know how much easier people cooperate when the structure is clear and light. If the form feels like homework, they will dodge it.
+
+## Turn 11 — 2022-01-21T23:09:00.000Z (user)
+
+Yes, that is what I am afraid of, if it looks like punishment, nobody will touch it unless something explodes. I keep thinking the form has to be short enough that even the most stubborn person can fill it in half annoyed. At the same time, if it is too thin, people will just write one vague sentence and we are back where we started. Do you think consequence should be a required field, or is that too much for a trial?
+
+## Turn 12 — 2022-01-21T23:12:00.000Z (agent)
+
+I think consequence should be required, but in a constrained way. Not an essay, just a checkbox or short tag, missed slot, loading delay, duplicate call, standby labor, client complaint, something that makes the operational cost visible. That matters because people often tolerate a fuzzy handoff until they can see what it actually caused. If you keep one free-text line and the rest structured, you get evidence without turning it into paperwork.
+
+## Turn 13 — 2022-01-21T23:16:00.000Z (user)
+
+That makes sense. The part that got under my skin is that this involved a seafood client, so the whole thing felt more personal than some random scheduling miss. I grew up around people whose day can get wrecked by one bad timing call, so when that transfer window was gone, I could already picture the downstream mess. Maybe that is why I dug in instead of just cooling off and moving on.
+
+## Turn 14 — 2022-01-21T23:18:00.000Z (agent)
+
+I can see why this one landed harder. It was not just a missed slot on paper, it connected to a kind of business you understand in your bones, so of course you were less willing to let it dissolve into excuses. That personal stake can be useful if it sharpens your standards, but it is good that you still built the file from evidence instead of anger. The strongest thing here is that you cross-checked multiple records before deciding what failed.
+
+## Turn 15 — 2022-01-21T23:21:00.000Z (user)
+
+I am glad it reads that way, because I was worried I might have looked like I was making a case against the night side. I really was trying to show the chain, not pin it all on one crew. The written file helped with that, since it forced me to lay out what happened in order instead of going by whoever sounded convincing. But now I am wondering how hard to push this next part, because I still have to work with all of them tomorrow night.
+
+## Turn 16 — 2022-01-21T23:25:00.000Z (agent)
+
+You do not need to push it as a moral issue, you can push it as a visibility issue. A useful phrase for this kind of room is, we are not logging blame, we are logging where information disappeared. That gives people a way to participate without feeling accused, and it keeps the focus on handoff mechanics rather than loyalty to one shift. Tomorrow night, I would introduce the form as a tool for catching repeat breakpoints, not as the aftermath of one bad day.
+
+## Turn 17 — 2022-01-21T23:27:00.000Z (user)
+
+That wording is good. I need something that lowers people's guard, especially the older guys who hear any new form and immediately think someone is trying to police them. One captain in particular will treat this as an insult if I sound too formal. Would you lead with the seafood incident as the example, or keep that in the background and present the log more generally?
+
+## Turn 18 — 2022-01-21T23:30:00.000Z (agent)
+
+I would mention the incident, but briefly and without replaying the argument. People accept new tools faster when they understand the concrete trigger, especially if the cost was obvious, but you do not need to drag anyone's face back into it. Something like, after the missed transfer, we need one common record when handoff information drops, is enough. Then move straight to how short the form is and how it protects both shifts from guesswork later.
+
+## Turn 19 — 2022-01-21T23:34:00.000Z (user)
+
+That balance feels right. Another thing I am thinking about is whether to fill the first few logs myself no matter whose shift it is, just to show the standard, or whether that makes it look like I am hovering over everyone. Part of me thinks if I leave it too loose at the start, people will create bad habits immediately. But if I over-own it, they will wait for me every time.
+
+## Turn 20 — 2022-01-21T23:36:00.000Z (agent)
+
+I would do a short starter phase, maybe the first few incidents, where you help complete them in real time, but make it explicit that you are modeling the format, not becoming the permanent scribe. That gives you a cleaner sample and prevents the first logs from being useless. Then hand it off quickly, because if the form depends on your presence, people will treat it as your project instead of an operating habit. The key is to teach the threshold for what counts as a handoff failure worth logging.
+
+## Turn 21 — 2022-01-21T23:39:00.000Z (user)
+
+Yes, threshold is exactly the problem. If every tiny delay goes on the sheet, people will drown in it and stop caring. If only disasters count, then the pattern will stay invisible until it hurts us again. I am leaning toward saying it gets logged if information known before shift change failed to reach the next shift in usable form and changed timing or action. Does that sound too stiff?
+
+## Turn 22 — 2022-01-21T23:43:00.000Z (agent)
+
+The logic is good, it just needs spoken language. I would trim it to, log it when one shift knew something that the next shift needed, and the miss changed timing or action. That sounds like a dock rule instead of a policy memo. You can still keep the fuller definition on the sheet if you want, but say the shorter version out loud when you introduce it.
+
+## Turn 23 — 2022-01-21T23:45:00.000Z (user)
+
+Good point, saying it like a person matters more than sounding precise. I also keep thinking about what success even looks like here. The chief did back me on the trial, but it is still cautious support, and I know he expects results without extra staff or some dramatic speech from above. If you were me, what would you try to show first, fewer misses, or just clearer explanations when things go wrong?
+
+## Turn 24 — 2022-01-21T23:48:00.000Z (agent)
+
+First, clearer explanations. Fewer misses is the long game, but in a small trial you may not have enough time or clean comparison to prove a drop yet. What you can show quickly is that the log turns messy arguments into visible sequences, and that alone saves time, reduces blame-swapping, and identifies repeat weak spots. If the chief sees cleaner post-incident understanding with no extra staffing, he is more likely to keep the trial alive long enough for the bigger gains to show.
+
+## Turn 25 — 2022-01-21T23:52:00.000Z (user)
+
+That actually settles something for me. I was putting pressure on myself to prove the whole culture can change off one form in one month, which is obviously unrealistic. Maybe the first win is just making the next bad handoff legible instead of chaotic. I can already use this seafood case as the baseline example of what we miss when nothing gets written.
+
+## Turn 26 — 2022-01-21T23:54:00.000Z (agent)
+
+Exactly. You are not promising a miracle, you are proving that written tracking reveals where the system breaks in a way verbal reconstruction never does. This first case matters because it gives you a concrete before picture, the argument, the missing note, the lost transfer, and the scramble afterward. Once people see that contrast, the log starts to justify itself.
+
+## Turn 27 — 2022-01-21T23:57:00.000Z (user)
+
+I think that is the frame I needed. I am going to keep the form short, require consequence in a simple way, and introduce it as a record of where information disappears, not who to blame. Then if another handoff goes bad, I will fill the first one with them instead of for them. It still feels unofficial, but maybe that is just how this kind of change starts.
+
+## Turn 28 — 2022-01-22T00:01:00.000Z (agent)
+
+That sounds well judged. Short form, visible consequence, neutral framing, and a brief modeling phase is a solid sequence for a limited trial. And yes, unofficial does not mean unimportant, sometimes the first real shift is just one person creating enough structure that the old vagueness stops being comfortable. Keep your own copies of the early logs too, because the pattern across several cases may end up being more persuasive than any single incident.
+
+## Turn 29 — 2022-01-22T00:03:00.000Z (user)
+
+I will do that. Weirdly, I feel less stuck now than I did when the argument first happened. I am still tired and annoyed, but at least I have a way to turn that morning into something useful instead of just another story people retell differently. For now, that feels like progress.
+
+## Turn 30 — 2022-01-22T00:06:00.000Z (agent)
+
+It is progress. You took a messy, expensive failure and converted it into the first written record that can actually teach the operation something, and that is a real shift in your role even if the job title stayed the same. The next step is not to carry the whole system on your back, just to make the trial clear enough that the evidence can keep speaking for you.

@@ -1,0 +1,145 @@
+---
+slice_id: 2022-01-22-0840
+focus: "Photography loan request exposes widespread records gaps, leading to formal collections integrity review"
+status: closed
+start: "2022-01-22T08:40:00.000Z"
+end: "2022-01-22T10:06:00.000Z"
+timezone: America/Chicago
+summary: "When a Boston lender asks about a photography loan, Hannah's honest digging reveals unreliable object locations, incomplete files, and prep-room documentation gaps — forcing her to lead a formal collections integrity review."
+decisions:
+  - "Hannah is still the Providence Museum of Art's registrar, and after the photography loan request she is now leading an i"
+tags:
+  - collections-integrity-review
+  - photography-loan-trigger
+  - registrar-advocacy
+  - documentation-gap-exposure
+  - institutional-risk-assessment
+  - phase-one-scoping
+  - meeting-tone-strategy
+  - delegation-tactics
+open_loops:
+  - Draft phase-one scope in 'question, findings, risk, phase one' format
+  - Define sample set and failure categories for repeatable testing
+  - Request one clearly delegated support task from leadership
+  - Establish recurring standing check-in instead of ad-hoc chasing
+emotional_tone: "mixed"
+---
+## Turn 1 — 2022-01-22T08:40:00.000Z (user)
+
+A lot has shifted at work lately, and I think one thing finally tipped from background frustration into an actual change in my job. A larger incoming photography loan was being discussed, and Daniel asked me whether we could confidently say yes to a Boston lender. I went digging so I could answer honestly, and the short version is that I could not. I am still the registrar, but now I am also leading an internal collections integrity review because that request exposed how unreliable some of our locations, object files, and prep-room records really are.
+
+## Turn 2 — 2022-01-22T08:42:00.000Z (agent)
+
+That sounds like one of those moments where a vague worry suddenly becomes impossible to keep treating as vague. You did the important thing, which was answer the real question instead of the convenient one. Given how much you care about avoidable risk in loans and documentation, this seems like a big turning point, not just an annoying work fire. What did you find when you started checking?
+
+## Turn 3 — 2022-01-22T08:45:00.000Z (user)
+
+It got ugly fast. I spent two late evenings pulling old shelf lists, opening boxes with labels that did not match what was supposed to be inside, and cross-checking paper loan folders against a spreadsheet that clearly had not been meaningfully updated in too long. It was not one dramatic disaster, which somehow made it worse. It was this steady accumulation of little mismatches that made me realize we are not audit-ready enough to give a confident yes.
+
+## Turn 4 — 2022-01-22T08:49:00.000Z (agent)
+
+That kind of scattered inconsistency is exactly what makes confidence impossible, because no single fix proves the whole system can be trusted. The photo makes it look like you were doing forensic work, not routine registrar work, and that difference matters. If the pattern was mislabeled boxes plus stale digital records plus incomplete paper trails, then saying no was responsible. Did you bring Daniel a verbal warning first, or go straight to something written?
+
+## Turn 5 — 2022-01-22T08:51:00.000Z (user)
+
+I put it in writing. I know myself well enough to know that if I only said, "this feels shaky," it could get translated into "we can probably make it work." So I wrote a formal summary saying we were not ready to represent the collection as audit-sound for a larger incoming loan, and I outlined the actual problems instead of softening them. I also proposed a phased collections integrity review as the alternative, which felt much more honest than bluffing readiness.
+
+## Turn 6 — 2022-01-22T08:54:00.000Z (agent)
+
+Putting it in writing was smart, especially with someone who tends to move the timeline forward and trust that the logistics will somehow catch up. You gave the museum a record of what the risk actually is, and you paired the warning with a workable next step instead of just blocking the loan. That usually lands better than pure refusal. How did he take it once it was formal?
+
+## Turn 7 — 2022-01-22T08:58:00.000Z (user)
+
+Better than I expected, honestly. He was disappointed, because I think he had already started picturing the exhibition shape in his head, but he did not try to bulldoze me. I think the fact that I had examples, not just a bad feeling, helped. Now the review is real, which is good, but I am also aware I just handed myself a much larger piece of work.
+
+## Turn 8 — 2022-01-22T09:00:00.000Z (agent)
+
+That reaction makes sense. You gave him something he could actually act on, even if it was not the answer he wanted. And this is very much in line with the longer thing you have cared about, getting the records and procedures to a place where bigger exhibitions do not depend on crossed fingers. The new challenge is scope control, because a justified review can turn into "Hannah fixes the museum" if nobody defines boundaries. What are you thinking the first phase should cover?
+
+## Turn 9 — 2022-01-22T09:03:00.000Z (user)
+
+That is exactly my worry. If I let this become "everything, everywhere, all at once," I will drown in it and everyone else will nod sympathetically while I do. My instinct is to start with loan-relevant storage locations, active object files, and the prep-room documentation habits that keep creating ambiguity. Do you think that is narrow enough, or am I still taking on too much?
+
+## Turn 10 — 2022-01-22T09:07:00.000Z (agent)
+
+That sounds like the right slice, because it follows the risk path that actually triggered this. I would frame phase one around decision-critical trust points: where objects are, whether the files support movement and loan decisions, and whether prep-room records can be relied on in real time. If you name it that way, you are not promising a total historical cleanup yet. I also think it helps to define what phase one will not include, so people do not quietly stack old wishes on top of it.
+
+## Turn 11 — 2022-01-22T09:09:00.000Z (user)
+
+I like the idea of explicitly saying what is not in phase one. Otherwise every dusty corner becomes my moral responsibility. I am trying to think about what evidence I need so this does not sound abstract. Right now I have examples of bad locations, incomplete files, and prep notes that were basically scraps, but I have not turned that into a clean framework yet.
+
+## Turn 12 — 2022-01-22T09:12:00.000Z (agent)
+
+You do not need a grand framework first, you need a repeatable test. Pick a sample set, document the expected location, the actual location, file completeness, and whether prep documentation would support a loan decision without guesswork. Then count failure types, not just anecdotes. Also, since your brother's cooking-school texts are kind of a reluctant family check-in more than a comfort, I would not count on that as much stress relief while this ramps up. A simple dashboard with three or four categories might be enough to make the case stick.
+
+## Turn 13 — 2022-01-22T09:16:00.000Z (user)
+
+A sample set is probably the only way this stays manageable. If I try to solve it from the feeling of messiness, I will never even start. I can build a small tracking sheet with failure categories and use that to justify the sequence. I am also wondering whether I should ask for someone else to be assigned to parts of it now, or wait until I have the first pass in hand.
+
+## Turn 14 — 2022-01-22T09:18:00.000Z (agent)
+
+I would ask early, but for narrowly defined help. If you wait until you are overloaded, the request can sound emotional; if you ask now for specific tasks, it sounds like project design. For example, someone else could pull folders, reconcile shelf locations from a defined list, or standardize prep-room logs while you own the review criteria and final judgment. That keeps you in charge without turning you into unpaid infrastructure.
+
+## Turn 15 — 2022-01-22T09:21:00.000Z (user)
+
+That distinction is useful. I do not mind leading it, I just do not want to become the only pair of hands attached to it. Part of me also worries that once I document the extent of the problem, people will act startled and then somehow forget they were happy to coast while things stayed fuzzy. I know that sounds a little bitter, but it is there.
+
+## Turn 16 — 2022-01-22T09:25:00.000Z (agent)
+
+It does not sound bitter so much as realistic. Institutions are very good at benefiting from ambiguity until someone names the cost of it. One protection is to keep connecting each problem to a concrete operational consequence: delayed loan decisions, unreliable locations, weak documentation, wasted staff time. When the issue stays attached to consequences, it is harder for people to recast it as your personal perfectionism.
+
+## Turn 17 — 2022-01-22T09:27:00.000Z (user)
+
+Yes, exactly, I do not want this reframed as me being fussy about labeling. The whole point is that we were asked a simple confidence question and the honest answer was no. I made another note today that I may use as a visual in the next meeting. It is not dramatic, but it shows the kind of mismatch that keeps happening.
+
+## Turn 18 — 2022-01-22T09:30:00.000Z (agent)
+
+That is actually a strong image because it shows the problem without theatrics. Anyone looking at it can see that tidy-looking storage is not the same as trustworthy storage. In the meeting, I would pair it with one sentence like, "This is why visual order cannot substitute for verified records," and then move straight into your phase-one criteria. Have you already decided how blunt you want the tone of that meeting to be?
+
+## Turn 19 — 2022-01-22T09:34:00.000Z (user)
+
+I keep going back and forth on tone. If I am too diplomatic, it gets absorbed and nothing changes. If I am too sharp, people get defensive and focus on my tone instead of the problem. My instinct is to be very plain, almost boring, and let the examples do the work. Does that sound right to you?
+
+## Turn 20 — 2022-01-22T09:36:00.000Z (agent)
+
+Plain and boring is often the strongest choice when the facts are already bad enough. Calm specificity makes it harder for anyone to dismiss you as emotional or exaggerating. I would aim for, "Here is the question we were asked, here is what the spot check found, here is the risk, here is the first phase." That sequence keeps the meeting anchored in decision-making rather than blame.
+
+## Turn 21 — 2022-01-22T09:39:00.000Z (user)
+
+That sequence helps a lot. I think I have been carrying this as one giant knot in my head, and breaking it into question, findings, risk, phase one makes it less amorphous. I also need to be realistic about my own bandwidth. The two late nights I already spent on this were enough to remind me what happens when I get wound up about preventable risk.
+
+## Turn 22 — 2022-01-22T09:43:00.000Z (agent)
+
+That is worth taking seriously now, not after you are running on fumes. Since this review is becoming part of your role, it would help to build limits into the plan itself, like review blocks, documentation templates, and a target sample size, so urgency does not turn into endless after-hours scavenging. A good process should reduce your vigilance load, not depend on it. What would make the next two weeks feel controlled instead of engulfing?
+
+## Turn 23 — 2022-01-22T09:45:00.000Z (user)
+
+Controlled would mean I leave with a written phase-one scope, a sample set, and at least one delegated task instead of just a general blessing to "look into it." If I can get those three things, I think I will feel like this became a real project instead of a permanent cloud. I may also ask for a standing check-in so I am not chasing people ad hoc. I am trying to think like a registrar and not like a martyr.
+
+## Turn 24 — 2022-01-22T09:48:00.000Z (agent)
+
+That is a very good test, and the martyr line is wise. A written scope, a sample, and one delegated stream are all concrete enough that other people can be held to them. I would add one more item, a definition of what counts as phase-one success, even if it is modest. Otherwise you can do a lot of work and still end up arguing about whether progress is real.
+
+## Turn 25 — 2022-01-22T09:52:00.000Z (user)
+
+Good point. Success probably cannot be "everything fixed," because that is fantasy. Maybe it is something more like, we can reliably answer location and file-readiness questions for a defined subset tied to incoming and outgoing loan decisions, and we have a standard prep-room record in use instead of scraps. That feels concrete enough to defend. I might be talking myself into this while talking to you.
+
+## Turn 26 — 2022-01-22T09:54:00.000Z (agent)
+
+Honestly, that sounds like a solid phase-one success statement. It is measurable, tied to actual museum decisions, and focused on trust rather than cosmetic cleanup. You are also doing something important here, which is shifting from "I discovered a mess" to "I can define a responsible first repair." That is a much stronger position to lead from.
+
+## Turn 27 — 2022-01-22T09:57:00.000Z (user)
+
+I feel steadier hearing it put that way. The discovery part made me feel both vindicated and slightly sick, because I had suspected some of this but did not want to confirm it at full volume. Now that it is documented, I think I can stop arguing with myself about whether I am overreacting. The question is mostly how to lead it without letting it eat my whole life.
+
+## Turn 28 — 2022-01-22T10:01:00.000Z (agent)
+
+That shift matters. Once the problem is documented, you do not have to spend energy proving to yourself that it is real, you can spend it designing a sane response. I would keep coming back to two rules: no invisible labor, and no undefined scope. If you protect those, the review has a better chance of improving the system instead of just consuming you.
+
+## Turn 29 — 2022-01-22T10:03:00.000Z (user)
+
+I think that is where I am landing. My next step is to draft the phase-one scope in that question, findings, risk, phase-one format, include the sample method, and ask for one clearly assigned support task plus a recurring check-in. That feels like the first version of doing this responsibly instead of heroically. I am still tense about it, but at least now it feels legible.
+
+## Turn 30 — 2022-01-22T10:06:00.000Z (agent)
+
+That sounds like a strong, disciplined next move. You are not just raising an alarm, you are defining a structure that makes the alarm actionable and shareable. Legible is a good word for it, because once the work has shape, other people can no longer pretend the problem is just a vibe you are carrying alone. I think you handled the turning point well.

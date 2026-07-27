@@ -20,7 +20,7 @@
   "family-dynamics": [
     "2022/01/06/0100"
   ],
-  "health-concernsemotional_tone: neutral": [
+  "health-concerns": [
     "2022/01/06/0100"
   ],
   "compliance-scare": [
@@ -44,7 +44,7 @@
   "error-logging": [
     "2022/01/22/1040"
   ],
-  "team-dynamicsemotional_tone: neutral": [
+  "team-dynamics": [
     "2022/01/22/1040"
   ],
   "qawwali-discovery": [
@@ -68,7 +68,7 @@
   "home-chaos": [
     "2022/02/08/0710"
   ],
-  "boundary-settingemotional_tone: neutral": [
+  "boundary-setting": [
     "2022/02/08/0710"
   ],
   "dispensing-pilot-launch": [
@@ -92,7 +92,7 @@
   "workflow-redesign": [
     "2022/03/03/1120"
   ],
-  "operations-leademotional_tone: neutral": [
+  "operations-lead": [
     "2022/03/03/1120"
   ],
   "wedding-postponed": [
@@ -116,7 +116,7 @@
   "check-in-routine": [
     "2022/03/29/0330"
   ],
-  "realistic-planningemotional_tone: neutral": [
+  "realistic-planning": [
     "2022/03/29/0330"
   ],
   "pilot-phase-two": [
@@ -141,7 +141,7 @@
   "amelia-resistance": [
     "2022/04/17/1015"
   ],
-  "evidence-dashboardemotional_tone: neutral": [
+  "evidence-dashboard": [
     "2022/04/17/1015"
   ],
   "back-injury": [
@@ -165,7 +165,7 @@
   "self-care-plan": [
     "2022/05/04/0505"
   ],
-  "preventative-healthemotional_tone: neutral": [
+  "preventative-health": [
     "2022/05/04/0505"
   ],
   "locum-compliance": [
@@ -189,7 +189,7 @@
   "workflow-fragility": [
     "2022/06/11/1200"
   ],
-  "role-expansionemotional_tone: neutral": [
+  "role-expansion": [
     "2022/06/11/1200"
   ],
   "local-cinema": [
@@ -213,7 +213,7 @@
   "shared-leisure": [
     "2022/07/06/0825"
   ],
-  "evening-routineemotional_tone: neutral": [
+  "evening-routine": [
     "2022/07/06/0825"
   ],
   "summer-staffing-crisis": [
@@ -237,7 +237,7 @@
   "resilience-redesign": [
     "2022/08/19/1050"
   ],
-  "person-dependent-systememotional_tone: neutral": [
+  "person-dependent-system": [
     "2022/08/19/1050"
   ],
   "family-financial-help": [
@@ -261,7 +261,7 @@
   "spillover-budget": [
     "2022/09/14/0410"
   ],
-  "shared-household-planningemotional_tone: neutral": [
+  "shared-household-planning": [
     "2022/09/14/0410"
   ],
   "leaner-workflow": [
@@ -286,7 +286,7 @@
   "thirty-second-rule": [
     "2022/10/07/1105"
   ],
-  "sustainable-routineemotional_tone: neutral": [
+  "sustainable-routine": [
     "2022/10/07/1105"
   ],
   "grandmother-shazia": [
@@ -310,7 +310,7 @@
   "relationship-maintenance": [
     "2022/11/21/1300"
   ],
-  "intentional-contactemotional_tone: neutral": [
+  "intentional-contact": [
     "2022/11/21/1300"
   ],
   "winter-inspection": [
@@ -335,7 +335,7 @@
   "post-inspection-note": [
     "2023/01/15/1035"
   ],
-  "keep-and-tidyemotional_tone: neutral": [
+  "keep-and-tidy": [
     "2023/01/15/1035"
   ],
   "registry-wedding-booked": [
@@ -360,7 +360,7 @@
   "shared-script": [
     "2023/02/27/1230"
   ],
-  "budget-realityemotional_tone: neutral": [
+  "budget-reality": [
     "2023/02/27/1230"
   ],
   "evidence-based-request": [
@@ -381,7 +381,7 @@
   "infrastructure-upgrade": [
     "2023/04/12/0955"
   ],
-  "tiny-proof-loopemotional_tone: neutral": [
+  "tiny-proof-loop": [
     "2023/04/12/0955"
   ],
   "front-room-flooring": [
@@ -405,7 +405,7 @@
   "tool-free-zone": [
     "2023/05/29/0515"
   ],
-  "usable-over-polishedemotional_tone: neutral": [
+  "usable-over-polished": [
     "2023/05/29/0515"
   ],
   "collection-scheduling": [
@@ -429,7 +429,7 @@
   "selective-rollout": [
     "2023/06/18/1140"
   ],
-  "staff-confidenceemotional_tone: neutral": [
+  "staff-confidence": [
     "2023/06/18/1140"
   ],
   "wedding-day": [
@@ -450,7 +450,7 @@
   "meaning-survived-trimming": [
     "2023/07/03/1410"
   ],
-  "ordinary-settlingemotional_tone: neutral": [
+  "ordinary-settling": [
     "2023/07/03/1410"
   ],
   "york-weekend": [
@@ -474,7 +474,7 @@
   "home-work-crossover": [
     "2023/08/21/0620"
   ],
-  "intentional-collectingemotional_tone: neutral": [
+  "intentional-collecting": [
     "2023/08/21/0620"
   ],
   "monthly-dashboard": [
@@ -495,7 +495,7 @@
   "data-driven-culture": [
     "2023/10/10/1025"
   ],
-  "autumn-improvementemotional_tone: neutral": [
+  "autumn-improvement": [
     "2023/10/10/1025"
   ],
   "anxiety-recognition": [
@@ -519,7 +519,7 @@
   "pressure-stack": [
     "2023/11/27/1245"
   ],
-  "self-care-planemotional_tone: neutral": [
+  "self-care-plan": [
     "2023/11/27/1245"
   ],
   "demand-surge": [
@@ -543,7 +543,7 @@
   "counter-flow": [
     "2024/01/19/1010"
   ],
-  "shared-ownershipemotional_tone: neutral": [
+  "shared-ownership": [
     "2024/01/19/1010"
   ],
   "rescue-cat-idea": [
@@ -567,7 +567,7 @@
   "cat-research": [
     "2024/03/05/0440"
   ],
-  "non-negotiables-listemotional_tone: neutral": [
+  "non-negotiables-list": [
     "2024/03/05/0440"
   ],
   "second-inspection": [
@@ -589,7 +589,7 @@
     "2024/05/16/0935",
     "2025/02/14/1030"
   ],
-  "team-huddleemotional_tone: neutral": [
+  "team-huddle": [
     "2024/05/16/0935"
   ],
   "savings-pot-opened": [
@@ -613,7 +613,7 @@
   "monthly-check-in": [
     "2024/07/02/1315"
   ],
-  "money-boundariesemotional_tone: neutral": [
+  "money-boundaries": [
     "2024/07/02/1315"
   ],
   "peter-retirement": [
@@ -637,7 +637,7 @@
   "future-planning": [
     "2024/09/09/1055"
   ],
-  "fighting-chanceemotional_tone: neutral": [
+  "fighting-chance": [
     "2024/09/09/1055"
   ],
   "packed-lunches": [
@@ -661,7 +661,7 @@
   "small-habit-change": [
     "2024/11/18/0500"
   ],
-  "intentional-eatingemotional_tone: neutral": [
+  "intentional-eating": [
     "2024/11/18/0500"
   ],
   "fifteen-minute-target": [
@@ -682,7 +682,7 @@
   "codifying-workflow": [
     "2025/02/14/1030"
   ],
-  "continuity-planningemotional_tone: neutral": [
+  "continuity-planning": [
     "2025/02/14/1030"
   ],
   "renovation-complete": [
@@ -706,7 +706,7 @@
   "temporary-mindset-ended": [
     "2025/05/30/1220"
   ],
-  "shared-accomplishmentemotional_tone: neutral": [
+  "shared-accomplishment": [
     "2025/05/30/1220"
   ]
 }

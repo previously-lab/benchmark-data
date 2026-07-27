@@ -1,0 +1,129 @@
+---
+slice_id: 2022-05-01-1105
+focus: "Nadia expands intake pilot with a standing school-document review partnership at Lafayette International."
+status: closed
+start: "2022-05-01T11:05:00.000Z"
+end: "2022-05-01T12:19:00.000Z"
+timezone: America/Chicago
+summary: "Based on evidence from the intake pilot showing school paperwork is the most frequent first-month bottleneck, Nadia establishes a standing Wednesday document-review slot with a bilingual parent liaison at Lafayette International. She keeps the scope narrow — document review only, not general school questions — and plans a one-page team guide with referral criteria, a family script, and a check-in with the liaison after two Wednesdays."
+decisions:
+  - Nadia expanded her intake pilot by adding a standing school-document review partnership with Lafayette International to 
+tags:
+  - school-document-review
+  - lafayette-international-partnership
+  - standing-wednesday-slot
+  - bilingual-parent-liaison
+  - preventative-intake-design
+  - before-summer-backlog
+  - scope-boundary
+  - pilot-expansion
+open_loops:
+  - Create one-page team guide (referral criteria, family script, post-review process)
+  - Protect Wednesday review-only boundary
+  - Check in with liaison after two Wednesdays
+  - Track simple measures: usage, error rate after review, time-to-movement
+emotional_tone: "positive"
+---
+## Turn 1 — 2022-05-01T11:05:00.000Z (user)
+
+A lot has been shifting lately, and one piece of work just got more concrete in a way that actually feels useful. The pilot has been showing us where families keep getting stuck in that first month, and school paperwork keeps coming up more than anything else. So I expanded what I'm doing, it is not just the huddles and the shared 30-day checklist anymore. I set up a standing school-document review partnership with Lafayette International to try to cut down those enrollment delays before they spiral.
+
+## Turn 2 — 2022-05-01T11:07:00.000Z (agent)
+
+That sounds like a real step forward, not just another patch on top of chaos. You are taking what the pilot revealed and turning it into a recurring structure, which is usually how these problems stop eating the whole week. The fact that school paperwork rose to the top gives you a very clear leverage point. How did the Lafayette piece come together, was it easy to get someone there to commit to something standing?
+
+## Turn 3 — 2022-05-01T11:10:00.000Z (user)
+
+Not easy, but clearer than I expected once I had enough examples in front of me. The huddles and that shared first-month list made it obvious that we were losing time on missing signatures, wrong immunization pages, proof-of-address confusion, all these tiny document things that become giant delays. I met with a bilingual parent liaison at Lafayette International, and she immediately understood the pattern because she sees the same mess from the school side. We worked out a standing Wednesday slot where newly arrived families can get documents reviewed before the district's summer backlog gets worse.
+
+## Turn 4 — 2022-05-01T11:14:00.000Z (agent)
+
+That is strong design, because you are catching errors before they become multi-week problems. A standing Wednesday slot is also a lot better than relying on whoever happens to answer an email that day. Since your earlier workflow changes were about making the first month visible, this sounds like the first outside partnership that plugs directly into that same window. Do you want this to stay a tight document-review lane, or do you see it expanding into broader enrollment help later?
+
+## Turn 5 — 2022-05-01T11:16:00.000Z (user)
+
+For now I want it narrow on purpose. If it turns into everything, it will die fast, and I know that. The useful thing is that document review seems to be the leverage point, because if the paperwork is clean, a lot of the next steps move faster. I am trying to act early instead of waiting until a parent is already frustrated and a kid has missed more time than they should.
+
+## Turn 6 — 2022-05-01T11:19:00.000Z (agent)
+
+I think you are reading that exactly right. Narrow and repeatable beats ambitious and fragile, especially when summer systems are about to jam up. You are building an early intervention, not a rescue mission, and that usually saves your team energy as much as it saves the family time. If you had to protect just one boundary for this partnership in the first month, what would it be?
+
+## Turn 7 — 2022-05-01T11:23:00.000Z (user)
+
+Honestly, the boundary is that it stays a review slot, not a place where we dump every school-related question. I can already feel people wanting to send families there for transportation issues, grade placement questions, everything. I want us to use it to check documents early and cleanly, then move the rest through the right channels. Does that sound too rigid, or is that the only way this holds?
+
+## Turn 8 — 2022-05-01T11:25:00.000Z (agent)
+
+No, that sounds like the reason it might survive. If the lane is document review, then every referral into it needs a short checklist, otherwise the slot becomes a catch-all and people start resenting it. Also, since you already know this relationship came from the school enrollment work because she was one of the few people you trusted after bad placement days, it makes sense to formalize only the part you can actually sustain right now. I would even script one sentence your team uses when families bring other school questions.
+
+## Turn 9 — 2022-05-01T11:28:00.000Z (user)
+
+A script is smart. The Wednesday piece feels manageable, but I can already see how quickly it could get emotionally overloaded if every family arrives with a whole school story, which of course they do. And I want to protect the liaison too, because she was generous about this meeting and I do not want our side to turn that into constant pressure. What would you make the script sound like so it does not feel dismissive?
+
+## Turn 10 — 2022-05-01T11:32:00.000Z (agent)
+
+I would keep it warm and specific: 'This Wednesday review is to make sure your school documents are complete and correct so enrollment can move faster. If other school issues come up, we will connect you through the right next step after this review.' That tells families the slot has a real purpose, and it promises follow-through instead of a dead end. I also think protecting the liaison matters, because if she feels swamped, the standing slot disappears first.
+
+## Turn 11 — 2022-05-01T11:34:00.000Z (user)
+
+Yes, that tone is close to what I want. I do not want families to hear, 'that is not my problem,' when what I mean is, 'let's not lose the urgent thing in front of us.' The weird part is I feel more confident talking about this because I actually have evidence now, not just my stress and my guesses. It is a different feeling going into a meeting with examples instead of vibes.
+
+## Turn 12 — 2022-05-01T11:37:00.000Z (agent)
+
+That difference shows. When you can point to repeated bottlenecks instead of just saying the month feels chaotic, people usually stop treating it like personal preference and start treating it like operational reality. You are also building credibility for future fixes, because this shows you are not trying to redesign everything at once. Are you planning to track a few simple before-and-after measures for the Wednesday slot, or keep it more informal at first?
+
+## Turn 13 — 2022-05-01T11:41:00.000Z (user)
+
+I think I need a few simple measures or I will lose the argument later. Probably how many families use it, how many files still come back missing something after review, and whether enrollment moves faster for those families. I do not want to create some giant spreadsheet monster, though. I am trying to stay in practical territory.
+
+## Turn 14 — 2022-05-01T11:43:00.000Z (agent)
+
+That is enough, honestly. Usage, error rate after review, and time-to-movement are plenty for a first pass, especially if the whole point is to prove whether this removes friction. I would add one tiny qualitative note field, just a phrase or two on the recurring issue, because those patterns can help you tighten the checklist without turning your desk into a data cemetery.
+
+## Turn 15 — 2022-05-01T11:46:00.000Z (user)
+
+A phrase-level note field I can handle. The recurring issues are already weirdly predictable, like one family missing one kind of record and the next family missing the same thing but for a different reason. That is what made me realize this is not random, it is a workflow gap. I am also thinking about summer timing a lot, because if we wait, the district backlog is going to swallow any benefit.
+
+## Turn 16 — 2022-05-01T11:50:00.000Z (agent)
+
+Exactly, the timing is part of the intervention, not just the backdrop. Doing this before the summer crush means you are preventing a predictable pileup instead of explaining it afterward. I would treat the next six to eight weeks as your proof window and protect those Wednesdays hard, even if other fires try to steal them. Has your team bought into that priority yet, or are you still selling it internally?
+
+## Turn 17 — 2022-05-01T11:52:00.000Z (user)
+
+A little of both. A couple people were relieved right away because school enrollment has been one of those tasks that quietly ruins whole afternoons. Another person looked at me like I was adding one more moving part to an already crowded month, which is fair. I keep wondering how much explaining I owe before I just start and let the results do the convincing.
+
+## Turn 18 — 2022-05-01T11:55:00.000Z (agent)
+
+You probably do not need a long pitch, but you do need one clean explanation of the tradeoff. Something like, 'This adds one recurring step so we stop losing multiple scattered hours later.' People can live with a new step if they understand what mess it replaces. I would also make the referral threshold very clear, because skepticism often drops once the extra piece stops looking vague.
+
+## Turn 19 — 2022-05-01T11:59:00.000Z (user)
+
+That makes sense. I think part of my hesitation is that I am tired enough right now that I do not trust my own read every day. I still get those headachey afternoons when I realize lunch was a protein bar and coffee and somehow it is 3:30. So I am trying to separate 'I am tired' from 'this plan is flawed.' How would you tell the difference if you were me?
+
+## Turn 20 — 2022-05-01T12:01:00.000Z (agent)
+
+I would look for whether the concern changes once it is written down. If the problem is structural, it usually still looks real after you sleep, eat, and put the steps on paper. If it is mostly overload, the plan often reads clearer than it feels in your body. Given what you have described, this one sounds structurally grounded, but your fatigue could still make every objection feel heavier than it is.
+
+## Turn 21 — 2022-05-01T12:04:00.000Z (user)
+
+That is helpful, actually. On paper it does look solid, and the weak spots are mostly about protecting scope, not about whether the idea makes sense. I might do a one-page guide for my team so nobody has to rely on my verbal explanation when I am running around. Maybe referral criteria, the family script, and what happens after Wednesday. Would that be enough?
+
+## Turn 22 — 2022-05-01T12:08:00.000Z (agent)
+
+Yes, that is exactly enough. One page means people might actually use it, and those three sections cover the points where drift usually starts. I would put one line at the top on why it exists, specifically that school paperwork has been the most frequent first-month bottleneck, because people follow procedures better when they understand the pain it is solving.
+
+## Turn 23 — 2022-05-01T12:10:00.000Z (user)
+
+Right, if I do not name the pain point, it just looks like another rule. I also want to make sure the liaison feels like this is a partnership and not us pushing our mess across the table. I am thinking I should check in after the first two Wednesdays and ask what is annoying from her side before any resentment builds. That seems obvious, but I know how easy it is to forget once a process starts moving.
+
+## Turn 24 — 2022-05-01T12:13:00.000Z (agent)
+
+That is a really good instinct. Early check-ins keep a partnership from turning into silent irritation, especially when one side is carrying hidden cleanup work you may not see. If you ask after two Wednesdays, you are still early enough to adjust the flow without anyone feeling locked in. I would frame it as, 'What is creating extra work on your side that we can prevent before families even arrive?'
+
+## Turn 25 — 2022-05-01T12:17:00.000Z (user)
+
+I like that. So my next step is probably pretty simple, one-page guide for the team, protect the review-only boundary, and then a short check-in with the liaison after two Wednesdays. It actually feels good to say that out loud, because the whole thing was sitting in my head as this giant foggy responsibility. I think this is the first time in a while that a work fix has felt preventative instead of just defensive.
+
+## Turn 26 — 2022-05-01T12:19:00.000Z (agent)
+
+That is a meaningful shift, and it fits what you have been building toward. You are not just reacting faster, you are creating a repeatable structure across agencies before the predictable crunch hits. Keep it narrow, measure the few things that matter, and protect the relationship on the school side, and this has a real chance to become one of those fixes that quietly changes the month for everyone.

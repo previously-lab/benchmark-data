@@ -21,7 +21,7 @@
     "2022/01/06/1310",
     "2022/07/02/0840"
   ],
-  "newly-marriedemotional_tone: neutral": [
+  "newly-married": [
     "2022/01/06/1310"
   ],
   "handoff-failure": [
@@ -39,7 +39,7 @@
   "incident-log-trial": [
     "2022/01/21/2240"
   ],
-  "crew-resistanceemotional_tone: neutral": [
+  "crew-resistance": [
     "2022/01/21/2240"
   ],
   "marriage-communication": [
@@ -57,7 +57,7 @@
   "weekly-check-in": [
     "2022/02/08/1150"
   ],
-  "yeongdo-apartmentemotional_tone: neutral": [
+  "yeongdo-apartment": [
     "2022/02/08/1150"
   ],
   "color-coded-dispatch-board": [
@@ -75,7 +75,7 @@
   "operations-chief-support": [
     "2022/03/03/0620"
   ],
-  "process-standardizationemotional_tone: neutral": [
+  "process-standardization": [
     "2022/03/03/0620"
   ],
   "busan-port-history": [
@@ -93,7 +93,7 @@
   "long-form-learning": [
     "2022/03/29/0315"
   ],
-  "personal-curiosityemotional_tone: neutral": [
+  "personal-curiosity": [
     "2022/03/29/0315"
   ],
   "board-photo-rule": [
@@ -112,7 +112,7 @@
   "shift-compliance": [
     "2022/04/17/2155"
   ],
-  "behavioral-changeemotional_tone: neutral": [
+  "behavioral-change": [
     "2022/04/17/2155"
   ],
   "family-financial-support": [
@@ -133,7 +133,7 @@
   "money-threshold-rule": [
     "2022/05/07/1230"
   ],
-  "family-support-capemotional_tone: neutral": [
+  "family-support-cap": [
     "2022/05/07/1230"
   ],
   "operations-meeting": [
@@ -151,7 +151,7 @@
   "captain-compromise": [
     "2022/06/10/1810"
   ],
-  "board-pilot-survivalemotional_tone: neutral": [
+  "board-pilot-survival": [
     "2022/06/10/1810"
   ],
   "reflux-diagnosis": [
@@ -170,7 +170,7 @@
   "packed-meal-routine": [
     "2022/07/02/0840"
   ],
-  "home-recovery-routineemotional_tone: neutral": [
+  "home-recovery-routine": [
     "2022/07/02/0840"
   ],
   "weather-excuse-gaming": [
@@ -188,7 +188,7 @@
   "handoff-traceability": [
     "2022/08/18/2025"
   ],
-  "august-storm-chaosemotional_tone: neutral": [
+  "august-storm-chaos": [
     "2022/08/18/2025"
   ],
   "projector-movie-night": [
@@ -206,7 +206,7 @@
   "home-dinner-ritual": [
     "2022/09/09/1300"
   ],
-  "rewatching-comfortemotional_tone: neutral": [
+  "rewatching-comfort": [
     "2022/09/09/1300"
   ],
   "signed-turnover-template": [
@@ -224,7 +224,7 @@
   "weather-crew-paperwork": [
     "2022/10/14/0535"
   ],
-  "operational-accountabilityemotional_tone: neutral": [
+  "operational-accountability": [
     "2022/10/14/0535"
   ],
   "lotte-giants": [
@@ -242,7 +242,7 @@
   "min-seo-date": [
     "2022/11/23/1010"
   ],
-  "busan-local-sportsemotional_tone: neutral": [
+  "busan-local-sports": [
     "2022/11/23/1010"
   ],
   "company-wide-authority": [
@@ -260,7 +260,7 @@
   "compliance-theater-risk": [
     "2023/01/04/2325"
   ],
-  "kim-dong-wook-supportemotional_tone: neutral": [
+  "kim-dong-wook-support": [
     "2023/01/04/2325"
   ],
   "apartment-move": [
@@ -284,7 +284,7 @@
   "marriage-protection": [
     "2023/02/17/0205"
   ],
-  "deposit-strainemotional_tone: neutral": [
+  "deposit-strain": [
     "2023/02/17/0205"
   ],
   "turnover-sheet-inconsistency": [
@@ -302,7 +302,7 @@
   "knowledge-transfer": [
     "2023/03/28/1455"
   ],
-  "new-dispatcher-coachingemotional_tone: neutral": [
+  "new-dispatcher-coaching": [
     "2023/03/28/1455"
   ],
   "mothers-concern": [
@@ -326,7 +326,7 @@
   "recovery-meal": [
     "2023/04/21/0700"
   ],
-  "home-cookingemotional_tone: neutral": [
+  "home-cooking": [
     "2023/04/21/0700"
   ],
   "customer-complaint": [
@@ -348,7 +348,7 @@
   "client-promises": [
     "2023/06/01/2215"
   ],
-  "verbal-gap-closingemotional_tone: neutral": [
+  "verbal-gap-closing": [
     "2023/06/01/2215"
   ],
   "protected-monthly-day": [
@@ -369,7 +369,7 @@
   "relationship-prioritization": [
     "2023/07/10/1120"
   ],
-  "shift-work-relationshipemotional_tone: neutral": [
+  "shift-work-relationship": [
     "2023/07/10/1120"
   ],
   "severe-weather-hold-sheet": [
@@ -390,7 +390,7 @@
   "metric-credibility": [
     "2023/08/26/1945"
   ],
-  "cause-separationemotional_tone: neutral": [
+  "cause-separation": [
     "2023/08/26/1945"
   ],
   "reflux-improvement": [
@@ -408,7 +408,7 @@
   "shift-body-strain": [
     "2023/10/01/0410"
   ],
-  "partial-recoveryemotional_tone: neutral": [
+  "partial-recovery": [
     "2023/10/01/0410"
   ],
   "owner-presentation": [
@@ -429,7 +429,7 @@
   "handoff-gap-visibility": [
     "2023/11/16/1035"
   ],
-  "company-visibilityemotional_tone: neutral": [
+  "company-visibility": [
     "2023/11/16/1035"
   ],
   "vinyl-bar-discovery": [
@@ -450,7 +450,7 @@
   "unstructured-calm": [
     "2024/01/08/1215"
   ],
-  "recovery-refinementemotional_tone: neutral": [
+  "recovery-refinement": [
     "2024/01/08/1215"
   ],
   "digital-template-approval": [
@@ -465,7 +465,7 @@
   "mandatory-fields": [
     "2024/02/26/0105"
   ],
-  "owner-chart-momentumemotional_tone: neutral": [
+  "owner-chart-momentum": [
     "2024/02/26/0105"
   ],
   "sisters-interview-costs": [
@@ -486,7 +486,7 @@
   "household-budget-review": [
     "2024/04/12/0925"
   ],
-  "temporary-squeezeemotional_tone: neutral": [
+  "temporary-squeeze": [
     "2024/04/12/0925"
   ],
   "official-handoff-record": [
@@ -507,7 +507,7 @@
   "principled-enforcement": [
     "2024/05/29/2130"
   ],
-  "mismatch-logemotional_tone: neutral": [
+  "mismatch-log": [
     "2024/05/29/2130"
   ],
   "rescue-dog-encounter": [
@@ -528,7 +528,7 @@
   "adoption-consideration": [
     "2024/07/18/0645"
   ],
-  "household-visionemotional_tone: neutral": [
+  "household-vision": [
     "2024/07/18/0645"
   ],
   "sustained-reliability": [
@@ -546,7 +546,7 @@
   "consolidation-phase": [
     "2024/09/05/2355"
   ],
-  "process-as-systememotional_tone: neutral": [
+  "process-as-system": [
     "2024/09/05/2355"
   ],
   "domestic-trip-planning": [
@@ -567,7 +567,7 @@
   "min-seo-initiative": [
     "2025/01/12/0340"
   ],
-  "travel-preference-clarifiedemotional_tone: neutral": [
+  "travel-preference-clarified": [
     "2025/01/12/0340"
   ],
   "formal-procedure-adoption": [
@@ -591,7 +591,7 @@
   "bundle-adoption": [
     "2025/04/03/0820"
   ],
-  "standing-procedureemotional_tone: neutral": [
+  "standing-procedure": [
     "2025/04/03/0820"
   ]
 }

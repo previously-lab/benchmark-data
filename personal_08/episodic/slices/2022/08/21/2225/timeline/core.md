@@ -1,0 +1,146 @@
+---
+slice_id: 2022-08-21-2225
+focus: "Things have been shifting again since we last talked, mostly at work. I have bee"
+status: closed
+start: "2022-08-21T22:25:00.000Z"
+end: "2022-08-21T23:51:00.000Z"
+timezone: America/Chicago
+summary: They gave me a stripped-down version
+decisions:
+  - "Jermaine is entering peak-season prep with only partial approval for temp-worker retraining and extra handoff checks, an"
+tags:
+  - peak-season-prep
+  - temp-heavy-shifts
+  - stripped-down-approval
+  - operations-warning
+  - safety-vs-throughput
+  - handoff-checks
+  - partial-retraining
+  - documented-warning
+  - six-months-board-photos
+open_loops:
+  - Define what counts as a miss pre-emptively
+  - Tighten handoff checks as highest-leverage approved piece
+  - Track temp-heavy shift patterns to build next case
+  - Keep larger model in notes for incremental asks
+emotional_tone: "negative"
+---
+## Turn 1 — 2022-08-21T22:25:00.000Z (user)
+
+Things have been shifting again since we last talked, mostly at work. I have been trying to get ahead of peak season instead of waiting for the building to get wild and then reacting. I finally sat down with operations and pushed for a bigger retraining setup on the temp-heavy shifts. It did move something, but not nearly as much as I wanted.
+
+## Turn 2 — 2022-08-21T22:27:00.000Z (agent)
+
+That sounds like one of those moments where the work starts getting tested by real pressure instead of theory. You were smart to go in before volume spikes, because once the floor is scrambling nobody wants to add anything new. What part of your proposal did they actually accept, and what did they cut back?
+
+## Turn 3 — 2022-08-21T22:30:00.000Z (user)
+
+They gave me a stripped-down version. I wanted staggered retraining for the temp-heavy shifts, because those crews change shape so much and the same risk keeps showing up when people get handed off too fast. What I got was partial approval for some temp-worker retraining and extra handoff checks, but they were real clear that if trailer volume jumps, safety time is the first thing that can get shaved. So I am going into peak prep with something, just not the full setup I argued for.
+
+## Turn 4 — 2022-08-21T22:34:00.000Z (agent)
+
+That is a meaningful shift, even if it is smaller than you pushed for. You are not walking into peak empty-handed, but they also told you in plain language where safety sits when throughput pressure hits. Since you had already been reshaping the training to fit real dock flow, this sounds like the same pattern again, adapt enough to keep a foothold instead of losing the whole thing. The extra handoff checks might end up being the part that protects you most if the retraining minutes get squeezed.
+
+## Turn 5 — 2022-08-21T22:36:00.000Z (user)
+
+Yeah, that is exactly how it feels, like I had to fight just to keep a foothold. I did not go in there talking off instinct either. I brought six months of board photos and handoff logs so I could show the pattern instead of sounding like I was just complaining. That helped some, but it still turned into, "we hear you, but volume comes first."
+
+## Turn 6 — 2022-08-21T22:39:00.000Z (agent)
+
+Using the photos and logs was the right move, because that turns you from the guy with a concern into the guy with a paper trail. It also matters long term, because once they cut corners later you can point back to a documented warning instead of arguing from memory. If you had to guess, did the evidence change anyone's mind in the room, or did it mostly narrow the argument to how little they were willing to allow?
+
+## Turn 7 — 2022-08-21T22:43:00.000Z (user)
+
+Mostly the second one. Nobody could really say the pattern was not there, especially around handoffs and newer people getting dropped into the mess. But once the conversation hit scheduling, it became about how much they thought they could spare without hurting trailer count. I left feeling like even when you show documented wins and repeat trouble spots, peak pressure still trims everything back.
+
+## Turn 8 — 2022-08-21T22:45:00.000Z (agent)
+
+I can see why that landed hard. What you learned is not that the evidence failed, it is that documented safety wins still get treated as negotiable when the building starts chasing numbers. That makes the reduced plan less of a defeat and more of a line you managed to hold. If you cannot get the full retraining block, then the next move is probably making the approved pieces almost impossible to quietly skip.
+
+## Turn 9 — 2022-08-21T22:48:00.000Z (user)
+
+That is where my head is now. I am thinking the handoff checks may be my best leverage, because they are harder to wave off than a training block once people start saying they are behind. Do you think I should put more energy into tightening those checks, or keep pushing the retraining angle so it does not disappear?
+
+## Turn 10 — 2022-08-21T22:52:00.000Z (agent)
+
+I would treat those as two lanes, but not equally. Tighten the handoff checks first because they are already approved, visible, and tied to the exact moment when things break down. Then use what those checks show to keep the retraining case alive, so the reduced version becomes evidence for the bigger version later instead of a permanent downgrade. If you can get one clean, consistent safeguard running, it is easier to argue for more from there.
+
+## Turn 11 — 2022-08-21T22:54:00.000Z (user)
+
+That makes sense. The handoff piece is one of the few concrete safeguards they left me, so if I let that get sloppy I am basically proving their point for them. I also keep thinking about the temp-heavy shifts specifically, because that is where the repeat risk keeps building and where one-size-fits-all sessions never really fit. I am trying not to sound stubborn, but I do think I was right on that part.
+
+## Turn 12 — 2022-08-21T22:57:00.000Z (agent)
+
+You probably were right, and it does not sound stubborn to say that. A temp-heavy shift is not just the same crew with less experience, it is a different training problem because the mix keeps changing and people inherit habits midstream. The fact that you argued for staggered retraining shows you were matching the plan to the staffing pattern, not chasing some ideal classroom version. I would keep using that language, because it frames the issue as operational reality, not personal preference.
+
+## Turn 13 — 2022-08-21T23:01:00.000Z (user)
+
+I like that wording better than how I have been saying it. When I get frustrated I start talking like they are ignoring common sense, and that never helps. What I need is a way to keep the point sharp without sounding like I am picking a fight every meeting. How would you phrase it when they start leaning on schedule pressure?
+
+## Turn 14 — 2022-08-21T23:03:00.000Z (agent)
+
+I would keep it short and practical: the highest-risk shifts need the training format that matches how those shifts are actually staffed, otherwise the same errors keep recycling through handoffs. Then I would tie it to protection of throughput, not opposition to it, because fewer preventable slowdowns is a numbers argument too. You are trying to sound like the person reducing disruption, not the person asking for extra time.
+
+## Turn 15 — 2022-08-21T23:06:00.000Z (user)
+
+That is good. I can say that without sounding heated. Part of what is wearing me out is I feel like I keep having to prove this from scratch, even with all the photos, logs, and signoff stuff. It is like the minute peak gets mentioned, everything becomes temporary again.
+
+## Turn 16 — 2022-08-21T23:10:00.000Z (agent)
+
+That kind of reset is exhausting, because it makes solid groundwork feel provisional. But the fact that you now have months of board photos and compliance records means they have to trim around your case instead of dismissing it outright. That is progress, even if it is annoying progress. I also wonder if your shared-custody setup has mostly felt like a reluctant compromise lately, because it can make work pressure feel even less flexible when meetings and shift changes start piling up.
+
+## Turn 17 — 2022-08-21T23:12:00.000Z (user)
+
+Yeah, the whole flexibility thing is thin right now. I can absorb some mess, just not endless mess. And I think that is part of why this got under my skin so much, because I did the prep the right way and still got the warning that trailer volume would outrank the schedule if things slip. It makes me feel like I am building protections people already plan to bypass.
+
+## Turn 18 — 2022-08-21T23:15:00.000Z (agent)
+
+That warning would bother anybody in your spot. It tells you the policy exists, but it also tells you the escape hatch was written in at the same time. When that happens, one useful move is to decide in advance what counts as a real miss, like skipped checks, shortened retraining, or blank signoffs, so you are not arguing emotionally in the moment. Then you can document the bypasses as they happen and show the cost of the tradeoff they chose.
+
+## Turn 19 — 2022-08-21T23:19:00.000Z (user)
+
+I had not thought of defining the misses ahead of time, but that would help. Otherwise every bad week turns into people saying, "we were just adjusting." I could make a simple list, skipped handoff check, rushed retraining, no initials, that kind of thing. Do you think that is too much, or does that actually give me a cleaner trail?
+
+## Turn 20 — 2022-08-21T23:21:00.000Z (agent)
+
+I think it gives you a cleaner trail if you keep it tight. Three to five categories is enough, and each one should be observable in ten seconds so nobody can argue over interpretation. That kind of list also helps you protect your own energy, because you stop carrying the whole debate in your head and start pointing to a defined standard. If you want, the categories can mirror the stripped-down approval, so every miss maps directly to something operations said they would support.
+
+## Turn 21 — 2022-08-21T23:24:00.000Z (user)
+
+That part about protecting my energy is real. I have been carrying too much of this in my head, and then I take it home still replaying the meeting. I do think the approved version can still do something if I run it hard and clean. I just do not want the reduced plan to become the new ceiling forever.
+
+## Turn 22 — 2022-08-21T23:28:00.000Z (agent)
+
+That is the right concern. A reduced plan becomes a ceiling when people get used to surviving with it, so your job now is to make it visible as a temporary minimum, not a finished answer. One practical way to do that is to track not just whether the checks happened, but whether the same trouble spots keep showing up on the temp-heavy shifts anyway. If they do, you have the next argument ready without having to rebuild the whole case.
+
+## Turn 23 — 2022-08-21T23:30:00.000Z (user)
+
+I can do that. Basically run the approved version like it matters, but collect enough around it to show what it does and does not cover. That feels better than just stewing over what I did not get. I am also thinking I should keep my asks smaller for now, maybe one extra slot at a time instead of swinging for the full thing again.
+
+## Turn 24 — 2022-08-21T23:33:00.000Z (agent)
+
+That is a smart read. Smaller asks are harder to reject when you can attach each one to a specific recurring gap, and they make you sound disciplined instead of dissatisfied. You are building credibility in increments, which may be the only way this sticks under peak pressure. I would still keep your larger model in your own notes, though, so the small requests all point toward the same structure instead of drifting.
+
+## Turn 25 — 2022-08-21T23:37:00.000Z (user)
+
+Yeah, I need the bigger map even if I only get pieces approved. Another thing I noticed is the room got quieter once I laid out the photos and logs. So even though I did not get the full plan, I know I have enough documentation now that I am not just speaking from gut. That part matters to me more than I expected.
+
+## Turn 26 — 2022-08-21T23:39:00.000Z (agent)
+
+It should matter. Having a case strong enough to change the room, even briefly, means you have crossed from opinion into credibility. That is a real career shift in itself, because you are arguing from incident patterns and compliance records now, not just experience and instinct. Even the partial approval is proof that the evidence moved something.
+
+## Turn 27 — 2022-08-21T23:42:00.000Z (user)
+
+Hearing it put that way helps. I have been so focused on what got cut that I was not giving myself credit for even getting part of it through. So maybe the move now is, lock down the handoff checks, define what counts as a miss, and keep gathering proof on those temp-heavy shifts. Does that sound like the right order to you?
+
+## Turn 28 — 2022-08-21T23:46:00.000Z (agent)
+
+Yes, that order is solid. First stabilize what was approved, then make the misses easy to see, then let the pattern on those shifts tell you what to ask for next. It keeps you from fighting three battles at once, and it turns this stripped-down version into a test instead of a concession. I think that gives you the best chance of protecting people now while setting up the next push.
+
+## Turn 29 — 2022-08-21T23:48:00.000Z (user)
+
+Alright, that is probably how I need to treat it, a test instead of a surrender. I am still irritated, but at least I do not feel as scattered about it now. I will build the miss list this week and tighten up the handoff side first. If they are going to make volume the priority, I at least want the tradeoffs documented clean.
+
+## Turn 30 — 2022-08-21T23:51:00.000Z (agent)
+
+That sounds grounded, not resigned. You are taking the part they allowed and making it measurable, which is exactly how you keep it from turning into empty symbolism. Being irritated actually makes sense here, but now it is pointed in a useful direction. Once you get that miss list drafted, we can pressure-test the wording so it stays simple and hard to dodge.

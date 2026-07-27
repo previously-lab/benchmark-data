@@ -1,0 +1,129 @@
+---
+slice_id: 2025-01-20-0505
+focus: "The oral-history portal launches publicly with stable record pages, neighborhood tags, and event calendar integration"
+status: closed
+start: "2025-01-20T05:05:00.000Z"
+end: "2025-01-20T06:19:00.000Z"
+timezone: America/Chicago
+summary: "Ariana completes the public launch of the oral-history portal with stable record pages, neighborhood tags, rights notes, and a listening-event calendar. She tests it with her mother Lorraine, who searches by family names and vanished corner stores, confirming the portal works as neighborhood memory."
+decisions:
+  - Ariana moved from targeted expansion work into stewarding a publicly launched neighborhood oral-history portal with sear
+tags:
+  - public-portal-launch
+  - oral-history-portal
+  - stable-record-pages
+  - neighborhood-tags
+  - rights-notes
+  - lorraine-batiste
+  - recognition-as-usability
+  - public-stewardship
+open_loops:
+  - Adding a plain-language intro explaining rights notes at the top of the site
+  - Running a small internal walkthrough focused on three search moves
+  - Writing a stewardship list naming recurring maintenance tasks as core work
+  - Conducting a few more one-on-one demos before designing group sessions
+emotional_tone: "positive"
+---
+## Turn 1 — 2025-01-20T05:05:00.000Z (user)
+
+A lot has shifted since we last talked, and the biggest thing is that the archive finally feels like it crossed a line into being truly public. We finished the fuller launch of the oral-history portal with the web contractor, so it is not just a discovery layer anymore. It has stable record pages now, clearer rights notes on each record, neighborhood tags, and the listening-event calendar tied in. I keep catching myself thinking, okay, I am not just pushing an internal preservation project forward anymore, I am actually stewarding a public neighborhood portal.
+
+## Turn 2 — 2025-01-20T05:07:00.000Z (agent)
+
+That sounds like a real threshold, not just another incremental tweak. What you are describing is a shift from building infrastructure behind the scenes to maintaining something people can actually enter, understand, and use on purpose. The stable record pages and rights notes matter a lot, because they tell visitors the project is meant to hold up, not just preview itself. How did it feel once you saw the pieces working together in one place?
+
+## Turn 3 — 2025-01-20T05:10:00.000Z (user)
+
+Honestly, part relief and part a weird kind of exposure. I have been staring at versions of this material for so long that seeing it behave like an actual public site made me suddenly aware people will read it without me standing there to interpret every choice. But I also felt proud, especially because the neighborhood tags make it browseable by place in a way that feels closer to how people actually remember things. It is not only family names or institutions anymore, it lets somebody wander by block feeling.
+
+## Turn 4 — 2025-01-20T05:14:00.000Z (agent)
+
+That exposure makes sense, because public access changes the job from organizing to being accountable in a more visible way. It also sounds like the site is finally matching your actual theory of memory, that people often arrive through place first and then connect the dots outward. You already did the hard part of translating internal logic into something neighborhood-facing, especially after all the correction-minded care that had to get built in. The next useful question may be whether you want to watch first-time users closely for a week or two, or leave it alone long enough to see where they naturally get stuck.
+
+## Turn 5 — 2025-01-20T05:16:00.000Z (user)
+
+Watching first-time users is exactly what I started doing. I took my laptop over to my mom's place and showed Lorraine how to search familiar surnames, and then I showed her how to look for vanished corner stores she still talks about. That was probably the first moment the whole thing really clicked for me, because she was not treating it like a technical system, she was using it like neighborhood memory. Do you think I should keep doing those one-on-one demos, or move faster toward group sessions?
+
+## Turn 6 — 2025-01-20T05:19:00.000Z (agent)
+
+That moment with Lorraine is a great test case, because she used it for recognition rather than for compliance with your system. I would not rush past that. A few more one-on-one or two-person demos can show you where people hesitate, what search words they try first, and whether the rights notes are clear without becoming intimidating. Then your group session can be shaped by actual behavior instead of your best guess.
+
+## Turn 7 — 2025-01-20T05:23:00.000Z (user)
+
+That makes sense. One thing I noticed is people seem reassured by the rights notes once I explain them, but on first glance some folks get nervous and think a note means they are not allowed to touch anything at all. I wanted the notes there so nobody feels tricked about access or reuse boundaries, but now I am wondering if I need plainer wording or a little intro box before people even click a record. I do not want transparency to accidentally feel like a stop sign.
+
+## Turn 8 — 2025-01-20T05:25:00.000Z (agent)
+
+I think your instinct is right, the notes themselves are useful, but they may need framing. A short plain-language explainer near the top of the site could do a lot of work, something like, some records can be listened to freely, some have limits, and each page tells you what kind of use is okay. That way the rights note becomes specific guidance instead of a warning label. If you want, you could test two or three versions of that intro with a handful of people before you lock it in.
+
+## Turn 9 — 2025-01-20T05:28:00.000Z (user)
+
+I like that. The other thing is the stable record pages changed my own relationship to the work more than I expected. Before, even when the material was technically searchable, it still felt provisional, like I was inviting people into the hallway outside the archive. Now each record feels like it has a real front door. That is satisfying, but it also makes me feel more responsible for every little awkward phrasing choice on the page.
+
+## Turn 10 — 2025-01-20T05:32:00.000Z (agent)
+
+A stable page raises the emotional stakes because it looks like a promise, not a draft. But that is also a strength, because visitors can trust that a link will still work and that the record they are citing or revisiting will remain legible. I would separate what is structural from what is polish, fix anything that affects access or meaning first, and keep a running list for language refinements instead of trying to perfect every page at once. Otherwise the portal can become another place where your standards punish you for succeeding.
+
+## Turn 11 — 2025-01-20T05:34:00.000Z (user)
+
+That line about my standards punishing me is a little too accurate. I can already feel the part of me that wants to reopen half the wording on the site instead of just letting people use it. The event calendar tie-in is helping, though, because it keeps reminding me this is supposed to live in public and not just sit there looking correct. Does tying the records to listening events strike you as genuinely useful, or am I forcing two things together because I need to prove impact?
+
+## Turn 12 — 2025-01-20T05:37:00.000Z (agent)
+
+It sounds genuinely useful, not forced. Linking records to upcoming listening events gives people two entry points, they can arrive through the website and decide to show up in person, or they can come to an event and keep exploring afterward. That kind of loop is often what turns a project from a repository into a standing public program. Since you are worried about overengineering, I would track only a few signals at first, like which event pages get clicks and what kinds of records people open after an event.
+
+## Turn 13 — 2025-01-20T05:41:00.000Z (user)
+
+That helps me breathe a little. I do think this is the first time I have allowed myself to say the project is a standing public program and not just something still preparing to be released someday. Even saying that out loud feels big. I am trying to figure out whether I should mark this milestone somehow inside the center, or if that would just create more work and attention than I have bandwidth for.
+
+## Turn 14 — 2025-01-20T05:43:00.000Z (agent)
+
+I do think a marker matters, especially because the work has been building in layers for a long time and this layer is public-facing in a new way. It does not have to be a grand celebration. A small internal walkthrough, a short demo for colleagues, or even a one-page launch brief can acknowledge the shift without turning into another giant production. Also, after that anniversary trip, you and Devon seemed steadier mainly because getting back into local music spots and shared culture gave you both something joyful again, so I would be careful not to celebrate this in a way that steals all your personal energy back.
+
+## Turn 15 — 2025-01-20T05:46:00.000Z (user)
+
+A small internal walkthrough actually sounds manageable. I could do a brief show-and-tell focused on how to explain the portal to visitors, plus what the rights notes and neighborhood tags are for. I do not have the stomach right now for anything that feels like a big polished unveiling. I think I want the marker to be useful, not ceremonial.
+
+## Turn 16 — 2025-01-20T05:50:00.000Z (agent)
+
+Useful is the right scale. If colleagues leave knowing how to introduce the portal in one clear sentence and where to point people when they have access questions, that is a real operational win. You could structure it around three moves, how to search, how to read a record page, and how the calendar connects online browsing to in-person programming. That keeps the milestone grounded in daily use instead of performance.
+
+## Turn 17 — 2025-01-20T05:52:00.000Z (user)
+
+Yes, three moves is clean. I also keep thinking about what happened with my mom searching those old store names, because it showed me that public access is working when somebody finds something they already know in their bones, not when they compliment the interface. That feels obvious now, but I think I needed to see it in a real room. Is that a decent way to judge whether this thing is actually succeeding?
+
+## Turn 18 — 2025-01-20T05:55:00.000Z (agent)
+
+Yes, that is a strong measure, especially for this kind of project. Success is not just whether the portal is elegant, it is whether people can locate recognizable people, places, and stories and feel the archive is speaking in a language they already live with. I would still pair that with a few practical checks, like whether they can interpret the rights note and whether they know what to click next, but your core test is sound. Recognition is a form of usability here.
+
+## Turn 19 — 2025-01-20T05:59:00.000Z (user)
+
+Recognition as usability, I like that a lot. I may actually write that down because it gives me a way to talk about the portal without sounding overly technical. Another question I am wrestling with is whether I should spend the next month tightening weak spots on existing pages, or keep adding more records while there is momentum. Part of me knows the answer is probably both, which is not helpful.
+
+## Turn 20 — 2025-01-20T06:01:00.000Z (agent)
+
+If you try to do both at full intensity, you will recreate the same overload under a shinier banner. I would set a temporary ratio, maybe most of your effort on stabilizing what is public and a smaller, protected lane for adding new material, especially the items that support upcoming events. That approach respects the fact that you are now stewarding a live portal, not just accumulating holdings. The public side needs enough consistency to build trust.
+
+## Turn 21 — 2025-01-20T06:04:00.000Z (user)
+
+That framing helps. A ratio feels more realistic than a vague promise to balance everything. I think if I named a limited lane for new material, I would stop feeling like every unchecked box is proof I am neglecting the mission. Also, because this is public now, little maintenance tasks suddenly feel less invisible, which is strangely validating.
+
+## Turn 22 — 2025-01-20T06:08:00.000Z (agent)
+
+That validation is deserved. Maintenance often looks small from the outside, but once the public is actually using something, upkeep becomes part of the service itself, not background housekeeping. It may help to write yourself a short stewardship list, the recurring tasks that now count as core work because the portal is live. Seeing those tasks named can protect you from treating them like distractions from the real job.
+
+## Turn 23 — 2025-01-20T06:10:00.000Z (user)
+
+I am going to do that, because I think my brain still labels anything short of acquisition or processing as somehow secondary. But the public launch changed the shape of the job, and I need to catch up to that mentally. I also want to remember the good part, that I got to sit there with Lorraine and watch the site make sense to somebody without me doing a whole lecture. That may be the image I hold onto when I start spiraling about wording.
+
+## Turn 24 — 2025-01-20T06:13:00.000Z (agent)
+
+That is probably the right image to keep. It captures the whole point of the portal, not as a technical accomplishment alone, but as a bridge that lets neighborhood memory find itself in public. If you pair that with the stewardship list and a modest internal walkthrough, you are giving this milestone both meaning and structure. That is a solid way to inhabit the new phase without immediately turning it into another endurance test.
+
+## Turn 25 — 2025-01-20T06:17:00.000Z (user)
+
+That feels like the right landing point. My next steps are going to be a plain-language intro for the rights notes, a small internal walkthrough built around those three moves, and a written stewardship list so I stop acting like live public maintenance is side work. More than anything, I want to let myself admit this thing is out in the world now. That is exciting, and a little scary, but mostly exciting.
+
+## Turn 26 — 2025-01-20T06:19:00.000Z (agent)
+
+That is a clear, sane plan. You are not just celebrating a launch, you are defining how to care for a public resource in a way that people can actually use and trust. The fact that it feels a little scary is almost proof that the threshold is real, but the excitement sounds more important here. You built something durable enough to leave your hands and still make sense.

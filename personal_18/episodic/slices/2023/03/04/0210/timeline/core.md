@@ -1,0 +1,128 @@
+---
+slice_id: 2023-03-04-0210
+focus: "A lot has shifted at work since we last talked, in a way that feels bigger than "
+status: closed
+start: "2023-03-04T02:10:00.000Z"
+end: "2023-03-04T03:24:00.000Z"
+timezone: America/Chicago
+summary: "Useful, but a little tense in that early-stage way where everyone is still figuring out whether this"
+decisions:
+  - "Jordan moved from proving planning discipline worked to chairing a standing Monday cross-team planning huddle for sales,"
+tags:
+  - work-huddle
+  - cross-team-coordination
+  - operations-leadership
+  - authority-expansion
+  - meeting-facilitation
+  - capacity-reality
+  - decision-routing
+open_loops:
+  - Whether decisions made in the huddle actually stick when the week gets messy
+  - Post-meeting pushback via private text — replacing side channels with shared process
+  - Documenting prevented failures as evidence for a future role conversation
+  - Whether the huddle becomes real operating forum or slowly atrophies
+emotional_tone: "cautious but optimistic"
+---
+## Turn 1 — 2023-03-04T02:10:00.000Z (user)
+
+A lot has shifted at work since we last talked, in a way that feels bigger than just one hectic week. I finally got permission to run a standing Monday planning huddle with sales, roasting, and delivery, instead of spending half my life chasing exceptions through random texts. The reason I could even make the case was that I had one stronger quarter of service numbers behind me, so I was not arguing from vibes. It feels like my job just got broader overnight, because now I am not only tracking the plan, I am the one chairing the room where people test whether new opportunities can actually survive capacity reality.
+
+## Turn 2 — 2023-03-04T02:12:00.000Z (agent)
+
+That does sound like a real shift, not just a busier version of the same job. You moved from proving the planning work had value to actually being given the forum that shapes decisions before they become emergencies, and that is a meaningful increase in trust. After all the work of showing the system could improve service, getting a standing Monday huddle is a concrete sign that people now have to bring opportunities through a shared reality check. How did the first couple meetings feel in the room, supportive, tense, performative, useful?
+
+## Turn 3 — 2023-03-04T02:15:00.000Z (user)
+
+Useful, but a little tense in that early-stage way where everyone is still figuring out whether this is real or just another thing that will quietly disappear. The biggest difference is that new sales ideas now have to get said out loud in front of roasting and delivery, and some of them sound a lot less magical once someone asks where the extra roast time or van space is supposed to come from. I think that is the part I wanted most, honestly, making promises survive contact with the actual floor. I am trying not to over-read it, though. Do you read this as a real role change or just me being handed more coordination work without any actual authority?
+
+## Turn 4 — 2023-03-04T02:19:00.000Z (agent)
+
+I read it as a real role change, even if the title has not caught up yet. The authority is not only in whether you can command people, it is in whether the business now routes decisions through your process before committing itself, and that is exactly what this meeting does. The risk is that you become the person who owns the friction without getting protected by clear rules, so I would watch whether decisions made in the huddle actually stick once the week gets messy. A good early test is simple, are people changing commitments after Monday without bringing them back through the same channel?
+
+## Turn 5 — 2023-03-04T02:21:00.000Z (user)
+
+That is exactly what I am watching. So far, there have already been two moments where someone floated a maybe-big account and I basically had to say, okay, show me where it fits, because we are not doing fantasy scheduling anymore. It helped that Tanya backed me up on the production side, because she could speak to what the roast floor can actually absorb instead of me sounding like the designated no person. Part of why this even works is that we have better visibility now, enough that I can walk in with real capacity assumptions instead of hand waving.
+
+## Turn 6 — 2023-03-04T02:24:00.000Z (agent)
+
+That production backup matters a lot. When the numbers and the floor are saying the same thing, it stops sounding like personal resistance and starts sounding like operating truth, which is probably why this huddle is workable at all. I would lean into that by making the meeting outputs very plain, what got approved, what got deferred, what needs a capacity tradeoff, so nobody can later pretend the room said something softer. What part feels hardest for you right now, speaking up in the moment, keeping the structure tight, or dealing with pushback afterward?
+
+## Turn 7 — 2023-03-04T02:28:00.000Z (user)
+
+Pushback afterward, definitely. In the room, I am actually okay because I have numbers and a whiteboard and everyone is looking at the same thing. Later, if somebody tries to reopen the conversation one-on-one by text, that is where I feel the old pattern trying to sneak back in. I keep wondering whether I should be more rigid and say every single new request waits until next Monday, or whether that makes me look inflexible when some things really are manageable.
+
+## Turn 8 — 2023-03-04T02:30:00.000Z (agent)
+
+I would not make it absolute, because then people will start treating the rule itself as the enemy. A better line is that anything material has to survive the Monday capacity check, while truly small exceptions need a visible mini-process, maybe a same-day note to the whole group with impact stated plainly. That way you are not the bottleneck, you are protecting the principle that changes should be shared, not smuggled back in privately. The old scattered-text habit only loses power if the replacement is both firm and usable.
+
+## Turn 9 — 2023-03-04T02:33:00.000Z (user)
+
+That makes sense, especially the difference between material and genuinely small. I do not want to create some dramatic gatekeeping persona just because I am tired of being the cleanup crew. The funny thing is, chairing the meeting actually feels calmer than my old system, because once everything is centralized and visible I stop carrying quite so much chaos in my head. But I am also aware that if this goes well, I am quietly turning into a cross-team operations coordinator whether anyone says those words or not.
+
+## Turn 10 — 2023-03-04T02:37:00.000Z (agent)
+
+Yes, that is the deeper change here. You are no longer just the scorekeeper of whether the week worked, you are becoming the person who aligns sales, roasting, and delivery at the front end so the week has a chance to work in the first place. Also, with the way you have been managing those jittery headaches and sleep loss by cutting late-day coffee and tracking bad peak-week patterns, it makes sense that a more centralized system feels physically calmer too. If this keeps holding, you may want to start collecting examples of decisions the huddle prevented, because that is the kind of proof that supports a role conversation later.
+
+## Turn 11 — 2023-03-04T02:39:00.000Z (user)
+
+The examples idea is good. I have already started a little running note of things that got slowed down or reframed before they turned into a scramble, because I can tell that if I do not document it, people will remember only the deals they did not get to rush through. I am less sure about timing, though. Do I let this run for a while before I talk about role scope, or is that how people end up doing expanded jobs for free?
+
+## Turn 12 — 2023-03-04T02:42:00.000Z (agent)
+
+You do not need to force the compensation or title talk immediately, but I would not let it drift into vagueness either. The smart move is to let the huddle establish a short track record, then name the role expansion in concrete terms, what meetings you chair, what decisions now route through you, what failures are being prevented, what cross-team coordination you are carrying. Framing it that way keeps it from sounding like ambition in the abstract. I would think in terms of weeks, not many months.
+
+## Turn 13 — 2023-03-04T02:46:00.000Z (user)
+
+Weeks, not months, feels right. I think if I wait too long, everyone will start acting like this was always part of my job. Another thing I am noticing is that the owner agreeing to let me chair it changed the room a little. Even people who would normally treat planning as background admin are showing up like they understand this is now an actual operating forum. I hate how much some of this comes down to permission, but it does.
+
+## Turn 14 — 2023-03-04T02:48:00.000Z (agent)
+
+Permission changes the social reality, even when the underlying work was already necessary. Once the owner says you chair the meeting, people understand this is not just you being diligent, it is now part of how the business decides what is real. That also means you should use the agenda and notes exactly the way you are starting to, because ritual creates legitimacy fast. Are you getting any sense yet of who is adapting willingly versus who is waiting for a chance to slip back into side deals?
+
+## Turn 15 — 2023-03-04T02:51:00.000Z (user)
+
+A couple people are adapting faster than I expected, mostly because it helps them too if they are honest. Delivery likes not being surprised, and production likes not being handed impossible volume with a smile attached. The resistance is softer, more like people testing whether they can still bring me half-baked ideas and have me figure out the rest. I am trying to answer in a way that does not sound territorial, more like, no, the whole point is that the opportunity has to survive real capacity questions before anyone treats it as done.
+
+## Turn 16 — 2023-03-04T02:55:00.000Z (agent)
+
+That is a strong instinct, because territorial energy would make this about your personal gate rather than shared discipline. The sentence underneath what you are saying is, if an opportunity is real, it can stand up to roast time, packaging, and delivery timing in the same conversation. I would keep repeating that this process is not anti-growth, it is anti-fantasy. People often accept structure faster when they see it protects their own downstream work, not just yours.
+
+## Turn 17 — 2023-03-04T02:57:00.000Z (user)
+
+Anti-fantasy is exactly it. I also think I needed this psychologically more than I realized. Chasing exceptions across texts all day made me feel like the week never had a center, and this at least gives Monday a spine. I am still anxious enough that I check for side messages more than I should, but it is different when there is one main forum everyone is supposed to use. How would you keep that from sliding back without becoming obsessive about enforcement?
+
+## Turn 18 — 2023-03-04T03:00:00.000Z (agent)
+
+I would make the system do more of the enforcement so you do less. If something comes in by side text, answer once with a short redirect and move it into the shared channel or next huddle notes, so the norm gets reinforced without you having a fresh debate each time. The goal is to make the path of least resistance the visible path, because personal vigilance burns people out. You are trying to replace heroics with structure, including your own.
+
+## Turn 19 — 2023-03-04T03:04:00.000Z (user)
+
+That is helpful. A redirect script would probably save me from writing a different annoyed version every time. I can already feel that part of the success of this depends on me not becoming the emotional sponge for every half-plan people throw into the air. And honestly, there is something satisfying about hearing a shiny idea hit the table and then get translated into actual roast hours, delivery timing, and whether there is even room for it this week.
+
+## Turn 20 — 2023-03-04T03:06:00.000Z (agent)
+
+That satisfaction makes sense, because the translation step is where real operations leadership lives. You are helping the company tell the truth earlier, when the cost is still manageable, instead of later when everyone is scrambling. A simple redirect script could be something like, bring this to Monday or I can log it for the group now if it affects this week, which keeps the tone neutral and the standard consistent. That kind of sentence protects your energy and teaches the process at the same time.
+
+## Turn 21 — 2023-03-04T03:09:00.000Z (user)
+
+I like that wording. Neutral is important, because if I sound irritated people will make the story about my tone instead of the process. The other thing I am debating is whether to track only obvious saves, like things we stopped from overloading the week, or also track smaller wins, like fewer weird handoffs between teams. My instinct says the small ones matter because they are the proof that this is making the operation less dependent on me personally rescuing it.
+
+## Turn 22 — 2023-03-04T03:13:00.000Z (agent)
+
+Track both, just in two separate buckets. Big prevented failures are persuasive because they are vivid, but the smaller handoff improvements are what show the system is becoming less intervention-dependent and more like an actual operating rhythm. If you mix them together, the subtle gains disappear behind the dramatic stories. A tiny weekly note with prevented overloads, cleaner handoffs, and open risks would probably give you the clearest picture.
+
+## Turn 23 — 2023-03-04T03:15:00.000Z (user)
+
+Two buckets is smart. That also gives me a way to talk about the role without sounding like I am claiming credit for every good thing that happens. I think what I am landing on is that this meeting is the first thing that actually matches how I have been trying to work for a while, centralized, visible, constrained by real numbers instead of reactive messaging. It is not magic, but it finally feels like the structure exists outside my head.
+
+## Turn 24 — 2023-03-04T03:18:00.000Z (agent)
+
+That sounds like the real milestone. When the structure lives outside your head, the work becomes more durable, and your role becomes legible to other people instead of relying on invisible rescue labor. I would treat the next month as a proof window, keep the ritual consistent, document both kinds of wins, and notice whether the business keeps honoring the forum when something tempting pops up. If it does, then you have evidence of a genuine operational shift, not just a good phase.
+
+## Turn 25 — 2023-03-04T03:22:00.000Z (user)
+
+Yes, a proof window is exactly how I want to think about it. I am going to keep the Monday huddle tight, use the redirect language when people try to go sideways, and keep those two notes buckets so I have something real to point to. Even if it is still a little fragile, I feel less like a person chasing everyone else's promises and more like someone actually coordinating how the week gets built. That feels new, in a good way.
+
+## Turn 26 — 2023-03-04T03:24:00.000Z (agent)
+
+That is a solid read on what changed. You are not just cleaning up after the week anymore, you are helping determine what kind of week the company is allowed to create, and that is a bigger, more defensible role. Your plan for the next month is practical and specific, which usually means it will hold under pressure better than a vague intention. I am glad this one feels good, because it sounds earned.

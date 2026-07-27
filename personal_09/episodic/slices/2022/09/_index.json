@@ -13,7 +13,7 @@
         "school-and-landlord-knowledge",
         "buffalo-community-network",
         "non-work-relationship",
-        "ordinary-conversationemotional_tone: neutral"
+        "ordinary-conversation"
       ],
       "status": "closed",
       "start": "2022-09-03T12:15:00.000Z",
@@ -37,7 +37,7 @@
         "appliance-utility-checks",
         "supervisor-sign-off-requirement",
         "exception-path-design",
-        "shared-accountabilityemotional_tone: neutral"
+        "shared-accountability"
       ],
       "status": "closed",
       "start": "2022-09-26T06:25:00.000Z",

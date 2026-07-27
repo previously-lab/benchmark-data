@@ -1,0 +1,137 @@
+---
+slice_id: 2023-11-17-0955
+focus: "Formal presentation saves boot camp and check-in system for another full cycle; Derek becomes recognized point person"
+status: closed
+start: "2023-11-17T09:55:00.000Z"
+end: "2023-11-17T11:16:00.000Z"
+timezone: America/Chicago
+summary: "Derek compiles foreman emails, apprentice practical scores, and repeat write-up data into a formal presentation that earns cautious approval to continue the boot camp and first-year check-in system for another full cycle. He is now internally recognized as the point person for first-year retention and safety at IBEW Local 5 and the JATC. He decides to build a lean one-page summary plus backup packet strategy for future reviews, protect three non-negotiables (hands-on boot camp, pattern-based check-ins, contractor-connected tracking), and set a fixed mid-cycle review cadence so he is not always playing defense."
+decisions:
+  - IBEW Local 5 and the training committee now recognize Derek internally as the point person for the continuing first-year
+tags:
+  - program-approval-second-cycle
+  - foreman-email-evidence
+  - point-person-designation
+  - one-page-plus-backup-strategy
+  - conditional-trust-navigation
+  - contractor-vs-internal-credibility
+  - non-negotiables-as-standards
+  - program-maintenance-over-proving
+open_loops:
+  - Starting a simple call log documenting foreman requests for track graduates
+  - Writing a one-page summary of non-negotiables as program standards (not personal preferences)
+  - Setting mid-cycle review dates and metrics (practical scores, safety write-ups, field comments)
+  - Building a repeatable review packet format for future cycles
+emotional_tone: "positive"
+---
+## Turn 1 — 2023-11-17T09:55:00.000Z (user)
+
+A lot has shifted lately, and one thing finally moved in a good direction at work. I spent the last couple weeks pulling together a real presentation to defend the boot camp and the first-year check-in system instead of just talking about it in the hallway. I put foreman emails next to apprentice practical scores and the drop in repeat write-ups, and that combination finally landed. They gave cautious approval to keep the whole thing for another full cycle.
+
+## Turn 2 — 2023-11-17T09:57:00.000Z (agent)
+
+That is a real shift, not just a nice comment from somebody passing by. You took field feedback, performance numbers, and discipline patterns and made them hard to dismiss, which is usually what it takes when a change is still under a microscope. It also fits the way this work has been building, where practical observations had to become a system before anybody would trust it. What part of the presentation do you think actually turned the room, the contractor emails, the practical scores, or the reduced repeat write-ups?
+
+## Turn 3 — 2023-11-17T10:00:00.000Z (user)
+
+Honestly, I think it was the contractor side first, then the school numbers backed it up. By late fall I was hearing from foremen that the apprentices who came through the boot camp were showing up with fewer basic safety mistakes and better questions, which is exactly the kind of thing the doubters say they never see. Then I could point to practical performance and show those same apprentices were doing better there too, and they needed fewer repeat write-ups. That made it harder to call the whole thing extra paperwork.
+
+## Turn 4 — 2023-11-17T10:04:00.000Z (agent)
+
+That makes sense, because contractor feedback hits people in the gut and the practical scores keep it from sounding anecdotal. Better questions on site is a sneaky important signal too, it usually means they are thinking before they get themselves in trouble. With the approval being cautious, I would treat this as permission to keep proving it, not permission to relax. Did anyone in the room show real support, or was it more that nobody could argue with the packet you brought?
+
+## Turn 5 — 2023-11-17T10:06:00.000Z (user)
+
+More the second one, if I'm being honest. I would not call it a victory lap kind of meeting, it was more like they ran out of room to say no. A couple people who usually push back got very quiet once the write-up numbers were sitting there next to the practical scores. And now, inside the local and the training committee, I'm basically being treated as the point person for the continuing first-year retention and safety initiative, which is good, but it also means more eyes on me.
+
+## Turn 6 — 2023-11-17T10:09:00.000Z (agent)
+
+Being treated as the point person is a meaningful step, even if it came with side-eye instead of applause. It means the work is no longer just something you are trying, it is becoming something attached to you and judged through you. That can help you shape first-year practice beyond the pilot stage, but it also means you need a clean rhythm for documenting results so you are not rebuilding the case from scratch every time. I would start a simple repeatable review packet now, while this meeting is still fresh.
+
+## Turn 7 — 2023-11-17T10:13:00.000Z (user)
+
+Yeah, that is exactly what I'm chewing on. I do not want to become the guy hauling around a milk crate of paper every time somebody gets nervous. At the same time, I know this only stuck because I showed hard results from both contractors and training records, not because I made a speech. If you were me, would you keep it pretty lean or build a more formal dashboard kind of thing?
+
+## Turn 8 — 2023-11-17T10:15:00.000Z (agent)
+
+I would go in layers. Keep one lean page that shows the handful of numbers people care about fast, then keep a backup packet with the emails, score trends, and write-up details in case somebody wants to poke holes. That way you are not drowning yourself in administration, but you are still ready for the political part, especially with veteran resistance still sitting there in the room. Also, now that money tension with your brother eased up, I imagine those conversations got easier and that probably frees some headspace for this too.
+
+## Turn 9 — 2023-11-17T10:18:00.000Z (user)
+
+The one-page plus backup packet idea is probably the right middle ground. I know myself well enough that if I try to build some giant polished dashboard, I'll lose a weekend to fonts and colors and still be annoyed with it. The part I keep coming back to is that this approval did not replace what we built, it extends the same contractor-backed boot camp and check-in system for another cycle. That matters to me because I did not want them to water it down into something easier to say yes to.
+
+## Turn 10 — 2023-11-17T10:22:00.000Z (agent)
+
+Right, continuity matters here. Keeping the actual model in place means the evidence was strong enough to preserve the bones of it, not just inspire some safer, vaguer version. That is also why the contractor side staying aligned matters so much, because if the field is seeing stronger site readiness and the school records agree, the case keeps reinforcing itself. I would protect the core pieces first, then only tweak around the edges.
+
+## Turn 11 — 2023-11-17T10:24:00.000Z (user)
+
+That is where my head is too. The field feedback lined up almost exactly with what I was already hearing from the contractor safety side, so it did not feel like I was stretching the story. A big thing they kept saying was these apprentices were not walking in acting like experts, but they were asking smarter questions before doing something dumb. Weirdly, that might be the part I'm proudest of, because you can teach a lot more from that starting point.
+
+## Turn 12 — 2023-11-17T10:27:00.000Z (agent)
+
+I get why that sticks with you. Smarter questions usually mean the person has enough humility and enough baseline structure to stop before a preventable mistake, and that is exactly the kind of change that can lower churn later. The slide in that room also tells me you were smart to make this visual, because once people can literally see fewer repeat write-ups next to stronger practicals, the argument gets a lot simpler. If you had to name the non-negotiables of the model, what are the two or three pieces you would defend first?
+
+## Turn 13 — 2023-11-17T10:31:00.000Z (user)
+
+The first one is the boot camp staying hands-on instead of becoming a talk-at-you orientation. The second is keeping the check-ins tied to actual patterns, not just whoever annoys an instructor that week. Third is making sure the whole thing stays connected to what contractors are seeing, because that is what gave it credibility in the first place. I think if any of those drift, the program starts looking like busywork again.
+
+## Turn 14 — 2023-11-17T10:33:00.000Z (agent)
+
+That is a solid shortlist, and it is concrete enough that you could repeat it in two minutes if somebody challenged you in a hallway. Hands-on, pattern-based, field-connected, that is a clear spine. Since you are now the internal point person, it may help to phrase those as program standards rather than personal preferences, so they outlast any one meeting and do not sound like they depend on your personality alone.
+
+## Turn 15 — 2023-11-17T10:36:00.000Z (user)
+
+I like that, calling them standards instead of my preferences. Part of what makes me nervous is I know this is still accepted under scrutiny, not fully settled. They approved it, but the tone was definitely, alright, show us again. Do you read that as normal, or like I'm one bad semester away from getting boxed out?
+
+## Turn 16 — 2023-11-17T10:40:00.000Z (agent)
+
+I read it as conditional trust, which is uncomfortable but still usable. People often stay cautious when a reform has changed routines and exposed weak spots, especially if some of the old guard never really wanted it. That does not mean one rough patch kills it, but it does mean you want early indicators ready so a bump looks explainable instead of looking like failure. I would decide now what numbers and observations you want in your first mid-cycle check, before the noise starts.
+
+## Turn 17 — 2023-11-17T10:42:00.000Z (user)
+
+That is helpful. If I wait until somebody complains, I'm back playing defense. I think the first mid-cycle check should probably be practical scores, repeat safety write-ups, and a short batch of field comments again, since those were the things that cut through this time. Maybe attendance too, but I do not want the packet getting bloated.
+
+## Turn 18 — 2023-11-17T10:45:00.000Z (agent)
+
+I would keep attendance only if it clearly predicts the other outcomes, otherwise it becomes clutter people can argue about forever. The three you named already tell a strong story, because they cover skill, behavior, and site readiness from different angles. You could also set a fixed cadence now, so the review happens on schedule instead of only when tension rises. That alone can make the whole effort feel more institutional and less like you fighting for it meeting by meeting.
+
+## Turn 19 — 2023-11-17T10:49:00.000Z (user)
+
+Fixed cadence is smart. If it is just part of the rhythm, it feels less like I'm dragging everyone into court. Another thing I noticed is people responded better once I stopped talking in broad terms and literally put the foreman emails on the table. I guess I knew that already, but this really drove home that I need receipts if I want any reform to stick.
+
+## Turn 20 — 2023-11-17T10:51:00.000Z (agent)
+
+Yes, that feels like one of the big lessons here. You are good at seeing the practical pattern early, but the institution only really moves once the pattern is documented in a form people can point to. That is not just bureaucracy, it is how you turned instinct into footing. It also means you can train other instructors to gather evidence the same way, instead of making yourself the only one who knows how to prove the case.
+
+## Turn 21 — 2023-11-17T10:54:00.000Z (user)
+
+That last part is probably the next hill. I do not want this to become a thing where if I get tied up somewhere else, the whole system gets sloppy. But I also know if I push too hard on other instructors right now, some of them will hear it as me appointing myself king of first year. How would you handle that without making the politics worse?
+
+## Turn 22 — 2023-11-17T10:58:00.000Z (agent)
+
+I would start smaller than training everybody all at once. Pick one piece that obviously helped, maybe the way field comments get folded into the review packet, and invite one or two people into that process as contributors rather than pupils. When people help build a useful tool, they are less likely to frame it as your private crusade. Then once they have their own fingerprints on it, the standards spread with less friction.
+
+## Turn 23 — 2023-11-17T11:00:00.000Z (user)
+
+That feels a lot more doable than rolling out some grand reform speech. I can probably get a couple people to react to a draft packet without making it a whole ideological thing. And if they add something useful, even better, because then the argument stops being just mine. I think the main thing I wanted from this meeting was proof the work was not imaginary, and I did get that.
+
+## Turn 24 — 2023-11-17T11:03:00.000Z (agent)
+
+You did, and that matters more than the room being warm about it. Contractors are reporting fewer basic safety mistakes and better questions, the practical side improved, repeat write-ups came down, and that was enough to keep the model alive for another cycle. That is not imaginary, that is traction. Now the job is to turn traction into routine without exhausting yourself in the process.
+
+## Turn 25 — 2023-11-17T11:07:00.000Z (user)
+
+Yeah, traction is the right word. I am still tired, but this feels different from grinding for nothing. I think my next step is to build that one-page review, set the mid-cycle markers now, and write down the non-negotiables as standards while the approval is still fresh. That way if anybody comes circling back, I am not improvising.
+
+## Turn 26 — 2023-11-17T11:09:00.000Z (agent)
+
+That is a strong sequence, and it is realistic. One page first, markers second, standards third keeps you focused on what protects the program instead of what flatters it. Since the approval was cautious, getting those three pieces done soon will probably buy you the most stability for the least extra effort. I would do the one-page review this week, while the arguments and examples are still vivid in your head.
+
+## Turn 27 — 2023-11-17T11:12:00.000Z (user)
+
+That sounds right. I do not need to celebrate it like everything is settled, but I also should probably let myself admit this was a real step forward. Inside the local and the training committee, I am not just the guy trying an idea anymore, I'm the person they expect to carry the first-year retention and safety piece. That is heavier, but it is also the first time it feels official.
+
+## Turn 28 — 2023-11-17T11:16:00.000Z (agent)
+
+Exactly, it is heavier because it is official. You earned a clearer lane, not by talking louder, but by proving the work with results people care about, and that gives you more institutional footing than you had before. Holding both truths at once, that it is progress and that it is still under scrutiny, will probably keep you sharp without letting the pressure swallow the win.

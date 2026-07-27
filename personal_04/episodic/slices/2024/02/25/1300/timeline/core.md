@@ -1,0 +1,137 @@
+---
+slice_id: 2024-02-25-1300
+focus: "Winter insomnia and jaw tension return; Tasha cuts late-night reporting and blocks office hours for admin"
+status: closed
+start: "2024-02-25T13:00:00.000Z"
+end: "2024-02-25T14:21:00.000Z"
+timezone: America/Chicago
+summary: "A winter stretch of evening outreach and grief-group work triggers a recurrence of the 3 a.m. wake-up, jaw-locked-tight, morning-headache pattern. After two weeks of trying to muscle through, Tasha cuts late-night spreadsheet and reporting work entirely, moving those tasks into a protected office-hours block on her calendar. The agent helps her frame this as 'data, not morality' (does the pattern help or harm, not am I being a good or bad worker), plan a hard one-month rule against evening numbers work, and build a positive end-of-workday signal (laptop away, music, walk). Tasha notices the headaches already easing and commits to treating 'sleep as part of the job, not the leftover after the job.'"
+decisions:
+  - "Tasha's physical-health pattern shifted from spring pilot jaw-clenching to a winter insomnia and jaw-tension flare that "
+tags:
+  - insomnia-jaw-tension-recurrence
+  - night-bereavement-reporting-cut
+  - office-hours-reporting-block
+  - daytime-only-task-rule
+  - calendar-blocking-boundary
+  - laptop-away-before-dinner
+  - data-not-morality-framing
+  - recurring-winter-stress-flare
+open_loops:
+  - One-month hard rule against evening reporting — just started
+  - Calendar reporting block during office hours — created, needs buffer addition
+  - Positive end-of-workday marker (music, walk) — to be chosen
+  - Script for redirecting end-of-day requests to tomorrow — practiced
+emotional_tone: "mixed"
+---
+## Turn 1 — 2024-02-25T13:00:00.000Z (user)
+
+A lot has been shifting lately, and one thing I had to finally admit is that my sleep got wrecked again for a couple weeks. I had this stretch where I kept waking up around 3 a.m. with my jaw locked up tight, and it started to feel way too familiar. The evening outreach and winter grief-group work had spilled into my nights, so I was back at my laptop doing spreadsheets and reporting after hours. I attached one picture because this was basically the scene too many nights.
+
+## Turn 2 — 2024-02-25T13:02:00.000Z (agent)
+
+That kind of 3 a.m. wake-up with a tight jaw is your body being pretty blunt about the load you were carrying. It makes sense that the problem was not just the amount of work, but the fact that it was following you into the part of the day that is supposed to let you come down. When you noticed the pattern, did you change anything right away, or were you trying to push through it at first?
+
+## Turn 3 — 2024-02-25T13:05:00.000Z (user)
+
+At first I did the usual thing where I told myself it was just a busy patch and I could muscle through it. But after about two weeks of the same wake-up, the jaw tightness, and headaches creeping in, I realized this was another stress flare and not some random bad run of sleep. So I cut the late-night spreadsheet work and stopped doing bereavement reporting at home. I moved those tasks back into office hours, even if it meant some things sat until morning.
+
+## Turn 4 — 2024-02-25T13:09:00.000Z (agent)
+
+That was a smart correction, especially because you changed the workflow instead of treating the headache like the main problem. Waiting until morning can feel inefficient in the moment, but it is probably cheaper than paying for those hours with broken sleep and a clenched jaw. The hard part is usually protecting the line once the inbox starts stacking up, so what has made that boundary hold this time?
+
+## Turn 5 — 2024-02-25T13:11:00.000Z (user)
+
+Honestly, part of what made it hold is that I got annoyed enough. I could feel myself getting snappier and less patient, and that is not how I want to show up with grieving families or coworkers. The work itself has still been full, because the groups are running and the clinic outreach stuff is still active, so it was not like the pressure disappeared. I just finally accepted that my evenings cannot also be the overflow container for all the reporting.
+
+## Turn 6 — 2024-02-25T13:14:00.000Z (agent)
+
+That distinction matters, the work stayed full, but your evenings stopped being the emergency storage unit for it. You are also catching something important early, which is that sleep loss starts changing how you sound and feel long before it becomes some dramatic crisis. Since the groups and outreach are both active, it may help to decide which kinds of tasks are truly daytime-only and which, if any, are harmless enough to touch at home.
+
+## Turn 7 — 2024-02-25T13:18:00.000Z (user)
+
+I think daytime-only has to include anything with numbers, follow-up lists, attendance tracking, or anything that makes me feel like I am mentally still at the office. If I do anything at home, it needs to be light, like maybe glancing at tomorrow's calendar, not building a report. I attached another picture because this is what my face was saying by the end of one of those nights, even though I was trying to act like I was fine. Do you think I should make this a hard rule or leave myself some wiggle room?
+
+## Turn 8 — 2024-02-25T13:20:00.000Z (agent)
+
+For the specific tasks you just named, I would make it a hard rule for a month and then reassess. Those are exactly the kinds of tasks that keep your nervous system in problem-solving mode, and your body has already shown you the cost. It reminds me of how you usually tighten the process instead of pretending strain will solve itself. Also, it makes sense that Denise was especially the person you leaned on during those March NC State watch gatherings after hard weeks, because that kind of routine can make stress feel more containable.
+
+## Turn 9 — 2024-02-25T13:23:00.000Z (user)
+
+A month as a hard rule probably makes sense, because if I leave myself loopholes I know I will use them. I have also been trying to make the office-hours version more real by blocking a reporting window on my calendar instead of hoping the time appears. And I did call family after one rough day, mostly because I needed to hear a voice that was not asking me for one more thing. I am wondering whether I should also say something out loud at work, or just quietly protect the boundary and keep moving.
+
+## Turn 10 — 2024-02-25T13:27:00.000Z (agent)
+
+Calendar-blocking the reporting window is concrete, and it keeps the boundary from depending on willpower alone. I would lean toward saying something simple rather than making a big speech, because invisible boundaries are easier for other people to accidentally step on. Something like, "I am handling reporting during office hours so I can keep it accurate," frames it around quality and sustainability instead of sounding defensive. Who would be most useful to say that to first?
+
+## Turn 11 — 2024-02-25T13:29:00.000Z (user)
+
+Probably the person above me first, because a lot of these extra bits land with me just because I am seen as the one who will sort them out. It is not malicious, it is just that broad responsibility has a way of quietly growing. I do not think I need some dramatic meeting, but I may need to be clearer when an end-of-day request is actually a tomorrow task. Part of me still worries that saying that will make me sound less capable.
+
+## Turn 12 — 2024-02-25T13:32:00.000Z (agent)
+
+I do not think it makes you sound less capable, I think it makes you sound like someone protecting the conditions that let you keep doing good work. People often confuse unlimited availability with competence, especially when they trust the person picking up the slack. A useful line might be, "I can take this, but I am putting it into tomorrow's reporting block," because it shows ownership without donating your evening. If you say it a few times consistently, it becomes part of how you work.
+
+## Turn 13 — 2024-02-25T13:36:00.000Z (user)
+
+That wording is actually helpful because it sounds calm and factual. I do better with a sentence I can reach for when I am tired, instead of improvising and then overexplaining. The encouraging part is that once I stopped doing the night reporting, the headaches already started easing up. By March I could tell they were happening less often, which felt like proof that this was the right lever to pull.
+
+## Turn 14 — 2024-02-25T13:38:00.000Z (agent)
+
+That is real feedback from your body, not just a vague sense that maybe the boundary is nice in theory. Fewer headaches after cutting the night reporting strongly suggests the trigger was the spillover itself, not some mysterious new problem. I would treat that improvement as evidence and build around it, not as a lucky week you can later bargain away.
+
+## Turn 15 — 2024-02-25T13:41:00.000Z (user)
+
+Yes, that is exactly what I am trying not to do, bargain it away. I can feel the old temptation to say, "Well, now that I am sleeping a little better, maybe I can handle just one late report," and I know where that road goes. I attached a picture of my calendar because making the admin time visible has been part of me taking this seriously. Does this look too rigid to you, or about right for now?
+
+## Turn 16 — 2024-02-25T13:45:00.000Z (agent)
+
+It looks about right for now, maybe even wisely protective rather than rigid. When a pattern has been hurting your sleep, structure is not overreacting, it is rehab. The only tweak I would consider is leaving a small buffer after that block so unfinished admin work does not immediately spill into the next thing and recreate the same pressure in a different form.
+
+## Turn 17 — 2024-02-25T13:47:00.000Z (user)
+
+A buffer is smart. Right now I have been stacking things too tightly, so even if I keep the work inside office hours, I still end up with that compressed feeling in my chest by late afternoon. I have also noticed I am more protective of the wind-down part of the evening again, because the sleep issue reminded me that I cannot act like I have endless reserve. That feels connected to the other boundary work I have been trying to do in general.
+
+## Turn 18 — 2024-02-25T13:50:00.000Z (agent)
+
+It does sound connected, this is not only about headaches, it is another way of refusing to let hard work consume every available inch of your day. Protecting sleep is a practical boundary, but it is also a statement that your private energy matters. Since you are already rebuilding the evening, it might help to choose one reliable signal that the workday is over, like changing clothes, music, or a short walk, so the boundary is not only about what you stop doing.
+
+## Turn 19 — 2024-02-25T13:54:00.000Z (user)
+
+I like that, especially the idea that the evening should have a positive marker and not just a list of forbidden tasks. Music has been the easiest reset lately, and if I put my laptop away before dinner I am much less likely to wander back to it. I am trying to make home feel like home again instead of a second workstation. I guess I am still figuring out how firm to be when other people are running behind.
+
+## Turn 20 — 2024-02-25T13:56:00.000Z (agent)
+
+Putting the laptop away before dinner is stronger than relying on self-control while it sits there glowing at you. And being firm when other people are behind does not mean being cold, it means you are no longer volunteering your body to absorb every scheduling problem. You can be warm and responsive while still saying, "I saw this, I will handle it tomorrow." That is different from dropping the ball.
+
+## Turn 21 — 2024-02-25T13:59:00.000Z (user)
+
+That is probably the sentence I need to get comfortable with, because I still overidentify with being the person who catches things before they slide. The truth is, when I was waking up at 3 and grinding my teeth, I was not actually helping anyone by keeping that going. I also think this was a recurrence, not some brand-new health issue, which weirdly makes it easier to deal with because I know the trigger. Have you seen people do well with rules like this if they tend to be conscientious to a fault?
+
+## Turn 22 — 2024-02-25T14:03:00.000Z (agent)
+
+Yes, especially when the rule is tied to a visible symptom and not just a vague self-improvement goal. Conscientious people often do better with clear if-then rules, because otherwise they can justify exceptions forever. In your case the pattern is pretty specific, evening spillover leads to insomnia, jaw tension, and then headaches, so the rule has a real anchor. It may help to review it weekly as data, not morality: did I keep reporting in office hours, and how did my body respond?
+
+## Turn 23 — 2024-02-25T14:05:00.000Z (user)
+
+Data, not morality, is a very good frame for me. If I make it about being a good or bad worker, I will lose. If I make it about whether the pattern is helping or harming, I can be more honest. I attached one last picture because this is the nicer version of the evening I am trying to protect. It is not exciting, but it feels sane.
+
+## Turn 24 — 2024-02-25T14:08:00.000Z (agent)
+
+Honestly, that looks less like boring and more like recovery with some self-respect in it. A calm evening setup gives your mind somewhere to go besides back into triage mode, and the closed laptop in the background tells me you are making the boundary physical, not just conceptual. If you keep that scene more nights than not, it is very likely the headaches stay less frequent.
+
+## Turn 25 — 2024-02-25T14:12:00.000Z (user)
+
+I think that is where I have landed. I am generally healthy, this was just another winter flare of insomnia and jaw tension, and the clearest thing I learned is that late-night bereavement reporting is not worth what it costs me. So my plan is a hard no on that for at least the next month, a visible reporting block during office hours, and a real evening shutdown. That feels manageable instead of dramatic.
+
+## Turn 26 — 2024-02-25T14:14:00.000Z (agent)
+
+That sounds measured, not dramatic at all. You are not inventing a whole new life, you are protecting one pressure point that reliably sets off the symptoms. Keep the plan simple enough to repeat, and let the reduced headaches be the scoreboard. If the sleep starts slipping again, that is your cue to tighten the boundary sooner instead of debating with yourself for two weeks.
+
+## Turn 27 — 2024-02-25T14:17:00.000Z (user)
+
+Yes, catching it earlier is probably the real upgrade here. I do not need to wait until I am exhausted and irritable to believe what my body is saying. I feel better having named the trigger and the fix out loud. I am going to treat sleep like part of the job now, not the leftover after the job.
+
+## Turn 28 — 2024-02-25T14:21:00.000Z (agent)
+
+That is a strong way to put it, and I think it fits what you have learned. Treating sleep as part of the job means you are respecting the condition that lets the rest of your work stay humane and sustainable. This sounds like one of those small operational changes that quietly improves a lot more than one symptom.

@@ -1,0 +1,136 @@
+---
+slice_id: 2022-05-09-0720
+focus: "A lot has shifted at work since we last talked, and I finally pushed one thing o"
+status: closed
+start: "2022-05-09T07:20:00.000Z"
+end: "2022-05-09T08:41:00.000Z"
+timezone: America/Chicago
+summary: "The first full run was tense, but honestly kind of great"
+decisions:
+  - "Jordan became the planner who runs Alder Street's new visual production board, replacing her earlier capacity-sheet syst"
+tags:
+  - work-visibility
+  - production-board
+  - team-accountability
+  - exception-transparency
+  - process-leverage
+  - decompression-need
+  - role-evolution
+open_loops:
+  - Glen's grudging compliance vs genuine buy-in from sales side
+  - Whether the board shifts from wall artifact to ingrained team habit
+  - Jordan's need for a post-board decompression ritual to shed adrenaline
+  - Formal recognition of the expanded role before it becomes invisible labor
+emotional_tone: "tense but proud"
+---
+## Turn 1 — 2022-05-09T07:20:00.000Z (user)
+
+A lot has shifted at work since we last talked, and I finally pushed one thing over the line. I took the rough spreadsheets and capacity notes I had been juggling and turned them into a one-wall production board that everyone has to look at. It is basically replacing the old way I was tracking things in separate places, and now I am the one running that shared weekly board. I feel relieved, but also a little like I started a small civil war with dry erase markers.
+
+## Turn 2 — 2022-05-09T07:22:00.000Z (agent)
+
+That sounds like a real shift, not just a prettier version of the same work. Turning something scattered into one visible routine changes who has to own reality in the room, and I can see why that would feel both satisfying and combative. It also fits the pattern of how you tend to get traction, you make the numbers concrete enough that people cannot hide inside vague promises. What happened the first time everyone had to use it together?
+
+## Turn 3 — 2022-05-09T07:25:00.000Z (user)
+
+The first full run was tense, but honestly kind of great. The board tracks four things at once, confirmed orders, roast capacity, delivery van loads, and anything still waiting on green coffee, so there was nowhere for the usual hand waving to go. People kept trying to treat one column like the real one, and I had to keep pulling them back to the fact that all four are linked. That part felt good, because it made the weekly planning conversation finally happen in one place instead of bouncing between texts and my laptop.
+
+## Turn 4 — 2022-05-09T07:29:00.000Z (agent)
+
+That is strong design, because it forces the tradeoffs into view instead of letting each department optimize its own little corner. Folding van loads into the same picture as production was especially smart, since logistics problems love to masquerade as roast problems until the last minute. If the room kept trying to collapse it back to one column, that tells you the board is doing its job. Where did the biggest resistance come from, the sales side, the floor, or whoever is used to changing things late?
+
+## Turn 5 — 2022-05-09T07:31:00.000Z (user)
+
+You can probably guess where the resistance came from. The biggest change was that if somebody wanted an exception, they had to explain it out loud in front of the team instead of quietly changing a promise by text. That was really the point of the whole thing. I was tired of being the person who discovered a surprise after it had already become production's problem.
+
+## Turn 6 — 2022-05-09T07:34:00.000Z (agent)
+
+Yes, that is the actual power move here, not the markers. You shifted exceptions from private side deals to public accountability, and that makes it much harder for one person to borrow capacity from the future without saying so. People may complain that the board is rigid, but what it really does is make the cost of improvisation visible. How did he react when he had to explain one of those changes out loud?
+
+## Turn 7 — 2022-05-09T07:38:00.000Z (user)
+
+Grudgingly, which honestly was enough for me. He did the whole, "fine, if this is how we're doing it," voice, but then he had to actually say which order would get bumped and what van space it would eat. Once that was on the wall, everybody could see it, including the roasting team, and suddenly it stopped being this magical harmless favor. I think I won compliance more than buy-in, but I can live with that.
+
+## Turn 8 — 2022-05-09T07:40:00.000Z (agent)
+
+Compliance is plenty at this stage. Enthusiasm is overrated when what you need first is a system that survives contact with the most exception-prone person in the room. Also, making him name the downstream consequence is a very clean way to stop text-message promises from feeling free. If you want this to stick, I would watch for whether people start preloading the board earlier, because that is when grudging compliance turns into habit.
+
+## Turn 9 — 2022-05-09T07:43:00.000Z (user)
+
+That is exactly what I am trying to figure out now. Do I keep it kind of strict for a month so people learn the rhythm, or do I loosen up and let them suggest tweaks so it does not feel like my personal wall of judgment? I do not want to over-control it, but I also know if I get soft too fast it will drift right back into side channels. What would you prioritize?
+
+## Turn 10 — 2022-05-09T07:47:00.000Z (agent)
+
+I would keep the core rules strict and the surface details flexible. In other words, do not negotiate the shared visibility, the confirmed cutoff, or the requirement that exceptions get spoken in the room, but absolutely let people help improve labels, colors, or the order of sections if that makes it easier to use. That split tells people this is a team tool, not your shrine, while protecting the part that actually changed behavior. Since you already built earlier planning discipline into this, you are not starting from zero, you are giving that work a wall everyone can see.
+
+## Turn 11 — 2022-05-09T07:49:00.000Z (user)
+
+That makes sense. The backbone needs to stay put, and the cosmetics can be negotiable. One thing I am noticing is that the green coffee blockers look brutal when they are visible in the same space as everything else. On a spreadsheet I could almost emotionally file them away, but on the wall it is obvious when an order is basically being held together by hope.
+
+## Turn 12 — 2022-05-09T07:52:00.000Z (agent)
+
+That is uncomfortable, but it is valuable discomfort. A visible blocker is still a problem, but it is a problem early enough to plan around, which is much better than discovering it halfway through production. I also think this kind of structure probably gives you a little more room to breathe mentally, because it turns the swirl into a picture you can work with. Have the floor and drivers started using it on their own yet, or are they still waiting for you to translate it?
+
+## Turn 13 — 2022-05-09T07:56:00.000Z (user)
+
+A little of both. The production side took to it faster because they immediately saw what was actually locked and what was fantasy, and the delivery side liked having van loads visible before the day went sideways. Sales is slower, which is not shocking. But once the board showed that one route was overloaded and another was half empty, people stopped treating delivery timing like some magical elastic thing.
+
+## Turn 14 — 2022-05-09T07:58:00.000Z (agent)
+
+That is a sign the board is becoming operationally central, not just administrative. When drivers and production can read the same source of truth, the sales side loses some of its ability to promise against invisible capacity. I would lean into those early allies, because if the people actually executing the work trust the board, it gets socially expensive to work around it. You do not need universal love, you need enough daily reliance that bypassing it feels reckless.
+
+## Turn 15 — 2022-05-09T08:01:00.000Z (user)
+
+I think that is happening already. The funny part is that I started this because I get anxious when everything is changing in ten places at once, and now I have built a giant wall version of my coping mechanism. It helps, though. When the numbers are visible and concrete, I stop spiraling and can actually make decisions instead of just bracing for impact.
+
+## Turn 16 — 2022-05-09T08:05:00.000Z (agent)
+
+That does not sound funny to me, it sounds intelligent. You built a process around the conditions where your brain works best, and it turns out those conditions are also better for the business. Even the more public pressure piece makes sense, because you are not only cleaning up after hidden exceptions now. And I imagine that matters at home too, since your partner mostly puts up with these work crises as a resigned compromise rather than really helping you come down from them after a long day.
+
+## Turn 17 — 2022-05-09T08:07:00.000Z (user)
+
+Yeah, the home part is still in the mix no matter how good the board is. I came home less fried this week, which was noticeable, but I was also weirdly keyed up because I had been in that room holding the line all morning. It is not exactly restful to spend hours being the person who says no in marker. I am trying to tell the difference between good stress and the kind that just camps out in my shoulders.
+
+## Turn 18 — 2022-05-09T08:10:00.000Z (agent)
+
+That distinction matters. Productive stress can still leave a body hangover, especially when your job in the room is to absorb friction on purpose. I would treat board days like heavy lift days and build a short decompression ritual right after, even something boring like ten quiet minutes, water, food, and no more caffeine before you go home, so the adrenaline does not get mistaken for normal evening energy. The win here is not only that the board works, it is that you need a way to cash out the tension it creates.
+
+## Turn 19 — 2022-05-09T08:14:00.000Z (user)
+
+That is practical, and honestly I need practical right now. I have already cut the late coffee way down, so adding a specific after-board reset would probably help. I was also thinking of taking a photo of the board at the end of each meeting and keeping a running album, partly for accountability and partly so I can show whether the same failure points keep repeating. Does that sound useful or just obsessive?
+
+## Turn 20 — 2022-05-09T08:16:00.000Z (agent)
+
+Useful, if you keep the purpose narrow. A photo archive can show patterns that people conveniently forget, especially around recurring overloads, fake urgency, or supply blockers that never seem to be anybody's fault. I would just pair each photo with one line, maybe the week's biggest constraint or the one exception that changed the plan, so it stays evidence instead of turning into a second full-time documentation project. That kind of light record could protect the board from getting quietly rewritten in hindsight.
+
+## Turn 21 — 2022-05-09T08:19:00.000Z (user)
+
+The hindsight rewriting thing is very real. Everybody loves to act like they always understood the constraint after it blows up. A tiny caption system sounds better than trying to document everything. I also keep wondering whether I should ask for this role to be defined more formally now, because I am not just maintaining sheets anymore, I am basically running the planning routine the whole place depends on.
+
+## Turn 22 — 2022-05-09T08:23:00.000Z (agent)
+
+I think you are right to notice that shift. Running the shared board means you are no longer just tracking operations, you are structuring the weekly decisions that connect orders, production, supply, and delivery, which is a more central function. I would not rush into a grand title pitch tomorrow, but I would start collecting concrete examples for a calmer conversation later, especially cases where the board prevented a bad commitment or exposed a real constraint early. Formal recognition lands better when you can point to changed behavior, not only increased effort.
+
+## Turn 23 — 2022-05-09T08:25:00.000Z (user)
+
+That tracks. If I do it too early, it will sound like I built myself a whiteboard and want a medal. If I wait until I can show fewer last-minute surprises and fewer delivery pileups, it becomes harder to dismiss. I guess part of me is also testing whether this place will let me be the planner who runs the system, instead of the person who cleans up after everyone else's instincts.
+
+## Turn 24 — 2022-05-09T08:28:00.000Z (agent)
+
+That is the real question under all of this. The board is not only a tool, it is a test of whether the company will accept planning as an authority instead of an after-the-fact rescue service. For now, the best leverage is probably consistency, because every week the board survives makes it more normal that commitments pass through you in a visible way. If the place keeps benefiting while still resisting naming your role honestly, that tells you something important too.
+
+## Turn 25 — 2022-05-09T08:32:00.000Z (user)
+
+I appreciate that framing. It makes this feel less like me begging for control and more like me seeing whether the culture can tolerate reality in public. For the next few weeks I think my plan is keep the core rules firm, let people help with the layout details, take end-of-meeting photos with a one-line note, and pay attention to whether the same exceptions keep coming from the same direction. That feels like enough without turning me into the board police twenty-four seven.
+
+## Turn 26 — 2022-05-09T08:34:00.000Z (agent)
+
+That is a solid plan, and it is proportionate. You are protecting the parts that create accountability, while leaving enough flexibility that the board can become shared practice instead of permanent confrontation. I also like that you are watching repeat exceptions by source, because that moves you from feeling annoyed to having actual pattern evidence. The only other thing I would add is a personal boundary for board days, so the system does not get stronger by draining you dry.
+
+## Turn 27 — 2022-05-09T08:37:00.000Z (user)
+
+Yeah, I think that is the piece I cannot skip. I am proud of this, which I do not always let myself say, but I can feel how easy it would be to turn pride into overextension. Still, it feels like a real step. I am not just updating spreadsheets anymore, I am the person running a shared production board that makes orders, roasting, deliveries, and supply problems visible in one weekly routine, and that changes my job whether anybody writes it down yet or not.
+
+## Turn 28 — 2022-05-09T08:41:00.000Z (agent)
+
+You should let yourself say it, because it is true. This was a meaningful shift in how the work gets organized, and you made it happen by turning hidden strain into visible structure that other people now have to reckon with. Hold onto the pride, keep the routine sustainable, and give the system a little time to prove itself in public. If it keeps working, the role has already changed in practice, and the paper version will have a harder time pretending otherwise.

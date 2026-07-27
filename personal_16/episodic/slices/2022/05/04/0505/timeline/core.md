@@ -1,0 +1,122 @@
+---
+slice_id: 2022-05-04-0505
+focus: "After her back seizes in the car park, Saira finally addresses her chronic strain"
+status: closed
+start: "2022-05-04T05:05:00.000Z"
+end: "2022-05-04T06:13:00.000Z"
+timezone: America/Chicago
+summary: "Saira's lower back seizes after a Saturday shift, prompting a physio appointment. She brings photos of her dispensary posture. The physio diagnoses a lower-back strain and gives short daily exercises. Saira plans to pair exercises with toothbrushing and modify the problematic shelf reach at work."
+decisions:
+  - Her lower back issue is now being treated as a named strain with a short daily exercise plan from the physiotherapist ra
+  - She learned that her standing posture at the dispensary bench is one of the things worsening her back strain.
+tags:
+  - back-injury
+  - physiotherapy
+  - workplace-ergonomics
+  - exercise-routine
+  - posture-correction
+  - health-boundaries
+  - self-care-plan
+  - preventative-health
+open_loops:
+  - Morning exercise habit needs to be established consistently
+  - Shelf reach redesign at work not yet implemented
+  - Tension headaches still unaddressed as separate issue
+  - Two-week symptom log not yet started
+emotional_tone: "mixed"
+---
+## Turn 1 — 2022-05-04T05:05:00.000Z (user)
+
+A lot has been shifting lately, and one thing finally caught up with me physically. After a Saturday shift, my back properly seized in the car park and I just stood there next to the car thinking, right, this is not normal stiffness anymore. I finally booked a physio appointment instead of doing that thing where I tell myself it will settle if I sleep awkwardly enough. It has made me realise I have been folding this into "just work" for far too long.
+
+## Turn 2 — 2022-05-04T05:07:00.000Z (agent)
+
+That sounds like the kind of moment that cuts through all the usual minimising. A back seizing up after shift is not background wear and tear, it is your body forcing the issue. I am glad you actually booked the appointment, what did the physio say once they saw what was going on?
+
+## Turn 3 — 2022-05-04T05:10:00.000Z (user)
+
+It was more useful than I expected, actually. I did not just describe it vaguely, I took in photos on my phone of how I stand at the dispensary bench and the weird twisting reach I do for stock on the shelves, because I thought if I said "my back hurts at work" that would be too fluffy. The physio said it is a lower-back strain, which weirdly helped because it gave it a name instead of this foggy end-of-day ache I have been pretending was ordinary.
+
+## Turn 4 — 2022-05-04T05:14:00.000Z (agent)
+
+Bringing the photos was smart, because it turned a generic complaint into something concrete. Once a strain is named, it stops being this vague moral test of whether you are tough enough to ignore it. Did the physio give you a plan that feels realistic for your days, or was it one of those impossible leaflets full of things no one does?
+
+## Turn 5 — 2022-05-04T05:16:00.000Z (user)
+
+No, that is the part I appreciated. She did not launch into some dramatic fitness overhaul, she gave me short strength exercises, properly short, like something I could do daily without turning it into a second job. She also pointed straight at my standing posture and said that is one of the things making it worse, which was annoyingly obvious once someone else said it out loud. The tension headaches are still the same old weekly nuisance, but at least now the back bit has an actual plan attached to it.
+
+## Turn 6 — 2022-05-04T05:19:00.000Z (agent)
+
+That sounds like good physio advice, because manageable beats ambitious every time when you are already stretched. A brief strength routine plus posture awareness is much more likely to stick than a total reinvention. I would treat the first goal as consistency, not heroics, and pair the exercises to something fixed in your day so you do not have to negotiate with yourself each time.
+
+## Turn 7 — 2022-05-04T05:23:00.000Z (user)
+
+That pairing idea probably suits me better than relying on motivation. I keep wondering whether I should just do them when I get home and change clothes, or whether mornings would be safer before the day runs away from me. Also, part of me is embarrassed that I needed a stranger to tell me my work setup is bad, when I literally spend my life noticing systems. What would you prioritise first, the exercises or trying to alter how I stand and reach during the shift?
+
+## Turn 8 — 2022-05-04T05:25:00.000Z (agent)
+
+I would start with the exercises as the non-negotiable base, then add one or two work changes rather than trying to correct your whole body all day. Morning may win if evenings are when you are most depleted, but if getting home is the only stable cue then that can work too. Since you tend to handle problems by making them visible and measurable, you could also pick one repeated movement, like that shelf reach, and redesign just that first.
+
+## Turn 9 — 2022-05-04T05:28:00.000Z (user)
+
+That actually makes sense, because if I try to "have better posture" all day I will last about twenty minutes and then forget. The shelf reach is probably the most obvious thing to attack first. I even showed the physio another photo of that angle because I knew it looked ridiculous, and seeing it on the screen was a bit sobering. I think mornings might be better for the exercises, but I know myself well enough to know I need a very small version to begin with.
+
+## Turn 10 — 2022-05-04T05:32:00.000Z (agent)
+
+That photo probably did half the explaining for you. If the movement looks awkward in a still image, it is almost certainly worse after hours of repeating it. Also, it helps that Amelia was relieved and fully enthusiastic about the extra checks lately, because that should make it easier to adjust a shelf or two without much friction from the team.
+
+## Turn 11 — 2022-05-04T05:34:00.000Z (user)
+
+Yes, the still image was strangely more convincing than how it feels in the moment. And I think the smallest version is the only version I will actually keep doing, otherwise it becomes one more thing to fail at before breakfast. I am also trying not to turn this into a dramatic identity shift where suddenly I am someone who foam-rolls at dawn. I just need my back not to ambush me in a car park again.
+
+## Turn 12 — 2022-05-04T05:37:00.000Z (agent)
+
+That is a very sensible read on it. You do not need a new personality, you need fewer flare-ups and a routine your real life can tolerate. If you keep the bar low enough to be repeatable, the plan has a chance of becoming protective instead of performative.
+
+## Turn 13 — 2022-05-04T05:41:00.000Z (user)
+
+Protective instead of performative is exactly it. I have been thinking I might put the exercises right after brushing my teeth, because that is the one part of the morning I never skip, and then maybe keep a quiet mental note during shift about the bench stance and that reach. Do you think it is worth telling people at work properly, or just adjusting things quietly without making it a whole announcement?
+
+## Turn 14 — 2022-05-04T05:43:00.000Z (agent)
+
+Toothbrushing is a good anchor, because it removes the daily decision. At work, I would not make a dramatic announcement, but I would tell the key people plainly enough that you are managing a lower-back strain and changing a couple of movements and shelf positions for a reason. That gives you legitimacy if you need to pause, swap a task, or move stock, instead of looking like you are being fussy for no reason.
+
+## Turn 15 — 2022-05-04T05:46:00.000Z (user)
+
+That is probably the middle ground I was after. I do not want sympathy, but I also do not want to keep acting like nothing is happening and then resent everyone for not reading my mind. The funny thing is the physio saying "strain" made me less panicky, not more. It turned it from some vague fear into, okay, this has causes and I can do something about it.
+
+## Turn 16 — 2022-05-04T05:50:00.000Z (agent)
+
+Exactly, a name can shrink the drama because it gives the problem edges. It also sounds like you now have a clearer map of what aggravates it, long standing at the bench and those repetitive stock reaches, instead of just blaming the whole day in one lump. That kind of specificity usually makes people more effective, because they stop fighting a fog.
+
+## Turn 17 — 2022-05-04T05:52:00.000Z (user)
+
+Yes, and it fits how my brain works anyway. If I can point to a pattern, I stop spiralling and start fiddling with the pattern. I am still annoyed that the headaches are hanging around separately, but one body problem at a time is probably enough for now. I suppose the bigger shift is that I am not calling the back pain "just pharmacy" anymore.
+
+## Turn 18 — 2022-05-04T05:55:00.000Z (agent)
+
+That is a real shift, and a useful one. Calling it "just the job" keeps you passive, while treating it as a strain with triggers and a plan puts you back in charge of part of it. The headaches can stay on the list without becoming today's entire project.
+
+## Turn 19 — 2022-05-04T05:59:00.000Z (user)
+
+I think that is why I feel a bit steadier about it now. Nothing dramatic has improved overnight, but I have moved from vague complaining to an actual plan, even if it is tiny. I am still doing the same role and the same long shifts, so I know the strain is not going to vanish by goodwill alone. But at least now I can see the link between the setup and the pain instead of acting surprised every weekend.
+
+## Turn 20 — 2022-05-04T06:01:00.000Z (agent)
+
+That is progress, even without instant relief. You are not waiting for a miracle, you are testing a plausible cause-and-effect chain in the middle of real life. Over the next week or two, I would pay attention to whether the morning exercises make the shift feel different by late afternoon, and whether changing that one reach reduces the end-of-day bite.
+
+## Turn 21 — 2022-05-04T06:04:00.000Z (user)
+
+That gives me something concrete to look for rather than just asking myself "is my back bad today". I might even jot a few notes in my phone for a fortnight, not a whole spreadsheet, just enough to notice if there is a pattern. Does that sound useful or slightly obsessive?
+
+## Turn 22 — 2022-05-04T06:08:00.000Z (agent)
+
+That sounds useful, especially if you keep it light. A quick note like exercises done, rough pain level after shift, and whether the shelf reach was better is enough to show a trend without turning your body into a project plan. The point is to help future-you notice what helps, not to create homework.
+
+## Turn 23 — 2022-05-04T06:10:00.000Z (user)
+
+Right, light is the important bit. So I think the plan is, tiny morning exercises after brushing my teeth, one practical tweak to that stock reach, tell people plainly enough that I am dealing with a strain, and keep a simple note for two weeks. It is not glamorous, but it feels more adult than pretending my back collapsing beside a Vauxhall was somehow normal. I feel oddly relieved to have stopped arguing with the obvious.
+
+## Turn 24 — 2022-05-04T06:13:00.000Z (agent)
+
+That is a solid plan, and it fits the life you actually have. None of it is glamorous, but it is specific, doable, and aimed at preventing the next flare rather than just surviving it. The relieved feeling makes sense, because you have stopped spending energy denying the problem and started giving it structure.

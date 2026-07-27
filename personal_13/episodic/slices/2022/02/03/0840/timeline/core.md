@@ -1,0 +1,131 @@
+---
+slice_id: 2022-02-03-0840
+focus: "Things have been busy since we last talked, and work just tipped into one of tho"
+status: closed
+start: "2022-02-03T08:40:00.000Z"
+end: "2022-02-03T10:01:00.000Z"
+timezone: America/Chicago
+summary: I stayed late with Victor and we started reconstructing the whole thing instead of just closing the 
+decisions:
+  - "After a districtwide produce vendor miss, Danielle added a self-directed incident review project tracking missed trucks,"
+  - The vendor miss left Danielle more vigilant and tired because she keeps replaying the scramble calls and mentally review
+tags:
+  - vendor-delivery-failure
+  - incident-review-folder
+  - systemic-logistics-breakdown
+  - evidence-based-tracking
+  - work-stress-replay-loop
+  - boundary-setting-at-work
+emotional_tone: "mixed"
+---
+## Turn 1 — 2022-02-03T08:40:00.000Z (user)
+
+Things have been busy since we last talked, and work just tipped into one of those weeks that changes how I look at my job. A produce vendor missed a Monday truck, and by that same morning I had scramble calls coming in from three campuses about fruit cups and backup entrees. It stopped feeling like a normal rough day and started feeling like proof that we have a system problem. I ended up deciding I need to track this differently now.
+
+## Turn 2 — 2022-02-03T08:42:00.000Z (agent)
+
+That does sound like a threshold moment, not just an annoying Monday. When three campuses are calling the same morning over basic items and backup meals, that is bigger than one kitchen improvising, it points to a breakdown upstream. Given how much this issue has mattered to you over time, I can see why you are shifting from putting out fires to documenting the pattern. What did you decide to start tracking, exactly?
+
+## Turn 3 — 2022-02-03T08:45:00.000Z (user)
+
+I stayed late with Victor and we started reconstructing the whole thing instead of just closing the day out. We compared delivery logs, handwritten freezer notes people keep on site, and cafeteria manager texts to figure out what actually failed and where. By the end of the night I made myself an incident review folder, and now I am adding every missed stop and every emergency substitution campus by campus. So I am still doing my regular logistics job, but now I have this self-directed review project on top of it.
+
+## Turn 4 — 2022-02-03T08:49:00.000Z (agent)
+
+That is a smart move, especially because you pulled together three kinds of evidence that usually stay scattered. Logs tell you what should have happened, freezer notes show the physical constraint, and texts capture the timing pressure when the menu is already collapsing. Turning it into an incident review folder means you are creating something people can actually learn from later, not just surviving the day. I would make the first pass very simple, campus, vendor stop, missing item, freezer limitation, substitution made, and time the problem became visible.
+
+## Turn 5 — 2022-02-03T08:51:00.000Z (user)
+
+That simple structure is basically what I was circling around, and I think I needed someone else to say it plainly. What is sticking with me is how fast the calls turned into blame on the campus side, like the kitchens should have magically solved it better. Part of why I want this folder is to show these were systemic logistics failures, not kitchen-level mistakes. Does that sound too defensive, or like a fair reason to build the whole thing?
+
+## Turn 6 — 2022-02-03T08:54:00.000Z (agent)
+
+It sounds fair, not defensive. If you only record the substitution and not the chain that forced it, then the campus staff become the visible part of the mess and the logistics failure stays invisible. The strongest version of your review is not a complaint folder, it is a cause-and-effect record that shows where the pressure started and how it rippled outward. If anyone pushes back, you can keep framing it as service reliability and pattern prevention, not fault finding.
+
+## Turn 7 — 2022-02-03T08:58:00.000Z (user)
+
+That framing helps. I do not want to sound like I am building a case against people, but I also do not want this day to get waved off as one random scramble. The same-morning substitutions were serious enough that I do not think they should be treated like routine kitchen improvisation anymore. I am trying to decide whether I should keep the folder private for a bit or start looping in a few people early.
+
+## Turn 8 — 2022-02-03T09:00:00.000Z (agent)
+
+I would keep the core folder under your control at first, but not keep the whole effort secret. A small early circle makes sense if they are people who can help verify facts, especially around truck timing and storage constraints, because that strengthens the record before opinions harden. Since your budgeting around after-school care and summer camp is what really keeps your bills steady, I would also be careful not to let this become an open-ended extra project that quietly eats your evenings. Who are the two or three people most likely to help without turning it into politics too soon?
+
+## Turn 9 — 2022-02-03T09:03:00.000Z (user)
+
+I think the best early circle is probably Victor for the warehouse side, and maybe one strong cafeteria manager who will be blunt with me about what actually works once food hits a campus. I had not even thought about the politics part until you said it, but that is exactly what I am trying to avoid. Also, I can already feel myself getting more wound up about it than usual. I keep replaying those calls in my head and mentally checking what I missed.
+
+## Turn 10 — 2022-02-03T09:07:00.000Z (agent)
+
+That replay loop makes sense after a day like that, but it is also a sign your brain has not filed the incident away yet. You are carrying both the practical problem and the burden of proving it was systemic, which is a lot heavier than ordinary delivery stress. It may help to set a hard rule that after you capture the facts for the day, you stop reviewing and leave interpretation for a scheduled block the next afternoon. That kind of boundary can keep vigilance from turning into exhaustion.
+
+## Turn 11 — 2022-02-03T09:09:00.000Z (user)
+
+A scheduled block might actually help, because right now I am letting it spill into every quiet minute. I am more tired than I should be over one incident, and I do not think it is just the hours, it is that I am trying to prove something with every note I save. Part of me worries I am overreacting, and part of me thinks this is exactly the moment I should be paying attention. How would you tell the difference?
+
+## Turn 12 — 2022-02-03T09:12:00.000Z (agent)
+
+I would look at whether your response is expanding the signal or just feeding the stress. What you are doing now sounds useful because it converts panic into evidence, and evidence can later support a fix. It becomes overreacting if the folder turns into endless collecting with no categories, no threshold, and no plan for what decisions it should inform. A good checkpoint is to ask, after two weeks, can this folder show patterns someone else could act on?
+
+## Turn 13 — 2022-02-03T09:16:00.000Z (user)
+
+That is a good test. I think I need to define what counts as a pattern instead of just saving everything because it feels important in the moment. The two pressure points that kept showing up that day were vendor reliability and freezer space, and those are both already tender spots in this job. Maybe the folder should force me to code incidents under a few recurring categories so I do not drown in details.
+
+## Turn 14 — 2022-02-03T09:18:00.000Z (agent)
+
+Yes, categories will keep the review useful. I would start with a short list, missed truck or late truck, partial fill, freezer bottleneck, substitution type, and whether the issue was caught before service or during service. That gives you a way to compare campuses without flattening what is unique about each one. You can always add nuance later, but early structure is what turns raw stress into usable operations data.
+
+## Turn 15 — 2022-02-03T09:21:00.000Z (user)
+
+I like the before-service versus during-service distinction, because those are completely different levels of damage. If a campus catches it early, there is at least a chance to pivot calmly. Once service is starting, everybody looks like they failed even if the problem began hours earlier. I think that is part of why this bothered me so much.
+
+## Turn 16 — 2022-02-03T09:25:00.000Z (agent)
+
+Exactly, the visible chaos at service time can erase the hidden lead-up. If your folder captures when the problem became visible to the campus, you are documenting the gap between the original failure and the moment staff got boxed in. That is powerful because it helps separate preventable logistics breakdowns from on-the-spot kitchen decisions. It also gives you a cleaner story when you eventually share this upward.
+
+## Turn 17 — 2022-02-03T09:27:00.000Z (user)
+
+I had not thought of it as documenting that gap, but that is exactly what it is. Another thing I noticed is that this whole episode sharpened something in me, I get very evidence-minded when vendor problems start rippling. I save screenshots, write down weird timing details, and keep records because I do not trust people to remember the day accurately once the pressure passes. That sounds a little intense when I say it out loud.
+
+## Turn 18 — 2022-02-03T09:30:00.000Z (agent)
+
+It is intense, but not irrational. In a system where the mess gets normalized quickly, preserving the record is one of the few ways to protect what really happened from getting softened into vague hindsight. The key is making that instinct work for you instead of owning you, so the record has a purpose, not just a pile. A one-page summary template at the front of each incident could help, because it forces the evidence toward a conclusion.
+
+## Turn 19 — 2022-02-03T09:34:00.000Z (user)
+
+A summary sheet would help me stop hoarding details. I could do incident date, campuses affected, trigger, substitutions, storage factor, and what should be checked next time. Then the deeper backup documents can sit behind it if I need them. Do you think that is enough for now, or should I add something about who first reported the issue?
+
+## Turn 20 — 2022-02-03T09:36:00.000Z (agent)
+
+I would add first reported by and first reported time, but keep it factual, not personal. That detail helps establish when the campus became aware, and it can reveal whether the warehouse, the vendor, or the site itself was operating with different information. Your draft already sounds strong because it is not trying to capture everything, it is trying to preserve the few details that explain the day. That makes the folder usable instead of intimidating.
+
+## Turn 21 — 2022-02-03T09:39:00.000Z (user)
+
+Usable instead of intimidating is exactly the line I need. I know myself, if it gets too complicated I will avoid it on the busiest days, which defeats the whole point. I also keep thinking about whether this should stay as an internal habit or become something I intentionally build into how I do the job from now on. It feels like my role just got bigger, even though nobody officially changed it.
+
+## Turn 22 — 2022-02-03T09:43:00.000Z (agent)
+
+It probably did get bigger, at least in practice. You are still doing the same core work, but now you are also acting like an internal reviewer of failure points, and that can become part of your value if you shape it carefully. I would not announce it as a whole new function yet, but I would treat this incident as the pilot version of a repeatable process. If the next few entries show clear patterns, then you have something real, not just a reaction to one bad Monday.
+
+## Turn 23 — 2022-02-03T09:45:00.000Z (user)
+
+Calling it a pilot helps me breathe a little. That makes it feel less like I am taking on a secret second job forever and more like I am testing a better way to respond when this happens. I also think I need to be honest that the miss left me more vigilant and tired than usual. I am still steady overall, but I can feel myself scanning for the next failure before anything has even gone wrong.
+
+## Turn 24 — 2022-02-03T09:48:00.000Z (agent)
+
+That is a very clear read on yourself, and it matters. Vigilance can help you catch weak points, but if it stays switched on all day, every day, it will start draining judgment instead of sharpening it. For this week, I would pair the pilot with one containment rule, maybe no incident-folder work after a certain evening hour, or no reviewing texts once your summary is written. Small limits are often what keep good systems from becoming personal burnout systems.
+
+## Turn 25 — 2022-02-03T09:52:00.000Z (user)
+
+I can do that. I think my rule should be that once I finish the daily summary, I do not reopen the texts that night. That would stop the doom-loop part of it. Tomorrow I want to build the template, ask for verification from the two people I trust most on this, and start entering this Monday as the first full incident. That feels like a real next step.
+
+## Turn 26 — 2022-02-03T09:54:00.000Z (agent)
+
+That is a solid plan, and it is sequenced well. Template first gives the review shape, verification next keeps it credible, and entering the Monday incident turns the whole thing from intention into practice. You are not just reacting to a bad day, you are creating a record that can show where the system failed and where campuses got cornered. That is exactly the kind of first step that can grow into something meaningful without needing to be oversized on day one.
+
+## Turn 27 — 2022-02-03T09:57:00.000Z (user)
+
+Yeah, I think that is where I am landing. I do not feel calm exactly, but I feel more pointed, like I know what I am trying to prove and how to do it without making the whole thing messy. This was the first time I really felt that missed trucks and emergency substitutions should be treated as district-level incident data, not just everybody's bad luck for the day. I am going to start there and see what the pattern shows.
+
+## Turn 28 — 2022-02-03T10:01:00.000Z (agent)
+
+That sounds like the right place to land for now. You do not need to settle the whole system at once, you just need to capture this clearly enough that the pattern cannot be shrugged off later. Starting with district-level incident data is practical and grounded, and it protects the people closest to service from being left with the blame when the cause lived elsewhere. Keep the first version lean, and let the pattern earn the next step.

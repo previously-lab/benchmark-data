@@ -1,0 +1,130 @@
+---
+slice_id: 2022-01-22-0840
+focus: "A lot has shifted lately, and work just crossed into a different category for me"
+status: closed
+start: "2022-01-22T08:40:00.000Z"
+end: "2022-01-22T10:01:00.000Z"
+timezone: America/Chicago
+summary: "Gordon names Marisa as the internal lead on the oyster-habitat expansion to two new sites; she processes the shift from field supervision to permit coordination, public presentations, and team communication."
+decisions:
+  - "Marisa is now the named internal lead on Pierce County Surface Water Management's oyster-habitat expansion package for t"
+tags:
+  - oyster-habitat-lead-role
+  - shoreline-strategy-meeting
+  - gordon-whitaker-handoff
+  - permit-coordination-expansion
+  - public-speaking-leadership
+  - internal-team-communication
+emotional_tone: "mixed"
+---
+## Turn 1 — 2022-01-22T08:40:00.000Z (user)
+
+A lot has shifted lately, and work just crossed into a different category for me. I knew things were getting more visible, but this week it became official in a way that feels bigger than the usual shuffle. Gordon had me lead a shoreline strategy meeting, and by the end of it I was the named internal lead on the oyster-habitat expansion package for two new sites beyond the pilot. So I am still doing my regular supervisor job, but now I am also the point person for permits and public-facing pieces on this expansion.
+
+## Turn 2 — 2022-01-22T08:42:00.000Z (agent)
+
+That does sound like a real threshold, not just another task landing on your desk. Having him put you at the head of the table and then name you as the internal lead is a handoff, especially if he has usually buffered the more political side of the work. It also lines up with the bigger thing you care about, building something sturdy enough to last beyond one season and one person. What made it feel most real in the room, the formal assignment itself or the way everyone started looking to you for the next move?
+
+## Turn 3 — 2022-01-22T08:45:00.000Z (user)
+
+Honestly, it was the room. We had permit maps, benthic survey printouts, and tribal coordination notes spread all over the table, and people kept turning back to me when the conversation got stuck between field reality and what the paperwork could support. Gordon was there, but he was more like a backstop than the lead. I could feel that shift happening while it was happening, which was both satisfying and a little nauseating.
+
+## Turn 4 — 2022-01-22T08:49:00.000Z (agent)
+
+That kind of moment is clarifying because it tells you what people already trust you with. They are not just asking who can run crews, they are leaning on the person who can connect site conditions, permits, and coordination without dropping any of the pieces. Since the expansion package covers two additional shoreline sites and is the first effort of that kind for the program, I would treat the next few weeks as architecture, not admin. If you had to define the three things that cannot get sloppy right now, what are they?
+
+## Turn 5 — 2022-01-22T08:51:00.000Z (user)
+
+The first is scope, because I do not want this to quietly turn into vague ambition with no boundaries. The second is sequence, since if I let the permit track, tribal coordination, and site strategy all move in a messy pile, I will lose weeks. The third is how I talk about it in public, because this is not just maintaining the pilot, it is expanding beyond it, and that changes how people hear it. I keep wondering whether I should spend my energy making the internal plan airtight first or start shaping the public story now so I am not chasing it later.
+
+## Turn 6 — 2022-01-22T08:54:00.000Z (agent)
+
+You are right to separate those, because they fail in different ways. If the internal plan is mushy, the work stalls, but if the public framing is fuzzy, people project their own fears onto it and you spend months cleaning that up. I would build a lean internal spine first, one page if possible: purpose, why these two sites, what decisions depend on permitting, what depends on coordination, and what is not being promised yet. Then use that same spine as the basis for the public version so you are not inventing two different stories.
+
+## Turn 7 — 2022-01-22T08:58:00.000Z (user)
+
+That makes sense, especially the part about not inventing two stories. I think what is rattling me is that my role is clearly shifting further away from just field supervision and more toward permit coordination and presentations. I can do it, but it uses a different part of me, and by the end of that meeting I was more drained from talking than I usually am after a cold field day. Do you read that as normal adjustment pain, or a warning that I need to guard my time harder right away?
+
+## Turn 8 — 2022-01-22T09:00:00.000Z (agent)
+
+I read it mostly as normal adjustment pain, but with a real risk if you keep pretending the new work costs the same energy as the old work. Public presentations, permit wrangling, and tribal coordination all take a different kind of concentration, and they leave less margin than a day where your body is busy and your head can stay on one track. So yes, I would guard your time now, not because you are failing, but because this is a different job shape than the one you had even a month ago. Where do you feel the squeeze first, calendar, attention, or recovery afterward?
+
+## Turn 9 — 2022-01-22T09:03:00.000Z (user)
+
+Attention, probably. I can already feel how easy it would be to spend the whole day replying to little pieces from different directions and then realize I did not actually move the package forward. And recovery afterward too, if I am honest. I attached another picture because this was basically my view for half the afternoon, notes everywhere, site comments, arrows, who needs what from whom, and it all looks organized until I am the one responsible for turning it into an actual county package.
+
+## Turn 10 — 2022-01-22T09:07:00.000Z (agent)
+
+That desk photo has the exact look of a project crossing from concept into ownership. The danger now is not that you lack the substance, it is that every incoming detail starts feeling equally urgent when it is not. I would make a live triage sheet with only three columns, must move this week, waiting on others, and background noise. Also, with Daniel up in Puyallup and the usual co-parenting friction, protecting a couple of uninterrupted work blocks will probably matter more than trying to be constantly reachable.
+
+## Turn 11 — 2022-01-22T09:09:00.000Z (user)
+
+Yeah, a triage sheet would probably stop me from drowning in my own notes. And the constant reachability thing is exactly the trap. What I cannot quite gauge yet is whether I should ask for clearer backup from Gordon now, while he is still around, or if that makes me look less ready for the handoff he basically just made. I do not want to cling, but I also do not want to be fake-confident and miss something obvious.
+
+## Turn 12 — 2022-01-22T09:12:00.000Z (agent)
+
+Asking for backup is not the same as asking him to keep carrying it. In fact, the strongest version is specific: not "help me with everything," but "I want your read on the places this usually gets political, and I want a quick review before anything public goes out." That respects the handoff while still using his pattern recognition. I would frame it as extraction of institutional memory, not reassurance. Which parts do you most want from him before he steps back further, stakeholder read, sequencing, or the public-room instincts?
+
+## Turn 13 — 2022-01-22T09:16:00.000Z (user)
+
+Public-room instincts, definitely, and maybe where people tend to suddenly act surprised even when they have had the documents for weeks. The technical side I can track. It is the sideways county stuff that makes me feel like I missed a weather system rolling in. Also, this is the first county expansion package of this kind for our program, which makes it exciting but also means there is not really a clean old template I can hide behind. That part is weirdly making me second-guess my tone, like how firm versus exploratory I should sound.
+
+## Turn 14 — 2022-01-22T09:18:00.000Z (agent)
+
+That is a real tension, because first-of-its-kind work gets judged on confidence and humility at the same time. My read is that your tone should be firm on process and criteria, exploratory on outcomes that genuinely depend on review. In other words, sound settled about how decisions will be made, not prematurely settled about every result. Since there is no inherited template, you get to define a useful one, and that is a meaningful career step, not just extra paperwork. If you want, we can sketch a few phrases that sound grounded without sounding defensive.
+
+## Turn 15 — 2022-01-22T09:21:00.000Z (user)
+
+I would actually like that. The phrase I keep tripping over is how to describe the two new sites without making it sound like we already promised a finished build-out. I also want to say enough about why these sites rose to the top, because it was not random, but I do not want to bury people in technical language in the first five minutes. What would you prioritize saying first?
+
+## Turn 16 — 2022-01-22T09:25:00.000Z (agent)
+
+I would open with the purpose, then the basis for selection, then the current stage. Something like: the county is preparing an expansion package to evaluate two additional shoreline sites, chosen because the field data, site conditions, and coordination path make them the strongest next candidates beyond the pilot. Then immediately add what stage you are in, that this is a structured expansion effort and not a promise that every element is already approved. That gives people a frame before they start filling in the blanks themselves.
+
+## Turn 17 — 2022-01-22T09:27:00.000Z (user)
+
+That is cleaner than what I had. I think I have been trying to sound so careful that I end up sounding foggy. The bigger thing I am noticing is that this assignment fits the kind of work people keep handing me when it needs both field credibility and permit detail, which is flattering, but it also means I cannot just bulldoze through it on stamina. Do you think I should be more explicit with my team that my time is shifting, or just let them see it through the calendar changes?
+
+## Turn 18 — 2022-01-22T09:30:00.000Z (agent)
+
+Be explicit. If you only let them infer it from your calendar, they are more likely to read the change as withdrawal or inconsistency instead of a deliberate shift in responsibility. A short, plain explanation helps, especially if you tell them what is staying with you, what they may own more directly, and how decisions will still flow. That protects trust and makes the role change legible instead of mysterious.
+
+## Turn 19 — 2022-01-22T09:34:00.000Z (user)
+
+That lands. They are good in the field, but vague leadership changes make everyone edgy, and I do not want rumors to do the translation for me. I am also thinking about whether to tell them this is really an expansion push beyond the pilot, not just maintenance plus prettier binders. Part of me thinks that would help them understand why the work mix is changing. Part of me worries it will sound like I am making a speech.
+
+## Turn 20 — 2022-01-22T09:36:00.000Z (agent)
+
+You do not need a speech, just a clean sentence that tells the truth about the scale change. Saying this is the county's first package to expand beyond the pilot gives them a reason for the shift without turning it into theater. Then bring it back to what it means for the week to week, who handles what, what timelines matter, where you need sharper documentation. People usually tolerate change better when the reason and the practical impact arrive together.
+
+## Turn 21 — 2022-01-22T09:39:00.000Z (user)
+
+Okay, that helps me picture it. I think what I need most is to stop treating this like a temporary burst and start treating it like an actual role expansion, because that is what it is now. There is also a pride piece in it that I have been trying to downplay. This is the first time it feels like the habitat work might become something more durable than one pilot and one person improvising around it. I do not want to get sentimental about county paperwork, but it matters to me.
+
+## Turn 22 — 2022-01-22T09:43:00.000Z (agent)
+
+You are allowed to care about that without rolling your eyes at yourself. The paperwork is not the point, the point is that formal structure is how fragile work stops disappearing when weather, turnover, or budget pressure hits. What you are describing is a shift from keeping something alive to building something that can hold. That is exactly why this assignment carries more emotional weight than a normal stack of documents.
+
+## Turn 23 — 2022-01-22T09:45:00.000Z (user)
+
+Yeah, that is exactly it. I think I needed to hear someone say that the administrative part is not separate from the habitat part, it is how the habitat part survives. So here is where I am leaning now: make the one-page internal spine, ask Gordon for a focused conversation about public-room traps, and tell my team plainly that my role is shifting toward coordination and presentations because this package is expanding to two new sites. Does that sound like the right order to you?
+
+## Turn 24 — 2022-01-22T09:48:00.000Z (agent)
+
+Yes, that order is solid because it starts with clarity, then borrows experience, then communicates outward from a steadier base. I would add one small thing, put dates on those first two steps so they do not stay as good intentions floating around your head. And when you talk to your team, keep one concrete ask ready for them, so the conversation feels operational, not just explanatory. What would be the easiest deadline to set first, the one-page spine or the check-in with Gordon?
+
+## Turn 25 — 2022-01-22T09:52:00.000Z (user)
+
+The one-page spine first, probably by tomorrow afternoon if I keep it lean. If I wait on that, I will just keep carrying the whole thing around in fragments. Then I can go to Gordon with something specific instead of a cloud of anxiety and legal-pad scribbles. I think that would also make me calmer before I talk to the team.
+
+## Turn 26 — 2022-01-22T09:54:00.000Z (agent)
+
+That is a smart sequence, because a rough page beats a perfectly imagined plan that never gets written. Once it exists, you can see the gaps instead of just feeling them. When you draft it, be ruthless about what belongs there now versus what is tempting but premature. The document's job is to hold the project steady, not prove that you have already solved every future meeting.
+
+## Turn 27 — 2022-01-22T09:57:00.000Z (user)
+
+Right, steady not exhaustive. I feel a lot less jangly than I did when I started telling you about this. I am still intimidated, but it feels more like real responsibility than like I got shoved onto a stage with no shoes. I will draft the spine tomorrow, pull Gordon in for the political-weather read, and stop pretending this is still just crew supervision with a few extra meetings.
+
+## Turn 28 — 2022-01-22T10:01:00.000Z (agent)
+
+That sounds like you have already crossed from reacting to leading. You do not need to erase the intimidation, you just need a structure sturdy enough that it does not run the room. This was a genuine handoff, and you are meeting it in a way that fits the trust people are already placing in you. When you have the spine drafted, bring it back and we can tighten the language before you use it more publicly.

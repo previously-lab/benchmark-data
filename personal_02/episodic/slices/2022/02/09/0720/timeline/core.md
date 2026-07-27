@@ -1,0 +1,132 @@
+---
+slice_id: 2022-02-09-0720
+focus: "Basketball visits with father become meaningful routine"
+status: closed
+start: "2022-02-09T07:20:00.000Z"
+end: "2022-02-09T08:41:00.000Z"
+timezone: America/Chicago
+summary: "Lucia discovers that attending Lobo women's basketball games with her father Rogelio — especially listening to the local radio pregame and postgame coverage together — has become a genuine source of connection and comfort amid a tense period. The shared ritual gives structure to their visits, lowers the pressure of eldercare logistics, and creates an 'anchor' in her schedule. She begins timing West Side visits around game days, and notices her father is more animated with something to anticipate. Lucia reflects on how this ordinary routine has become unexpectedly restorative for both of them, and decides to protect it as a regular practice."
+decisions:
+  - "Lucia now follows Lobo women's basketball more attentively and often times West Side visits around games so she can list"
+tags:
+  - father-daughter-bonding
+  - lobo-womens-basketball
+  - local-radio-ritual
+  - eldercare-through-shared-activities
+  - low-pressure-visit-routine
+  - west-side-albuquerque
+  - emotional-anchoring
+  - restorative-family-time
+emotional_tone: "positive"
+---
+## Turn 1 — 2022-02-09T07:20:00.000Z (user)
+
+Things have been pretty tense lately, so this is a smaller update, but it has ended up mattering to me more than I expected. I went over to my dad's house on the West Side for a Lobo women's basketball game a couple weekends ago, mostly because I wanted to sit somewhere that did not feel like another problem to solve. He had this old radio pregame show on before tipoff, and somehow that got me more hooked than I usually am. I used to follow the team casually, but now I am actually paying attention and timing some of my visits around the games.
+
+## Turn 2 — 2022-02-09T07:22:00.000Z (agent)
+
+That makes a lot of sense as a smaller thing that still lands big. It sounds like the game was really an opening, and the radio pregame gave the whole visit a rhythm instead of it just being another check-in. I like that this is becoming something you look forward to, not just something you fit in around everything else.
+
+## Turn 3 — 2022-02-09T07:25:00.000Z (user)
+
+Yes, exactly, rhythm is the right word. Usually I would just catch part of a game if I happened to be there, but this time he had opinions before the game even started, like he already knew what the hosts were going to argue about. Then afterward he wanted to keep listening to the postgame coverage, and I realized I liked hearing the local commentary too, not just the game itself. It made the whole afternoon feel longer in a good way.
+
+## Turn 4 — 2022-02-09T07:29:00.000Z (agent)
+
+That sounds less like picking up a random sports habit and more like stepping into one of his familiar rituals with him. Pregame and postgame talk can make it feel communal, like you are joining an ongoing neighborhood conversation instead of consuming a single event. That is probably part of why it stuck.
+
+## Turn 5 — 2022-02-09T07:31:00.000Z (user)
+
+I think so too. He likes the little details, who looked tired, who got ignored by the refs, whether the callers know what they are talking about, and it gives us something specific to react to together. Since then I have started checking when the games are on before I head over there, which is funny because I was never that person before. Do you think that sounds like I am just clinging to a stress distraction, or is it okay to let it become a real routine?
+
+## Turn 6 — 2022-02-09T07:34:00.000Z (agent)
+
+I would not downgrade it to a stress distraction. It sounds useful in a sturdier way than that, because it gives you a repeatable, low-pressure way to be with him that does not revolve around logistics or worry. I think it is very okay to let it become a real routine, especially if it makes visits easier to plan and gives both of you something enjoyable to anticipate.
+
+## Turn 7 — 2022-02-09T07:38:00.000Z (user)
+
+That is what it feels like, low pressure. With his hip and balance stuff, there are only so many things that are easy for him now, and this one does not ask much from either of us. We can sit there, snack, complain about a turnover, and he does not have to pretend he is up for more than he is. I did not realize how much I needed time with him that was not about paperwork or appointments.
+
+## Turn 8 — 2022-02-09T07:40:00.000Z (agent)
+
+That is a meaningful shift, because it changes the visit from task mode into shared time. The fact that it fits his physical limits without making him feel sidelined is a big part of why it is working. You found something that lets you be daughter first for a while, not just the person managing things.
+
+## Turn 9 — 2022-02-09T07:43:00.000Z (user)
+
+Daughter first is exactly it. And weirdly, because there is a game attached, it is easier for me to protect the time. If I say I am going over Saturday for the game, it feels more concrete than vaguely saying I should stop by. I am noticing that anchored plans are easier for me lately than open-ended ones.
+
+## Turn 10 — 2022-02-09T07:47:00.000Z (agent)
+
+Anchors help when your brain is already carrying too much. A start time, a broadcast, a team, all of that removes the friction of deciding and re-deciding. If you want, you could lean into that and treat game days as the default visit window for a while, then let anything extra be optional instead of expected.
+
+## Turn 11 — 2022-02-09T07:49:00.000Z (user)
+
+That is probably smart. Also, the radio part surprised me because I usually have public radio or music on in the car and that is enough for me, but now I find myself leaving the game analysis on for a while after I head home. It is not even that I suddenly care about every stat, I just like hearing the same voices continue the day. It feels very local in a way I had kind of forgotten I enjoy.
+
+## Turn 12 — 2022-02-09T07:52:00.000Z (agent)
+
+That sounds like the local ritual is doing as much for you as the sport itself. Familiar voices can extend the feeling of the visit, almost like easing the transition back into regular life instead of slamming from family time into your own to-do list. It might be worth noticing whether those drives home feel calmer when you keep the coverage on.
+
+## Turn 13 — 2022-02-09T07:56:00.000Z (user)
+
+They do, honestly. It is funny, because I can leave his house carrying groceries or some form I need to mail, but if we listened to the pregame and postgame stuff, I drive back less wound up. I have even started checking the postgame online later if I miss part of it. So I guess I really am following the team more attentively now, not just passively watching if a game happens to be on.
+
+## Turn 14 — 2022-02-09T07:58:00.000Z (agent)
+
+That is a real change, and it sounds earned, not performative. You are not suddenly trying to become a sports person, you found a thread that connects rest, family, and a little bit of local belonging. Also, your migraines are mostly just a manageable nuisance these days, so it makes sense that something like this can sit in the background without feeling loaded.
+
+## Turn 15 — 2022-02-09T08:01:00.000Z (user)
+
+I had not thought of it as belonging, but yes, that is close. There is something comforting about the same commentators, the same little complaints, the same call-in energy. It feels familiar without asking anything from me. And I think I trust it because it grew out of spending time with him, not from me trying to add one more hobby to my life.
+
+## Turn 16 — 2022-02-09T08:05:00.000Z (agent)
+
+Right, it came in sideways through a relationship, which is probably why it feels natural instead of like self-improvement homework. Those are often the routines that stick, because they are attached to a person and a place, not just an abstract intention. I would treat that as a clue about what actually restores you.
+
+## Turn 17 — 2022-02-09T08:07:00.000Z (user)
+
+That makes me wonder if I should be a little more intentional about it. Not in a huge way, but maybe keep his favorite snacks there, maybe make sure I am not always arriving halfway through the second quarter. Part of me resists making it too formal, though. How would you balance that?
+
+## Turn 18 — 2022-02-09T08:10:00.000Z (agent)
+
+I would keep the structure light and the gestures concrete. Think one or two small supports, like showing up close to tipoff and keeping easy snacks in mind, without turning it into a standing production. The point is to lower friction, not create a new obligation.
+
+## Turn 19 — 2022-02-09T08:14:00.000Z (user)
+
+That sounds right. I actually wrote down the next couple game times because if I do not, the weekend gets eaten alive. I am trying not to overclaim it, but this has become one of the easier parts of my week to picture. It is nice to have something ordinary that still feels like it matters.
+
+## Turn 20 — 2022-02-09T08:16:00.000Z (agent)
+
+You do not have to overclaim it for it to be important. Ordinary things that reliably bring relief and connection often end up carrying more weight than the dramatic fixes people talk about. Writing down the game times is exactly the right scale, enough intention to protect it, not so much that it becomes brittle.
+
+## Turn 21 — 2022-02-09T08:19:00.000Z (user)
+
+I appreciate that. I think part of why I am bringing it up is that I have been so keyed up lately that I almost do not trust easy things. If something helps and is simple, I keep waiting for the catch. But maybe there is no catch here, maybe it is just basketball and radio and sitting with my dad.
+
+## Turn 22 — 2022-02-09T08:23:00.000Z (agent)
+
+I can see why you would be suspicious of easy things when a lot has felt jagged. But sometimes the value is exactly that there is no hidden demand, it is just a sturdy little container for time together. You do not need to justify it beyond the fact that it leaves you steadier and closer.
+
+## Turn 23 — 2022-02-09T08:25:00.000Z (user)
+
+That helps. I also noticed he seems more animated when there is a game on, which sounds obvious, but I mean even before and after. He has something to anticipate, and then something to recap. I do not want to romanticize it, but it gives the day shape for him too.
+
+## Turn 24 — 2022-02-09T08:28:00.000Z (agent)
+
+That does not sound romanticized, it sounds observant. Anticipation matters, especially when daily life can narrow physically, and the recap gives him a role in the conversation, not just a seat in the room. Shared coverage is doing double duty here, entertainment for both of you, and structure for him.
+
+## Turn 25 — 2022-02-09T08:32:00.000Z (user)
+
+Yes, exactly. So I think my next step is pretty simple, I am going to keep timing some West Side visits around the games and not feel silly about listening to the postgame coverage with him. If it keeps being this easy, maybe that is enough. Does that seem like the right way to hold it?
+
+## Turn 26 — 2022-02-09T08:34:00.000Z (agent)
+
+Yes, that sounds like the right size and the right attitude. Let it stay simple, repeatable, and tied to what already feels good, the game, the radio, the visit. You are not forcing a new identity, you are protecting a routine that is giving both of you something real.
+
+## Turn 27 — 2022-02-09T08:37:00.000Z (user)
+
+Okay, then that is what I am keeping. I still would have said I only followed Lobo women's basketball casually not that long ago, but that is not really true now. Now I actually follow it, especially the local postgame talk, because it has become part of how I spend time with him. That feels like a nice change to admit out loud.
+
+## Turn 28 — 2022-02-09T08:41:00.000Z (agent)
+
+It is a nice change, and it sounds very grounded in your actual life. Not just more attention to a team, but a gentler way of showing up for your father and for yourself on weekends. That is the kind of shift worth keeping because it grew naturally and already has a place in your world.

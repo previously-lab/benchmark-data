@@ -1,0 +1,137 @@
+---
+slice_id: 2024-02-26-0445
+focus: "Ariana breaks down crying before work and starts short-term counseling for burnout"
+status: closed
+start: "2024-02-26T04:45:00.000Z"
+end: "2024-02-26T06:06:00.000Z"
+timezone: America/Chicago
+summary: "Ariana breaks down crying in her car before work, recognizing she is burned out from carrying the archive expansion plus the metadata contract. She starts short-term counseling focused on burnout, guilt, poor sleep, and the belief that rest endangers others' history."
+decisions:
+  - "Counseling is focused mainly on Ariana's burnout, guilt, poor sleep, and her belief that resting could put other people'"
+tags:
+  - burnout-crisis
+  - crying-in-car
+  - counseling-start
+  - guilt-and-rest
+  - sleep-deprivation
+  - moral-urgency
+  - overextension
+  - shutdown-routine
+open_loops:
+  - Building an end-of-night shutdown routine to separate work from sleep
+  - Creating an 'actual urgent vs. emotionally urgent' two-column note
+  - Setting clearer after-hours limits at work without full disclosure of counseling
+  - Triage the metadata contract by committed vs. reducible pieces
+emotional_tone: "negative"
+---
+## Turn 1 — 2024-02-26T04:45:00.000Z (user)
+
+A lot has shifted lately, and I hit a point this week that scared me enough to finally say it out loud. I sat in my car before work and just broke down crying, full body, couldn't really pull it together for a minute. It has been months of carrying the archive expansion plus that little outside metadata contract, and I think I kept acting like if I could just get through one more week I'd be fine. Instead I wound up realizing I am not fine.
+
+## Turn 2 — 2024-02-26T04:47:00.000Z (agent)
+
+That sounds like the kind of moment your body forces when you've been overriding yourself for too long. The part that stands out is that this happened before the day even started, which usually means the strain is no longer about one bad afternoon, it's become the baseline. I'm glad you noticed it as a real warning instead of something to be embarrassed by.
+
+## Turn 3 — 2024-02-26T04:50:00.000Z (user)
+
+Yeah, baseline is exactly it. The awful part is I have gotten some support recently, so on paper things are supposed to be less dependent on me, but inside my head I still act like if I loosen my grip then something important gets lost or delayed or damaged. I called a local clinic after that and got set up for short-term counseling, which honestly felt both dramatic and overdue. I am still trying to decide whether that means I caught this in time or waited too long.
+
+## Turn 4 — 2024-02-26T04:54:00.000Z (agent)
+
+Starting counseling after the breakdown sounds timely, not dramatic. A lot of people wait until the crash becomes public, or costs them work, relationships, or health in a bigger way. The fact that you moved quickly tells me some part of you knew the current way of carrying everything was no longer workable.
+
+## Turn 5 — 2024-02-26T04:56:00.000Z (user)
+
+I had the first appointment already, and I was surprised by how fast I started crying again once I tried to explain the feeling. The main things we circled were burnout, guilt, and sleep, but also this belief I have that rest is not neutral for me, like if I rest then somebody else's history is the thing that pays for it. Saying that out loud made me hear how extreme it sounds, but it also still feels true in my chest. Does that sound like a thought I should be pushing back on right away, or just noticing first?
+
+## Turn 6 — 2024-02-26T04:59:00.000Z (agent)
+
+Noticing first is probably the better starting move, because if you argue with it too early you may just harden it. What you said has the shape of a moral equation, not just a stress thought, so it makes sense that it feels deep and stubborn. In the first stretch of counseling, it may help to track the exact moments that sentence shows up, especially around bedtime, before days off, or when a task is unfinished.
+
+## Turn 7 — 2024-02-26T05:03:00.000Z (user)
+
+That makes sense. Sleep is where it gets especially ugly, because I lie there trying to remember what still needs follow-up, then I half-dream about files and permissions and people waiting on me. My hands are already enough of a nuisance lately, and being tired seems to make everything feel sharper and itchier and harder to manage. I do think the clinic counselor saw pretty quickly that I am not just tired, I am carrying this like a responsibility test.
+
+## Turn 8 — 2024-02-26T05:05:00.000Z (agent)
+
+That connection between poor sleep, body irritation, and guilt loops is important, because it means rest is not some luxury add-on here, it's part of keeping you functional. Since you work at Tremé Heritage Center because the neighborhood preservation mission matters so much to you, it makes sense that your brain turns every unfinished piece into a referendum on whether you're doing right by people. It may help to build a tiny shutdown routine at night, something concrete enough to tell your mind, today's stewardship has ended.
+
+## Turn 9 — 2024-02-26T05:08:00.000Z (user)
+
+A shutdown routine might actually help because right now I end my nights in this blurry way where work just leaks into sleep. And you're right that unfinished things start to feel moral instead of practical. The weird part is counseling already gave me better language for it, like now I can say burnout and guilt instead of just telling myself to toughen up. I do not feel magically better, the archive still feels urgent, but I feel a little less alone inside it.
+
+## Turn 10 — 2024-02-26T05:12:00.000Z (agent)
+
+That is real progress, even if it feels modest. Being able to name burnout and guilt changes what kind of help you can accept, because unnamed pressure always tries to disguise itself as character. If the urgency is still there but you feel a little more supported, that is actually a believable first shift, not a fake one.
+
+## Turn 11 — 2024-02-26T05:14:00.000Z (user)
+
+Believable is a good word for it. I think part of why I kept going so long was money too, because between the car repair and medical stuff, that extra contract felt necessary even though I did not want one more screen-heavy thing in my life. So now I am trying to figure out whether the smarter move is to finish it and never do that again for a while, or see if I can back off before it finishes. I hate that the answer is not just emotional, it is practical too.
+
+## Turn 12 — 2024-02-26T05:17:00.000Z (agent)
+
+It makes sense that this isn't a clean mental health decision when money is braided into it. My instinct would be to sort the contract by what is already committed, what can be simplified, and what actually pays enough to justify the drain, instead of treating it as all or nothing. If you can reduce the most screen-heavy pieces without blowing up the income entirely, that could buy you recovery room without adding fresh panic.
+
+## Turn 13 — 2024-02-26T05:21:00.000Z (user)
+
+I like the idea of sorting it instead of making some dramatic vow. There is a part of me that wants to prove I can still finish everything because the breakdown felt humiliating, which is probably not the best reason to keep pushing. At home, the person I live with has been telling me for a while to protect evenings better, and now I can see that was not nagging, it was accurate. How would you prioritize, if the goal is to not slide right back into the same pattern next week?
+
+## Turn 14 — 2024-02-26T05:23:00.000Z (agent)
+
+I would prioritize in this order: sleep protection, reducing avoidable after-hours work, then deciding what the contract realistically demands. The reason is simple, if you're sleep-deprived, every boundary gets weaker and every unfinished task feels more urgent than it is. The person at home was seeing the pattern from the outside, and now you have enough evidence to treat those protected evenings as structural, not optional.
+
+## Turn 15 — 2024-02-26T05:26:00.000Z (user)
+
+That lands. I think I kept treating evenings like bonus time I could raid if the day went sideways, and then acting surprised when nothing felt restored. I actually took a picture of my kitchen table last night because it looked like a whole second shift sitting there, laptop open, notes spread out, tea gone cold. Seeing it from a few feet back made it look less noble and more bleak.
+
+## Turn 16 — 2024-02-26T05:30:00.000Z (agent)
+
+That image says a lot. When work sets up camp in the middle of home like that, your brain never gets the cue that the day is over, so of course sleep stays uneven. A practical experiment might be to physically close down one surface, even if the work itself is not finished, just so your body is not staring at an unfinished shift while you're trying to have an evening.
+
+## Turn 17 — 2024-02-26T05:32:00.000Z (user)
+
+I can do that. I also keep wondering how much to say at work, because I do not want to turn a private health thing into a whole announcement, but I also know I cannot keep performing endless capacity. I am still overseeing the bigger access program there, and I do not want people to hear burnout and assume I am dropping the thread. Is it enough to ask for clearer limits without explaining everything?
+
+## Turn 18 — 2024-02-26T05:35:00.000Z (agent)
+
+Yes, clearer limits can stand on their own. You do not need to disclose the counseling or narrate the breakdown in order to say what is sustainable, especially if the goal is better pacing rather than stepping away entirely. A good middle path is to be specific about workflow, turnaround times, and after-hours availability, because that protects you without inviting people to debate your internal state.
+
+## Turn 19 — 2024-02-26T05:39:00.000Z (user)
+
+That helps, because I can say, these are the hours, these are the response times, this is what needs another set of hands. I think part of me still worries that if I stop behaving like the emergency backstop, people will quietly let things slip. But maybe counseling is helping me separate actual urgency from the version I carry around in my body. I am not all the way there, but at least I can hear the difference now.
+
+## Turn 20 — 2024-02-26T05:41:00.000Z (agent)
+
+That distinction is huge. If you can tell the difference between a genuine time-sensitive problem and a body-level alarm that fires at every loose end, you gain room to choose instead of react. It might help to keep a simple two-column note for a couple of weeks, actual urgent, emotionally urgent, so you can see whether your nervous system is over-labeling ordinary backlog.
+
+## Turn 21 — 2024-02-26T05:44:00.000Z (user)
+
+I am going to try that, because right now everything arrives in the same volume. Another thing I noticed after the first session is that I have been talking about myself like a container with a crack in it, not like a person who got overloaded. That shift sounds small, but it made me a little less ashamed. Have you seen people do better once they stop framing it as a character flaw?
+
+## Turn 22 — 2024-02-26T05:48:00.000Z (agent)
+
+Yes, very often. Shame keeps people busy proving they are still reliable, while a more accurate frame lets them make repairs that actually work. The moment you move from I am defective to I have been overloaded, choices like counseling, boundaries, and sleep protection stop looking like surrender and start looking like maintenance.
+
+## Turn 23 — 2024-02-26T05:50:00.000Z (user)
+
+That is probably the sentence I need to keep near me, maintenance instead of surrender. I have another counseling appointment next week, and I think I want to come in with a few real examples instead of speaking in giant abstract guilt clouds. Maybe the sleep notes, the actual urgent versus emotionally urgent list, and what happens on evenings when I do or do not shut things down. That seems more useful than just saying everything feels like too much.
+
+## Turn 24 — 2024-02-26T05:53:00.000Z (agent)
+
+That sounds like a strong way to use the next appointment. Bringing examples gives the counselor something to work with besides your endurance, and it may show patterns faster than talking in broad terms. I'd also add one question for that session, something like, what does enough look like when my work has no natural finish line, because that seems close to the center of this.
+
+## Turn 25 — 2024-02-26T05:57:00.000Z (user)
+
+That question gets right to it, honestly. My work really does not come with a satisfying done point, and I think I have been trying to create one by sacrificing more of myself than is reasonable. I am not suddenly cured or peaceful, but I do feel more supported than I did a week ago, mostly because there is now an actual place to take these thoughts instead of letting them run the whole house at night. I guess that is the update, I finally admitted this is burnout and started getting help.
+
+## Turn 26 — 2024-02-26T05:59:00.000Z (agent)
+
+That is a meaningful update, not a small one. You are still deeply committed, but now the burden has somewhere to go besides your body and your evenings, and that can change more than it seems at first. Even partial support matters when the urgency is still real.
+
+## Turn 27 — 2024-02-26T06:02:00.000Z (user)
+
+I think my next step is pretty plain now. I am going to keep the counseling appointments, make a real end-of-night shutdown routine, and stop pretending every open task deserves access to my whole evening. If I can get even a little more sleep and a little less guilt-soaked decision-making, that would already be a different month than the one I just had.
+
+## Turn 28 — 2024-02-26T06:06:00.000Z (agent)
+
+That is a solid, grounded plan. It is specific enough to be real, and gentle enough that you might actually keep doing it, which matters more than any heroic reset. If this month becomes the one where you stopped treating collapse as the price of caring, that would be a very important turn.

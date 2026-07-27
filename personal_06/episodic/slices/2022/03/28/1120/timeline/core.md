@@ -1,0 +1,129 @@
+---
+slice_id: 2022-03-28-1120
+focus: "Addressing work-related jaw tension, headaches, and sleep disruption with doctor-recommended routines"
+status: closed
+start: "2022-03-28T11:20:00.000Z"
+end: "2022-03-28T12:34:00.000Z"
+timezone: America/Chicago
+summary: "After weeks of late nights writing procedures and training the first student worker, Hannah's doctor helps her recognize that chronic jaw pain, 3am waking, and deadline anxiety are a pattern needing active management — not signs she just needs to be tougher."
+decisions:
+  - Hannah now uses stretching and heat therapy to keep deadline-related jaw tension and headaches from becoming constant.
+  - "Hannah has started using therapy worksheets, sleep boundaries, and physical tension tracking to manage work anxiety arou"
+tags:
+  - jaw-tension-headaches
+  - primary-care-intervention
+  - anxiety-management-routine
+  - physical-therapy-exercises
+  - sleep-boundaries
+  - tension-tracking-log
+  - work-stress-physical-symptoms
+  - evening-shutdown-routine
+open_loops:
+  - Build three-anchor evening routine: shutdown note, fixed heat/stretching time, simple tension log
+  - Define work boundaries in process terms (training blocks vs review windows) without personal-health disclosure
+  - Draft boundary sentences ahead of time for when pressure comes
+emotional_tone: "mixed"
+---
+## Turn 1 — 2022-03-28T11:20:00.000Z (user)
+
+Things have been pretty compressed lately, and I finally had one of those moments where I realized I was acting like a problem was just part of normal life when it really was not. After a few straight weeks of staying late to write procedures, train the first student worker, and still cover the routine loan stuff, I ended up telling my primary care doctor that my jaw pain, headaches, and waking up at 3 a.m. were basically becoming normal whenever deadlines piled up. Saying it out loud made it sound more serious than I had been treating it.
+
+## Turn 2 — 2022-03-28T11:22:00.000Z (agent)
+
+That sounds like an important line to have crossed, because once broken sleep and pain start feeling ordinary, people can normalize a lot more than they should. It also makes sense that the combination of extra training, procedure writing, and regular workload would push you there. What did your doctor want you to start with first, and did hearing it framed medically make it feel more manageable or more alarming?
+
+## Turn 3 — 2022-03-28T11:25:00.000Z (user)
+
+A little of both, honestly. She was not dramatic about it, which helped, but she was pretty clear that I should stop treating it like I just needed to be tougher. We landed on physical therapy style exercises, plus a more deliberate anxiety-management routine instead of me white-knuckling my way through busy stretches. I think I needed someone external to say, this is a pattern now.
+
+## Turn 4 — 2022-03-28T11:29:00.000Z (agent)
+
+That sounds like useful guidance, especially because it ties the physical symptoms and the anxious overdrive together instead of pretending they are separate. The big shift here is that you are not waiting for a crisis, you are building a maintenance routine. If you want, we can make the first version very small so it has a chance of surviving on busy days.
+
+## Turn 5 — 2022-03-28T11:31:00.000Z (user)
+
+Small is probably the only way this works. Right now I have been doing stretching and heat therapy, mostly for my jaw and neck, and it does seem to keep the headaches from turning into an all-day thing. I am trying to catch it earlier, before I get to that clenched, brittle feeling. Do you think it makes more sense to tie it to time of day or to stress cues?
+
+## Turn 6 — 2022-03-28T11:34:00.000Z (agent)
+
+I would probably use both, but give them different jobs. A fixed point like morning or after work is good for the baseline stretching, then a cue-based rule can catch the flare-up moments, like when you notice jaw clenching, shallow breathing, or that narrowed tunnel-vision feeling around a task. Since the headaches were making you wake at 3 a.m. and then creating the deadline stress, an evening wind-down piece might matter more than it seems at first.
+
+## Turn 7 — 2022-03-28T11:38:00.000Z (user)
+
+Yes, I think I need both even if I am not going to overengineer it. I have also started using a couple therapy worksheets and keeping a very basic tension log, just enough to notice when I am heading toward trouble. And I am trying to set actual sleep boundaries, which feels embarrassingly adult, like not answering one more email in bed because I suddenly remembered an insurance form.
+
+## Turn 8 — 2022-03-28T11:40:00.000Z (agent)
+
+That is not embarrassing, that is infrastructure. The worksheets, tension tracking, and sleep boundary all do slightly different things, which is good, because they keep the stress from staying vague and all-powerful. The work you do has a real risk component built into it, so anything that helps you separate "important" from "urgent at 11:40 p.m." is probably protective, not indulgent.
+
+## Turn 9 — 2022-03-28T11:43:00.000Z (user)
+
+That framing helps, actually. A lot of my anxiety does flare around the risk-heavy parts, shipping schedules, insurance paperwork, anything where one missed detail can become a whole institutional mess. So when I am lying there awake at 3 a.m., my brain always claims it is being responsible, even when it is obviously just spinning. I am still in the early cleanup pilot too, with the two storage rooms and the active loan files, so there is enough loose material around to feed that part of my brain.
+
+## Turn 10 — 2022-03-28T11:47:00.000Z (agent)
+
+Right, your brain is dressing rumination up as vigilance. Given that you are in that early pilot phase with limited room for error, it makes sense that your nervous system keeps trying to stay "on." One practical move is to define a shut-down note for the end of the day, one sentence on what is actually pending and the first next step, so your brain has less excuse to keep reopening the file at 3 a.m.
+
+## Turn 11 — 2022-03-28T11:49:00.000Z (user)
+
+I could do that. I think part of the problem is that everything has felt half-open lately, because I am writing procedures while also teaching someone how we do things while also still doing the normal work. It has been useful having another set of hands, but training somebody for the first time means I cannot just disappear into a task and finish it. How would you keep that from turning into constant ambient stress?
+
+## Turn 12 — 2022-03-28T11:52:00.000Z (agent)
+
+I would stop asking your brain to hold all three layers equally at once. For a few weeks, you could treat procedure writing, training, and routine operations as separate lanes with explicit ceilings, even if the ceilings are modest. Also, the person you live with seems like the kind of steady observer who notices when you are wound too tight, so it might help to name one visible sign she can call out before you are already in the headache zone.
+
+## Turn 13 — 2022-03-28T11:56:00.000Z (user)
+
+That is probably true. She clocked it before I really admitted it, because apparently I had started rubbing the side of my face while standing in the kitchen and staring at nothing. She has been gently telling me to heat up the wrap instead of pretending I am fine. I am not thrilled about being that readable, but it is useful.
+
+## Turn 14 — 2022-03-28T11:58:00.000Z (agent)
+
+Honestly, being a little readable is a gift when you are trying to change a pattern. The heat wrap on the couch, the kitchen pause, all of that gives you a chance to intervene earlier instead of discovering at midnight that the whole day was one long brace position. It may help to decide that when she notices one of those signs, your default response is not debate, it is five minutes of heat and stretching.
+
+## Turn 15 — 2022-03-28T12:01:00.000Z (user)
+
+I like the no-debate part. If I have to decide from scratch every time, I will absolutely argue myself out of it because something feels urgent. The thing I still feel weird about is whether this counts as a real health issue or just me finally being slightly more mature about stress. I know that sounds like a fake distinction, but it is in my head.
+
+## Turn 16 — 2022-03-28T12:05:00.000Z (agent)
+
+It sounds like a very real health issue that is being addressed early, which is the best version of having one. You do not need it to become dramatic before it earns attention. In a way, this is you refusing the old bargain where competence means absorbing pain, bad sleep, and constant tension without comment.
+
+## Turn 17 — 2022-03-28T12:07:00.000Z (user)
+
+That is probably the part that hit me hardest, honestly. I had started treating jaw pain, headaches, and lousy sleep like they were just what happened if you were being responsible during deadline periods. Once I told my doctor that it had become normal, I could hear how warped that sounded. So this does feel like me trying to stop building my work life around endurance alone.
+
+## Turn 18 — 2022-03-28T12:10:00.000Z (agent)
+
+Yes, and that is a meaningful shift, not a cosmetic one. Endurance is useful in short bursts, but it is terrible as a permanent operating system. If you keep pairing the physical care with the tension log and the sleep rules, you are teaching yourself to notice strain as information, not as a personal failing.
+
+## Turn 19 — 2022-03-28T12:14:00.000Z (user)
+
+I think that is what I want, information instead of drama. I also keep wondering if I should mention any of this at work in a limited way, not as a big disclosure, just enough to protect a little evening time. But I do not know if that opens a door I would rather keep shut.
+
+## Turn 20 — 2022-03-28T12:16:00.000Z (agent)
+
+You probably do not need a personal-health speech to change your boundaries. A cleaner approach is to talk in terms of process and reliability, like when training happens, when procedure drafting happens, and what truly requires after-hours response, especially because timeline pressure from above can easily spill into your body if nobody pushes back. That lets you protect time without turning your private symptoms into office currency.
+
+## Turn 21 — 2022-03-28T12:19:00.000Z (user)
+
+That feels much more like me. I would rather say, here is when I can review loan paperwork carefully and here is when training blocks are happening, than start talking about my jaw in the office. I can imagine writing down a few boundary sentences ahead of time so I do not get flustered. Does that seem too rehearsed?
+
+## Turn 22 — 2022-03-28T12:23:00.000Z (agent)
+
+No, rehearsed is good when you are trying to interrupt an old pattern. A few plain sentences prepared in advance can keep you from negotiating against yourself in the moment. I would make them short and operational, something like what you can review tonight, what waits until morning, and what needs a full block to do safely.
+
+## Turn 23 — 2022-03-28T12:25:00.000Z (user)
+
+Okay, that I can do. I also think I want to keep the tension log stupidly simple, maybe just a note if I wake up at 3, if I get the jaw clench feeling, and whether I did heat and stretching. If I make it into a color-coded masterpiece I will turn it into another work project. What would you prioritize first over the next week?
+
+## Turn 24 — 2022-03-28T12:28:00.000Z (agent)
+
+For one week, I would pick three anchors only. First, a brief evening shut-down note so the unfinished work is parked somewhere outside your head. Second, heat and stretching at a fixed time whether you feel terrible or not. Third, the very simple log you described, because you are looking for patterns, not trying to win at tracking.
+
+## Turn 25 — 2022-03-28T12:32:00.000Z (user)
+
+That sounds manageable, which is probably the best sign. I am still anxious, I do not think that part magically disappears, but it feels different to have an actual routine instead of just gritting my teeth and calling that professionalism. I guess the real update is that I finally admitted this needed attention, and now I am trying to treat it like maintenance instead of weakness.
+
+## Turn 26 — 2022-03-28T12:34:00.000Z (agent)
+
+That is a solid reframe, and it sounds earned. You are still yourself, still careful, still carrying real responsibility, but now you have a way to respond before the stress gets to write the whole script in your body. Maintenance is exactly the right word here, and starting it now should make the busy stretches less punishing.

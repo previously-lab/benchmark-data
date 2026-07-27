@@ -1,0 +1,122 @@
+---
+slice_id: 2023-10-02-2150
+focus: "A lot has been shifting again on the work side, and this time I feel like I fina"
+status: closed
+start: "2023-10-02T21:50:00.000Z"
+end: "2023-10-02T22:58:00.000Z"
+timezone: America/Chicago
+summary: "Probably the trailer entry piece first, because that one happens almost right away and people come i"
+decisions:
+  - "Jermaine entered peak season with a data-based temp orientation rebuilt from last year's exact first-week failure points"
+tags:
+  - temp-orientation-redesign
+  - peak-season-prep
+  - first-week-failure-points
+  - protected-training-block
+  - incident-timeline-based
+  - trailer-entry-safety
+  - blind-reversing-end-caps
+  - dock-plate-checks
+  - first-week-check-sheet
+  - training-vs-floor-override
+open_loops:
+  - Track two buckets: training misses vs. floor overrides
+  - End-of-week correction pass during first week
+  - Keep notes on what temps misunderstand most
+emotional_tone: "mixed"
+---
+## Turn 1 — 2023-10-02T21:50:00.000Z (user)
+
+A lot has been shifting again on the work side, and this time I feel like I finally turned some of the mess from before into something tighter. Heading into peak season, I rebuilt the temp orientation from last year's incident timeline instead of doing the usual broad safety reminder talk. I broke it around the exact first-week failure points, rushed trailer entry, blind reversing near end caps, and dock plate checks that kept getting skipped after lunch. The big part is operations agreed to protect that first-week training block, so in theory they are not supposed to cannibalize it the second volume jumps.
+
+## Turn 2 — 2023-10-02T21:52:00.000Z (agent)
+
+That sounds like a real step forward, not just a wording change. You moved from general warnings to training built around the exact ways people have been getting in trouble, and the protected first-week block matters because it gives the plan room to actually happen when pressure hits. It also fits the way you've been pushing this issue, using patterns and documentation instead of hoping people remember a speech. What part of the redesign do you think is going to change behavior fastest once the temps hit the floor?
+
+## Turn 3 — 2023-10-02T21:55:00.000Z (user)
+
+Probably the trailer entry piece first, because that one happens almost right away and people come in trying to move too fast. I stopped pretending they need a big all-season lecture and narrowed it down to the first week, because that is where the breakdowns keep starting. The old version was too generic, like everybody nods and then three hours later they are freelancing. I am glad they protected the block, but I still don't know if that holds once numbers start getting ugly.
+
+## Turn 4 — 2023-10-02T21:59:00.000Z (agent)
+
+Focusing on the first week is smart, because that's when habits get copied and shortcuts start looking normal. If rushed trailer entry is the earliest pressure point, you may want that section to be the shortest and most physical one, show, walk-through, then immediate repetition, so nobody leaves it as a concept. The real test probably is not whether people agree with you in the room, it is whether supervisors protect the same standard an hour later. Are you building any quick check that lets you see by day two or three whether the orientation is actually sticking?
+
+## Turn 5 — 2023-10-02T22:01:00.000Z (user)
+
+Yeah, I added a little first-week check sheet instead of waiting for a bigger review. Nothing fancy, just whether they entered trailers clean, whether they paused before backing near the end caps, and whether somebody actually verified the dock plate after lunch instead of assuming it was fine from earlier. I used the incident timeline as the base for all that, because I did not want this to turn into generic peak prep all over again. Do you think that is enough, or am I still being too soft on follow-through?
+
+## Turn 6 — 2023-10-02T22:04:00.000Z (agent)
+
+I don't think that's soft, I think it's usable, and usable beats elaborate when the floor gets busy. The only thing I'd tighten is ownership, each line should clearly point to who confirms it, not just whether it happened, because otherwise people will treat it like a nice reminder instead of a live control. Since operations agreed to protect this block, you have a good opening to tie that sheet directly to the handoff from training to the floor so nobody can say it was your job and not theirs.
+
+## Turn 7 — 2023-10-02T22:08:00.000Z (user)
+
+That handoff point is exactly where my head is. I can teach it, but once they get released, the dock can make the whole thing real or fake pretty fast. The blind reversing near the end caps is the one that worries me most on that side, because a temp sees somebody else cut a corner once and now it becomes normal. I have been trying to decide whether to keep this mostly simple or make a bigger issue of those first three days with the supervisors.
+
+## Turn 8 — 2023-10-02T22:10:00.000Z (agent)
+
+I would make the first three days the bigger issue, because that's where the social copying happens. A temp can sit through a clean orientation and still learn the wrong lesson from one rushed veteran. If you keep it simple, make it simple in format, not soft in expectation, especially around backing near end caps where one bad habit spreads fast. Which supervisors seem most likely to treat your first-week standards like actual rules instead of suggestions?
+
+## Turn 9 — 2023-10-02T22:13:00.000Z (user)
+
+A couple of them are on board if staffing is decent, but if the dock starts stacking up, that's where things slide. The protected block helps before they hit the floor, and that is already more backing than I had before volume spikes, but after that I still need the floor side to stop acting like speed erases risk. Sharon has been solid about pushing for stronger enforcement, and she liked that I wasn't just lecturing, I was showing exact failure points. Ramon is still the wild card because if he starts treating this like something optional under pressure, other people take that cue.
+
+## Turn 10 — 2023-10-02T22:17:00.000Z (agent)
+
+That reads clearly, you have one ally helping turn this into an operational standard, and one pressure point where the floor culture can still undercut it. Since Ramon can swing the tone on the dock, I would give him the shortest possible version of the ask, three first-week non-negotiables and the reason each one exists, so he can't hide behind 'too much to remember' when things tighten up. Also, it was helpful that Kayla helped the kids with homework at that desk in your townhouse during your longest shifts, because people like that usually give the blunt read on whether you're overcomplicating something or finally getting traction.
+
+## Turn 11 — 2023-10-02T22:19:00.000Z (user)
+
+Honestly, the shortest possible version may be the only version that gets heard once the dock gets loud. I already started trimming wording in the orientation packet because I could feel myself drifting into trainer language instead of floor language. What you said about non-negotiables is probably right, especially for those after-lunch dock plate checks because that's the kind of thing people skip when everybody thinks the day is already rolling. I am trying to make it hard for anyone to say they did not know what mattered most.
+
+## Turn 12 — 2023-10-02T22:22:00.000Z (agent)
+
+That is a strong instinct. When people are moving fast, clarity is its own safety control, and after-lunch checks are exactly the kind of thing that disappear into routine unless you call them out as a reset point. I'd boil your message down to three short lines that can live in the room and on the floor, not just in the packet: enter slow, back with sight and pause, recheck the plate after lunch. If you want, the next layer could be one sentence under each about what tends to go wrong when it's skipped.
+
+## Turn 13 — 2023-10-02T22:26:00.000Z (user)
+
+I like that better than how I had it written. The more I looked at it, the more I realized I was teaching like people had weeks to absorb it, when really I need it to land fast and stick under noise. I even put examples from the timeline into each section so it feels tied to real breakdowns, not just some corporate sheet. Do you think I should keep showing those examples in orientation, or does that risk turning into too much detail?
+
+## Turn 14 — 2023-10-02T22:28:00.000Z (agent)
+
+I would keep the examples, but only one per failure point. Real examples give the rule weight, and they show that the redesign came from an actual incident timeline rather than broad seasonal messaging, but too many stories will blur the point. Think of each example as a quick proof, not a case study, enough to make the risk feel real and then move straight back to the behavior you want.
+
+## Turn 15 — 2023-10-02T22:31:00.000Z (user)
+
+That makes sense, one proof each, then move on. I think part of why this feels different to me is that I am not just reacting after something happens, I am walking into peak with something built from the exact places it broke before. That gives me a little more confidence, but I still catch myself waiting for the first week to expose some hole I missed. I don't know if that is me being realistic or just worn out.
+
+## Turn 16 — 2023-10-02T22:35:00.000Z (agent)
+
+Probably both. You're being realistic because first contact with real volume always reveals something, but you're also carrying enough history with this problem that your brain is scanning for failure before it even arrives. The good news is that you've changed the kind of risk you're facing, it is no longer 'we have no structure,' it is 'which part of the structure needs adjusting first,' and that is a much better problem. I'd plan now for one end-of-week correction pass so you don't treat every small miss like proof the whole thing failed.
+
+## Turn 17 — 2023-10-02T22:37:00.000Z (user)
+
+I like framing it that way, because otherwise every little slip starts feeling like the old movie all over again. An end-of-week correction pass is probably smarter than me trying to patch everything in real time while I am already irritated. I was also thinking about keeping a very short note for myself on what temps misunderstand most, just so I can sharpen the next group without rewriting the whole thing. That feels manageable.
+
+## Turn 18 — 2023-10-02T22:40:00.000Z (agent)
+
+That is exactly the right scale. A short note on repeated misunderstandings turns your orientation into a living tool instead of a fixed packet, and it matches your habit of learning from patterns instead of relying on vibes. I would separate those notes into two buckets, 'they didn't understand' and 'they understood but the floor overrode it,' because those lead to very different fixes. One means training needs clarity, the other means operations needs accountability.
+
+## Turn 19 — 2023-10-02T22:44:00.000Z (user)
+
+That split is good, because I can already tell I lump those together when I get frustrated. If somebody misses the trailer entry procedure because I rushed it, that's on training. If they knew it and then copied a shortcut by day two, that's a floor problem. I may actually use that language when I talk to leadership, because it keeps me from sounding like I am just complaining. What would you prioritize if the first week gets messy in both ways at once?
+
+## Turn 20 — 2023-10-02T22:46:00.000Z (agent)
+
+I'd prioritize the floor override first, because that can erase even decent training faster than a wording problem can. If people are being shown one thing in orientation and another thing in the aisle, the culture wins every time, so I'd lock down the visible non-negotiables there while making smaller training edits in parallel. Then, once the mixed signals stop, you can tell whether any confusion is really a training flaw or just noise created by the floor.
+
+## Turn 21 — 2023-10-02T22:49:00.000Z (user)
+
+Yeah, that tracks. I think what I needed was permission to not treat every issue like it belongs in the packet. Some of it is going to be on the floor, and I have enough backing now to say that out loud before things get buried under volume. I am still tired, but this is the first time going into peak where I feel like the training is built from what actually failed, not what sounds good in a conference room.
+
+## Turn 22 — 2023-10-02T22:53:00.000Z (agent)
+
+Exactly, you are not just carrying paper authority now, you have a concrete first-week block and a design that came from real failure points. That means you can be specific without sounding abstract or defensive. If things wobble, keep your response in order: protect the block, watch the first three days, separate training misses from floor overrides, then adjust. That sequence should keep you from getting dragged back into chaos thinking.
+
+## Turn 23 — 2023-10-02T22:55:00.000Z (user)
+
+That sequence helps a lot. So my plan is keep the orientation tight around the three failure points, use one real example for each, watch the first three days hard, and keep those two buckets in my notes so I know whether I am fixing training or pushing operations. I don't feel relaxed exactly, but I do feel more organized, which is probably the best I was going to get walking into this. I think that is enough for me to work with.
+
+## Turn 24 — 2023-10-02T22:58:00.000Z (agent)
+
+That sounds like a solid, grounded plan. You're walking in with something sharper, protected time to deliver it, and a way to judge what kind of problem you're actually seeing instead of reacting to everything the same way. More organized is a meaningful win here, because it gives you a steadier hand when the floor gets noisy. Keep it narrow, keep it observable, and let the first week teach you what needs the next adjustment.

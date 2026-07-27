@@ -1,0 +1,121 @@
+---
+slice_id: 2023-09-08-0620
+focus: "A lot has shifted lately, and work has gotten bigger in a way I did not exactly "
+status: closed
+start: "2023-09-08T06:20:00.000Z"
+end: "2023-09-08T07:28:00.000Z"
+timezone: America/Chicago
+summary: "After Denise's retirement, Monica absorbs corridor briefing duties under new leadership and pushes the scope from one protected pilot corridor to two-corridor repeat-call block comparisons; she navigates the vulnerability of being more visible while working to make the process less dependent on her alone."
+decisions:
+  - "Monica's corridor work expanded from one protected pilot corridor into a formal north-side enforcement priority tracking"
+tags:
+  - north-side-corridor-briefings
+  - denise-wroblewski-retirement
+  - repeat-call-block-comparison
+  - new-manager-backing
+  - exposed-but-useful-feeling
+  - data-pull-handoff
+  - semi-official-workflow-distribution
+  - standing-briefing-slot
+open_loops:
+  - Protect standing briefing slot under new leadership
+  - Assign comparison table data pull to team member
+  - Document functions now owned for future leverage
+  - Build repeatable briefing template
+emotional_tone: "mixed"
+---
+## Turn 1 — 2023-09-08T06:20:00.000Z (user)
+
+A lot has shifted lately, and work has gotten bigger in a way I did not exactly plan for. The biggest thing is that after Denise retired, I ended up absorbing a lot more of the corridor briefings myself instead of having that section-manager cover over me. I also pushed the new manager to look at repeat-call blocks across two target corridors instead of treating this like one little experiment. So now I am not just guarding a protected pocket of reinspection time, I am basically leading north-side corridor briefings under new leadership and tracking repeat-call blocks across two corridors as a formal priority.
+
+## Turn 2 — 2023-09-08T06:22:00.000Z (agent)
+
+That is a real shift, not just more tasks. You moved from protecting one piece of the process to becoming the person who frames the work for leadership, and that usually changes how durable the whole effort is. It also sounds like you were smart to widen the comparison, because block-level repeat-call data is easier to defend than a pilot that can be dismissed as too local. How is it feeling to carry the briefings yourself now that the structure around you changed?
+
+## Turn 3 — 2023-09-08T06:25:00.000Z (user)
+
+Honestly, I feel more exposed, but also more useful. When Denise was there, I had someone above me who already knew how to translate what we were seeing into language leadership would stand behind, and now I am doing more of that translation myself. The upside is that the new manager was open if I came in with clean comparisons, so I made the case that if one corridor showed a drop in repeated calls, we needed to compare it against another target corridor and see where the repeat-call blocks were clustering. Do you think I should be reading this as a promotion in practice, even if it is not one on paper?
+
+## Turn 4 — 2023-09-08T06:29:00.000Z (agent)
+
+In practice, yes, it sounds like your scope expanded even if your title did not. You are carrying briefing ownership, shaping the metric, and getting a new manager to adopt a broader frame, that is leadership work whether HR catches up or not. I would treat it less like chasing a label and more like documenting the functions you now own, because that gives you leverage later and protects you if the support shifts again. A simple running list of briefings led, comparisons built, and decisions influenced could matter a lot.
+
+## Turn 5 — 2023-09-08T06:31:00.000Z (user)
+
+That makes sense. I think part of why I am uneasy is that this only became sturdier because I kept pushing actual repeat-call numbers in front of people, and I know how quickly work like this can get politically fragile if it feels too personal or too tied to one person. Broadening it to two corridors made it look less like my pet project and more like an enforcement priority the department could defend. I am still irritated, though, because I can feel how much of my thinking is shaped by not wanting this thing knocked backward again.
+
+## Turn 6 — 2023-09-08T06:34:00.000Z (agent)
+
+That irritation makes sense, especially when you had already learned that measurable outcomes were what kept the work alive. What you did here was convert a vulnerable win into a system, and that is exactly how programs survive leadership turnover. The risk is that anger can make every briefing feel like a fight before anyone in the room has even pushed back, so it may help to separate your internal reason, protecting the work, from your external tone, showing a neutral comparison. Are you feeling more drained by the prep, or by the actual room?
+
+## Turn 7 — 2023-09-08T06:38:00.000Z (user)
+
+Mostly the prep. In the room I am pretty steady, maybe because I have my packet and I know what I am trying to prove. The tiring part is building something that looks formal enough that nobody can wave it away, because now the north-side briefings really do center on repeat-call block comparisons as an enforcement metric, and that means the packet has to be tight every time. I can do it, I just do not want to become the only person who understands how to assemble it.
+
+## Turn 8 — 2023-09-08T06:40:00.000Z (agent)
+
+That is a good instinct, because if only you can build the packet then the process is still fragile, just in a more polished way. I would break the work into parts somebody else could inherit, one page on block comparison rules, one page on what counts as a repeat call, one page on how the briefing gets updated. Since your co-parenting with Travis gets tense whenever Leah's color-coded school calendar shifts, having a process that is less dependent on late-night solo prep would probably help your week overall too. Which piece feels easiest to hand off first, the data pull or the write-up?
+
+## Turn 9 — 2023-09-08T06:43:00.000Z (user)
+
+Probably the data pull first, because the write-up still needs my judgment. I can imagine someone else assembling the raw repeat-call blocks and the comparison tables, then I do the interpretation and the recommendation. Andre has the field instincts to sanity-check whether a cluster is real or just noise from one weird property, so I have been leaning on him informally already. I am trying to decide whether to keep it that loose for a bit or make it official now.
+
+## Turn 10 — 2023-09-08T06:47:00.000Z (agent)
+
+This packet really supports what you are saying, it already looks like something that wants a repeatable workflow instead of a heroic one-person effort. I would make the handoff semi-official now, enough that the data pull is assigned and named, but not so formal that you trigger a long process debate before the structure settles. Andre sounds like a strong reality check on the ground truth, and pairing his field read with your interpretation could make the briefings stronger, not just lighter for you.
+
+## Turn 11 — 2023-09-08T06:49:00.000Z (user)
+
+Semi-official is probably the right phrase. I do not want to announce some grand new framework and then get buried in side arguments about categories, but I also do not want this to stay dependent on me proving myself every week. The good part is that the new manager did back the broader comparison instead of shrinking the whole thing after the transition, which honestly surprised me. I think I came in expecting to have to defend the existence of the work, and instead I got room to widen it.
+
+## Turn 12 — 2023-09-08T06:52:00.000Z (agent)
+
+That surprise matters, because it means you are still braced for loss even while the structure is improving. You won something important there, not just permission to continue, but backing for a broader frame under new leadership. I would use this window to lock in two or three habits that make the model look ordinary and departmental, regular comparison format, a standing briefing rhythm, and a shared prep step. That is how it stops being vulnerable to one person leaving or one rough meeting.
+
+## Turn 13 — 2023-09-08T06:56:00.000Z (user)
+
+Yes, ordinary is exactly what I want. If it feels routine, then nobody has to be convinced from scratch every single time. I also keep thinking about Denise, because she was the one who pushed me to step up in the first place, and now her retirement sort of forced the next level whether I felt ready or not. There is a weird mix of missing that cover and also realizing I can do more of it myself than I thought.
+
+## Turn 14 — 2023-09-08T06:58:00.000Z (agent)
+
+That sounds like one of those uncomfortable milestones where support disappears and you discover you had already internalized more of it than you realized. Missing that cover does not cancel out the fact that you are now doing the briefing work in your own voice, and apparently doing it well enough to broaden the scope. If you want, it might help to mark what came from her influence versus what is distinctly yours now, because that can steady you when you start minimizing your own role.
+
+## Turn 15 — 2023-09-08T07:01:00.000Z (user)
+
+I like that. Her influence was probably the push to think ahead about heat and pressure, but the two-corridor comparison and the repeat-call block framing feel like mine. That part actually feels important to say out loud, because it means this expansion built on the earlier complaint declines and protected capacity I had already gotten into place, but it is not just me repeating old work. It is more formal now, and honestly more defensible.
+
+## Turn 16 — 2023-09-08T07:05:00.000Z (agent)
+
+Exactly, this is not rerunning the old argument, it is building on proof you already generated and turning it into a stronger operating structure. The formal part matters because it changes the conversation from, should we trust this idea, to, how do we maintain this metric and use it well. If you were going to protect only one thing over the next month, would it be the shared data workflow or the standing briefing slot?
+
+## Turn 17 — 2023-09-08T07:07:00.000Z (user)
+
+The standing briefing slot, probably. If that stays in place, the workflow has somewhere to land, and people start expecting the comparison instead of treating it like an extra. But I also know if I do not build the shared workflow soon, I am going to be the one up late making sure every line is clean. What would you prioritize first if you were trying to make this less dependent on me without slowing it down?
+
+## Turn 18 — 2023-09-08T07:10:00.000Z (agent)
+
+I would protect the standing slot first, then immediately strip one repeatable task out of your hands within the same cycle. That combination keeps momentum while proving the process can survive distribution, and it avoids the trap of waiting for a perfect training plan. Practically, I would pick a single template for the comparison tables, assign the raw pull, and keep your role focused on interpretation and escalation. That is a smaller change than a full redesign, but it starts reducing dependence right away.
+
+## Turn 19 — 2023-09-08T07:14:00.000Z (user)
+
+That feels doable. I could set the expectation that the briefing happens on the same rhythm, then tell the team I want the comparison table assembled before I touch the narrative. I think what I am noticing is that I do better when I can point to a concrete artifact instead of talking in broad principles, and that is probably why these repeat-call blocks helped me win the argument in the first place. Is that me being controlling, or just practical?
+
+## Turn 20 — 2023-09-08T07:16:00.000Z (agent)
+
+Mostly practical. Concrete artifacts lower ambiguity, and in a setting where people can get slippery, they also lower the chance that the conversation gets reframed around opinion. The only controlling version of it would be if nobody else is allowed to touch the artifact, so as long as you are making the tool sharable, this is just disciplined leadership. That is actually one of your strengths, you stabilize shaky work by turning it into documented metrics and formal briefings.
+
+## Turn 21 — 2023-09-08T07:19:00.000Z (user)
+
+That lands for me. I think I have been so busy bracing for pushback that I have not really admitted this is a real expansion, not just me surviving a transition. I am now leading these north-side briefings under the new manager, the repeat-call block comparisons are part of the formal metric, and the whole thing is broader than the original one-corridor version. I still feel annoyed underneath it, but I also feel more solid.
+
+## Turn 22 — 2023-09-08T07:23:00.000Z (agent)
+
+That sounds like a fair reading of it, solid and still irritated can absolutely coexist. The solid part comes from the structure being more real now, and the irritation is probably the residue of how hard you had to fight to get here. I would not spend energy trying to erase that feeling, I would just keep making sure it does not choose your tone for you. You seem to have earned a more stable position for the work.
+
+## Turn 23 — 2023-09-08T07:25:00.000Z (user)
+
+I think that is where I am landing. My next step is to protect the standing briefing slot, make the comparison table a shared prep task, and keep my part focused on interpretation and recommendation. If I can do that, then this really is a north-side enforcement priority and not a fragile pilot I am carrying on my back. That would feel a lot better.
+
+## Turn 24 — 2023-09-08T07:28:00.000Z (agent)
+
+That is a strong next step, and it is specific enough that you can tell quickly whether it is taking hold. You are not trying to win the whole future at once, just anchoring the cadence, sharing the prep, and keeping your judgment where it adds the most value. That is exactly how a fragile pilot turns into durable department practice.

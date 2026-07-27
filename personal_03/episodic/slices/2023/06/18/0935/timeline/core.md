@@ -1,0 +1,138 @@
+---
+slice_id: 2023-06-18-0935
+focus: "Union pin display case purchase deepens collecting hobby with Local 5 focus and story documentation"
+status: closed
+start: "2023-06-18T09:35:00.000Z"
+end: "2023-06-18T10:56:00.000Z"
+timezone: America/Chicago
+summary: "With the house feeling more usable, Derek goes to a fire hall flea market with a neighbor and buys an old union pin display case. The purchase transforms his casual collecting into an active hobby: he cleans, sorts, and mounts Local 5 pins and regional labor memorabilia in the basement. He adopts rules — personal/local tie only, a notebook for stories, a monthly spending ceiling — and frames the hobby as 'putting order on a small corner of the world.' Erin is amused and relieved that he came home with one contained case instead of another giant project."
+decisions:
+  - "Derek still reads code updates and labor history and listens to labor podcasts, and he also picked up a small hobby of c"
+tags:
+  - union-pin-display-case
+  - basement-collecting-hobby
+  - local-5-local-collecting-focus
+  - stories-over-stuff-philosophy
+  - personal-tie-acquisition-rule
+  - organizing-as-restorative-activity
+  - flea-market-discovery
+  - neighbor-spontaneous-outing
+open_loops:
+  - Finishing the first display case before expanding
+  - Starting a notebook to record provenance stories
+  - Setting a spending ceiling for the hobby
+  - Asking around (especially older tradespeople) with story-first approach
+  - Exploring library resources for local labor history context
+emotional_tone: "positive"
+---
+## Turn 1 — 2023-06-18T09:35:00.000Z (user)
+
+It has been a little while, and life has felt a touch more usable lately. Since the house finally stopped feeling like every spare minute had to go into fixing something, a neighbor talked me into going to a Saturday flea market at a fire hall. I was really just going to walk around, but I ended up buying this old union pin display case off one table. It kind of surprised me how excited I got over it.
+
+## Turn 2 — 2023-06-18T09:37:00.000Z (agent)
+
+That actually sounds like a good sign, not a random impulse. When things loosen up enough that something small can just catch your attention, it usually means you finally have a little breathing room again. An old union pin case feels especially fitting for you, because it is practical, hands-on, and connected to something you already care about. Did you buy it because the case itself was nice, or because you immediately pictured what you wanted to put in it?
+
+## Turn 3 — 2023-06-18T09:40:00.000Z (user)
+
+Honestly, both. The case looked like something that had a life already, and the second I saw it I started thinking about old Local 5 pins and other regional labor stuff I have tucked in drawers or boxes. I have always liked that kind of history anyway, between reading labor history and listening to those podcasts in the truck, but this made it feel more active. Now I am down in the basement cleaning, sorting, and mounting pins instead of just shoving them back in a tin.
+
+## Turn 4 — 2023-06-18T09:44:00.000Z (agent)
+
+That makes a lot of sense. It is not just collecting for the sake of collecting, you are giving shape to something you already had an attachment to. Cleaning and mounting them in the basement also sounds like the right scale, enough to be satisfying without turning the freshly usable part of the house into another project zone. I would probably start by grouping them in a simple way, maybe Local 5 in one area and broader regional labor pieces in another, so the case tells a story instead of becoming a crowded corkboard.
+
+## Turn 5 — 2023-06-18T09:46:00.000Z (user)
+
+Yeah, basement was definitely the call. I did not want to act like the family finally got decent living space and then I immediately claimed a wall upstairs for myself. Keeping it downstairs makes it feel modest, and honestly that also fits the budget right now. I am not trying to become some guy hunting expensive antiques, it is more like if I find something small and meaningful, great.
+
+## Turn 6 — 2023-06-18T09:49:00.000Z (agent)
+
+That boundary is smart. Putting it in the basement keeps the hobby in the lane of steady enjoyment, and the budget limit protects it from turning into a stress source. A hobby is doing its job when it gives you a controlled little task that feels good to finish, not when it starts demanding money and square footage. If you want to keep it modest, a simple rule like only buying pieces with a personal tie or a local tie would probably help.
+
+## Turn 7 — 2023-06-18T09:53:00.000Z (user)
+
+That personal tie rule is probably exactly what I need. I already noticed the danger where five minutes of looking online turns into seeing all kinds of stuff I do not need. I would rather keep it to Local 5, a few nearby labor groups, maybe pieces with Pittsburgh history around them. Does that sound too narrow, or is narrow actually better for something like this?
+
+## Turn 8 — 2023-06-18T09:55:00.000Z (agent)
+
+Narrow is better, especially at the beginning. A tight focus gives the whole thing character, and it also makes each find feel chosen instead of accumulated. The spread in that photo already looks like the start of a real collection rather than random flea market leftovers. Since Mike is the steamfitter friend who got you into those labor history podcasts at his garage, he might even enjoy helping you spot pieces with good backstory if you ever want a second set of eyes.
+
+## Turn 9 — 2023-06-18T09:58:00.000Z (user)
+
+I think you are right about it needing character. What is funny is I already had a little bit of that collector itch from the sports side, old Pittsburgh programs and little keepsakes, but this feels more grounded than that. It connects more directly to who I am than just buying a thing because it is old. I have been realizing that maybe I like the organizing part as much as the history part.
+
+## Turn 10 — 2023-06-18T10:02:00.000Z (agent)
+
+That tracks. The union pieces are carrying identity, work history, and local history all at once, so they are probably going to feel heavier in a good way than general sports memorabilia. And the organizing part matters more than people admit, some folks unwind by watching something, other people unwind by putting order on a small corner of the world. You sound like the second kind, which is why this hobby may stick.
+
+## Turn 11 — 2023-06-18T10:04:00.000Z (user)
+
+That is exactly it, putting order on a small corner of the world. There is something nice about sitting down with a rag and a little tray and making decisions that are tiny and finishable. It feels different from work, where every solved thing uncovers two more things, and different from the house, where there is always another list. Do you think I should actually label the case sections, or would that make it look too museum-y?
+
+## Turn 12 — 2023-06-18T10:07:00.000Z (agent)
+
+A little labeling could be good, but only if it stays minimal. Something simple like date range, local, or organization would help future-you remember why a piece mattered without making the whole case feel formal and overworked. I would avoid long notes inside the display and keep any extra story on an index card or small notebook nearby. That way the case still looks clean, and the details are there when you want them.
+
+## Turn 13 — 2023-06-18T10:11:00.000Z (user)
+
+A notebook is a good idea, because half of what I enjoy is the story attached to the piece. One pin came from an older guy at the market who talked my ear off about where it came from, and now I know if I do not write that down I will lose half of it. Also, Erin was actually pretty amused by this whole thing. I think she was just relieved I came home with one old case instead of some giant project.
+
+## Turn 14 — 2023-06-18T10:13:00.000Z (agent)
+
+That reaction from her says a lot, actually. This looks contained, thoughtful, and pretty harmless in the best sense, not like the start of another expensive weekend saga. The notebook idea is strong because stories are what turn a pin from an object into a memory, and your setup in that photo already has a nice balance, it looks purposeful without taking over the basement. If you want, you could even note where you found each piece, because the hunt becomes part of the story too.
+
+## Turn 15 — 2023-06-18T10:16:00.000Z (user)
+
+Yeah, I had not thought about the hunt being part of it, but it is. The whole thing started because a neighbor just said, come along Saturday morning, and I almost passed because I figured I should be doing something useful. Now I am glad I went, because it gave me one thing that is useful in a different way. I have been wondering if I should make myself leave it casual, or if it is fine to actually call it a hobby and make room for it.
+
+## Turn 16 — 2023-06-18T10:20:00.000Z (agent)
+
+I think it is completely fine to call it a hobby. Making room for one low-key thing does not mean you are slacking, it means your life is not supposed to be all maintenance and duty. The fact that this started casually is probably why it feels healthy, you did not force a self-improvement project on yourself, you found something that naturally held your attention. I would keep it casual in scale, but serious enough that you protect a little time for it.
+
+## Turn 17 — 2023-06-18T10:22:00.000Z (user)
+
+That makes sense. I think I needed to hear that it does not have to justify itself by being productive. The funny part is it still kind of scratches that itch anyway, because I can work on it with my hands and actually see progress by the end of an hour. I am also noticing I am reaching for labor history stuff more now, not less, because the pins make me want the background on where things came from.
+
+## Turn 18 — 2023-06-18T10:25:00.000Z (agent)
+
+That is a good sign too, the hobby is feeding an interest you already had instead of replacing it with mindless shopping. Reading, listening, and then handling the physical objects gives you three different ways into the same world, which is probably why it feels grounded. If you want to deepen it without spending much, public library local history shelves or scanned union newsletters could give you a lot of context for almost nothing.
+
+## Turn 19 — 2023-06-18T10:29:00.000Z (user)
+
+Library is a good call. Cheap is part of the deal right now, and honestly I like the idea of learning enough to know what I am looking at instead of just buying whatever says union on it. I have also thought about asking around a little, because older guys seem to have tins and drawers full of this stuff. I do not want to be annoying about it though.
+
+## Turn 20 — 2023-06-18T10:31:00.000Z (agent)
+
+Asking around can work well if you keep the tone curious instead of acquisitive. People usually respond better to, "I started putting together a small display and I like hearing the stories behind older pieces," than to, "Do you have anything for me?" Even if nobody gives you a single pin, you will probably get useful history and maybe a lead or two. That kind of slow accumulation fits the spirit of what you are building.
+
+## Turn 21 — 2023-06-18T10:34:00.000Z (user)
+
+That wording is better, yeah. Story first, stuff second. Also, I should say this feels like a change from where I was even a few months ago, because back then every free hour in my head was either work, house, or some other obligation. Now I still have all that, but apparently I also became a guy who fusses over union pins in the basement, which I did not see coming.
+
+## Turn 22 — 2023-06-18T10:38:00.000Z (agent)
+
+Honestly, that is a pretty healthy shift. Not because the pins are magical, but because your life seems to have reopened enough that a small personal interest can exist alongside the responsibilities. And this close-up shows you are doing it in a measured way, the display is growing, but it still looks deliberate and modest. Sometimes the surprise hobby is the one that fits best, because it slips into a shape your life can actually support.
+
+## Turn 23 — 2023-06-18T10:40:00.000Z (user)
+
+Deliberate and modest is exactly what I want. I do not need another thing that balloons. I think my next step is probably just finishing this first case, writing down the stories I have, and maybe letting myself poke around local flea markets once in a while without turning it into a mission. Does that seem like enough structure, or should I be more intentional than that?
+
+## Turn 24 — 2023-06-18T10:43:00.000Z (agent)
+
+That is enough structure. Finish the first case before you expand, keep notes on the stories, and treat future browsing as occasional rather than scheduled, that is a solid rhythm. The one extra bit I might add is a spending ceiling, even a small informal one, just so the hobby stays clearly inside the lane you want. Other than that, I would resist overdesigning it.
+
+## Turn 25 — 2023-06-18T10:47:00.000Z (user)
+
+A spending ceiling is probably smart, even if it is just a number in my own head. I know myself well enough to know the danger is not one expensive thing, it is ten little things that add up because each one seems harmless. I am actually kind of pleased this turned into something real, though. It feels good to have one corner of the basement that is mine for a reason other than storage.
+
+## Turn 26 — 2023-06-18T10:49:00.000Z (agent)
+
+That last part might be the biggest win in the whole story. A corner that belongs to interest instead of overflow changes how a house feels, even if it is just one display case and a work surface. You are not claiming the whole place, you are carving out a small, sane pocket that reflects you. That is the kind of hobby that can actually restore energy instead of draining it.
+
+## Turn 27 — 2023-06-18T10:52:00.000Z (user)
+
+Yeah, that is probably why I keep going back down there. I think I am going to stick with the basement setup, keep it centered on Local 5 and nearby labor pieces, and start that notebook this week before I forget the stories. So now along with reading code stuff and labor history and listening to labor podcasts, I guess I also officially have this little union memorabilia hobby. That feels about right.
+
+## Turn 28 — 2023-06-18T10:56:00.000Z (agent)
+
+That sounds like a really good fit for you. You have landed on a version of the hobby that matches your interests, respects the budget, and stays contained enough to be relaxing instead of demanding. Starting the notebook this week is the right move, because the stories are part of what makes the display yours. This feels less like clutter and more like a personal archive in the making.

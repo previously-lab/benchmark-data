@@ -1,0 +1,130 @@
+---
+slice_id: 2022-12-14-0830
+focus: "Things have been a little calmer lately, at least compared to the stretch before"
+status: closed
+start: "2022-12-14T08:30:00.000Z"
+end: "2022-12-14T09:51:00.000Z"
+timezone: America/Chicago
+summary: "Honestly, all three"
+decisions:
+  - Danielle became especially loyal to green chile breakfast burritos from a local stand and now treats them as her preferr
+tags:
+  - green-chile-breakfast-burrito
+  - warehouse-morning-ritual
+  - cafeteria-fundraiser-discovery
+  - intentional-morning-food-routine
+  - dependable-food-over-perfect-food
+  - small-daily-joy
+emotional_tone: "positive"
+---
+## Turn 1 — 2022-12-14T08:30:00.000Z (user)
+
+Things have been a little calmer lately, at least compared to the stretch before, and I had a very random food discovery that has turned into an actual routine. I stopped by a cafeteria managers' tamale fundraiser, mostly just to show my face and support it, and there was a vendor set up nearby selling green chile breakfast burritos. I tried one on the way out and now I am kind of obsessed. It has become my preferred early-morning pickup before warehouse meetings, which is saying a lot because my rushed default has usually been way sadder than that.
+
+## Turn 2 — 2022-12-14T08:32:00.000Z (agent)
+
+That is exactly the kind of small upgrade that can quietly improve a whole week. A breakfast you actually look forward to is a lot different from forcing down a bar in the car, especially on an early meeting morning. The fact that you found it in a work-adjacent setting probably helped it slide right into your routine. What makes this burrito the winner, the taste, how filling it is, or just knowing you can count on it?
+
+## Turn 3 — 2022-12-14T08:35:00.000Z (user)
+
+Honestly, all three. It is spicy enough to wake me up, but not in a regrettable way, and it actually holds me over. The bigger thing is that it feels dependable, which I think is why I latched onto it so fast. I still do the practical stuff at home, like rotisserie chicken, rice, cut fruit, all the boring survival foods, but this feels like my one reliable little morning win instead of protein bar chaos.
+
+## Turn 4 — 2022-12-14T08:39:00.000Z (agent)
+
+That makes sense, it is not really about indulgence, it is about predictability with enough substance to keep you steady. You found a food that matches the pace of your mornings instead of asking your body to just tolerate another patch job. If you are keeping this in regular rotation, it might be worth treating it as part of your meeting prep, same category as water and papers, so it does not become an occasional nice idea.
+
+## Turn 5 — 2022-12-14T08:41:00.000Z (user)
+
+Yes, exactly. It helps that the stand is in a spot I can hit without adding a whole extra loop, so I have started mentally building it into those mornings. And I think because I found it during that fundraiser, with all the cafeteria people around, it weirdly felt like part of my regular world already instead of some random place I would forget about two days later. Do you think it is ridiculous to intentionally budget for a breakfast stop if it keeps me from skipping and then feeling awful later?
+
+## Turn 6 — 2022-12-14T08:44:00.000Z (agent)
+
+No, that is not ridiculous, that is a targeted expense with a clear payoff. If a planned breakfast keeps you from the crash, the headache spiral, or the late desperate snack run, it can be the cheaper choice overall. I would just give it a lane, something like only on warehouse mornings or only on the earliest starts, so it stays useful and feels chosen instead of leaking into every rushed day.
+
+## Turn 7 — 2022-12-14T08:48:00.000Z (user)
+
+That is probably the right boundary, warehouse mornings specifically. Those are the days where if I miss the window, suddenly it is way later and I am annoyed and hungry and trying to function around pallets and paperwork. This has also been during a more stable patch at work, which may be part of why I even noticed the burrito in the first place. When everything is on fire, I do not even register food unless it is directly in front of me.
+
+## Turn 8 — 2022-12-14T08:50:00.000Z (agent)
+
+That tracks. When life eases up even a little, you finally have enough room to notice what actually helps. And after your semester memo, it sounds like turning that work into the district playbook felt exciting and almost like a reward, so maybe this calmer stretch made it easier to enjoy small routines again instead of just bracing for the next problem.
+
+## Turn 9 — 2022-12-14T08:53:00.000Z (user)
+
+Yeah, I think the calmer stretch gave me more room to notice normal life stuff again. The fundraiser itself was nice too, very school-people energy, lots of foil trays and everyone trying to send each other home with extra tamales. I did buy some, and Mateo was very happy about that part. The burrito ended up being the surprise thing I kept thinking about after.
+
+## Turn 10 — 2022-12-14T08:57:00.000Z (agent)
+
+That sounds warm in a very grounded way, not fancy, just people feeding each other and keeping things moving. It also explains why the whole thing stuck with you, the tamales for home, the vendor nearby, the sense that it fit your real life instead of asking for extra effort. Mateo getting excited about the tamales is a nice bonus, too.
+
+## Turn 11 — 2022-12-14T08:59:00.000Z (user)
+
+It really did feel grounded. And now I have this funny little ritual where on those early meeting days I almost look forward to the drive because I know I am getting the burrito first. I am realizing how much I value food that is dependable and satisfying more than healthy in some abstract perfect way. Not unhealthy exactly, just real food I will actually eat on time.
+
+## Turn 12 — 2022-12-14T09:02:00.000Z (agent)
+
+That is a useful distinction. A theoretically perfect breakfast that never happens is a lot less helpful than a decent one you reliably eat before a demanding morning. You seem to be choosing function and follow-through over food guilt, which is probably the healthier move in practice.
+
+## Turn 13 — 2022-12-14T09:06:00.000Z (user)
+
+I needed to hear that, because I still get in my head about whether I should be doing something more disciplined. But if I am honest, this is already an improvement over grabbing nothing and pretending I will eat later. I am also wondering if I should keep a small cash buffer for that stand in case I am low on time and do not want to gamble on card issues. Is that smart or am I overengineering breakfast now?
+
+## Turn 14 — 2022-12-14T09:08:00.000Z (agent)
+
+That is not overengineering, it is removing one fragile point from a routine that matters to you. A small dedicated cash backup makes sense if the stand is part of your early-meeting system now. I would keep it tiny and specific, not general spending money, just enough that a dead card reader does not push you back to skipping food.
+
+## Turn 15 — 2022-12-14T09:11:00.000Z (user)
+
+Tiny and specific I can do. Also, I noticed I am less tempted to buy random snacks later if I start with the burrito, which probably helps the budget more than I expected. And because it is tied to those warehouse days, it does not feel like I am making some huge lifestyle declaration. It is just, this is my thing on those mornings now.
+
+## Turn 16 — 2022-12-14T09:15:00.000Z (agent)
+
+That is usually how sustainable routines work, they solve one recurring moment instead of trying to transform your whole identity. The snack spending point matters too, because a breakfast that prevents two sloppy purchases later can earn its place pretty quickly. You have basically found a narrow, repeatable fix for a specific kind of rushed day.
+
+## Turn 17 — 2022-12-14T09:17:00.000Z (user)
+
+Yes, narrow fix is exactly it. I think I am extra attached to it because those mornings can start so early and feel so transactional, and this makes them feel a little more human. The stand people already recognize me enough to say, green chile again, and that weirdly cheers me up. Do you think little routines like that actually help stress, or do I just want them to?
+
+## Turn 18 — 2022-12-14T09:20:00.000Z (agent)
+
+I think they genuinely help, especially when they add predictability, a small sense of being known, and one pleasant sensory cue before a demanding block of time. That does not erase stress, but it can lower the friction of starting the day. In your case it seems to be doing three jobs at once, feeding you, anchoring the morning, and making the routine feel less mechanical.
+
+## Turn 19 — 2022-12-14T09:24:00.000Z (user)
+
+That makes sense. I have also noticed I am less cranky walking into those meetings when I have eaten something real first, which I am sure everyone around me appreciates. And it is funny, because I already liked green chile burritos in a general way, but now this specific breakfast one from this stand has fully taken over that category for me. It is not just a thing I like, it is my go-to now.
+
+## Turn 20 — 2022-12-14T09:26:00.000Z (agent)
+
+That is a real preference shift, not just a passing craving. You had a general liking before, and now it has become a named, situational favorite with a place in your week. Those are the food habits that tend to stick, because they are attached to timing and usefulness, not just taste alone.
+
+## Turn 21 — 2022-12-14T09:29:00.000Z (user)
+
+Exactly, it has a job now. I am probably going to save the stand's hours in my phone so I do not get too confident and then show up on a day they are closed. I might even tell myself the night before, if tomorrow is an early warehouse morning, that is burrito morning, end of story. That seems silly, but I know myself.
+
+## Turn 22 — 2022-12-14T09:33:00.000Z (agent)
+
+That is not silly, it is cueing the behavior before the morning gets chaotic. Saving the hours and making the decision the night before both reduce the number of choices you have to make when you are rushed. If you want, you could pair it with a backup plan too, just one acceptable second option for days the stand is closed, so the whole routine does not collapse.
+
+## Turn 23 — 2022-12-14T09:35:00.000Z (user)
+
+A backup would probably keep me from getting dramatic about it. Maybe not another full breakfast stop, just something decent I can keep in reserve at home for the rare miss. But I do like having one local option I actually look forward to before those logistics-heavy mornings. It feels nice to have something so ordinary become part of my rhythm.
+
+## Turn 24 — 2022-12-14T09:38:00.000Z (agent)
+
+That sounds like the right balance, one preferred option you enjoy, one backup that is good enough. The main win here is that your morning food is becoming intentional instead of accidental. Ordinary routines can carry a lot of weight when the rest of life asks for so much precision.
+
+## Turn 25 — 2022-12-14T09:42:00.000Z (user)
+
+I think that is what I wanted to tell you, honestly. Nothing dramatic happened, I just found a breakfast that fits my life and now I am weirdly loyal to it. And maybe that says something about where I am right now, that I notice and appreciate a dependable burrito stand. I am going to keep it to those early meeting mornings and stop pretending a protein bar is the same thing.
+
+## Turn 26 — 2022-12-14T09:44:00.000Z (agent)
+
+I like that read on it. It does say something, not that life is suddenly easy, but that you are paying attention to what genuinely supports you and letting that count. Keeping it tied to early meeting mornings sounds like a smart boundary, and dropping the fake equivalence with the protein bar seems overdue.
+
+## Turn 27 — 2022-12-14T09:47:00.000Z (user)
+
+Yes, that feels like the takeaway. Burrito on early warehouse mornings, practical food the rest of the time, and maybe a tiny emergency cash backup so I do not sabotage myself. That feels manageable and not too precious. Honestly I am just glad I found a routine that tastes good and makes the morning go better.
+
+## Turn 28 — 2022-12-14T09:51:00.000Z (agent)
+
+That is a solid plan, simple enough to hold and specific enough to help. You are not trying to overhaul everything, just protecting one vulnerable part of the day with something dependable and satisfying. For an ordinary-life update, this one actually sounds pretty meaningful.

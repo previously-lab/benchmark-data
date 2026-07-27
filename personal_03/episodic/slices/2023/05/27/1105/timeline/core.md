@@ -1,0 +1,138 @@
+---
+slice_id: 2023-05-27-1105
+focus: "Summer bridge proposal rejected; redesigned as contractor-backed voluntary boot camp for underprepared entrants"
+status: closed
+start: "2023-05-27T11:05:00.000Z"
+end: "2023-05-27T12:26:00.000Z"
+timezone: America/Chicago
+summary: "Derek tries to push one step further by building a summer bridge evening for incoming apprentices with no shop comfort, but hits an institutional ceiling. Veteran instructors (especially Ron Belski) frame it as lowering standards and expecting unpaid extra time, while board members worry about rigor. Derek shrinks the idea into a smaller, voluntary pre-apprenticeship boot camp with contractor sponsorship, using 'readiness' language rather than 'deficiency.' He treats the reduced version as a pilot rather than a compromise, planning to collect attendance, confidence, and early-safety data to prove the concept."
+decisions:
+  - "Derek stayed the main driver of first-year retention and safety reform, but his authority hit a limit when he tried to e"
+tags:
+  - summer-bridge-evening-proposal
+  - institutional-authority-ceiling
+  - deskilled-apprentice-readiness-gap
+  - voluntary-boot-camp-pivot
+  - contractor-sponsorship-strategy
+  - ron-belski-tradition-defensiveness
+  - readiness-over-deficiency-framing
+  - pilot-compromise-acceptance
+open_loops:
+  - Writing a one-page boot camp proposal with readiness framing and explicit boundaries
+  - Securing contractor sponsorship to shift cost off JATC
+  - Designing simple measures (attendance, early mistakes, confidence indicators)
+  - Building a handoff sheet to identify transportation, tool, and confidence needs
+  - Collecting data to prove the concept for a future expanded version
+emotional_tone: "mixed"
+---
+## Turn 1 — 2023-05-27T11:05:00.000Z (user)
+
+A lot has been shifting lately, and I finally ran into the point where having some room to change things did not mean I could change all of it. After getting the first-year forms cleaned up and standardized, I tried to push one more step and build a summer bridge evening for incoming apprentices who come in with basically no shop comfort. I was not trying to water anything down, just give the ones who are already behind a better on-ramp before regular classes start. Now I am finding out that process changes are one thing, but the minute it feels like standards or extra time, people get touchy fast.
+
+## Turn 2 — 2023-05-27T11:07:00.000Z (agent)
+
+That is a real shift, because you were able to get the tracking and sign-off side absorbed, and this sounds like the first time the boundary showed itself so clearly. What you are describing does not sound like lowering standards at all, it sounds like trying to keep people from starting in a hole they cannot climb out of. The resistance makes sense politically, but not necessarily on the merits. What part got hit hardest first, the idea of helping underprepared entrants, or the expectation that instructors would give extra unpaid time?
+
+## Turn 3 — 2023-05-27T11:10:00.000Z (user)
+
+Honestly it was both, almost immediately. A couple of the veteran instructors heard summer bridge and went straight to, great, now we are babysitting people before they even earn a seat, and then the unpaid evening piece made them dig in harder. One board member piled on from the other side and basically acted like even offering the bridge meant we were admitting the bar had slipped. That part got under my skin, because I was framing it as early support for basic familiarity, not a replacement for first-year standards.
+
+## Turn 4 — 2023-05-27T11:14:00.000Z (agent)
+
+That framing is important, and they are flattening two different issues into one argument. A short ramp-up for people who lack basic shop feel is not the same thing as changing what they have to prove once class starts. It also sounds like the unpaid labor issue gave the standards argument extra fuel. If you had to separate those threads, do you think the board objection was mostly symbolic while the instructor objection was mostly practical?
+
+## Turn 5 — 2023-05-27T11:16:00.000Z (user)
+
+Yeah, that is pretty much how it felt in the room. The old guard piece was, why are we adding another night and who is paying for it, and the board piece was more about guarding the image of rigor. Ron was very much in that veteran camp, not shockingly, and he was doing that thing where he says he is protecting the trade when what he really means is nobody should have to rethink how they have always done intake. I came out of it irritated, but also kind of clear that if I kept arguing the same version I was going to lose the whole thing.
+
+## Turn 6 — 2023-05-27T11:19:00.000Z (agent)
+
+That reads like a useful realization, even if it was aggravating. When someone like Ron starts wrapping resistance in language about protecting the trade, debating head-on can trap you in a false choice. The smarter move is often what you are already hinting at, keep the actual goal and redesign the delivery. Did you start sketching a version that moved the cost or made participation optional?
+
+## Turn 7 — 2023-05-27T11:23:00.000Z (user)
+
+That is exactly where I landed. I rewrote it into a smaller boot camp, not the broader bridge evening I wanted, and made it voluntary so nobody could say we were forcing unpaid extra instructional time onto everybody. I also started talking with a contractor sponsor so the JATC would not have to own the extra session costs outright. It is not as much reach as I wanted, but it keeps some pre-apprenticeship support alive instead of letting the whole idea die on the floor.
+
+## Turn 8 — 2023-05-27T11:25:00.000Z (agent)
+
+That is good tactical work. A contractor-backed voluntary boot camp preserves the practical part of the idea while stepping around the two easiest objections. It also tells me your authority is real, but it has a limit once the conversation shifts from forms and evidence into culture and identity. My main caution would be to define the boot camp narrowly, basic tool handling, shop movement, expectations, and safety habits, so nobody can honestly claim it is a shadow first-year course.
+
+## Turn 9 — 2023-05-27T11:28:00.000Z (user)
+
+That is where my head is too. I do not want this to turn into me trying to sneak regular instruction into the summer. I want the boot camp to be, here is how a shop feels, here is how you carry yourself, here is what not to do the first week, and here is what people mean when they throw common terms around like everybody was born knowing them. Do you think I should keep making the standards argument, or just stop saying that part and let the structure speak for itself?
+
+## Turn 10 — 2023-05-27T11:32:00.000Z (agent)
+
+I would stop leading with a defense and start leading with boundaries. If you open by saying what the boot camp is not, not graded, not required, not a substitute, not a way around standards, you take some oxygen out of the fight before it starts. Then show the narrow purpose in plain language. Also, Marlene probably keeps asking you to help Logan again because she is worried that all that strain is what will wreck your back, so you may not need one more sprawling battle if a tighter pitch gets this through.
+
+## Turn 11 — 2023-05-27T11:34:00.000Z (user)
+
+The boundary-first pitch is probably smarter than me sounding like I am defending myself. I can hear how I get wound up and start arguing from principle, and then I am halfway into a bigger fight than the actual plan needs. The funny part is I do think the smaller version may work better for the exact people I had in mind, even if it reaches fewer of them. I just hate feeling like I had to shrink it to make adults comfortable.
+
+## Turn 12 — 2023-05-27T11:37:00.000Z (agent)
+
+I get why that stings, but shrinking a plan is not the same as surrendering the purpose. Sometimes the more precise version is stronger because it is harder to caricature. If the people you want to help are the ones who freeze the first time a room assumes baseline shop comfort, then a compact session with a clear scope may do more than a bigger program with blurry edges. The real test is whether the attendees walk into week one less lost.
+
+## Turn 13 — 2023-05-27T11:41:00.000Z (user)
+
+That is probably the cleanest way to judge it. I keep coming back to the kids who are not unsafe because they are reckless, they are unsafe because they are embarrassed and trying to fake it. If this gives even a handful of them enough footing to stop pretending they know what is going on, that matters. I guess I am trying to decide whether I should treat this as a compromise I swallow, or as a pilot I can build from later.
+
+## Turn 14 — 2023-05-27T11:43:00.000Z (agent)
+
+Treat it as a pilot, absolutely. If you call it a compromise, it will feel smaller every time you talk about it, but if you call it a pilot, then you are collecting proof about attendance, confidence, early safety behavior, and who actually opts in. That also fits the way you have been getting traction, not by winning abstract arguments, but by showing what works. I would build in two or three simple measures now so you are not trying to invent them after the fact.
+
+## Turn 15 — 2023-05-27T11:46:00.000Z (user)
+
+That tracks with how I usually operate. I can already hear myself wanting names, attendance at the boot camp, maybe first month write-ups or early lab struggles, something simple enough that nobody says I cooked the books. The contractor sponsor actually seemed more practical than the board people, like, tell us what they need to not look lost on day one and we will help. That part gave me a little juice back.
+
+## Turn 16 — 2023-05-27T11:50:00.000Z (agent)
+
+That reaction from the sponsor is valuable, because it anchors the idea in what the job actually demands. I would keep the measures humble and visible, who came, what topics were covered, who asked for follow-up help, and whether those attendees show fewer early avoidable mistakes. You do not need a giant study, you just need enough to show the boot camp solves a real problem without blurring standards. And contractor backing gives you cover, because the extra time is no longer landing as an unfunded obligation on the school side.
+
+## Turn 17 — 2023-05-27T11:52:00.000Z (user)
+
+Yeah, the sponsorship changed the whole temperature. Once it was not the JATC directly eating the cost, people had less room to make it sound irresponsible. I am still the one driving the first-year retention and safety stuff, but this definitely showed me there is a ceiling to how far that authority reaches when summer programming and culture nerves get involved. Part of me needed that reminder, even if I did not enjoy getting it.
+
+## Turn 18 — 2023-05-27T11:55:00.000Z (agent)
+
+That is a sharp read on it. You still have real influence, but now you know the difference between authority over process and authority over tradition. Weirdly, that can help you pick battles better, because you are seeing where data wins and where people hear any expansion as a threat. The fact that you did not drop the idea matters just as much as the fact that you had to resize it.
+
+## Turn 19 — 2023-05-27T11:59:00.000Z (user)
+
+I appreciate that, because my first reaction was just frustration. After sitting with it, I think the real thing is I am learning where the institution lets me move and where it digs its heels in. What I do not want is to get so tactical that I stop saying what the actual problem is, which is that some incoming apprentices are behind on the most basic shop familiarity and then spend the first stretch trying not to look stupid. How would you talk about that without making people defensive?
+
+## Turn 20 — 2023-05-27T12:01:00.000Z (agent)
+
+I would describe the gap in terms of readiness, not deficiency. Something like, some entrants arrive with uneven exposure to shop routines and vocabulary, and this short voluntary session helps them start the term ready to learn under the same standards as everyone else. That wording keeps the focus on preparation rather than rescue. It also protects the people attending from sounding like they were pre-labeled as the problem group.
+
+## Turn 21 — 2023-05-27T12:04:00.000Z (user)
+
+Readiness is a better word, yeah. Deficiency makes it sound like I am tagging people before they even begin, and that is not what I mean. I want them walking in with enough footing that regular instruction can actually be instruction, not ten minutes lost every hour to decoding the room. I may steal that exact phrasing, honestly.
+
+## Turn 22 — 2023-05-27T12:08:00.000Z (agent)
+
+Steal it. And when you present it, keep the sequence tight, here is the readiness gap, here is the narrow session, here is why it stays voluntary, here is why contractor support makes it doable, and here is how success will be measured. That order makes the plan feel controlled instead of open-ended. The less air there is in the pitch, the less room there is for people to fill it with their own fears.
+
+## Turn 23 — 2023-05-27T12:10:00.000Z (user)
+
+That helps. I have a bad habit of talking too much when I know people are skeptical, which probably makes them think there is more hidden in it than there is. If I keep it to readiness, scope, voluntary, sponsor, and measures, that is cleaner. I am thinking I should write a one-page version and stick to it instead of freelancing.
+
+## Turn 24 — 2023-05-27T12:13:00.000Z (agent)
+
+A one-pager is the right move. It keeps you from getting dragged into side arguments, and it gives supporters something simple to repeat when you are not in the room. I would also include one sentence that says the boot camp does not alter entry requirements or first-year performance standards. That line answers the loudest criticism without turning the whole document into a defense brief.
+
+## Turn 25 — 2023-05-27T12:17:00.000Z (user)
+
+Yeah, I can do that. The more we talk, the more I think the win here is not pretending I got everything I wanted. The win is that I kept the core idea alive, got it into a format that can actually happen, and did not let the pushback scare me off the problem itself. I still wish the broader bridge evening had survived, but a smaller voluntary boot camp with contractor backing is where this landed, and that is probably the honest version for now.
+
+## Turn 26 — 2023-05-27T12:19:00.000Z (agent)
+
+That sounds honest and solid to me. You are not backing away from the problem, you are matching the plan to the room you actually have. If this first run helps even a modest number of incoming apprentices arrive steadier, then you will have something more persuasive than a debate win. At that point the smaller version is not a consolation prize, it is your opening proof.
+
+## Turn 27 — 2023-05-27T12:22:00.000Z (user)
+
+That is probably where I am landing tonight. I am going to tighten the one-pager, keep the language around readiness and boundaries, and treat this boot camp like a pilot instead of moping about the version that got chopped down. It still bugs me, but I can live with less reach if it means the thing actually gets off the ground and helps the people it is supposed to help.
+
+## Turn 28 — 2023-05-27T12:26:00.000Z (agent)
+
+That is a good place to leave it. You have already done the hardest part, which was taking the hit, figuring out what the objections really were, and redesigning without losing the practical aim. Tight one-pager, narrow scope, clear measures, then let the pilot do some talking for you. That is not retreat, it is disciplined follow-through.

@@ -1,0 +1,123 @@
+---
+slice_id: 2023-01-13-0530
+focus: "A lot has shifted lately, and work finally moved in a direction that feels diffe"
+status: closed
+start: "2023-01-13T05:30:00.000Z"
+end: "2023-01-13T06:38:00.000Z"
+timezone: America/Chicago
+summary: "The biggest thing is every new temp has to be paired with a specific named trainer, not just dropped"
+decisions:
+  - Jermaine and Sharon won approval for a formal reset plan after using the ugly peak-season incident numbers as leverage i
+tags:
+  - formal-reset-plan
+  - named-trainer-pairing
+  - photo-audits
+  - dock-door-audits
+  - supervisor-board-accountability
+  - incident-leverage
+  - sharon-pruitt-allyship
+  - program-rebuilding
+  - repeat-incident-discussion
+  - four-part-script
+open_loops:
+  - Finalize named-trainer pairing list with shift leads
+  - Lock photo-audit review rhythm (same week)
+  - Write four-part board script for repeat incidents
+  - Create checklist for complete rollout on each shift
+emotional_tone: "positive"
+---
+## Turn 1 — 2023-01-13T05:30:00.000Z (user)
+
+A lot has shifted lately, and work finally moved in a direction that feels different instead of just more damage control. I stopped trying to make the bad stretch sound prettier than it was, and Sharon backed me on that. We used the ugly peak-season numbers straight up, and we got approval for a formal reset plan instead of me just defending myself in meetings. It feels like I went from having my program picked apart to actually running something with teeth.
+
+## Turn 2 — 2023-01-13T05:32:00.000Z (agent)
+
+That is a real shift, not just a better spin on the same problem. You and Sharon turning the worst numbers into leverage says a lot, because it means the conversation moved from blame to structure. Given how the floor was breaking down under pressure before, a formal reset gives you something sturdier than reminders and goodwill. What did they actually approve, and where do you think the resistance is going to show up first?
+
+## Turn 3 — 2023-01-13T05:35:00.000Z (user)
+
+The biggest thing is every new temp has to be paired with a specific named trainer, not just dropped into a lane with whoever looks free. That alone changes a lot, because before, everybody could act like somebody else was watching them. Now there is a name attached from the start. I keep thinking this is what I should have had earlier, but at least now it is official.
+
+## Turn 4 — 2023-01-13T05:39:00.000Z (agent)
+
+That named-trainer piece matters because it kills the fog that lets people shrug and say training happened somewhere, somehow. It also gives you a cleaner way to spot whether the issue is the temp, the trainer, or the staffing decision upstream. I would treat that list almost like a control document, because if the names start getting swapped informally, the whole thing gets mushy again. Are you the one assigning those pairings, or did they leave that vague?
+
+## Turn 5 — 2023-01-13T05:41:00.000Z (user)
+
+They put me in the middle of it, which I actually wanted. I am building the pairing sheet with shift leads, and if somebody gets moved, it is supposed to be written down the same day. We also added dock-door photo audits twice a week, which I pushed hard for because skipped routines disappear real fast once volume jumps. With pictures, people cannot pretend a door check happened just because a line got signed.
+
+## Turn 6 — 2023-01-13T05:44:00.000Z (agent)
+
+That is smart, because photos force the routine into the physical world instead of leaving it as paperwork. You are basically building evidence that can survive a hectic shift, which was the weak point before when floor reality outran the forms. The practical challenge will be consistency, so I would decide now who reviews the photos, how fast, and what happens when they show the same miss twice in a row. If the audit just creates a folder full of pictures, it will lose its bite.
+
+## Turn 7 — 2023-01-13T05:48:00.000Z (user)
+
+Yeah, that is exactly what I am worried about, it becoming another folder nobody opens. My plan is to review them same week and tag repeats before the board meeting, but I am still figuring out how hard to push without sounding like I am trying to punish everybody. Part of me thinks I need to stay matter-of-fact and let the evidence do it. Part of me knows some folks only move if it gets uncomfortable.
+
+## Turn 8 — 2023-01-13T05:50:00.000Z (agent)
+
+I do not think your main job here is to sound pleasant, I think it is to make the pattern impossible to hide. A good middle ground is to be very plain about the rule, very plain about the repeat, and then keep the next step automatic instead of emotional. That way it feels less like you versus them and more like the process closing in. Also, if Kayla, your older sister, is still the one giving you the blunt reality checks, she would probably tell you not to soften this so much that it stops working.
+
+## Turn 9 — 2023-01-13T05:53:00.000Z (user)
+
+That automatic part is what I want. Another thing they approved is that Ramon and the other supervisors have to talk through repeat incidents in front of the quarterly board instead of treating each one like some random one-off. That is a big deal to me, because now it is not just me standing there saying there is a pattern. The people running the shift have to answer for the pattern out loud.
+
+## Turn 10 — 2023-01-13T05:57:00.000Z (agent)
+
+That changes the balance a lot. Once repeat incidents have to be discussed in front of the board, the pattern stops living only in your notes and starts living in their accountability. With Ramon especially, making his handling visible could either pull him into the process for real or make him feel cornered, so your framing matters. I would keep the language on repeat conditions and repeat misses, not on anybody's character. How did he react when that piece landed?
+
+## Turn 11 — 2023-01-13T05:59:00.000Z (user)
+
+He did that thing where he nodded like it was obvious and then got real quiet. I could tell he did not love it, but he did not fight it in the room because the numbers were sitting right there. That was probably the first time I felt like my credibility was not the main thing on trial anymore. Now the process is visible enough that other people's shortcuts are visible too.
+
+## Turn 12 — 2023-01-13T06:02:00.000Z (agent)
+
+That is a huge psychological turn, and probably why this feels different in your body too. You are not spending all your energy defending whether you saw the problem correctly, you are forcing accountability into the actual system with trainer assignments, audits, and public review. That usually creates some delayed pushback, though, especially once the first few awkward board conversations happen. If you want to stay steady, it may help to write a short script for how you describe repeats so you are not improvising under tension.
+
+## Turn 13 — 2023-01-13T06:06:00.000Z (user)
+
+That makes sense. I have been so wound up for weeks that I can feel myself getting sharp fast, and that is not always useful even when I am right. What would you put in that script, because I want it tight and hard to argue with? I need something that keeps me from drifting into frustration.
+
+## Turn 14 — 2023-01-13T06:08:00.000Z (agent)
+
+I would keep it to four beats. First, name the repeat condition in plain language. Second, point to the evidence, trainer assignment, photo audit, or board history. Third, state the operational risk without dramatizing it. Fourth, name the expected correction and by when. That structure keeps you out of speeches and keeps the room focused on what has to change next, not on whether your tone was too sharp.
+
+## Turn 15 — 2023-01-13T06:11:00.000Z (user)
+
+I can use that. I actually started drafting something close to that on my lunch break, and seeing it broken down helps. One thing I am still trying to read is whether leadership really bought in, or whether they just could not deny those numbers this time. Maybe it does not matter if the controls are in writing, but I still think about that.
+
+## Turn 16 — 2023-01-13T06:15:00.000Z (agent)
+
+It matters some, but not in the same way it did before. Real buy-in is nice, but written controls, visible evidence, and public review are what make shortcuts harder to hide when pressure comes back. In other words, belief can wobble, structure is what holds. The stronger test is not what they said in the approval meeting, it is whether they still back the reset the first time volume surges and somebody wants exceptions.
+
+## Turn 17 — 2023-01-13T06:17:00.000Z (user)
+
+That is probably the cleanest way to look at it. I do feel some relief, but I am not exactly relaxed, because now I have to make this thing real on the floor. I also know people are watching to see if I can run it, not just pitch it. Do you think I should roll out every piece at once, or stage it so the pairings settle before the board piece starts biting?
+
+## Turn 18 — 2023-01-13T06:20:00.000Z (agent)
+
+I would stage the culture work, but not the accountability backbone. Start the named-trainer pairings and photo audits immediately so the operating habits start changing now. Then use the board discussions on schedule, even if the first round is a little rough, because delaying that part teaches everyone it is negotiable. The sequence I would protect is this: pairing clarity first, audit rhythm second, board consequences right on time.
+
+## Turn 19 — 2023-01-13T06:24:00.000Z (user)
+
+I like that order. It gives people a fair shot to do it right, but it does not let the supervisor piece slide into next quarter and disappear. Sharon said something similar, that if we blink now this whole approval turns cosmetic. I hate that she is probably right, but she is. I guess this is me accepting that if I wanted durable controls, I was going to have to make some people uncomfortable.
+
+## Turn 20 — 2023-01-13T06:26:00.000Z (agent)
+
+I think that is exactly the trade you made. You used bad numbers openly to win controls that are durable enough to survive the next pressure wave, and durable controls are rarely comfortable for the people who benefited from the blur. Sharon helping you turn a damaging review into an approval case also matters here, because now you have cover and structure at the same time. The key is to stay boringly consistent, that is what makes this feel legitimate instead of personal.
+
+## Turn 21 — 2023-01-13T06:29:00.000Z (user)
+
+Boringly consistent is probably the right goal for me, honestly. I can get intense when I think somebody is gambling with other people's safety, and I do not want the message lost because I came in hot. I am thinking my next move is to finalize the trainer list, lock the photo review rhythm, and write that four-part board script before the first full week starts. That feels like the cleanest way to stop this from turning into another nice-looking reset.
+
+## Turn 22 — 2023-01-13T06:33:00.000Z (agent)
+
+That is a solid first-week plan, and it matches the problem you are actually solving. The list gives ownership, the photo rhythm gives proof, and the script keeps you from burning energy on reactive arguments. If you want one extra safeguard, make yourself a tiny checklist for what counts as a complete rollout on each shift, because early drift is easier to catch than late drift. You do not need a grand launch, you need repeatable control.
+
+## Turn 23 — 2023-01-13T06:35:00.000Z (user)
+
+Yeah, that is where I landed too. I am still tired and still carrying some of that frustration from the last stretch, but this feels more like real work than cleanup. I am not hiding the failure anymore, I am using it to pin the process down. That is probably the biggest change, not just the plan itself but how I am standing in it.
+
+## Turn 24 — 2023-01-13T06:38:00.000Z (agent)
+
+That is a strong read on it. The plan matters, but the deeper shift is that you stopped arguing for your own credibility and started building a system that makes accountability visible whether people like it or not. Hold onto that posture during the first rough week, because that is when people will test whether this reset is real. You do not need to win every reaction, you need the structure to stay in place.

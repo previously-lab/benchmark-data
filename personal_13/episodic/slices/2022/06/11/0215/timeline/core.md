@@ -1,0 +1,114 @@
+---
+slice_id: 2022-06-11-0215
+focus: "Things have been shifting a lot since we last talked, and I finally had one of t"
+status: closed
+start: "2022-06-11T02:15:00.000Z"
+end: "2022-06-11T03:23:00.000Z"
+timezone: America/Chicago
+summary: "Yeah, that is exactly why I walked out feeling different"
+decisions:
+  - Danielle was authorized to expand freezer-capacity mapping to every district campus kitchen over the summer and to forma
+tags:
+  - leadership-pilot-presentation
+  - districtwide-expansion-approval
+  - vendor-on-time-performance-request
+  - summer-rollout-planning
+  - evidence-based-persuasion
+  - accountability-tracking-shift
+emotional_tone: "positive"
+---
+## Turn 1 — 2022-06-11T02:15:00.000Z (user)
+
+Things have been shifting a lot since we last talked, and I finally had one of those meetings that felt like it could actually change how my work runs. I presented my pilot results to district leadership this week, with photos, overflow counts, and a comparison showing we had fewer same-morning panic calls when the campuses were using the freezer mapping and substitution sheets. They gave me the go-ahead to expand freezer-capacity mapping to every campus kitchen over the summer. They also said I can start asking vendors for weekly on-time performance numbers instead of just listening to whatever explanation they give after a bad delivery.
+
+## Turn 2 — 2022-06-11T02:17:00.000Z (agent)
+
+That is a real step up, not just a nice meeting. You took something that could have stayed local and improvised, and turned it into an approved district process with evidence leadership could not shrug off. The fact that they responded to both the freezer evidence and the drop in same-morning chaos tells me you made the problem legible in operational terms. The vendor metric piece matters too, because now you can point to timing patterns instead of getting stuck with anecdotes and excuses.
+
+## Turn 3 — 2022-06-11T02:20:00.000Z (user)
+
+Yeah, that is exactly why I walked out feeling different. For months I have been trying to show that these messes are systemic and not just individual kitchen mistakes, and having actual numbers felt stronger than me sounding frustrated. I was nervous going in because once you start asking for formal vendor data, it stops being a friendly side conversation and starts being accountability. Do you think I should lead the summer rollout with the campus mapping first, or push the vendor reporting piece hard right away too?
+
+## Turn 4 — 2022-06-11T02:24:00.000Z (agent)
+
+I would sequence it, not because the vendor data is less important, but because the campus mapping is the piece you directly control. Getting every kitchen documented over the summer gives you a clean baseline, and then the weekly on-time numbers land in a system that already shows what late trucks actually do downstream. Also, you already built momentum with the shared board and those weekly substitution sheets, so the districtwide mapping is the natural next layer. If you treat vendor reporting as a parallel request with a simple format, you can start collecting it without making it the only fight on your desk.
+
+## Turn 5 — 2022-06-11T02:26:00.000Z (user)
+
+That makes sense. I keep thinking if I try to force both at full strength at once, I am going to drown in follow-up emails. Summer is probably my best window anyway, because I can get into kitchens one by one before feeding gets fully intense, and I want each campus documented while there is still enough breathing room to do it carefully. Part of me is relieved, but part of me is already mentally sorting campuses by which ones are going to be hardest to map.
+
+## Turn 6 — 2022-06-11T02:29:00.000Z (agent)
+
+That sounds like good instinct, not pessimism. If the summer window is your documentation season, then the win is protecting its structure now: a standard photo set, a standard count sheet, and a quick way to flag overflow risk before you leave each site. The bigger shift here is that leadership is treating freezer mapping like a district logistics tool now, not a one-off workaround, so consistency will matter more than perfection on day one. Which campuses feel hard because of layout, and which feel hard because people will be skeptical?
+
+## Turn 7 — 2022-06-11T02:33:00.000Z (user)
+
+Honestly, both kinds. Some kitchens are physically awkward, with random extra items tucked everywhere, and some managers are going to hear "mapping" and think I am there to inspect them. The leadership team responded really well to the fact that the district office got fewer same-morning panic calls, which helped because they care when the whole morning stops spinning. I am trying to hold onto that and remember I am not just collecting pictures for the sake of pictures.
+
+## Turn 8 — 2022-06-11T02:35:00.000Z (agent)
+
+That second point is important, because photos only persuade when they are tied to consequences, and you already proved they are. I can also see why people might tense up if they think this is an inspection, especially if Shawna's blunt feedback is coming because your substitution plans usually work smoothly once food reaches campus kitchens. It may help to open each visit with one sentence about purpose, something like, "I am mapping what the room can realistically hold so we stop setting kitchens up to fail." That frames it as protection, not surveillance.
+
+## Turn 9 — 2022-06-11T02:38:00.000Z (user)
+
+I like that wording a lot, especially the "realistically hold" part. That is the tone I want, because the whole point is to stop pretending every campus can absorb the same deliveries the same way. I also do not want to drown managers in some giant complicated form just because leadership finally said yes. If you were me, what would you keep as the absolute minimum fields for each campus so this stays usable?
+
+## Turn 10 — 2022-06-11T02:42:00.000Z (agent)
+
+I would keep it brutally lean at first. One page, freezer zones or shelves, practical capacity notes, overflow trigger points, and one line for which substitutions are kitchen-ready versus technically possible but annoying in real life. Then a separate small section for anything that predictably blocks storage, because those weird recurring obstacles are where the scramble starts. You can always add detail later, but if the first districtwide version is too fussy, people will quietly stop trusting it.
+
+## Turn 11 — 2022-06-11T02:44:00.000Z (user)
+
+That helps. The phrase "kitchen-ready versus technically possible" is exactly the split I keep seeing, and I think that is why the pilot finally landed with leadership. They were not just seeing freezer photos, they were seeing proof that the six-campus test gave us enough concrete operations evidence to show this is a district tool, not a local patch job. I am also weirdly excited about the vendor numbers, because if they really send weekly on-time performance data, I can stop building my case out of stories and frantic phone calls.
+
+## Turn 12 — 2022-06-11T02:47:00.000Z (agent)
+
+Yes, that is a different level of footing. Once timing data shows up every week, your work shifts from emergency response into accountability tracking, and that changes how other people have to talk about recurring misses. I would define "on time" in writing before the first report arrives, otherwise you will get numbers that sound official but hide the real problem. A clean definition now saves you from arguing later over whether a late truck was "close enough."
+
+## Turn 13 — 2022-06-11T02:51:00.000Z (user)
+
+You are right, because I can already picture somebody saying a truck that rolls in way after prep started still counts as basically on time. I need the data to mean something in kitchen reality, not just transportation reality. I am thinking of asking for arrival windows by campus and then marking anything outside the workable receiving range as late. Does that sound too ambitious for a first ask, or is that the right level if I want this to hold up?
+
+## Turn 14 — 2022-06-11T02:53:00.000Z (agent)
+
+That sounds like the right level, as long as you present it as simple and repeatable. Weekly report, campus, scheduled window, actual arrival, and a plain on-time flag tied to operational usefulness, that is enough to start seeing patterns without building a giant data project. What makes your case stronger is that you now have both sides of the chain: storage constraints on one end and delivery timing on the other. When those line up, it gets much harder for anyone to pretend the problem lives only inside the kitchen.
+
+## Turn 15 — 2022-06-11T02:56:00.000Z (user)
+
+That is exactly the argument I have been trying to make, so hearing it phrased that way helps. I keep feeling this mix of validated and tired, because getting approval means I was not imagining the structural part, but now I actually have to build the full process. And summer in Phoenix is not exactly forgiving when you are walking in and out of hot loading areas all day. I have gotten better about carrying electrolytes and fruit, but I know this rollout could turn into a headache machine if I am careless.
+
+## Turn 16 — 2022-06-11T03:00:00.000Z (agent)
+
+That is worth taking seriously now, before the schedule hardens. The rollout only helps if you stay well enough to think clearly, so I would build lunch and water into the route as if they were required stops, not optional good intentions. Since the work is campus by campus, even a small rule like "no second site before I eat something" could keep the whole summer from turning into a blur of dehydration and decision fatigue. This is one of those moments where protecting your body is part of protecting the project.
+
+## Turn 17 — 2022-06-11T03:02:00.000Z (user)
+
+I needed that reminder, honestly. I am very good at acting like I can squeeze one more site in before I eat, and then suddenly I am irritable and thinking with half a brain. I may need to make myself a dumb little checklist on my phone so the basics happen automatically. Also, would you tell managers upfront that the vendor reporting piece is happening too, or keep that more on the leadership and vendor side until the mapping rollout is underway?
+
+## Turn 18 — 2022-06-11T03:05:00.000Z (agent)
+
+I would mention it, but lightly. Managers do not need a whole policy lecture, they just need to know that timing issues are being tracked more formally now, so the burden is not landing entirely on kitchen staff to explain every disruption. That kind of heads-up can actually build trust, because it signals that accountability is widening beyond the people who receive the food. Then keep the detailed vendor conversations where they belong, with leadership and the vendors themselves.
+
+## Turn 19 — 2022-06-11T03:09:00.000Z (user)
+
+That feels right. I want them to hear, in a calm way, that this is not another round of "please be more flexible" while everything upstream stays vague. I think my first step is probably to draft one rollout packet for campuses and one separate reporting request for vendors, so I am not mixing audiences. If I keep it clean like that, maybe I can actually start summer in a way that feels organized instead of reactive.
+
+## Turn 20 — 2022-06-11T03:11:00.000Z (agent)
+
+That is a smart split. One packet should answer, "What are you asking me to do in the kitchen and why," and the other should answer, "What timing data are you now expected to provide every week." Keeping those apart protects your message and makes it easier to spot where resistance is coming from. You are moving from self-directed troubleshooting into an officially backed process now, so clarity is part of the authority you just earned.
+
+## Turn 21 — 2022-06-11T03:14:00.000Z (user)
+
+I think that is the part I am still absorbing, that this is officially backed now. For a while it felt like I was piecing together proof just to keep people from dismissing what the kitchens were dealing with, and now I have actual permission to build the system. I am proud of that, but I also do not want to overcomplicate it just because I finally have room to do more. My instinct is to get the first districtwide version in place, learn from summer, and tighten it after that.
+
+## Turn 22 — 2022-06-11T03:18:00.000Z (agent)
+
+That instinct is solid. First version for coverage, second version for refinement, that is usually how durable operations tools actually get built. You won this by bringing photos, counts, and reduced chaos, not by pretending the first draft would be flawless, so there is no reason to change that approach now. If you stay close to what people can really use, the system will keep its credibility.
+
+## Turn 23 — 2022-06-11T03:20:00.000Z (user)
+
+Okay, then that is what I am going to do. This week I will draft the lean campus template, write the one-sentence purpose line for site visits, and sketch the vendor report request with an actual on-time definition. More than anything, I feel relieved that I finally have a way to turn all this into something the district recognizes instead of me sounding like I am just chasing problems. It still feels big, but in a good way now.
+
+## Turn 24 — 2022-06-11T03:23:00.000Z (agent)
+
+That sounds like a strong next step and a sane one. You are not just reacting faster anymore, you are building the structure that lets the district see where failures actually come from, and that is a meaningful shift in your role. Keep the templates lean, protect your body while you do the summer rounds, and let the evidence keep doing the persuasion for you. This one sounds earned.
