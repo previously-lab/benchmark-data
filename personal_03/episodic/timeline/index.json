@@ -1,0 +1,1263 @@
+{
+  "_schema": 1,
+  "updated_at": "2026-08-17T16:21:31.628Z",
+  "slice_count": 30,
+  "needs_marking": 0,
+  "slices": [
+    {
+      "id": "2022-01-08-1130",
+      "date": "2022-01-08",
+      "start": "2022-01-08T11:30:00.000Z",
+      "end": "2022-01-08T12:56:00.000Z",
+      "turn_count": 30,
+      "status": "closed",
+      "focus": "Comprehensive onboarding — personal, family, work, finances, health, and life goals",
+      "summary": "Derek introduces himself comprehensively: a 41-year-old journeyman wireman for IBEW Local 5 in Pittsburgh, recently pulled into part-time apprenticeship instruction and safety coordination. He details his family (wife Erin, two kids, brother Logan), ongoing housing renovation, chronic back issues, and his life goal of building a retention-focused apprenticeship training system that raises first-to-third-year retention above 80 percent. The conversation establishes his ISTJ personality, dry humor under pressure, and preference for straightforward practical communication.",
+      "tags": [
+        "initial-profile-build",
+        "union-electrical-career",
+        "apprenticeship-instruction",
+        "pittsburgh-working-class",
+        "family-finance-strain",
+        "chronic-back-injury",
+        "marriage-dynamics",
+        "trades-pipeline-goal"
+      ],
+      "tone": "neutral",
+      "open_loops": [
+        "Brother Logan's financial dependency and the need for firmer boundaries",
+        "House renovation overruns and unfinished first floor",
+        "Back injury management and physical therapy needs",
+        "Navigating resistance from veteran instructor Ron Belski",
+        "Building evidence to support proposed training reforms"
+      ],
+      "decisions": [],
+      "strands": [
+        "initial-profile-build",
+        "union-electrical-career",
+        "apprenticeship-instruction",
+        "pittsburgh-working-class",
+        "family-finance-strain",
+        "chronic-back-injury",
+        "marriage-dynamics",
+        "trades-pipeline-goal"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2022-01-28-0750",
+      "date": "2022-01-28",
+      "start": "2022-01-28T07:50:00.000Z",
+      "end": "2022-01-28T09:16:00.000Z",
+      "turn_count": 30,
+      "status": "closed",
+      "focus": "Near-miss ladder incident triggers first-year safety review and informal leadership",
+      "summary": "A first-year apprentice nearly falls off an extension ladder during a winter lighting retrofit at Derek's job site. Derek documents the near-miss formally, which escalates to a tense training center debrief where veteran staff react defensively. He is informally tasked with reviewing first-year ladder and lockout-tagout instruction, representing a significant though unofficial role shift toward programmatic safety leadership. The incident sharpens his focus but also worsens his sleep as he replays the avoidable nature of the event.",
+      "tags": [
+        "near-miss-incident",
+        "ladder-safety-reform",
+        "first-year-apprentice-training",
+        "union-workplace-politics",
+        "training-center-debrief",
+        "preventable-habit-interruption",
+        "sleep-disruption-stress",
+        "informal-leadership-emergence"
+      ],
+      "tone": "mixed",
+      "open_loops": [
+        "Drafting a one-page scope with ladder lab and lockout-tagout exercise",
+        "Circulating a short outline to colleagues before the next meeting",
+        "Building measurable check-ins to evaluate pilot effectiveness",
+        "Managing Ron Belski's expected resistance to changes",
+        "Protecting the first-year apprentice from becoming a cautionary tale"
+      ],
+      "decisions": [
+        "After a first-year apprentice slipped while overreaching from an extension ladder during a winter lighting retrofit, Der",
+        "Derek feels more keyed up and grimly focused after the near-miss, and his sleep is a little worse because he keeps repla"
+      ],
+      "strands": [
+        "near-miss-incident",
+        "ladder-safety-reform",
+        "first-year-apprentice-training",
+        "union-workplace-politics",
+        "training-center-debrief",
+        "preventable-habit-interruption",
+        "sleep-disruption-stress",
+        "informal-leadership-emergence"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2022-02-16-0340",
+      "date": "2022-02-16",
+      "start": "2022-02-16T03:40:00.000Z",
+      "end": "2022-02-16T04:54:00.000Z",
+      "turn_count": 26,
+      "status": "closed",
+      "focus": "Labor history podcast discovery through Mike's garage day shifts commute habits",
+      "summary": "Derek spends a Sunday at Mike Cercone's garage sorting pipe fittings and listening to a Mon Valley labor history podcast. The combination of hands-on work and compelling local history unexpectedly helps quiet his anxious mental loops. This experience leads him to replace default sports radio with labor and trade history podcasts on his early morning drives, a small but meaningful shift that Erin notices and appreciates.",
+      "tags": [
+        "garage-day-with-friend",
+        "labor-history-podcasts",
+        "mon-valley-mill-history",
+        "commute-habit-change",
+        "anxiety-management",
+        "union-podcast-discovery",
+        "morning-drive-routine",
+        "mike-cercone-friendship"
+      ],
+      "tone": "positive",
+      "open_loops": [
+        "Building a two-bucket podcast list (heavy history for morning, lighter trade talk for evening)",
+        "Asking Mike for the name of the first Mon Valley episode that hooked him",
+        "Developing a sustainable commute media rotation"
+      ],
+      "decisions": [
+        "He now queues labor and trade podcasts for early drives instead of defaulting to only sports radio in the truck."
+      ],
+      "strands": [
+        "garage-day-with-friend",
+        "labor-history-podcasts",
+        "mon-valley-mill-history",
+        "commute-habit-change",
+        "anxiety-management",
+        "union-podcast-discovery",
+        "morning-drive-routine",
+        "mike-cercone-friendship"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2022-03-12-1020",
+      "date": "2022-03-12",
+      "start": "2022-03-12T10:20:00.000Z",
+      "end": "2022-03-12T11:34:00.000Z",
+      "turn_count": 26,
+      "status": "closed",
+      "focus": "Safety reset moves from proposal to active pilot with evidence from contractor field notes",
+      "summary": "Derek's first-year safety reset transitions from a review into an active pilot program after he compiles contractor write-ups, attendance sheets, and field notes from Tasha Freeman that reveal consistent unsafe patterns. His proposal includes more ladder work, repeated lockout-tagout practice, and short weekly check-ins for at-risk apprentices. Ron Belski pushes back hard, calling the check-ins 'hand-holding,' but the evidence is strong enough that the pilot launches despite resistance. Derek wrestles with how to protect the core while letting the old guard save face.",
+      "tags": [
+        "first-year-safety-pilot",
+        "evidence-driven-reform",
+        "contractor-field-notes",
+        "ron-belski-resistance",
+        "apprentice-check-in-system",
+        "intervention-vs-hand-holding-debate",
+        "ladder-and-lockout-drills",
+        "early-attention-intervention"
+      ],
+      "tone": "mixed",
+      "open_loops": [
+        "Defining success metrics for the pilot before critics define them",
+        "Writing trigger rules for the ten-minute intervention talks",
+        "Building an outcome tracking box for each intervention conversation",
+        "Managing the political tension around early-attention model",
+        "Balancing the pilot with ongoing journeyman field work"
+      ],
+      "decisions": [
+        "Derek moved from informally reviewing first-year safety instruction to actively piloting a redesigned first-year safety"
+      ],
+      "strands": [
+        "first-year-safety-pilot",
+        "evidence-driven-reform",
+        "contractor-field-notes",
+        "ron-belski-resistance",
+        "apprentice-check-in-system",
+        "intervention-vs-hand-holding-debate",
+        "ladder-and-lockout-drills",
+        "early-attention-intervention"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2022-04-05-0115",
+      "date": "2022-04-05",
+      "start": "2022-04-05T01:15:00.000Z",
+      "end": "2022-04-05T02:23:00.000Z",
+      "turn_count": 24,
+      "status": "closed",
+      "focus": "Capped loan to brother Logan paired with budget tightening after recognizing combined financial drain",
+      "summary": "Derek's brother Logan loses another job and needs back rent, prompting a kitchen-table reckoning with Erin. They agree on a single capped loan rather than open-ended rescue, and Derek realizes that renovation overruns and family cash requests have been draining the same financial cushion. He and Erin set limits together — the first time he has not made a solo promise — and he begins trimming discretionary spending on takeout and impulse house purchases to protect monthly cash flow.",
+      "tags": [
+        "logan-loan-cap",
+        "family-budget-tightening",
+        "marital-financial-alignment",
+        "brother-financial-dependency",
+        "renovation-spending-pause",
+        "impulse-spending-trimming",
+        "guilt-and-boundaries",
+        "household-rules-creation"
+      ],
+      "tone": "mixed",
+      "open_loops": [
+        "Holding the loan line as Logan and mother Marlene test the new boundary",
+        "Pausing cosmetic renovation tasks vs. continuing slowly with stricter purchases",
+        "Developing a repeatable script for family calls about money",
+        "Protecting month-to-month rhythm over forcing renovation progress"
+      ],
+      "decisions": [
+        "Derek's household income is still solid, but the capped loan to Logan plus ongoing renovation costs leave the family run",
+        "After this latest bailout, Derek set firmer limits with Logan, reducing the money bleed but making their conversations m"
+      ],
+      "strands": [
+        "logan-loan-cap",
+        "family-budget-tightening",
+        "marital-financial-alignment",
+        "brother-financial-dependency",
+        "renovation-spending-pause",
+        "impulse-spending-trimming",
+        "guilt-and-boundaries",
+        "household-rules-creation"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2022-05-01-1210",
+      "date": "2022-05-01",
+      "start": "2022-05-01T12:10:00.000Z",
+      "end": "2022-05-01T13:18:00.000Z",
+      "turn_count": 24,
+      "status": "closed",
+      "focus": "Derek becomes lead instructor for pilot first-year section, implementing skill boards and paired practice",
+      "summary": "Derek is named lead instructor for one pilot first-year section, giving him direct responsibility for the opening six weeks. He implements color-coded skill check boards so progress is visible, enforces paired practice before solo ladder work, and adds Friday attendance calls to catch disengagement early. An older instructor (likely Ron Belski) constantly undermines him with side comments about the 'old way,' creating a difficult dynamic where apprentices hear mixed signals. Derek decides to document only patterns that affect outcomes and focus on running a clean, repeatable process rather than winning every argument.",
+      "tags": [
+        "lead-instructor-role",
+        "first-year-pilot-section",
+        "color-coded-skill-board",
+        "paired-practice-method",
+        "friday-attendance-calls",
+        "veteran-instructor-undermining",
+        "three-bucket-tracking-system",
+        "outcomes-over-personalities"
+      ],
+      "tone": "mixed",
+      "open_loops": [
+        "Managing the undermining instructor's commentary without escalating to turf war",
+        "Opening next week with a clear explanation of why the board, paired work, and calls connect",
+        "Tightening personal tracking with three-bucket system (safe to advance / needs repeat / needs contact)",
+        "Protecting energy from the stacking of field work plus instruction",
+        "Defining clear success for the six-week pilot to prevent mission creep"
+      ],
+      "decisions": [
+        "Derek is now the lead instructor for one pilot first-year section built around revised safety labs and attendance follow"
+      ],
+      "strands": [
+        "lead-instructor-role",
+        "first-year-pilot-section",
+        "color-coded-skill-board",
+        "paired-practice-method",
+        "friday-attendance-calls",
+        "veteran-instructor-undermining",
+        "three-bucket-tracking-system",
+        "outcomes-over-personalities"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2022-05-24-0600",
+      "date": "2022-05-24",
+      "start": "2022-05-24T06:00:00.000Z",
+      "end": "2022-05-24T07:26:00.000Z",
+      "turn_count": 30,
+      "status": "closed",
+      "focus": "Yard sale stumble into Pittsburgh sports and union memorabilia collecting as a new hobby",
+      "summary": "Derek takes the kids to a neighborhood yard sale and ends up buying old Steelers programs and a Pittsburgh photo book from a retired electrician. The experience sparks a deliberate turn away from accumulating garage tools he does not need toward collecting Pittsburgh stadium history and union memorabilia with personal meaning. He sets rules — one display shelf in the basement, categories limited to Pittsburgh stadium history and union keepsakes, field-collecting only (no online impulse buys) — and involves the kids by letting them each pick items for the shelf.",
+      "tags": [
+        "pittsburgh-memorabilia-discovery",
+        "union-collecting-hobby",
+        "yard-sale-family-day",
+        "retired-electrician-connection",
+        "steelers-programs-collection",
+        "kids-bonding-shopping",
+        "intentional-collecting-boundaries",
+        "hobby-over-tools-preference"
+      ],
+      "tone": "positive",
+      "open_loops": [
+        "Clearing a basement shelf for the Pittsburgh corner display",
+        "Noting provenance details (where found, why it mattered)",
+        "Keeping the hobby casual and field-collecting only",
+        "Setting a monthly spending ceiling to prevent creep",
+        "Telling Mike about the collection for leads from garage cleanouts"
+      ],
+      "decisions": [
+        "Derek's sports preference expanded into a casual interest in collecting Pittsburgh sports and union memorabilia after a "
+      ],
+      "strands": [
+        "pittsburgh-memorabilia-discovery",
+        "union-collecting-hobby",
+        "yard-sale-family-day",
+        "retired-electrician-connection",
+        "steelers-programs-collection",
+        "kids-bonding-shopping",
+        "intentional-collecting-boundaries",
+        "hobby-over-tools-preference"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2022-06-18-0845",
+      "date": "2022-06-18",
+      "start": "2022-06-18T08:45:00.000Z",
+      "end": "2022-06-18T10:06:00.000Z",
+      "turn_count": 28,
+      "status": "closed",
+      "focus": "Pilot success with fewer write-ups leads to expansion into all first-year orientation",
+      "summary": "Early summer numbers show the pilot group had fewer shop safety write-ups and better lab completion, giving Derek clean evidence to present via a bulletin-board-style packet of sign-in sheets, contractor comments, and write-up comparisons. The results earn him an expansion: he is asked to shape orientation and baseline safety for all incoming first-years, not just his pilot section. He now must decide how much of his personal system to transfer into a shared standard that other instructors can carry, while keeping his own energy in check.",
+      "tags": [
+        "pilot-results-validated",
+        "reduced-safety-write-ups",
+        "bulletin-board-evidence-packet",
+        "orientation-expansion",
+        "first-year-baseline-standards",
+        "contractor-confirmation-feedback",
+        "upstream-responsibility-shift",
+        "scope-boundary-negotiation"
+      ],
+      "tone": "positive",
+      "open_loops": [
+        "Building a one-page orientation standard that others can execute",
+        "Defining which pieces belong in orientation vs. individual sections",
+        "Separating model failures from handoff failures to avoid personalizing bad outcomes",
+        "Setting data collection requirements for all instructors without overloading them",
+        "Protecting the expanded role from quietly adding to field work load"
+      ],
+      "decisions": [
+        "Derek's role broadened from leading one pilot first-year section to helping shape first-year orientation and baseline sa"
+      ],
+      "strands": [
+        "pilot-results-validated",
+        "reduced-safety-write-ups",
+        "bulletin-board-evidence-packet",
+        "orientation-expansion",
+        "first-year-baseline-standards",
+        "contractor-confirmation-feedback",
+        "upstream-responsibility-shift",
+        "scope-boundary-negotiation"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2022-07-08-2320",
+      "date": "2022-07-08",
+      "start": "2022-07-08T23:20:00.000Z",
+      "end": "2022-07-09T00:34:00.000Z",
+      "turn_count": 26,
+      "status": "closed",
+      "focus": "Summer back flare forces physical therapy, demo rotation, and honest workload limits",
+      "summary": "After a hot week of conduit pulls and standing instruction, Derek's chronic lower-back injury flares sharper than ever, forcing him to start physical therapy and accept strict lifting limits. He realizes he can no longer physically perform every shop demonstration himself and designs a three-category plan (things he still does, things he coaches but does not perform, things he fully hands off). Erin and his mother had been warning him about overcommitting, and the flare validates their concerns. He commits to pacing field work and instruction separately rather than pretending they are interchangeable.",
+      "tags": [
+        "chronic-back-flare-up",
+        "physical-therapy-start",
+        "demo-rotation-planning",
+        "lifting-limits-enforcement",
+        "heat-and-conduit-work-trigger",
+        "erins-reality-check",
+        "workload-boundary-negotiation",
+        "do-coach-handoff-categories"
+      ],
+      "tone": "mixed",
+      "open_loops": [
+        "First physical therapy appointment and aligning the three-category list with therapist guidance",
+        "Implementing demo rotation where apprentices and other instructors handle physical examples",
+        "Tracking which activity combinations trigger sharp catch vs. plain soreness",
+        "Setting a hard rule about no automatic yes to physically demanding tasks on field+shop double days",
+        "Communicating the changed situation to colleagues using 'treatment plan' language"
+      ],
+      "decisions": [
+        "Derek's old lower-back problem escalated into a sharper summer flare after a hot week split between conduit pulls on a p"
+      ],
+      "strands": [
+        "chronic-back-flare-up",
+        "physical-therapy-start",
+        "demo-rotation-planning",
+        "lifting-limits-enforcement",
+        "heat-and-conduit-work-trigger",
+        "erins-reality-check",
+        "workload-boundary-negotiation",
+        "do-coach-handoff-categories"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2022-08-21-1055",
+      "date": "2022-08-21",
+      "start": "2022-08-21T10:55:00.000Z",
+      "end": "2022-08-21T12:21:00.000Z",
+      "turn_count": 30,
+      "status": "closed",
+      "focus": "Derek now owns first-year orientation content and early retention check-ins with family involvement",
+      "summary": "Derek's role solidifies into overseeing first-year orientation content and early retention check-ins for all incoming apprentices. He delivers a blunt orientation talk that frames attendance problems as predictable life obstacles (transportation, child care, schedule conflicts) rather than moral failures, and involves families directly by putting contact guidance in plain language. He wrestles with designing simple triggers for early intervention (first missed night, first no-call) that will survive a tired instructor on a bad day, and decides to keep family engagement primarily at orientation night rather than extending it throughout.",
+      "tags": [
+        "first-year-orientation-ownership",
+        "family-engagement-strategy",
+        "plain-language-retention-packet",
+        "early-contact-normalization",
+        "preventing-apprentice-drift",
+        "transportation-and-childcare-hurdles",
+        "trigger-based-check-in-system",
+        "orchestrating-early-support"
+      ],
+      "tone": "positive",
+      "open_loops": [
+        "Refining the plain-language packet based on family questions from orientation",
+        "Designing a one-page simple trigger system for early check-ins",
+        "Setting up a running list of top confusions from orientation Q&A",
+        "Balancing family involvement (first-night only) with apprentice adult responsibility",
+        "Keeping packet language aligned with spoken delivery style"
+      ],
+      "decisions": [
+        "Derek now oversees first-year orientation content and early retention check-ins for incoming apprentices, with a stronge"
+      ],
+      "strands": [
+        "first-year-orientation-ownership",
+        "family-engagement-strategy",
+        "plain-language-retention-packet",
+        "early-contact-normalization",
+        "preventing-apprentice-drift",
+        "transportation-and-childcare-hurdles",
+        "trigger-based-check-in-system",
+        "orchestrating-early-support"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2022-09-14-0530",
+      "date": "2022-09-14",
+      "start": "2022-09-14T05:30:00.000Z",
+      "end": "2022-09-14T06:44:00.000Z",
+      "turn_count": 26,
+      "status": "closed",
+      "focus": "Contractor open house conversation sparks a practical packed-lunch and thermos habit",
+      "summary": "While at a contractor open house for free lunch, Derek talks with a younger foreman about insulated mugs and thermoses, which sparks a serious attempt to cut gas-station food spending. He starts packing chili and leftovers using a wide-mouth thermos and coordinates the habit with dinner cleanup so mornings are not rushed. The change is modest but meaningful — it saves money, improves his mornings, and feels like practical tradecraft rather than self-improvement theater. He plans a cheap test week before investing in better gear.",
+      "tags": [
+        "packed-lunch-habit",
+        "coffee-thermos-strategy",
+        "gas-station-spending-reduction",
+        "contractor-open-house-spark",
+        "chili-leftover-rotation",
+        "dinner-cleanup-pack-routine",
+        "budget-friendly-morning-routine",
+        "practical-tradecraft-habits"
+      ],
+      "tone": "positive",
+      "open_loops": [
+        "Completing the cheap test week with existing containers before buying upgrades",
+        "Setting up a by-the-door checklist (coffee, lunch, spoon, charger)",
+        "Identifying 2-3 meals that reheat well (chili, pierogies, sausage with peppers)",
+        "Making dinner-cleanup the pack routine rather than a morning task"
+      ],
+      "decisions": [
+        "Derek got more serious about packing leftovers and thermos lunches instead of grabbing gas-station food after a contract"
+      ],
+      "strands": [
+        "packed-lunch-habit",
+        "coffee-thermos-strategy",
+        "gas-station-spending-reduction",
+        "contractor-open-house-spark",
+        "chili-leftover-rotation",
+        "dinner-cleanup-pack-routine",
+        "budget-friendly-morning-routine",
+        "practical-tradecraft-habits"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2022-10-30-0940",
+      "date": "2022-10-30",
+      "start": "2022-10-30T09:40:00.000Z",
+      "end": "2022-10-30T11:01:00.000Z",
+      "turn_count": 28,
+      "status": "closed",
+      "focus": "Fall cohort attrition tests the new support system, forcing late-night calls and protocol design",
+      "summary": "The fall first-year cohort hits a rough patch as overtime, transportation failures, and shame spirals cause multiple apprentices to miss evening classes. Derek spends nights making personal calls — to apprentices, a parent, and a foreman — trying to catch people before they disappear completely. Ron Belski uses the wobbles to needle him that the support model is failing, which gets under Derek's skin. He decides to build a formal one-page contact protocol (who gets contacted when, what gets documented, when contractor/family contacts get involved) and a blunt three-point reset talk for class, while acknowledging he needs to protect his own sleep.",
+      "tags": [
+        "fall-cohort-attrition-crisis",
+        "apprentice-calling-marathon",
+        "attendance-bucket-analysis",
+        "ron-belski-opportunistic-criticism",
+        "shame-spiral-interruption",
+        "contractor-late-hours-conflict",
+        "sleep-and-stress-decline",
+        "protocol-design-from-crisis"
+      ],
+      "tone": "negative",
+      "open_loops": [
+        "Drafting a one-page contact ladder protocol with message scripts",
+        "Designing a blunt three-point reset talk about calling early",
+        "Talking to contractors about not running first-years late on class nights when avoidable",
+        "Building a timed contact sequence (same-night, next-day, escalate) for silent cases",
+        "Protecting sleep from the mental replay of missing apprentices"
+      ],
+      "decisions": [
+        "He is now more stressed and shorter on sleep because real apprentice drop-off is testing the new attendance system he ov"
+      ],
+      "strands": [
+        "fall-cohort-attrition-crisis",
+        "apprentice-calling-marathon",
+        "attendance-bucket-analysis",
+        "ron-belski-opportunistic-criticism",
+        "shame-spiral-interruption",
+        "contractor-late-hours-conflict",
+        "sleep-and-stress-decline",
+        "protocol-design-from-crisis"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2022-11-23-0805",
+      "date": "2022-11-23",
+      "start": "2022-11-23T08:05:00.000Z",
+      "end": "2022-11-23T09:19:00.000Z",
+      "turn_count": 26,
+      "status": "closed",
+      "focus": "Post-birthday kitchen-table talk with Erin yields weekly family night and monthly no-tools Sunday",
+      "summary": "After his birthday, Derek and Erin have a blunt but calm conversation in their unfinished dining room about how every free weekend gets consumed by union prep, side work, or Logan drama. They agree on two concrete boundaries: one protected family night every week and one no-tools Sunday every month. Derek realizes he had been treating free time as leftover scrap rather than a household resource, and that the half-renovated house itself was part of the stress. He commits to stock sentences for saying no and to not reading the house like a report card.",
+      "tags": [
+        "marriage-boundary-conversation",
+        "weekly-family-night",
+        "no-tools-sunday",
+        "free-time-as-household-resource",
+        "logan-drama-impact",
+        "renovation-perfectionism-pressure",
+        "unfinished-dining-room-symbolism",
+        "calendar-as-commitment-device"
+      ],
+      "tone": "positive",
+      "open_loops": [
+        "Protecting the first no-tools Sunday when a renovation temptation arises",
+        "Developing a stock sentence for declining extra obligations",
+        "Communicating the new boundaries to Logan and managing his mother's reaction",
+        "Separating the renovation queue into manageable steps vs. overwhelming whole-house view"
+      ],
+      "decisions": [
+        "Derek's relationship status shifted from general marital strain around weekends to clearer boundaries with Erin around f"
+      ],
+      "strands": [
+        "marriage-boundary-conversation",
+        "weekly-family-night",
+        "no-tools-sunday",
+        "free-time-as-household-resource",
+        "logan-drama-impact",
+        "renovation-perfectionism-pressure",
+        "unfinished-dining-room-symbolism",
+        "calendar-as-commitment-device"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2022-12-17-1225",
+      "date": "2022-12-17",
+      "start": "2022-12-17T12:25:00.000Z",
+      "end": "2022-12-17T13:51:00.000Z",
+      "turn_count": 30,
+      "status": "closed",
+      "focus": "Early-warning board built from attendance, safety slips, and contractor notes formalizes intervention process",
+      "summary": "After the fall cohort wobbles, Derek builds an early-warning board that consolidates attendance, missed labs, repeat safety slips, and contractor field notes into one visible system. He establishes trigger rules (one serious safety issue or any two flags from different buckets starts a conversation) and brings Tasha Freeman and two foremen in for short monthly 'reality talks' where they explain how attendance and safe habits affect hiring decisions. The board shifts his role from general orientation and check-ins to running a formal intervention process, and he begins simple trigger-action-outcome notes to track effectiveness.",
+      "tags": [
+        "early-warning-board-creation",
+        "three-signal-tracking-system",
+        "contractor-reality-talks",
+        "monthly-foreman-accountability",
+        "intervention-trigger-rules",
+        "beat-late-surprise-metric",
+        "attendance-safety-contractor-triad",
+        "tasha-freeman-backing"
+      ],
+      "tone": "mixed",
+      "open_loops": [
+        "Publishing clear trigger rules so instructors and foremen can use them consistently",
+        "Running the first monthly reality talk with contractor participation",
+        "Starting bare-bones intervention outcome notes (trigger, action, short outcome)",
+        "Tightening the response ladder so intervention is predictable rather than personal",
+        "Protecting mental load from the feeling that every missed pattern is a personal failure"
+      ],
+      "decisions": [
+        "Derek moved from general first-year orientation and retention check-ins to running a formal early-warning and interventi"
+      ],
+      "strands": [
+        "early-warning-board-creation",
+        "three-signal-tracking-system",
+        "contractor-reality-talks",
+        "monthly-foreman-accountability",
+        "intervention-trigger-rules",
+        "beat-late-surprise-metric",
+        "attendance-safety-contractor-triad",
+        "tasha-freeman-backing"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2023-01-29-1010",
+      "date": "2023-01-29",
+      "start": "2023-01-29T10:10:00.000Z",
+      "end": "2023-01-29T11:18:00.000Z",
+      "turn_count": 24,
+      "status": "closed",
+      "focus": "Snow-night war movie marathon with son reshapes entertainment toward one-sitting, self-contained films",
+      "summary": "During a cold homebound stretch, Derek and his son get pulled into an old war movie marathon on local TV, leading to a genuine bonding experience around military and industrial dramas. Derek realizes his entertainment sweet spot is films with concrete stakes and clean endings that can be finished in one sitting, rather than long series he never completes. He decides to build a short movie list split into war, industrial, and crime categories (about 6-8 total), leaving one slot open for random TV discoveries, and stops pretending he will become a 'big TV person.'",
+      "tags": [
+        "snow-night-war-movie-marathon",
+        "son-bonding-movie-night",
+        "self-contained-entertainment-preference",
+        "industrial-and-military-dramas",
+        "short-list-movie-rotation",
+        "long-series-abandonment",
+        "budget-friendly-home-evening",
+        "one-sitting-movie-format"
+      ],
+      "tone": "positive",
+      "open_loops": [
+        "Building a 6-8 movie short list split by mood (war/industrial/crime)",
+        "Marking 1-2 films as especially good for watching with his son",
+        "Keeping one slot open for accidental TV discoveries",
+        "Accepting that long series are a bad fit and not forcing them"
+      ],
+      "decisions": [
+        "Derek still prefers crime dramas and older war movies, but after the winter marathon he leaned even harder toward one-si"
+      ],
+      "strands": [
+        "snow-night-war-movie-marathon",
+        "son-bonding-movie-night",
+        "self-contained-entertainment-preference",
+        "industrial-and-military-dramas",
+        "short-list-movie-rotation",
+        "long-series-abandonment",
+        "budget-friendly-home-evening",
+        "one-sitting-movie-format"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2023-03-03-0815",
+      "date": "2023-03-03",
+      "start": "2023-03-03T08:15:00.000Z",
+      "end": "2023-03-03T09:41:00.000Z",
+      "turn_count": 30,
+      "status": "closed",
+      "focus": "Winter term results validate early-flagged apprentice improvements; forms standardized across all sections",
+      "summary": "Winter term outcomes show the early-flagged apprentice group stabilized rather than drifted, with better attendance and fewer repeat ladder and lockout-tagout write-ups. Based on this evidence, the training committee gives Derek real authority to standardize his check-in forms and skills sign-offs across all sections, transforming his personal pilot into the shared minimum. He wrestles with how to present this as a shared minimum rather than a personal victory, deciding to split the check-in form from the skills sign-offs, roll them out in stages, and let the evidence from the early-flagged group lead the conversation.",
+      "tags": [
+        "winter-term-results-validated",
+        "form-standardization-across-sections",
+        "early-flagged-group-stabilization",
+        "repeat-write-up-reduction",
+        "real-authority-granted",
+        "shared-minimum-framing",
+        "attendance-safety-contractor-triad-proven",
+        "pilot-to-standard-transition"
+      ],
+      "tone": "positive",
+      "open_loops": [
+        "Drafting a clean version of the shared minimum check-in form",
+        "Creating a separate skills sign-off document",
+        "Staggering rollout: form first, sign-offs second",
+        "Identifying non-negotiable core measures vs. flexible details",
+        "Handing off repeatable pieces so the system survives without him"
+      ],
+      "decisions": [
+        "Because the winter numbers held up, Derek was given authority to standardize first-year retention and safety tracking ac",
+        "The successful winter numbers eased Derek's fear that the added structure would become paperwork without real retention "
+      ],
+      "strands": [
+        "winter-term-results-validated",
+        "form-standardization-across-sections",
+        "early-flagged-group-stabilization",
+        "repeat-write-up-reduction",
+        "real-authority-granted",
+        "shared-minimum-framing",
+        "attendance-safety-contractor-triad-proven",
+        "pilot-to-standard-transition"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2023-04-10-0450",
+      "date": "2023-04-10",
+      "start": "2023-04-10T04:50:00.000Z",
+      "end": "2023-04-10T05:58:00.000Z",
+      "turn_count": 24,
+      "status": "closed",
+      "focus": "Hired outside help finishes first-floor renovation, making the house livable and reducing mental noise",
+      "summary": "After two years of eating around drop cloths, Derek finally hires outside help to finish the first-floor drywall and clear an electrical punch-list. The expense tightens cash flow again, but the immediate result — a usable, calm first floor — reduces mental noise for the whole family. He realizes that he had been normalizing inconvenience and that the lingering closeout tasks were the real bottleneck. He decides to pause major work on the second floor for a while, framing future spending around three criteria: usable space, time back, or less physical strain.",
+      "tags": [
+        "first-floor-finished-by-hired-help",
+        "renovation-budget-pressure",
+        "chronic-back-pacing-truth",
+        "mental-noise-reduction",
+        "livable-space-over-perfection",
+        "family-room-enjoyment",
+        "finishing-scope-prioritization",
+        "project-completion-vs-grind-decision"
+      ],
+      "tone": "positive",
+      "open_loops": [
+        "Absorbing the budget hit from paying outside help without overcorrecting",
+        "Pausing second-floor work to enjoy the first-floor completion",
+        "Sorting future house tasks into: only-him, energy-allows, hire-out",
+        "Resisting the temptation to immediately start the next renovation project"
+      ],
+      "decisions": [
+        "The Brookline row house first floor is now substantially finished and much less chaotic, making the home feel usable ins",
+        "The household cash flow tightened again because they paid outside help to push the first-floor renovation through."
+      ],
+      "strands": [
+        "first-floor-finished-by-hired-help",
+        "renovation-budget-pressure",
+        "chronic-back-pacing-truth",
+        "mental-noise-reduction",
+        "livable-space-over-perfection",
+        "family-room-enjoyment",
+        "finishing-scope-prioritization",
+        "project-completion-vs-grind-decision"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2023-05-27-1105",
+      "date": "2023-05-27",
+      "start": "2023-05-27T11:05:00.000Z",
+      "end": "2023-05-27T12:26:00.000Z",
+      "turn_count": 28,
+      "status": "closed",
+      "focus": "Summer bridge proposal rejected; redesigned as contractor-backed voluntary boot camp for underprepared entrants",
+      "summary": "Derek tries to push one step further by building a summer bridge evening for incoming apprentices with no shop comfort, but hits an institutional ceiling. Veteran instructors (especially Ron Belski) frame it as lowering standards and expecting unpaid extra time, while board members worry about rigor. Derek shrinks the idea into a smaller, voluntary pre-apprenticeship boot camp with contractor sponsorship, using 'readiness' language rather than 'deficiency.' He treats the reduced version as a pilot rather than a compromise, planning to collect attendance, confidence, and early-safety data to prove the concept.",
+      "tags": [
+        "summer-bridge-evening-proposal",
+        "institutional-authority-ceiling",
+        "deskilled-apprentice-readiness-gap",
+        "voluntary-boot-camp-pivot",
+        "contractor-sponsorship-strategy",
+        "ron-belski-tradition-defensiveness",
+        "readiness-over-deficiency-framing",
+        "pilot-compromise-acceptance"
+      ],
+      "tone": "mixed",
+      "open_loops": [
+        "Writing a one-page boot camp proposal with readiness framing and explicit boundaries",
+        "Securing contractor sponsorship to shift cost off JATC",
+        "Designing simple measures (attendance, early mistakes, confidence indicators)",
+        "Building a handoff sheet to identify transportation, tool, and confidence needs",
+        "Collecting data to prove the concept for a future expanded version"
+      ],
+      "decisions": [
+        "Derek stayed the main driver of first-year retention and safety reform, but his authority hit a limit when he tried to e"
+      ],
+      "strands": [
+        "summer-bridge-evening-proposal",
+        "institutional-authority-ceiling",
+        "deskilled-apprentice-readiness-gap",
+        "voluntary-boot-camp-pivot",
+        "contractor-sponsorship-strategy",
+        "ron-belski-tradition-defensiveness",
+        "readiness-over-deficiency-framing",
+        "pilot-compromise-acceptance"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2023-06-18-0935",
+      "date": "2023-06-18",
+      "start": "2023-06-18T09:35:00.000Z",
+      "end": "2023-06-18T10:56:00.000Z",
+      "turn_count": 28,
+      "status": "closed",
+      "focus": "Union pin display case purchase deepens collecting hobby with Local 5 focus and story documentation",
+      "summary": "With the house feeling more usable, Derek goes to a fire hall flea market with a neighbor and buys an old union pin display case. The purchase transforms his casual collecting into an active hobby: he cleans, sorts, and mounts Local 5 pins and regional labor memorabilia in the basement. He adopts rules — personal/local tie only, a notebook for stories, a monthly spending ceiling — and frames the hobby as 'putting order on a small corner of the world.' Erin is amused and relieved that he came home with one contained case instead of another giant project.",
+      "tags": [
+        "union-pin-display-case",
+        "basement-collecting-hobby",
+        "local-5-local-collecting-focus",
+        "stories-over-stuff-philosophy",
+        "personal-tie-acquisition-rule",
+        "organizing-as-restorative-activity",
+        "flea-market-discovery",
+        "neighbor-spontaneous-outing"
+      ],
+      "tone": "positive",
+      "open_loops": [
+        "Finishing the first display case before expanding",
+        "Starting a notebook to record provenance stories",
+        "Setting a spending ceiling for the hobby",
+        "Asking around (especially older tradespeople) with story-first approach",
+        "Exploring library resources for local labor history context"
+      ],
+      "decisions": [
+        "Derek still reads code updates and labor history and listens to labor podcasts, and he also picked up a small hobby of c"
+      ],
+      "strands": [
+        "union-pin-display-case",
+        "basement-collecting-hobby",
+        "local-5-local-collecting-focus",
+        "stories-over-stuff-philosophy",
+        "personal-tie-acquisition-rule",
+        "organizing-as-restorative-activity",
+        "flea-market-discovery",
+        "neighbor-spontaneous-outing"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2023-08-11-1045",
+      "date": "2023-08-11",
+      "start": "2023-08-11T10:45:00.000Z",
+      "end": "2023-08-11T11:59:00.000Z",
+      "turn_count": 26,
+      "status": "closed",
+      "focus": "Contractor-backed summer boot camp runs, giving earlier visibility into incoming apprentice readiness",
+      "summary": "The scaled-down summer boot camp runs successfully, feeding into first-year classes and giving Derek earlier visibility into incoming apprentices. Using donated contractor materials for multiple stations, he works apprentices one-on-one and quickly identifies three distinct problem buckets: transportation/logistics barriers, basic tool unfamiliarity, and confidence issues that look like discipline problems in group settings. He designs a simple handoff sheet for instructors that tags these buckets using observable behavior language rather than labeling apprentices, protecting nervous beginners from being branded before classes start.",
+      "tags": [
+        "summer-boot-camp-launch",
+        "pre-apprenticeship-visibility",
+        "donated-contractor-materials",
+        "one-on-one-station-screening",
+        "three-bucket-intake-categories",
+        "ladder-lab-as-diagnostic",
+        "confidence-vs-competence-distinction",
+        "handoff-sheet-design"
+      ],
+      "tone": "positive",
+      "open_loops": [
+        "Formalizing only the handoff sheet and station definition, not the whole camp",
+        "Thanking contractors specifically for enabling the material donation",
+        "Teaching one other instructor to run the basic tool station next round",
+        "Building intake notes that tag transportation, tool-readiness, and confidence buckets",
+        "Protecting pacing: long days on feet + coaching is physically demanding"
+      ],
+      "decisions": [
+        "Derek now oversees a contractor-backed pre-apprenticeship boot camp that feeds into the first-year classes and gives him"
+      ],
+      "strands": [
+        "summer-boot-camp-launch",
+        "pre-apprenticeship-visibility",
+        "donated-contractor-materials",
+        "one-on-one-station-screening",
+        "three-bucket-intake-categories",
+        "ladder-lab-as-diagnostic",
+        "confidence-vs-competence-distinction",
+        "handoff-sheet-design"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2023-09-22-0010",
+      "date": "2023-09-22",
+      "start": "2023-09-22T00:10:00.000Z",
+      "end": "2023-09-22T01:24:00.000Z",
+      "turn_count": 26,
+      "status": "closed",
+      "focus": "Chronic back management shifts from fighting to morning stretching, PT consistency, and softball pause",
+      "summary": "Derek finally admits his back is not going to 'fix' through toughness and commits to a consistent management routine: morning stretching, sticking with physical therapy, and cutting out the occasional softball that was aggravating his condition. The improvements are modest — the brutal lock-up episodes ease off, long teaching days become more manageable — but he learns to treat the one-sided tightness as a yellow-light signal rather than ignoring it. He decides to pause softball completely for a defined period with a check-in point based on functional stability, not mood.",
+      "tags": [
+        "chronic-back-maintenance-routine",
+        "morning-stretching-discipline",
+        "physical-therapy-consistency",
+        "softball-pause-decision",
+        "yellow-light-warning-signal",
+        "back-as-planning-problem",
+        "pride-vs-reality-acceptance",
+        "functional-steadiness-over-cure"
+      ],
+      "tone": "mixed",
+      "open_loops": [
+        "Writing down the morning routine in a visible place to prevent freelancing",
+        "Setting a check-in date for the softball pause with functional criteria",
+        "Shortening the weekend version of the stretching routine",
+        "Building automaticity: same order, same place, no decision-making"
+      ],
+      "decisions": [
+        "Derek's back is still a chronic issue, but steady morning stretching, sticking with physical therapy, and cutting back o"
+      ],
+      "strands": [
+        "chronic-back-maintenance-routine",
+        "morning-stretching-discipline",
+        "physical-therapy-consistency",
+        "softball-pause-decision",
+        "yellow-light-warning-signal",
+        "back-as-planning-problem",
+        "pride-vs-reality-acceptance",
+        "functional-steadiness-over-cure"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2023-11-17-0955",
+      "date": "2023-11-17",
+      "start": "2023-11-17T09:55:00.000Z",
+      "end": "2023-11-17T11:16:00.000Z",
+      "turn_count": 28,
+      "status": "closed",
+      "focus": "Formal presentation saves boot camp and check-in system for another full cycle; Derek becomes recognized point person",
+      "summary": "Derek compiles foreman emails, apprentice practical scores, and repeat write-up data into a formal presentation that earns cautious approval to continue the boot camp and first-year check-in system for another full cycle. He is now internally recognized as the point person for first-year retention and safety at IBEW Local 5 and the JATC. He decides to build a lean one-page summary plus backup packet strategy for future reviews, protect three non-negotiables (hands-on boot camp, pattern-based check-ins, contractor-connected tracking), and set a fixed mid-cycle review cadence so he is not always playing defense.",
+      "tags": [
+        "program-approval-second-cycle",
+        "foreman-email-evidence",
+        "point-person-designation",
+        "one-page-plus-backup-strategy",
+        "conditional-trust-navigation",
+        "contractor-vs-internal-credibility",
+        "non-negotiables-as-standards",
+        "program-maintenance-over-proving"
+      ],
+      "tone": "positive",
+      "open_loops": [
+        "Starting a simple call log documenting foreman requests for track graduates",
+        "Writing a one-page summary of non-negotiables as program standards (not personal preferences)",
+        "Setting mid-cycle review dates and metrics (practical scores, safety write-ups, field comments)",
+        "Building a repeatable review packet format for future cycles"
+      ],
+      "decisions": [
+        "IBEW Local 5 and the training committee now recognize Derek internally as the point person for the continuing first-year"
+      ],
+      "strands": [
+        "program-approval-second-cycle",
+        "foreman-email-evidence",
+        "point-person-designation",
+        "one-page-plus-backup-strategy",
+        "conditional-trust-navigation",
+        "contractor-vs-internal-credibility",
+        "non-negotiables-as-standards",
+        "program-maintenance-over-proving"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2024-01-08-1220",
+      "date": "2024-01-08",
+      "start": "2024-01-08T12:20:00.000Z",
+      "end": "2024-01-08T13:28:00.000Z",
+      "turn_count": 24,
+      "status": "closed",
+      "focus": "South Hills visit with calm older rescue dog shifts Derek from flat no on a dog to conditional maybe",
+      "summary": "A visit to a cousin with a newly adopted older rescue dog surprises Derek by being calm and low-drama, challenging his long-standing resistance to getting a family dog. He shifts from 'no dog ever' to 'maybe eventually, after specific conditions' — the basement cleaned, the yard fence tested and reliable, and a modest pet budget established. He and Erin discuss older rescue specifics (medium energy, leash manners, home-trained) and plan a practical sequence: test the fence, maybe dog-sit for a weekend, then look at rescues by summer if the household routine holds.",
+      "tags": [
+        "older-rescue-dog-consideration",
+        "south-hills-cousin-visit",
+        "dog-as-manageable-idea",
+        "children-and-calm-dog-proof",
+        "baseline-messaging-to-kids",
+        "fence-and-basement-gatekeepers",
+        "three-dog-conditions-list",
+        "preference-from-no-to-conditional"
+      ],
+      "tone": "positive",
+      "open_loops": [
+        "Testing the yard fence through winter weather",
+        "Dog-sitting for a weekend as a household stress test",
+        "Making a must-have/deal-breaker list with Erin",
+        "Communicating the shift to kids as a boring practical decision, not an emotional reversal",
+        "Cleaning out basement space that could accommodate a dog"
+      ],
+      "decisions": [
+        "After visiting a South Hills cousin with a newly adopted older rescue dog, Derek became open to eventually getting an ol"
+      ],
+      "strands": [
+        "older-rescue-dog-consideration",
+        "south-hills-cousin-visit",
+        "dog-as-manageable-idea",
+        "children-and-calm-dog-proof",
+        "baseline-messaging-to-kids",
+        "fence-and-basement-gatekeepers",
+        "three-dog-conditions-list",
+        "preference-from-no-to-conditional"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2024-02-26-0830",
+      "date": "2024-02-26",
+      "start": "2024-02-26T08:30:00.000Z",
+      "end": "2024-02-26T09:38:00.000Z",
+      "turn_count": 24,
+      "status": "closed",
+      "focus": "Longer-range retention numbers confirm the model; Derek transitions from inventor to steward",
+      "summary": "Derek gets the longer-range cohort comparison he has been waiting for: the first group through his revised orientation, check-ins, and safety labs shows measurably better retention not just in early weeks but persisting further along the pipeline. The evidence is strong enough that even skeptical colleagues have less room to dismiss it. He feels quiet pride rather than excitement, recognizing his role has shifted from building a pilot to maintaining and defending a proven system. He plans a one-page outcomes summary paired with a practical field guide for instructors.",
+      "tags": [
+        "longitudinal-retention-proof",
+        "apples-to-apples-cohort-comparison",
+        "steward-mode-transition",
+        "linked-essentials-framework",
+        "field-guide-for-instructors",
+        "contractor-feedback-alignment",
+        "quiet-pride-over-victory-lap",
+        "defending-against-program-erosion"
+      ],
+      "tone": "positive",
+      "open_loops": [
+        "Writing a one-page outcomes summary for the evidence-minded audience",
+        "Creating a short field guide for instructors with non-negotiables",
+        "Testing the guide with one skeptical and one supportive reader",
+        "Framing non-negotiables as: early visibility, early correction, safer skill formation",
+        "Defining what can flex vs. what breaks the result"
+      ],
+      "decisions": [
+        "Derek's job has shifted from building a pilot and boot-camp feeder to maintaining and defending a proven first-year rete",
+        "Derek feels more settled and quietly proud now that longer-range numbers confirm the support model he fought to keep ali"
+      ],
+      "strands": [
+        "longitudinal-retention-proof",
+        "apples-to-apples-cohort-comparison",
+        "steward-mode-transition",
+        "linked-essentials-framework",
+        "field-guide-for-instructors",
+        "contractor-feedback-alignment",
+        "quiet-pride-over-victory-lap",
+        "defending-against-program-erosion"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2024-04-19-1040",
+      "date": "2024-04-19",
+      "start": "2024-04-19T10:40:00.000Z",
+      "end": "2024-04-19T11:54:00.000Z",
+      "turn_count": 26,
+      "status": "closed",
+      "focus": "Holds firm on no more cash for Logan, offering job leads and training support instead",
+      "summary": "Derek's mother calls asking for another loan for Logan, but Derek holds the line — no money, but he will offer job leads, union-adjacent training options, and one evening to review postings together. The conversation leaves a cooler distance with his mother, who frames his refusal as coldness, and Logan who must adjust to practical help rather than cash. Derek commits to one specific evening offer without repeated follow-up, a short script for his mother ('I'm willing to help with leads and training options, but I am not giving money'), and tolerating the cooler phase rather than rushing to smooth things over.",
+      "tags": [
+        "logan-cash-boundary-enforcement",
+        "marlene-guilt-pressure",
+        "practical-help-over-bailout",
+        "job-leads-and-training-offer",
+        "family-distance-tolerance",
+        "script-for-mother-boundaries",
+        "modeling-boundaries-for-children",
+        "job-offer-not-rescue-pattern"
+      ],
+      "tone": "mixed",
+      "open_loops": [
+        "Sending Logan one message with specific job leads and a time to meet",
+        "Not chasing if Logan blows off the sit-down",
+        "Using the short script with Marlene and changing the subject if pushed",
+        "Watching for disrespect vs. tolerating disappointment",
+        "Modeling this boundary approach for his children"
+      ],
+      "decisions": [
+        "Derek is now helping Logan with practical job leads and next-step planning instead of open-ended cash bailouts, which ha",
+        "Calls with Marlene are now tenser because Derek stopped solving Logan's problems with cash and is holding a harder line "
+      ],
+      "strands": [
+        "logan-cash-boundary-enforcement",
+        "marlene-guilt-pressure",
+        "practical-help-over-bailout",
+        "job-leads-and-training-offer",
+        "family-distance-tolerance",
+        "script-for-mother-boundaries",
+        "modeling-boundaries-for-children",
+        "job-offer-not-rescue-pattern"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2024-06-14-0720",
+      "date": "2024-06-14",
+      "start": "2024-06-14T07:20:00.000Z",
+      "end": "2024-06-14T08:34:00.000Z",
+      "turn_count": 26,
+      "status": "closed",
+      "focus": "Local 5 backs standardized first-year materials, common demo checklists, and consistent safety delivery across sections",
+      "summary": "With a stronger cohort visible as proof, Derek pushes a harder reform: Local 5 and the Western Pennsylvania Electrical JATC back him on standardizing first-year instruction materials and delivery across all sections. He builds a shared lesson binder, a common demo checklist, and a rule that repeat safety topics must be taught the same way across all sections. He frames the change as fairness to apprentices — a first-year should not get a weaker version of core safety based on which instructor they drew — and keeps the spine fixed while letting instructor personality vary in pacing and examples.",
+      "tags": [
+        "first-year-material-standardization",
+        "shared-lesson-binder",
+        "common-demo-checklist",
+        "repeat-safety-topic-consistency",
+        "fairness-to-apprentices-framing",
+        "instructor-identity-challenge",
+        "local-5-backing",
+        "three-nonnegotiables-framework"
+      ],
+      "tone": "positive",
+      "open_loops": [
+        "Rolling out the shared binder in smaller chunks rather than a grand overhaul",
+        "Running short check-ins where instructors compare one repeat lesson at a time",
+        "Making the demo checklist visible during labs, not just filed away",
+        "Using alignment with site expectations as formal justification",
+        "Protecting three non-negotiables: binder, checklist, repeat-topic rule"
+      ],
+      "decisions": [
+        "Derek now has backing through Local 5 and the Western Pennsylvania Electrical JATC to standardize first-year instructor"
+      ],
+      "strands": [
+        "first-year-material-standardization",
+        "shared-lesson-binder",
+        "common-demo-checklist",
+        "repeat-safety-topic-consistency",
+        "fairness-to-apprentices-framing",
+        "instructor-identity-challenge",
+        "local-5-backing",
+        "three-nonnegotiables-framework"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2024-08-27-0150",
+      "date": "2024-08-27",
+      "start": "2024-08-27T01:50:00.000Z",
+      "end": "2024-08-27T03:11:00.000Z",
+      "turn_count": 28,
+      "status": "closed",
+      "focus": "Deep Creek family trip and regional industrial essays reveal preference for low-pressure breaks and reading",
+      "summary": "A practical family trip to Deep Creek becomes unexpectedly restorative, helped by rainy mornings that forced the family to slow down. Derek discovers short, plainspoken regional industrial history essays on a lodge bookshelf, which satisfy his interest in labor history without feeling like homework. He decides to keep one or two accessible regional books on hand (especially for truck reading), browse used stores rather than assign a curriculum, and plan another simple cabin weekend to confirm that the low-key format is a real preference rather than a one-off.",
+      "tags": [
+        "deep-creek-family-trip",
+        "regional-industrial-essays-discovery",
+        "low-friction-reading-preference",
+        "unpacked-trip-as-restoration",
+        "off-ramp-not-homework-reading",
+        "portable-reading-for-truck",
+        "used-store-browsing-strategy",
+        "family-trip-as-participation"
+      ],
+      "tone": "positive",
+      "open_loops": [
+        "Picking up 1-2 regional industrial essay books from used stores",
+        "Keeping one book in the truck for dead pockets of time",
+        "Planning a second simple cabin weekend to test the pattern",
+        "Building a small shelf of lighter nonfiction alongside the serious material"
+      ],
+      "decisions": [
+        "During a practical family trip to Deep Creek after a heavy spring of program meetings, Derek found the cabin weekend gen"
+      ],
+      "strands": [
+        "deep-creek-family-trip",
+        "regional-industrial-essays-discovery",
+        "low-friction-reading-preference",
+        "unpacked-trip-as-restoration",
+        "off-ramp-not-homework-reading",
+        "portable-reading-for-truck",
+        "used-store-browsing-strategy",
+        "family-trip-as-participation"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2024-11-09-1000",
+      "date": "2024-11-09",
+      "start": "2024-11-09T10:00:00.000Z",
+      "end": "2024-11-09T11:26:00.000Z",
+      "turn_count": 30,
+      "status": "closed",
+      "focus": "Foremen call asking for track graduates by name; pipeline gains field credibility and external demand",
+      "summary": "Two foremen call Derek unprompted, asking specifically for apprentices who have come through his first-year track — the first time the pipeline's reputation has generated external, hiring-side demand. Combined with the second cohort's attendance staying above the danger zone, the evidence now includes both internal retention numbers and field-level demand. Derek recognizes his role has shifted again to advocacy for a proven pipeline. He starts a plain call log, writes non-negotiables as program standards, and notes his back has been more manageable as the emotional pressure eases.",
+      "tags": [
+        "foremen-asking-by-name",
+        "field-credibility-earned",
+        "recognizable-first-year-track",
+        "two-cohort-consistency",
+        "call-log-evidence",
+        "pipeline-advocacy-posture",
+        "waiting-room-evidence-not-personality",
+        "back-manageability-parallel"
+      ],
+      "tone": "positive",
+      "open_loops": [
+        "Starting a plain call log with date, contractor, what they asked for, and track provenance",
+        "Writing a one-page summary of the recognizable track for internal audiences",
+        "Defending conditions that produce the field-trusted result",
+        "Setting a mid-cycle check for the second cohort before noise starts",
+        "Keeping physical steadiness (back) parallel to program steadiness"
+      ],
+      "decisions": [
+        "Derek is now seen as the coordinator of a respected first-year apprenticeship pipeline whose graduates are increasingly"
+      ],
+      "strands": [
+        "foremen-asking-by-name",
+        "field-credibility-earned",
+        "recognizable-first-year-track",
+        "two-cohort-consistency",
+        "call-log-evidence",
+        "pipeline-advocacy-posture",
+        "waiting-room-evidence-not-personality",
+        "back-manageability-parallel"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2025-02-03-1115",
+      "date": "2025-02-03",
+      "start": "2025-02-03T11:15:00.000Z",
+      "end": "2025-02-03T12:23:00.000Z",
+      "turn_count": 24,
+      "status": "closed",
+      "focus": "Basement cleanup and yard patching make house feel stable; older rescue dog plan moves toward summer target",
+      "summary": "The house reaches a functional threshold: basement cleanup and yard patching have reduced the constant 'active jobsite' feeling, making daily family life significantly calmer. With this stability, Derek and Erin begin treating the older rescue dog idea as a realistic near-term plan rather than a vague someday dream. They set practical checkpoints — fence testing through weather, a possible weekend dog-sit, and a joint must-have/deal-breaker list — with a summer target if conditions hold. Derek reflects that he cared more about the house feeling stable than checking off every last project.",
+      "tags": [
+        "baseline-cleanup-completion",
+        "family-dog-plan-progress",
+        "older-rescue-summer-target",
+        "fence-as-gatekeeper",
+        "household-routine-test",
+        "dog-sitting-stress-test",
+        "practical-adoption-conditions",
+        "stability-before-expansion"
+      ],
+      "tone": "positive",
+      "open_loops": [
+        "Testing the fence through winter-to-spring weather before committing",
+        "Finding a weekend dog-sit opportunity as a household stress test",
+        "Writing a joint must-have/deal-breaker list with Erin",
+        "Browsing rescue pages as research only (no inquiries until conditions met)",
+        "Identifying older-rescue specifics: energy, size, leash manners, alone-tolerance"
+      ],
+      "decisions": [
+        "By early 2028, Derek and Erin's Brookline row house was mostly functional with only scattered projects left, making dail"
+      ],
+      "strands": [
+        "baseline-cleanup-completion",
+        "family-dog-plan-progress",
+        "older-rescue-summer-target",
+        "fence-as-gatekeeper",
+        "household-routine-test",
+        "dog-sitting-stress-test",
+        "practical-adoption-conditions",
+        "stability-before-expansion"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2025-05-30-0840",
+      "date": "2025-05-30",
+      "start": "2025-05-30T08:40:00.000Z",
+      "end": "2025-05-30T10:06:00.000Z",
+      "turn_count": 30,
+      "status": "closed",
+      "focus": "Spring completion meetings confirm back-to-back strong cohorts; first-year system becomes permanent program",
+      "summary": "The spring completion meetings mark the ultimate validation: back-to-back stronger cohorts, improved first-to-third-year retention, fewer repeat preventable safety write-ups, and foremen asking for redesigned-class graduates by name. The room's tone shifts from 'let's see if this experiment keeps working' to 'this is how first year runs now.' Derek feels relief more than pride — the emotional burden of proving the model lifts as the system institutionalizes. He resolves to write non-negotiables, set a review cadence, and formally distinguish between what must stay fixed and what is open to instructor style.",
+      "tags": [
+        "back-to-back-strong-cohorts",
+        "retention-safety-foreman-demand-triad",
+        "system-institutionalized",
+        "relief-over-pride",
+        "non-negotiable-vs-style-distinction",
+        "empty-room-proof-moment",
+        "steward-not-inventor",
+        "lighter-emotional-burden"
+      ],
+      "tone": "positive",
+      "open_loops": [
+        "Writing a clean one-page outcomes summary with the retention-safety-demand triad",
+        "Formally distinguishing non-negotiables from optional style elements",
+        "Setting a simple review checkpoint to prevent drift",
+        "Identifying at least one other person who can carry the system logic",
+        "Letting the relief settle before jumping into the next improvement"
+      ],
+      "decisions": [
+        "Years of Derek's notes, arguments, and contractor call lists have now solidified into a training system that Local 5 and",
+        "He feels lighter and more grounded because the apprenticeship overhaul now has hard proof behind it instead of resting o"
+      ],
+      "strands": [
+        "back-to-back-strong-cohorts",
+        "retention-safety-foreman-demand-triad",
+        "system-institutionalized",
+        "relief-over-pride",
+        "non-negotiable-vs-style-distinction",
+        "empty-room-proof-moment",
+        "steward-not-inventor",
+        "lighter-emotional-burden"
+      ],
+      "needs_marking": false
+    }
+  ]
+}

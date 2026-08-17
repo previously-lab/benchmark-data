@@ -1,0 +1,1213 @@
+{
+  "_schema": 1,
+  "updated_at": "2026-08-17T16:21:35.727Z",
+  "slice_count": 30,
+  "needs_marking": 0,
+  "slices": [
+    {
+      "id": "2022-01-08-0100",
+      "date": "2022-01-08",
+      "start": "2022-01-08T01:00:00.000Z",
+      "end": "2022-01-08T02:21:00.000Z",
+      "turn_count": 28,
+      "status": "closed",
+      "focus": "Establishing who Colleen is and what matters to her in advance of future conversations.",
+      "summary": "Colleen Sweeney introduces herself fully: 36-year-old ISFJ history grad, education manager at Fireman's Hall Museum, single, lives in a South Philadelphia rowhouse. She shares her Museum Education Expansion goal, family constellation (parents Patricia/Michael, nephew Owen, executive director Leonard, volunteer Franklin, friend Nina), salary context ($52K + freelance tours), Philadelphia identity, and preferences (alternative rock, tomato pie, Phillies, detective novels, short Northeast train trips).",
+      "tags": [
+        "initial-onboarding",
+        "life-snapshot",
+        "work-overview",
+        "family-dynamics",
+        "financial-context",
+        "health-baseline",
+        "goal-setting",
+        "philadelphia-life"
+      ],
+      "tone": "hopeful-and-grounded",
+      "open_loops": [
+        "Museum Education Expansion goal still aspirational -- needs to move from vision to execution plan",
+        "Voice hoarseness mentioned as seasonal issue, not yet addressed systematically",
+        "Freelance walking tours as financial cushion but unpredictable"
+      ],
+      "decisions": [],
+      "strands": [
+        "initial-onboarding",
+        "life-snapshot",
+        "work-overview",
+        "family-dynamics",
+        "financial-context",
+        "health-baseline",
+        "goal-setting",
+        "philadelphia-life"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2022-01-22-0840",
+      "date": "2022-01-22",
+      "start": "2022-01-22T08:40:00.000Z",
+      "end": "2022-01-22T10:06:00.000Z",
+      "turn_count": 30,
+      "status": "closed",
+      "focus": "Colleen uses hard data to convince Leonard to approve a formal rebuild year for the school program.",
+      "summary": "Colleen presents a homemade spreadsheet to Leonard showing missed capacity, weak repeat-teacher patterns, and volunteer-dependent tour length inconsistency. He approves treating 2025 as a formal rebuild year. She defines three levers: disciplined booking data, direct teacher outreach, and a revised school tour structure. Feels discouraged by the weak season but more focused now that stagnation is documented.",
+      "tags": [
+        "work-breakthrough",
+        "data-driven-case",
+        "rebuild-year",
+        "teacher-outreach",
+        "volunteer-dynamics",
+        "goal-planning",
+        "museum-politics",
+        "seasonal-discouragement"
+      ],
+      "tone": "discouraged-but-determined",
+      "open_loops": [
+        "Teacher outreach list needs to be built -- template not yet drafted",
+        "Revised school-tour format not yet designed, volunteer pushback anticipated",
+        "Spring scorecard defined (one tracker, teacher list, one on-time visit) but not yet executed"
+      ],
+      "decisions": [
+        "Leonard approved Colleen's plan to treat 2025 as a formal rebuild year for Fireman's Hall Museum's school-program calend",
+        "Colleen feels discouraged by the weak school season but more focused now that the stagnation is documented and harder fo"
+      ],
+      "strands": [
+        "work-breakthrough",
+        "data-driven-case",
+        "rebuild-year",
+        "teacher-outreach",
+        "volunteer-dynamics",
+        "goal-planning",
+        "museum-politics",
+        "seasonal-discouragement"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2022-02-09-0615",
+      "date": "2022-02-09",
+      "start": "2022-02-09T06:15:00.000Z",
+      "end": "2022-02-09T07:36:00.000Z",
+      "turn_count": 28,
+      "status": "closed",
+      "focus": "A family visit with Owen reveals that shorter, activity-first formats engage kids better than explanatory lead-ins.",
+      "summary": "Colleen brings prototype hose-nozzle handling cards to her sister's house and tests them with Owen. She discovers he engages far more with a timed clue challenge than with her careful educational introduction. This sparks a broader design insight: earn the explanation, don't lead with it. She commits to a three-beat structure (hook, clue round, story tie-in) and starts a simple observation notebook for Owen's reactions.",
+      "tags": [
+        "family-as-test-audience",
+        "child-engagement",
+        "prototyping",
+        "activity-design",
+        "pacing-insight",
+        "nephew-bonding",
+        "voice-awareness",
+        "design-iteration"
+      ],
+      "tone": "curious-and-engaged",
+      "open_loops": [
+        "Three-beat activity format needs full rewrite and further testing with additional kids",
+        "Involving Nina (librarian) for professional observation of children's flow",
+        "Prototype notebook format (hook/drop-off/re-engage) created but not yet populated"
+      ],
+      "decisions": [
+        "Owen's enthusiastic reactions have become one of Colleen's most trusted checks on whether a museum activity is actually "
+      ],
+      "strands": [
+        "family-as-test-audience",
+        "child-engagement",
+        "prototyping",
+        "activity-design",
+        "pacing-insight",
+        "nephew-bonding",
+        "voice-awareness",
+        "design-iteration"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2022-03-05-0220",
+      "date": "2022-03-05",
+      "start": "2022-03-05T02:20:00.000Z",
+      "end": "2022-03-05T03:34:00.000Z",
+      "turn_count": 26,
+      "status": "closed",
+      "focus": "Colleen moves from general rebuild into leading a structured pilot of the museum's first curriculum-tied school package.",
+      "summary": "Colleen completes a 4th-grade Philadelphia fire history curriculum package with three components: pre-visit slides for teachers, a fixed 45-minute museum route, and an outreach cart for classroom visits when transportation fails. The design is grounded in teacher input and analysis of past canceled/rushed tours. She defines three nonnegotiables (city history thread, one hands-on moment, one fast noticing prompt) and commits to 'protecting the test' from scope creep.",
+      "tags": [
+        "curriculum-package",
+        "pilot-launch",
+        "teacher-needs",
+        "bus-schedule-reality",
+        "pre-visit-materials",
+        "outreach-cart",
+        "45-minute-route",
+        "program-structure"
+      ],
+      "tone": "excited-but-exposed",
+      "open_loops": [
+        "Pushback expected from volunteers who prefer longer storytelling format",
+        "Need to present package as 'working pilot' not finished product",
+        "Classroom version needs one-sentence definition ('same story, smaller footprint')"
+      ],
+      "decisions": [
+        "Colleen moved from a general 2025 school-program rebuild into leading a structured pilot of the museum's first curriculu"
+      ],
+      "strands": [
+        "curriculum-package",
+        "pilot-launch",
+        "teacher-needs",
+        "bus-schedule-reality",
+        "pre-visit-materials",
+        "outreach-cart",
+        "45-minute-route",
+        "program-structure"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2022-03-29-1030",
+      "date": "2022-03-29",
+      "start": "2022-03-29T10:30:00.000Z",
+      "end": "2022-03-29T11:56:00.000Z",
+      "turn_count": 30,
+      "status": "closed",
+      "focus": "After the packet push, Colleen discovers her reading habits have shifted toward lighter detective novels as a recovery practice.",
+      "summary": "Nina takes a depleted Colleen to a used bookstore after finishing the first school packet. Colleen discovers she craves secondhand detective novels over dense history books during busy stretches. She realizes she needs to separate reading into two lanes: comfort fiction for depleted weekday evenings and serious reading for weekend mornings. Commits to a bedside basket of used mysteries and thanks Nina for 'plot-based intervention.'",
+      "tags": [
+        "reading-habits",
+        "burnout-recovery",
+        "friend-intervention",
+        "detective-novels",
+        "comfort-reading",
+        "guilt-release",
+        "weekday-vs-weekend",
+        "ritual-creation"
+      ],
+      "tone": "relieved-and-self-aware",
+      "open_loops": [
+        "Basket of used mysteries by the bed -- keeping it as a default evening habit",
+        "Tension between ideal-self reading and what actually helps on a Tuesday needs ongoing management",
+        "Used-bookstore ritual as part of recovery practice, not just genre preference"
+      ],
+      "decisions": [
+        "Colleen now leans more heavily on secondhand detective novels from Nina during busy museum stretches, saving narrative h"
+      ],
+      "strands": [
+        "reading-habits",
+        "burnout-recovery",
+        "friend-intervention",
+        "detective-novels",
+        "comfort-reading",
+        "guilt-release",
+        "weekday-vs-weekend",
+        "ritual-creation"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2022-04-17-0750",
+      "date": "2022-04-17",
+      "start": "2022-04-17T07:50:00.000Z",
+      "end": "2022-04-17T08:58:00.000Z",
+      "turn_count": 24,
+      "status": "closed",
+      "focus": "After two pilot visits, Colleen shifts from testing to actively marketing the school program.",
+      "summary": "Two pilot visits (one district, one charter) give Colleen critical feedback: teachers care most about standards alignment, price options, and bus logistics, not just the content. She rewrites the packet into a teacher-facing menu, gets Leonard's approval for a wider outreach email, and prepares follow-up templates. The work shifts from 'can I build this' to 'will anyone adopt it,' which feels more vulnerable but more honest.",
+      "tags": [
+        "teacher-feedback",
+        "pilot-results",
+        "outreach-email",
+        "marketing-shift",
+        "logistics-as-access",
+        "vulnerable-launch",
+        "menu-draft",
+        "adoption-phase"
+      ],
+      "tone": "vulnerable-and-purposeful",
+      "open_loops": [
+        "Outreach email needs final subject line and lead paragraph -- resisting the urge to cram everything in",
+        "Follow-up templates need drafting before sending",
+        "District vs charter audience may need slightly different messaging"
+      ],
+      "decisions": [
+        "Colleen moved the museum's school initiative from a structured pilot into active marketing, with a tested curriculum-ali"
+      ],
+      "strands": [
+        "teacher-feedback",
+        "pilot-results",
+        "outreach-email",
+        "marketing-shift",
+        "logistics-as-access",
+        "vulnerable-launch",
+        "menu-draft",
+        "adoption-phase"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2022-05-08-1210",
+      "date": "2022-05-08",
+      "start": "2022-05-08T12:10:00.000Z",
+      "end": "2022-05-08T13:18:00.000Z",
+      "turn_count": 24,
+      "status": "closed",
+      "focus": "A severe voice flare forces Colleen to stop treating hoarseness as a minor annoyance and adopt real preventive measures.",
+      "summary": "After a day of stacked spring tours plus outreach, Colleen's voice drops out badly enough to send her to urgent care. The clinician tells her this is cumulative, not occasional. She adopts a microphone, stricter water tracking, and begins limiting consecutive high-talk days. She also cuts back some freelance walking-tour weekends for recovery. Starts reframing voice protection as 'equipment, not concession.'",
+      "tags": [
+        "voice-health",
+        "urgent-care",
+        "microphone-adaptation",
+        "hydration-discipline",
+        "spring-exhaustion",
+        "work-limits",
+        "freelance-tradeoff",
+        "preventive-care"
+      ],
+      "tone": "scared-and-practical",
+      "open_loops": [
+        "Scheduling conversation with work about pacing -- waiting until habits are established first",
+        "Mic adoption needs to become default, not optional",
+        "Threshold rule needed for consecutive high-talk days"
+      ],
+      "decisions": [
+        "After a rough May voice flare, Colleen now treats her seasonal hoarseness more seriously by using a microphone when poss"
+      ],
+      "strands": [
+        "voice-health",
+        "urgent-care",
+        "microphone-adaptation",
+        "hydration-discipline",
+        "spring-exhaustion",
+        "work-limits",
+        "freelance-tradeoff",
+        "preventive-care"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2022-06-12-0305",
+      "date": "2022-06-12",
+      "start": "2022-06-12T03:05:00.000Z",
+      "end": "2022-06-12T04:26:00.000Z",
+      "turn_count": 28,
+      "status": "closed",
+      "focus": "Fall holds arrive and Colleen builds a second package, now running a two-part school program with measurable pipeline categories.",
+      "summary": "Colleen gets real fall holds from schools, not just vague interest. She builds a second package for lower grades (neighborhood fire safety, object handling). Her spreadsheet now separates museum visits, in-school outreach, and probable repeats into distinct categories. Mood shifts from discouraged to cautiously encouraged because the pipeline has shape. She prepares a one-page internal summary and plans a soft release of the new package.",
+      "tags": [
+        "fall-pipeline",
+        "second-package",
+        "lower-grades",
+        "spreadsheet-tracking",
+        "tracking-discipline",
+        "cautious-optimism",
+        "repeat-probability",
+        "menu-expansion"
+      ],
+      "tone": "cautiously-encouraged",
+      "open_loops": [
+        "Probable-repeat definition needs rule-based criteria (not emotional) to be credible",
+        "One-page internal summary for Leonard not yet finalized",
+        "Soft release of lower-grades package to already-interested schools"
+      ],
+      "decisions": [
+        "Colleen is now running a growing two-package school program and tracks museum visits, in-school outreach, and likely rep",
+        "Her mood shifted from discouraged but focused to cautiously encouraged because a real fall school pipeline is finally fo"
+      ],
+      "strands": [
+        "fall-pipeline",
+        "second-package",
+        "lower-grades",
+        "spreadsheet-tracking",
+        "tracking-discipline",
+        "cautious-optimism",
+        "repeat-probability",
+        "menu-expansion"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2022-07-06-0540",
+      "date": "2022-07-06",
+      "start": "2022-07-06T05:40:00.000Z",
+      "end": "2022-07-06T06:54:00.000Z",
+      "turn_count": 26,
+      "status": "closed",
+      "focus": "A Baltimore museum educators meetup introduces self-paced audio ideas and sharpens Colleen's preference for compact, sustainable formats.",
+      "summary": "Colleen attends a small museum educators meetup in Baltimore and becomes interested in compact audio guides that let visitors move at their own pace (reducing live narration pressure). She also re-engages with portable activity kits. The trip confirms that her short Northeast train trips have evolved from leisure into deliberate field research for adaptable education formats. She plans a single-room audio pilot and captures portable-kit notes before they scatter.",
+      "tags": [
+        "professional-development",
+        "museum-meetup",
+        "audio-guides",
+        "portable-kits",
+        "self-paced-options",
+        "scouting-travel",
+        "voice-preservation",
+        "idea-piloting"
+      ],
+      "tone": "curious-and-energized",
+      "open_loops": [
+        "Single-room audio stop prototype -- needs ninety-second script and test with Owen",
+        "Portable-kit idea documented but not yet designed",
+        "Political framing needed: 'adding another lane' not 'replacing guides'"
+      ],
+      "decisions": [
+        "Colleen now leans even more toward short Northeast train trips specifically to scout small museums for practical educati"
+      ],
+      "strands": [
+        "professional-development",
+        "museum-meetup",
+        "audio-guides",
+        "portable-kits",
+        "self-paced-options",
+        "scouting-travel",
+        "voice-preservation",
+        "idea-piloting"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2022-09-03-0055",
+      "date": "2022-09-03",
+      "start": "2022-09-03T00:55:00.000Z",
+      "end": "2022-09-03T02:03:00.000Z",
+      "turn_count": 24,
+      "status": "closed",
+      "focus": "A busy fall start forces Colleen to standardize volunteer-led tours with route cards, check-ins, and pacing rules.",
+      "summary": "More school buses than expected arrive in September, exposing that tours are not built for school-day clocks. Colleen calls a tense volunteer meeting using the apparatus floor map to show where time disappears. She introduces timed route cards, shorter story options, and guide check-in sheets. The hardest pushback comes from the most respected veteran guide. She plans one-on-one conversation to recruit him as a collaborator on the 'best short version.'",
+      "tags": [
+        "volunteer-standardization",
+        "timed-route-cards",
+        "tense-meeting",
+        "pacing-culture",
+        "school-logistics",
+        "leaderhip-test",
+        "operaional-triage",
+        "guide-check-ins"
+      ],
+      "tone": "tense-and-grounded",
+      "open_loops": [
+        "One-on-one with resistant veteran guide -- needs to be framed as recruitment, not correction",
+        "Fixed/flexible split on route cards to preserve personality where it matters",
+        "One-page rationale for volunteers explaining school-day constraints"
+      ],
+      "decisions": [
+        "Colleen's education-manager role has shifted from building the school program to managing a busier season and trying to "
+      ],
+      "strands": [
+        "volunteer-standardization",
+        "timed-route-cards",
+        "tense-meeting",
+        "pacing-culture",
+        "school-logistics",
+        "leaderhip-test",
+        "operaional-triage",
+        "guide-check-ins"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2022-09-29-1120",
+      "date": "2022-09-29",
+      "start": "2022-09-29T11:20:00.000Z",
+      "end": "2022-09-29T12:41:00.000Z",
+      "turn_count": 28,
+      "status": "closed",
+      "focus": "Colleen does a real financial reset, cutting freelance weekend tours to protect her voice and reworking her budget on a yellow legal pad.",
+      "summary": "At her parents' kitchen table, Colleen recalculates her budget knowing she needs fewer freelance walking-tour weekends to protect her voice. The museum salary ($52K) still covers basics, but the cushion is thinner. She cuts mindless spending, keeps deliberate comforts, creates a red-yellow-green system for deciding when to take extra work, and starts an 'annoying life' fund. The identity hit of not being the person who always says yes to extra work is harder than the math.",
+      "tags": [
+        "financial-reset",
+        "freelance-reduction",
+        "voice-protection",
+        "budget-tradeoff",
+        "family-finances",
+        "annoying-life-fund",
+        "household-organization",
+        "identity-shift"
+      ],
+      "tone": "sober-and-practical",
+      "open_loops": [
+        "Red-yellow-green system needs concrete triggers (hours of speaking, need for amplification, end-of-day strain)",
+        "Dining room organization needed to reduce duplicate purchases and evening friction",
+        "Annoying-life fund as psychological buffer, grows slowly"
+      ],
+      "decisions": [
+        "Colleen reworked her budget after cutting back some freelance weekend walking tours because spring voice trouble made th"
+      ],
+      "strands": [
+        "financial-reset",
+        "freelance-reduction",
+        "voice-protection",
+        "budget-tradeoff",
+        "family-finances",
+        "annoying-life-fund",
+        "household-organization",
+        "identity-shift"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2022-10-21-0810",
+      "date": "2022-10-21",
+      "start": "2022-10-21T08:10:00.000Z",
+      "end": "2022-10-21T09:36:00.000Z",
+      "turn_count": 30,
+      "status": "closed",
+      "focus": "A chaotic field trip exposes the program's operational fragility, shaking Colleen's confidence but also clarifying where to reinforce.",
+      "summary": "A volunteer cancellation plus one guide ignoring the route card plus a closed gallery area creates a visibly chaotic school visit. The teacher says she won't rebook without a tighter plan. Colleen feels rattled but distinguishes between program concept (sound, kids were engaged) and delivery system (fragile). She plans a degraded-mode route for reduced staffing, a blocked-area alternate path, and a firmer volunteer meeting about nonnegotiables.",
+      "tags": [
+        "failed-field-trip",
+        "credibility-crisis",
+        "compound-failure",
+        "teacher-trust",
+        "staffing-fragility",
+        "volunteer-noncompliance",
+        "backup-planning",
+        "embarrassment"
+      ],
+      "tone": "rattled-and-clear",
+      "open_loops": [
+        "Short apology note to teacher tonight -- acknowledging without overpromising",
+        "Degraded-mode plan for reduced staffing -- needs drafting before volunteer meeting",
+        "Volunteer noncompliance: route adherence as nonnegotiable for school visits"
+      ],
+      "decisions": [
+        "Colleen's fall school-program push took a credibility hit after a chaotic field-trip day exposed how fragile the museum'",
+        "She felt embarrassed and rattled after the failed visit, worrying that one bad day could erase months of teacher trust."
+      ],
+      "strands": [
+        "failed-field-trip",
+        "credibility-crisis",
+        "compound-failure",
+        "teacher-trust",
+        "staffing-fragility",
+        "volunteer-noncompliance",
+        "backup-planning",
+        "embarrassment"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2022-11-16-0935",
+      "date": "2022-11-16",
+      "start": "2022-11-16T09:35:00.000Z",
+      "end": "2022-11-16T10:56:00.000Z",
+      "turn_count": 28,
+      "status": "closed",
+      "focus": "Irish folk music becomes an intentional calming ritual during stressful drives, a small but meaningful recovery practice.",
+      "summary": "After a family birthday, Colleen finds that Irish folk standards (from family gatherings) calm her during car commutes more effectively than her usual talk radio. She creates a 'Drive Downshift' playlist and commits to the first ten minutes of driving as settling time, no news or stressful calls. The practice extends to home: one evening surface cleaned without a podcast. She names the goal 'less abrasive' rather than dramatic self-care.",
+      "tags": [
+        "irish-folk-music",
+        "car-decompression",
+        "family-music",
+        "small-restorative-pockets",
+        "driving-habit",
+        "transition-ritual",
+        "stress-management",
+        "overload-signal"
+      ],
+      "tone": "worn-down-and-comforted",
+      "open_loops": [
+        "Building the playlist -- keeping it simple and practical",
+        "Protecting driving time as decompression, not found work time",
+        "Signal for when the season is tipping (three nights of wired-tired feeling)"
+      ],
+      "decisions": [
+        "During stressful stretches, Colleen has started choosing Irish folk standards more intentionally to settle herself on dr"
+      ],
+      "strands": [
+        "irish-folk-music",
+        "car-decompression",
+        "family-music",
+        "small-restorative-pockets",
+        "driving-habit",
+        "transition-ritual",
+        "stress-management",
+        "overload-signal"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2022-12-10-0200",
+      "date": "2022-12-10",
+      "start": "2022-12-10T02:00:00.000Z",
+      "end": "2022-12-10T03:26:00.000Z",
+      "turn_count": 30,
+      "status": "closed",
+      "focus": "Colleen moves from damage control to a concrete rebuild: shortened core route, rearranged floor, and January volunteer training.",
+      "summary": "Colleen systematizes the post-failure rebuild. With Leonard's help, she rearranges a physical bottleneck on the apparatus floor. She splits the route into essential core stops and optional stops. She recruits two newer volunteers for a January training series focused on station-to-station handoffs, building a version that doesn't depend on the longtime storytelling style. Her framing: 'personality is a bonus, not the load-bearing wall.'",
+      "tags": [
+        "operational-rebuild",
+        "core-route",
+        "floor-rearrangement",
+        "january-training",
+        "optional-stops",
+        "personality-vs-structure",
+        "volunteer-backup",
+        "post-crisis-recovery"
+      ],
+      "tone": "focused-and-rebuilding",
+      "open_loops": [
+        "Quiet test of core route with small group before January training",
+        "Station scripts, prop checks, and handoff sentences need final drafting",
+        "Debrief sheet after test run (timing, bottlenecks, confusing handoffs, one smooth thing)"
+      ],
+      "decisions": [
+        "Colleen shifted from damage control after the chaotic school visit to a concrete rebuild plan built around a shortened c"
+      ],
+      "strands": [
+        "operational-rebuild",
+        "core-route",
+        "floor-rearrangement",
+        "january-training",
+        "optional-stops",
+        "personality-vs-structure",
+        "volunteer-backup",
+        "post-crisis-recovery"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2023-01-18-0725",
+      "date": "2023-01-18",
+      "start": "2023-01-18T07:25:00.000Z",
+      "end": "2023-01-18T08:46:00.000Z",
+      "turn_count": 28,
+      "status": "closed",
+      "focus": "Colleen's mother Patricia's care needs formalize into a standing monthly routine, shifting from 'helping out' to ongoing care support.",
+      "summary": "A winter Sunday of groceries, prescription paperwork, and appointment letters leads to Colleen and Patricia having a direct conversation. The result: a formal monthly routine covering groceries, bill sorting, and appointment paperwork. Colleen acknowledges this is real care support, not temporary favors. She creates one folder, one checklist, and one recurring calendar slot. The emotional shift is heavier than the tasks: 'my mother relies on me' vs 'my mother wants help.'",
+      "tags": [
+        "elder-care-beginning",
+        "mothers-health",
+        "monthly-routine",
+        "care-work-milestone",
+        "family-responsibility",
+        "prescription-paperwork",
+        "scheduling-burden",
+        "emotional-shift"
+      ],
+      "tone": "heavy-and-accepting",
+      "open_loops": [
+        "Monthly check-in calendar slot -- fixed Sunday as default",
+        "Tracking trips and expenses to prevent invisible cost buildup",
+        "Boundary: what is still Patricia's responsibility vs what Colleen takes on"
+      ],
+      "decisions": [
+        "Patricia Ann Sweeney now relies on Colleen for a formal monthly routine of groceries, bill sorting, and appointment pape"
+      ],
+      "strands": [
+        "elder-care-beginning",
+        "mothers-health",
+        "monthly-routine",
+        "care-work-milestone",
+        "family-responsibility",
+        "prescription-paperwork",
+        "scheduling-burden",
+        "emotional-shift"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2023-02-11-0145",
+      "date": "2023-02-11",
+      "start": "2023-02-11T01:45:00.000Z",
+      "end": "2023-02-11T03:11:00.000Z",
+      "turn_count": 30,
+      "status": "closed",
+      "focus": "January trainings succeed and Colleen opens spring bookings with three defined packages, marking a clear step toward program stability.",
+      "summary": "January volunteer trainings go better than expected. Colleen now runs three school packages (basic museum visit, neighborhood fire safety, and a new city services/response package). Laminated station checklists reduce improvisation. Volunteer assignments are tightened to stations and handoffs. A real test run shows the structure holds without one star guide. Colleen feels 'more planted' than triumphant, seeing the program as less fragile than before.",
+      "tags": [
+        "three-package-program",
+        "january-training-success",
+        "laminated-checklists",
+        "volunteer-retraining",
+        "spring-bookings",
+        "steadier-foundation",
+        "operational-proof",
+        "city-services-package"
+      ],
+      "tone": "planted-and-proud",
+      "open_loops": [
+        "Spring outreach materials need to lead with reliability, then new packages as proof",
+        "Document one successful run in detail as evidence",
+        "Let three packages be three packages -- resist tweaking everything at once"
+      ],
+      "decisions": [
+        "Colleen is now running a three-package school program at Fireman's Hall Museum, with retrained volunteers, laminated sta",
+        "Colleen feels steadier because the volunteer retraining and three-package structure make the school program look less fr"
+      ],
+      "strands": [
+        "three-package-program",
+        "january-training-success",
+        "laminated-checklists",
+        "volunteer-retraining",
+        "spring-bookings",
+        "steadier-foundation",
+        "operational-proof",
+        "city-services-package"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2023-03-14-0450",
+      "date": "2023-03-14",
+      "start": "2023-03-14T04:50:00.000Z",
+      "end": "2023-03-14T06:04:00.000Z",
+      "turn_count": 26,
+      "status": "closed",
+      "focus": "Nina nudges Colleen into a Saturday morning walking group, providing restorative social time that asks nothing of her professionally.",
+      "summary": "With things slightly steadier, Colleen joins a small neighborhood walking group near the Italian Market. The appeal is that it's tiny, local, and makes no demands. Nina's role shifts from practical sounding board to also nudging Colleen toward restorative routines. Colleen commits to treating Saturday morning as a default (not a reward), protecting the slot lightly, and letting a manageable connection grow at its own pace.",
+      "tags": [
+        "neighborhood-walking-group",
+        "social-reopening",
+        "nina-as-restorative-friend",
+        "low-pressure-connection",
+        "saturday-morning-ritual",
+        "restorative-habit",
+        "not-in-charge",
+        "ordinary-support"
+      ],
+      "tone": "lighter-and-open",
+      "open_loops": [
+        "Keeping Saturday morning as default, not reward -- protecting it from being eaten by errands",
+        "Coffee every other time as a gentle social deepening",
+        "Noticing post-walk effect on the rest of the weekend"
+      ],
+      "decisions": [
+        "Nina Barrow has become not just a source of teacher contacts but also the friend who nudges Colleen into restorative rou"
+      ],
+      "strands": [
+        "neighborhood-walking-group",
+        "social-reopening",
+        "nina-as-restorative-friend",
+        "low-pressure-connection",
+        "saturday-morning-ritual",
+        "restorative-habit",
+        "not-in-charge",
+        "ordinary-support"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2023-04-27-0630",
+      "date": "2023-04-27",
+      "start": "2023-04-27T06:30:00.000Z",
+      "end": "2023-04-27T07:51:00.000Z",
+      "turn_count": 28,
+      "status": "closed",
+      "focus": "Colleen's data discipline pays off: Leonard approves a small line item for duplicate carts and replacement materials.",
+      "summary": "Colleen shows Leonard that school visits are now spread across fall, winter, and spring (not just October). Teacher rebooking emails, bus logs, and volunteer checklists form the evidence. He approves a small line item for duplicate outreach carts and replacement laminated materials. The win is modest in dollars but large symbolically: the program is becoming institutional infrastructure. Colleen notes 'wear and tear as a compliment' and starts tracking prep hours quietly for future requests.",
+      "tags": [
+        "budget-victory",
+        "line-item-approval",
+        "year-round-proof",
+        "program-infrastructure",
+        "duplicate-carts",
+        "wear-and-tear-evidence",
+        "institutional-recognition",
+        "strategic-patience"
+      ],
+      "tone": "validated-and-strategic",
+      "open_loops": [
+        "Order exact duplicates first (solve bottlenecks), then improve weak spots",
+        "Before-and-after note on what duplicate carts remove friction-wise",
+        "Quietly document prep hours for future staffing conversation"
+      ],
+      "decisions": [
+        "Colleen is now overseeing a demonstrably more year round school calendar at Fireman's Hall Museum and secured modest int"
+      ],
+      "strands": [
+        "budget-victory",
+        "line-item-approval",
+        "year-round-proof",
+        "program-infrastructure",
+        "duplicate-carts",
+        "wear-and-tear-evidence",
+        "institutional-recognition",
+        "strategic-patience"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2023-05-22-1005",
+      "date": "2023-05-22",
+      "start": "2023-05-22T10:05:00.000Z",
+      "end": "2023-05-22T11:19:00.000Z",
+      "turn_count": 26,
+      "status": "closed",
+      "focus": "Despite program improvements, spring exhaustion hits again. Colleen takes real vacation days and sets evening email boundaries.",
+      "summary": "A stacked week of school visits plus family errands leaves Colleen flattened. She sees a doctor who names the pattern as recurring seasonal exhaustion. Colleen takes two actual vacation days (not pseudo-rest), sets firmer evening email limits, and commits to preemptive spring recovery planning. She recognizes that better systems reduce chaos but don't change the total demand on her body, and that this distinction matters.",
+      "tags": [
+        "spring-exhaustion",
+        "seasonal-burnout",
+        "doctor-visit",
+        "vacation-days",
+        "email-boundaries",
+        "evening-cutoff",
+        "cumulative-fatigue",
+        "pattern-recognition"
+      ],
+      "tone": "depleted-and-honest",
+      "open_loops": [
+        "Two-day spring recovery block as pre-planned annual practice",
+        "Evening email rule: nonurgent replies wait until morning",
+        "Personal signal for tipping point (resentment at harmless emails, wired-tired three nights in a row)"
+      ],
+      "decisions": [
+        "Colleen updated her view of her stress pattern: she now recognizes that spring exhaustion builds gradually and tries to "
+      ],
+      "strands": [
+        "spring-exhaustion",
+        "seasonal-burnout",
+        "doctor-visit",
+        "vacation-days",
+        "email-boundaries",
+        "evening-cutoff",
+        "cumulative-fatigue",
+        "pattern-recognition"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2023-07-09-0845",
+      "date": "2023-07-09",
+      "start": "2023-07-09T08:45:00.000Z",
+      "end": "2023-07-09T10:11:00.000Z",
+      "turn_count": 30,
+      "status": "closed",
+      "focus": "Using stronger spring numbers, Colleen refines the pipeline: cleaner packets, bus-trouble backup language, and principal-timed reminders.",
+      "summary": "With spring proof in hand, Colleen shifts from defending the program to refining its durability. She creates a plain rebooking reminder timed to principals' calendar cycles, adds make-up outreach language for when transportation falls through, and produces cleaner teacher-facing packets with less museum jargon. Her role feels more like stewardship of a durable pipeline than survival. She adds light tracking codes (reminder sent, rebooked, bus issue, switched to outreach).",
+      "tags": [
+        "pipeline-refinement",
+        "reminder-system",
+        "bus-contingency",
+        "teacher-packets",
+        "seam-tightening",
+        "administrative-timing",
+        "institutional-thinking",
+        "durable-pipeline"
+      ],
+      "tone": "steady-and-purposeful",
+      "open_loops": [
+        "Reminder template needs final wording -- direct, not needy, respecting timing crunch",
+        "Light tracking codes in notes for reminder-sent, rebooked, bus-issue, switched-to-outreach",
+        "Test: 'does this change make it easier for a school to book, recover, or rebook?'"
+      ],
+      "decisions": [
+        "Colleen's education-manager role has shifted from proving year-round demand to building a more durable school-program pi"
+      ],
+      "strands": [
+        "pipeline-refinement",
+        "reminder-system",
+        "bus-contingency",
+        "teacher-packets",
+        "seam-tightening",
+        "administrative-timing",
+        "institutional-thinking",
+        "durable-pipeline"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2023-08-21-1100",
+      "date": "2023-08-21",
+      "start": "2023-08-21T11:00:00.000Z",
+      "end": "2023-08-21T12:08:00.000Z",
+      "turn_count": 24,
+      "status": "closed",
+      "focus": "Colleen pays out of pocket for heavy shelving to turn her cluttered dining room into a functional home prep zone.",
+      "summary": "Tripping over outreach bins one morning pushes Colleen to invest in proper shelving for her dining room, which had become a chaotic museum supply spill. She creates labeled zones (lesson tubs, handouts, spare pieces), establishes a table rule (nothing lives there unless actively packing), and plans a designated outbound launch spot. The expense tightens her budget short-term but reduces daily friction. The deeper meaning: admitting the workload is not temporary, so the home setup must match reality.",
+      "tags": [
+        "home-organization",
+        "dining-room-setup",
+        "personal-expense",
+        "budget-squeeze",
+        "work-life-boundary",
+        "prep-zone-function",
+        "monthly-maintenance",
+        "infrastructure-investment"
+      ],
+      "tone": "annoyed-and-relieved",
+      "open_loops": [
+        "Labels: big, plain, categorical -- not pretty, just obvious",
+        "Launch spot by door for outbound-only staging",
+        "Monthly 20-minute reset for maintenance (not weekly punishment)"
+      ],
+      "decisions": [
+        "Colleen paid out of pocket for heavy shelving and reorganized her South Philadelphia dining room into a functional prep",
+        "After paying for shelving and storage fixes at home, Colleen's already tight budget became even tighter in the short ter"
+      ],
+      "strands": [
+        "home-organization",
+        "dining-room-setup",
+        "personal-expense",
+        "budget-squeeze",
+        "work-life-boundary",
+        "prep-zone-function",
+        "monthly-maintenance",
+        "infrastructure-investment"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2023-10-06-0110",
+      "date": "2023-10-06",
+      "start": "2023-10-06T01:10:00.000Z",
+      "end": "2023-10-06T02:31:00.000Z",
+      "turn_count": 28,
+      "status": "closed",
+      "focus": "Teachers rebook without prompting and Colleen begins assigning easier repeat visits fully to trained volunteers.",
+      "summary": "The fall calendar is fuller and several teachers rebook without Colleen chasing them. She starts assigning straightforward repeat visits to trained volunteers while keeping larger classes and outreach days for herself. The sorting logic is based on complexity, not availability. Her role shifts from constant rescue to floating oversight and teacher partnership-building. The program is starting to look repeatable rather than heroic.",
+      "tags": [
+        "self-rebooking",
+        "volunteer-leadership",
+        "role-shift",
+        "program-durability",
+        "fall-calendar",
+        "unsolicited-return",
+        "triage-over-rescue",
+        "oversight-mode"
+      ],
+      "tone": "relieved-and-hopeful",
+      "open_loops": [
+        "Gatekeeping question before reclaiming any visit: 'actual risk or just my anxiety?'",
+        "Brief post-visit note from volunteer leads to maintain standards without hovering",
+        "Document self-driven rebookings and volunteer-led formats as evidence"
+      ],
+      "decisions": [
+        "Colleen has started assigning easier repeat school visits fully to trained volunteers instead of personally covering eve"
+      ],
+      "strands": [
+        "self-rebooking",
+        "volunteer-leadership",
+        "role-shift",
+        "program-durability",
+        "fall-calendar",
+        "unsolicited-return",
+        "triage-over-rescue",
+        "oversight-mode"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2023-11-13-1220",
+      "date": "2023-11-13",
+      "start": "2023-11-13T12:20:00.000Z",
+      "end": "2023-11-13T13:28:00.000Z",
+      "turn_count": 24,
+      "status": "closed",
+      "focus": "A gift from volunteer Franklin sparks a new hobby: collecting old neighborhood pamphlets, fundraiser booklets, and civic paper ephemera.",
+      "summary": "For Colleen's birthday, veteran volunteer Franklin gives her an old neighborhood firehouse fundraiser booklet. She becomes fascinated by the civic paper trail: school-safety pamphlets, fundraiser booklets, institutional handouts that show how Philadelphia neighborhoods explained themselves to ordinary people. She starts a small archival box with simple categories, one-line notes, and a guiding rule: 'keep only items that show a neighborhood or institution explaining itself to ordinary people.' The hobby complements her detective novels as a second restorative lane.",
+      "tags": [
+        "civic-ephemera",
+        "new-hobby",
+        "local-history",
+        "philadelphia-paper-trail",
+        "franklin-connection",
+        "curiosity-habit",
+        "low-pressure-collecting",
+        "restorative-curiosity"
+      ],
+      "tone": "delighted-and-curious",
+      "open_loops": [
+        "One small archival box with divider tabs -- setting a physical limit",
+        "One-line notes: source, rough date, why it caught her",
+        "Rule card: 'keep only items that show a neighborhood or institution explaining itself to ordinary people'"
+      ],
+      "decisions": [
+        "Colleen has become fond of keeping odd local-history pamphlets, fundraiser booklets, and school-safety handouts as a sma"
+      ],
+      "strands": [
+        "civic-ephemera",
+        "new-hobby",
+        "local-history",
+        "philadelphia-paper-trail",
+        "franklin-connection",
+        "curiosity-habit",
+        "low-pressure-collecting",
+        "restorative-curiosity"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2024-01-24-0335",
+      "date": "2024-01-24",
+      "start": "2024-01-24T03:35:00.000Z",
+      "end": "2024-01-24T05:01:00.000Z",
+      "turn_count": 30,
+      "status": "closed",
+      "focus": "Colleen prepares to present the school program to the museum board as a growth case, marking its transition from personal crusade to institutional initiative.",
+      "summary": "Colleen compiles a full school year with bookings spread across fall, winter, and spring; a wider mix of district and charter schools; and proof that trained volunteers can deliver repeat visits. Leonard agrees this should be a board growth case, not a side update. She structures the presentation around three claims (year-round demand, broader school reach, non-person-dependent delivery) and prepares boundary sentences about what she will and won't absorb without support. She names the shift: from advocate to witness.",
+      "tags": [
+        "board-presentation",
+        "year-round-metrics",
+        "institutional-recognition",
+        "growth-case",
+        "volunteer-proof",
+        "personal-crusade-to-institutional",
+        "school-diversity",
+        "proud-and-relieved"
+      ],
+      "tone": "proud-and-relieved",
+      "open_loops": [
+        "Trim overcrowded chart from deck before presentation",
+        "Prepare two boundary sentences: what to build next (stable repeat scheduling) and what not to absorb (automatic solution for every imagined extra)",
+        "Save one paragraph for herself after, separate from the presentation"
+      ],
+      "decisions": [
+        "Colleen's school program is now substantial enough to be presented to the museum board with year-round booking metrics, ",
+        "Colleen feels proud and relieved that the school program has moved from a personal crusade to something the institution"
+      ],
+      "strands": [
+        "board-presentation",
+        "year-round-metrics",
+        "institutional-recognition",
+        "growth-case",
+        "volunteer-proof",
+        "personal-crusade-to-institutional",
+        "school-diversity",
+        "proud-and-relieved"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2024-03-02-0955",
+      "date": "2024-03-02",
+      "start": "2024-03-02T09:55:00.000Z",
+      "end": "2024-03-02T11:16:00.000Z",
+      "turn_count": 28,
+      "status": "closed",
+      "focus": "A breakthrough conversation with Colleen's father Michael shifts from skeptical grumbling to asking what progress looks like.",
+      "summary": "After Owen's basketball game, over cheesesteaks, Colleen tells her father Michael plainly that she is not planning to leave the museum just because the work is hard and pay is modest. For the first time, he stops the 'you're killing yourself for nothing' routine and asks what success looks like. She answers with concrete markers (durability, others carrying the work, institutional shape). The conversation shifts from blanket warnings to milestone questions. Colleen feels less pitied and more taken seriously.",
+      "tags": [
+        "father-breakthrough",
+        "family-understanding",
+        "milestone-conversation",
+        "career-commitment",
+        "nonprofit-validation",
+        "defensiveness-release",
+        "ordinary-setting",
+        "cheesesteak-talk"
+      ],
+      "tone": "hopeful-and-grounded",
+      "open_loops": [
+        "Keep a short answer ready for future check-ins: 'I'm watching whether the program keeps getting stronger and steadier'",
+        "Let the new pattern prove itself through repetition, overexplain nothing",
+        "Continue leading with durability markers, not salary defense"
+      ],
+      "decisions": [
+        "After that conversation, Michael shifted from skeptical grumbling about low museum pay to asking what concrete success i"
+      ],
+      "strands": [
+        "father-breakthrough",
+        "family-understanding",
+        "milestone-conversation",
+        "career-commitment",
+        "nonprofit-validation",
+        "defensiveness-release",
+        "ordinary-setting",
+        "cheesesteak-talk"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2024-05-18-0515",
+      "date": "2024-05-18",
+      "start": "2024-05-18T05:15:00.000Z",
+      "end": "2024-05-18T06:29:00.000Z",
+      "turn_count": 26,
+      "status": "closed",
+      "focus": "A new annual tracker reveals which parts of the program are genuinely transferable and which still depend on Colleen personally.",
+      "summary": "Colleen replaces her catch-all booking sheet with a formal annual tracker that breaks down the year by season, school type, package, volunteer lead, and likely rebooking. The tracker confirms genuine seasonal spread but also exposes uncomfortable truths: one package still depends heavily on her because she handles all the transitions and pivots. She commits to creating an explicitly volunteer version of that package and using the tracker as an operational tool, not just a evidence collection device.",
+      "tags": [
+        "annual-tracker",
+        "volunteer-dependency-exposed",
+        "data-honesty",
+        "program-analysis",
+        "package-uptake",
+        "person-dependent-visits",
+        "volunteer-version",
+        "operational-maturity"
+      ],
+      "tone": "analytical-and-sober",
+      "open_loops": [
+        "Simplify the most dependent package before training volunteers on it",
+        "Draft a clearly labeled volunteer version with visible differences from full version",
+        "Define success behaviorally: fewer rescue interventions, more confident handoffs, higher share of visits led without her"
+      ],
+      "decisions": [
+        "Colleen replaced her old catch-all booking spreadsheet with a formal annual tracker for the museum's school program."
+      ],
+      "strands": [
+        "annual-tracker",
+        "volunteer-dependency-exposed",
+        "data-honesty",
+        "program-analysis",
+        "package-uptake",
+        "person-dependent-visits",
+        "volunteer-version",
+        "operational-maturity"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2024-07-30-0310",
+      "date": "2024-07-30",
+      "start": "2024-07-30T03:10:00.000Z",
+      "end": "2024-07-30T04:36:00.000Z",
+      "turn_count": 30,
+      "status": "closed",
+      "focus": "A chance encounter at a pet adoption event clarifies Colleen's preference for older, calmer cats -- a preference that reveals something about her current needs.",
+      "summary": "While buying storage labels, Colleen stops at a pet adoption event and finds herself drawn to the older cats sleeping in carriers, not the energetic kittens. She recognizes this as a genuine preference for lower-intensity companionship that matches her actual life (single, busy, emotionally invested in work and family). She keeps it as a 'more definite maybe later,' not actionable now, but a clearer picture of what comfort looks like for her. The timing right after finishing the annual tracker means she was in a rare decompression window.",
+      "tags": [
+        "older-cat-preference",
+        "pet-adoption-idea",
+        "lower-intensity-companionship",
+        "self-discovery",
+        "schedule-reality",
+        "grounded-energy",
+        "parents-tabby",
+        "future-clarity"
+      ],
+      "tone": "calm-and-self-aware",
+      "open_loops": [
+        "Not actionable yet -- schedule too choppy, budget too tight",
+        "Save name of one or two reputable older-cat rescues for future reference",
+        "Notice own routine over next few months without forcing a conclusion"
+      ],
+      "decisions": [
+        "The visit made Colleen more serious about the idea that, if she ever adopts a pet, it would likely be an older cat."
+      ],
+      "strands": [
+        "older-cat-preference",
+        "pet-adoption-idea",
+        "lower-intensity-companionship",
+        "self-discovery",
+        "schedule-reality",
+        "grounded-energy",
+        "parents-tabby",
+        "future-clarity"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2024-10-04-0040",
+      "date": "2024-10-04",
+      "start": "2024-10-04T00:40:00.000Z",
+      "end": "2024-10-04T02:06:00.000Z",
+      "turn_count": 30,
+      "status": "closed",
+      "focus": "Volunteer-led standard visits run smoothly without Colleen's rescue, freeing her for teacher partnerships and program development.",
+      "summary": "In the fall rush, Colleen notices that the calmest days are the ones with a volunteer lead running the standard station sequence while she floats as a troubleshooter. The sequence (intro, apparatus stop, prevention station, hands-on piece) holds across multiple visits and leads. Freed from constant triage, she uses the time for in-person teacher follow-up, rebooking conversations, and new school contacts. She recognizes this as the program's maturation: 'tending the whole machine instead of physically pushing every gear.'",
+      "tags": [
+        "volunteer-led-success",
+        "floating-troubleshooter",
+        "teacher-outreach-windows",
+        "standard-flow-proven",
+        "program-maturity",
+        "fall-rush-proof",
+        "role-evolution",
+        "sustainable-delivery"
+      ],
+      "tone": "confident-and-relieved",
+      "open_loops": [
+        "One-page field note capturing stable-day pattern before it blurs in the rush",
+        "Reusable sentence naming the floating role for leadership context",
+        "Protect teacher-contact windows as delivery (not bonus extra)"
+      ],
+      "decisions": [
+        "Colleen's school program has matured to the point that volunteer-led standard visits often run without her direct rescue"
+      ],
+      "strands": [
+        "volunteer-led-success",
+        "floating-troubleshooter",
+        "teacher-outreach-windows",
+        "standard-flow-proven",
+        "program-maturity",
+        "fall-rush-proof",
+        "role-evolution",
+        "sustainable-delivery"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2025-02-08-1025",
+      "date": "2025-02-08",
+      "start": "2025-02-08T10:25:00.000Z",
+      "end": "2025-02-08T11:51:00.000Z",
+      "turn_count": 30,
+      "status": "closed",
+      "focus": "A long winter assembly day confirms that Colleen's voice management habits and shared coverage are measurably reducing physical strain.",
+      "summary": "After a heavy winter school assembly day (the kind that used to wreck her voice for days), Colleen arrives home tired but intact. Her microphone use is now default, water discipline is automatic, and she no longer fills every silence or jumps in when others are leading. The shared speaking load is protecting her physically. She recognizes that boring habits (mic, water, not over-talking) plus a better division of labor have moved her voice strain from 'hijacks whole weeks' to 'manageable seasonal tiredness.' The change shows up in reduced resentment, not just reduced hoarseness.",
+      "tags": [
+        "voice-management-proven",
+        "microphone-routine",
+        "sustainable-pacing",
+        "shared-speaking-load",
+        "winter-stress-test",
+        "health-improvement",
+        "recovery-windows",
+        "resentment-reduction"
+      ],
+      "tone": "satisfied-and-validated",
+      "open_loops": [
+        "Keep mic as default every time -- no skipping",
+        "Threshold for 'day getting expensive' (pushing volume, skipping mic, repeating self)",
+        "Default dinner and empty evening for post-assembly nights"
+      ],
+      "decisions": [
+        "Her voice still gets strained in heavy seasons, but better pacing, shared tour coverage, and routine microphone use have"
+      ],
+      "strands": [
+        "voice-management-proven",
+        "microphone-routine",
+        "sustainable-pacing",
+        "shared-speaking-load",
+        "winter-stress-test",
+        "health-improvement",
+        "recovery-windows",
+        "resentment-reduction"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2025-05-30-0740",
+      "date": "2025-05-30",
+      "start": "2025-05-30T07:40:00.000Z",
+      "end": "2025-05-30T09:06:00.000Z",
+      "turn_count": 30,
+      "status": "closed",
+      "focus": "Colleen closes the school year at 70+ bookings and 18+ schools, with three rebooked packages and multiple clean volunteer-led visits.",
+      "summary": "Colleen closes the 2027-2028 school-year tracker: 70+ booked class visits or outreach programs, 18+ district or charter schools, three program packages being rebooked by teachers, and multiple volunteer-led visits running cleanly without her intervention. The evidence matches what the work has felt like day-to-day. She feels deeply relieved rather than hyped, recognizing the program is now dependable rather than fragile. She plans a one-page summary leading with 'dependable year-round program' backed by specific metrics, ending with what to protect next year (repeat-ready packages, volunteer consistency, school follow-through).",
+      "tags": [
+        "year-end-milestone",
+        "70-bookings",
+        "18-schools",
+        "three-packages-rebooked",
+        "volunteer-led-success",
+        "durable-program",
+        "institutional-legitimacy",
+        "deep-relief"
+      ],
+      "tone": "deeply-relieved-and-validated",
+      "open_loops": [
+        "One-page end-of-year summary: lead with dependable year-round, back with 70+/18+, three rebooked packages, volunteer-led visits",
+        "Name three nonnegotiables to protect: repeat-ready packages, volunteer-led standard flow, follow-up rhythm",
+        "Frame next phase as 'preserving reliability' not chasing novelty"
+      ],
+      "decisions": [
+        "By the close of the 2027 to 2028 school year, Colleen's education program had reached at least 70 booked class visits or",
+        "Colleen feels deeply relieved and validated because the school program now looks durable, measurable, and genuinely usef"
+      ],
+      "strands": [
+        "year-end-milestone",
+        "70-bookings",
+        "18-schools",
+        "three-packages-rebooked",
+        "volunteer-led-success",
+        "durable-program",
+        "institutional-legitimacy",
+        "deep-relief"
+      ],
+      "needs_marking": false
+    }
+  ]
+}

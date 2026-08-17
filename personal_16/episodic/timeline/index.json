@@ -1,0 +1,1228 @@
+{
+  "_schema": 1,
+  "updated_at": "2026-08-17T16:21:35.375Z",
+  "slice_count": 30,
+  "needs_marking": 0,
+  "slices": [
+    {
+      "id": "2022-01-06-0100",
+      "date": "2022-01-06",
+      "start": "2022-01-06T01:00:00.000Z",
+      "end": "2022-01-06T02:21:00.000Z",
+      "turn_count": 28,
+      "status": "closed",
+      "focus": "Initial personal introduction and comprehensive life context",
+      "summary": "Saira introduces herself as a 36-year-old ISTJ operations lead at Westgate Pharmacy in Leeds, engaged to Tom, with a Master of Pharmacy. She shares her family situation, health (tension headaches, back strain), and goal to rebuild dispensing flow within 5 years.",
+      "tags": [
+        "onboarding",
+        "personal-background",
+        "career-introduction",
+        "relationship-profile",
+        "personality-istj",
+        "life-goals",
+        "family-dynamics",
+        "health-concerns"
+      ],
+      "tone": "neutral",
+      "open_loops": [
+        "House renovation remains a major stressor with no clear timeline",
+        "Relationship friction with Tom over budgets and unfinished projects",
+        "Savings are thin due to family help and renovation costs",
+        "Back strain and tension headaches unaddressed"
+      ],
+      "decisions": [],
+      "strands": [
+        "onboarding",
+        "personal-background",
+        "career-introduction",
+        "relationship-profile",
+        "personality-istj",
+        "life-goals",
+        "family-dynamics",
+        "health-concerns"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2022-01-22-1040",
+      "date": "2022-01-22",
+      "start": "2022-01-22T10:40:00.000Z",
+      "end": "2022-01-22T11:48:00.000Z",
+      "turn_count": 24,
+      "status": "closed",
+      "focus": "A compliance near-miss triggers a formal three-month operational review",
+      "summary": "After a repeat-pack compliance near-miss, Peter formally puts a three-month dispensing flow review in Saira's hands. She takes photos, starts an error log, and develops a lean tracking system for queue times and errors.",
+      "tags": [
+        "compliance-scare",
+        "dispensing-error",
+        "workflow-review",
+        "operations-lead",
+        "quality-improvement",
+        "peter-trust",
+        "error-logging",
+        "team-dynamics"
+      ],
+      "tone": "mixed",
+      "open_loops": [
+        "Amelia's buy-in remains uncertain for the extra checks",
+        "Error log needs to be lean enough for busy staff to use",
+        "Three-month review outcome is pending"
+      ],
+      "decisions": [
+        "After a repeat-pack compliance scare, Saira stayed late at Westgate Pharmacy and formally took on a three-month operatio"
+      ],
+      "strands": [
+        "compliance-scare",
+        "dispensing-error",
+        "workflow-review",
+        "operations-lead",
+        "quality-improvement",
+        "peter-trust",
+        "error-logging",
+        "team-dynamics"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2022-02-08-0710",
+      "date": "2022-02-08",
+      "start": "2022-02-08T07:10:00.000Z",
+      "end": "2022-02-08T08:36:00.000Z",
+      "turn_count": 30,
+      "status": "closed",
+      "focus": "Discovering qawwali as a Sunday reset tool after a calming visit to Nusrat's",
+      "summary": "After a busy week, Saira visits Nusrat's for tea and discovers qawwali music creates a calming atmosphere. She decides to intentionally use qawwali for Sunday admin/paperwork as a low-noise reset ritual, and considers asking Tom for one protected quiet hour on Sundays.",
+      "tags": [
+        "qawwali-discovery",
+        "sunday-reset-routine",
+        "friend-nusrat",
+        "stress-management",
+        "music-as-tool",
+        "environmental-adjustment",
+        "home-chaos",
+        "boundary-setting"
+      ],
+      "tone": "positive",
+      "open_loops": [
+        "Saira hasn't yet discussed the Sunday quiet hour with Tom",
+        "The qawwali Sunday playlist needs to be created",
+        "Paperwork pile remains the resisted task she procrastinates on"
+      ],
+      "decisions": [
+        "Saira still listens to BBC Radio 2 in the car and old 2000s R&B for practical tasks, but qawwali now plays a larger role"
+      ],
+      "strands": [
+        "qawwali-discovery",
+        "sunday-reset-routine",
+        "friend-nusrat",
+        "stress-management",
+        "music-as-tool",
+        "environmental-adjustment",
+        "home-chaos",
+        "boundary-setting"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2022-03-03-1120",
+      "date": "2022-03-03",
+      "start": "2022-03-03T11:20:00.000Z",
+      "end": "2022-03-03T12:46:00.000Z",
+      "turn_count": 30,
+      "status": "closed",
+      "focus": "The dispensing overhaul moves from review to active pilot with Peter's approval",
+      "summary": "Saira turns six weeks of evidence (delay notes, photos, timestamps) into a live pilot: splitting repeat prescriptions from acute walk-ins, relabeling back-room sections, and installing a midday prep board. She develops staff and patient scripts and defines three pilot measures.",
+      "tags": [
+        "dispensing-pilot-launch",
+        "repeat-walkin-separation",
+        "team-pushback",
+        "evidence-based-change",
+        "pilot-metrics",
+        "peter-approval",
+        "workflow-redesign",
+        "operations-lead"
+      ],
+      "tone": "mixed",
+      "open_loops": [
+        "Amelia's resistance to perceived slowdown needs ongoing management",
+        "Staff may bypass the staging board when busy",
+        "Pilot success criteria not yet formally defined with Peter",
+        "First messy week could trigger abandonment of the trial"
+      ],
+      "decisions": [
+        "Saira moved from reviewing dispensing flow problems to actively piloting a new workflow at Westgate Pharmacy with separa"
+      ],
+      "strands": [
+        "dispensing-pilot-launch",
+        "repeat-walkin-separation",
+        "team-pushback",
+        "evidence-based-change",
+        "pilot-metrics",
+        "peter-approval",
+        "workflow-redesign",
+        "operations-lead"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2022-03-29-0330",
+      "date": "2022-03-29",
+      "start": "2022-03-29T03:30:00.000Z",
+      "end": "2022-03-29T04:51:00.000Z",
+      "turn_count": 28,
+      "status": "closed",
+      "focus": "Wedding postponed to next year after a renovation argument reveals unrealistic timelines",
+      "summary": "After another argument about budget, dust, and timelines, Saira and Tom mutually agree to postpone their wedding into next year. They establish a stricter rule about booking and spending decisions together, and plan weekly budget check-ins with three headings.",
+      "tags": [
+        "wedding-postponed",
+        "renovation-stress",
+        "relationship-friction",
+        "budget-conflict",
+        "financial-boundaries",
+        "shared-decision-making",
+        "check-in-routine",
+        "realistic-planning"
+      ],
+      "tone": "mixed",
+      "open_loops": [
+        "Reassessment month for wedding date needs to be set",
+        "House livable threshold (kitchen usable, bedroom calm, front room clear) not yet achieved",
+        "Saira needs to practice flagging vague plans earlier with Tom"
+      ],
+      "decisions": [
+        "Saira and Tom mutually postponed their wedding into next year after another renovation-related argument."
+      ],
+      "strands": [
+        "wedding-postponed",
+        "renovation-stress",
+        "relationship-friction",
+        "budget-conflict",
+        "financial-boundaries",
+        "shared-decision-making",
+        "check-in-routine",
+        "realistic-planning"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2022-04-17-1015",
+      "date": "2022-04-17",
+      "start": "2022-04-17T10:15:00.000Z",
+      "end": "2022-04-17T11:36:00.000Z",
+      "turn_count": 28,
+      "status": "closed",
+      "focus": "Pilot expands into a measured handoff system with collection cards and queue tracking",
+      "summary": "The first month of the dispensing pilot cut labeling slips. Saira responds to counter complaints by expanding into Phase 2: collection cards, weekly queue averages, a two-check process for repeat bags, and a visible queue sheet that shifts Peter from muttering to specific questions.",
+      "tags": [
+        "pilot-phase-two",
+        "handoff-system",
+        "collection-cards",
+        "queue-metrics",
+        "team-buy-in",
+        "operational-review",
+        "amelia-resistance",
+        "evidence-dashboard"
+      ],
+      "tone": "mixed",
+      "open_loops": [
+        "Amelia's dual resistance-helping needs continued calibration",
+        "Running log of introduced changes should be maintained for future recognition",
+        "One-page operational review for Peter not yet delivered"
+      ],
+      "decisions": [
+        "Saira remained operations lead at Westgate Pharmacy and expanded her dispensing pilot into a measured handoff system wit"
+      ],
+      "strands": [
+        "pilot-phase-two",
+        "handoff-system",
+        "collection-cards",
+        "queue-metrics",
+        "team-buy-in",
+        "operational-review",
+        "amelia-resistance",
+        "evidence-dashboard"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2022-05-04-0505",
+      "date": "2022-05-04",
+      "start": "2022-05-04T05:05:00.000Z",
+      "end": "2022-05-04T06:13:00.000Z",
+      "turn_count": 24,
+      "status": "closed",
+      "focus": "After her back seizes in the car park, Saira finally addresses her chronic strain",
+      "summary": "Saira's lower back seizes after a Saturday shift, prompting a physio appointment. She brings photos of her dispensary posture. The physio diagnoses a lower-back strain and gives short daily exercises. Saira plans to pair exercises with toothbrushing and modify the problematic shelf reach at work.",
+      "tags": [
+        "back-injury",
+        "physiotherapy",
+        "workplace-ergonomics",
+        "exercise-routine",
+        "posture-correction",
+        "health-boundaries",
+        "self-care-plan",
+        "preventative-health"
+      ],
+      "tone": "mixed",
+      "open_loops": [
+        "Morning exercise habit needs to be established consistently",
+        "Shelf reach redesign at work not yet implemented",
+        "Tension headaches still unaddressed as separate issue",
+        "Two-week symptom log not yet started"
+      ],
+      "decisions": [
+        "Her lower back issue is now being treated as a named strain with a short daily exercise plan from the physiotherapist ra",
+        "She learned that her standing posture at the dispensary bench is one of the things worsening her back strain."
+      ],
+      "strands": [
+        "back-injury",
+        "physiotherapy",
+        "workplace-ergonomics",
+        "exercise-routine",
+        "posture-correction",
+        "health-boundaries",
+        "self-care-plan",
+        "preventative-health"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2022-06-11-1200",
+      "date": "2022-06-11",
+      "start": "2022-06-11T12:00:00.000Z",
+      "end": "2022-06-11T13:26:00.000Z",
+      "turn_count": 30,
+      "status": "closed",
+      "focus": "A locum shift exposes workflow fragility, leading to a mandatory one-page bench guide",
+      "summary": "A regular locum leaves messy annotations and a controlled-drug script is misfiled, exposing that Saira's workflow collapses when temporary staff ignore it. She writes a one-page locum bench guide and pushes for mandatory sign-in review. Peter half-agrees to a trial.",
+      "tags": [
+        "locum-compliance",
+        "controlled-drug-misfile",
+        "bench-guide",
+        "staff-onboarding",
+        "safety-protocol",
+        "peter-pushback",
+        "workflow-fragility",
+        "role-expansion"
+      ],
+      "tone": "negative",
+      "open_loops": [
+        "Peter's sign-in approval is only a half-yes pending two-week review",
+        "Controlled-drug section on the guide needs boxed emphasis",
+        "Tiny log of guide usage needs to be maintained for two weeks",
+        "School-run period remains highest-risk pressure point"
+      ],
+      "decisions": [
+        "Saira remained operations lead, but after a rushed shift exposed weak locum compliance she widened her workflow project ",
+        "Saira's mental state sharpened from background stress into being more tightly wound because staffing gaps now threatened"
+      ],
+      "strands": [
+        "locum-compliance",
+        "controlled-drug-misfile",
+        "bench-guide",
+        "staff-onboarding",
+        "safety-protocol",
+        "peter-pushback",
+        "workflow-fragility",
+        "role-expansion"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2022-07-06-0825",
+      "date": "2022-07-06",
+      "start": "2022-07-06T08:25:00.000Z",
+      "end": "2022-07-06T09:46:00.000Z",
+      "turn_count": 28,
+      "status": "closed",
+      "focus": "A spontaneous cinema outing sparks Saira to build a curated list of light British comedies",
+      "summary": "An impromptu visit to a local independent cinema with Tom reveals Saira is tired of serious crime dramas. She starts actively collecting light, rewatchable British comedies for low-energy evenings, creating a categorized list (comfort rewrites, low-effort comedies, sharper options) shared with Tom.",
+      "tags": [
+        "local-cinema",
+        "british-comedy",
+        "rewatchable-films",
+        "low-capacity-evenings",
+        "preference-refinement",
+        "taste-shift",
+        "shared-leisure",
+        "evening-routine"
+      ],
+      "tone": "positive",
+      "open_loops": [
+        "Film list needs to be finalized and moved to visible location (fridge/TV)",
+        "Tom's picks need to be added to make it shared",
+        "Once-a-month cinema habit not yet established"
+      ],
+      "decisions": [
+        "Saira began actively collecting lighter rewatchable comedies for tired evenings instead of relying mostly on serious cri"
+      ],
+      "strands": [
+        "local-cinema",
+        "british-comedy",
+        "rewatchable-films",
+        "low-capacity-evenings",
+        "preference-refinement",
+        "taste-shift",
+        "shared-leisure",
+        "evening-routine"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2022-08-19-1050",
+      "date": "2022-08-19",
+      "start": "2022-08-19T10:50:00.000Z",
+      "end": "2022-08-19T12:16:00.000Z",
+      "turn_count": 30,
+      "status": "closed",
+      "focus": "Summer staffing gaps force Saira to suspend parts of the prep-board routine, approaching burnout",
+      "summary": "Summer staffing shortages force Saira to suspend parts of the prep-board routine. Peter quietly questions whether the checks are slowing things down. Saira nears burnout and realizes the system is too person-dependent on her. She plans to map non-negotiable safety checks versus optional stages that only work with full staffing.",
+      "tags": [
+        "summer-staffing-crisis",
+        "workflow-rollback",
+        "burnout-risk",
+        "pilot-setback",
+        "amelia-burnout",
+        "peter-scrutiny",
+        "resilience-redesign",
+        "person-dependent-system"
+      ],
+      "tone": "negative",
+      "open_loops": [
+        "Peter's question about extra checks needs a structured response",
+        "Non-negotiable safety checks vs optional stages not yet mapped",
+        "Saira needs to reduce her personal cognitive load in the redesign",
+        "The project needs a version that survives thin late shifts"
+      ],
+      "decisions": [
+        "Saira stayed operations lead, but Westgate's summer staffing shortages forced her to suspend parts of the prep-board rou",
+        "Saira felt near burnout for several weeks after the rollback, taking the staffing-driven retreat personally and fearing "
+      ],
+      "strands": [
+        "summer-staffing-crisis",
+        "workflow-rollback",
+        "burnout-risk",
+        "pilot-setback",
+        "amelia-burnout",
+        "peter-scrutiny",
+        "resilience-redesign",
+        "person-dependent-system"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2022-09-14-0410",
+      "date": "2022-09-14",
+      "start": "2022-09-14T04:10:00.000Z",
+      "end": "2022-09-14T05:31:00.000Z",
+      "turn_count": 28,
+      "status": "closed",
+      "focus": "Saira covers brother Imran's taxi licensing costs, prompting financial boundary decisions",
+      "summary": "Saira covers a few hundred pounds for brother Imran's taxi insurance/licensing issue and loses a Sunday to admin. She decides to set boundaries: complete paperwork in one batch before she reviews, and evidence of the real gap before providing financial help. She plans to protect the hallway order as non-negotiable.",
+      "tags": [
+        "family-financial-help",
+        "imran-taxi-problems",
+        "boundary-setting",
+        "savings-drain",
+        "hallway-delay",
+        "conditional-support",
+        "spillover-budget",
+        "shared-household-planning"
+      ],
+      "tone": "mixed",
+      "open_loops": [
+        "Boundary conversation with Imran not yet had",
+        "Protected house spend conversation with Tom not yet had",
+        "Family spillover budget category not yet created",
+        "Sunday time boundary needs implementation"
+      ],
+      "decisions": [
+        "Saira's savings buffer got thinner again because she gave Imran another round of financial help and postponed more house"
+      ],
+      "strands": [
+        "family-financial-help",
+        "imran-taxi-problems",
+        "boundary-setting",
+        "savings-drain",
+        "hallway-delay",
+        "conditional-support",
+        "spillover-budget",
+        "shared-household-planning"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2022-10-07-1105",
+      "date": "2022-10-07",
+      "start": "2022-10-07T11:05:00.000Z",
+      "end": "2022-10-07T12:13:00.000Z",
+      "turn_count": 24,
+      "status": "closed",
+      "focus": "Saira rebuilds a leaner, sustainable workflow from the summer setback with Peter's backing",
+      "summary": "Saira rebuilds the stalled workflow overhaul into a leaner version that survives thin staffing. She drops fussy forms, keeps only the busiest repeat shelves color-coded, and establishes a protected half-hour for repeat prep before school pickup. Peter visibly backs the new anchor point.",
+      "tags": [
+        "leaner-workflow",
+        "second-wind",
+        "protected-prep-window",
+        "peter-backing",
+        "selective-color-coding",
+        "recovery-from-setback",
+        "thirty-second-rule",
+        "sustainable-routine"
+      ],
+      "tone": "positive",
+      "open_loops": [
+        "Temptation to add extras back needs to be resisted",
+        "One-page note defining what the lean version is for not yet written",
+        "Need to verify the half-hour window holds across ordinary weeks"
+      ],
+      "decisions": [
+        "Saira stayed operations lead at Westgate Pharmacy and rebuilt her stalled workflow overhaul into a leaner version the te",
+        "Saira was still stressed, but the leaner workflow gave the project a second wind and eased the worst of her burnout."
+      ],
+      "strands": [
+        "leaner-workflow",
+        "second-wind",
+        "protected-prep-window",
+        "peter-backing",
+        "selective-color-coding",
+        "recovery-from-setback",
+        "thirty-second-rule",
+        "sustainable-routine"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2022-11-21-1300",
+      "date": "2022-11-21",
+      "start": "2022-11-21T13:00:00.000Z",
+      "end": "2022-11-21T14:26:00.000Z",
+      "turn_count": 30,
+      "status": "closed",
+      "focus": "A Friday tea with grandmother Shazia inspires Saira to establish a weekly check-in habit",
+      "summary": "After a dim and cluttered stretch, Saira visits her grandmother Shazia for tea and is struck by Shazia's biscuit tin of recipe cards and reminders. Saira realizes family care should be a habit, not guilt-driven. She commits to weekly Friday contact (visit, call, or drop-off).",
+      "tags": [
+        "grandmother-shazia",
+        "weekly-visit-routine",
+        "biscuit-tin-memory",
+        "family-care-habit",
+        "friday-check-in",
+        "guilt-driven-care",
+        "relationship-maintenance",
+        "intentional-contact"
+      ],
+      "tone": "positive",
+      "open_loops": [
+        "Friday reminder needs to be set as recurring",
+        "Running note of things to ask Shazia about not yet started",
+        "Weekly check-in rhythm needs to be tested in practice"
+      ],
+      "decisions": [
+        "After a warm Friday tea with her grandmother, Saira started making a deliberate weekly check-in routine with Shazia inst"
+      ],
+      "strands": [
+        "grandmother-shazia",
+        "weekly-visit-routine",
+        "biscuit-tin-memory",
+        "family-care-habit",
+        "friday-check-in",
+        "guilt-driven-care",
+        "relationship-maintenance",
+        "intentional-contact"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2023-01-15-1035",
+      "date": "2023-01-15",
+      "start": "2023-01-15T10:35:00.000Z",
+      "end": "2023-01-15T11:56:00.000Z",
+      "turn_count": 28,
+      "status": "closed",
+      "focus": "Winter inspection passes without repeat findings in the overhauled workflow areas",
+      "summary": "Saira walks the inspector through the repeat shelves, locum bench guide, and collection-card process using labeled photo sheets. The pharmacy gets minor housekeeping observations but avoids repeat findings on handoff and repeat-dispensing weaknesses. Saira plans a post-inspection note with 'keep and tidy' columns.",
+      "tags": [
+        "winter-inspection",
+        "no-repeat-findings",
+        "inspection-evidence",
+        "credibility-gain",
+        "photo-sheets",
+        "peter-follow-up",
+        "post-inspection-note",
+        "keep-and-tidy"
+      ],
+      "tone": "positive",
+      "open_loops": [
+        "Post-inspection note with keep/tidy columns not yet written",
+        "Peter follow-up conversation not yet had",
+        "Staff team message about inspection results not yet delivered",
+        "Minor consistency observations need wording tweaks"
+      ],
+      "decisions": [
+        "Saira remained operations lead, and the winter inspection left her with stronger credibility because Westgate avoided re"
+      ],
+      "strands": [
+        "winter-inspection",
+        "no-repeat-findings",
+        "inspection-evidence",
+        "credibility-gain",
+        "photo-sheets",
+        "peter-follow-up",
+        "post-inspection-note",
+        "keep-and-tidy"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2023-02-27-1230",
+      "date": "2023-02-27",
+      "start": "2023-02-27T12:30:00.000Z",
+      "end": "2023-02-27T13:51:00.000Z",
+      "turn_count": 28,
+      "status": "closed",
+      "focus": "Saira and Tom finally book a small registry-office wedding after months of postponement",
+      "summary": "After the long postponement and repetitive arguments, Saira and Tom book a small registry-office wedding for early summer with a family meal after. They define three non-negotiables: small ceremony, family meal not full reception, no borrowing money. The decision improves their relationship tone noticeably.",
+      "tags": [
+        "registry-wedding-booked",
+        "early-summer-wedding",
+        "small-ceremony",
+        "guest-cap",
+        "family-meal",
+        "non-negotiables",
+        "shared-script",
+        "budget-reality"
+      ],
+      "tone": "positive",
+      "open_loops": [
+        "Guest cap not yet set and communicated to family",
+        "Meal venue not yet chosen",
+        "Family script for handling pushback not yet written",
+        "Honeymoon discussion deferred to later"
+      ],
+      "decisions": [
+        "Saira and Tom finally booked a small registry-office wedding for early summer after months of postponement."
+      ],
+      "strands": [
+        "registry-wedding-booked",
+        "early-summer-wedding",
+        "small-ceremony",
+        "guest-cap",
+        "family-meal",
+        "non-negotiables",
+        "shared-script",
+        "budget-reality"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2023-04-12-0955",
+      "date": "2023-04-12",
+      "start": "2023-04-12T09:55:00.000Z",
+      "end": "2023-04-12T11:21:00.000Z",
+      "turn_count": 30,
+      "status": "closed",
+      "focus": "Saira wins Peter's backing for equipment after proving the prep window's impact with three months of timing data",
+      "summary": "Saira uses three months of stopwatch timings and queue notes to prove the protected repeat-prep window reduces the after-school bottleneck. Peter approves clearer basket dividers and a dedicated label printer for the repeat station. Saira plans a tiny proof loop to track the new baseline.",
+      "tags": [
+        "evidence-based-request",
+        "label-printer",
+        "basket-dividers",
+        "peter-backing",
+        "post-inspection-credibility",
+        "repeat-prep-window",
+        "infrastructure-upgrade",
+        "tiny-proof-loop"
+      ],
+      "tone": "positive",
+      "open_loops": [
+        "Tiny proof loop (queue peak + repeat basket split) needs to be established",
+        "Short follow-up for Peter after equipment settles not yet done",
+        "Need to resist adding more improvements while momentum is high"
+      ],
+      "decisions": [
+        "Saira remained operations lead and won Peter's backing for modest equipment and clearer basket separation after proving "
+      ],
+      "strands": [
+        "evidence-based-request",
+        "label-printer",
+        "basket-dividers",
+        "peter-backing",
+        "post-inspection-credibility",
+        "repeat-prep-window",
+        "infrastructure-upgrade",
+        "tiny-proof-loop"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2023-05-29-0515",
+      "date": "2023-05-29",
+      "start": "2023-05-29T05:15:00.000Z",
+      "end": "2023-05-29T06:36:00.000Z",
+      "turn_count": 28,
+      "status": "closed",
+      "focus": "Front room flooring is finally laid, making downstairs feel like a real home again",
+      "summary": "Tom clears the front room of renovation tools and lays the flooring, making downstairs feel like a real home for the first time in months. Saira plans a defined renovation pause until after the wedding, protects downstairs as a tool-free zone, and sets a two-item finishing limit.",
+      "tags": [
+        "front-room-flooring",
+        "renovation-milestone",
+        "downstairs-livable",
+        "pre-wedding-progress",
+        "shared-accomplishment",
+        "renovation-pause",
+        "tool-free-zone",
+        "usable-over-polished"
+      ],
+      "tone": "positive",
+      "open_loops": [
+        "Rug and curtain still needed for the front room",
+        "Upstairs renovation paused but not abandoned",
+        "Need to agree on pause definition with Tom explicitly"
+      ],
+      "decisions": [
+        "Saira and Tom finally got the front room cleared of most renovation tools and laid the long-delayed flooring, making the"
+      ],
+      "strands": [
+        "front-room-flooring",
+        "renovation-milestone",
+        "downstairs-livable",
+        "pre-wedding-progress",
+        "shared-accomplishment",
+        "renovation-pause",
+        "tool-free-zone",
+        "usable-over-polished"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2023-06-18-1140",
+      "date": "2023-06-18",
+      "start": "2023-06-18T11:40:00.000Z",
+      "end": "2023-06-18T13:01:00.000Z",
+      "turn_count": 28,
+      "status": "closed",
+      "focus": "Workflow overhaul extends into pickup scheduling and day-coded collection shelving",
+      "summary": "With prep side improved, Saira tackles after-school collection bottlenecks. She introduces a text-ready rhythm for selected repeat patients, day-coded then surname-block collection shelves, and a compact prompt card. Early results show quicker retrievals and one patient compliment.",
+      "tags": [
+        "collection-scheduling",
+        "day-coded-shelves",
+        "text-ready-rhythm",
+        "patient-flow",
+        "felt-efficiency",
+        "retrieval-speed",
+        "selective-rollout",
+        "staff-confidence"
+      ],
+      "tone": "positive",
+      "open_loops": [
+        "Staff confidence in the new shelf logic needs to be built",
+        "Patient text script needs softening to avoid sounding bossy",
+        "One-snag staff check-in not yet done",
+        "Edge cases (early/late patients) need clearer handling"
+      ],
+      "decisions": [
+        "Saira remained operations lead and extended her workflow overhaul into pickup scheduling and day-coded collection shelvi"
+      ],
+      "strands": [
+        "collection-scheduling",
+        "day-coded-shelves",
+        "text-ready-rhythm",
+        "patient-flow",
+        "felt-efficiency",
+        "retrieval-speed",
+        "selective-rollout",
+        "staff-confidence"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2023-07-03-1410",
+      "date": "2023-07-03",
+      "start": "2023-07-03T14:10:00.000Z",
+      "end": "2023-07-03T15:36:00.000Z",
+      "turn_count": 30,
+      "status": "closed",
+      "focus": "Saira and Tom get married in a small Leeds registry-office ceremony",
+      "summary": "Saira and Tom marry in a small registry-office ceremony followed by a family meal with homemade cake. Saira feels relief more than excitement, realizing the simple version suited them better. She plans to pack away wedding bits, keep one honest photo, and enjoy ordinary life as a married couple.",
+      "tags": [
+        "wedding-day",
+        "registry-ceremony",
+        "family-meal",
+        "homemade-cake",
+        "relief-over-spectacle",
+        "shared-decision",
+        "meaning-survived-trimming",
+        "ordinary-settling"
+      ],
+      "tone": "positive",
+      "open_loops": [
+        "Wedding bits need to be packed into one box",
+        "One photo to print needs to be selected",
+        "Need to resist turning relief into a fresh burden"
+      ],
+      "decisions": [
+        "Saira and Tom got married in a small Leeds registry-office ceremony."
+      ],
+      "strands": [
+        "wedding-day",
+        "registry-ceremony",
+        "family-meal",
+        "homemade-cake",
+        "relief-over-spectacle",
+        "shared-decision",
+        "meaning-survived-trimming",
+        "ordinary-settling"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2023-08-21-0620",
+      "date": "2023-08-21",
+      "start": "2023-08-21T06:20:00.000Z",
+      "end": "2023-08-21T07:34:00.000Z",
+      "turn_count": 26,
+      "status": "closed",
+      "focus": "A post-wedding weekend in York sparks Saira's active pursuit of practical habit and systems books",
+      "summary": "After a short York trip, Saira's interest in habit/systems books shifts from casual browsing to active seeking. She starts marking passages, keeping a note of testable ideas, and filtering for books offering immediate usability over abstract theory. She plans a one-note system with three headings (home, work, both).",
+      "tags": [
+        "york-weekend",
+        "practical-nonfiction",
+        "habit-systems",
+        "reading-preference",
+        "tools-over-theory",
+        "seven-day-test",
+        "home-work-crossover",
+        "intentional-collecting"
+      ],
+      "tone": "positive",
+      "open_loops": [
+        "One-note system with three headings not yet set up",
+        "Ideas from books need to be date-tested for actual usefulness",
+        "Risk of over-systematizing needs monitoring"
+      ],
+      "decisions": [
+        "After a short post-wedding weekend in York, Saira became more intentional about buying habit and systems nonfiction inst"
+      ],
+      "strands": [
+        "york-weekend",
+        "practical-nonfiction",
+        "habit-systems",
+        "reading-preference",
+        "tools-over-theory",
+        "seven-day-test",
+        "home-work-crossover",
+        "intentional-collecting"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2023-10-10-1025",
+      "date": "2023-10-10",
+      "start": "2023-10-10T10:25:00.000Z",
+      "end": "2023-10-10T11:39:00.000Z",
+      "turn_count": 26,
+      "status": "closed",
+      "focus": "Saira creates a monthly dashboard for Peter tracking queue times, labeling slips, and repeat-bag corrections",
+      "summary": "Saira formalizes her wall notes into a monthly one-page dashboard for Peter tracking queue times, labeling slips, and repeat-bag corrections. Autumn numbers show the busiest weekday queues are faster than the previous year. She plans a fixed monthly send date with three-line summary and minimal context notes.",
+      "tags": [
+        "monthly-dashboard",
+        "queue-metrics",
+        "safety-and-speed",
+        "peter-reporting",
+        "operational-baseline",
+        "speed-safety-corrections",
+        "data-driven-culture",
+        "autumn-improvement"
+      ],
+      "tone": "positive",
+      "open_loops": [
+        "Fixed monthly send date not yet established",
+        "Dashboard needs a boundary rule to prevent scope creep",
+        "Protecting routines from drift is ongoing priority",
+        "Staff need to hear that corrections numbers are protective, not punitive"
+      ],
+      "decisions": [
+        "Saira remained operations lead and turned her wall notes into a simple monthly dashboard tracking queue times, labeling "
+      ],
+      "strands": [
+        "monthly-dashboard",
+        "queue-metrics",
+        "safety-and-speed",
+        "peter-reporting",
+        "operational-baseline",
+        "speed-safety-corrections",
+        "data-driven-culture",
+        "autumn-improvement"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2023-11-27-1245",
+      "date": "2023-11-27",
+      "start": "2023-11-27T12:45:00.000Z",
+      "end": "2023-11-27T13:59:00.000Z",
+      "turn_count": 26,
+      "status": "closed",
+      "focus": "Saira admits to her GP she's been anxious, sleepless, and perpetually braced",
+      "summary": "Saira tells her GP she has not been sleeping properly and feels constantly braced. The GP recommends a screen cutoff, headache tracking, and work counseling sessions. Saira starts implementing these, acknowledging she had stopped treating herself as a priority and was running on accumulated strain.",
+      "tags": [
+        "anxiety-recognition",
+        "gp-visit",
+        "counseling-sessions",
+        "sleep-difficulty",
+        "headache-tracking",
+        "screen-cutoff",
+        "pressure-stack",
+        "self-care-plan"
+      ],
+      "tone": "mixed",
+      "open_loops": [
+        "First counseling session not yet attended",
+        "Headache tracking just started - needs pattern analysis",
+        "Sleep improvement needs consistent tracking",
+        "Need to tell Tom about goal (less wound up) without making it dramatic"
+      ],
+      "decisions": [
+        "Her mental health shifted from general stress easing somewhat to having slightly better coping tools, more honest langua"
+      ],
+      "strands": [
+        "anxiety-recognition",
+        "gp-visit",
+        "counseling-sessions",
+        "sleep-difficulty",
+        "headache-tracking",
+        "screen-cutoff",
+        "pressure-stack",
+        "self-care-plan"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2024-01-19-1010",
+      "date": "2024-01-19",
+      "start": "2024-01-19T10:10:00.000Z",
+      "end": "2024-01-19T11:36:00.000Z",
+      "turn_count": 30,
+      "status": "closed",
+      "focus": "A nearby pharmacy cuts hours, sending surge demand to Westgate and stress-testing the system",
+      "summary": "A nearby chain branch cuts hours, sending a demand surge to Westgate. Saira adapts with a triage script for the counter, relocates bulky repeat stock closer to the bench, and gives Amelia formal ownership of an end-of-day discrepancy check. The system holds under pressure.",
+      "tags": [
+        "demand-surge",
+        "triage-script",
+        "stock-relocation",
+        "stress-test",
+        "amelia-ownership",
+        "closing-discrepancy-check",
+        "counter-flow",
+        "shared-ownership"
+      ],
+      "tone": "mixed",
+      "open_loops": [
+        "Counter triage language needs to be tightened without formalizing too early",
+        "Amelia's discrepancy check needs review of outputs after settling period",
+        "One more refinement likely needed on counter language consistency",
+        "Stock placement benefit needs before/after examples documented"
+      ],
+      "decisions": [
+        "Saira remained operations lead and adapted Westgate's workflow for a surge in neighborhood demand after a nearby chain b"
+      ],
+      "strands": [
+        "demand-surge",
+        "triage-script",
+        "stock-relocation",
+        "stress-test",
+        "amelia-ownership",
+        "closing-discrepancy-check",
+        "counter-flow",
+        "shared-ownership"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2024-03-05-0440",
+      "date": "2024-03-05",
+      "start": "2024-03-05T04:40:00.000Z",
+      "end": "2024-03-05T06:01:00.000Z",
+      "turn_count": 28,
+      "status": "closed",
+      "focus": "A colleague's placid rescue cat shifts Saira's vague pet interest into a specific future plan",
+      "summary": "After visiting a colleague's flat with a calm rescue cat, Saira's desire for a cat shifts from abstract to concrete. She identifies she wants a calm adult rescue with a low-demand temperament, once the house is fully done. She plans a short note of non-negotiables but defers action until after the renovation is complete.",
+      "tags": [
+        "rescue-cat-idea",
+        "radiator-cat",
+        "adult-cat-preference",
+        "calm-temperament",
+        "future-pet-planning",
+        "house-ready-milestone",
+        "cat-research",
+        "non-negotiables-list"
+      ],
+      "tone": "positive",
+      "open_loops": [
+        "Criteria list for ideal rescue cat not yet written",
+        "House needs to be fully finished before adoption",
+        "Tom's imaginary cat personality discussions ongoing",
+        "Need to avoid turning pet planning into another project"
+      ],
+      "decisions": [
+        "Saira still had no pets because the house was not fully ready, but after meeting a colleague's unusually placid rescue c"
+      ],
+      "strands": [
+        "rescue-cat-idea",
+        "radiator-cat",
+        "adult-cat-preference",
+        "calm-temperament",
+        "future-pet-planning",
+        "house-ready-milestone",
+        "cat-research",
+        "non-negotiables-list"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2024-05-16-0935",
+      "date": "2024-05-16",
+      "start": "2024-05-16T09:35:00.000Z",
+      "end": "2024-05-16T10:56:00.000Z",
+      "turn_count": 28,
+      "status": "closed",
+      "focus": "Second inspection cycle finds no repeat issues in overhauled areas, solidifying Saira's authority",
+      "summary": "The next inspection cycle finds no repeat issues in the workflow areas Saira overhauled. Peter shifts from surviving inspections to linking discipline with independence. Saira feels her internal authority grow and plans a team huddle, one-page expectations, and a conversation with Peter to make the standard official.",
+      "tags": [
+        "second-inspection",
+        "no-repeat-findings",
+        "sustained-improvement",
+        "peter-independence-link",
+        "credibility-solidified",
+        "baseline-standard",
+        "operations-file",
+        "team-huddle"
+      ],
+      "tone": "positive",
+      "open_loops": [
+        "One-page plain language expectations not yet written",
+        "Peter needs to say something in his own words about the standard",
+        "Team huddle not yet conducted",
+        "Saira needs to protect against post-inspection energy crash"
+      ],
+      "decisions": [
+        "After a second inspection cycle with no repeat findings in the workflow areas she had overhauled, Saira had stronger aut"
+      ],
+      "strands": [
+        "second-inspection",
+        "no-repeat-findings",
+        "sustained-improvement",
+        "peter-independence-link",
+        "credibility-solidified",
+        "baseline-standard",
+        "operations-file",
+        "team-huddle"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2024-07-02-1315",
+      "date": "2024-07-02",
+      "start": "2024-07-02T13:15:00.000Z",
+      "end": "2024-07-02T14:41:00.000Z",
+      "turn_count": 30,
+      "status": "closed",
+      "focus": "Saira and Tom open a dedicated savings pot for Lisbon and house contingencies",
+      "summary": "With the wedding paid off and renovation spending easing, Saira and Tom open a shared savings pot split between a Lisbon trip and a house contingency buffer. Saira sets a rule that family help comes from monthly cash flow, not the buffer, and plans a modest first threshold target.",
+      "tags": [
+        "savings-pot-opened",
+        "lisbon-trip-fund",
+        "house-buffer",
+        "shared-finances",
+        "financial-stability",
+        "post-wedding-budget",
+        "monthly-check-in",
+        "money-boundaries"
+      ],
+      "tone": "positive",
+      "open_loops": [
+        "Monthly transfer amount not yet agreed with Tom",
+        "First house threshold target not yet set",
+        "Windfall/extra money rule not yet decided",
+        "Lisbon research (costs, months, neighborhoods) not yet done"
+      ],
+      "decisions": [
+        "Saira and Tom finally opened a dedicated savings pot after paying off the wedding and getting past the most urgent renov"
+      ],
+      "strands": [
+        "savings-pot-opened",
+        "lisbon-trip-fund",
+        "house-buffer",
+        "shared-finances",
+        "financial-stability",
+        "post-wedding-budget",
+        "monthly-check-in",
+        "money-boundaries"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2024-09-09-1055",
+      "date": "2024-09-09",
+      "start": "2024-09-09T10:55:00.000Z",
+      "end": "2024-09-09T12:21:00.000Z",
+      "turn_count": 30,
+      "status": "closed",
+      "focus": "Saira writes a blunt memo to Peter arguing against a rushed sale, using workflow evidence",
+      "summary": "Peter quietly sounds out retirement timing amid outside interest in local pharmacies. Saira writes a direct memo using two years of queue data, error reduction, and patient comments to argue the pharmacy has a realistic fighting chance to remain independent. Peter engages with practical questions rather than defensiveness.",
+      "tags": [
+        "peter-retirement",
+        "independence-memo",
+        "strategic-influence",
+        "queue-data-evidence",
+        "patient-comments",
+        "ownership-conversation",
+        "future-planning",
+        "fighting-chance"
+      ],
+      "tone": "mixed",
+      "open_loops": [
+        "Winter stress test needs to be tracked as evidence",
+        "One-page summary of strongest measures needs to be prepared for broader discussion",
+        "Saira needs to balance strategic influence with daily operations energy",
+        "Need to avoid turning every ambiguity into a personal threat"
+      ],
+      "decisions": [
+        "Saira remained operations lead and became a central voice in Westgate's independence planning, using hard workflow evide"
+      ],
+      "strands": [
+        "peter-retirement",
+        "independence-memo",
+        "strategic-influence",
+        "queue-data-evidence",
+        "patient-comments",
+        "ownership-conversation",
+        "future-planning",
+        "fighting-chance"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2024-11-18-0500",
+      "date": "2024-11-18",
+      "start": "2024-11-18T05:00:00.000Z",
+      "end": "2024-11-18T06:14:00.000Z",
+      "turn_count": 26,
+      "status": "closed",
+      "focus": "Amelia's homemade masala fish lunch inspires Saira to replace meal deals with packed leftovers",
+      "summary": "After Amelia teases Saira about her sad meal-deal sandwich while eating homemade masala fish, Saira starts intentionally packing leftovers for long dispensary days. She establishes a simple rule: dinner leftovers automatically become next day's lunch, with a freezer backup for gaps. Containers moved to eye level.",
+      "tags": [
+        "packed-lunches",
+        "meal-deal-replacement",
+        "leftover-habit",
+        "amelia-teasing",
+        "freezer-backup",
+        "food-routine",
+        "small-habit-change",
+        "intentional-eating"
+      ],
+      "tone": "positive",
+      "open_loops": [
+        "Freezer backup supply needs to be maintained",
+        "Simple packing mental checklist (main + fresh + snack) not yet automatic",
+        "Bought lunch as exception, not default, needs to stick"
+      ],
+      "decisions": [
+        "Saira shifted from defaulting to supermarket meal deals on long workdays to bringing packed leftovers and simple lunches"
+      ],
+      "strands": [
+        "packed-lunches",
+        "meal-deal-replacement",
+        "leftover-habit",
+        "amelia-teasing",
+        "freezer-backup",
+        "food-routine",
+        "small-habit-change",
+        "intentional-eating"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2025-02-14-1030",
+      "date": "2025-02-14",
+      "start": "2025-02-14T10:30:00.000Z",
+      "end": "2025-02-14T11:44:00.000Z",
+      "turn_count": 26,
+      "status": "closed",
+      "focus": "Saira codifies the modernized dispensing system into an internal operations file after consistently hitting the 15-minute target",
+      "summary": "With the after-school rush regularly hitting under 15 minutes, Saira creates an internal operations file with shelf layout photos, handoff scripts, a locum section, and monthly measures. She plans to pilot it with one quick skeptical team member first, then a locum, making the system durable beyond her own presence.",
+      "tags": [
+        "fifteen-minute-target",
+        "operations-file",
+        "shelf-layout-photos",
+        "handoff-scripts",
+        "locum-section",
+        "monthly-measures",
+        "codifying-workflow",
+        "continuity-planning"
+      ],
+      "tone": "positive",
+      "open_loops": [
+        "Operations file needs pilot with one fast skeptical staff member",
+        "Locum test of the file not yet conducted",
+        "Handover notes section deferred to phase two",
+        "Peter needs to back the expectation that new/covering staff use the file"
+      ],
+      "decisions": [
+        "Saira remained operations lead and codified Westgate's modernized dispensing system into a small internal operations fil"
+      ],
+      "strands": [
+        "fifteen-minute-target",
+        "operations-file",
+        "shelf-layout-photos",
+        "handoff-scripts",
+        "locum-section",
+        "monthly-measures",
+        "codifying-workflow",
+        "continuity-planning"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2025-05-30-1220",
+      "date": "2025-05-30",
+      "start": "2025-05-30T12:20:00.000Z",
+      "end": "2025-05-30T13:34:00.000Z",
+      "turn_count": 26,
+      "status": "closed",
+      "focus": "House renovation reaches practical completion, freeing Saira to plan for a cat and Lisbon holiday",
+      "summary": "Saira and Tom paint the last upstairs wall and clear landing boxes, marking the house as 'finished enough'. Saira allows herself to plan a Lisbon holiday and consider adopting a calm adult rescue cat. She sets three steps: book Lisbon dates, hang wall art, then low-pressure cat research.",
+      "tags": [
+        "renovation-complete",
+        "last-wall-painted",
+        "landing-cleared",
+        "house-finished-enough",
+        "cat-planning",
+        "lisbon-booking",
+        "temporary-mindset-ended",
+        "shared-accomplishment"
+      ],
+      "tone": "positive",
+      "open_loops": [
+        "Lisbon dates need to be chosen and booked",
+        "Wall art not yet hung (landing priority)",
+        "Cat non-negotiables list not yet finalized",
+        "Need to avoid slipping back into 'one more month' postponement mentality"
+      ],
+      "decisions": [
+        "Saira and Tom finished the last upstairs wall and cleared the landing boxes, making the house feel finished enough to st"
+      ],
+      "strands": [
+        "renovation-complete",
+        "last-wall-painted",
+        "landing-cleared",
+        "house-finished-enough",
+        "cat-planning",
+        "lisbon-booking",
+        "temporary-mindset-ended",
+        "shared-accomplishment"
+      ],
+      "needs_marking": false
+    }
+  ]
+}

@@ -1,0 +1,1099 @@
+{
+  "_schema": 1,
+  "updated_at": "2026-08-17T16:21:31.611Z",
+  "slice_count": 30,
+  "needs_marking": 0,
+  "slices": [
+    {
+      "id": "2022-01-06-0010",
+      "date": "2022-01-06",
+      "start": "2022-01-06T00:10:00.000Z",
+      "end": "2022-01-06T01:24:00.000Z",
+      "turn_count": 26,
+      "status": "closed",
+      "focus": "Personal intake and life context overview with assistant",
+      "summary": "Lucia introduces herself in detail to a new AI assistant: a 37-year-old senior court interpreter and coordinator in Albuquerque, ISTJ personality, married to Daniel Rivas (facilities estimator), caring for her father Rogelio (mobility issues, West Side). She shares her civic reform goal — building a Spanish interpreter scheduling system with 97%+ coverage within five years — and describes her migraines, financial strain from home repair debt and eldercare support, support network (Judge Baca, Martin Salazar, friend Yesenia Pineda), and personal preferences (green chile stew, public radio, Lobo women's basketball, courtroom dramas, narrative nonfiction).",
+      "tags": [
+        "personal-intake",
+        "court-interpreter-career",
+        "civic-reform-goal",
+        "albuquerque-setting",
+        "migraine-management",
+        "eldercare-responsibility",
+        "marriage-strain",
+        "language-access-advocacy"
+      ],
+      "tone": "positive",
+      "open_loops": [
+        "Court interpreter scheduling reform goal — track progress toward 97%+ coverage",
+        "Eldercare logistics for father Rogelio — monitor appointment coordination burden",
+        "Marriage strain with Daniel around schedule unpredictability"
+      ],
+      "decisions": [],
+      "strands": [
+        "personal-intake",
+        "court-interpreter-career",
+        "civic-reform-goal",
+        "albuquerque-setting",
+        "migraine-management",
+        "eldercare-responsibility",
+        "marriage-strain",
+        "language-access-advocacy"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2022-01-22-0940",
+      "date": "2022-01-22",
+      "start": "2022-01-22T09:40:00.000Z",
+      "end": "2022-01-22T10:48:00.000Z",
+      "turn_count": 24,
+      "status": "closed",
+      "focus": "Public Spanish coverage breakdown leads to crisis log approval",
+      "summary": "A public same-day Spanish interpretation collapse at arraignment — one interpreter sick, backup stuck on I-25, families complaining at the clerk window — finally pushes Lucia past the tipping point. Martin Salazar helps her reconstruct the failure on a legal pad, and she gets verbal permission to start a manual incident log for every same-day Spanish scheduling failure. The conversation focuses on log design (keeping entries factual, separating observation from interpretation), strategy (quiet consistency before revealing the log's scope), and Lucia's growing awareness that she carries institutional failures as personal moral debt. She decides to write the first entry immediately and send a confirming email to formalize the practice.",
+      "tags": [
+        "court-coverage-crisis",
+        "public-arraignment-breakdown",
+        "incident-log-creation",
+        "language-access-advocacy",
+        "martin-salazar-alliance",
+        "evidence-building-strategy",
+        "institutional-change-tactics",
+        "emotional-burden-of-responsibility"
+      ],
+      "tone": "mixed",
+      "open_loops": [],
+      "decisions": [
+        "After a public same-day Spanish coverage breakdown, Lucia was allowed to start and maintain a manual incident log for ev",
+        "Lucia now sees the court as more exposed than before and feels newly keyed up but determined after the humiliating colla"
+      ],
+      "strands": [
+        "court-coverage-crisis",
+        "public-arraignment-breakdown",
+        "incident-log-creation",
+        "language-access-advocacy",
+        "martin-salazar-alliance",
+        "evidence-building-strategy",
+        "institutional-change-tactics",
+        "emotional-burden-of-responsibility"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2022-02-09-0720",
+      "date": "2022-02-09",
+      "start": "2022-02-09T07:20:00.000Z",
+      "end": "2022-02-09T08:41:00.000Z",
+      "turn_count": 28,
+      "status": "closed",
+      "focus": "Basketball visits with father become meaningful routine",
+      "summary": "Lucia discovers that attending Lobo women's basketball games with her father Rogelio — especially listening to the local radio pregame and postgame coverage together — has become a genuine source of connection and comfort amid a tense period. The shared ritual gives structure to their visits, lowers the pressure of eldercare logistics, and creates an 'anchor' in her schedule. She begins timing West Side visits around game days, and notices her father is more animated with something to anticipate. Lucia reflects on how this ordinary routine has become unexpectedly restorative for both of them, and decides to protect it as a regular practice.",
+      "tags": [
+        "father-daughter-bonding",
+        "lobo-womens-basketball",
+        "local-radio-ritual",
+        "eldercare-through-shared-activities",
+        "low-pressure-visit-routine",
+        "west-side-albuquerque",
+        "emotional-anchoring",
+        "restorative-family-time"
+      ],
+      "tone": "positive",
+      "open_loops": [],
+      "decisions": [
+        "Lucia now follows Lobo women's basketball more attentively and often times West Side visits around games so she can list"
+      ],
+      "strands": [
+        "father-daughter-bonding",
+        "lobo-womens-basketball",
+        "local-radio-ritual",
+        "eldercare-through-shared-activities",
+        "low-pressure-visit-routine",
+        "west-side-albuquerque",
+        "emotional-anchoring",
+        "restorative-family-time"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2022-03-03-1005",
+      "date": "2022-03-03",
+      "start": "2022-03-03T10:05:00.000Z",
+      "end": "2022-03-03T11:13:00.000Z",
+      "turn_count": 24,
+      "status": "closed",
+      "focus": "Crisis log turned into scheduling-buffer pilot approval",
+      "summary": "Lucia converts six weeks of handwritten incident counts and start-delay notes into a cleaned-up spreadsheet with Martin's help, and presents the pattern evidence — not blame — to Judge Evelyn Baca. She gets approval for a three-month scheduling-buffer pilot on the busiest Spanish dockets, a major step up from merely maintaining a crisis log. The conversation covers pilot design (three key measures: scramble count, start delay minutes, full coverage), reporting strategy (monthly one-page snapshots), and Lucia's recognition that she must protect her own health (migraine prevention, emergency snacks) during the trial period. She decides to keep the pilot 'survivable, not heroic.'",
+      "tags": [
+        "scheduling-buffer-pilot",
+        "evidence-based-advocacy",
+        "judge-baca-conditional-buy-in",
+        "martin-salazar-data-collaboration",
+        "operational-metrics-design",
+        "migraine-self-protection",
+        "incremental-institutional-change",
+        "three-month-pilot-timeline"
+      ],
+      "tone": "positive",
+      "open_loops": [],
+      "decisions": [
+        "Lucia's role shifted from maintaining a manual crisis log to running a three-month scheduling-buffer pilot for the busie"
+      ],
+      "strands": [
+        "scheduling-buffer-pilot",
+        "evidence-based-advocacy",
+        "judge-baca-conditional-buy-in",
+        "martin-salazar-data-collaboration",
+        "operational-metrics-design",
+        "migraine-self-protection",
+        "incremental-institutional-change",
+        "three-month-pilot-timeline"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2022-03-24-1210",
+      "date": "2022-03-24",
+      "start": "2022-03-24T12:10:00.000Z",
+      "end": "2022-03-24T13:31:00.000Z",
+      "turn_count": 28,
+      "status": "closed",
+      "focus": "Kitchen-table talk leads to shared Sunday planning board",
+      "summary": "After Lucia misses a planned dinner due to a late docket and an unscheduled stop at her father's house, she and Daniel have a blunt kitchen-table conversation about uneven evening labor and chronic unpredictability. They agree to start a shared Sunday planning board covering meals, eldercare tasks, likely late court days, and 'who owns what' each week. The conversation reveals that Daniel doesn't need punctuality — he needs earlier visibility and not to be surprised repeatedly. Lucia recognizes her tendency to minimize rather than communicate clearly when her home life gets rearranged by work and eldercare. The board becomes a coordination tool that makes spillover visible, with a planned 15-minute Sunday check-in ritual and one protected night each week.",
+      "tags": [
+        "marriage-communication",
+        "uneven-evening-labor",
+        "sunday-planning-board",
+        "schedule-unpredictability-conflict",
+        "eldercare-spillover",
+        "shared-visibility-tools",
+        "daniel-rivas-relationship",
+        "domestic-coordination-system"
+      ],
+      "tone": "mixed",
+      "open_loops": [],
+      "decisions": [
+        "Lucia's marriage is still strained by late schedule changes and eldercare, but she and Daniel are now using a shared wee",
+        "Daniel is still frustrated by Lucia's last-minute court schedule changes, but he and Lucia have started a Sunday plannin"
+      ],
+      "strands": [
+        "marriage-communication",
+        "uneven-evening-labor",
+        "sunday-planning-board",
+        "schedule-unpredictability-conflict",
+        "eldercare-spillover",
+        "shared-visibility-tools",
+        "daniel-rivas-relationship",
+        "domestic-coordination-system"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2022-04-11-0845",
+      "date": "2022-04-11",
+      "start": "2022-04-11T08:45:00.000Z",
+      "end": "2022-04-11T10:06:00.000Z",
+      "turn_count": 28,
+      "status": "closed",
+      "focus": "Pilot reveals backup shortage; skills circle launched",
+      "summary": "The scheduling-buffer pilot helps with start-time pileups but reveals a deeper vulnerability: one absence can still break the day because there's no backup bench. Lucia launches a monthly in-house interpreter skills circle — a voluntary lunch-hour training for bilingual clerks and staff who might become cross-trained backups. She keeps the format small and low-disruption (conference room, sandwiches, no budget line) to avoid bureaucratic resistance. The conversation covers session design (terminology, ethics, practical exercises), participant assessment (accuracy, role discipline, composure), and Lucia's awareness that she's not just fixing timing — she's trying to build actual coverage resilience through a training pipeline.",
+      "tags": [
+        "interpreter-skills-circle",
+        "voluntary-training-model",
+        "backup-capacity-building",
+        "bilingual-staff-development",
+        "courtroom-interpreter-ethics",
+        "hidden-capacity-discovery",
+        "resilience-over-patching",
+        "incremental-training-pipeline"
+      ],
+      "tone": "positive",
+      "open_loops": [],
+      "decisions": [
+        "Lucia now pairs the court's scheduling-buffer pilot with a monthly in-house interpreter skills circle to build possible "
+      ],
+      "strands": [
+        "interpreter-skills-circle",
+        "voluntary-training-model",
+        "backup-capacity-building",
+        "bilingual-staff-development",
+        "courtroom-interpreter-ethics",
+        "hidden-capacity-discovery",
+        "resilience-over-patching",
+        "incremental-training-pipeline"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2022-05-02-0430",
+      "date": "2022-05-02",
+      "start": "2022-05-02T04:30:00.000Z",
+      "end": "2022-05-02T05:51:00.000Z",
+      "turn_count": 28,
+      "status": "closed",
+      "focus": "Severe migraine forces health prevention routine change",
+      "summary": "After a fluorescent-heavy week with packed arraignment calendars and skipped meals, Lucia vomits in the staff restroom from a severe migraine and sees her primary care doctor. She adopts a prevention routine: medication and electrolyte packets always in her court bag, a simple emergency snack, no skipped lunches on heavy days, and an early-warning medication rule rather than waiting until symptoms spiral. She tells Daniel what happened and he responds supportively, helping with a Sunday restock check for her bag. The conversation marks a shift from 'heroic endurance' to 'prevent the crash' — Lucia recognizes she's been treating determination as durability and decides to be less sacrificial, not less committed.",
+      "tags": [
+        "severe-migraine-episode",
+        "primary-care-intervention",
+        "migraine-prevention-routine",
+        "fluorescent-light-trigger",
+        "court-bag-preparedness-kit",
+        "self-neglect-pattern",
+        "daniel-supportive-response",
+        "sunday-restock-ritual"
+      ],
+      "tone": "mixed",
+      "open_loops": [],
+      "decisions": [
+        "After a severe migraine-related workweek flare, Lucia saw her primary care doctor and adopted a prevention routine for c",
+        "The migraine scare made Lucia less reckless about her own limits even as she stays determined about court reform."
+      ],
+      "strands": [
+        "severe-migraine-episode",
+        "primary-care-intervention",
+        "migraine-prevention-routine",
+        "fluorescent-light-trigger",
+        "court-bag-preparedness-kit",
+        "self-neglect-pattern",
+        "daniel-supportive-response",
+        "sunday-restock-ritual"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2022-06-18-1025",
+      "date": "2022-06-18",
+      "start": "2022-06-18T10:25:00.000Z",
+      "end": "2022-06-18T11:51:00.000Z",
+      "turn_count": 30,
+      "status": "closed",
+      "focus": "Handwritten tracking formalized into monthly dashboard",
+      "summary": "Lucia turns her handwritten tracking into a one-page monthly language-access dashboard for the court, with three clean metrics: filled interpreter requests, scramble calls made, and total courtroom delay minutes. Martin starts circulating it to court leadership — it's the first regular language-access performance report the court has ever had. The conversation covers dashboard design (readable in under a minute, strictly factual with one short takeaway line), Lucia's realization that 'reusable tools quietly shift power,' and her commitment to keeping the format stable to earn trust before using it to push for changes. The dashboard represents a transition from personal tracking to institutional memory.",
+      "tags": [
+        "monthly-dashboard-creation",
+        "language-access-metrics",
+        "court-performance-reporting",
+        "martin-salazar-circulation",
+        "institutional-memory-building",
+        "operational-data-design",
+        "reusable-tools-strategy",
+        "metric-discipline"
+      ],
+      "tone": "positive",
+      "open_loops": [],
+      "decisions": [
+        "Lucia turned her handwritten pilot log into a monthly one-page language-access dashboard for the Albuquerque Municipal C"
+      ],
+      "strands": [
+        "monthly-dashboard-creation",
+        "language-access-metrics",
+        "court-performance-reporting",
+        "martin-salazar-circulation",
+        "institutional-memory-building",
+        "operational-data-design",
+        "reusable-tools-strategy",
+        "metric-discipline"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2022-07-07-1105",
+      "date": "2022-07-07",
+      "start": "2022-07-07T11:05:00.000Z",
+      "end": "2022-07-07T12:31:00.000Z",
+      "turn_count": 30,
+      "status": "closed",
+      "focus": "Roof repair estimate jumps, household tightens budget",
+      "summary": "A small roof concern reveals hidden water damage above the hall bathroom, and the repair estimate jumps significantly. Lucia and Daniel choose a payment plan rather than paying upfront, keeping their regular bills current and continuing monthly support for Lucia's father while adding the repair debt. They agree to tighten summer spending (less eating out, no weekend extras) and plan a one-month check-in to reassess. The conversation clarifies that their household is 'stable but not cushioned' — low margin under extra pressure, not collapse. Lucia decides to map payment timing against the monthly calendar and ask the contractor about late fees and payoff flexibility.",
+      "tags": [
+        "home-repair-crisis",
+        "roof-water-damage",
+        "payment-plan-decision",
+        "summer-budget-tightening",
+        "financial-low-margin",
+        "daniel-financial-alignment",
+        "eldercare-support-prioritization",
+        "household-debt-management"
+      ],
+      "tone": "mixed",
+      "open_loops": [],
+      "decisions": [
+        "Lucia's household income remained stable, but expanded roof and bathroom payments increased the debt pressure they were "
+      ],
+      "strands": [
+        "home-repair-crisis",
+        "roof-water-damage",
+        "payment-plan-decision",
+        "summer-budget-tightening",
+        "financial-low-margin",
+        "daniel-financial-alignment",
+        "eldercare-support-prioritization",
+        "household-debt-management"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2022-08-14-0915",
+      "date": "2022-08-14",
+      "start": "2022-08-14T09:15:00.000Z",
+      "end": "2022-08-14T10:29:00.000Z",
+      "turn_count": 26,
+      "status": "closed",
+      "focus": "Six-person pilot training cohort formally launched",
+      "summary": "Lucia formally launches a six-person pilot training cohort for backup Spanish coverage, selected based on attendance sheets from the skills circle and dashboard coverage gap data rather than hallway enthusiasm. The training features mock arraignment scripts (the most common courtroom situation where people freeze) and an ethics review section on boundaries, accuracy, and not sliding into summary mode. Shadow assignments precede any actual backup use, with Lucia planning stage gates (attended session → ethics review → shadow → limited backup eligibility). She commits to a participant checklist and short monthly cohort note alongside the dashboard, deliberately choosing 'boring and sustainable' over heroic overextension.",
+      "tags": [
+        "training-cohort-launch",
+        "mock-arraignment-scripts",
+        "interpreter-ethics-training",
+        "stage-gate-progression",
+        "evidence-based-selection",
+        "shadow-before-backup",
+        "participant-checklist-system",
+        "sustainable-cohort-design"
+      ],
+      "tone": "positive",
+      "open_loops": [],
+      "decisions": [
+        "Lucia formally launched a six-person pilot training cohort to build reliable backup Spanish coverage for the municipal c"
+      ],
+      "strands": [
+        "training-cohort-launch",
+        "mock-arraignment-scripts",
+        "interpreter-ethics-training",
+        "stage-gate-progression",
+        "evidence-based-selection",
+        "shadow-before-backup",
+        "participant-checklist-system",
+        "sustainable-cohort-design"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2022-09-01-0610",
+      "date": "2022-09-01",
+      "start": "2022-09-01T06:10:00.000Z",
+      "end": "2022-09-01T07:36:00.000Z",
+      "turn_count": 30,
+      "status": "closed",
+      "focus": "Podcast on legal language restarts reading habit",
+      "summary": "A friend (Yesenia) sends Lucia a podcast episode about legal language and wrongful convictions, which reignites her dormant reading habit. She shifts to one-book-at-a-time (narrative nonfiction about law, language, and system failures), reading in short 20-minute bursts rather than waiting for perfect conditions. The conversation covers her shift from a guilty half-read stack to a manageable singular book, keeping a finished-title list on an index card, and accepting that her reading taste naturally circles justice and institutional blind spots. The quieter stretch allows her to distinguish between wanting to read and wanting to collapse.",
+      "tags": [
+        "legal-language-podcast",
+        "narrative-nonfiction-reading",
+        "wrongful-conviction-interest",
+        "one-book-at-a-time-habit",
+        "yesenia-friend-connection",
+        "short-burst-reading-ritual",
+        "intellectual-curiosity-restored",
+        "library-habit-change"
+      ],
+      "tone": "positive",
+      "open_loops": [],
+      "decisions": [
+        "After Yesenia sent her a podcast episode about legal language and wrongful convictions, Lucia leaned harder into narrati"
+      ],
+      "strands": [
+        "legal-language-podcast",
+        "narrative-nonfiction-reading",
+        "wrongful-conviction-interest",
+        "one-book-at-a-time-habit",
+        "yesenia-friend-connection",
+        "short-burst-reading-ritual",
+        "intellectual-curiosity-restored",
+        "library-habit-change"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2022-10-03-0855",
+      "date": "2022-10-03",
+      "start": "2022-10-03T08:55:00.000Z",
+      "end": "2022-10-03T10:21:00.000Z",
+      "turn_count": 30,
+      "status": "closed",
+      "focus": "Judge Baca suspends training buffers and shadows",
+      "summary": "In a tense operations meeting, Judge Evelyn Baca pushes to suspend the training shadow observations and scheduling buffer gaps on high-volume days, arguing the pilot is slowing the docket. Lucia experiences this as a public overruling that leaves the cohort intact but stripped of the conditions that made training practical. The conversation focuses on her response strategy: protecting the minimum training elements (observed workflow before solo backup, protected prep on busy mornings), clarifying the suspension's practical terms with Martin, and starting a separate log of the consequences of lost buffers. She recognizes that 'conditions changed underneath the pilot' and that partial rollback is harder than outright cancellation because it leaves her responsible for outcomes without supporting conditions.",
+      "tags": [
+        "judge-baca-setback",
+        "buffer-suspension",
+        "political-resistance-to-reform",
+        "training-pipeline-threatened",
+        "martin-limited-support",
+        "cohort-protection-strategy",
+        "public-overruling-impact",
+        "risk-framing-vs-defiance"
+      ],
+      "tone": "negative",
+      "open_loops": [],
+      "decisions": [
+        "Judge Evelyn Baca pushed leadership to suspend Lucia's training shadows and scheduling buffer gaps on high-volume days, ",
+        "Lucia feels publicly controlled and privately demoralized after Judge Baca overrode parts of her scheduling pilot, and s"
+      ],
+      "strands": [
+        "judge-baca-setback",
+        "buffer-suspension",
+        "political-resistance-to-reform",
+        "training-pipeline-threatened",
+        "martin-limited-support",
+        "cohort-protection-strategy",
+        "public-overruling-impact",
+        "risk-framing-vs-defiance"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2022-10-26-0350",
+      "date": "2022-10-26",
+      "start": "2022-10-26T03:50:00.000Z",
+      "end": "2022-10-26T05:04:00.000Z",
+      "turn_count": 26,
+      "status": "closed",
+      "focus": "Sunday market caldo sample leads to recovery food list",
+      "summary": "After a discouraging stretch, Lucia stops by a Sunday market near Old Town and tries a vendor's caldo sample, which becomes an unexpectedly meaningful reset. She starts saving soup places on her phone — caldo, pho, other brothy options — creating a tiny core recovery food list for migraine days and overworked evenings. The list replaces the default of crackers, Coke, and plain tortillas with something more nourishing and functionally restorative. The conversation touches on how small, boring systems of self-care (a curated takeout list with situational tags like 'migraine-safe') can provide dependable support when bigger life circumstances feel pinned down.",
+      "tags": [
+        "soup-list-creation",
+        "migraine-recovery-food",
+        "old-town-market-visit",
+        "functional-self-care",
+        "low-friction-evening-system",
+        "small-controllable-rituals",
+        "caldo-as-comfort-food",
+        "emotional-self-support"
+      ],
+      "tone": "mixed",
+      "open_loops": [],
+      "decisions": [
+        "After stopping at a small Sunday market near Old Town and trying a vendor's caldo sample, Lucia started keeping a short "
+      ],
+      "strands": [
+        "soup-list-creation",
+        "migraine-recovery-food",
+        "old-town-market-visit",
+        "functional-self-care",
+        "low-friction-evening-system",
+        "small-controllable-rituals",
+        "caldo-as-comfort-food",
+        "emotional-self-support"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2022-11-19-1020",
+      "date": "2022-11-19",
+      "start": "2022-11-19T10:20:00.000Z",
+      "end": "2022-11-19T11:34:00.000Z",
+      "turn_count": 26,
+      "status": "closed",
+      "focus": "Training cohort redesigned into low-disruption format",
+      "summary": "Rather than abandoning the training effort after Judge Baca's rollback, Lucia redesigns it into a narrower format: short pre-docket observation windows instead of longer shadow blocks, after-hours terminology drills, and competency checklists that document progress by specific markers (accuracy, register, pace, error handling). She reframes the program from 'reduced version' to 'observation-and-competency track,' with a clear distinction between what the checklist can assess and what still requires full live pressure testing. The conversation emphasizes adaptation over surrender — she kept the backup pipeline alive by making it harder to target as an operational obstacle.",
+      "tags": [
+        "post-setback-redesign",
+        "low-disruption-training-format",
+        "competency-checklist-system",
+        "after-hours-drills",
+        "pre-docket-observation-windows",
+        "adaptation-over-abandonment",
+        "threshold-vs-graduation-framing",
+        "constrained-survival-strategy"
+      ],
+      "tone": "mixed",
+      "open_loops": [],
+      "decisions": [
+        "Lucia redesigned the interpreter training cohort into a lower-disruption format after losing the original scheduling buf"
+      ],
+      "strands": [
+        "post-setback-redesign",
+        "low-disruption-training-format",
+        "competency-checklist-system",
+        "after-hours-drills",
+        "pre-docket-observation-windows",
+        "adaptation-over-abandonment",
+        "threshold-vs-graduation-framing",
+        "constrained-survival-strategy"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2022-12-21-0835",
+      "date": "2022-12-21",
+      "start": "2022-12-21T08:35:00.000Z",
+      "end": "2022-12-21T09:43:00.000Z",
+      "turn_count": 24,
+      "status": "closed",
+      "focus": "Father's minor fall leads to formal care calendar system",
+      "summary": "Lucia's father Rogelio slips while bringing in groceries — minor injury but major scare. She spends the weekend sorting pill bottles, appointment cards, and grab-bar estimates, and they agree she'll take over a formal calendar and transportation routine. The conversation sequences her plan: medical calendar and ride plan first, home-safety improvements (rugs, bathroom layout, medication cleanup) second. She decides to keep a simple wall calendar for him and a more detailed admin version on her phone, with one weekly admin block to contain the responsibility. The shift is from occasional help to formally owning logistics, which feels heavier but clearer.",
+      "tags": [
+        "father-fall-incident",
+        "eldercare-formalization",
+        "care-calendar-system",
+        "ride-plan-creation",
+        "home-safety-assessment",
+        "medication-organization",
+        "guilt-and-relief-mixed",
+        "transition-from-reactive-help"
+      ],
+      "tone": "mixed",
+      "open_loops": [],
+      "decisions": [
+        "Lucia now manages a more formal calendar, ride plan, and home-safety paperwork for her father after his minor fall."
+      ],
+      "strands": [
+        "father-fall-incident",
+        "eldercare-formalization",
+        "care-calendar-system",
+        "ride-plan-creation",
+        "home-safety-assessment",
+        "medication-organization",
+        "guilt-and-relief-mixed",
+        "transition-from-reactive-help"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2023-01-28-0905",
+      "date": "2023-01-28",
+      "start": "2023-01-28T09:05:00.000Z",
+      "end": "2023-01-28T10:19:00.000Z",
+      "turn_count": 26,
+      "status": "closed",
+      "focus": "Three cohort members cleared for limited backup assignments",
+      "summary": "The redesigned training cohort produces its first operational win: three people cleared for limited backup coverage on low-risk calendars. Lucia also creates a color-coded weekly coverage board so everyone can see backup availability before the morning rush — reducing the constant questions that used to consume the first half-hour of her day. The conversation covers the board's plain design (colors for availability with clearer labels needed), a mini log (date, calendar type, who covered, intervention needed), and Lucia's emotional response to seeing knowledge move from her head to a shared system. She decides to tighten the board's legend, give a brief explanation to staff, and let repeated use do the convincing.",
+      "tags": [
+        "first-backup-deployment",
+        "limited-duty-backups",
+        "color-coded-coverage-board",
+        "morning-rush-reduction",
+        "checklist-based-readiness",
+        "knowledge-transfer-milestone",
+        "shared-visibility-tool",
+        "operational-win-after-setback"
+      ],
+      "tone": "positive",
+      "open_loops": [],
+      "decisions": [
+        "Lucia's redesigned cohort produced its first operational win: three cohort members were cleared for limited backup assig"
+      ],
+      "strands": [
+        "first-backup-deployment",
+        "limited-duty-backups",
+        "color-coded-coverage-board",
+        "morning-rush-reduction",
+        "checklist-based-readiness",
+        "knowledge-transfer-milestone",
+        "shared-visibility-tool",
+        "operational-win-after-setback"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2023-03-06-1200",
+      "date": "2023-03-06",
+      "start": "2023-03-06T12:00:00.000Z",
+      "end": "2023-03-06T13:14:00.000Z",
+      "turn_count": 26,
+      "status": "closed",
+      "focus": "Dinner at Yesenia's; older cat adoption idea becomes real",
+      "summary": "A calm dinner at Yesenia's house — enchiladas, conversation, and an elderly orange cat that attaches himself to Lucia — triggers a unexpectedly emotional shift. The long-running abstract idea of adopting an older cat with Daniel becomes concrete and real. Lucia recognizes she wants a 'gentle old roommate with whiskers,' not a kitten or a novelty. She and Daniel talk seriously about what 'manageable' would mean for their household (house settled, predictable weekly rhythm, budget for routine care plus surprises). The conversation reframes pet adoption as a future decision grounded in self-knowledge about temperament — calm, steady, low-key companionship — rather than a sentiment-driven impulse.",
+      "tags": [
+        "yesenia-dinner-visit",
+        "elderly-cat-bonding",
+        "older-cat-adoption-intention",
+        "manageable-household-definition",
+        "daniel-shared-vision",
+        "domestic-calm-restoration",
+        "companionship-over-novelty",
+        "future-planning-with-warmth"
+      ],
+      "tone": "positive",
+      "open_loops": [],
+      "decisions": [
+        "Lucia still does not have pets, but after bonding with Yesenia's elderly orange cat she and Daniel became more serious a"
+      ],
+      "strands": [
+        "yesenia-dinner-visit",
+        "elderly-cat-bonding",
+        "older-cat-adoption-intention",
+        "manageable-household-definition",
+        "daniel-shared-vision",
+        "domestic-calm-restoration",
+        "companionship-over-novelty",
+        "future-planning-with-warmth"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2023-04-18-0525",
+      "date": "2023-04-18",
+      "start": "2023-04-18T05:25:00.000Z",
+      "end": "2023-04-18T06:51:00.000Z",
+      "turn_count": 30,
+      "status": "closed",
+      "focus": "Backup system proves itself; written tiers and monthly review adopted",
+      "summary": "A morning surprise absence is covered seamlessly by a newly cleared backup — the first quiet proof that the system works. Lucia leverages this success to get written backup tiers approved and Spanish coverage added as a standing monthly operations review item. Her job structure now formally includes these tiers and the recurring review, moving language access from personal advocacy to institutional process. She plans to keep the first monthly reviews brief (one page: tiers used, substitutions, on-time starts, plus an emerging risk line) to establish the review as routine rather than exceptional. The conversation emphasizes translating reform into the language of speed and continuity rather than fairness.",
+      "tags": [
+        "successful-backup-deployment",
+        "written-backup-tier-approval",
+        "standing-monthly-review",
+        "institutional-foothold",
+        "operations-meeting-conversion",
+        "quiet-proof-of-concept",
+        "process-over-personality",
+        "docket-flow-language"
+      ],
+      "tone": "positive",
+      "open_loops": [],
+      "decisions": [
+        "Lucia's occupation status now includes written backup tiers for Spanish-language court coverage and a standing monthly o"
+      ],
+      "strands": [
+        "successful-backup-deployment",
+        "written-backup-tier-approval",
+        "standing-monthly-review",
+        "institutional-foothold",
+        "operations-meeting-conversion",
+        "quiet-proof-of-concept",
+        "process-over-personality",
+        "docket-flow-language"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2023-05-26-2350",
+      "date": "2023-05-26",
+      "start": "2023-05-26T23:50:00.000Z",
+      "end": "2023-05-27T01:04:00.000Z",
+      "turn_count": 26,
+      "status": "closed",
+      "focus": "Telehealth counseling helps manage accumulated strain",
+      "summary": "After months of early starts, family logistics, and after-hours training prep, Lucia realizes she's waking up braced for crisis every day and starts telehealth counseling. The practical, behavior-focused sessions target her habit of treating every schedule problem as a personal moral failure. She's learning to separate system flaws from self-blame and to recover faster after bad docket days. The conversation covers a proposed commute transition ritual (one song → write down urgent tasks → leave the rest) and Lucia's recognition that counseling is helping her arrive home less keyed up. She's tracking three markers: faster recovery after disruptions, evenings less contaminated by the day, and less late-night panic prep.",
+      "tags": [
+        "telehealth-counseling-start",
+        "accumulated-strain-recognition",
+        "moral-failure-pattern-interruption",
+        "personal-vs-system-blame",
+        "commute-transition-ritual",
+        "evening-recuperation",
+        "stress-regulation-skills",
+        "self-compassion-development"
+      ],
+      "tone": "mixed",
+      "open_loops": [],
+      "decisions": [
+        "Telehealth counseling has helped Lucia separate court system flaws from personal blame and recover faster after bad dock"
+      ],
+      "strands": [
+        "telehealth-counseling-start",
+        "accumulated-strain-recognition",
+        "moral-failure-pattern-interruption",
+        "personal-vs-system-blame",
+        "commute-transition-ritual",
+        "evening-recuperation",
+        "stress-regulation-skills",
+        "self-compassion-development"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2023-07-15-0840",
+      "date": "2023-07-15",
+      "start": "2023-07-15T08:40:00.000Z",
+      "end": "2023-07-15T09:48:00.000Z",
+      "turn_count": 24,
+      "status": "closed",
+      "focus": "Year of data earns partial restoration of targeted spacing",
+      "summary": "Lucia compiles a full year of dashboard data into a cleaner quarterly report, showing that calendars using the written backup tiers had fewer same-morning crisis calls. She leverages this to get partial targeted spacing restored on the heaviest Spanish days — conditional on quarterly delay metrics being tracked alongside it. The conversation frames this as a 'probationary foothold' rather than a final win: real progress with a leash attached. She plans to write a one-page note defining 'meaningful delay' vs 'normal courtroom variation,' keep the quarterly report format clean, and avoid pushing for more expansion until the conditional spacing proves stable.",
+      "tags": [
+        "annual-data-compilation",
+        "partial-spacing-restoration",
+        "conditional-operational-change",
+        "delay-definition-clarity",
+        "quarterly-report-milestone",
+        "probationary-institutional-foothold",
+        "metric-based-advocacy",
+        "judge-baca-conditional-approval"
+      ],
+      "tone": "mixed",
+      "open_loops": [],
+      "decisions": [
+        "Lucia's job structure now includes backup tiers, monthly operations review, and partially restored targeted spacing tied"
+      ],
+      "strands": [
+        "annual-data-compilation",
+        "partial-spacing-restoration",
+        "conditional-operational-change",
+        "delay-definition-clarity",
+        "quarterly-report-milestone",
+        "probationary-institutional-foothold",
+        "metric-based-advocacy",
+        "judge-baca-conditional-approval"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2023-08-22-1055",
+      "date": "2023-08-22",
+      "start": "2023-08-22T10:55:00.000Z",
+      "end": "2023-08-22T12:09:00.000Z",
+      "turn_count": 26,
+      "status": "closed",
+      "focus": "Roof and bathroom repairs finally finished; home feels settled",
+      "summary": "After months of delays, the roof and bathroom work is finally finished. Lucia and Daniel spend a weekend hauling boxes back upstairs and reclaiming their home from repair staging. The debt from the expanded project remains but is no longer growing — the ceiling on the problem changes how it feels. The conversation explores how chronic home disruption amplified every other stress, and how having a settled home base again (fresh towels, no tarps, no tools) improves her morning mood, patience, and baseline tension. She decides to keep next weekend light (one reset task, one comfort thing) rather than overcorrecting into perfection, and plans a low-stakes coffee visit to prove the place is home again.",
+      "tags": [
+        "home-repair-completion",
+        "bathroom-roof-restoration",
+        "financial-stabilization",
+        "chronic-disruption-relief",
+        "domestic-settling-process",
+        "daniel-shared-effort",
+        "low-stakes-home-ritual",
+        "predictability-return"
+      ],
+      "tone": "positive",
+      "open_loops": [],
+      "decisions": [
+        "Lucia's living situation is updated: their modest Northeast Heights townhouse is finally through the worst of the roof a",
+        "Lucia's financial situation is updated: repair debt remains, but it is no longer growing now that the major townhouse wo"
+      ],
+      "strands": [
+        "home-repair-completion",
+        "bathroom-roof-restoration",
+        "financial-stabilization",
+        "chronic-disruption-relief",
+        "domestic-settling-process",
+        "daniel-shared-effort",
+        "low-stakes-home-ritual",
+        "predictability-return"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2023-10-04-0715",
+      "date": "2023-10-04",
+      "start": "2023-10-04T07:15:00.000Z",
+      "end": "2023-10-04T08:41:00.000Z",
+      "turn_count": 30,
+      "status": "closed",
+      "focus": "Second-round backup cohort + formal training binder launched",
+      "summary": "Lucia expands the backup effort with a second-round cohort mixing selected bilingual clerks and one outside contract interpreter, deliberately broadening the pool to reduce single-point-of-failure risk. She builds a formal training binder with front-loaded emergency procedures (who to call, what order, key scripts) and deeper reference sections (glossary, courtroom language, call trees). The binder is designed as 'backup coverage procedures' — an emergency operations tool with training sections, not a classroom notebook. She plans to test the binder with one clerk and one outside person separately, add an internal-operations vs. outside-backup insert, and fix the most confusing section (internal call procedures) before declaring it version one.",
+      "tags": [
+        "second-round-cohort",
+        "formal-training-binder",
+        "emergency-procedures-documentation",
+        "outside-contract-interpreter",
+        "bilingual-clerk-selection",
+        "call-tree-clarification",
+        "knowledge-transfer-infrastructure",
+        "reducing-single-point-of-failure"
+      ],
+      "tone": "positive",
+      "open_loops": [],
+      "decisions": [
+        "Lucia expanded her Spanish backup effort into a second-round cohort that adds selected bilingual clerks and one external",
+        "Lucia is now maintaining both a second-round backup cohort and a formal training binder as part of Spanish-language cour"
+      ],
+      "strands": [
+        "second-round-cohort",
+        "formal-training-binder",
+        "emergency-procedures-documentation",
+        "outside-contract-interpreter",
+        "bilingual-clerk-selection",
+        "call-tree-clarification",
+        "knowledge-transfer-infrastructure",
+        "reducing-single-point-of-failure"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2023-11-13-1310",
+      "date": "2023-11-13",
+      "start": "2023-11-13T13:10:00.000Z",
+      "end": "2023-11-13T14:31:00.000Z",
+      "turn_count": 28,
+      "status": "closed",
+      "focus": "Birthday painting project sparks Latin pop commute reset",
+      "summary": "Around her birthday, Lucia and Daniel spend a weekend painting a patched hallway with a restored 1990s Latin pop playlist playing. The music becomes an unexpectedly powerful transition tool — she starts reaching for it on the drive home after rough hearing days instead of defaulting to talk radio, noticing it leaves her less wound up and more present with Daniel. The conversation explores how the playlist works as a 'gentler off-ramp' from work mode, and Lucia decides to create two versions (one for ordinary tired, one for truly scorched days). She plans to keep the core anchor songs tied to that birthday weekend and tell Daniel the playlist 'helps me arrive home more like myself.'",
+      "tags": [
+        "latin-pop-playlist",
+        "birthday-painting-weekend",
+        "commute-transition-music",
+        "work-home-boundary-tool",
+        "daniel-domestic-connection",
+        "talk-radio-reduction",
+        "emotional-transition-ritual",
+        "1990s-nostalgia-restoration"
+      ],
+      "tone": "positive",
+      "open_loops": [],
+      "decisions": [
+        "After a birthday weekend painting a patched hallway with Daniel, Lucia began relying more heavily on restored 1990s Lati"
+      ],
+      "strands": [
+        "latin-pop-playlist",
+        "birthday-painting-weekend",
+        "commute-transition-music",
+        "work-home-boundary-tool",
+        "daniel-domestic-connection",
+        "talk-radio-reduction",
+        "emotional-transition-ritual",
+        "1990s-nostalgia-restoration"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2024-01-24-0935",
+      "date": "2024-01-24",
+      "start": "2024-01-24T09:35:00.000Z",
+      "end": "2024-01-24T10:49:00.000Z",
+      "turn_count": 26,
+      "status": "closed",
+      "focus": "Winter illness wave tests system; filled request rate holds near target",
+      "summary": "The winter illness wave at the courthouse — exactly the kind of predictable seasonal stress that used to collapse coverage — is handled without a major failure. The binder, backup tiers, and second-round trainees work together: minor reshuffling instead of full-day crises. The filled-request rate stays near Lucia's long-term target for the first time. She plans to present this to leadership as 'here is why we should keep protecting it' rather than 'look, it works,' narrating the near-misses to prevent complacency. She also plans a short after-action note on the binder and a proposal for clearer trainee progression thresholds, converting this stress test into durable structure.",
+      "tags": [
+        "winter-illness-stress-test",
+        "sustained-target-coverage",
+        "system-holds-under-pressure",
+        "near-miss-narration-strategy",
+        "binder-plus-tiers-validation",
+        "trainee-progression-thresholds",
+        "pattern-based-credibility",
+        "maintenance-continuity-shift"
+      ],
+      "tone": "positive",
+      "open_loops": [],
+      "decisions": [
+        "Lucia's Spanish coverage system held through the winter illness wave, and filled interpreter-request rates stayed near h"
+      ],
+      "strands": [
+        "winter-illness-stress-test",
+        "sustained-target-coverage",
+        "system-holds-under-pressure",
+        "near-miss-narration-strategy",
+        "binder-plus-tiers-validation",
+        "trainee-progression-thresholds",
+        "pattern-based-credibility",
+        "maintenance-continuity-shift"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2024-03-09-0405",
+      "date": "2024-03-09",
+      "start": "2024-03-09T04:05:00.000Z",
+      "end": "2024-03-09T05:19:00.000Z",
+      "turn_count": 26,
+      "status": "closed",
+      "focus": "Couples counseling started through employee assistance",
+      "summary": "After a fraught month where medical rides for Lucia's father consumed many evenings and resentment hardened between them, Lucia and Daniel start couples counseling through an employee assistance referral. The counselor focuses on schedule unpredictability, family-help boundaries, and asking for support before anger sets in. Lucia recognizes she's been treating urgency as if it automatically settles questions of whose time matters. The conversation yields practical moves: a 'pause rule' (never volunteer both of them without a quick check-in), two-script communication ('I need help tonight' vs 'I'll be late but have a backup plan'), and protected evenings. Daniel remains frustrated by unpredictable court hours but feels more included through counseling and the Sunday board.",
+      "tags": [
+        "couples-counseling-start",
+        "employee-assistance-referral",
+        "eldercare-boundary-negotiation",
+        "schedule-unpredictability-conflict",
+        "pause-rule-decision-making",
+        "two-script-communication",
+        "resentment-interruption",
+        "marriage-under-strain"
+      ],
+      "tone": "mixed",
+      "open_loops": [],
+      "decisions": [
+        "Lucia and Daniel began couples counseling through an employee assistance referral after a fraught month of conflict over",
+        "Daniel still struggles with Lucia's unpredictable court hours, but counseling and the Sunday planning board have helped "
+      ],
+      "strands": [
+        "couples-counseling-start",
+        "employee-assistance-referral",
+        "eldercare-boundary-negotiation",
+        "schedule-unpredictability-conflict",
+        "pause-rule-decision-making",
+        "two-script-communication",
+        "resentment-interruption",
+        "marriage-under-strain"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2024-05-30-0820",
+      "date": "2024-05-30",
+      "start": "2024-05-30T08:20:00.000Z",
+      "end": "2024-05-30T09:46:00.000Z",
+      "turn_count": 30,
+      "status": "closed",
+      "focus": "Formal competency sign-off process replaces hallway judgment",
+      "summary": "Lucia formalizes a competency sign-off process for Spanish backup coverage, moving from 'Lucia decides in the hallway' to documented standards. She builds it around observable artifacts: sample sight-translation sheets, observation rubrics for terminology accuracy, pace, register, error handling, and corrections. The pool reaches eight people with tiered readiness (full cross-trained, near-interpreters for defined pieces, limited-calendar only). The conversation covers adding written scheduling rules (when someone can be assigned without calling Lucia), making progression paths visible to trainees, and using a model sign-off packet for future candidates. The shift is from scattered fixes to 'portable and legible' institutional memory.",
+      "tags": [
+        "formal-competency-sign-off",
+        "sight-translation-assessment",
+        "observation-rubric-system",
+        "eight-person-backup-pool",
+        "tiered-readiness-model",
+        "institutional-memory-transfer",
+        "portable-assessment-tools",
+        "gatekeeper-to-steward-transition"
+      ],
+      "tone": "positive",
+      "open_loops": [],
+      "decisions": [
+        "Lucia now oversees a formal competency sign-off process for Spanish coverage backups at Albuquerque Municipal Court, rep"
+      ],
+      "strands": [
+        "formal-competency-sign-off",
+        "sight-translation-assessment",
+        "observation-rubric-system",
+        "eight-person-backup-pool",
+        "tiered-readiness-model",
+        "institutional-memory-transfer",
+        "portable-assessment-tools",
+        "gatekeeper-to-steward-transition"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2024-07-16-0230",
+      "date": "2024-07-16",
+      "start": "2024-07-16T02:30:00.000Z",
+      "end": "2024-07-16T03:44:00.000Z",
+      "turn_count": 26,
+      "status": "closed",
+      "focus": "One-night Santa Fe trip reframes short getaways as restorative",
+      "summary": "During a calmer stretch, Lucia and Daniel take a one-night drive to Santa Fe that feels genuinely restorative rather than a lesser substitute for a longer vacation. The trip works because of low logistics, minimal scheduling, and no pressure for a relationship breakthrough — just dinner, a walk, sleep, coffee, home. Lucia recognizes that short in-state trips can be 'restorative mini-trips' on their own terms, not compromises. She sets three non-negotiables: only one planned thing per trip, one decent meal, and no extending the trip past the point where it stops feeling good. The conversation marks a shift from measuring her life against imaginary ideal conditions to accepting and designing for the scale she can actually sustain.",
+      "tags": [
+        "santa-fe-road-trip",
+        "restorative-mini-trip-framing",
+        "daniel-quality-time",
+        "low-logistics-getaway",
+        "sufficient-not-perfect",
+        "feasibility-as-care",
+        "short-trip-template",
+        "letting-enough-count"
+      ],
+      "tone": "positive",
+      "open_loops": [],
+      "decisions": [
+        "Lucia now treats one-night in-state road trips like Santa Fe or Las Cruces as real restorative breaks rather than lesser"
+      ],
+      "strands": [
+        "santa-fe-road-trip",
+        "restorative-mini-trip-framing",
+        "daniel-quality-time",
+        "low-logistics-getaway",
+        "sufficient-not-perfect",
+        "feasibility-as-care",
+        "short-trip-template",
+        "letting-enough-count"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2024-10-12-0950",
+      "date": "2024-10-12",
+      "start": "2024-10-12T09:50:00.000Z",
+      "end": "2024-10-12T11:11:00.000Z",
+      "turn_count": 28,
+      "status": "closed",
+      "focus": "System adopted as standard court operations after three strong quarters",
+      "summary": "After three strong quarters with Spanish interpretation filled above 97% and same-morning emergencies cut roughly in half, court leadership adopts Lucia's reporting dashboard, written backup tiers, and training binder as standard operations rather than a temporary experiment. Martin co-presents the numbers. The conversation focuses on Lucia's shift from feeling the system depends on her to recognizing 'permanence changes your relationship to the work.' She plans a short follow-up note naming what is now standard, keeps the printed handout visible, and practices trusting the system by defining a list of true exceptions that justify stepping in versus routine cases the structure can handle.",
+      "tags": [
+        "standard-operations-adoption",
+        "three-quarter-success-streak",
+        "ninety-seven-percent-filled-rate",
+        "emergency-calls-halved",
+        "permanent-institutional-status",
+        "martin-co-presentation",
+        "steward-not-rescuer",
+        "system-trust-practice"
+      ],
+      "tone": "positive",
+      "open_loops": [],
+      "decisions": [
+        "After three strong quarters, Lucia's reporting dashboard, backup tiers, and training binder were adopted as standard cou",
+        "Lucia now feels less haunted by the idea that one absence could undo the whole coverage system because the gains were su"
+      ],
+      "strands": [
+        "standard-operations-adoption",
+        "three-quarter-success-streak",
+        "ninety-seven-percent-filled-rate",
+        "emergency-calls-halved",
+        "permanent-institutional-status",
+        "martin-co-presentation",
+        "steward-not-rescuer",
+        "system-trust-practice"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2025-02-18-1045",
+      "date": "2025-02-18",
+      "start": "2025-02-18T10:45:00.000Z",
+      "end": "2025-02-18T12:06:00.000Z",
+      "turn_count": 28,
+      "status": "closed",
+      "focus": "Father moves to senior apartment closer to Lucia and Daniel",
+      "summary": "After another winter wobble and a blunt doctor's conversation about mobility, Lucia's father Rogelio agrees to move from living alone on the West Side into a small senior apartment closer to Lucia and Daniel. The move reduces the driving chaos but maintains the responsibility — shifting from emergency transport to ongoing oversight. Lucia works to separate tasks into urgent/legal/sentimental categories, designs one folder system (physical + digital) with practical tabs (identification, lease, medical, medications, appointments, transportation), and plans a 'who-handles-what' list with her father to preserve his autonomy. She also creates different visit types (practical visits vs. coffee-and-sitting visits) to keep grief from hijacking logistics, and protects two evenings a week from automatic drop-ins.",
+      "tags": [
+        "father-senior-apartment-move",
+        "eldercare-transition",
+        "nearby-oversight-role",
+        "practical-folder-system",
+        "autonomy-preservation",
+        "guilt-and-relief-coexistence",
+        "visit-type-separation",
+        "daniel-household-protection"
+      ],
+      "tone": "mixed",
+      "open_loops": [],
+      "decisions": [
+        "Rogelio moved from living alone on the West Side into a small senior apartment closer to Lucia and Daniel after another",
+        "Lucia still lives with Daniel in their Northeast Heights townhouse, but her father's move means he now lives nearby inst"
+      ],
+      "strands": [
+        "father-senior-apartment-move",
+        "eldercare-transition",
+        "nearby-oversight-role",
+        "practical-folder-system",
+        "autonomy-preservation",
+        "guilt-and-relief-coexistence",
+        "visit-type-separation",
+        "daniel-household-protection"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2025-09-06-0810",
+      "date": "2025-09-06",
+      "start": "2025-09-06T08:10:00.000Z",
+      "end": "2025-09-06T09:36:00.000Z",
+      "turn_count": 30,
+      "status": "closed",
+      "focus": "Succession planning and shared dashboard duties begin",
+      "summary": "Lucia's work system reaches a new stage: routine dashboard prep is delegated to a trusted clerk, an operations meeting discusses succession and refresher training as normal maintenance rather than crisis response, and she updates the training binder to include common exceptions and decision logic for future stewards. She experiences 'half relief and half twitchiness' — pride in the system's durability mixed with identity unease at no longer being indispensable. The conversation reframes her value moving 'from rescuer to steward, teacher, and standard setter.' She plans a one-page responsibilities map, a proposed refresher schedule, a post-cycle check after the next dashboard handoff, and decision thresholds clarifying what others can handle independently vs. what still comes to her.",
+      "tags": [
+        "succession-planning-meeting",
+        "shared-dashboard-delegation",
+        "refresher-training-proposal",
+        "identity-shift-from-rescuer",
+        "exception-logic-documentation",
+        "decision-threshold-definition",
+        "institutional-durability-proof",
+        "steward-role-adoption"
+      ],
+      "tone": "mixed",
+      "open_loops": [],
+      "decisions": [
+        "Lucia's interpreter-coordination role has shifted from maintaining a successful system herself to stewarding a durable s"
+      ],
+      "strands": [
+        "succession-planning-meeting",
+        "shared-dashboard-delegation",
+        "refresher-training-proposal",
+        "identity-shift-from-rescuer",
+        "exception-logic-documentation",
+        "decision-threshold-definition",
+        "institutional-durability-proof",
+        "steward-role-adoption"
+      ],
+      "needs_marking": false
+    }
+  ]
+}

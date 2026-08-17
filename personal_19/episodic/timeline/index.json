@@ -1,0 +1,1213 @@
+{
+  "_schema": 1,
+  "updated_at": "2026-08-17T16:21:36.451Z",
+  "slice_count": 30,
+  "needs_marking": 0,
+  "slices": [
+    {
+      "id": "2022-01-09-1120",
+      "date": "2022-01-09",
+      "start": "2022-01-09T11:20:00.000Z",
+      "end": "2022-01-09T12:46:00.000Z",
+      "turn_count": 30,
+      "status": "closed",
+      "focus": "Initial comprehensive life disclosure: identity, values, career goal of ferry terminal resilience, and the family roots of that commitment.",
+      "summary": "Ayaka introduces herself fully — name, age, ISFJ personality, Regional Planning background, and her five-year goal to make Hakata Island Ferry Terminal resilient during bad-weather stretches. She describes her grandparents on Shikanoshima, her sister in Osaka, mentor Mori Chisato, friend Nozomi, coworker Sakurai Kenta, her terminal work, and the deep connection between reliable service and island household trust.",
+      "tags": [
+        "life-introduction",
+        "personal-disclosure",
+        "isfj-personality",
+        "ferry-terminal-resilience",
+        "family-obligations",
+        "island-community",
+        "fukuoka-living",
+        "operations-coordination"
+      ],
+      "tone": "warm and reflective",
+      "open_loops": [
+        "Ferry Terminal Resilience goal has no formal backing yet",
+        "Sakurai's equipment limits could block process improvements",
+        "Savings growing slowly due to family support costs"
+      ],
+      "decisions": [],
+      "strands": [
+        "life-introduction",
+        "personal-disclosure",
+        "isfj-personality",
+        "ferry-terminal-resilience",
+        "family-obligations",
+        "island-community",
+        "fukuoka-living",
+        "operations-coordination"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2022-02-18-1310",
+      "date": "2022-02-18",
+      "start": "2022-02-18T13:10:00.000Z",
+      "end": "2022-02-18T14:31:00.000Z",
+      "turn_count": 28,
+      "status": "closed",
+      "focus": "After a weather-service breakdown, Ayaka creates a handwritten disruption log to track notice timing, cargo handoff failures, and passenger-facing inconsistencies.",
+      "summary": "Ayaka describes two bad-weather sailings where passengers got inconsistent answers about medicine crates and grocery pallets. She stayed late, wrote a handwritten timeline of missed radio relays, stale whiteboard updates, and cargo-lane confusion. She got manager permission for a one-month tracking experiment with a lean five-field format and fixed status labels for cargo stages.",
+      "tags": [
+        "self-started-project",
+        "disruption-log",
+        "notice-delays",
+        "cargo-handoff",
+        "operational-trust",
+        "bounded-experiment",
+        "essential-supplies",
+        "evidence-building"
+      ],
+      "tone": "determined and cautious",
+      "open_loops": [
+        "One-month disruption log may not yield clear patterns",
+        "Manager's permission is informal, not policy — could be withdrawn",
+        "Risk of permanent unofficial extra workload"
+      ],
+      "decisions": [
+        "After a February service breakdown, Ayaka informally took on a self-started disruption log project to track notice delay"
+      ],
+      "strands": [
+        "self-started-project",
+        "disruption-log",
+        "notice-delays",
+        "cargo-handoff",
+        "operational-trust",
+        "bounded-experiment",
+        "essential-supplies",
+        "evidence-building"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2022-03-07-1240",
+      "date": "2022-03-07",
+      "start": "2022-03-07T12:40:00.000Z",
+      "end": "2022-03-07T14:01:00.000Z",
+      "turn_count": 28,
+      "status": "closed",
+      "focus": "Ayaka adopts mint herbal tea as a late-paperwork ritual after a restorative evening at friend Nozomi's apartment, replacing vending-machine coffee.",
+      "summary": "A tense week leads Ayaka to Nozomi's apartment, where mint tea helps her decompress. She starts keeping a sleeve in her locker for paperwork-heavy nights, finding it steadies her mood without coffee's jittery crash. The tea becomes a situational cue for focused desk work, kept separate from home to preserve the association.",
+      "tags": [
+        "mint-tea-ritual",
+        "nozomi-friendship",
+        "coping-mechanism",
+        "paperwork-fatigue",
+        "vending-machine-replacement",
+        "small-routine",
+        "locker-supplies",
+        "situational-cue"
+      ],
+      "tone": "warm and reflective",
+      "open_loops": [
+        "Ritual may lose effectiveness if overused or migrated home",
+        "Tea quality vs. budget trade-off needs monitoring",
+        "Pattern of replacing vending coffee needs to stay sustainable"
+      ],
+      "decisions": [
+        "Ayaka started keeping mint herbal tea in her locker for late paperwork shifts instead of relying on vending-machine coff"
+      ],
+      "strands": [
+        "mint-tea-ritual",
+        "nozomi-friendship",
+        "coping-mechanism",
+        "paperwork-fatigue",
+        "vending-machine-replacement",
+        "small-routine",
+        "locker-supplies",
+        "situational-cue"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2022-04-11-0925",
+      "date": "2022-04-11",
+      "start": "2022-04-11T09:25:00.000Z",
+      "end": "2022-04-11T10:46:00.000Z",
+      "turn_count": 28,
+      "status": "closed",
+      "focus": "Ayaka's disruption-log evidence convinces the section chief to approve a limited pilot of color-coded weather notices and an essential-cargo staging checklist.",
+      "summary": "Ayaka presents a month of screenshots, clipped printouts, and annotated cargo sheets to the section chief, who approves a limited pilot for weather-affected island sailings. She pairs color-coded notice templates with a small essential-cargo staging checklist, keeping scope narrow to avoid overreach. Sakurai warns that aging equipment limits what any paper process can achieve.",
+      "tags": [
+        "pilot-approval",
+        "color-coded-notices",
+        "essential-cargo-staging",
+        "evidence-based-argument",
+        "section-chief",
+        "scope-discipline",
+        "sakurai-resistance",
+        "operational-proof"
+      ],
+      "tone": "cautiously optimistic",
+      "open_loops": [
+        "Pilot success is not guaranteed — first rough-weather day could collapse it",
+        "Aging weather boards and lane markings constrain the design",
+        "Staff may resist new templates as extra overhead"
+      ],
+      "decisions": [
+        "Ayaka's self-started disruption log led to approval for a limited pilot of color-coded bad-weather notices and an essent"
+      ],
+      "strands": [
+        "pilot-approval",
+        "color-coded-notices",
+        "essential-cargo-staging",
+        "evidence-based-argument",
+        "section-chief",
+        "scope-discipline",
+        "sakurai-resistance",
+        "operational-proof"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2022-05-02-0115",
+      "date": "2022-05-02",
+      "start": "2022-05-02T01:15:00.000Z",
+      "end": "2022-05-02T02:36:00.000Z",
+      "turn_count": 28,
+      "status": "closed",
+      "focus": "After a spring island visit, Ayaka's grandparents become more candid about how delayed cargo affects household decisions, deepening her understanding of the stakes.",
+      "summary": "Ayaka visits Shikanoshima and hears her grandfather's blunt critique about mainland staff underestimating how people ration supplies when worried about the next boat. Calls with both grandparents become more frequent, more honest, and more detailed — grandmother Fumiko now gives field reports on medicine timing, grocery shelf thinness, and anxious neighbors. Ayaka struggles to separate operational insight from emotional weight.",
+      "tags": [
+        "grandparent-relationship",
+        "island-perspective",
+        "household-impact",
+        "candid-communication",
+        "family-trust",
+        "medicine-timing",
+        "grocery-access",
+        "emotional-labor"
+      ],
+      "tone": "deepened and heavy",
+      "open_loops": [
+        "Risk of turning family calls into operational intelligence-gathering",
+        "Harder to maintain emotional boundary when household examples are vivid",
+        "Grandfather's dockside bluntness may increase pressure on Ayaka"
+      ],
+      "decisions": [
+        "After a spring island visit, Ayaka's grandmother Fumiko began calling with specific examples about medicine timing, groc",
+        "After a spring dockside conversation, Ayaka's grandfather Ryoichi became even more direct about what delayed cargo means"
+      ],
+      "strands": [
+        "grandparent-relationship",
+        "island-perspective",
+        "household-impact",
+        "candid-communication",
+        "family-trust",
+        "medicine-timing",
+        "grocery-access",
+        "emotional-labor"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2022-06-16-1050",
+      "date": "2022-06-16",
+      "start": "2022-06-16T10:50:00.000Z",
+      "end": "2022-06-16T12:04:00.000Z",
+      "turn_count": 26,
+      "status": "closed",
+      "focus": "The pilot's success (fewer shouted questions) leads management to request a cross-team briefing and a written terminal memo codifying notice and cargo steps.",
+      "summary": "Ayaka's rough-weather pilot reduces counter confusion enough that management asks her to brief supervisors from both passenger operations and cargo handling. She drafts a one-page chain-of-action memo with a shared trigger (sailing decision changes), a table of owner + expected response time, and a minimal backup rule. She worries about becoming the default owner of every weather disruption.",
+      "tags": [
+        "pilot-expansion",
+        "cross-team-briefing",
+        "terminal-memo",
+        "ownership-clarity",
+        "shared-trigger",
+        "decision-chain",
+        "ad-hoc-handoffs",
+        "institutional-momentum"
+      ],
+      "tone": "proud but cautious",
+      "open_loops": [
+        "Memo may not survive contact with rushed supervisors",
+        "Risk of becoming the default organizer for every disruption",
+        "Shared trigger depends on everyone receiving the same signal simultaneously"
+      ],
+      "decisions": [
+        "Ayaka's limited bad-weather pilot was expanded into a cross-team memo effort, making her the de facto organizer for disr"
+      ],
+      "strands": [
+        "pilot-expansion",
+        "cross-team-briefing",
+        "terminal-memo",
+        "ownership-clarity",
+        "shared-trigger",
+        "decision-chain",
+        "ad-hoc-handoffs",
+        "institutional-momentum"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2022-07-05-0610",
+      "date": "2022-07-05",
+      "start": "2022-07-05T06:10:00.000Z",
+      "end": "2022-07-05T07:24:00.000Z",
+      "turn_count": 26,
+      "status": "closed",
+      "focus": "During a quiet spell, a coworker invites Ayaka to a used bookstore where she discovers an out-of-print local history book, sharpening her reading interest toward Fukuoka harbor history.",
+      "summary": "A maintenance clerk invites Ayaka to browse secondhand bookstores near Tenjin. She finds an out-of-print book on island shipping routes, which becomes a train-ride companion. Her reading interest sharpens from general regional history and infrastructure nonfiction toward local harbor history and island shipping routes specifically. She keeps a light phone list of authors and neighborhoods.",
+      "tags": [
+        "secondhand-bookstore",
+        "island-shipping-history",
+        "reading-habit",
+        "fukuoka-harbor",
+        "place-based-curiosity",
+        "low-stakes-social",
+        "train-ride-ritual",
+        "non-work-interest"
+      ],
+      "tone": "content and curious",
+      "open_loops": [
+        "New reading habit could become another system/project if over-structured",
+        "Book-buying could conflict with tighter budget",
+        "Social connection with the clerk may or may not deepen"
+      ],
+      "decisions": [
+        "Ayaka's book preferences broadened from general regional-history and infrastructure nonfiction to a stronger interest in"
+      ],
+      "strands": [
+        "secondhand-bookstore",
+        "island-shipping-history",
+        "reading-habit",
+        "fukuoka-harbor",
+        "place-based-curiosity",
+        "low-stakes-social",
+        "train-ride-ritual",
+        "non-work-interest"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2022-08-29-1505",
+      "date": "2022-08-29",
+      "start": "2022-08-29T15:05:00.000Z",
+      "end": "2022-08-29T16:26:00.000Z",
+      "turn_count": 28,
+      "status": "closed",
+      "focus": "A punishing late-August typhoon stretch exposes the pilot's fragility: jammed boards, flooded lane markings, and shouted coordination replace the careful process.",
+      "summary": "A sustained typhoon stretch overwhelms the pilot: berth changes multiply, the weather board jams, lane markings flood, and the terminal reverts to verbal improvisation. Ayaka makes logging mistakes for the first time, sleeps badly, and admits to her manager that the current system is too fragile for heavy disruption. She confronts the gap between well-intentioned process and infrastructure-dependent reality.",
+      "tags": [
+        "typhoon-failure",
+        "system-breakdown",
+        "logging-mistakes",
+        "sleep-disruption",
+        "structural-limits",
+        "self-criticism",
+        "infrastructure-failure",
+        "process-fragility"
+      ],
+      "tone": "bruised and chastened",
+      "open_loops": [
+        "Sleep disruption may not self-reset without intervention",
+        "Manager now knows the system failed — could undermine future credibility",
+        "Sakurai's warnings about equipment limits have been vindicated",
+        "Ayaka's reliable-person identity is shaken"
+      ],
+      "decisions": [
+        "After a punishing late-August typhoon stretch, Ayaka's disruption pilot was exposed as too dependent on manual workaroun",
+        "Ayaka ended the week sleeping badly, making mistakes in her own logs, and feeling more frayed and self-critical because "
+      ],
+      "strands": [
+        "typhoon-failure",
+        "system-breakdown",
+        "logging-mistakes",
+        "sleep-disruption",
+        "structural-limits",
+        "self-criticism",
+        "infrastructure-failure",
+        "process-fragility"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2022-09-12-1130",
+      "date": "2022-09-12",
+      "start": "2022-09-12T11:30:00.000Z",
+      "end": "2022-09-12T12:38:00.000Z",
+      "turn_count": 24,
+      "status": "closed",
+      "focus": "After a friend notices her looking drawn on a ferry, Ayaka finally visits a clinic for anti-nausea and sleep advice, shifting from endurance to management.",
+      "summary": "Nozomi sees Ayaka looking ill on a ferry and pushes her to visit a clinic. The doctor confirms the nausea-sleep-stress cycle is real and gives practical advice: time anti-nausea medicine earlier, eat bland food before crossings, and stop trying to force sleep. Ayaka starts being more selective about unnecessary island crossings during typhoon weeks and builds a short pre-sleep routine.",
+      "tags": [
+        "clinic-visit",
+        "motion-nausea",
+        "sleep-guidance",
+        "nozomi-intervention",
+        "storm-season-health",
+        "preventive-care",
+        "crossing-limits",
+        "practical-advice"
+      ],
+      "tone": "relieved and practical",
+      "open_loops": [
+        "New routines may not survive peak typhoon pressure",
+        "Guilt about reducing island visits may resurface",
+        "Nausea management is palliative, not structural — rough crossings remain unavoidable"
+      ],
+      "decisions": [
+        "After a rough late-summer spell, Ayaka began managing her motion-triggered nausea more actively using clinic advice and ",
+        "After getting clinic advice and speaking honestly with Nozomi, Ayaka felt slightly less panicked about her sleep and sta"
+      ],
+      "strands": [
+        "clinic-visit",
+        "motion-nausea",
+        "sleep-guidance",
+        "nozomi-intervention",
+        "storm-season-health",
+        "preventive-care",
+        "crossing-limits",
+        "practical-advice"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2022-10-21-1015",
+      "date": "2022-10-21",
+      "start": "2022-10-21T10:15:00.000Z",
+      "end": "2022-10-21T11:23:00.000Z",
+      "turn_count": 24,
+      "status": "closed",
+      "focus": "After the typhoon failure, Ayaka rebuilds her pilot into a leaner recovery package with laminated backup cards, blunt ownership rules, and a narrower essential-freight definition.",
+      "summary": "Ayaka does not abandon the work after the typhoon collapse. She rebuilds it into a stripped-down recovery package using incident photos, phone timestamps, and a marked-up terminal map. Key elements: laminated backup notice cards for common disruption messages, blunt written ownership rules for passenger and cargo communication, and a narrower essential-freight definition tied to concrete household impact (medicine timing, basic groceries). She faces mixed reactions but refuses to soften the core argument.",
+      "tags": [
+        "recovery-package",
+        "laminated-backup-cards",
+        "message-ownership",
+        "narrowed-essentials",
+        "evidence-rebuild",
+        "incident-photos",
+        "terminal-map",
+        "operational-honesty"
+      ],
+      "tone": "determined and clarified",
+      "open_loops": [
+        "Narrower essential-freight definition may leave legitimate needs unprotected",
+        "Laminated cards depend on caches being maintained and stocked",
+        "Ownership rules may be resisted by staff who prefer flexible roles"
+      ],
+      "decisions": [
+        "After the late-August typhoon failure, Ayaka reshaped the disruption pilot into a leaner recovery package centered on ba"
+      ],
+      "strands": [
+        "recovery-package",
+        "laminated-backup-cards",
+        "message-ownership",
+        "narrowed-essentials",
+        "evidence-rebuild",
+        "incident-photos",
+        "terminal-map",
+        "operational-honesty"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2022-11-23-0840",
+      "date": "2022-11-23",
+      "start": "2022-11-23T08:40:00.000Z",
+      "end": "2022-11-23T09:48:00.000Z",
+      "turn_count": 24,
+      "status": "closed",
+      "focus": "A quiet holiday trip to Osaka yields a handful of early-2000s acoustic songs that become Ayaka's end-of-shift spreadsheet cleanup ritual.",
+      "summary": "Ayaka visits her sister Eri in Osaka after the storm stretch eases. While sorting winter clothes, Eri's old playlist introduces four or five early-2000s acoustic songs that Ayaka becomes attached to. She starts playing them during end-of-shift spreadsheet cleanup, finding they soften the transition from work mode. She keeps them mostly confined to that task to preserve their calming association.",
+      "tags": [
+        "osaka-visit",
+        "sister-playlist",
+        "acoustic-music",
+        "end-of-shift-ritual",
+        "spreadsheet-cleanup",
+        "domestic-routine",
+        "restorative-travel",
+        "closing-ritual"
+      ],
+      "tone": "gentle and restorative",
+      "open_loops": [
+        "Playlist effect may fade if overused outside the cleanup context",
+        "One-off visit may not sustain the restored connection with sister"
+      ],
+      "decisions": [
+        "After a quiet holiday visit to Osaka with her sister Eri, Ayaka added several mellow early 2000s acoustic singer-songwri"
+      ],
+      "strands": [
+        "osaka-visit",
+        "sister-playlist",
+        "acoustic-music",
+        "end-of-shift-ritual",
+        "spreadsheet-cleanup",
+        "domestic-routine",
+        "restorative-travel",
+        "closing-ritual"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2023-01-14-0035",
+      "date": "2023-01-14",
+      "start": "2023-01-14T00:35:00.000Z",
+      "end": "2023-01-14T02:01:00.000Z",
+      "turn_count": 30,
+      "status": "closed",
+      "focus": "Ayaka gets formal approval for a winter resilience test with posted notice targets, emergency cargo tags, and a shared recovery checklist for same-day weather changes.",
+      "summary": "Management approves a winter resilience test with a posted 15-minute notice-update target, designated emergency cargo tags, and a shared recovery checklist for same-day weather service changes. The checklist uses both whiteboard and spreadsheet so one side can fail without losing the system. Supervisors agree to use it whenever service conditions shift within the same day — the gap that previously caused the most confusion. Ayaka defines three measurable success criteria.",
+      "tags": [
+        "winter-resilience-test",
+        "formal-approval",
+        "posted-response-target",
+        "emergency-cargo-tags",
+        "shared-checklist",
+        "whiteboard-spreadsheet",
+        "same-day-change",
+        "institutional-support"
+      ],
+      "tone": "validated and nervous",
+      "open_loops": [
+        "First rough day could still collapse the test",
+        "Staff may quietly revert to old habits even with posted standards",
+        "Three success criteria may not capture full operational picture"
+      ],
+      "decisions": [
+        "Ayaka got formal approval to run a winter resilience test at the Fukuoka City Ferry Terminal Operations Center with post"
+      ],
+      "strands": [
+        "winter-resilience-test",
+        "formal-approval",
+        "posted-response-target",
+        "emergency-cargo-tags",
+        "shared-checklist",
+        "whiteboard-spreadsheet",
+        "same-day-change",
+        "institutional-support"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2023-02-22-1205",
+      "date": "2023-02-22",
+      "start": "2023-02-22T12:05:00.000Z",
+      "end": "2023-02-22T13:26:00.000Z",
+      "turn_count": 28,
+      "status": "closed",
+      "focus": "An unplanned washing-machine replacement and winter supplies for grandparents expose how thin Ayaka's savings cushion has become, forcing an honest budget reset.",
+      "summary": "Multiple practical expenses (washing machine replacement, winter supplies for grandparents) hit simultaneously, revealing Ayaka's savings buffer is much thinner than she believed. She designs a budget with a monthly cap on convenience spending, a separate home-maintenance reserve, and family support treated as a protected flexible-range category. She commits to a three-month recovery pace rather than aggressive austerity.",
+      "tags": [
+        "washing-machine-failure",
+        "budget-crunch",
+        "savings-exposure",
+        "grandparent-support",
+        "convenience-spending",
+        "home-reserve",
+        "financial-honesty",
+        "three-month-plan"
+      ],
+      "tone": "chastened but practical",
+      "open_loops": [
+        "Three-month recovery plan could be derailed by another large unexpected expense",
+        "Family support as a flexible-range category may still squeeze other spending",
+        "One broken appliance felt catastrophic — next one may too"
+      ],
+      "decisions": [
+        "Ayaka's savings are now noticeably tighter after replacing a failing washing machine in her company apartment and sendin"
+      ],
+      "strands": [
+        "washing-machine-failure",
+        "budget-crunch",
+        "savings-exposure",
+        "grandparent-support",
+        "convenience-spending",
+        "home-reserve",
+        "financial-honesty",
+        "three-month-plan"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2023-04-06-0955",
+      "date": "2023-04-06",
+      "start": "2023-04-06T09:55:00.000Z",
+      "end": "2023-04-06T11:09:00.000Z",
+      "turn_count": 26,
+      "status": "closed",
+      "focus": "A spring squall becomes the first real test of the revised process — backup cards, cargo tags, and same-day schedule recovery all hold up under real pressure.",
+      "summary": "A spring squall tests the revised process under real (moderate) pressure. Backup notice cards are in place, emergency cargo tags are ready, and a same-day schedule is posted much faster than the old baseline. Clinic-bound boxes get onto the first feasible sailing — the moment Ayaka realizes the system protects real needs, not just terminal neatness. She compiles a one-page summary with timestamps, a cargo example, and remaining limits.",
+      "tags": [
+        "spring-squall-test",
+        "operational-success",
+        "backup-cards-used",
+        "cargo-tags-functional",
+        "same-day-recovery",
+        "clinic-cargo",
+        "decision-friction",
+        "evidence-milestone"
+      ],
+      "tone": "vindicated but measured",
+      "open_loops": [
+        "Success is under moderate conditions — heavier weather may still expose gaps",
+        "One-page summary could be dismissed by management as anecdotal",
+        "Ayaka may over-invest defending this result instead of iterating"
+      ],
+      "decisions": [
+        "Ayaka's revised weather-disruption process produced its first credible success, showing faster recovery of same-day sche"
+      ],
+      "strands": [
+        "spring-squall-test",
+        "operational-success",
+        "backup-cards-used",
+        "cargo-tags-functional",
+        "same-day-recovery",
+        "clinic-cargo",
+        "decision-friction",
+        "evidence-milestone"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2023-05-18-0520",
+      "date": "2023-05-18",
+      "start": "2023-05-18T05:20:00.000Z",
+      "end": "2023-05-18T06:34:00.000Z",
+      "turn_count": 26,
+      "status": "closed",
+      "focus": "A coworker introduces Ayaka to a tiny teishoku shop near the wholesale market, which becomes a dependable post-shift decompression ritual for ugly morning shifts.",
+      "summary": "After a brutal morning shift, a coworker drags Ayaka to a tiny teishoku shop near the wholesale market. The saba set meal (crisp skin, caring miso soup) becomes her default after terrible mornings. She goes solo, sitting for twenty minutes without her phone, and finds it reliably shifts her from coiled tension to functionality. She budgets it as targeted recovery spending a couple of times per month.",
+      "tags": [
+        "teishoku-shop",
+        "saba-set-meal",
+        "post-shift-refuge",
+        "market-area",
+        "recovery-routine",
+        "mid-option",
+        "no-phone-decompression",
+        "ordinary-comfort"
+      ],
+      "tone": "grounded and grateful",
+      "open_loops": [
+        "Regular visits could strain the tighter post-move budget",
+        "Dependence on one specific place could become a vulnerability if it closes or changes",
+        "The 'permission slip' framing may not hold during peak storm season"
+      ],
+      "decisions": [
+        "Ayaka's food preferences now include being attached to a small market-area teishoku shop after hard shifts, alongside he"
+      ],
+      "strands": [
+        "teishoku-shop",
+        "saba-set-meal",
+        "post-shift-refuge",
+        "market-area",
+        "recovery-routine",
+        "mid-option",
+        "no-phone-decompression",
+        "ordinary-comfort"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2023-07-01-1030",
+      "date": "2023-07-01",
+      "start": "2023-07-01T10:30:00.000Z",
+      "end": "2023-07-01T11:38:00.000Z",
+      "turn_count": 24,
+      "status": "closed",
+      "focus": "Ayaka wins approval for pre-typhoon staff training with a disruption binder, lane diagrams, and a rule assigning one person per shift to own the notice update clock.",
+      "summary": "Using spring recovery numbers and passenger complaint tallies, Ayaka gets approval to expand weather-resilience work into pre-typhoon training. The package includes a quick-reference disruption binder, simple lane diagrams, and a rule that one person on each shift owns the official notice update clock. She plans a shared scenario exercise for counter and yard staff together to surface hidden assumptions about handoffs.",
+      "tags": [
+        "pre-typhoon-training",
+        "disruption-binder",
+        "lane-diagrams",
+        "shift-ownership-rule",
+        "notice-clock",
+        "training-approval",
+        "counter-yard-coordination",
+        "spring-evidence"
+      ],
+      "tone": "proud and exposed",
+      "open_loops": [
+        "Training rollout may face resistance from staff who see it as extra paperwork",
+        "Yard staff may distrust diagrams that look too polished",
+        "Shift-ownership rule may fade without consistent enforcement"
+      ],
+      "decisions": [
+        "Ayaka won approval to expand her weather-resilience work into pre-typhoon staff training with shift ownership, lane diag"
+      ],
+      "strands": [
+        "pre-typhoon-training",
+        "disruption-binder",
+        "lane-diagrams",
+        "shift-ownership-rule",
+        "notice-clock",
+        "training-approval",
+        "counter-yard-coordination",
+        "spring-evidence"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2023-08-11-1325",
+      "date": "2023-08-11",
+      "start": "2023-08-11T13:25:00.000Z",
+      "end": "2023-08-11T14:46:00.000Z",
+      "turn_count": 28,
+      "status": "closed",
+      "focus": "Ayaka finally tells her sister Eri why she stays in terminal work — not from habit or guilt, but because service failures affect real households — shifting their dynamic.",
+      "summary": "After avoiding the conversation all summer, Ayaka tells her sister Eri directly that the work feels personal — she thinks about households waiting on groceries and medicine, not just job stress. Eri shifts from pushing for a mainland office job to asking how Ayaka is actually holding up. Ayaka gives Eri concrete ways to help: check on meals, sleep, whether she needs to vent. The relationship becomes less prickly and more supportive.",
+      "tags": [
+        "sister-conversation",
+        "career-clarification",
+        "moral-weight",
+        "family-boundaries",
+        "support-redirect",
+        "household-impact",
+        "emotional-honesty",
+        "relational-shift"
+      ],
+      "tone": "relieved and clarified",
+      "open_loops": [
+        "Eri may revert to old patterns during Ayaka's next rough stretch",
+        "Ayaka needs to sustain the honesty without making every call heavy",
+        "A brief thank-you message is still pending to lock in the shift"
+      ],
+      "decisions": [
+        "After a frank summer conversation, Eri better understands why Ayaka stays in terminal operations and has become more sup"
+      ],
+      "strands": [
+        "sister-conversation",
+        "career-clarification",
+        "moral-weight",
+        "family-boundaries",
+        "support-redirect",
+        "household-impact",
+        "emotional-honesty",
+        "relational-shift"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2023-09-24-1410",
+      "date": "2023-09-24",
+      "start": "2023-09-24T14:10:00.000Z",
+      "end": "2023-09-24T15:24:00.000Z",
+      "turn_count": 26,
+      "status": "closed",
+      "focus": "The typhoon season produces full-season evidence that trained shifts, notice clocks, and staging rules reduced confusion and improved recovery versus the baseline year.",
+      "summary": "Ayaka completes her first full typhoon season with credible evidence of improvement: posted information stabilized sooner, emergency freight had fewer misses, and the disruption binder was actually used by both newer and experienced staff. She remains distrustful of good results but acknowledges the season validated the trained-shift approach, notice ownership, and staging rules. She plans a sober after-action summary with three headings: what worked, where strain appeared, what small upgrades would help.",
+      "tags": [
+        "typhoon-season-success",
+        "system-validation",
+        "binder-used-under-pressure",
+        "notice-clocks-functional",
+        "freight-misses-reduced",
+        "full-season-evidence",
+        "baseline-comparison",
+        "operational-trust"
+      ],
+      "tone": "relieved but wary",
+      "open_loops": [
+        "Body still braced for failure — emotional trust in the system lags behind data",
+        "Full-season proof may still be dismissed by budget-focused management",
+        "Comparison to baseline year needs clear methodology to be credible"
+      ],
+      "decisions": [
+        "After the 2026 typhoon season, Ayaka finally had one full season of evidence that trained shifts, notice clocks, and car"
+      ],
+      "strands": [
+        "typhoon-season-success",
+        "system-validation",
+        "binder-used-under-pressure",
+        "notice-clocks-functional",
+        "freight-misses-reduced",
+        "full-season-evidence",
+        "baseline-comparison",
+        "operational-trust"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2023-10-29-0245",
+      "date": "2023-10-29",
+      "start": "2023-10-29T02:45:00.000Z",
+      "end": "2023-10-29T04:11:00.000Z",
+      "turn_count": 30,
+      "status": "closed",
+      "focus": "Company maintenance triggers an apartment move to a smaller, quieter unit near the terminal, forcing Ayaka to confront how much work paperwork had colonized her home.",
+      "summary": "Company building maintenance forces Ayaka to move. She chooses a smaller, quieter unit near Hakata terminal over a larger one farther away, prioritizing commute reliability and sleep quality. Sorting years of accumulated terminal paperwork (old timetables, handwritten notes, operational folders) becomes an unexpectedly emotional process of deciding what deserves space in her home. She adopts a one-tray rule for incoming papers and sets a weekend cycling deadline.",
+      "tags": [
+        "apartment-move",
+        "quieter-block",
+        "company-housing",
+        "decluttering",
+        "paper-boundary",
+        "work-life-separation",
+        "terminal-proximity",
+        "one-tray-rule"
+      ],
+      "tone": "tired but clear",
+      "open_loops": [
+        "Moving costs and setup expenses tighten an already-lean budget",
+        "The one-tray rule may collapse during storm season when paperwork surges",
+        "Books still unpacked — the apartment still feels provisional"
+      ],
+      "decisions": [
+        "Ayaka moved from her previous company-leased one-bedroom into a slightly smaller but quieter company-leased apartment st",
+        "The apartment move and setup costs kept her budget tight, though she feels the quieter unit is worth the expense."
+      ],
+      "strands": [
+        "apartment-move",
+        "quieter-block",
+        "company-housing",
+        "decluttering",
+        "paper-boundary",
+        "work-life-separation",
+        "terminal-proximity",
+        "one-tray-rule"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2024-01-17-0850",
+      "date": "2024-01-17",
+      "start": "2024-01-17T08:50:00.000Z",
+      "end": "2024-01-17T10:04:00.000Z",
+      "turn_count": 26,
+      "status": "closed",
+      "focus": "Ayaka leads the drafting of a formal bad-weather operations manual with Mori Chisato, aiming to replace personal memory with teachable, recoverable procedure.",
+      "summary": "Building on a full season of proof, Ayaka leads the draft of a formal bad-weather operations manual with guidance from her former manager Mori Chisato. Key standards: 15-minute notice-update target, staged emergency cargo steps in order, and 24-hour recovery expectation after weather interruptions when sailings are feasible. Ayaka worries about the manual being too rigid or too optimistic but prioritizes explicit ownership lines and observable conditions over polished prose. She plans a front-page origin note so the manual reads as practice-based, not theoretical.",
+      "tags": [
+        "manual-drafting",
+        "bad-weather-operations",
+        "mori-chisato-mentorship",
+        "fifteen-minute-target",
+        "twenty-four-hour-recovery",
+        "explicit-ownership",
+        "institutional-knowledge",
+        "shift-independence"
+      ],
+      "tone": "responsible and exposed",
+      "open_loops": [
+        "Manual could be ignored by senior staff who prefer improvisation",
+        "24-hour recovery target may be attacked as unrealistic",
+        "Becoming the manual's author may make Ayaka the sole bottleneck for updates"
+      ],
+      "decisions": [
+        "Ayaka is now leading the drafting of a formal bad-weather operations manual for the Fukuoka City Ferry Terminal Operatio"
+      ],
+      "strands": [
+        "manual-drafting",
+        "bad-weather-operations",
+        "mori-chisato-mentorship",
+        "fifteen-minute-target",
+        "twenty-four-hour-recovery",
+        "explicit-ownership",
+        "institutional-knowledge",
+        "shift-independence"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2024-02-26-1115",
+      "date": "2024-02-26",
+      "start": "2024-02-26T11:15:00.000Z",
+      "end": "2024-02-26T12:36:00.000Z",
+      "turn_count": 28,
+      "status": "closed",
+      "focus": "A neighbor invites Ayaka to a weekend watercolor class where clumsily sketching ferries and cranes becomes a surprisingly calming non-work practice.",
+      "summary": "Neighbor Kuroda Miki invites Ayaka to a small weekend watercolor class. Despite being clumsy at it, Ayaka finds the class strangely calming — she sketches familiar harbor infrastructure (ferries, cranes, waiting benches) from memory, transforming them from problems-to-solve into shapes and colors. The class and a light hallway friendship with Miki become ordinary life support: low-pressure, inexpensive, and locally rooted.",
+      "tags": [
+        "watercolor-class",
+        "neighbor-miki",
+        "low-stakes-hobby",
+        "ferry-sketching",
+        "ordinary-connection",
+        "calm-attention",
+        "non-work-identity",
+        "gentle-creativity"
+      ],
+      "tone": "light and grounded",
+      "open_loops": [
+        "Hobby could become another project if over-structured",
+        "Budget constraint means supplies must stay cheap",
+        "Friendship with Miki could become an obligation if not kept light"
+      ],
+      "decisions": [
+        "Ayaka became lightly connected to her new building through a weekend watercolor class invitation from neighbor Kuroda Mi"
+      ],
+      "strands": [
+        "watercolor-class",
+        "neighbor-miki",
+        "low-stakes-hobby",
+        "ferry-sketching",
+        "ordinary-connection",
+        "calm-attention",
+        "non-work-identity",
+        "gentle-creativity"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2024-04-14-0735",
+      "date": "2024-04-14",
+      "start": "2024-04-14T07:35:00.000Z",
+      "end": "2024-04-14T08:56:00.000Z",
+      "turn_count": 28,
+      "status": "closed",
+      "focus": "An aging display unit fails during a schedule shift, prompting Ayaka to add explicit backup posting locations and manual signage caches to the operations manual.",
+      "summary": "A brief display failure during a live schedule change exposes the notice system's vulnerability at the exact moment it is most needed. Ayaka revises the manual to include explicit backup posting locations (where staff stand, what they grab, what goes on the wall first) and pre-positioned manual signage caches. Sakurai argues on budget grounds but eventually concedes the fallback plan is more realistic than hoping hardware lasts forever. Ayaka plans a small drill to test time-to-first-visible-notice.",
+      "tags": [
+        "display-failure",
+        "backup-posting-locations",
+        "manual-signage-caches",
+        "hardware-limits",
+        "sakurai-disagreement",
+        "transition-vulnerability",
+        "low-tech-contingency",
+        "procedure-strengthening"
+      ],
+      "tone": "focused and unsentimental",
+      "open_loops": [
+        "Backup caches must be maintained and restocked — risk of decay",
+        "Sakurai's concession is not full buy-in — may resist budget requests",
+        "Small drill could be dismissed as performative by skeptical staff"
+      ],
+      "decisions": [
+        "Ayaka's bad-weather operations manual draft now explicitly includes backup posting locations and manual signage caches a"
+      ],
+      "strands": [
+        "display-failure",
+        "backup-posting-locations",
+        "manual-signage-caches",
+        "hardware-limits",
+        "sakurai-disagreement",
+        "transition-vulnerability",
+        "low-tech-contingency",
+        "procedure-strengthening"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2024-06-03-0055",
+      "date": "2024-06-03",
+      "start": "2024-06-03T00:55:00.000Z",
+      "end": "2024-06-03T02:09:00.000Z",
+      "turn_count": 26,
+      "status": "closed",
+      "focus": "Ayaka uses leave for a proper spring checkup and shifts from reactive symptom management to proactive load management before storm season intensifies.",
+      "summary": "Instead of waiting for another bad stretch, Ayaka uses leave for a spring checkup. The results are normal, but the experience shifts her approach from symptom control (ginger candy, anti-nausea meds) to load management: earlier meals before overnight monitoring, protected sleep windows, and fewer unnecessary island crossings. She creates a three-line notes card (meal time, sleep cutoff, crossing check) and distinguishes purposeful crossings from reflexive ones. Her baseline dread going into summer is noticeably lower than the previous year.",
+      "tags": [
+        "spring-checkup",
+        "proactive-health",
+        "fatigue-management",
+        "purposeful-crossings",
+        "sleep-protection",
+        "load-management",
+        "storm-preparation",
+        "three-line-routine"
+      ],
+      "tone": "prepared and steadier",
+      "open_loops": [
+        "Load management may slip during the most intense storm weeks",
+        "Purposeful-crossings rule may feel selfish when family needs are acute",
+        "Sleep protection may conflict with shift realities"
+      ],
+      "decisions": [
+        "After the checkup, Ayaka shifted to managing storm-season fatigue proactively with better routines and fewer unnecessary",
+        "Ayaka still carries storm-season stress, but she is entering summer with better routines, a little more confidence, and "
+      ],
+      "strands": [
+        "spring-checkup",
+        "proactive-health",
+        "fatigue-management",
+        "purposeful-crossings",
+        "sleep-protection",
+        "load-management",
+        "storm-preparation",
+        "three-line-routine"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2024-08-31-1520",
+      "date": "2024-08-31",
+      "start": "2024-08-31T15:20:00.000Z",
+      "end": "2024-08-31T16:41:00.000Z",
+      "turn_count": 28,
+      "status": "closed",
+      "focus": "Two back-to-back storm weeks produce the strongest evidence yet: the system holds, with faster notices, tracked emergency cargo, and quicker schedule recovery.",
+      "summary": "Two consecutive storm weeks test the system under sustained pressure. The posted schedule is restored within a day both times — a marked improvement over the baseline. Ayaka presents side-by-side charts to management comparing three measures: notice update speed, emergency pallet tracking, and passenger confusion complaints. The shift-owner clock is identified as the single most confusion-reducing element. Management's tone shifts from skepticism to note-taking. Ayaka prepares a tight formal request to adopt the core standards.",
+      "tags": [
+        "back-to-back-typhoons",
+        "system-held",
+        "side-by-side-results",
+        "shift-owner-validation",
+        "signage-cache-use",
+        "evidence-accumulation",
+        "complaint-reduction",
+        "operational-trust"
+      ],
+      "tone": "tired but validated",
+      "open_loops": [
+        "Formal adoption request may still face budget or process hurdles",
+        "Shift-owner role depends on consistent staffing — gaps could unravel it",
+        "Momentum could cool if management delays decision"
+      ],
+      "decisions": [
+        "Ayaka is still a mid-career operations coordinator, and after the stronger 2027 typhoon season she now has solid compara"
+      ],
+      "strands": [
+        "back-to-back-typhoons",
+        "system-held",
+        "side-by-side-results",
+        "shift-owner-validation",
+        "signage-cache-use",
+        "evidence-accumulation",
+        "complaint-reduction",
+        "operational-trust"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2024-10-08-0910",
+      "date": "2024-10-08",
+      "start": "2024-10-08T09:10:00.000Z",
+      "end": "2024-10-08T10:31:00.000Z",
+      "turn_count": 28,
+      "status": "closed",
+      "focus": "A casual Hawks game outing with coworkers becomes a recurring post-season ritual, giving Ayaka low-stakes social recovery and a simple mental side street.",
+      "summary": "Ayaka watches a Hawks game with coworkers at a tiny bar near the terminal and finds herself genuinely enjoying it — the rhythm of the game, the relaxed company, the absence of logistics talk. She starts checking standings between shifts, learning a few player names, and treating game outings as a welcome default for free weekends. She keeps it budget-sensible (one drink, shared snacks) and recognizes it as a form of sideways closeness — connection without emotional intensity.",
+      "tags": [
+        "hawks-baseball",
+        "coworker-outings",
+        "low-stakes-social",
+        "standing-check",
+        "sideways-closeness",
+        "post-season-lightness",
+        "small-ritual",
+        "budgeted-enjoyment"
+      ],
+      "tone": "light and content",
+      "open_loops": [
+        "Interest could fade or become a budget leak if not kept modest",
+        "Coworker group dynamics may shift",
+        "May need to protect the ritual from becoming another obligation"
+      ],
+      "decisions": [
+        "Ayaka now follows the Fukuoka SoftBank Hawks more actively than before and treats occasional games with terminal coworke"
+      ],
+      "strands": [
+        "hawks-baseball",
+        "coworker-outings",
+        "low-stakes-social",
+        "standing-check",
+        "sideways-closeness",
+        "post-season-lightness",
+        "small-ritual",
+        "budgeted-enjoyment"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2025-01-22-0330",
+      "date": "2025-01-22",
+      "start": "2025-01-22T03:30:00.000Z",
+      "end": "2025-01-22T04:44:00.000Z",
+      "turn_count": 26,
+      "status": "closed",
+      "focus": "Leadership adopts Ayaka's bad-weather manual as standard guidance and gives her a formal resilience coordination remit inside her operations role.",
+      "summary": "Leadership reviews two storm seasons of data and adopts Ayaka's bad-weather manual as the standard guidance for island disruption days. She receives a formal resilience coordination remit inside her operations role — responsible for keeping the manual current, notice standards on disruption days, and emergency cargo staging procedures. She navigates the new accountability by designing a simple version log (monthly minor revisions, clear escalation thresholds) and an issue intake form (immediate hazard / process gap / training confusion). She sends Mori a quiet 'you were annoyingly correct' message.",
+      "tags": [
+        "manual-adoption",
+        "resilience-remit",
+        "formal-recognition",
+        "evidence-based-approval",
+        "institutional-ownership",
+        "boundary-early",
+        "version-log",
+        "milestone-landing"
+      ],
+      "tone": "quietly triumphant",
+      "open_loops": [
+        "Formal remit could make Ayaka a single point of failure for all storm issues",
+        "Issue intake form needs adoption by others to prevent corridor ambushes",
+        "Version log may become bureaucratic if not kept lean"
+      ],
+      "decisions": [
+        "Ayaka is now a mid-career operations coordinator with a formal resilience coordination remit inside her existing termina"
+      ],
+      "strands": [
+        "manual-adoption",
+        "resilience-remit",
+        "formal-recognition",
+        "evidence-based-approval",
+        "institutional-ownership",
+        "boundary-early",
+        "version-log",
+        "milestone-landing"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2025-03-09-1005",
+      "date": "2025-03-09",
+      "start": "2025-03-09T10:05:00.000Z",
+      "end": "2025-03-09T11:31:00.000Z",
+      "turn_count": 30,
+      "status": "closed",
+      "focus": "A Mori-recommended Japanese drama about municipal crisis response crystallizes Ayaka's film preference toward low-key procedural storytelling over fantasy or melodrama.",
+      "summary": "During a calmer stretch, Mori recommends a Japanese drama about municipal crisis response. Ayaka finds herself drawn to its restraint, its attention to small practical details, and its framing of competent procedure as meaningful rather than dull. She recognizes her preference has sharpened from 'generally liking grounded dramas' to specifically seeking low-key workplace and civic-response stories. She creates a short three-title watchlist and plans to keep one evening every week or two as a deliberate slow-watch ritual.",
+      "tags": [
+        "mori-recommendation",
+        "municipal-drama",
+        "crisis-response-film",
+        "preference-sharpening",
+        "competent-procedure",
+        "grounded-storytelling",
+        "texture-over-plot",
+        "slow-watch-ritual"
+      ],
+      "tone": "curious and settled",
+      "open_loops": [
+        "Sharpened preference may not hold if stress levels spike again",
+        "Watchlist could become homework if over-structured",
+        "One friend (Mori) may tire of being the sole recommendation source"
+      ],
+      "decisions": [
+        "Ayaka's movie preference sharpened from generally liking grounded Japanese dramas to being especially drawn to low-key c"
+      ],
+      "strands": [
+        "mori-recommendation",
+        "municipal-drama",
+        "crisis-response-film",
+        "preference-sharpening",
+        "competent-procedure",
+        "grounded-storytelling",
+        "texture-over-plot",
+        "slow-watch-ritual"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2025-05-27-0700",
+      "date": "2025-05-27",
+      "start": "2025-05-27T07:00:00.000Z",
+      "end": "2025-05-27T08:26:00.000Z",
+      "turn_count": 30,
+      "status": "closed",
+      "focus": "The resilience remit's modest pay raise and materials budget let Ayaka upgrade ad-hoc paper tools to durable laminated packs and tagged cargo forms.",
+      "summary": "Ayaka's new remit brings a modest pay raise (easing monthly budget pressure from the apartment move) and a small training and materials budget. She immediately spends part of it on laminated notice packs that survive rain and tagged cargo forms that signal official priority rather than temporary improvisation. She runs a one-shift trial to test whether staff reach for the new tools automatically or revert to scrap-paper habits. She plans to reserve the remaining budget for the hidden weakness the trial reveals.",
+      "tags": [
+        "pay-raise",
+        "materials-budget",
+        "laminated-notice-packs",
+        "tagged-cargo-forms",
+        "tool-upgrade",
+        "budget-relief",
+        "institutional-support",
+        "small-trial"
+      ],
+      "tone": "practical and relieved",
+      "open_loops": [
+        "Laminated packs need replenishment — supply chain risk",
+        "Tagged forms may still be ignored during peak chaos",
+        "Small trial may not surface all adoption barriers"
+      ],
+      "decisions": [
+        "Ayaka now earns a slightly higher stable salary, and the raise tied to her resilience coordination remit has eased some ",
+        "Her formal resilience remit now comes with a modest training and materials budget she can use to improve the actual tool"
+      ],
+      "strands": [
+        "pay-raise",
+        "materials-budget",
+        "laminated-notice-packs",
+        "tagged-cargo-forms",
+        "tool-upgrade",
+        "budget-relief",
+        "institutional-support",
+        "small-trial"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2025-07-16-0425",
+      "date": "2025-07-16",
+      "start": "2025-07-16T04:25:00.000Z",
+      "end": "2025-07-16T05:33:00.000Z",
+      "turn_count": 24,
+      "status": "closed",
+      "focus": "Spending a rainy afternoon with Miki's sleepy senior rescue cat clarifies that Ayaka's future pet preference is for calm older companionship, not kitten energy.",
+      "summary": "A rainy holiday weekend leads Ayaka to spend an hour with Miki's senior rescue cat. The cat's undemanding presence (blinking, shifting to a warmer cushion, leaning against her leg) crystallizes her pet preference: she wants a calm older cat, not a kitten, but her current shift schedule cannot support one reliably. She decides to wait until her routine stabilizes, using the preference as a future goal rather than an immediate plan.",
+      "tags": [
+        "senior-cat",
+        "mikis-cat",
+        "pet-preference",
+        "calm-companionship",
+        "schedule-stability",
+        "future-planning",
+        "rainy-afternoon",
+        "self-knowledge"
+      ],
+      "tone": "gentle and clarified",
+      "open_loops": [
+        "Preference may romanticize senior cats if only sampled from one very sweet cat",
+        "Schedule stability is not entirely within Ayaka's control",
+        "Future adoption timing remains vague"
+      ],
+      "decisions": [
+        "After spending an hour with Kuroda Miki's sleepy senior rescue cat during a rainy holiday weekend, Ayaka felt more certa"
+      ],
+      "strands": [
+        "senior-cat",
+        "mikis-cat",
+        "pet-preference",
+        "calm-companionship",
+        "schedule-stability",
+        "future-planning",
+        "rainy-afternoon",
+        "self-knowledge"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2025-10-03-1245",
+      "date": "2025-10-03",
+      "start": "2025-10-03T12:45:00.000Z",
+      "end": "2025-10-03T14:06:00.000Z",
+      "turn_count": 28,
+      "status": "closed",
+      "focus": "The 2028 season produces sustained gains across all measures, and Ayaka's grandmother's feedback — 'inconvenienced, not forgotten' — provides the human proof she needed most.",
+      "summary": "Ayaka closes the 2028 storm season with repeatable evidence: faster notice updates, cleaner emergency cargo records, steadier recovery after rough-weather days. The improvement holds against the old baseline, not just last year. Her grandmother calls from Shikanoshima and says island residents felt 'inconvenienced, not forgotten' — the human confirmation Ayaka needed most. She prepares a two-page summary (resident impact first, then metrics, then protected practices) and allows herself to count the season as proof that the work changed something real.",
+      "tags": [
+        "season-verification",
+        "sustained-gains",
+        "baseline-comparison",
+        "grandmother-confirmation",
+        "supply-delay-reduction",
+        "inconvenienced-not-forgotten",
+        "full-arc-completion",
+        "evidence-trust"
+      ],
+      "tone": "steady and complete",
+      "open_loops": [
+        "Institutional memory may fade if Ayaka is ever absent for a season",
+        "Remit and budget need continued justification — no permanent safety",
+        "Ayaka's own health routines need maintenance during non-storm seasons too"
+      ],
+      "decisions": [
+        "By the end of the 2028 storm season, Ayaka verified sustained gains in notice speed, emergency cargo tracking, and sched",
+        "Ayaka still gets tense in storm season, but the sustained gains left her feeling less helpless and more confident that b"
+      ],
+      "strands": [
+        "season-verification",
+        "sustained-gains",
+        "baseline-comparison",
+        "grandmother-confirmation",
+        "supply-delay-reduction",
+        "inconvenienced-not-forgotten",
+        "full-arc-completion",
+        "evidence-trust"
+      ],
+      "needs_marking": false
+    }
+  ]
+}

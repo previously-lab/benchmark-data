@@ -1,0 +1,1184 @@
+{
+  "_schema": 1,
+  "updated_at": "2026-08-17T16:21:34.623Z",
+  "slice_count": 30,
+  "needs_marking": 0,
+  "slices": [
+    {
+      "id": "2022-01-08-1130",
+      "date": "2022-01-08",
+      "start": "2022-01-08T11:30:00.000Z",
+      "end": "2022-01-08T12:56:00.000Z",
+      "turn_count": 30,
+      "status": "closed",
+      "focus": "Caleb's full self-introduction: background, personality, work, family, health, and preferences",
+      "summary": "Caleb provides a comprehensive self-introduction covering his identity as a 40-year-old floodplain outreach specialist in Humble, Texas, his ISFJ personality, his marriage to Lena, caregiving for his mother Dorothy, his flood-mitigation career goal, and his practical, conflict-averse temperament.",
+      "tags": [
+        "personal-introduction",
+        "isfj-personality-type",
+        "geography-degree-background",
+        "flood-mitigation-adoption-goal",
+        "lena-hebert-marriage",
+        "dorothy-faye-caregiving-context",
+        "stress-triggered-acid-reflux",
+        "hurricane-season-anxiety",
+        "houston-area-rootedness"
+      ],
+      "tone": "positive",
+      "open_loops": [
+        "Establish ongoing support relationship with Caleb for work, family, and health challenges"
+      ],
+      "decisions": [],
+      "strands": [
+        "personal-introduction",
+        "isfj-personality-type",
+        "geography-degree-background",
+        "flood-mitigation-adoption-goal",
+        "lena-hebert-marriage",
+        "dorothy-faye-caregiving-context",
+        "stress-triggered-acid-reflux",
+        "hurricane-season-anxiety",
+        "houston-area-rootedness"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2022-02-11-0020",
+      "date": "2022-02-11",
+      "start": "2022-02-11T00:20:00.000Z",
+      "end": "2022-02-11T01:41:00.000Z",
+      "turn_count": 28,
+      "status": "closed",
+      "focus": "Caleb becomes lead staffer for a corridor-focused homeowner workshop series along a repeatedly flooded stretch in eastern Harris County",
+      "summary": "Caleb's corridor-specific workshop idea gets approved, making him lead staffer for a homeowner workshop series with direct responsibility for sign-in tracking, application follow-through, and plain-language coaching. He feels energized but nervous about the visibility of the outcome.",
+      "tags": [
+        "corridor-workshop-launch",
+        "flood-mitigation-outreach",
+        "homeowner-workshop-series",
+        "sharon-boudreaux-backing",
+        "follow-through-program-design",
+        "checkpoint-tracking-system",
+        "miguel-trevino-engineering-support",
+        "sign-in-sheet-redesign",
+        "homeowner-trust-building"
+      ],
+      "tone": "positive",
+      "open_loops": [
+        "Develop sign-in fields, checkpoint definitions, one-page handout, and first follow-up timeline before first workshop",
+        "Sync with Miguel on plain-language map explanations",
+        "Agree with Sharon on follow-up rhythm"
+      ],
+      "decisions": [
+        "Caleb became the lead staffer for a corridor-focused homeowner workshop series along a repeatedly flooded stretch in eas",
+        "Caleb felt newly energized because the corridor plan turned his long-term mitigation goal into a concrete program he cou"
+      ],
+      "strands": [
+        "corridor-workshop-launch",
+        "flood-mitigation-outreach",
+        "homeowner-workshop-series",
+        "sharon-boudreaux-backing",
+        "follow-through-program-design",
+        "checkpoint-tracking-system",
+        "miguel-trevino-engineering-support",
+        "sign-in-sheet-redesign",
+        "homeowner-trust-building"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2022-03-02-0840",
+      "date": "2022-03-02",
+      "start": "2022-03-02T08:40:00.000Z",
+      "end": "2022-03-02T09:48:00.000Z",
+      "turn_count": 24,
+      "status": "closed",
+      "focus": "Caleb develops a venting and reflection habit with friend Terrence Guidry using map screenshots after repetitive public meetings",
+      "summary": "Caleb discovers that sending map screenshots and venting notes to his GIS friend Terrence after repetitive public meetings helps him decompress and think more clearly. The habit has grown from a casual hangout into an important emotional regulation tool that also strengthens their friendship.",
+      "tags": [
+        "terrence-guidry-friendship",
+        "map-screenshot-venting-habit",
+        "work-stress-decompression",
+        "gis-friend-support",
+        "emotional-regulation-strategy",
+        "repetitive-meeting-fatigue",
+        "gulf-coast-storm-history",
+        "friendship-boundary-awareness"
+      ],
+      "tone": "positive",
+      "open_loops": [
+        "Thank Terrence directly for being a sounding board",
+        "Watch for recurring resident confusion categories instead of treating each meeting separately"
+      ],
+      "decisions": [
+        "Terrence Guidry became an even steadier sounding board for Caleb about outreach politics, repetitive public meetings, ma"
+      ],
+      "strands": [
+        "terrence-guidry-friendship",
+        "map-screenshot-venting-habit",
+        "work-stress-decompression",
+        "gis-friend-support",
+        "emotional-regulation-strategy",
+        "repetitive-meeting-fatigue",
+        "gulf-coast-storm-history",
+        "friendship-boundary-awareness"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2022-04-09-1010",
+      "date": "2022-04-09",
+      "start": "2022-04-09T10:10:00.000Z",
+      "end": "2022-04-09T11:36:00.000Z",
+      "turn_count": 30,
+      "status": "closed",
+      "focus": "Caleb redesigns workshop format from slide presentations to hands-on follow-through program with document packets, call-back sheets, and color-coded checklists",
+      "summary": "After weak next-step completion from the first two corridor workshops, Caleb strips down the presentation and rebuilds the format around take-home document packets, color-coded checklists, and call-back sheets. Sharon lets him test the new approach on the same corridor, shifting his role from presenter to follow-through manager.",
+      "tags": [
+        "workshop-format-redesign",
+        "homeowner-application-packets",
+        "color-coded-checklist-system",
+        "call-back-sheet-tracking",
+        "follow-through-manager-role",
+        "sharon-boudreaux-iteration-support",
+        "kitchen-table-design-philosophy",
+        "application-conversion-tracking"
+      ],
+      "tone": "positive",
+      "open_loops": [
+        "Fix confusing wording in packet before next session while keeping core structure stable",
+        "Add next-action field to call-back sheets",
+        "Ask 2-3 targeted households how they used the checklist at home"
+      ],
+      "decisions": [
+        "Caleb expanded the corridor workshop series from presentation-led meetings into a hands-on follow-through program built"
+      ],
+      "strands": [
+        "workshop-format-redesign",
+        "homeowner-application-packets",
+        "color-coded-checklist-system",
+        "call-back-sheet-tracking",
+        "follow-through-manager-role",
+        "sharon-boudreaux-iteration-support",
+        "kitchen-table-design-philosophy",
+        "application-conversion-tracking"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2022-05-18-0525",
+      "date": "2022-05-18",
+      "start": "2022-05-18T05:25:00.000Z",
+      "end": "2022-05-18T06:46:00.000Z",
+      "turn_count": 28,
+      "status": "closed",
+      "focus": "Caleb and Lena formalize caregiving for Dorothy: Caleb takes over Friday medical transport to protect Lena's bandwidth and their marriage",
+      "summary": "After Dorothy refuses another medical appointment and Lena's schedule keeps getting disrupted, Caleb and Lena have a formal planning session. They agree Caleb will handle all Friday medical transport for his mother, creating clear ownership of caregiving tasks and protecting their evenings from constant negotiation.",
+      "tags": [
+        "dorothy-faye-caregiving",
+        "lena-caregiving-burden-relief",
+        "friday-medical-transport",
+        "family-caregiving-plan",
+        "marriage-protection-strategy",
+        "caregiver-boundary-setting",
+        "maternal-doctor-resistance",
+        "one-page-caregiving-sheet"
+      ],
+      "tone": "mixed",
+      "open_loops": [
+        "Tell Dorothy about the new Friday arrangement as a settled routine",
+        "Build a simple one-page Friday sheet (meds, appointment time, pickup, questions)",
+        "Create a decompression ritual (truck time, breakfast taco stop) after Friday appointments"
+      ],
+      "decisions": [
+        "Caleb and Lena formally agreed that Caleb would handle all of Dorothy's Friday medical transport to reduce the recurring",
+        "Caleb now takes over Friday medical transport for his mother Dorothy because her cancellations and arguments became too"
+      ],
+      "strands": [
+        "dorothy-faye-caregiving",
+        "lena-caregiving-burden-relief",
+        "friday-medical-transport",
+        "family-caregiving-plan",
+        "marriage-protection-strategy",
+        "caregiver-boundary-setting",
+        "maternal-doctor-resistance",
+        "one-page-caregiving-sheet"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2022-06-24-0105",
+      "date": "2022-06-24",
+      "start": "2022-06-24T01:05:00.000Z",
+      "end": "2022-06-24T02:13:00.000Z",
+      "turn_count": 24,
+      "status": "closed",
+      "focus": "Caleb launches monthly paperwork clinics for the corridor after proving doubled workshop-to-application conversion rates to Sharon",
+      "summary": "Using sign-in sheets, call logs, and a whiteboard tally, Caleb shows Sharon that the hands-on workshop format nearly doubled conversion rates. This earns him approval to start monthly paperwork clinics at a church fellowship hall, with one-on-one application help, document troubleshooting, and Miguel's engineer office hours.",
+      "tags": [
+        "monthly-paperwork-clinic-launch",
+        "conversion-rate-evidence",
+        "church-fellowship-hall-venue",
+        "miguel-trevino-engineer-office-hours",
+        "triage-sheet-system",
+        "controlled-expansion-strategy",
+        "application-follow-through-model",
+        "what-to-bring-checklist"
+      ],
+      "tone": "positive",
+      "open_loops": [
+        "Build check-in triage sheet, what-to-bring list, and three outcome categories for first clinic",
+        "Define scope of Miguel's office hours to keep it sustainable",
+        "Capture common technical questions into a plain-language handout"
+      ],
+      "decisions": [
+        "Caleb took on monthly corridor paperwork clinics in addition to workshops, coordinating one-on-one application help, doc",
+        "Caleb felt cautiously encouraged because the new workshop format was converting better, though he worried the heavier fo"
+      ],
+      "strands": [
+        "monthly-paperwork-clinic-launch",
+        "conversion-rate-evidence",
+        "church-fellowship-hall-venue",
+        "miguel-trevino-engineer-office-hours",
+        "triage-sheet-system",
+        "controlled-expansion-strategy",
+        "application-follow-through-model",
+        "what-to-bring-checklist"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2022-07-12-0350",
+      "date": "2022-07-12",
+      "start": "2022-07-12T03:50:00.000Z",
+      "end": "2022-07-12T05:11:00.000Z",
+      "turn_count": 28,
+      "status": "closed",
+      "focus": "Caleb discovers smoked turkey as a reflux-safe cookout option and develops a practical framework for food choices with stress-triggered acid reflux",
+      "summary": "After a stressful day, Caleb chooses smoked turkey over spicier options at a high school baseball fundraiser and notices he sleeps much better. This leads to a broader realization about building a mental ranking of safe cookout choices, keeping sauce light, and recognizing that stress + hunger = bad decisions.",
+      "tags": [
+        "acid-reflux-diet-adjustment",
+        "smoked-turkey-discovery",
+        "stress-triggered-eating-patterns",
+        "cookout-food-strategy",
+        "practical-health-guardrails",
+        "body-awareness-development",
+        "default-food-choices",
+        "community-event-participation"
+      ],
+      "tone": "positive",
+      "open_loops": [],
+      "decisions": [
+        "Caleb's reflux-driven food preference shifted more clearly toward milder cookout options after smoked turkey sat better "
+      ],
+      "strands": [
+        "acid-reflux-diet-adjustment",
+        "smoked-turkey-discovery",
+        "stress-triggered-eating-patterns",
+        "cookout-food-strategy",
+        "practical-health-guardrails",
+        "body-awareness-development",
+        "default-food-choices",
+        "community-event-participation"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2022-08-19-0940",
+      "date": "2022-08-19",
+      "start": "2022-08-19T09:40:00.000Z",
+      "end": "2022-08-19T11:06:00.000Z",
+      "turn_count": 30,
+      "status": "closed",
+      "focus": "Caleb experiences a stress and reflux crisis during Gulf storm watch, leading to supervisor intervention and new boundaries around late-night resident calls",
+      "summary": "A tropical system lingering in the Gulf triggers severe reflux, early-morning chest tightness, and brittle stress in Caleb. He has been internalizing too many resident callbacks personally until supervisor Sharon intervenes, pushing him to use a shared callback board and cut late-night calls. He creates a morning anti-escalation script and sets a no-calls-after-dinner boundary.",
+      "tags": [
+        "gulf-storm-anxiety-crisis",
+        "stress-triggered-reflux-flareup",
+        "sharon-boudreaux-intervention",
+        "shared-callback-board-system",
+        "no-calls-after-dinner-boundary",
+        "late-night-voicemail-spiral",
+        "morning-anti-escalation-script",
+        "burnout-near-miss",
+        "personal-emergency-management-pattern"
+      ],
+      "tone": "negative",
+      "open_loops": [
+        "Lock in no-calls-after-dinner rule with narrow deadline exception",
+        "Use shared callback board daily instead of letting side notes pile up",
+        "Track early-morning wakeups, dinner cutoff adherence, and board currency for 2 weeks"
+      ],
+      "decisions": [
+        "Caleb's reflux flared harder than usual during the Gulf storm watch and callback crunch, bringing several weeks of poor ",
+        "Caleb became visibly more storm-anxious and brittle under the combined pressure of Gulf weather and applicant follow-thr"
+      ],
+      "strands": [
+        "gulf-storm-anxiety-crisis",
+        "stress-triggered-reflux-flareup",
+        "sharon-boudreaux-intervention",
+        "shared-callback-board-system",
+        "no-calls-after-dinner-boundary",
+        "late-night-voicemail-spiral",
+        "morning-anti-escalation-script",
+        "burnout-near-miss",
+        "personal-emergency-management-pattern"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2022-09-06-0715",
+      "date": "2022-09-06",
+      "start": "2022-09-06T07:15:00.000Z",
+      "end": "2022-09-06T08:23:00.000Z",
+      "turn_count": 24,
+      "status": "closed",
+      "focus": "Caleb and Lena attend a neighborhood pet blessing with Roux, providing a much-needed social reset and introducing neighbor Nadine Carver as a friendly drainage-information contact",
+      "summary": "During a rough stretch, Lena pushes Caleb to attend a low-key neighborhood pet blessing with their dog Roux. The outing provides a rare social reset, and Caleb meets retired neighbor Nadine Carver who becomes a friendly source of neighborhood drainage observations during evening walks.",
+      "tags": [
+        "neighborhood-pet-blessing",
+        "nadine-louise-carver",
+        "roux-the-black-lab",
+        "lena-quality-time",
+        "social-reset-outing",
+        "neighborhood-drainage-chatter",
+        "walk- acquaintance-network",
+        "exit-ramp-socializing"
+      ],
+      "tone": "positive",
+      "open_loops": [],
+      "decisions": [
+        "One of the new contacts was Nadine Louise Carver, a retired nearby neighbor Caleb met at the neighborhood pet blessing i"
+      ],
+      "strands": [
+        "neighborhood-pet-blessing",
+        "nadine-louise-carver",
+        "roux-the-black-lab",
+        "lena-quality-time",
+        "social-reset-outing",
+        "neighborhood-drainage-chatter",
+        "walk- acquaintance-network",
+        "exit-ramp-socializing"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2022-10-28-0230",
+      "date": "2022-10-28",
+      "start": "2022-10-28T02:30:00.000Z",
+      "end": "2022-10-28T03:56:00.000Z",
+      "turn_count": 30,
+      "status": "closed",
+      "focus": "Caleb shifts from broad corridor clinics to targeted case-tracking on a shorter repeat-loss subsection after proving application clustering to Sharon",
+      "summary": "Using scanned deed packets, handwritten contact notes, and a cluster map showing where repeat-loss applications were bunching, Caleb convinces Sharon to narrow follow-up onto a shorter subsection. His role shifts from running clinics broadly to tracking specific households through stages toward signed scopes.",
+      "tags": [
+        "repeat-loss-subsection-focus",
+        "case-tracking-system",
+        "concentrated-follow-through-pilot",
+        "sharon-boudreaux-approval",
+        "stage-based-household-tracking",
+        "strategic-depth-over-sprawl",
+        "cooling-off-rule-definition",
+        "curiosity-versus-active-pipeline"
+      ],
+      "tone": "positive",
+      "open_loops": [
+        "Build stripped-down tracker for the shorter repeat-loss subsection",
+        "Define cooling-off rules (no response threshold, document movement interval)",
+        "Add owner column to tracker to prevent all delays becoming Caleb's problem"
+      ],
+      "decisions": [
+        "Caleb shifted from broad corridor paperwork clinics into a targeted case-tracking role focused on a shorter repeat-loss"
+      ],
+      "strands": [
+        "repeat-loss-subsection-focus",
+        "case-tracking-system",
+        "concentrated-follow-through-pilot",
+        "sharon-boudreaux-approval",
+        "stage-based-household-tracking",
+        "strategic-depth-over-sprawl",
+        "cooling-off-rule-definition",
+        "curiosity-versus-active-pipeline"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2022-12-14-1020",
+      "date": "2022-12-14",
+      "start": "2022-12-14T10:20:00.000Z",
+      "end": "2022-12-14T11:28:00.000Z",
+      "turn_count": 24,
+      "status": "closed",
+      "focus": "Caleb discovers Gulf Coast history audiobooks for workday drives, replacing constant weather radio and providing a calmer transition between site visits",
+      "summary": "A friend recommends Gulf Coast history audiobooks through the library app, and Caleb finds they make his workday drives calmer than constant AM weather radio. Lena notices he comes home less wound up. He plans to keep a queue of regional nonfiction titles for the truck.",
+      "tags": [
+        "gulf-coast-history-audiobooks",
+        "library-app-discovery",
+        "calmer-workday-drives",
+        "weather-radio-reduction",
+        "stress-management-habit",
+        "regional-nonfiction-engagement",
+        "lena-notices-difference"
+      ],
+      "tone": "positive",
+      "open_loops": [],
+      "decisions": [
+        "Caleb got into Gulf Coast history audiobooks for long drives between site visits, adding audio listening to his usual no"
+      ],
+      "strands": [
+        "gulf-coast-history-audiobooks",
+        "library-app-discovery",
+        "calmer-workday-drives",
+        "weather-radio-reduction",
+        "stress-management-habit",
+        "regional-nonfiction-engagement",
+        "lena-notices-difference"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2023-01-26-0145",
+      "date": "2023-01-26",
+      "start": "2023-01-26T01:45:00.000Z",
+      "end": "2023-01-26T03:11:00.000Z",
+      "turn_count": 30,
+      "status": "closed",
+      "focus": "Caleb creates address-specific homeowner packets with drainage sketches, likely mitigation paths, and missing-paperwork lists, dramatically improving home-visit scheduling",
+      "summary": "For a new grant cycle, Caleb creates property-specific packets including a simple drainage sketch, likely mitigation path, and one-page missing-paperwork checklist. The packets break through resident hesitation, with some scheduling home visits on the spot instead of going silent after workshops. Caleb feels steadier with a concrete tool.",
+      "tags": [
+        "address-specific-homeowner-packets",
+        "drainage-sketch-tool",
+        "mitigation-path-clarity",
+        "missing-paperwork-page",
+        "home-visit-conversion",
+        "plain-language-outreach",
+        "miguel-trevino-collaboration",
+        "likely-versus-confirmed-language"
+      ],
+      "tone": "positive",
+      "open_loops": [
+        "Revise headline language on packets to be plainer",
+        "Add small 'what still depends on review' box",
+        "Start tracking handoff-to-visit conversion count"
+      ],
+      "decisions": [
+        "Caleb began using address-specific homeowner packets with a plain-language drainage sketch, likely mitigation path, and ",
+        "Caleb felt steadier once residents had a concrete packet to act on, even though he still worried some would drop off lat"
+      ],
+      "strands": [
+        "address-specific-homeowner-packets",
+        "drainage-sketch-tool",
+        "mitigation-path-clarity",
+        "missing-paperwork-page",
+        "home-visit-conversion",
+        "plain-language-outreach",
+        "miguel-trevino-collaboration",
+        "likely-versus-confirmed-language"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2023-03-04-1205",
+      "date": "2023-03-04",
+      "start": "2023-03-04T12:05:00.000Z",
+      "end": "2023-03-04T13:13:00.000Z",
+      "turn_count": 24,
+      "status": "closed",
+      "focus": "Home repair costs from subfloor damage and yard regrading strain Caleb's savings and deepen his empathy for homeowners facing financial uncertainty",
+      "summary": "Hard rain causes subfloor damage at Caleb's house, requiring costly repair and yard regrading. The expense further thins their savings and forces another vacation delay. Caleb gains personal insight into how financial uncertainty freezes homeowners, making him want to add cost-range language to his outreach materials.",
+      "tags": [
+        "subfloor-repair-expense",
+        "yard-regrading-cost",
+        "home-repair-financial-strain",
+        "savings-account-depletion",
+        "vacation-delay-frustration",
+        "empathy-for-homeowner-hesitation",
+        "cost-uncertainty-framework",
+        "prevention-spend-psychology"
+      ],
+      "tone": "negative",
+      "open_loops": [
+        "Tighten spending to let savings recover",
+        "Add plain-language cost-range information to outreach materials"
+      ],
+      "decisions": [
+        "A new round of subfloor repair and yard regrading after heavy rain thinned Caleb and Lena's savings further and made dis"
+      ],
+      "strands": [
+        "subfloor-repair-expense",
+        "yard-regrading-cost",
+        "home-repair-financial-strain",
+        "savings-account-depletion",
+        "vacation-delay-frustration",
+        "empathy-for-homeowner-hesitation",
+        "cost-uncertainty-framework",
+        "prevention-spend-psychology"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2023-04-21-0610",
+      "date": "2023-04-21",
+      "start": "2023-04-21T06:10:00.000Z",
+      "end": "2023-04-21T07:18:00.000Z",
+      "turn_count": 24,
+      "status": "closed",
+      "focus": "Contractor prequalification problems and ownership document mismatches cause a trust crisis with corridor residents, forcing Caleb into damage-control mode",
+      "summary": "After the address-specific packets were finally working, contractor prequalification problems and mismatched ownership documents stall multiple household files at once. Residents start spreading word that the county overpromised. Caleb faces two bruising church-hall meetings, feeling discouraged and defensive. He develops a blocker-separation board to sort rumor from actual obstruction.",
+      "tags": [
+        "contractor-prequalification-crisis",
+        "ownership-document-mismatches",
+        "homeowner-trust-erosion",
+        "church-hall-meeting-difficulty",
+        "scope-recheck-uncertainty",
+        "defensiveness-recognition",
+        "blocker-separation-board",
+        "damage-control-mode",
+        "pre-bid-stage-collapse"
+      ],
+      "tone": "negative",
+      "open_loops": [
+        "Call households with scope rechecks individually before next public meeting",
+        "Prepare cleaner public script with contained apology for timeline changes",
+        "Keep blocker-separation board current"
+      ],
+      "decisions": [
+        "Caleb was pulled into corridor damage-control work after contractor prequalification problems and mismatched ownership d",
+        "Caleb became discouraged and defensive once the contractor and documentation bottleneck made residents question whether"
+      ],
+      "strands": [
+        "contractor-prequalification-crisis",
+        "ownership-document-mismatches",
+        "homeowner-trust-erosion",
+        "church-hall-meeting-difficulty",
+        "scope-recheck-uncertainty",
+        "defensiveness-recognition",
+        "blocker-separation-board",
+        "damage-control-mode",
+        "pre-bid-stage-collapse"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2023-05-29-0435",
+      "date": "2023-05-29",
+      "start": "2023-05-29T04:35:00.000Z",
+      "end": "2023-05-29T05:43:00.000Z",
+      "turn_count": 24,
+      "status": "closed",
+      "focus": "Caleb develops a low-cost hobby of photographing native drainage-friendly plants with his phone as a stress-relief practice during the rough stretch",
+      "summary": "During a period of feeling battered and defensive, Caleb stumbles into a small hobby of taking phone photos of bioswale plantings and roadside grasses. The habit costs nothing, fits into his existing day, and gives him a private reset button that doesn't require an audience or performance.",
+      "tags": [
+        "native-plant-photography-hobby",
+        "bioswale-observation",
+        "stress-relief-practices",
+        "phone-photography-album",
+        "low-cost-decompression",
+        "drainage-plant-interest",
+        "private-habit-boundaries",
+        "midday-reset-routine"
+      ],
+      "tone": "positive",
+      "open_loops": [],
+      "decisions": [
+        "Caleb developed a small stress-relief hobby of taking quick phone photos of native drainage-friendly plants and roadside"
+      ],
+      "strands": [
+        "native-plant-photography-hobby",
+        "bioswale-observation",
+        "stress-relief-practices",
+        "phone-photography-album",
+        "low-cost-decompression",
+        "drainage-plant-interest",
+        "private-habit-boundaries",
+        "midday-reset-routine"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2023-07-07-0055",
+      "date": "2023-07-07",
+      "start": "2023-07-07T00:55:00.000Z",
+      "end": "2023-07-07T02:21:00.000Z",
+      "turn_count": 30,
+      "status": "closed",
+      "focus": "Caleb creates blunt weekly address-level status sheets breaking delays into three buckets (county approvals, homeowner documents, contractor hold-ups) to rebuild trust with corridor residents",
+      "summary": "Still doing damage control from the stalled files, Caleb builds a weekly status sheet that breaks each address's delays into three categories: county approvals, homeowner document problems, and contractor hold-ups. Handing these out during office hours shifts conversations from rumor to address-level reality, though the homeowner-document category requires careful handling to avoid defensiveness.",
+      "tags": [
+        "weekly-movement-sheet",
+        "three-bucket-delay-system",
+        "trust-repair-through-transparency",
+        "office-hours-accountability",
+        "homeowner-document-sensitivity",
+        "sharon-boudreaux-backing",
+        "movement-list-framing",
+        "last-updated-date-accuracy"
+      ],
+      "tone": "mixed",
+      "open_loops": [
+        "Add last-updated date to movement sheets",
+        "Tighten wording on homeowner document categories to reduce defensiveness",
+        "Start logging resident reactions to measure transparency impact"
+      ],
+      "decisions": [
+        "Caleb rebuilt the stalled corridor effort around a blunt weekly address-level status sheet that showed whether each dela"
+      ],
+      "strands": [
+        "weekly-movement-sheet",
+        "three-bucket-delay-system",
+        "trust-repair-through-transparency",
+        "office-hours-accountability",
+        "homeowner-document-sensitivity",
+        "sharon-boudreaux-backing",
+        "movement-list-framing",
+        "last-updated-date-accuracy"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2023-08-18-1045",
+      "date": "2023-08-18",
+      "start": "2023-08-18T10:45:00.000Z",
+      "end": "2023-08-18T11:53:00.000Z",
+      "turn_count": 24,
+      "status": "closed",
+      "focus": "Caleb visits his doctor for reflux management, starts consistent medication and meal timing, and begins addressing storm anxiety after his mother's fall scare",
+      "summary": "After a Gulf watch triggers bad nights and his mother falls in her kitchen, Caleb finally visits his primary care doctor about reflux. The doctor prescribes consistent medication timing, earlier meals, and no late eating. Caleb begins implementing these changes, gets fewer flareups, and also recognizes that a constant low-grade storm dread has been wearing him down.",
+      "tags": [
+        "primary-care-doctor-visit",
+        "reflux-medication-consistency",
+        "dorothy-faye-fall-scare",
+        "storm-anxiety-recognition",
+        "evening-routine-adjustment",
+        "health-habit-formation",
+        "late-night-radar-check-boundary",
+        "vigilance-versus-pressure"
+      ],
+      "tone": "mixed",
+      "open_loops": [
+        "Set up evening cutoff for weather checking",
+        "Prep food for a few nights to avoid late scavenging",
+        "Check Dorothy's kitchen for tripping hazards on Friday"
+      ],
+      "decisions": [
+        "Caleb's reflux stayed stress-sensitive, but after the doctor visit he became more consistent with meals and medication a",
+        "Caleb was still anxious and easily keyed up during storm season, but naming the anxiety out loud made him a little less "
+      ],
+      "strands": [
+        "primary-care-doctor-visit",
+        "reflux-medication-consistency",
+        "dorothy-faye-fall-scare",
+        "storm-anxiety-recognition",
+        "evening-routine-adjustment",
+        "health-habit-formation",
+        "late-night-radar-check-boundary",
+        "vigilance-versus-pressure"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2023-10-03-0220",
+      "date": "2023-10-03",
+      "start": "2023-10-03T02:20:00.000Z",
+      "end": "2023-10-03T03:34:00.000Z",
+      "turn_count": 26,
+      "status": "closed",
+      "focus": "Caleb expands Saturday clinics with title-company support and bilingual intake, addressing upstream paperwork failures that were killing files before formal review",
+      "summary": "The weekly status sheets reveal that many applications were dying not during formal review but earlier due to inherited-heirship tangles and deed-copy difficulties. Caleb recruits a title-company contact and a bilingual intake volunteer for Saturday clinics. The combination starts clearing the paperwork traps that had been quietly undermining trust and file progression.",
+      "tags": [
+        "saturday-clinic-expansion",
+        "title-company-support",
+        "bilingual-intake-service",
+        "pre-review-attrition-solution",
+        "inherited-heirship-untangling",
+        "deed-copy-retrieval-help",
+        "status-sheet-insight",
+        "sharon-boudreaux-support"
+      ],
+      "tone": "positive",
+      "open_loops": [
+        "Write up short pilot summary of what changed",
+        "Request steadier title-company access",
+        "Keep intake side simple and human"
+      ],
+      "decisions": [
+        "Caleb expanded the corridor support model beyond status sheets and office hours by adding specialized Saturday clinics f",
+        "Caleb felt hard-earned relief because the new clinic support was finally clearing the paperwork failures that had been f"
+      ],
+      "strands": [
+        "saturday-clinic-expansion",
+        "title-company-support",
+        "bilingual-intake-service",
+        "pre-review-attrition-solution",
+        "inherited-heirship-untangling",
+        "deed-copy-retrieval-help",
+        "status-sheet-insight",
+        "sharon-boudreaux-support"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2023-11-19-1110",
+      "date": "2023-11-19",
+      "start": "2023-11-19T11:10:00.000Z",
+      "end": "2023-11-19T12:18:00.000Z",
+      "turn_count": 24,
+      "status": "closed",
+      "focus": "Caleb rediscovers his enjoyment of older legal and civic procedural movies after a neighbor's backyard movie night, reclaiming a dormant leisure preference",
+      "summary": "Lena takes Caleb to a neighbor's backyard movie night featuring an older legal thriller. Caleb is surprised by how locked-in he gets, realizing he drifted away from procedural dramas without noticing. He now plans to keep a short list of older legal and civic procedurals sorted by mood, marking a recovery of active engagement over passive numbing.",
+      "tags": [
+        "legal-procedural-movie-discovery",
+        "civic-drama-preference",
+        "lena-quality-time",
+        "backyard-movie-night",
+        "leisure-taste-reclaiming",
+        "competence-and-process-storytelling",
+        "movie-mood-list-system"
+      ],
+      "tone": "positive",
+      "open_loops": [],
+      "decisions": [
+        "Caleb renewed a taste for older legal and civic procedurals after a neighbor's backyard movie night held his attention m"
+      ],
+      "strands": [
+        "legal-procedural-movie-discovery",
+        "civic-drama-preference",
+        "lena-quality-time",
+        "backyard-movie-night",
+        "leisure-taste-reclaiming",
+        "competence-and-process-storytelling",
+        "movie-mood-list-system"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2024-01-30-0135",
+      "date": "2024-01-30",
+      "start": "2024-01-30T01:35:00.000Z",
+      "end": "2024-01-30T03:01:00.000Z",
+      "turn_count": 30,
+      "status": "closed",
+      "focus": "Caleb builds a block-level corridor performance scoreboard tracking completed applications, signed scopes, and active project starts to defend the concentrated model",
+      "summary": "With title and document choke points easing, Caleb builds a simple corridor scoreboard for Sharon that tracks completed applications, signed scopes, and active project starts by block. The scoreboard makes the case that the pipeline is converting and helps defend keeping staff focused on the corridor rather than spreading back out countywide.",
+      "tags": [
+        "corridor-performance-scoreboard",
+        "block-level-metric-tracking",
+        "sharon-boudreaux-presentation",
+        "concentrated-model-defense",
+        "completed-applications-evidence",
+        "signed-scope-tracking",
+        "active-project-starts",
+        "strategic-shield-tool"
+      ],
+      "tone": "positive",
+      "open_loops": [
+        "Add small directional markers (up/flat/down) to each category",
+        "Draft one-page backup page with definitions and caveats",
+        "Add sentence on intended use to prevent scope creep"
+      ],
+      "decisions": [
+        "Caleb added a corridor performance scoreboard that tracks completed applications, signed scopes, and active project star"
+      ],
+      "strands": [
+        "corridor-performance-scoreboard",
+        "block-level-metric-tracking",
+        "sharon-boudreaux-presentation",
+        "concentrated-model-defense",
+        "completed-applications-evidence",
+        "signed-scope-tracking",
+        "active-project-starts",
+        "strategic-shield-tool"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2024-03-16-0955",
+      "date": "2024-03-16",
+      "start": "2024-03-16T09:55:00.000Z",
+      "end": "2024-03-16T11:09:00.000Z",
+      "turn_count": 26,
+      "status": "closed",
+      "focus": "Dorothy's near-fall (bruised hip) finally leads to agreement on a home health assessment and grab-bar installation after years of resistance",
+      "summary": "Dorothy misses her front step and bruises her hip, scaring the family enough that she finally agrees to a home health assessment and grab bars. Caleb and Lena spend the day clearing rugs, labeling medication bins, and pushing for safety changes while managing Dorothy's resistance to feeling managed. The incident creates a brief window for practical consent.",
+      "tags": [
+        "dorothy-faye-near-fall",
+        "home-safety-improvements",
+        "grab-bar-installation",
+        "home-health-assessment",
+        "lena-caleb-caregiving-coordination",
+        "mother-resistance-to-help",
+        "medication-bin-labeling",
+        "caregiving-division-of-labor"
+      ],
+      "tone": "mixed",
+      "open_loops": [
+        "Schedule home health assessment",
+        "Get grab-bar installer moving this week",
+        "Create shared note with Lena for tracking next steps"
+      ],
+      "decisions": [
+        "After bruising her hip by missing the front step, Dorothy reluctantly agreed to a home health assessment and grab-bar in",
+        "Dorothy's near-fall intensified caregiving again, and Caleb and Lena now need more joint planning and patience around he"
+      ],
+      "strands": [
+        "dorothy-faye-near-fall",
+        "home-safety-improvements",
+        "grab-bar-installation",
+        "home-health-assessment",
+        "lena-caleb-caregiving-coordination",
+        "mother-resistance-to-help",
+        "medication-bin-labeling",
+        "caregiving-division-of-labor"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2024-05-05-0325",
+      "date": "2024-05-05",
+      "start": "2024-05-05T03:25:00.000Z",
+      "end": "2024-05-05T04:33:00.000Z",
+      "turn_count": 24,
+      "status": "closed",
+      "focus": "Caleb organizes a corridor walk with before/after flood photos and resident testimony, turning visible progress into homeowner-to-homeowner trust",
+      "summary": "With survey stakes, drainage prep markings, and signed buyout packets visible in the corridor, Caleb organizes a walk where residents can see progress firsthand. Homeowners already in the buyout process talk to newer folks about why they stayed with the forms. The event shifts the dynamic from county-led persuasion to peer-based trust-building.",
+      "tags": [
+        "corridor-walk-event",
+        "resident-testimony-outreach",
+        "before-after-flood-photos",
+        "peer-trust-building",
+        "visible-mitigation-progress",
+        "homeowner-to-homeowner-persuasion",
+        "milestone-based-outreach",
+        "survey-stakes-evidence"
+      ],
+      "tone": "positive",
+      "open_loops": [
+        "Write down exact sequence and what worked while fresh",
+        "Draft cleaner summary for leadership",
+        "Plan next milestone-based walk"
+      ],
+      "decisions": [
+        "Caleb shifted corridor outreach from scoreboard-only tracking to using visible project signs, resident testimony, and co",
+        "Caleb felt more hopeful than he had in months because the corridor finally showed concrete signs of movement he could po"
+      ],
+      "strands": [
+        "corridor-walk-event",
+        "resident-testimony-outreach",
+        "before-after-flood-photos",
+        "peer-trust-building",
+        "visible-mitigation-progress",
+        "homeowner-to-homeowner-persuasion",
+        "milestone-based-outreach",
+        "survey-stakes-evidence"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2024-06-23-1230",
+      "date": "2024-06-23",
+      "start": "2024-06-23T12:30:00.000Z",
+      "end": "2024-06-23T13:56:00.000Z",
+      "turn_count": 30,
+      "status": "closed",
+      "focus": "Caleb discovers paper scorekeeping at an Astros game with Miguel, finding a structured, low-pressure way to decompress",
+      "summary": "After a late meeting, Miguel invites Caleb to an Astros game where he learns compact paper scorekeeping. The activity gives his attention a clean job and keeps him from checking his phone. He comes home noticeably lighter, and Lena comments on the difference. He decides to keep a pencil and card in his truck for future spontaneous games.",
+      "tags": [
+        "astros-game-scorekeeping",
+        "miguel-trevino-friendship",
+        "paper-scorecard-hobby",
+        "spontaneous-decompression",
+        "structured-leisure-preference",
+        "attention-reset-experience",
+        "low-cost-rest-routine"
+      ],
+      "tone": "positive",
+      "open_loops": [],
+      "decisions": [
+        "Caleb discovered he liked keeping a simple paper scorecard during Astros games when someone else showed him how."
+      ],
+      "strands": [
+        "astros-game-scorekeeping",
+        "miguel-trevino-friendship",
+        "paper-scorecard-hobby",
+        "spontaneous-decompression",
+        "structured-leisure-preference",
+        "attention-reset-experience",
+        "low-cost-rest-routine"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2024-08-31-0040",
+      "date": "2024-08-31",
+      "start": "2024-08-31T00:40:00.000Z",
+      "end": "2024-08-31T02:06:00.000Z",
+      "turn_count": 30,
+      "status": "closed",
+      "focus": "Caleb defends the concentrated corridor model against county budget pressure using conversion data, call-back logs, and a wall map with status dots",
+      "summary": "Fresh county budget pressure threatens to spread outreach hours back across a wider area. Caleb makes a direct case for the concentrated model using the scoreboard, call-back logs, and a wall map with status dots by household. Sharon helps frame it as a practical staffing argument rather than a personal project, and Caleb wins temporary protection for the corridor approach.",
+      "tags": [
+        "budget-pressure-defense",
+        "concentrated-model-advocacy",
+        "conversion-and-drop-off-evidence",
+        "wall-map-visual-argument",
+        "sharon-boudreaux-support",
+        "internal-advocacy-role",
+        "repeated-contact-proving",
+        "one-page-standing-summary"
+      ],
+      "tone": "mixed",
+      "open_loops": [
+        "Build one-page standing summary with three sections: conversion gained, drop-off reduced, staff touches required",
+        "Keep wall map current for fast reuse"
+      ],
+      "decisions": [
+        "Caleb became the internal defender of a concentrated corridor model, using documented conversion and drop-off data to pr"
+      ],
+      "strands": [
+        "budget-pressure-defense",
+        "concentrated-model-advocacy",
+        "conversion-and-drop-off-evidence",
+        "wall-map-visual-argument",
+        "sharon-boudreaux-support",
+        "internal-advocacy-role",
+        "repeated-contact-proving",
+        "one-page-standing-summary"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2024-10-14-0600",
+      "date": "2024-10-14",
+      "start": "2024-10-14T06:00:00.000Z",
+      "end": "2024-10-14T07:14:00.000Z",
+      "turn_count": 26,
+      "status": "closed",
+      "focus": "Caleb and Lena pay for a major drainage and gutter overhaul, straining savings but providing a real prevention fix after years of patch jobs",
+      "summary": "Tired of repeated rain intrusion and stopgap repairs, Caleb and Lena pay for a major drainage and gutter overhaul before winter rains. The expense thins savings and forces more postponements, but Caleb reframes it as a successful prevention spend. The experience sharpens his empathy for homeowners facing mitigation costs with less margin.",
+      "tags": [
+        "drainage-and-gutter-overhaul",
+        "home-prevention-spend",
+        "financial-cushion-strain",
+        "mitigation-cost-empathy",
+        "prevention-over-stopgap-decision",
+        "lena-joint-financial-decision",
+        "home-hardening-psychology",
+        "workshop-language-revision"
+      ],
+      "tone": "mixed",
+      "open_loops": [
+        "Make a short list of what the overhaul protects them from",
+        "Revise workshop language to acknowledge financial weight and tradeoffs"
+      ],
+      "decisions": [
+        "Caleb still owns the same one-story ranch house with Lena near the San Jacinto watershed, but by late 2027 they added a ",
+        "The drainage and gutter project kept Caleb and Lena's savings thin and made them postpone other spending plans again."
+      ],
+      "strands": [
+        "drainage-and-gutter-overhaul",
+        "home-prevention-spend",
+        "financial-cushion-strain",
+        "mitigation-cost-empathy",
+        "prevention-over-stopgap-decision",
+        "lena-joint-financial-decision",
+        "home-hardening-psychology",
+        "workshop-language-revision"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2025-01-17-0115",
+      "date": "2025-01-17",
+      "start": "2025-01-17T01:15:00.000Z",
+      "end": "2025-01-17T02:36:00.000Z",
+      "turn_count": 28,
+      "status": "closed",
+      "focus": "Caleb formalizes a post-approval retention routine with 30, 60, and 90 day check-ins and one named contact per approved household to prevent late-stage drift",
+      "summary": "Caleb realizes that getting households approved is not the finish line, as late-stage contractor confusion and closing paperwork still cause drop-off. He formalizes a retention routine with scheduled check-ins at 30, 60, and 90 days, each with a specific purpose (stabilize, re-engage, escalate), and assigns one named contact per household to prevent residents from bouncing between staff members.",
+      "tags": [
+        "post-approval-retention-routine",
+        "30-60-90-day-check-in",
+        "named-contact-system",
+        "late-stage-drift-prevention",
+        "approved-household-support",
+        "retention-chain-model",
+        "plain-language-closing-explanations",
+        "action-triggering-dashboard"
+      ],
+      "tone": "positive",
+      "open_loops": [
+        "Draft one-pager on retention routine: schedule, named contact, common stall points",
+        "Define what the named contact owns vs. what gets handed off"
+      ],
+      "decisions": [
+        "Caleb formalized a retention-focused follow-through routine for approved corridor households with scheduled 30, 60, and "
+      ],
+      "strands": [
+        "post-approval-retention-routine",
+        "30-60-90-day-check-in",
+        "named-contact-system",
+        "late-stage-drift-prevention",
+        "approved-household-support",
+        "retention-chain-model",
+        "plain-language-closing-explanations",
+        "action-triggering-dashboard"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2025-03-09-1140",
+      "date": "2025-03-09",
+      "start": "2025-03-09T11:40:00.000Z",
+      "end": "2025-03-09T13:01:00.000Z",
+      "turn_count": 28,
+      "status": "closed",
+      "focus": "Caleb takes a short weekend trip to Lafayette and handles being away from home better than expected, expanding his sense of travel possibilities",
+      "summary": "Caleb and Lena drive to Lafayette for a cousin's weekend gathering. With the drainage work done and a house-checker arranged, Caleb handles being out of state with less anxiety than expected. He realizes that short regional trips with clear return dates and weather monitoring are more possible than he thought, and creates a working template for future weekends.",
+      "tags": [
+        "lafayette-weekend-trip",
+        "travel-anxiety-reduction",
+        "reflux-management-on-trip",
+        "regional-travel-template",
+        "house-check-system",
+        "fixed-return-date-preference",
+        "lena-travel-partnership",
+        "personal-growth-milestone"
+      ],
+      "tone": "positive",
+      "open_loops": [
+        "Make a short list of possible weekend drives (3-4 options with drive time, stay, house-check)",
+        "Plan one more short Texas/Louisiana trip to confirm the pattern"
+      ],
+      "decisions": [
+        "Caleb now feels a little more comfortable leaving home briefly outside peak storm season, while still preferring short r"
+      ],
+      "strands": [
+        "lafayette-weekend-trip",
+        "travel-anxiety-reduction",
+        "reflux-management-on-trip",
+        "regional-travel-template",
+        "house-check-system",
+        "fixed-return-date-preference",
+        "lena-travel-partnership",
+        "personal-growth-milestone"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2025-05-28-0505",
+      "date": "2025-05-28",
+      "start": "2025-05-28T05:05:00.000Z",
+      "end": "2025-05-28T06:13:00.000Z",
+      "turn_count": 24,
+      "status": "closed",
+      "focus": "Caleb presents corridor results to senior staff, framing success around reduced post-approval abandonment rather than attendance or awareness",
+      "summary": "Sharon asks Caleb to brief senior staff on corridor results, making him the lead presenter rather than just supplying numbers. He focuses on reduced post-approval abandonment as the real win, using resident photos, a marked corridor map, and dropout-stage counts. The presentation validates years of unglamorous follow-through work and establishes him as a builder of the method.",
+      "tags": [
+        "senior-staff-briefing",
+        "corridor-results-presentation",
+        "post-approval-abandonment-focus",
+        "dropout-stage-evidence",
+        "professional-credibility-growth",
+        "builder-of-method-role",
+        "tired-but-vindicated",
+        "plain-language-evidence"
+      ],
+      "tone": "positive",
+      "open_loops": [
+        "Write a one-page internal note with map image, stage-count table, and paragraph on visible starts",
+        "Save the phrasing that worked for future reviews"
+      ],
+      "decisions": [
+        "Caleb became the lead presenter of the corridor's adoption results to senior staff, framing progress around reduced post",
+        "Caleb felt tired but vindicated because the corridor finally had enough measurable movement for him to defend years of t"
+      ],
+      "strands": [
+        "senior-staff-briefing",
+        "corridor-results-presentation",
+        "post-approval-abandonment-focus",
+        "dropout-stage-evidence",
+        "professional-credibility-growth",
+        "builder-of-method-role",
+        "tired-but-vindicated",
+        "plain-language-evidence"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2025-08-06-2310",
+      "date": "2025-08-06",
+      "start": "2025-08-06T23:10:00.000Z",
+      "end": "2025-08-07T00:36:00.000Z",
+      "turn_count": 30,
+      "status": "closed",
+      "focus": "Caleb handles a Gulf storm threat with better routines, maintaining reflux discipline and delegating a public meeting to Miguel rather than spiraling into all-week vigilance",
+      "summary": "A tropical threat in the Gulf triggers Caleb's old storm anxiety patterns, but he handles it differently this time. He keeps his reflux routine steady, limits forecast checking to set windows, and delegates one public meeting to Miguel. The experience shows him that the edge of anxiety can be contained rather than endless, and he creates a five-line storm-week coping checklist.",
+      "tags": [
+        "gulf-storm-anxiety-management",
+        "reflux-routine-maintenance",
+        "forecast-check-boundaries",
+        "miguel-meeting-delegation",
+        "storm-week-coping-script",
+        "early-warning-sign-recognition",
+        "contained-anxiety-progress"
+      ],
+      "tone": "positive",
+      "open_loops": [
+        "Write five-line storm-week checklist: forecast windows, no late spicy food, meds on time, delegate early, phone cutoff at night",
+        "Tell Lena and Miguel the simple version so it's easier to stick to"
+      ],
+      "decisions": [
+        "Caleb's storm-season anxiety became more deliberate and manageable, making him less likely to let Gulf threats consume e",
+        "By 2028 Caleb's reflux was still stress-sensitive during Gulf threats, but it was more controlled because he followed a "
+      ],
+      "strands": [
+        "gulf-storm-anxiety-management",
+        "reflux-routine-maintenance",
+        "forecast-check-boundaries",
+        "miguel-meeting-delegation",
+        "storm-week-coping-script",
+        "early-warning-sign-recognition",
+        "contained-anxiety-progress"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2025-11-21-0825",
+      "date": "2025-11-21",
+      "start": "2025-11-21T08:25:00.000Z",
+      "end": "2025-11-21T09:33:00.000Z",
+      "turn_count": 24,
+      "status": "closed",
+      "focus": "Caleb's year-end corridor review shows a documented model with completed applications, signed scopes, buyout enrollments, and visible project starts, validating years of follow-through work",
+      "summary": "The year-end corridor review with Sharon and Miguel produces a stack of evidence: completed applications, signed scopes, buyout enrollments, and houses with visible elevation or drainage work. Caleb is recognized as the county's go-to corridor follow-through specialist with a documented model showing that intensive paperwork support and transparent case tracking produce sustained mitigation adoption.",
+      "tags": [
+        "year-end-corridor-review",
+        "completed-applications-evidence",
+        "signed-scope-milestones",
+        "buyout-enrollment-progress",
+        "go-to-corridor-specialist-role",
+        "retention-chain-documentation",
+        "sharon-miguel-validation",
+        "transferable-model-definition"
+      ],
+      "tone": "positive",
+      "open_loops": [
+        "Draft short internal guide on the model: retention chain, named contact, case tracking",
+        "Identify which parts are transferable vs. what still needs Caleb directly"
+      ],
+      "decisions": [
+        "By late 2028, Caleb became the county's go-to corridor follow-through specialist, with a documented model showing that i"
+      ],
+      "strands": [
+        "year-end-corridor-review",
+        "completed-applications-evidence",
+        "signed-scope-milestones",
+        "buyout-enrollment-progress",
+        "go-to-corridor-specialist-role",
+        "retention-chain-documentation",
+        "sharon-miguel-validation",
+        "transferable-model-definition"
+      ],
+      "needs_marking": false
+    }
+  ]
+}

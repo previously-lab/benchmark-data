@@ -1,0 +1,970 @@
+{
+  "_schema": 1,
+  "updated_at": "2026-08-17T16:21:34.407Z",
+  "slice_count": 30,
+  "needs_marking": 0,
+  "slices": [
+    {
+      "id": "2022-01-08-0030",
+      "date": "2022-01-08",
+      "start": "2022-01-08T00:30:00.000Z",
+      "end": "2022-01-08T01:56:00.000Z",
+      "turn_count": 30,
+      "status": "closed",
+      "focus": "I appreciate that you are taking the time.",
+      "summary": "My name is Danielle Marie Rosas",
+      "tags": [
+        "personal-introduction",
+        "biography-and-background",
+        "istj-personality-temperament",
+        "phoenix-arizona-living",
+        "single-mother-to-mateo",
+        "school-nutrition-logistics-role"
+      ],
+      "tone": "positive",
+      "open_loops": [],
+      "decisions": [],
+      "strands": [
+        "personal-introduction",
+        "biography-and-background",
+        "istj-personality-temperament",
+        "phoenix-arizona-living",
+        "single-mother-to-mateo",
+        "school-nutrition-logistics-role"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2022-02-03-0840",
+      "date": "2022-02-03",
+      "start": "2022-02-03T08:40:00.000Z",
+      "end": "2022-02-03T10:01:00.000Z",
+      "turn_count": 28,
+      "status": "closed",
+      "focus": "Things have been busy since we last talked, and work just tipped into one of tho",
+      "summary": "I stayed late with Victor and we started reconstructing the whole thing instead of just closing the",
+      "tags": [
+        "vendor-delivery-failure",
+        "incident-review-folder",
+        "systemic-logistics-breakdown",
+        "evidence-based-tracking",
+        "work-stress-replay-loop",
+        "boundary-setting-at-work"
+      ],
+      "tone": "mixed",
+      "open_loops": [],
+      "decisions": [
+        "After a districtwide produce vendor miss, Danielle added a self-directed incident review project tracking missed trucks,",
+        "The vendor miss left Danielle more vigilant and tired because she keeps replaying the scramble calls and mentally review"
+      ],
+      "strands": [
+        "vendor-delivery-failure",
+        "incident-review-folder",
+        "systemic-logistics-breakdown",
+        "evidence-based-tracking",
+        "work-stress-replay-loop",
+        "boundary-setting-at-work"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2022-02-22-1110",
+      "date": "2022-02-22",
+      "start": "2022-02-22T11:10:00.000Z",
+      "end": "2022-02-22T12:24:00.000Z",
+      "turn_count": 26,
+      "status": "closed",
+      "focus": "Things have been kind of tense lately, but there was one unexpectedly nice littl",
+      "summary": "Honestly, all three",
+      "tags": [
+        "neighborhood-birthday-party",
+        "eleanor-community-connection",
+        "diamondbacks-promotions-discovery",
+        "affordable-mother-son-outings",
+        "low-stakes-leisure-value",
+        "parent-network-resources"
+      ],
+      "tone": "positive",
+      "open_loops": [],
+      "decisions": [
+        "Danielle has started checking Diamondbacks box scores and weekend promotions more regularly because discounted family se"
+      ],
+      "strands": [
+        "neighborhood-birthday-party",
+        "eleanor-community-connection",
+        "diamondbacks-promotions-discovery",
+        "affordable-mother-son-outings",
+        "low-stakes-leisure-value",
+        "parent-network-resources"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2022-03-18-0725",
+      "date": "2022-03-18",
+      "start": "2022-03-18T07:25:00.000Z",
+      "end": "2022-03-18T08:39:00.000Z",
+      "turn_count": 26,
+      "status": "closed",
+      "focus": "A lot has shifted at work since we last talked, and I finally have something sol",
+      "summary": "Probably getting the maps to reflect what is actually usable, not what looks available on paper",
+      "tags": [
+        "spring-pilot-approval",
+        "freezer-capacity-mapping",
+        "color-coded-shelf-photos",
+        "usable-space-vs-paper-space",
+        "substitution-chart-design",
+        "kitchen-frontline-feedback-loop"
+      ],
+      "tone": "positive",
+      "open_loops": [],
+      "decisions": [
+        "Danielle got director approval to run a spring pilot at six campuses mapping freezer capacity and backup substitutions."
+      ],
+      "strands": [
+        "spring-pilot-approval",
+        "freezer-capacity-mapping",
+        "color-coded-shelf-photos",
+        "usable-space-vs-paper-space",
+        "substitution-chart-design",
+        "kitchen-frontline-feedback-loop"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2022-04-06-0350",
+      "date": "2022-04-06",
+      "start": "2022-04-06T03:50:00.000Z",
+      "end": "2022-04-06T05:11:00.000Z",
+      "turn_count": 28,
+      "status": "closed",
+      "focus": "A lot has been moving lately, and I hit a point this week where my body basicall",
+      "summary": "Yeah, that is exactly what the urgent care doctor said, pretty bluntly",
+      "tags": [
+        "urgent-care-dehydration",
+        "skipped-lunches-trigger",
+        "electrolyte-and-fruit-prep",
+        "heat-fatigue-awareness",
+        "field-day-routine-redesign",
+        "preset-decision-health-strategy"
+      ],
+      "tone": "mixed",
+      "open_loops": [],
+      "decisions": [
+        "Danielle now sees skipped lunches during campus visits as a direct trigger for sharper dehydration headaches.",
+        "After the urgent-care scare, Danielle started keeping electrolyte packets and cut fruit in her work bag more deliberatel"
+      ],
+      "strands": [
+        "urgent-care-dehydration",
+        "skipped-lunches-trigger",
+        "electrolyte-and-fruit-prep",
+        "heat-fatigue-awareness",
+        "field-day-routine-redesign",
+        "preset-decision-health-strategy"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2022-04-29-0935",
+      "date": "2022-04-29",
+      "start": "2022-04-29T09:35:00.000Z",
+      "end": "2022-04-29T10:56:00.000Z",
+      "turn_count": 28,
+      "status": "closed",
+      "focus": "A lot has been shifting lately, and this part of work finally clicked into somet",
+      "summary": "Yes, that is exactly why this feels different",
+      "tags": [
+        "freezer-capacity-board",
+        "thursday-substitution-sheet",
+        "warehouse-campus-bridge",
+        "low-buffer-campus-identification",
+        "shared-operational-picture",
+        "weekly-pilot-rhythm"
+      ],
+      "tone": "positive",
+      "open_loops": [],
+      "decisions": [
+        "Danielle's six-campus freezer pilot matured from photo maps and backup guides into a shared freezer-capacity board with "
+      ],
+      "strands": [
+        "freezer-capacity-board",
+        "thursday-substitution-sheet",
+        "warehouse-campus-bridge",
+        "low-buffer-campus-identification",
+        "shared-operational-picture",
+        "weekly-pilot-rhythm"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2022-05-17-0520",
+      "date": "2022-05-17",
+      "start": "2022-05-17T05:20:00.000Z",
+      "end": "2022-05-17T06:28:00.000Z",
+      "turn_count": 24,
+      "status": "closed",
+      "focus": "Things have been a little less frantic lately, at least enough that my brain is ",
+      "summary": "Probably the subject matter first, then the writing",
+      "tags": [
+        "reported-nonfiction-discovery",
+        "food-systems-literature",
+        "priya-library-book-gift",
+        "mystery-novels-alternating",
+        "intellectual-expansion-signal",
+        "reading-as-calm-period-marker"
+      ],
+      "tone": "positive",
+      "open_loops": [],
+      "decisions": [
+        "Danielle's reading preference broadened from practical nonfiction and quick mystery novels to include reported narrative"
+      ],
+      "strands": [
+        "reported-nonfiction-discovery",
+        "food-systems-literature",
+        "priya-library-book-gift",
+        "mystery-novels-alternating",
+        "intellectual-expansion-signal",
+        "reading-as-calm-period-marker"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2022-06-11-0215",
+      "date": "2022-06-11",
+      "start": "2022-06-11T02:15:00.000Z",
+      "end": "2022-06-11T03:23:00.000Z",
+      "turn_count": 24,
+      "status": "closed",
+      "focus": "Things have been shifting a lot since we last talked, and I finally had one of t",
+      "summary": "Yeah, that is exactly why I walked out feeling different",
+      "tags": [
+        "leadership-pilot-presentation",
+        "districtwide-expansion-approval",
+        "vendor-on-time-performance-request",
+        "summer-rollout-planning",
+        "evidence-based-persuasion",
+        "accountability-tracking-shift"
+      ],
+      "tone": "positive",
+      "open_loops": [],
+      "decisions": [
+        "Danielle was authorized to expand freezer-capacity mapping to every district campus kitchen over the summer and to forma"
+      ],
+      "strands": [
+        "leadership-pilot-presentation",
+        "districtwide-expansion-approval",
+        "vendor-on-time-performance-request",
+        "summer-rollout-planning",
+        "evidence-based-persuasion",
+        "accountability-tracking-shift"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2022-06-28-1205",
+      "date": "2022-06-28",
+      "start": "2022-06-28T12:05:00.000Z",
+      "end": "2022-06-28T13:13:00.000Z",
+      "turn_count": 24,
+      "status": "closed",
+      "focus": "Things have been busy since we last talked, and I ended up having one of those v",
+      "summary": "That is exactly it, annoying but not catastrophic",
+      "tags": [
+        "summer-camp-fee-surprise",
+        "budget-rebalancing",
+        "convenience-dinner-reduction",
+        "grocery-cost-tightening",
+        "monthly-cushion-squeeze",
+        "single-parent-financial-discipline"
+      ],
+      "tone": "mixed",
+      "open_loops": [],
+      "decisions": [
+        "Danielle's monthly cushion tightened after Mateo's summer camp posted a surprise fee increase and a second payment due d"
+      ],
+      "strands": [
+        "summer-camp-fee-surprise",
+        "budget-rebalancing",
+        "convenience-dinner-reduction",
+        "grocery-cost-tightening",
+        "monthly-cushion-squeeze",
+        "single-parent-financial-discipline"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2022-07-22-0630",
+      "date": "2022-07-22",
+      "start": "2022-07-22T06:30:00.000Z",
+      "end": "2022-07-22T07:44:00.000Z",
+      "turn_count": 26,
+      "status": "closed",
+      "focus": "A lot has shifted lately, and work got hit with the kind of problem that changes",
+      "summary": "The first thing was admitting the summer rollout was not ready for full expansion under real heat st",
+      "tags": [
+        "walk-in-freezer-failures",
+        "heat-wave-crisis",
+        "expansion-to-resilience-pivot",
+        "emergency-freezer-risk-list",
+        "transfer-readiness-triage",
+        "equipment-reliability-concern"
+      ],
+      "tone": "negative",
+      "open_loops": [],
+      "decisions": [
+        "After two campus walk-in freezers failed during a July heat wave, Danielle halted the planned districtwide freezer-mappi",
+        "Danielle became more strained and self-protective after the heat wave and freezer failures because she now worries equip"
+      ],
+      "strands": [
+        "walk-in-freezer-failures",
+        "heat-wave-crisis",
+        "expansion-to-resilience-pivot",
+        "emergency-freezer-risk-list",
+        "transfer-readiness-triage",
+        "equipment-reliability-concern"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2022-08-09-0140",
+      "date": "2022-08-09",
+      "start": "2022-08-09T01:40:00.000Z",
+      "end": "2022-08-09T03:06:00.000Z",
+      "turn_count": 30,
+      "status": "closed",
+      "focus": "Things have been pretty packed lately, and I ended up stumbling into something s",
+      "summary": "Yes, exactly",
+      "tags": [
+        "library-family-movie-morning",
+        "low-friction-community-outings",
+        "animated-film-appreciation",
+        "back-to-school-decompression",
+        "budget-friendly-entertainment",
+        "mateo-quality-time-routine"
+      ],
+      "tone": "positive",
+      "open_loops": [],
+      "decisions": [
+        "After a library family movie morning with Mateo, Danielle became more enthusiastic about animated films and community sc"
+      ],
+      "strands": [
+        "library-family-movie-morning",
+        "low-friction-community-outings",
+        "animated-film-appreciation",
+        "back-to-school-decompression",
+        "budget-friendly-entertainment",
+        "mateo-quality-time-routine"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2022-09-03-0855",
+      "date": "2022-09-03",
+      "start": "2022-09-03T08:55:00.000Z",
+      "end": "2022-09-03T10:16:00.000Z",
+      "turn_count": 28,
+      "status": "closed",
+      "focus": "A lot has shifted lately, and I finally feel like work is moving out of pure rea",
+      "summary": "Honestly the buddy kitchens changed the tone fastest",
+      "tags": [
+        "buddy-kitchen-pairing-system",
+        "fall-reliability-plan",
+        "kid-acceptable-substitution-chart",
+        "vendor-scorecard-development",
+        "high-risk-campus-triage",
+        "named-contingency-operating-relationships"
+      ],
+      "tone": "positive",
+      "open_loops": [],
+      "decisions": [
+        "Danielle's role has shifted from an emergency freezer-risk and transfer-priority response into a structured fall reliabi"
+      ],
+      "strands": [
+        "buddy-kitchen-pairing-system",
+        "fall-reliability-plan",
+        "kid-acceptable-substitution-chart",
+        "vendor-scorecard-development",
+        "high-risk-campus-triage",
+        "named-contingency-operating-relationships"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2022-10-12-1020",
+      "date": "2022-10-12",
+      "start": "2022-10-12T10:20:00.000Z",
+      "end": "2022-10-12T11:34:00.000Z",
+      "turn_count": 26,
+      "status": "closed",
+      "focus": "A lot has been shifting lately, and one thing I finally fixed was the after-scho",
+      "summary": "She actually looked relieved, which made me realize she was probably just as tired of the vague chec",
+      "tags": [
+        "eleanor-pickup-pouch-system",
+        "spare-key-trust-signal",
+        "school-calendar-backup",
+        "after-school-logistics-structure",
+        "late-delivery-contingency",
+        "home-systems-thinking"
+      ],
+      "tone": "positive",
+      "open_loops": [],
+      "decisions": [
+        "Danielle formalized her late-delivery pickup backup with Eleanor by giving her a labeled pouch containing a printed scho"
+      ],
+      "strands": [
+        "eleanor-pickup-pouch-system",
+        "spare-key-trust-signal",
+        "school-calendar-backup",
+        "after-school-logistics-structure",
+        "late-delivery-contingency",
+        "home-systems-thinking"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2022-11-20-0610",
+      "date": "2022-11-20",
+      "start": "2022-11-20T06:10:00.000Z",
+      "end": "2022-11-20T07:31:00.000Z",
+      "turn_count": 28,
+      "status": "closed",
+      "focus": "A lot has been shifting lately, and this feels like one of those moments where t",
+      "summary": "Honestly, both, but if I had to pick, leadership first",
+      "tags": [
+        "semester-evidence-memo",
+        "district-playbook-drafting",
+        "fall-scorecard-results",
+        "emergency-call-reduction-data",
+        "freezer-photo-evidence",
+        "substitution-examples-in-packet"
+      ],
+      "tone": "positive",
+      "open_loops": [],
+      "decisions": [
+        "Danielle shifted from the fall pilot reliability plan to drafting a districtwide written playbook backed by semester dat"
+      ],
+      "strands": [
+        "semester-evidence-memo",
+        "district-playbook-drafting",
+        "fall-scorecard-results",
+        "emergency-call-reduction-data",
+        "freezer-photo-evidence",
+        "substitution-examples-in-packet"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2022-12-14-0830",
+      "date": "2022-12-14",
+      "start": "2022-12-14T08:30:00.000Z",
+      "end": "2022-12-14T09:51:00.000Z",
+      "turn_count": 28,
+      "status": "closed",
+      "focus": "Things have been a little calmer lately, at least compared to the stretch before",
+      "summary": "Honestly, all three",
+      "tags": [
+        "green-chile-breakfast-burrito",
+        "warehouse-morning-ritual",
+        "cafeteria-fundraiser-discovery",
+        "intentional-morning-food-routine",
+        "dependable-food-over-perfect-food",
+        "small-daily-joy"
+      ],
+      "tone": "positive",
+      "open_loops": [],
+      "decisions": [
+        "Danielle became especially loyal to green chile breakfast burritos from a local stand and now treats them as her preferr"
+      ],
+      "strands": [
+        "green-chile-breakfast-burrito",
+        "warehouse-morning-ritual",
+        "cafeteria-fundraiser-discovery",
+        "intentional-morning-food-routine",
+        "dependable-food-over-perfect-food",
+        "small-daily-joy"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2023-01-21-0105",
+      "date": "2023-01-21",
+      "start": "2023-01-21T01:05:00.000Z",
+      "end": "2023-01-21T02:26:00.000Z",
+      "turn_count": 28,
+      "status": "closed",
+      "focus": "A lot has shifted lately, in a good way for once. The biggest thing is that at t",
+      "summary": "I think timing helped, but also the fact that I stopped pitching it like a big abstract fix",
+      "tags": [
+        "monthly-kitchen-logistics-huddle",
+        "district-playbook-drafting-begins",
+        "victor-and-shawna-collaboration",
+        "substitution-threshold-standardization",
+        "warehouse-campus-meeting-space",
+        "cross-campus-feedback-loop-container"
+      ],
+      "tone": "positive",
+      "open_loops": [],
+      "decisions": [
+        "Danielle is now leading monthly kitchen logistics huddles that are turning her semester memo into a draft district nutri"
+      ],
+      "strands": [
+        "monthly-kitchen-logistics-huddle",
+        "district-playbook-drafting-begins",
+        "victor-and-shawna-collaboration",
+        "substitution-threshold-standardization",
+        "warehouse-campus-meeting-space",
+        "cross-campus-feedback-loop-container"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2023-02-27-1240",
+      "date": "2023-02-27",
+      "start": "2023-02-27T12:40:00.000Z",
+      "end": "2023-02-27T13:54:00.000Z",
+      "turn_count": 26,
+      "status": "closed",
+      "focus": "Things have been busy lately, and I realized one of the smaller changes from thi",
+      "summary": "I think it is the familiarity first",
+      "tags": [
+        "90s-r-and-b-commute-playlist",
+        "priya-emotional-support",
+        "post-huddle-decompression",
+        "commute-recovery-practice",
+        "stress-management-through-music",
+        "transition-ritual-discovery"
+      ],
+      "tone": "mixed",
+      "open_loops": [],
+      "decisions": [
+        "After Priya sent her a commute playlist, Danielle started leaning more heavily on late 1990s and early 2000s R&B as her "
+      ],
+      "strands": [
+        "90s-r-and-b-commute-playlist",
+        "priya-emotional-support",
+        "post-huddle-decompression",
+        "commute-recovery-practice",
+        "stress-management-through-music",
+        "transition-ritual-discovery"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2023-03-24-0535",
+      "date": "2023-03-24",
+      "start": "2023-03-24T05:35:00.000Z",
+      "end": "2023-03-24T06:49:00.000Z",
+      "turn_count": 26,
+      "status": "closed",
+      "focus": "A lot has been shifting lately, and one work thing finally turned a corner in a ",
+      "summary": "Mostly the times",
+      "tags": [
+        "vendor-timestamp-dispute",
+        "dock-sheet-verification",
+        "dual-timestamp-proof",
+        "scorecard-credibility-defense",
+        "reliability-framing-over-blame",
+        "evidence-strengthening-under-pressure"
+      ],
+      "tone": "mixed",
+      "open_loops": [],
+      "decisions": [
+        "Danielle strengthened the district nutrition reliability playbook by validating vendor arrival timestamps against both d"
+      ],
+      "strands": [
+        "vendor-timestamp-dispute",
+        "dock-sheet-verification",
+        "dual-timestamp-proof",
+        "scorecard-credibility-defense",
+        "reliability-framing-over-blame",
+        "evidence-strengthening-under-pressure"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2023-05-02-0055",
+      "date": "2023-05-02",
+      "start": "2023-05-02T00:55:00.000Z",
+      "end": "2023-05-02T02:03:00.000Z",
+      "turn_count": 24,
+      "status": "closed",
+      "focus": "A lot has been shifting lately, and one thing that really hit me this week was w",
+      "summary": "The pickup plan shifted later than I expected because work was still active, and I had to pivot whil",
+      "tags": [
+        "mateo-schedule-anxiety",
+        "laminated-weekly-routine-card",
+        "pickup-uncertainty-impact",
+        "explicit-parenting-language",
+        "child-communication-adjustment",
+        "emotional-security-through-predictability"
+      ],
+      "tone": "mixed",
+      "open_loops": [],
+      "decisions": [
+        "Mateo has become more aware of schedule disruptions, so Danielle now uses a laminated weekly routine card and explicit p"
+      ],
+      "strands": [
+        "mateo-schedule-anxiety",
+        "laminated-weekly-routine-card",
+        "pickup-uncertainty-impact",
+        "explicit-parenting-language",
+        "child-communication-adjustment",
+        "emotional-security-through-predictability"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2023-06-16-0320",
+      "date": "2023-06-16",
+      "start": "2023-06-16T03:20:00.000Z",
+      "end": "2023-06-16T04:41:00.000Z",
+      "turn_count": 28,
+      "status": "closed",
+      "focus": "A lot has shifted lately, and this feels like one of the bigger turns in that wh",
+      "summary": "Probably the training, honestly",
+      "tags": [
+        "districtwide-freezer-map-standard",
+        "substitution-matrix-training",
+        "manager-training-sessions",
+        "child-acceptance-criteria",
+        "storage-labor-kid-triangle",
+        "work-standardization-milestone"
+      ],
+      "tone": "positive",
+      "open_loops": [],
+      "decisions": [
+        "Danielle won summer approval to standardize districtwide freezer-capacity maps and manager training on a substitution ma"
+      ],
+      "strands": [
+        "districtwide-freezer-map-standard",
+        "substitution-matrix-training",
+        "manager-training-sessions",
+        "child-acceptance-criteria",
+        "storage-labor-kid-triangle",
+        "work-standardization-milestone"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2023-07-30-1015",
+      "date": "2023-07-30",
+      "start": "2023-07-30T10:15:00.000Z",
+      "end": "2023-07-30T11:41:00.000Z",
+      "turn_count": 30,
+      "status": "closed",
+      "focus": "Things have been busy for a while, but I finally had one weekend where I could b",
+      "summary": "Honestly, the manageability was the whole thing",
+      "tags": [
+        "prescott-overnight-trip",
+        "low-friction-travel-style",
+        "arizona-in-state-getaways",
+        "mateo-bonding-time",
+        "priya-borrowed-chairs",
+        "simplicity-over-spectacle-travel-mindset"
+      ],
+      "tone": "positive",
+      "open_loops": [],
+      "decisions": [
+        "Danielle's travel preference sharpened from generally taking short Arizona trips to intentionally planning small Arizona"
+      ],
+      "strands": [
+        "prescott-overnight-trip",
+        "low-friction-travel-style",
+        "arizona-in-state-getaways",
+        "mateo-bonding-time",
+        "priya-borrowed-chairs",
+        "simplicity-over-spectacle-travel-mindset"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2023-09-07-0745",
+      "date": "2023-09-07",
+      "start": "2023-09-07T07:45:00.000Z",
+      "end": "2023-09-07T09:06:00.000Z",
+      "turn_count": 28,
+      "status": "closed",
+      "focus": "A lot has been shifting lately, and one big thing at work finally moved out of p",
+      "summary": "More from the stale maps, honestly",
+      "tags": [
+        "districtwide-rollout-complete",
+        "freezer-map-template-live",
+        "substitution-matrix-active",
+        "stale-map-flagging-system",
+        "compliance-drift-management",
+        "live-operational-responsibility"
+      ],
+      "tone": "positive",
+      "open_loops": [],
+      "decisions": [
+        "Danielle has moved from approval into full rollout, with districtwide freezer maps and substitution-matrix tracking now "
+      ],
+      "strands": [
+        "districtwide-rollout-complete",
+        "freezer-map-template-live",
+        "substitution-matrix-active",
+        "stale-map-flagging-system",
+        "compliance-drift-management",
+        "live-operational-responsibility"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2023-10-21-2325",
+      "date": "2023-10-21",
+      "start": "2023-10-21T23:25:00.000Z",
+      "end": "2023-10-22T00:39:00.000Z",
+      "turn_count": 26,
+      "status": "closed",
+      "focus": "Things have been busy in that same general stretch of life, and I finally had to",
+      "summary": "Honestly, it was the pattern more than one dramatic moment",
+      "tags": [
+        "telehealth-counseling-start",
+        "waking-up-tense-pattern",
+        "work-stress-evening-spillover",
+        "shutdown-routine-development",
+        "boundary-setting-in-early-stages",
+        "stress-as-operational-problem"
+      ],
+      "tone": "mixed",
+      "open_loops": [],
+      "decisions": [
+        "Danielle began brief telehealth counseling after realizing the districtwide rollout was leaving her waking up tense and"
+      ],
+      "strands": [
+        "telehealth-counseling-start",
+        "waking-up-tense-pattern",
+        "work-stress-evening-spillover",
+        "shutdown-routine-development",
+        "boundary-setting-in-early-stages",
+        "stress-as-operational-problem"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2023-12-08-0405",
+      "date": "2023-12-08",
+      "start": "2023-12-08T04:05:00.000Z",
+      "end": "2023-12-08T05:31:00.000Z",
+      "turn_count": 30,
+      "status": "closed",
+      "focus": "A lot has shifted since we last talked, in a good way for once. The big thing is",
+      "summary": "That question was exactly the issue, because I did not want a document that only makes sense if I'm ",
+      "tags": [
+        "district-playbook-draft",
+        "map-refresh-deadlines",
+        "overflow-transfer-steps",
+        "vendor-escalation-contacts",
+        "fewer-than-three-substitution-target",
+        "one-page-decision-tree"
+      ],
+      "tone": "positive",
+      "open_loops": [],
+      "decisions": [
+        "Danielle's occupation status updated from a districtwide freezer-map and substitution-tracking rollout to a formal logis"
+      ],
+      "strands": [
+        "district-playbook-draft",
+        "map-refresh-deadlines",
+        "overflow-transfer-steps",
+        "vendor-escalation-contacts",
+        "fewer-than-three-substitution-target",
+        "one-page-decision-tree"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2024-01-29-0700",
+      "date": "2024-01-29",
+      "start": "2024-01-29T07:00:00.000Z",
+      "end": "2024-01-29T08:26:00.000Z",
+      "turn_count": 30,
+      "status": "closed",
+      "focus": "It has been a pretty steady stretch lately, which honestly feels strange in a go",
+      "summary": "Exactly, impossible is the word that softened",
+      "tags": [
+        "school-robotics-event",
+        "calm-small-dog-possibility",
+        "future-imagination-signal",
+        "life-steadiness-indicator",
+        "practical-parenting-conversation",
+        "optional-thought-capacity"
+      ],
+      "tone": "positive",
+      "open_loops": [],
+      "decisions": [
+        "Danielle still does not want a pet right now, but she is slightly more open to the idea of a calm small dog years later "
+      ],
+      "strands": [
+        "school-robotics-event",
+        "calm-small-dog-possibility",
+        "future-imagination-signal",
+        "life-steadiness-indicator",
+        "practical-parenting-conversation",
+        "optional-thought-capacity"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2024-03-13-0230",
+      "date": "2024-03-13",
+      "start": "2024-03-13T02:30:00.000Z",
+      "end": "2024-03-13T03:44:00.000Z",
+      "turn_count": 26,
+      "status": "closed",
+      "focus": "A lot has shifted at work since we last talked, even though on paper it looked l",
+      "summary": "It started with a storage mismatch that could have become a delivery mess if nobody caught it",
+      "tags": [
+        "quarterly-verification-visits",
+        "stale-map-detection",
+        "staffing-turnover-risk",
+        "manager-signoff-process",
+        "photo-checks-and-notes",
+        "accountability-layer-addition"
+      ],
+      "tone": "mixed",
+      "open_loops": [],
+      "decisions": [
+        "Danielle updated her district nutrition playbook to require quarterly freezer-map verification visits with photo checks"
+      ],
+      "strands": [
+        "quarterly-verification-visits",
+        "stale-map-detection",
+        "staffing-turnover-risk",
+        "manager-signoff-process",
+        "photo-checks-and-notes",
+        "accountability-layer-addition"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2024-06-04-1310",
+      "date": "2024-06-04",
+      "start": "2024-06-04T13:10:00.000Z",
+      "end": "2024-06-04T14:31:00.000Z",
+      "turn_count": 28,
+      "status": "closed",
+      "focus": "A lot has shifted lately, even if it does not look dramatic from the outside. On",
+      "summary": "Yes, exactly",
+      "tags": [
+        "district-step-increase",
+        "emergency-cushion-building",
+        "grocery-inflation-impact",
+        "camp-deposit-protection",
+        "flexibility-money-concept",
+        "cautious-financial-progress"
+      ],
+      "tone": "positive",
+      "open_loops": [],
+      "decisions": [
+        "Danielle got a modest district salary step increase and now keeps a slightly better emergency cushion, even though her b"
+      ],
+      "strands": [
+        "district-step-increase",
+        "emergency-cushion-building",
+        "grocery-inflation-impact",
+        "camp-deposit-protection",
+        "flexibility-money-concept",
+        "cautious-financial-progress"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2024-09-19-0650",
+      "date": "2024-09-19",
+      "start": "2024-09-19T06:50:00.000Z",
+      "end": "2024-09-19T08:04:00.000Z",
+      "turn_count": 26,
+      "status": "closed",
+      "focus": "A lot has shifted at work lately, in a way that feels bigger than just cleaning ",
+      "summary": "Better than I expected, honestly",
+      "tags": [
+        "semester-reliability-reports",
+        "vendor-on-time-metric-standardization",
+        "substitution-count-clustering",
+        "overflow-incident-tracking",
+        "cluster-level-analysis",
+        "system-pattern-identification"
+      ],
+      "tone": "positive",
+      "open_loops": [],
+      "decisions": [
+        "Danielle's district nutrition logistics role now includes issuing semester reliability reports that connect vendor on-ti"
+      ],
+      "strands": [
+        "semester-reliability-reports",
+        "vendor-on-time-metric-standardization",
+        "substitution-count-clustering",
+        "overflow-incident-tracking",
+        "cluster-level-analysis",
+        "system-pattern-identification"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2025-02-11-1005",
+      "date": "2025-02-11",
+      "start": "2025-02-11T10:05:00.000Z",
+      "end": "2025-02-11T11:26:00.000Z",
+      "turn_count": 28,
+      "status": "closed",
+      "focus": "Things have been busy since we last talked, and not in some dramatic way, just t",
+      "summary": "The first thing was bins, because I needed categories before I could make any other decision",
+      "tags": [
+        "second-bedroom-reorganization",
+        "labeled-bin-system",
+        "narrower-desk-upgrade",
+        "stacked-pantry-shelves",
+        "morning-routine-improvement",
+        "small-space-functional-design"
+      ],
+      "tone": "positive",
+      "open_loops": [],
+      "decisions": [
+        "Danielle still lives with Mateo in the same two-bedroom condo near the warehouse corridor, but the reorganized layout no"
+      ],
+      "strands": [
+        "second-bedroom-reorganization",
+        "labeled-bin-system",
+        "narrower-desk-upgrade",
+        "stacked-pantry-shelves",
+        "morning-routine-improvement",
+        "small-space-functional-design"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2025-10-24-0515",
+      "date": "2025-10-24",
+      "start": "2025-10-24T05:15:00.000Z",
+      "end": "2025-10-24T06:36:00.000Z",
+      "turn_count": 28,
+      "status": "closed",
+      "focus": "It has been a while since we talked, and a lot has shifted at work in a good way",
+      "summary": "Honestly, the semester numbers gave me the nerve to do it",
+      "tags": [
+        "district-logistics-playbook-delivered",
+        "vendor-mid-90s-on-time",
+        "emergency-substitution-reduction",
+        "buddy-kitchen-route-implementation",
+        "photo-standard-verification",
+        "stewardship-over-persuasion-shift"
+      ],
+      "tone": "positive",
+      "open_loops": [],
+      "decisions": [
+        "Danielle completed the district nutrition logistics playbook as a working operating packet that campuses are already usi",
+        "The smoother semester left Danielle less constantly braced for crisis and more confident that kitchens were no longer im"
+      ],
+      "strands": [
+        "district-logistics-playbook-delivered",
+        "vendor-mid-90s-on-time",
+        "emergency-substitution-reduction",
+        "buddy-kitchen-route-implementation",
+        "photo-standard-verification",
+        "stewardship-over-persuasion-shift"
+      ],
+      "needs_marking": false
+    }
+  ]
+}

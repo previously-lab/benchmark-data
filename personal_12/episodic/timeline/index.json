@@ -1,0 +1,1214 @@
+{
+  "_schema": 1,
+  "updated_at": "2026-08-17T16:21:34.072Z",
+  "slice_count": 30,
+  "needs_marking": 0,
+  "slices": [
+    {
+      "id": "2022-01-08-0200",
+      "date": "2022-01-08",
+      "start": "2022-01-08T02:00:00.000Z",
+      "end": "2022-01-08T03:21:00.000Z",
+      "turn_count": 28,
+      "status": "closed",
+      "focus": "Ariana shares her full life story for the first time",
+      "summary": "Ariana Celeste Batiste introduces herself: 34-year-old archivist at Tremé Heritage Center, ISFJ, partnered with Devon Landry, living in a New Orleans shotgun house. Her mission is to preserve 450+ neighborhood oral histories with verified permissions and metadata.",
+      "tags": [
+        "self-introduction",
+        "personal-background",
+        "archivist-identity",
+        "oral-history-mission",
+        "new-orleans-roots",
+        "treme-heritage-center",
+        "community-preservation",
+        "life-priorities"
+      ],
+      "tone": "positive",
+      "open_loops": [
+        "Turning 450-recording goal into measurable milestones",
+        "Building sustainable archive infrastructure beyond personal effort",
+        "Managing eczema and stress while pursuing ambitious preservation work"
+      ],
+      "decisions": [],
+      "strands": [
+        "self-introduction",
+        "personal-background",
+        "archivist-identity",
+        "oral-history-mission",
+        "new-orleans-roots",
+        "treme-heritage-center",
+        "community-preservation",
+        "life-priorities"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2022-01-23-0840",
+      "date": "2022-01-23",
+      "start": "2022-01-23T08:40:00.000Z",
+      "end": "2022-01-23T09:54:00.000Z",
+      "turn_count": 26,
+      "status": "closed",
+      "focus": "Ariana discovers mold in an oral-history storage closet and launches an emergency review",
+      "summary": "Ariana opens a catch-all closet at work and finds mixed-format recordings with mold, bad labels, and no chain of custody. She pushes to lead a two-week emergency stabilization review, shifting from intake work to preservation triage.",
+      "tags": [
+        "mold-discovery",
+        "emergency-stabilization",
+        "archive-crisis",
+        "storage-triage",
+        "preservation-advocacy",
+        "workplace-leadership",
+        "blunt-communication",
+        "clifton-roussel"
+      ],
+      "tone": "mixed",
+      "open_loops": [
+        "Writing emergency memo with three-bucket framework (damage, confusion, storage)",
+        "Asking Clifton for protected hours after the review ends",
+        "Ensuring stabilization decisions stick rather than being treated as temporary"
+      ],
+      "decisions": [
+        "Ariana became the de facto lead on a two week emergency oral history stabilization review at Tremé Heritage Center inste",
+        "Seeing the actual condition of the collection made Ariana feel grimly validated that her long standing fears about loss"
+      ],
+      "strands": [
+        "mold-discovery",
+        "emergency-stabilization",
+        "archive-crisis",
+        "storage-triage",
+        "preservation-advocacy",
+        "workplace-leadership",
+        "blunt-communication",
+        "clifton-roussel"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2022-02-11-1110",
+      "date": "2022-02-11",
+      "start": "2022-02-11T11:10:00.000Z",
+      "end": "2022-02-11T12:36:00.000Z",
+      "turn_count": 30,
+      "status": "closed",
+      "focus": "Ariana discovers place-based memoir and food writing as a restorative alternative to work reading",
+      "summary": "After a tense period, Ariana visits Janelle, borrows a Gulf Coast foodways essay collection, and realizes she needs non-work reading by her bedside. She plans a small book basket for companionable books and asks Janelle for more recommendations.",
+      "tags": [
+        "friendship-with-janelle",
+        "self-care-through-reading",
+        "place-based-memoir",
+        "gulf-south-food-writing",
+        "bedtime-reading-habits",
+        "rest-beyond-productivity",
+        "companionable-books",
+        "accepting-help"
+      ],
+      "tone": "positive",
+      "open_loops": [
+        "Creating a small bedside basket for companionable reading",
+        "Asking Janelle for a short list of similar essay collections",
+        "Maintaining the boundary between work-reading and rest-reading"
+      ],
+      "decisions": [
+        "Ariana's bedside stack expanded from oral-history collections, local history, and preservation guides to include more pl"
+      ],
+      "strands": [
+        "friendship-with-janelle",
+        "self-care-through-reading",
+        "place-based-memoir",
+        "gulf-south-food-writing",
+        "bedtime-reading-habits",
+        "rest-beyond-productivity",
+        "companionable-books",
+        "accepting-help"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2022-03-07-0330",
+      "date": "2022-03-07",
+      "start": "2022-03-07T03:30:00.000Z",
+      "end": "2022-03-07T04:38:00.000Z",
+      "turn_count": 24,
+      "status": "closed",
+      "focus": "Ariana wins a small preservation grant and moves from emergency mode to funded action",
+      "summary": "Ariana secures a local preservation grant covering archival boxes, dehumidifying supplies, and a part-time metadata assistant. Her role shifts from emergency reviewer to grant-backed project lead with a cataloging push and supply purchases.",
+      "tags": [
+        "grant-success",
+        "preservation-funding",
+        "metadata-assistant-hiring",
+        "archival-supplies",
+        "leadership-expansion",
+        "evidence-based-advocacy",
+        "stabilization-phase",
+        "felicia-mercer"
+      ],
+      "tone": "positive",
+      "open_loops": [
+        "Drafting metadata template and assistant task list before the grant push starts",
+        "Defining success metrics for the short-term cataloging push",
+        "Building permissions tracking into the metadata workflow alongside physical stabilization"
+      ],
+      "decisions": [
+        "Ariana was now leading a grant-backed oral-history stabilization and cataloging push at Tremé Heritage Center, coordinat",
+        "Her personal finances were still tight, but the work grant reduced pressure by covering supplies and limited hourly help"
+      ],
+      "strands": [
+        "grant-success",
+        "preservation-funding",
+        "metadata-assistant-hiring",
+        "archival-supplies",
+        "leadership-expansion",
+        "evidence-based-advocacy",
+        "stabilization-phase",
+        "felicia-mercer"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2022-03-29-0620",
+      "date": "2022-03-29",
+      "start": "2022-03-29T06:20:00.000Z",
+      "end": "2022-03-29T07:41:00.000Z",
+      "turn_count": 28,
+      "status": "closed",
+      "focus": "Ariana sees a dermatologist for worsening eczema tied to archive work conditions",
+      "summary": "Ariana's knuckles crack from dust and repetitive handling during the grant-funded push. A dermatologist prescribes a structured steroid-ointment routine and cotton gloves. She plans to ask work for practical adjustments to reduce dust exposure and repetitive strain.",
+      "tags": [
+        "eczema-flare",
+        "dermatologist-visit",
+        "hand-cracking",
+        "dust-exposure",
+        "cotton-gloves",
+        "workplace-accommodation",
+        "stress-and-skin",
+        "steroid-ointment"
+      ],
+      "tone": "mixed",
+      "open_loops": [
+        "Asking work for practical adjustments (shorter dusty blocks, station supplies)",
+        "Building a consistent ointment-and-gloves night routine",
+        "Preparing a three-line work conversation about the dermatologist findings"
+      ],
+      "decisions": [
+        "Her eczema now has a more structured treatment plan for hand flares after the dermatologist visit, replacing her earlier"
+      ],
+      "strands": [
+        "eczema-flare",
+        "dermatologist-visit",
+        "hand-cracking",
+        "dust-exposure",
+        "cotton-gloves",
+        "workplace-accommodation",
+        "stress-and-skin",
+        "steroid-ointment"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2022-04-18-0950",
+      "date": "2022-04-18",
+      "start": "2022-04-18T09:50:00.000Z",
+      "end": "2022-04-18T10:58:00.000Z",
+      "turn_count": 24,
+      "status": "closed",
+      "focus": "Ariana replaces informal intake with a formal packet requiring signed permissions and minimum metadata",
+      "summary": "Ariana designs and enforces a formal intake packet with signed permissions, narrator contact sheets, and a minimum metadata checklist. She redefines 'processed' to exclude half-documented material and creates a holding log for incoming items.",
+      "tags": [
+        "permissions-overhaul",
+        "intake-reform",
+        "metadata-checklist",
+        "narrator-contact-sheet",
+        "workflow-standardization",
+        "felicia-mercer",
+        "archival-leadership",
+        "holding-log"
+      ],
+      "tone": "positive",
+      "open_loops": [
+        "Finalizing the one-pager explaining what 'processed' now means",
+        "Building the holding log for incoming material awaiting completion",
+        "Training staff and the assistant on the new packet system"
+      ],
+      "decisions": [
+        "Ariana tightened Tremé Heritage Center's oral-history workflow by replacing the old casual intake habit with a formal pa"
+      ],
+      "strands": [
+        "permissions-overhaul",
+        "intake-reform",
+        "metadata-checklist",
+        "narrator-contact-sheet",
+        "workflow-standardization",
+        "felicia-mercer",
+        "archival-leadership",
+        "holding-log"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2022-05-09-1215",
+      "date": "2022-05-09",
+      "start": "2022-05-09T12:15:00.000Z",
+      "end": "2022-05-09T13:36:00.000Z",
+      "turn_count": 28,
+      "status": "closed",
+      "focus": "Devon confronts Ariana about work occupying every room at home",
+      "summary": "Devon tells Ariana her archive work has taken over the house. They negotiate two archive-free evenings per week, no donor calls during band-concert nights, and a clear-dinner-table rule. The relationship emerges with firmer, healthier boundaries.",
+      "tags": [
+        "relationship-boundaries",
+        "work-creep-at-home",
+        "devon-landry",
+        "archive-free-evenings",
+        "shared-time-protection",
+        "band-concert-nights",
+        "dinner-table-boundary",
+        "partnership-renegotiation"
+      ],
+      "tone": "mixed",
+      "open_loops": [
+        "Sustaining the two archive-free evenings per week consistently",
+        "Building a table-clearing ritual before protected evenings",
+        "Resetting expectations with work contacts about evening availability"
+      ],
+      "decisions": [
+        "Ariana is still partnered with Devon, but their relationship now has clearer boundaries around work taking over home lif",
+        "Devon remains a supportive partner and public school band director, but he pushed Ariana for firmer boundaries after con"
+      ],
+      "strands": [
+        "relationship-boundaries",
+        "work-creep-at-home",
+        "devon-landry",
+        "archive-free-evenings",
+        "shared-time-protection",
+        "band-concert-nights",
+        "dinner-table-boundary",
+        "partnership-renegotiation"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2022-06-21-0410",
+      "date": "2022-06-21",
+      "start": "2022-06-21T04:10:00.000Z",
+      "end": "2022-06-21T05:18:00.000Z",
+      "turn_count": 24,
+      "status": "closed",
+      "focus": "Ariana launches a weekend recording circuit with elders around Claiborne Avenue",
+      "summary": "Ariana starts a structured weekend recording campaign with elders near Claiborne, using family introductions from Marcus and Lorraine. She does on-site intake with the full packet and portable recorder, capping weekends to avoid new backlogs.",
+      "tags": [
+        "field-recording",
+        "weekend-interview-circuit",
+        "claiborne-corridor",
+        "trust-network",
+        "portable-recorder-kit",
+        "marcus-batiste",
+        "lorraine-batiste",
+        "clean-intake-standard"
+      ],
+      "tone": "positive",
+      "open_loops": [
+        "Creating a one-page field checklist from early learnings",
+        "Designing a referral sheet to capture leads without same-day obligation",
+        "Reviewing the pilot phase before expanding to more blocks"
+      ],
+      "decisions": [
+        "Ariana's archive role expanded from stricter internal cataloging into an active neighborhood oral-history campaign with "
+      ],
+      "strands": [
+        "field-recording",
+        "weekend-interview-circuit",
+        "claiborne-corridor",
+        "trust-network",
+        "portable-recorder-kit",
+        "marcus-batiste",
+        "lorraine-batiste",
+        "clean-intake-standard"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2022-07-13-0730",
+      "date": "2022-07-13",
+      "start": "2022-07-13T07:30:00.000Z",
+      "end": "2022-07-13T08:56:00.000Z",
+      "turn_count": 30,
+      "status": "closed",
+      "focus": "Ariana realizes milder seafood dishes help her eczema during stress and humidity",
+      "summary": "At a family cookout, Ariana eats a mild shrimp stew meant for kids and notices her skin feels less inflamed afterward. She decides to choose gentler, less pepper-heavy meals when stress and eczema are both high.",
+      "tags": [
+        "milder-seafood",
+        "eczema-food-triggers",
+        "spice-sensitivity",
+        "cookout-discovery",
+        "body-awareness",
+        "practical-self-care",
+        "pepper-intensity",
+        "family-wisdom"
+      ],
+      "tone": "positive",
+      "open_loops": [
+        "Asking her aunt for the mild shrimp stew recipe",
+        "Building a short rotation of mild, low-effort lunches",
+        "Testing whether spice reduction helps broadly or only with seafood"
+      ],
+      "decisions": [
+        "Ariana started favoring milder seafood stews and less pepper-heavy meals when stress made her eczema act up."
+      ],
+      "strands": [
+        "milder-seafood",
+        "eczema-food-triggers",
+        "spice-sensitivity",
+        "cookout-discovery",
+        "body-awareness",
+        "practical-self-care",
+        "pepper-intensity",
+        "family-wisdom"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2022-08-28-0105",
+      "date": "2022-08-28",
+      "start": "2022-08-28T01:05:00.000Z",
+      "end": "2022-08-28T02:13:00.000Z",
+      "turn_count": 24,
+      "status": "closed",
+      "focus": "A late-summer AC failure leaves archive materials damp, triggering salvage triage",
+      "summary": "An AC failure leaves one archive room damp for a weekend, making tape boxes clammy. Ariana pauses intake, triages affected materials into rebox vs. monitor categories, and plans an incident memo to push for better climate response protocols.",
+      "tags": [
+        "ac-failure",
+        "humidity-damage",
+        "damp-archive-room",
+        "salvage-triage",
+        "climate-response-gap",
+        "preservation-setback",
+        "incident-memo",
+        "intake-pause"
+      ],
+      "tone": "negative",
+      "open_loops": [
+        "Writing a climate-response checklist for future AC failures",
+        "Completing the salvage log and incident memo",
+        "Determining when to resume normal intake after stabilization"
+      ],
+      "decisions": [
+        "After a late-summer AC failure left one archive room damp for a weekend, Ariana paused parts of the oral-history intake ",
+        "Ariana became exhausted and shaken after the humidity scare, feeling angry but vindicated that climate control remained "
+      ],
+      "strands": [
+        "ac-failure",
+        "humidity-damage",
+        "damp-archive-room",
+        "salvage-triage",
+        "climate-response-gap",
+        "preservation-setback",
+        "incident-memo",
+        "intake-pause"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2022-09-19-1025",
+      "date": "2022-09-19",
+      "start": "2022-09-19T10:25:00.000Z",
+      "end": "2022-09-19T11:51:00.000Z",
+      "turn_count": 30,
+      "status": "closed",
+      "focus": "Ariana falls into the social world of marching-band competitions as a stress refuge",
+      "summary": "Ariana attends a marching-band competition with Devon and becomes fascinated by the parent gossip, director rivalries, and lineup politics. She develops a genuine interest in local band culture over pro sports, keeping it as a light seasonal side interest.",
+      "tags": [
+        "marching-band-competition",
+        "devon-landry",
+        "local-rivalries",
+        "halftime-gossip",
+        "niche-interest",
+        "stress-relief",
+        "shared-experience",
+        "observer-mode"
+      ],
+      "tone": "positive",
+      "open_loops": [
+        "Attending one more competition this season as a bounded interest",
+        "Maintaining the 'no spreadsheet' rule to keep it restorative",
+        "Asking Devon for one or two unwritten rules of the scene"
+      ],
+      "decisions": [
+        "Ariana still loosely follows the Saints, but she now pays more attention to local marching-band rivalries, directors, an"
+      ],
+      "strands": [
+        "marching-band-competition",
+        "devon-landry",
+        "local-rivalries",
+        "halftime-gossip",
+        "niche-interest",
+        "stress-relief",
+        "shared-experience",
+        "observer-mode"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2022-10-14-0245",
+      "date": "2022-10-14",
+      "start": "2022-10-14T02:45:00.000Z",
+      "end": "2022-10-14T03:59:00.000Z",
+      "turn_count": 26,
+      "status": "closed",
+      "focus": "Ariana wins approval for cloud storage, drive rotation, and environmental monitoring",
+      "summary": "Ariana's blunt incident memo leads board approval for off-site cloud storage, a second local hard-drive rotation, and a dedicated environmental monitoring budget. She shifts from rescue mode to building repeatable backup and monitoring routines.",
+      "tags": [
+        "infrastructure-approval",
+        "cloud-storage",
+        "backup-discipline",
+        "environmental-monitoring",
+        "systems-building",
+        "blunt-advocacy",
+        "board-engagement",
+        "three-copy-backup"
+      ],
+      "tone": "positive",
+      "open_loops": [
+        "Writing three one-page procedure sheets for backup, rotation, and room checks",
+        "Setting an initial tight rotation calendar before settling into a sustainable cadence",
+        "Creating a simple monthly record for environmental monitoring budget justification"
+      ],
+      "decisions": [
+        "Ariana moved the oral-history project out of damage control and into a recovery-and-systems-build phase after securing a"
+      ],
+      "strands": [
+        "infrastructure-approval",
+        "cloud-storage",
+        "backup-discipline",
+        "environmental-monitoring",
+        "systems-building",
+        "blunt-advocacy",
+        "board-engagement",
+        "three-copy-backup"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2022-11-22-0515",
+      "date": "2022-11-22",
+      "start": "2022-11-22T05:15:00.000Z",
+      "end": "2022-11-22T06:29:00.000Z",
+      "turn_count": 26,
+      "status": "closed",
+      "focus": "Heavy rain soaks the back room of Ariana's shotgun house, forcing a storage overhaul",
+      "summary": "After another heavy rain makes the back room smell swampy, Devon insists on clearing it out. Ariana and Devon buy shelving risers, switch to sealed bins, and get the landlord to patch the rear wall. Ariana creates a rain checklist to monitor the room.",
+      "tags": [
+        "shotgun-house-dampness",
+        "back-room-mold-risk",
+        "landlord-repair",
+        "sealed-storage",
+        "shelving-risers",
+        "rain-checklist",
+        "home-boundary",
+        "devon-landry"
+      ],
+      "tone": "mixed",
+      "open_loops": [
+        "Creating a rain checklist taped inside the closet door",
+        "Taking inventory of what remains in the back room",
+        "Maintaining a buffer zone along the patched wall"
+      ],
+      "decisions": [
+        "Ariana still rents the shotgun house with Devon and frequent cousin drop-ins, but after repeated rain dampness they clea"
+      ],
+      "strands": [
+        "shotgun-house-dampness",
+        "back-room-mold-risk",
+        "landlord-repair",
+        "sealed-storage",
+        "shelving-risers",
+        "rain-checklist",
+        "home-boundary",
+        "devon-landry"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2023-01-15-0120",
+      "date": "2023-01-15",
+      "start": "2023-01-15T01:20:00.000Z",
+      "end": "2023-01-15T02:28:00.000Z",
+      "turn_count": 24,
+      "status": "closed",
+      "focus": "Ariana builds a neighborhood-level tracking board that makes the archive visible as a program",
+      "summary": "Ariana creates a tracking board organized by named neighborhoods with monthly counts for recorded interviews, complete metadata, signed permissions, and backup compliance. The board shifts her supervisor's view from salvage operation to structured program.",
+      "tags": [
+        "tracking-board",
+        "neighborhood-breakdown",
+        "monthly-counts",
+        "permissions-tracking",
+        "program-visibility",
+        "evidence-based-reporting",
+        "maturity-shift",
+        "next-bottleneck"
+      ],
+      "tone": "positive",
+      "open_loops": [
+        "Creating a one-page monthly summary with a 'next bottleneck' section",
+        "Keeping the board lean to avoid it becoming a second job",
+        "Using the gap between interviews recorded and fully cleared as the key metric"
+      ],
+      "decisions": [
+        "Ariana shifted the oral-history archive from recovery mode into a measurable program with monthly tracking of interview"
+      ],
+      "strands": [
+        "tracking-board",
+        "neighborhood-breakdown",
+        "monthly-counts",
+        "permissions-tracking",
+        "program-visibility",
+        "evidence-based-reporting",
+        "maturity-shift",
+        "next-bottleneck"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2023-02-21-0940",
+      "date": "2023-02-21",
+      "start": "2023-02-21T09:40:00.000Z",
+      "end": "2023-02-21T11:06:00.000Z",
+      "turn_count": 30,
+      "status": "closed",
+      "focus": "Ariana attends a neighborhood film screening and realizes she prefers local films with post-film talks",
+      "summary": "Janelle brings Ariana to a neighborhood screening where the post-film discussion with local elders becomes the highlight. Ariana discovers she prefers Louisiana-made films with community talks over mainstream releases and plans to attend more.",
+      "tags": [
+        "neighborhood-screening",
+        "louisiana-film",
+        "post-film-discussion",
+        "janelle-duplessis",
+        "local-culture",
+        "community-conversation",
+        "pleasure-beyond-productivity",
+        "taste-refinement"
+      ],
+      "tone": "positive",
+      "open_loops": [
+        "Putting one local screening with discussion on the calendar",
+        "Keeping a loose informal note of film recommendations",
+        "Asking 2-3 trusted people for one local film suggestion each month"
+      ],
+      "decisions": [
+        "Ariana now leans even more strongly toward Louisiana-made films and local post-film talks over mainstream releases."
+      ],
+      "strands": [
+        "neighborhood-screening",
+        "louisiana-film",
+        "post-film-discussion",
+        "janelle-duplessis",
+        "local-culture",
+        "community-conversation",
+        "pleasure-beyond-productivity",
+        "taste-refinement"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2023-04-02-0600",
+      "date": "2023-04-02",
+      "start": "2023-04-02T06:00:00.000Z",
+      "end": "2023-04-02T07:26:00.000Z",
+      "turn_count": 30,
+      "status": "closed",
+      "focus": "Ariana and Felicia redesign the permissions packet into tiered access options for families",
+      "summary": "Ariana works with Dr. Felicia Mercer to rewrite the permissions packet into three tiers: reading-room only, short public clips, and full online publication. Previously stalled families re-engage because they have narrower, understandable options.",
+      "tags": [
+        "tiered-permissions",
+        "felicia-mercer",
+        "reading-room-access",
+        "public-clips",
+        "full-online-publication",
+        "informed-consent",
+        "family-trust",
+        "trust-as-infrastructure"
+      ],
+      "tone": "positive",
+      "open_loops": [
+        "Writing a short spoken script for explaining the three tiers at kitchen-table conversations",
+        "Adding access level as a primary field in the tracking board",
+        "Setting up a review pathway so families know choices are not frozen forever"
+      ],
+      "decisions": [
+        "Ariana and Dr. Felicia Mercer revised the oral-history permissions packet into tiered choices for reading-room access, p"
+      ],
+      "strands": [
+        "tiered-permissions",
+        "felicia-mercer",
+        "reading-room-access",
+        "public-clips",
+        "full-online-publication",
+        "informed-consent",
+        "family-trust",
+        "trust-as-infrastructure"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2023-05-14-1205",
+      "date": "2023-05-14",
+      "start": "2023-05-14T12:05:00.000Z",
+      "end": "2023-05-14T13:26:00.000Z",
+      "turn_count": 28,
+      "status": "closed",
+      "focus": "A stacked month of car repairs, prescriptions, and gifts forces Ariana into a metadata contract",
+      "summary": "Devon's expensive car repair, Ariana's prescription refills, and family graduation gifts deplete savings. Ariana picks up a short evening metadata contract for another local history group, absorbing the strain to prevent the household budget from wobbling.",
+      "tags": [
+        "financial-strain",
+        "car-repair",
+        "metadata-contract",
+        "savings-cushion",
+        "evening-work",
+        "prescription-costs",
+        "work-life-imbalance",
+        "temporary-stopgap"
+      ],
+      "tone": "negative",
+      "open_loops": [
+        "Setting a defined container for the contract (hours, end date, schedule)",
+        "Deciding a payment split between savings replenishment and immediate relief",
+        "Having a spoken agreement with Devon about the contract's temporary nature"
+      ],
+      "decisions": [
+        "Ariana's finances tightened again after Devon's car needed an expensive repair in the same month she paid for prescripti"
+      ],
+      "strands": [
+        "financial-strain",
+        "car-repair",
+        "metadata-contract",
+        "savings-cushion",
+        "evening-work",
+        "prescription-costs",
+        "work-life-imbalance",
+        "temporary-stopgap"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2023-06-30-0310",
+      "date": "2023-06-30",
+      "start": "2023-06-30T03:10:00.000Z",
+      "end": "2023-06-30T04:31:00.000Z",
+      "turn_count": 28,
+      "status": "closed",
+      "focus": "Ariana runs the first structured neighborhood listening afternoon, turning public feedback into archive improvements",
+      "summary": "Ariana organizes a neighborhood listening afternoon at the center with cleaned clips, program notes, and a sign-in sheet asking attendees to identify names, corners, and businesses. The event produces corrections, new leads, and a repeatable public programming model.",
+      "tags": [
+        "listening-event",
+        "neighborhood-engagement",
+        "community-feedback",
+        "clip-notes",
+        "crowd-sourced-metadata",
+        "public-programming",
+        "corrections-and-leads",
+        "access-as-preservation"
+      ],
+      "tone": "positive",
+      "open_loops": [
+        "Writing a short internal memo documenting what worked and what feedback came back",
+        "Flagging top 2-3 leads for immediate outreach while social momentum is warm",
+        "Designing a repeatable template with optional clip cards alongside the sign-in sheet"
+      ],
+      "decisions": [
+        "Ariana expanded the Tremé Heritage Center oral-history program into public use by running structured neighborhood listen"
+      ],
+      "strands": [
+        "listening-event",
+        "neighborhood-engagement",
+        "community-feedback",
+        "clip-notes",
+        "crowd-sourced-metadata",
+        "public-programming",
+        "corrections-and-leads",
+        "access-as-preservation"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2023-07-24-0855",
+      "date": "2023-07-24",
+      "start": "2023-07-24T08:55:00.000Z",
+      "end": "2023-07-24T10:09:00.000Z",
+      "turn_count": 26,
+      "status": "closed",
+      "focus": "A family carpool to Lafayette reminds Ariana she needs short regional trips for restoration",
+      "summary": "Ariana rides with cousins to a church anniversary in Lafayette and realizes how much she misses short, low-stakes regional drives. She plans to be more intentional about grabbing nearby getaways with Devon when windows open up.",
+      "tags": [
+        "regional-travel",
+        "family-carpool",
+        "lafayette-church-anniversary",
+        "short-getaways",
+        "rest-and-motion",
+        "devon-landry",
+        "cousin-connections",
+        "low-pressure-escapes"
+      ],
+      "tone": "positive",
+      "open_loops": [
+        "Creating a short standing list of easy destinations (Lafayette, Baton Rouge, Gulf Coast)",
+        "Setting up a Thursday night check-in with Devon for weekend openings",
+        "Preparing a tiny go-bag list to reduce friction for spontaneous trips"
+      ],
+      "decisions": [
+        "Ariana's preference for short regional travel sharpened after a family carpool to Lafayette, making her more intentional"
+      ],
+      "strands": [
+        "regional-travel",
+        "family-carpool",
+        "lafayette-church-anniversary",
+        "short-getaways",
+        "rest-and-motion",
+        "devon-landry",
+        "cousin-connections",
+        "low-pressure-escapes"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2023-09-08-0140",
+      "date": "2023-09-08",
+      "start": "2023-09-08T01:40:00.000Z",
+      "end": "2023-09-08T02:54:00.000Z",
+      "turn_count": 26,
+      "status": "closed",
+      "focus": "Ariana builds a plain-language metadata crosswalk for the public oral-history database",
+      "summary": "Ariana creates a metadata crosswalk translating back-end archival fields into neighborhood search terms (narrator, block, church, school, vanished business). She works with a web contractor to build a searchable database with community pathways.",
+      "tags": [
+        "metadata-crosswalk",
+        "public-discovery",
+        "neighborhood-search",
+        "web-contractor",
+        "database-structure",
+        "community-pathways",
+        "plain-language-access",
+        "design-brief"
+      ],
+      "tone": "positive",
+      "open_loops": [
+        "Writing a short design brief with three sample searches for the contractor",
+        "Creating two one-page guides: search logic and metadata translation",
+        "Starting a running decisions list so the system is not trapped in her head"
+      ],
+      "decisions": [
+        "Ariana was now leading the oral-history project from internal archive management into public discovery by coordinating a"
+      ],
+      "strands": [
+        "metadata-crosswalk",
+        "public-discovery",
+        "neighborhood-search",
+        "web-contractor",
+        "database-structure",
+        "community-pathways",
+        "plain-language-access",
+        "design-brief"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2023-10-27-1035",
+      "date": "2023-10-27",
+      "start": "2023-10-27T10:35:00.000Z",
+      "end": "2023-10-27T11:56:00.000Z",
+      "turn_count": 28,
+      "status": "closed",
+      "focus": "Ariana starts curating archival New Orleans playlists for long metadata sessions",
+      "summary": "After a listening event where people swapped parade songs, Ariana gets a brass band reissue from Clifton and starts curating specific archival New Orleans playlists for metadata cleanup. She plans three task-specific playlists and a song-reference note.",
+      "tags": [
+        "archival-playlists",
+        "brass-band-recordings",
+        "wwoz",
+        "task-focused-music",
+        "listening-event-spillover",
+        "clifton-roussel",
+        "new-orleans-sound",
+        "work-rhythm"
+      ],
+      "tone": "positive",
+      "open_loops": [
+        "Creating three small task-specific playlists (steady entry, relabeling, slow review)",
+        "Keeping a tiny running note for songs people mention after events",
+        "Letting the music habit settle for a few weeks before adding more structure"
+      ],
+      "decisions": [
+        "Ariana started curating more specific archival New Orleans playlists for long metadata sessions instead of relying mostl"
+      ],
+      "strands": [
+        "archival-playlists",
+        "brass-band-recordings",
+        "wwoz",
+        "task-focused-music",
+        "listening-event-spillover",
+        "clifton-roussel",
+        "new-orleans-sound",
+        "work-rhythm"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2024-01-12-0225",
+      "date": "2024-01-12",
+      "start": "2024-01-12T02:25:00.000Z",
+      "end": "2024-01-12T03:51:00.000Z",
+      "turn_count": 30,
+      "status": "closed",
+      "focus": "Ariana wins board approval for a part-time community-access coordinator shared with programming",
+      "summary": "Ariana presents tracking numbers and listening-event evidence to the board, winning approval for a part-time community-access coordinator role. She plans a tight role scope, a handoff list of tasks to stop doing, and a reporting structure that keeps archive work visible.",
+      "tags": [
+        "board-approval",
+        "community-access-coordinator",
+        "staffing-expansion",
+        "evidence-based-advocacy",
+        "role-transition",
+        "public-program-growth",
+        "sustainability-planning",
+        "not-doing-list"
+      ],
+      "tone": "positive",
+      "open_loops": [
+        "Drafting a tight role scope before the position description hardens",
+        "Creating a not-doing list of evening tasks that should transfer to the new role",
+        "Preparing a one-page hiring note preserving the role's archival logic"
+      ],
+      "decisions": [
+        "Ariana won board approval for a part-time community-access coordinator shared with programming, expanding the oral-histo"
+      ],
+      "strands": [
+        "board-approval",
+        "community-access-coordinator",
+        "staffing-expansion",
+        "evidence-based-advocacy",
+        "role-transition",
+        "public-program-growth",
+        "sustainability-planning",
+        "not-doing-list"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2024-02-26-0445",
+      "date": "2024-02-26",
+      "start": "2024-02-26T04:45:00.000Z",
+      "end": "2024-02-26T06:06:00.000Z",
+      "turn_count": 28,
+      "status": "closed",
+      "focus": "Ariana breaks down crying before work and starts short-term counseling for burnout",
+      "summary": "Ariana breaks down crying in her car before work, recognizing she is burned out from carrying the archive expansion plus the metadata contract. She starts short-term counseling focused on burnout, guilt, poor sleep, and the belief that rest endangers others' history.",
+      "tags": [
+        "burnout-crisis",
+        "crying-in-car",
+        "counseling-start",
+        "guilt-and-rest",
+        "sleep-deprivation",
+        "moral-urgency",
+        "overextension",
+        "shutdown-routine"
+      ],
+      "tone": "negative",
+      "open_loops": [
+        "Building an end-of-night shutdown routine to separate work from sleep",
+        "Creating an 'actual urgent vs. emotionally urgent' two-column note",
+        "Setting clearer after-hours limits at work without full disclosure of counseling",
+        "Triage the metadata contract by committed vs. reducible pieces"
+      ],
+      "decisions": [
+        "Counseling is focused mainly on Ariana's burnout, guilt, poor sleep, and her belief that resting could put other people'"
+      ],
+      "strands": [
+        "burnout-crisis",
+        "crying-in-car",
+        "counseling-start",
+        "guilt-and-rest",
+        "sleep-deprivation",
+        "moral-urgency",
+        "overextension",
+        "shutdown-routine"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2024-04-09-0710",
+      "date": "2024-04-09",
+      "start": "2024-04-09T07:10:00.000Z",
+      "end": "2024-04-09T08:24:00.000Z",
+      "turn_count": 26,
+      "status": "closed",
+      "focus": "A family challenges a church affiliation tag, forcing Ariana to build correction and accountability processes",
+      "summary": "A family challenges an incorrect church affiliation on a public record, revealing that trust requires transparent correction mechanisms. Ariana meets the family in person, creates a community correction form, implements sensitive-field review, and drafts language about corrections being part of archive life.",
+      "tags": [
+        "metadata-error",
+        "church-affiliation",
+        "correction-process",
+        "family-accountability",
+        "public-trust",
+        "audit-trail",
+        "sensitive-field-review",
+        "community-correction-form"
+      ],
+      "tone": "mixed",
+      "open_loops": [
+        "Launching the correction form (simple version first)",
+        "Locking in sensitive-field review before new records publish",
+        "Polishing the site explanation about documented changes after mechanics are live",
+        "Conducting a triage pass on church, school, and organization tags already online"
+      ],
+      "decisions": [
+        "Ariana's archive work shifted from broad public access support to a more accountable public process with formal correcti"
+      ],
+      "strands": [
+        "metadata-error",
+        "church-affiliation",
+        "correction-process",
+        "family-accountability",
+        "public-trust",
+        "audit-trail",
+        "sensitive-field-review",
+        "community-correction-form"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2024-05-22-1130",
+      "date": "2024-05-22",
+      "start": "2024-05-22T11:30:00.000Z",
+      "end": "2024-05-22T12:56:00.000Z",
+      "turn_count": 30,
+      "status": "closed",
+      "focus": "Ariana spends an evening with a neighbor's foster tabby and rediscovers her desire for a senior cat someday",
+      "summary": "Ariana visits a neighbor fostering an older tabby and spends hours brushing the cat on the porch. The experience sharpens her preference for senior cats and low-demand companionship, but she responsibly concludes her home is not ready yet and settles for borrowed cat time.",
+      "tags": [
+        "senior-cat-interest",
+        "foster-tabby",
+        "neighbor-porch",
+        "low-demand-companionship",
+        "manageable-care",
+        "contained-rituals",
+        "borrowed-peace",
+        "conditions-list"
+      ],
+      "tone": "positive",
+      "open_loops": [
+        "Writing a conditions list for what would need to be true before adopting",
+        "Following senior cat rescue pages without turning browsing into longing",
+        "Continuing porch visits with the neighbor's tabby"
+      ],
+      "decisions": [
+        "Helping with an older tabby made Ariana more actively interested in someday adopting a senior cat, even though she still"
+      ],
+      "strands": [
+        "senior-cat-interest",
+        "foster-tabby",
+        "neighbor-porch",
+        "low-demand-companionship",
+        "manageable-care",
+        "contained-rituals",
+        "borrowed-peace",
+        "conditions-list"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2024-08-17-0250",
+      "date": "2024-08-17",
+      "start": "2024-08-17T02:50:00.000Z",
+      "end": "2024-08-17T04:04:00.000Z",
+      "turn_count": 26,
+      "status": "closed",
+      "focus": "Ariana shifts from reactive intake to targeted expansion focused on underdocumented corridors",
+      "summary": "With 300+ recordings preserved, Ariana realizes the easiest family referrals are exhausted. She moves to a targeted expansion phase prioritizing underdocumented commercial corridors, funeral-home networks, and church anniversaries, using a triage rule of vulnerability, uniqueness, and gap fit.",
+      "tags": [
+        "collection-milestone",
+        "low-300s-recordings",
+        "targeted-expansion",
+        "underdocumented-corridors",
+        "funeral-home-networks",
+        "church-anniversaries",
+        "strategic-collecting",
+        "gap-filling"
+      ],
+      "tone": "positive",
+      "open_loops": [
+        "Writing a one-page map of the three priority lanes with triage rules",
+        "Choosing one concrete outreach action per lane in the first month",
+        "Presenting the strategic shift to her supervisor as collection balance and public value"
+      ],
+      "decisions": [
+        "Ariana moved the oral-history project into a targeted expansion phase aimed at underdocumented blocks, commercial corrid"
+      ],
+      "strands": [
+        "collection-milestone",
+        "low-300s-recordings",
+        "targeted-expansion",
+        "underdocumented-corridors",
+        "funeral-home-networks",
+        "church-anniversaries",
+        "strategic-collecting",
+        "gap-filling"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2024-10-01-1300",
+      "date": "2024-10-01",
+      "start": "2024-10-01T13:00:00.000Z",
+      "end": "2024-10-01T14:08:00.000Z",
+      "turn_count": 24,
+      "status": "closed",
+      "focus": "A low-key Gulf Coast anniversary trip shows Ariana and Devon their relationship has real stability",
+      "summary": "Ariana and Devon take a quiet Gulf Coast overnight for their anniversary and realize their relationship feels spacious and solid after years of boundary work. They plan a monthly overnight and one weekly off-limits block to protect the newfound steadiness.",
+      "tags": [
+        "anniversary-trip",
+        "gulf-coast-getaway",
+        "relationship-baseline",
+        "spaciousness",
+        "boundary-work",
+        "devon-landry",
+        "shared-time-protection",
+        "low-key-reconnection"
+      ],
+      "tone": "positive",
+      "open_loops": [
+        "Establishing one monthly overnight as an anchor ritual",
+        "Maintaining one weekly off-limits block for protected time",
+        "Watching for small signs of the steadier baseline in ordinary days"
+      ],
+      "decisions": [
+        "Ariana is still partnered with Devon, and after sustained boundary work plus the restorative anniversary trip the relati"
+      ],
+      "strands": [
+        "anniversary-trip",
+        "gulf-coast-getaway",
+        "relationship-baseline",
+        "spaciousness",
+        "boundary-work",
+        "devon-landry",
+        "shared-time-protection",
+        "low-key-reconnection"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2025-01-20-0505",
+      "date": "2025-01-20",
+      "start": "2025-01-20T05:05:00.000Z",
+      "end": "2025-01-20T06:19:00.000Z",
+      "turn_count": 26,
+      "status": "closed",
+      "focus": "The oral-history portal launches publicly with stable record pages, neighborhood tags, and event calendar integration",
+      "summary": "Ariana completes the public launch of the oral-history portal with stable record pages, neighborhood tags, rights notes, and a listening-event calendar. She tests it with her mother Lorraine, who searches by family names and vanished corner stores, confirming the portal works as neighborhood memory.",
+      "tags": [
+        "public-portal-launch",
+        "oral-history-portal",
+        "stable-record-pages",
+        "neighborhood-tags",
+        "rights-notes",
+        "lorraine-batiste",
+        "recognition-as-usability",
+        "public-stewardship"
+      ],
+      "tone": "positive",
+      "open_loops": [
+        "Adding a plain-language intro explaining rights notes at the top of the site",
+        "Running a small internal walkthrough focused on three search moves",
+        "Writing a stewardship list naming recurring maintenance tasks as core work",
+        "Conducting a few more one-on-one demos before designing group sessions"
+      ],
+      "decisions": [
+        "Ariana moved from targeted expansion work into stewarding a publicly launched neighborhood oral-history portal with sear"
+      ],
+      "strands": [
+        "public-portal-launch",
+        "oral-history-portal",
+        "stable-record-pages",
+        "neighborhood-tags",
+        "rights-notes",
+        "lorraine-batiste",
+        "recognition-as-usability",
+        "public-stewardship"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2025-03-11-0820",
+      "date": "2025-03-11",
+      "start": "2025-03-11T08:20:00.000Z",
+      "end": "2025-03-11T09:41:00.000Z",
+      "turn_count": 28,
+      "status": "closed",
+      "focus": "A library makers event introduces Ariana to neighborhood zines as a complement to formal history books",
+      "summary": "Ariana tags along to a library makers event for Janelle and discovers neighborhood zines and self-published booklets. She buys a zine about vanished beauty shops and a recipe-memory booklet, expanding her reading to include informal, homegrown local materials alongside formal history.",
+      "tags": [
+        "neighborhood-zines",
+        "self-published-booklets",
+        "janelle-duplessis",
+        "library-makers-event",
+        "informal-history",
+        "reading-expansion",
+        "homegrown-memory",
+        "ephemera-value"
+      ],
+      "tone": "positive",
+      "open_loops": [
+        "Asking Janelle one low-key question about library zine sources without overloading her",
+        "Letting a loose pile of zines form before categorizing",
+        "Jotting a few private notes on what appeals about each one"
+      ],
+      "decisions": [
+        "After tagging along to a library makers event because Janelle needed more adult attendees, Ariana got interested in neig"
+      ],
+      "strands": [
+        "neighborhood-zines",
+        "self-published-booklets",
+        "janelle-duplessis",
+        "library-makers-event",
+        "informal-history",
+        "reading-expansion",
+        "homegrown-memory",
+        "ephemera-value"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2025-06-27-1010",
+      "date": "2025-06-27",
+      "start": "2025-06-27T10:10:00.000Z",
+      "end": "2025-06-27T11:24:00.000Z",
+      "turn_count": 26,
+      "status": "closed",
+      "focus": "Ariana crosses 450 verified neighborhood recordings and recognizes the archive has become genuinely durable",
+      "summary": "At a packed summer listening event, Ariana realizes the archive has crossed 450 verified neighborhood recordings with three-copy backup, clear permissions, and active public use. The milestone shifts her identity from rescuer to steward of a durable neighborhood archive.",
+      "tags": [
+        "450-recording-milestone",
+        "durability-threshold",
+        "three-copy-backup",
+        "public-use-evidence",
+        "stewardship-transition",
+        "access-as-preservation",
+        "systems-consolidation",
+        "personal-relief"
+      ],
+      "tone": "positive",
+      "open_loops": [
+        "Writing a one-page note with four headings (recordings, permissions, backups, public use)",
+        "Adding a maintenance line so the milestone connects to ongoing care",
+        "Turning private durability standards into a brief written framework for the center"
+      ],
+      "decisions": [
+        "Ariana recognized that the oral-history archive had reached her durability threshold, with more than 450 verified neighb",
+        "Reaching the preservation milestone gave Ariana a hard-won sense of relief and legitimacy, easing the feeling that the w"
+      ],
+      "strands": [
+        "450-recording-milestone",
+        "durability-threshold",
+        "three-copy-backup",
+        "public-use-evidence",
+        "stewardship-transition",
+        "access-as-preservation",
+        "systems-consolidation",
+        "personal-relief"
+      ],
+      "needs_marking": false
+    }
+  ]
+}

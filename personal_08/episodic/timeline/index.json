@@ -1,0 +1,1291 @@
+{
+  "_schema": 1,
+  "updated_at": "2026-08-17T16:21:32.919Z",
+  "slice_count": 30,
+  "needs_marking": 0,
+  "slices": [
+    {
+      "id": "2022-01-09-1130",
+      "date": "2022-01-09",
+      "start": "2022-01-09T11:30:00.000Z",
+      "end": "2022-01-09T12:56:00.000Z",
+      "turn_count": 30,
+      "status": "closed",
+      "focus": "I appreciate that you are taking the time.",
+      "summary": "My name is Jermaine Allen Booker",
+      "tags": [
+        "personal-introduction",
+        "identity-establishment",
+        "safety-trainer-role",
+        "feeders-supply-company",
+        "family-separation",
+        "shared-custody",
+        "injury-reduction-goal",
+        "knee-pain",
+        "estj-personality",
+        "louisville-kentucky"
+      ],
+      "tone": "neutral",
+      "open_loops": [
+        "Save for beach trip with kids",
+        "Manage knee pain and stress eating",
+        "Build credibility as safety trainer"
+      ],
+      "decisions": [],
+      "strands": [
+        "personal-introduction",
+        "identity-establishment",
+        "safety-trainer-role",
+        "feeders-supply-company",
+        "family-separation",
+        "shared-custody",
+        "injury-reduction-goal",
+        "knee-pain",
+        "estj-personality",
+        "louisville-kentucky"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2022-01-20-2210",
+      "date": "2022-01-20",
+      "start": "2022-01-20T22:10:00.000Z",
+      "end": "2022-01-20T23:36:00.000Z",
+      "turn_count": 30,
+      "status": "closed",
+      "focus": "A lot has shifted lately, and work got real in a way I knew was probably coming.",
+      "summary": "Yeah, that is exactly it",
+      "tags": [
+        "safety-reset-approval",
+        "dock-door-near-miss",
+        "injury-reduction-push",
+        "pre-shift-dock-huddle",
+        "ramon-ortega-engagement",
+        "sharon-pruitt-mentoring",
+        "evidence-based-training",
+        "quarter-long-pilot",
+        "trailer-securement",
+        "stress-management"
+      ],
+      "tone": "mixed",
+      "open_loops": [
+        "Meet with Ramon before launch to remove objections",
+        "Build one-page evidence sheet from incident photos and scanner data",
+        "Define behavioral win criteria for the quarter",
+        "Set shutoff ritual to carry less stress home",
+        "Get Sharon to attend first rollout huddle"
+      ],
+      "decisions": [
+        "Jermaine is no longer just a newly promoted safety trainer; he is now leading a quarter-long injury reduction push on fo"
+      ],
+      "strands": [
+        "safety-reset-approval",
+        "dock-door-near-miss",
+        "injury-reduction-push",
+        "pre-shift-dock-huddle",
+        "ramon-ortega-engagement",
+        "sharon-pruitt-mentoring",
+        "evidence-based-training",
+        "quarter-long-pilot",
+        "trailer-securement",
+        "stress-management"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2022-02-08-1240",
+      "date": "2022-02-08",
+      "start": "2022-02-08T12:40:00.000Z",
+      "end": "2022-02-08T14:06:00.000Z",
+      "turn_count": 30,
+      "status": "closed",
+      "focus": "Things have been pretty tense lately, and it kind of spilled over into home more",
+      "summary": "I think that is why I listened instead of getting defensive, because she had already helped me out",
+      "tags": [
+        "home-making",
+        "living-room-warmth",
+        "kayla-booker-blunt-feedback",
+        "cardinals-fandom",
+        "family-photos",
+        "old-tournament-games",
+        "kid-bonding",
+        "stress-and-function-mode",
+        "simple-corrections",
+        "townhouse-settling"
+      ],
+      "tone": "positive",
+      "open_loops": [
+        "Buy a warmer lamp for the living room",
+        "Keep game nights with kids going"
+      ],
+      "decisions": [
+        "After making the living room feel more lived in, Jermaine started replaying sports documentaries and old Cardinals tourn"
+      ],
+      "strands": [
+        "home-making",
+        "living-room-warmth",
+        "kayla-booker-blunt-feedback",
+        "cardinals-fandom",
+        "family-photos",
+        "old-tournament-games",
+        "kid-bonding",
+        "stress-and-function-mode",
+        "simple-corrections",
+        "townhouse-settling"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2022-03-03-0620",
+      "date": "2022-03-03",
+      "start": "2022-03-03T06:20:00.000Z",
+      "end": "2022-03-03T07:28:00.000Z",
+      "turn_count": 24,
+      "status": "closed",
+      "focus": "A lot has been shifting lately, and this feels like the first time the work is a",
+      "summary": "Yeah, and I built it around the spots that keep showing up instead of making it some generic complia",
+      "tags": [
+        "safety-pilot-launch",
+        "receiving-lane-test",
+        "evidence-based-training",
+        "dock-map-evidence",
+        "forklift-damage-photos",
+        "darius-wayne-feedback",
+        "throughput-vs-safety",
+        "ramon-ortega-pushback",
+        "floor-credibility",
+        "answer-once-then-write"
+      ],
+      "tone": "mixed",
+      "open_loops": [
+        "One-on-one with Ramon to discuss his throughput concerns",
+        "Send brief status update to Sharon",
+        "Let the pilot run long enough to produce usable patterns",
+        "Document objections raised and floor feedback"
+      ],
+      "decisions": [
+        "Jermaine moved from planning the injury-reduction push to actively running a one-lane pre-shift safety pilot in receivin"
+      ],
+      "strands": [
+        "safety-pilot-launch",
+        "receiving-lane-test",
+        "evidence-based-training",
+        "dock-map-evidence",
+        "forklift-damage-photos",
+        "darius-wayne-feedback",
+        "throughput-vs-safety",
+        "ramon-ortega-pushback",
+        "floor-credibility",
+        "answer-once-then-write"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2022-03-26-1015",
+      "date": "2022-03-26",
+      "start": "2022-03-26T10:15:00.000Z",
+      "end": "2022-03-26T11:23:00.000Z",
+      "turn_count": 24,
+      "status": "closed",
+      "focus": "A lot has shifted lately, and this week ended up being more about home math than",
+      "summary": "Yeah, the main point was to cut down on those surprise arguments with Danielle",
+      "tags": [
+        "custody-expense-revision",
+        "co-parenting-finance",
+        "legal-mediation",
+        "school-year-costs",
+        "budget-planning",
+        "conflict-reduction",
+        "danielle-booker-communication",
+        "predictability-over-chaos",
+        "spreadsheet-coping",
+        "monthly-check-in"
+      ],
+      "tone": "mixed",
+      "open_loops": [
+        "Monthly budget check-in after first paycheck",
+        "Separate kid vs. personal spending on paper",
+        "Send brief practical message to Danielle about new arrangement",
+        "Plan one small personal allowance category"
+      ],
+      "decisions": [
+        "Jermaine agreed to a revised custody expense split that makes his monthly outflow more predictable but leaves him paying"
+      ],
+      "strands": [
+        "custody-expense-revision",
+        "co-parenting-finance",
+        "legal-mediation",
+        "school-year-costs",
+        "budget-planning",
+        "conflict-reduction",
+        "danielle-booker-communication",
+        "predictability-over-chaos",
+        "spreadsheet-coping",
+        "monthly-check-in"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2022-04-16-2155",
+      "date": "2022-04-16",
+      "start": "2022-04-16T21:55:00.000Z",
+      "end": "2022-04-16T23:03:00.000Z",
+      "turn_count": 24,
+      "status": "closed",
+      "focus": "A lot has been shifting lately at work, and this feels like the first time I hav",
+      "summary": "The part that mattered most was getting permission to post color-coded repeat-incident boards by dep",
+      "tags": [
+        "safety-board-expansion",
+        "department-incident-boards",
+        "supervisor-signoff",
+        "shift-handoff-gaps",
+        "handoff-discipline",
+        "first-quarter-proof",
+        "color-coded-tracking",
+        "leadership-credibility"
+      ],
+      "tone": "mixed",
+      "open_loops": [
+        "Set regular board refresh cadence",
+        "Quietly match signed huddles against actual floor outcomes",
+        "Collect department-specific examples for comparison",
+        "Prioritize readability, initial verification, and department patterns"
+      ],
+      "decisions": [
+        "Jermaine's safety-trainer role expanded from a one-lane receiving pilot into a documented safety-board and supervisor si"
+      ],
+      "strands": [
+        "safety-board-expansion",
+        "department-incident-boards",
+        "supervisor-signoff",
+        "shift-handoff-gaps",
+        "handoff-discipline",
+        "first-quarter-proof",
+        "color-coded-tracking",
+        "leadership-credibility"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2022-05-05-1310",
+      "date": "2022-05-05",
+      "start": "2022-05-05T13:10:00.000Z",
+      "end": "2022-05-05T14:36:00.000Z",
+      "turn_count": 30,
+      "status": "closed",
+      "focus": "Things have been piling up lately, and I finally had to deal with something I ke",
+      "summary": "Yeah, that was pretty much it, my body made the call for me",
+      "tags": [
+        "knee-injury-flare",
+        "urgent-care-visit",
+        "physical-therapy-prescribed",
+        "stress-eating-pattern",
+        "weight-management",
+        "overtime-burnout",
+        "vending-machine-dinners",
+        "body-made-the-call",
+        "early-correction",
+        "accountability-buddy"
+      ],
+      "tone": "negative",
+      "open_loops": [
+        "Start daily knee strengthening exercises",
+        "Ice knee every evening after work",
+        "Replace vending-machine dinners with packed food",
+        "Text sister about the medical plan and ask for check-ins",
+        "Weekly weigh-in to track trend"
+      ],
+      "decisions": [
+        "Jermaine's old right knee injury worsened into visible swelling after two overtime-heavy weeks and crouching during a do"
+      ],
+      "strands": [
+        "knee-injury-flare",
+        "urgent-care-visit",
+        "physical-therapy-prescribed",
+        "stress-eating-pattern",
+        "weight-management",
+        "overtime-burnout",
+        "vending-machine-dinners",
+        "body-made-the-call",
+        "early-correction",
+        "accountability-buddy"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2022-06-11-0740",
+      "date": "2022-06-11",
+      "start": "2022-06-11T07:40:00.000Z",
+      "end": "2022-06-11T09:06:00.000Z",
+      "turn_count": 30,
+      "status": "closed",
+      "focus": "A lot has been shifting lately, and I had one of those work moments where I coul",
+      "summary": "Yeah, that's exactly it",
+      "tags": [
+        "training-format-redesign",
+        "micro-session-launch",
+        "assignment-based-training",
+        "break-room-meeting",
+        "sharon-pruitt-support",
+        "ramon-ortega-engagement",
+        "ten-minute-pieces",
+        "floor-fit-over-classroom",
+        "usable-safety",
+        "core-points-scripted"
+      ],
+      "tone": "mixed",
+      "open_loops": [
+        "Track micro-session completion, fit, and outcome",
+        "Document phrases that travel well on the floor",
+        "Make a light announcement of the new format"
+      ],
+      "decisions": [
+        "Jermaine shifted his safety rollout from longer classroom-style talks to short assignment-based micro-sessions at the st"
+      ],
+      "strands": [
+        "training-format-redesign",
+        "micro-session-launch",
+        "assignment-based-training",
+        "break-room-meeting",
+        "sharon-pruitt-support",
+        "ramon-ortega-engagement",
+        "ten-minute-pieces",
+        "floor-fit-over-classroom",
+        "usable-safety",
+        "core-points-scripted"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2022-07-01-1120",
+      "date": "2022-07-01",
+      "start": "2022-07-01T11:20:00.000Z",
+      "end": "2022-07-01T12:28:00.000Z",
+      "turn_count": 24,
+      "status": "closed",
+      "focus": "It has been a little bit since we talked, and this past week was calmer than usu",
+      "summary": "So far I kept it real basic, some burgers, some chicken thighs, and a pack of hot dogs because the k",
+      "tags": [
+        "weekend-grilling-habit",
+        "neighbor-smoked-turkey-tips",
+        "family-cooking-time",
+        "budget-friendly-meals",
+        "kid-bonding",
+        "drive-through-replacement",
+        "anchor-meal",
+        "chicken-thighs-leftovers",
+        "earn-upgrades-not-buy"
+      ],
+      "tone": "positive",
+      "open_loops": [
+        "Keep one grill night per weekend",
+        "Plan leftovers by design",
+        "Earn better grill tools after a month of consistency"
+      ],
+      "decisions": [
+        "After a neighbor handed him smoked turkey tips during a cookout outside the townhouse row, Jermaine started adding simpl"
+      ],
+      "strands": [
+        "weekend-grilling-habit",
+        "neighbor-smoked-turkey-tips",
+        "family-cooking-time",
+        "budget-friendly-meals",
+        "kid-bonding",
+        "drive-through-replacement",
+        "anchor-meal",
+        "chicken-thighs-leftovers",
+        "earn-upgrades-not-buy"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2022-08-21-2225",
+      "date": "2022-08-21",
+      "start": "2022-08-21T22:25:00.000Z",
+      "end": "2022-08-21T23:51:00.000Z",
+      "turn_count": 30,
+      "status": "closed",
+      "focus": "Things have been shifting again since we last talked, mostly at work. I have bee",
+      "summary": "They gave me a stripped-down version",
+      "tags": [
+        "peak-season-prep",
+        "temp-heavy-shifts",
+        "stripped-down-approval",
+        "operations-warning",
+        "safety-vs-throughput",
+        "handoff-checks",
+        "partial-retraining",
+        "documented-warning",
+        "six-months-board-photos"
+      ],
+      "tone": "negative",
+      "open_loops": [
+        "Define what counts as a miss pre-emptively",
+        "Tighten handoff checks as highest-leverage approved piece",
+        "Track temp-heavy shift patterns to build next case",
+        "Keep larger model in notes for incremental asks"
+      ],
+      "decisions": [
+        "Jermaine is entering peak-season prep with only partial approval for temp-worker retraining and extra handoff checks, an"
+      ],
+      "strands": [
+        "peak-season-prep",
+        "temp-heavy-shifts",
+        "stripped-down-approval",
+        "operations-warning",
+        "safety-vs-throughput",
+        "handoff-checks",
+        "partial-retraining",
+        "documented-warning",
+        "six-months-board-photos"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2022-09-14-0805",
+      "date": "2022-09-14",
+      "start": "2022-09-14T08:05:00.000Z",
+      "end": "2022-09-14T09:13:00.000Z",
+      "turn_count": 24,
+      "status": "closed",
+      "focus": "A lot has been shifting lately, and one thing finally changed that I probably sh",
+      "summary": "Yeah, ceasefire is the right word",
+      "tags": [
+        "co-parenting-app",
+        "logistics-de-escalation",
+        "shared-calendar",
+        "expense-tracking",
+        "school-year-planning",
+        "danielle-booker-truce",
+        "practical-ceasefire",
+        "coffee-shop-meeting",
+        "time-money-responsibility-filter"
+      ],
+      "tone": "positive",
+      "open_loops": [
+        "Log expenses same day with receipts",
+        "Use time-money-responsibility filter for app entries",
+        "Answer short instead of over-explaining via text"
+      ],
+      "decisions": [
+        "After a tense school-season reset, Jermaine and Danielle switched from scattered texts to a shared co-parenting app for "
+      ],
+      "strands": [
+        "co-parenting-app",
+        "logistics-de-escalation",
+        "shared-calendar",
+        "expense-tracking",
+        "school-year-planning",
+        "danielle-booker-truce",
+        "practical-ceasefire",
+        "coffee-shop-meeting",
+        "time-money-responsibility-filter"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2022-11-17-2305",
+      "date": "2022-11-17",
+      "start": "2022-11-17T23:05:00.000Z",
+      "end": "2022-11-18T00:31:00.000Z",
+      "turn_count": 30,
+      "status": "closed",
+      "focus": "A lot has shifted lately, and work took a real bad turn. What I had going into p",
+      "summary": "Mostly the second thing",
+      "tags": [
+        "peak-season-setback",
+        "recordable-loading-incidents",
+        "program-under-review",
+        "supervisor-noncompliance",
+        "temp-rushing",
+        "credibility-under-strain",
+        "incident-replay",
+        "sleep-loss",
+        "sharon-pruitt-backing",
+        "accountability-vs-defense"
+      ],
+      "tone": "negative",
+      "open_loops": [
+        "Build one-pager with three failure points and top-line sentence",
+        "Get ally to review before next meeting",
+        "Keep short incident dump after work to stop mental replay",
+        "Narrow next meeting to skipped checks, rushed coaching, equipment signoff"
+      ],
+      "decisions": [
+        "Jermaine's peak-season safety program hit a major setback after two recordable loading incidents in three weeks showed h",
+        "Jermaine is more worn down and irritable after the incidents, sleeping even less and replaying the details because he wo"
+      ],
+      "strands": [
+        "peak-season-setback",
+        "recordable-loading-incidents",
+        "program-under-review",
+        "supervisor-noncompliance",
+        "temp-rushing",
+        "credibility-under-strain",
+        "incident-replay",
+        "sleep-loss",
+        "sharon-pruitt-backing",
+        "accountability-vs-defense"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2022-12-09-1215",
+      "date": "2022-12-09",
+      "start": "2022-12-09T12:15:00.000Z",
+      "end": "2022-12-09T13:23:00.000Z",
+      "turn_count": 24,
+      "status": "closed",
+      "focus": "Things have been pretty heavy lately, so this is a smaller update than some of t",
+      "summary": "Yeah, that is exactly it, it does not feel like one more thing I am failing to keep up with",
+      "tags": [
+        "reading-habit",
+        "lunchtime-reading",
+        "darius-book-gift",
+        "habit-formation-book",
+        "leadership-paperbacks",
+        "stress-release",
+        "pressure-release-valve",
+        "one-sentence-notes",
+        "environment-over-willpower"
+      ],
+      "tone": "positive",
+      "open_loops": [
+        "Write one-sentence note after each lunch reading",
+        "Keep backup book in bag",
+        "Text Darius thank-you for the book"
+      ],
+      "decisions": [
+        "Jermaine's reading habit shifted after Darius gave him a used habit-formation paperback, and he now keeps short leadersh"
+      ],
+      "strands": [
+        "reading-habit",
+        "lunchtime-reading",
+        "darius-book-gift",
+        "habit-formation-book",
+        "leadership-paperbacks",
+        "stress-release",
+        "pressure-release-valve",
+        "one-sentence-notes",
+        "environment-over-willpower"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2023-01-13-0530",
+      "date": "2023-01-13",
+      "start": "2023-01-13T05:30:00.000Z",
+      "end": "2023-01-13T06:38:00.000Z",
+      "turn_count": 24,
+      "status": "closed",
+      "focus": "A lot has shifted lately, and work finally moved in a direction that feels diffe",
+      "summary": "The biggest thing is every new temp has to be paired with a specific named trainer, not just dropped",
+      "tags": [
+        "formal-reset-plan",
+        "named-trainer-pairing",
+        "photo-audits",
+        "dock-door-audits",
+        "supervisor-board-accountability",
+        "incident-leverage",
+        "sharon-pruitt-allyship",
+        "program-rebuilding",
+        "repeat-incident-discussion",
+        "four-part-script"
+      ],
+      "tone": "positive",
+      "open_loops": [
+        "Finalize named-trainer pairing list with shift leads",
+        "Lock photo-audit review rhythm (same week)",
+        "Write four-part board script for repeat incidents",
+        "Create checklist for complete rollout on each shift"
+      ],
+      "decisions": [
+        "Jermaine and Sharon won approval for a formal reset plan after using the ugly peak-season incident numbers as leverage i"
+      ],
+      "strands": [
+        "formal-reset-plan",
+        "named-trainer-pairing",
+        "photo-audits",
+        "dock-door-audits",
+        "supervisor-board-accountability",
+        "incident-leverage",
+        "sharon-pruitt-allyship",
+        "program-rebuilding",
+        "repeat-incident-discussion",
+        "four-part-script"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2023-02-24-1050",
+      "date": "2023-02-24",
+      "start": "2023-02-24T10:50:00.000Z",
+      "end": "2023-02-24T12:16:00.000Z",
+      "turn_count": 30,
+      "status": "closed",
+      "focus": "A lot has been shifting lately, and one thing I finally stopped dragging my feet",
+      "summary": "Honestly, it was the kids more than me",
+      "tags": [
+        "townhouse-lease-renewal",
+        "home-stability",
+        "kid-friendly-space",
+        "kayla-booker-help",
+        "wobbly-table-replaced",
+        "second-hand-desk",
+        "homework-station",
+        "practical-upgrades",
+        "waiting-room-no-more"
+      ],
+      "tone": "positive",
+      "open_loops": [
+        "Add lamp and organizer for desk area",
+        "Ask kids about practical needs",
+        "Let new setup settle before adding more"
+      ],
+      "decisions": [
+        "Jermaine signed a one-year renewal on his Shepherdsville townhouse lease after months of treating the place as temporary"
+      ],
+      "strands": [
+        "townhouse-lease-renewal",
+        "home-stability",
+        "kid-friendly-space",
+        "kayla-booker-help",
+        "wobbly-table-replaced",
+        "second-hand-desk",
+        "homework-station",
+        "practical-upgrades",
+        "waiting-room-no-more"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2023-04-05-2245",
+      "date": "2023-04-05",
+      "start": "2023-04-05T22:45:00.000Z",
+      "end": "2023-04-05T23:59:00.000Z",
+      "turn_count": 26,
+      "status": "closed",
+      "focus": "A lot has been shifting lately, and for once I have a work update that actually ",
+      "summary": "The biggest one was repainting the blind-corner floor markings in a couple spots where backing risk",
+      "tags": [
+        "first-quarter-results",
+        "forklift-backing-incidents-down",
+        "physical-safety-fixes",
+        "blind-corner-markings",
+        "rack-mirror-repair",
+        "evidence-based-leverage",
+        "role-expansion",
+        "training-to-design",
+        "before-and-after-photos",
+        "fix-template"
+      ],
+      "tone": "positive",
+      "open_loops": [
+        "Propose routine hazard-review trigger on audited shifts",
+        "Build before-and-after photo record for every physical change",
+        "Flag next visibility issue using one-page template",
+        "Keep template format: issue, evidence, fix, expected effect"
+      ],
+      "decisions": [
+        "Jermaine's safety role expanded from training enforcement into practical operational fixes like floor markings and visib"
+      ],
+      "strands": [
+        "first-quarter-results",
+        "forklift-backing-incidents-down",
+        "physical-safety-fixes",
+        "blind-corner-markings",
+        "rack-mirror-repair",
+        "evidence-based-leverage",
+        "role-expansion",
+        "training-to-design",
+        "before-and-after-photos",
+        "fix-template"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2023-05-29-1325",
+      "date": "2023-05-29",
+      "start": "2023-05-29T13:25:00.000Z",
+      "end": "2023-05-29T14:39:00.000Z",
+      "turn_count": 26,
+      "status": "closed",
+      "focus": "It has been a pretty full stretch lately, but in a good way for once. With the w",
+      "summary": "It was low pressure, that is the main thing",
+      "tags": [
+        "youth-basketball-open-gym",
+        "marcus-lee-benton",
+        "community-volunteering",
+        "son-bonding",
+        "knee-friendly-activity",
+        "casual-friendship",
+        "low-pressure-community",
+        "shipping-department-connection"
+      ],
+      "tone": "positive",
+      "open_loops": [
+        "Text Marcus about next session",
+        "Keep as occasional drop-in on calendar",
+        "Invite daughter once if timing works"
+      ],
+      "decisions": [
+        "A coworker from shipping, Marcus Lee Benton, invited Jermaine to the local youth basketball open gym."
+      ],
+      "strands": [
+        "youth-basketball-open-gym",
+        "marcus-lee-benton",
+        "community-volunteering",
+        "son-bonding",
+        "knee-friendly-activity",
+        "casual-friendship",
+        "low-pressure-community",
+        "shipping-department-connection"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2023-07-12-0610",
+      "date": "2023-07-12",
+      "start": "2023-07-12T06:10:00.000Z",
+      "end": "2023-07-12T07:24:00.000Z",
+      "turn_count": 26,
+      "status": "closed",
+      "focus": "A lot has shifted lately at work, and this one feels bigger than the usual small",
+      "summary": "Yeah, that is exactly it",
+      "tags": [
+        "supervisor-scorecards",
+        "safety-metrics-integration",
+        "operational-accountability",
+        "midyear-review",
+        "sharon-pruitt-alliance",
+        "forklift-dock-routines",
+        "huddle-completion-tracking",
+        "repeat-incident-counts",
+        "structural-backing"
+      ],
+      "tone": "positive",
+      "open_loops": [
+        "Monitor for fake compliance vs. real behavior change",
+        "Build simple weekly 3-line note (huddle issues, repeat hotspots, supervisor response)",
+        "Maintain steady script for enforcement on skipped routines"
+      ],
+      "decisions": [
+        "Jermaine's occupation status updated from relying on small operational fixes for leverage to having forklift and dock ro"
+      ],
+      "strands": [
+        "supervisor-scorecards",
+        "safety-metrics-integration",
+        "operational-accountability",
+        "midyear-review",
+        "sharon-pruitt-alliance",
+        "forklift-dock-routines",
+        "huddle-completion-tracking",
+        "repeat-incident-counts",
+        "structural-backing"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2023-08-18-0955",
+      "date": "2023-08-18",
+      "start": "2023-08-18T09:55:00.000Z",
+      "end": "2023-08-18T11:09:00.000Z",
+      "turn_count": 26,
+      "status": "closed",
+      "focus": "A lot has been shifting lately, and one thing I actually followed through on is ",
+      "summary": "The lunch walks, easy",
+      "tags": [
+        "knee-recovery",
+        "physical-therapy-adherence",
+        "lunch-walks",
+        "weight-management",
+        "daughter-accountability",
+        "cardinals-game-observation",
+        "small-consistent-progress",
+        "ice-pack-visibility"
+      ],
+      "tone": "positive",
+      "open_loops": [
+        "Keep lunch walks consistent",
+        "Continue home exercises while watching TV",
+        "Make ice pack visible in freezer",
+        "Light weekly check-in on swelling and pain"
+      ],
+      "decisions": [
+        "Jermaine's right knee still aches after long concrete shifts, but regular strengthening exercises and lunchtime walking "
+      ],
+      "strands": [
+        "knee-recovery",
+        "physical-therapy-adherence",
+        "lunch-walks",
+        "weight-management",
+        "daughter-accountability",
+        "cardinals-game-observation",
+        "small-consistent-progress",
+        "ice-pack-visibility"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2023-10-02-2150",
+      "date": "2023-10-02",
+      "start": "2023-10-02T21:50:00.000Z",
+      "end": "2023-10-02T22:58:00.000Z",
+      "turn_count": 24,
+      "status": "closed",
+      "focus": "A lot has been shifting again on the work side, and this time I feel like I fina",
+      "summary": "Probably the trailer entry piece first, because that one happens almost right away and people come i",
+      "tags": [
+        "temp-orientation-redesign",
+        "peak-season-prep",
+        "first-week-failure-points",
+        "protected-training-block",
+        "incident-timeline-based",
+        "trailer-entry-safety",
+        "blind-reversing-end-caps",
+        "dock-plate-checks",
+        "first-week-check-sheet",
+        "training-vs-floor-override"
+      ],
+      "tone": "mixed",
+      "open_loops": [
+        "Track two buckets: training misses vs. floor overrides",
+        "End-of-week correction pass during first week",
+        "Keep notes on what temps misunderstand most"
+      ],
+      "decisions": [
+        "Jermaine entered peak season with a data-based temp orientation rebuilt from last year's exact first-week failure points"
+      ],
+      "strands": [
+        "temp-orientation-redesign",
+        "peak-season-prep",
+        "first-week-failure-points",
+        "protected-training-block",
+        "incident-timeline-based",
+        "trailer-entry-safety",
+        "blind-reversing-end-caps",
+        "dock-plate-checks",
+        "first-week-check-sheet",
+        "training-vs-floor-override"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2023-11-21-0735",
+      "date": "2023-11-21",
+      "start": "2023-11-21T07:35:00.000Z",
+      "end": "2023-11-21T08:43:00.000Z",
+      "turn_count": 24,
+      "status": "closed",
+      "focus": "Things have been busy lately, just regular life stacking up on top of itself. La",
+      "summary": "Yeah, that is exactly it, it was not some planned switch",
+      "tags": [
+        "sports-radio-habit",
+        "commute-change",
+        "son-bonding",
+        "local-football-postgame",
+        "cardinals-fandom",
+        "caller-reactions",
+        "family-car-time",
+        "preference-evolution",
+        "music-sports-split"
+      ],
+      "tone": "positive",
+      "open_loops": [
+        "Set presets for 2 music, 2 sports, 1 wildcard",
+        "Pick one local show for energy and one for knowledge"
+      ],
+      "decisions": [
+        "Jermaine's commute listening shifted toward more local sports radio and postgame call-in shows after long weekend drivin"
+      ],
+      "strands": [
+        "sports-radio-habit",
+        "commute-change",
+        "son-bonding",
+        "local-football-postgame",
+        "cardinals-fandom",
+        "caller-reactions",
+        "family-car-time",
+        "preference-evolution",
+        "music-sports-split"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2024-01-09-0115",
+      "date": "2024-01-09",
+      "start": "2024-01-09T01:15:00.000Z",
+      "end": "2024-01-09T02:41:00.000Z",
+      "turn_count": 30,
+      "status": "closed",
+      "focus": "A lot has shifted lately at work, and for once I feel like I am bringing you som",
+      "summary": "Honestly, quieter than I expected",
+      "tags": [
+        "year-end-results",
+        "peak-season-success",
+        "repeat-pattern-broken",
+        "monthly-cross-shift-review",
+        "receiving-shipping-replenishment",
+        "system-wide-accountability",
+        "cross-department-hazards",
+        "career-milestone",
+        "clean-safe-peak"
+      ],
+      "tone": "positive",
+      "open_loops": [
+        "Draft simple meeting template: repeat hazard, evidence, owner, deadline",
+        "Add parking lot for off-topic items",
+        "Send categories ahead to leads for preparation",
+        "Document first two meetings as the model"
+      ],
+      "decisions": [
+        "Jermaine is now a safety trainer with proof that one peak season broke the old injury pattern, and he is running monthly"
+      ],
+      "strands": [
+        "year-end-results",
+        "peak-season-success",
+        "repeat-pattern-broken",
+        "monthly-cross-shift-review",
+        "receiving-shipping-replenishment",
+        "system-wide-accountability",
+        "cross-department-hazards",
+        "career-milestone",
+        "clean-safe-peak"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2024-02-26-1205",
+      "date": "2024-02-26",
+      "start": "2024-02-26T12:05:00.000Z",
+      "end": "2024-02-26T13:31:00.000Z",
+      "turn_count": 30,
+      "status": "closed",
+      "focus": "A lot has shifted lately, not in some dramatic way, but enough that I noticed it",
+      "summary": "I think it was a couple things working together",
+      "tags": [
+        "co-parenting-milestone",
+        "parent-teacher-conference",
+        "conflict-free-meeting",
+        "danielle-booker-truce",
+        "shared-co-parenting-app",
+        "tense-but-workable",
+        "kid-centered-focus",
+        "boring-progress"
+      ],
+      "tone": "positive",
+      "open_loops": [
+        "Send short factual recap of teacher action items in app",
+        "Keep consistency in app usage",
+        "Let routine prove itself before symbolic meaning"
+      ],
+      "decisions": [
+        "Jermaine now sees his relationship with Danielle as tense but workable instead of constantly feeling one text away from"
+      ],
+      "strands": [
+        "co-parenting-milestone",
+        "parent-teacher-conference",
+        "conflict-free-meeting",
+        "danielle-booker-truce",
+        "shared-co-parenting-app",
+        "tense-but-workable",
+        "kid-centered-focus",
+        "boring-progress"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2024-05-14-0340",
+      "date": "2024-05-14",
+      "start": "2024-05-14T03:40:00.000Z",
+      "end": "2024-05-14T04:48:00.000Z",
+      "turn_count": 24,
+      "status": "closed",
+      "focus": "A lot has been shifting lately, and work gave me another one of those reminders ",
+      "summary": "That was exactly the part that bothered me, because on paper it could have been easy to shrug and sa",
+      "tags": [
+        "replenishment-safety-expansion",
+        "forklift-handoff-controls",
+        "battery-change-routine",
+        "dawn-shift-observation",
+        "process-over-blame",
+        "handoff-checklist",
+        "stubborn-scrape-pattern",
+        "cross-area-expansion"
+      ],
+      "tone": "mixed",
+      "open_loops": [
+        "Implement handoff checklist with 2-week implementation window",
+        "Collect scrape counts and near-miss data around transitions",
+        "Spot-check for actual pause and verbal exchange",
+        "Share early data with Sharon before resistance builds"
+      ],
+      "decisions": [
+        "Jermaine updated his safety program beyond dock checks by adding forklift handoff controls in replenishment after tracin"
+      ],
+      "strands": [
+        "replenishment-safety-expansion",
+        "forklift-handoff-controls",
+        "battery-change-routine",
+        "dawn-shift-observation",
+        "process-over-blame",
+        "handoff-checklist",
+        "stubborn-scrape-pattern",
+        "cross-area-expansion"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2024-06-30-1030",
+      "date": "2024-06-30",
+      "start": "2024-06-30T10:30:00.000Z",
+      "end": "2024-06-30T11:56:00.000Z",
+      "turn_count": 30,
+      "status": "closed",
+      "focus": "It has been a steadier stretch lately, at least enough that I can think past the",
+      "summary": "Probably all three, but mostly the concrete part",
+      "tags": [
+        "lake-cumberland-cabin",
+        "summer-trip-planning",
+        "affordable-family-getaway",
+        "open-gym-parent-tip",
+        "in-state-kentucky",
+        "kid-focused-vacation",
+        "grill-and-hang-trip",
+        "practical-over-dream"
+      ],
+      "tone": "positive",
+      "open_loops": [
+        "Pick top 2 cabin options and compare cost, drive, kid appeal",
+        "Book before summer ends",
+        "Keep grocery run simple: burgers, breakfast, snacks"
+      ],
+      "decisions": [
+        "Jermaine shifted his summer travel plan from mostly talking about an eventual beach trip to actively planning a low-cost"
+      ],
+      "strands": [
+        "lake-cumberland-cabin",
+        "summer-trip-planning",
+        "affordable-family-getaway",
+        "open-gym-parent-tip",
+        "in-state-kentucky",
+        "kid-focused-vacation",
+        "grill-and-hang-trip",
+        "practical-over-dream"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2024-09-06-2320",
+      "date": "2024-09-06",
+      "start": "2024-09-06T23:20:00.000Z",
+      "end": "2024-09-07T00:46:00.000Z",
+      "turn_count": 30,
+      "status": "closed",
+      "focus": "A lot has shifted lately at work. The biggest thing is I finally got leadership",
+      "summary": "They listened more seriously than I expected, honestly",
+      "tags": [
+        "peer-safety-coaches",
+        "shift-veterans",
+        "floor-credibility",
+        "cultural-embedding",
+        "leadership-approval",
+        "role-expansion",
+        "sustainable-safety-model",
+        "from-enforcer-to-builder",
+        "clean-safety-boards"
+      ],
+      "tone": "positive",
+      "open_loops": [
+        "Individual pre-session with each selected coach",
+        "Group session with shared 3-part coaching script",
+        "30-day review window for coach effectiveness",
+        "Observe coaches on real shifts for timings and judgment"
+      ],
+      "decisions": [
+        "Jermaine's safety role expanded from refining forklift handoff controls to overseeing peer safety coaches across multipl"
+      ],
+      "strands": [
+        "peer-safety-coaches",
+        "shift-veterans",
+        "floor-credibility",
+        "cultural-embedding",
+        "leadership-approval",
+        "role-expansion",
+        "sustainable-safety-model",
+        "from-enforcer-to-builder",
+        "clean-safety-boards"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2024-11-12-1345",
+      "date": "2024-11-12",
+      "start": "2024-11-12T13:45:00.000Z",
+      "end": "2024-11-12T15:11:00.000Z",
+      "turn_count": 30,
+      "status": "closed",
+      "focus": "A lot has shifted lately, not in some huge dramatic way, but enough that I can f",
+      "summary": "A couple things lined up",
+      "tags": [
+        "debt-reduction",
+        "legal-debt-payment",
+        "family-trip-savings",
+        "tax-refund-utilization",
+        "overtime-allocation-plan",
+        "financial-stability",
+        "automatic-small-transfers",
+        "debt-first-trip-second",
+        "steady-not-obsessed"
+      ],
+      "tone": "positive",
+      "open_loops": [
+        "Set small automatic transfer to trip bucket weekly",
+        "Write down overtime split percentages (debt first, trip second)",
+        "Decide split before each check lands to avoid in-the-moment bargaining"
+      ],
+      "decisions": [
+        "Jermaine's financial situation improved from tight but predictable to less chaotic after reduced legal friction and debt"
+      ],
+      "strands": [
+        "debt-reduction",
+        "legal-debt-payment",
+        "family-trip-savings",
+        "tax-refund-utilization",
+        "overtime-allocation-plan",
+        "financial-stability",
+        "automatic-small-transfers",
+        "debt-first-trip-second",
+        "steady-not-obsessed"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2025-01-16-0000",
+      "date": "2025-01-16",
+      "start": "2025-01-16T00:00:00.000Z",
+      "end": "2025-01-16T01:21:00.000Z",
+      "turn_count": 28,
+      "status": "closed",
+      "focus": "A lot has shifted lately, and this one feels bigger than the usual work update. ",
+      "summary": "Honestly, hearing them ask for the documentation is what got me",
+      "tags": [
+        "site-playbook-adoption",
+        "two-clean-peak-seasons",
+        "dock-huddle-standard",
+        "handoff-checklist-standard",
+        "peer-coach-model-standard",
+        "louisville-site-standard",
+        "career-milestone",
+        "sharon-pruitt-advocacy",
+        "non-negotiables-documented"
+      ],
+      "tone": "positive",
+      "open_loops": [
+        "Write core playbook in plain floor language first",
+        "Show Sharon rough draft before wider review",
+        "Build one-page add-on tools for detail sections",
+        "Create training outline alongside document",
+        "Label section: non-negotiables during high-pressure periods"
+      ],
+      "decisions": [
+        "Jermaine's forklift and dock injury-reduction system was adopted as the Louisville site's standard playbook after two co"
+      ],
+      "strands": [
+        "site-playbook-adoption",
+        "two-clean-peak-seasons",
+        "dock-huddle-standard",
+        "handoff-checklist-standard",
+        "peer-coach-model-standard",
+        "louisville-site-standard",
+        "career-milestone",
+        "sharon-pruitt-advocacy",
+        "non-negotiables-documented"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2025-04-10-1110",
+      "date": "2025-04-10",
+      "start": "2025-04-10T11:10:00.000Z",
+      "end": "2025-04-10T12:24:00.000Z",
+      "turn_count": 26,
+      "status": "closed",
+      "focus": "It has been a while since we chatted, and life has felt a little more settled in",
+      "summary": "Yeah, grounded is what I was trying for",
+      "tags": [
+        "pet-consideration",
+        "daughter-beagle-enthusiasm",
+        "cautious-maybe",
+        "small-dog-later",
+        "mock-pet-checklist",
+        "neighbor-dog-walking",
+        "stability-conditions",
+        "three-point-family-line"
+      ],
+      "tone": "positive",
+      "open_loops": [
+        "Design 2-week mock pet checklist for kids",
+        "Explore neighbor dog-walking or pet-sitting trials",
+        "Communicate 3-point family line: no now, maybe small dog later, only if steady"
+      ],
+      "decisions": [
+        "Jermaine softened his no-pets stance and told the kids they could maybe revisit getting a small dog later if life stays"
+      ],
+      "strands": [
+        "pet-consideration",
+        "daughter-beagle-enthusiasm",
+        "cautious-maybe",
+        "small-dog-later",
+        "mock-pet-checklist",
+        "neighbor-dog-walking",
+        "stability-conditions",
+        "three-point-family-line"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2025-08-23-0900",
+      "date": "2025-08-23",
+      "start": "2025-08-23T09:00:00.000Z",
+      "end": "2025-08-23T10:14:00.000Z",
+      "turn_count": 26,
+      "status": "closed",
+      "focus": "It has been a while since we caught up, and things have shifted in a way I did n",
+      "summary": "The replaying has backed off the most",
+      "tags": [
+        "mental-health-improvement",
+        "reduced-hypervigilance",
+        "better-sleep",
+        "incident-replay-decline",
+        "home-work-stability",
+        "emotional-recovery",
+        "steadier-baseline",
+        "phone-check-habit",
+        "tired-but-steadier"
+      ],
+      "tone": "positive",
+      "open_loops": [
+        "Light sleep/stress tracking (2 numbers: quality, tension)",
+        "One pressure-release habit for daytime",
+        "Night check: 'anything needing action before morning?'",
+        "Phone-down substitution ritual at night"
+      ],
+      "decisions": [
+        "Jermaine's mental health improved from constant incident replay and poor sleep to being still stress-prone but noticeabl"
+      ],
+      "strands": [
+        "mental-health-improvement",
+        "reduced-hypervigilance",
+        "better-sleep",
+        "incident-replay-decline",
+        "home-work-stability",
+        "emotional-recovery",
+        "steadier-baseline",
+        "phone-check-habit",
+        "tired-but-steadier"
+      ],
+      "needs_marking": false
+    }
+  ]
+}

@@ -1,0 +1,1224 @@
+{
+  "_schema": 1,
+  "updated_at": "2026-08-17T16:21:33.868Z",
+  "slice_count": 30,
+  "needs_marking": 0,
+  "slices": [
+    {
+      "id": "2022-01-08-1130",
+      "date": "2022-01-08",
+      "start": "2022-01-08T11:30:00.000Z",
+      "end": "2022-01-08T12:38:00.000Z",
+      "turn_count": 24,
+      "status": "closed",
+      "focus": "I appreciate that you are taking the time.",
+      "summary": "Monica provides a comprehensive personal introduction covering her background as a 40-year-old Milwaukee housing code inspector, ISTJ personality, divorced co-parenting of daughter Leah (12), asthma management, finances ($86K/year), key relationships (Andre/Denise/Shawna), and her driving goal to cut repeat housing-code violations on Milwaukee's north side by 40 percent.",
+      "tags": [
+        "personal-introduction",
+        "housing-code-inspection-career",
+        "milwaukee-wisconsin-life",
+        "istj-personality-profile",
+        "single-mother-co-parenting",
+        "divorce-financial-recovery",
+        "asthma-health-management",
+        "public-service-motivation"
+      ],
+      "tone": "positive",
+      "open_loops": [
+        "Monitor north-side rental corridor safety outcomes",
+        "Leah's evolving custody and school schedule",
+        "Divorce debt payoff progress",
+        "New supervisor role adjustment with team"
+      ],
+      "decisions": [],
+      "strands": [
+        "personal-introduction",
+        "housing-code-inspection-career",
+        "milwaukee-wisconsin-life",
+        "istj-personality-profile",
+        "single-mother-co-parenting",
+        "divorce-financial-recovery",
+        "asthma-health-management",
+        "public-service-motivation"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2022-01-28-0010",
+      "date": "2022-01-28",
+      "start": "2022-01-28T00:10:00.000Z",
+      "end": "2022-01-28T01:31:00.000Z",
+      "turn_count": 28,
+      "status": "closed",
+      "focus": "A lot has shifted lately, and this week was the first time the new level of resp",
+      "summary": "After a north-side fourplex case with a toddler displaced by mold and failed furnace, Monica shifts from treating supervision as a promotion to personally running a child-exposure and repeat-owner hazard board, debating cutoff rituals, trigger rules, and how to keep the board from becoming dependent on her alone.",
+      "tags": [
+        "child-exposure-hazard-board",
+        "repeat-offender-corridor-tracker",
+        "fourplex-crisis-turning-point",
+        "andre-pruitt-pattern-recognition",
+        "supervisory-role-transition",
+        "three-bullet-escalation-rule",
+        "team-dependency-balance",
+        "owner-history-notes-system"
+      ],
+      "tone": "mixed",
+      "open_loops": [
+        "Finalize hazard board trigger rules for child exposure cases",
+        "Define cutoff ritual to prevent board from following her home",
+        "Build owner-history note field into board",
+        "Decide whether to present board upward or prove it first"
+      ],
+      "decisions": [
+        "Monica shifted from newly promoted frontline supervisor to personally running a north-side hazard board for child-exposu",
+        "Monica became more keyed up after the fourplex case, feeling sharper urgency and responsibility because dangerous files "
+      ],
+      "strands": [
+        "child-exposure-hazard-board",
+        "repeat-offender-corridor-tracker",
+        "fourplex-crisis-turning-point",
+        "andre-pruitt-pattern-recognition",
+        "supervisory-role-transition",
+        "three-bullet-escalation-rule",
+        "team-dependency-balance",
+        "owner-history-notes-system"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2022-02-14-1215",
+      "date": "2022-02-14",
+      "start": "2022-02-14T12:15:00.000Z",
+      "end": "2022-02-14T13:41:00.000Z",
+      "turn_count": 30,
+      "status": "closed",
+      "focus": "Things have been pretty full lately, and I ended up with a small new habit I did",
+      "summary": "After Shawna slides her a Milwaukee neighborhoods history book at fish fry, Monica discovers that reading about the city without having to fix it is a grounding counterweight to work stress, and deliberately shifts from generic local history to neighborhood-specific books with a separate mystery lane for decompression.",
+      "tags": [
+        "milwaukee-neighborhood-history-books",
+        "shawna-brooks-friendship",
+        "reading-habit-as-counterweight",
+        "history-vs-mystery-reading-split",
+        "library-due-date-discipline",
+        "evening-tea-and-pages-ritual",
+        "civic-connection-through-reading",
+        "low-drama-habit-change"
+      ],
+      "tone": "positive",
+      "open_loops": [
+        "Ask librarian for neighborhood-specific recommendations",
+        "Build light reading list with one-line notes per book",
+        "Alternate history and mystery books by mood"
+      ],
+      "decisions": [
+        "Monica started deliberately adding Milwaukee neighborhood history nonfiction to her reading stack during a tense stretch"
+      ],
+      "strands": [
+        "milwaukee-neighborhood-history-books",
+        "shawna-brooks-friendship",
+        "reading-habit-as-counterweight",
+        "history-vs-mystery-reading-split",
+        "library-due-date-discipline",
+        "evening-tea-and-pages-ritual",
+        "civic-connection-through-reading",
+        "low-drama-habit-change"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2022-03-19-0940",
+      "date": "2022-03-19",
+      "start": "2022-03-19T09:40:00.000Z",
+      "end": "2022-03-19T11:01:00.000Z",
+      "turn_count": 28,
+      "status": "closed",
+      "focus": "A lot has been shifting lately, and work finally tipped into something more conc",
+      "summary": "Monica's personal hazard tracking evolves into a section-approved pilot of repeat-violation tracker and earlier reinspection scheduling for two north-side corridors; she navigates the balance between rough-but-useful tools, team consistency, and protecting herself with documentation as the work becomes more visible.",
+      "tags": [
+        "repeat-violation-tracker-pilot",
+        "north-side-corridor-reinspection",
+        "shell-llc-owner-detection",
+        "earlier-reinspection-scheduling",
+        "operational-language-leadership",
+        "pilot-scope-discipline",
+        "team-consistency-concern",
+        "rough-and-useful-tool-design"
+      ],
+      "tone": "positive",
+      "open_loops": [
+        "Draft one-page pilot sheet with criteria and measures",
+        "Track speed-to-reinspection and reopen rates",
+        "Document ownership-link examples for defensibility",
+        "Resist expanding categories beyond two corridors"
+      ],
+      "decisions": [
+        "Monica is now piloting a repeat-violation tracker and earlier reinspection scheduling for two north-side rental corridor"
+      ],
+      "strands": [
+        "repeat-violation-tracker-pilot",
+        "north-side-corridor-reinspection",
+        "shell-llc-owner-detection",
+        "earlier-reinspection-scheduling",
+        "operational-language-leadership",
+        "pilot-scope-discipline",
+        "team-consistency-concern",
+        "rough-and-useful-tool-design"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2022-04-11-1025",
+      "date": "2022-04-11",
+      "start": "2022-04-11T10:25:00.000Z",
+      "end": "2022-04-11T11:51:00.000Z",
+      "turn_count": 30,
+      "status": "closed",
+      "focus": "A lot has shifted lately, and one piece of it finally caught up with me physical",
+      "summary": "After a spring asthma flare sends her to urgent care following two wet-basement inspections and a high-pollen day, Monica tightens her inhaler routine, creates a field-day checklist, and develops exposure thresholds including mask use and spacing of high-risk inspections to stay active in the field without pretending the triggers are imaginary.",
+      "tags": [
+        "spring-asthma-flare-urgent-care",
+        "mold-exposure-field-risk",
+        "controller-inhaler-routine",
+        "baseline-field-day-checklist",
+        "exposure-threshold-triggers",
+        "post-field-recovery-habit",
+        "procedural-health-planning",
+        "workplace-disclosure-strategy"
+      ],
+      "tone": "mixed",
+      "open_loops": [
+        "Build Sunday night prep reset for week's exposure risks",
+        "Draft work conversation about asthma adjustments",
+        "Implement post-high-risk-day recovery routine",
+        "Keep spare masks and inhaler in work bag"
+      ],
+      "decisions": [
+        "After a spring asthma flare that sent her to urgent care, Monica now follows a stricter inhaler routine and is more care"
+      ],
+      "strands": [
+        "spring-asthma-flare-urgent-care",
+        "mold-exposure-field-risk",
+        "controller-inhaler-routine",
+        "baseline-field-day-checklist",
+        "exposure-threshold-triggers",
+        "post-field-recovery-habit",
+        "procedural-health-planning",
+        "workplace-disclosure-strategy"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2022-05-06-0105",
+      "date": "2022-05-06",
+      "start": "2022-05-06T01:05:00.000Z",
+      "end": "2022-05-06T02:31:00.000Z",
+      "turn_count": 30,
+      "status": "closed",
+      "focus": "A lot has been shifting lately, and one work thing finally moved in a real way. ",
+      "summary": "Monica wins formal approval for weekly protected reinspection slots for high-risk repeat-offender cases in her two north-side corridors after presenting a marked-up packet showing timing gaps; she now focuses on building a cheat sheet, cover page, and tracking system to prevent slot drift.",
+      "tags": [
+        "protected-reinspection-slots",
+        "repeat-offender-heat-map",
+        "operations-meeting-win",
+        "ten-business-day-follow-up",
+        "eligibility-rule-cheat-sheet",
+        "one-page-cover-sheet",
+        "evidence-based-advocacy",
+        "pilot-to-formal-policy"
+      ],
+      "tone": "positive",
+      "open_loops": [
+        "Write eligibility cheat sheet for inspectors",
+        "Build standard cover page for protected-slot files",
+        "Track slot usage and displacement rate",
+        "Hold team huddle to calibrate rollout"
+      ],
+      "decisions": [
+        "Monica's pilot on earlier reinspections became formal policy for her two north-side corridors, with protected weekly slo"
+      ],
+      "strands": [
+        "protected-reinspection-slots",
+        "repeat-offender-heat-map",
+        "operations-meeting-win",
+        "ten-business-day-follow-up",
+        "eligibility-rule-cheat-sheet",
+        "one-page-cover-sheet",
+        "evidence-based-advocacy",
+        "pilot-to-formal-policy"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2022-05-24-1310",
+      "date": "2022-05-24",
+      "start": "2022-05-24T13:10:00.000Z",
+      "end": "2022-05-24T14:36:00.000Z",
+      "turn_count": 30,
+      "status": "closed",
+      "focus": "A lot has shifted lately, not in some dramatic movie way, just enough that it fe",
+      "summary": "Monica transitions from casual dates to a cautious new relationship with Colin Mercer, a civil engineer in Bay View; she navigates pacing, custody-calendar organizing, disclosure to Shawna, and the challenge of naming something real without accelerating it beyond what her life can hold.",
+      "tags": [
+        "colin-mercer-relationship",
+        "cautious-dating-approach",
+        "custody-calendar-dating",
+        "bay-view-civil-engineer",
+        "definition-not-acceleration",
+        "shawna-brooks-first-disclosure",
+        "trust-and-steadiness-values",
+        "slow-pace-self-acceptance"
+      ],
+      "tone": "positive",
+      "open_loops": [
+        "Decide when/how to introduce Colin to Leah",
+        "Monitor consistency between Colin's actions and words",
+        "Protect dating pace from external pressure"
+      ],
+      "decisions": [
+        "Monica is now in a cautious new relationship with Colin Mercer and is moving slowly because her custody schedule and tru",
+        "Colin Mercer is a Bay View civil engineer Monica met through a friend's patio gathering."
+      ],
+      "strands": [
+        "colin-mercer-relationship",
+        "cautious-dating-approach",
+        "custody-calendar-dating",
+        "bay-view-civil-engineer",
+        "definition-not-acceleration",
+        "shawna-brooks-first-disclosure",
+        "trust-and-steadiness-values",
+        "slow-pace-self-acceptance"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2022-06-18-0850",
+      "date": "2022-06-18",
+      "start": "2022-06-18T08:50:00.000Z",
+      "end": "2022-06-18T10:16:00.000Z",
+      "turn_count": 30,
+      "status": "closed",
+      "focus": "A lot has shifted at work lately, and one case in particular kind of changed the",
+      "summary": "A landlord's cosmetic patch job and missed deadline leads Monica to build a tighter evidence packet with photo logs, tenant notes, and chronology sequencing; the stronger citations make her corridor reinspection process more visible inside City Hall, and she works to standardize the method before visibility reshapes it.",
+      "tags": [
+        "stronger-citation-packet",
+        "cosmetic-patch-job-exposed",
+        "tenant-contact-note-training",
+        "chronology-sequencing-evidence",
+        "corridor-visibility-city-hall",
+        "skeptic-pressure-test",
+        "one-page-packet-standard",
+        "minimum-viable-formalization"
+      ],
+      "tone": "positive",
+      "open_loops": [
+        "Debrief team on evidence hardest to assemble",
+        "Draft one-page packet standard with sample notes",
+        "Track who is asking about the process internally",
+        "Create repeatable checklist for strong packets"
+      ],
+      "decisions": [
+        "Monica's corridor reinspection process became a higher-visibility enforcement model inside City Hall after stronger evid"
+      ],
+      "strands": [
+        "stronger-citation-packet",
+        "cosmetic-patch-job-exposed",
+        "tenant-contact-note-training",
+        "chronology-sequencing-evidence",
+        "corridor-visibility-city-hall",
+        "skeptic-pressure-test",
+        "one-page-packet-standard",
+        "minimum-viable-formalization"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2022-07-13-0635",
+      "date": "2022-07-13",
+      "start": "2022-07-13T06:35:00.000Z",
+      "end": "2022-07-13T07:43:00.000Z",
+      "turn_count": 24,
+      "status": "closed",
+      "focus": "Things have been busy lately, and in the middle of all that I did something pret",
+      "summary": "A cheap Brewers game with Leah in nosebleed seats creates an unexpected ongoing connection — Monica starts listening to pregame radio on inspection drives and skimming recaps so she can keep up with Leah's excited player recaps in the car, finding a low-cost, low-friction bonding ritual.",
+      "tags": [
+        "brewers-game-with-leah",
+        "summer-bonding-ritual",
+        "car-radio-pregame-habit",
+        "low-stakes-connection",
+        "leah-as-expert-dynamic",
+        "sports-interest-refinement",
+        "affordable-ordinary-fun",
+        "parent-child-side-door-conversation"
+      ],
+      "tone": "positive",
+      "open_loops": [
+        "Consider another cheap game if one lines up naturally",
+        "Let Leah be the Brewers expert and fill Monica in",
+        "Use sports talk as side door for checking in on Leah's mood"
+      ],
+      "decisions": [
+        "Monica's sports preference shifted slightly: she still cares most about Leah's volleyball, but after a midsummer Brewers"
+      ],
+      "strands": [
+        "brewers-game-with-leah",
+        "summer-bonding-ritual",
+        "car-radio-pregame-habit",
+        "low-stakes-connection",
+        "leah-as-expert-dynamic",
+        "sports-interest-refinement",
+        "affordable-ordinary-fun",
+        "parent-child-side-door-conversation"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2022-08-27-0320",
+      "date": "2022-08-27",
+      "start": "2022-08-27T03:20:00.000Z",
+      "end": "2022-08-27T04:41:00.000Z",
+      "turn_count": 28,
+      "status": "closed",
+      "focus": "A lot has been shifting lately, and work took another turn. What had been this v",
+      "summary": "Monica formalizes her corridor work into a monthly leadership report tracking repeat-owner addresses, average reinspection lag, and open dangerous-condition cases by block; she navigates the shift from running a process to producing a readable accountability tool as her manager's retirement approaches.",
+      "tags": [
+        "monthly-corridor-leadership-report",
+        "repeat-owner-address-tracking",
+        "reinspection-lag-metric",
+        "dangerous-condition-block-map",
+        "denise-wroblewski-mentorship",
+        "team-tool-vs-personal-project",
+        "boring-and-durable-documentation",
+        "north-side-pilot-formalization"
+      ],
+      "tone": "positive",
+      "open_loops": [
+        "Add short narrative note to report for human context",
+        "Stabilize monthly format to enable trend comparison",
+        "Move backup detail to separate file from main page",
+        "Prepare for leadership questions about the data"
+      ],
+      "decisions": [
+        "Monica is a frontline housing code supervisor now producing monthly corridor reports for leadership that track repeat-ow"
+      ],
+      "strands": [
+        "monthly-corridor-leadership-report",
+        "repeat-owner-address-tracking",
+        "reinspection-lag-metric",
+        "dangerous-condition-block-map",
+        "denise-wroblewski-mentorship",
+        "team-tool-vs-personal-project",
+        "boring-and-durable-documentation",
+        "north-side-pilot-formalization"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2022-09-21-1105",
+      "date": "2022-09-21",
+      "start": "2022-09-21T11:05:00.000Z",
+      "end": "2022-09-21T12:13:00.000Z",
+      "turn_count": 24,
+      "status": "closed",
+      "focus": "A lot has shifted lately, and one thing I am actually relieved to say out loud i",
+      "summary": "Using a tax refund and overtime for a lump-sum payment, Monica makes a meaningful dent in her divorce debt, shifting from feeling cornered by old obligations to having more breathing room around school costs for Leah; she plans a bounded dinner reward and a school-cost buffer while keeping her disciplined autopay system intact.",
+      "tags": [
+        "divorce-debt-lump-sum-payment",
+        "tax-refund-and-overtime-strategy",
+        "school-cost-background-dread",
+        "home-purchase-spending-trap",
+        "bounded-reward-dinner",
+        "school-cost-emergency-buffer",
+        "financial-psychological-relief",
+        "boring-autopay-discipline"
+      ],
+      "tone": "positive",
+      "open_loops": [
+        "Create school-cost buffer account with next overtime",
+        "Maintain home purchase waiting period rule",
+        "Keep autopay and budget structure unchanged"
+      ],
+      "decisions": [
+        "Monica still earns about $86,000, covers her bills reliably, and has now reduced a noticeable portion of her divorce deb"
+      ],
+      "strands": [
+        "divorce-debt-lump-sum-payment",
+        "tax-refund-and-overtime-strategy",
+        "school-cost-background-dread",
+        "home-purchase-spending-trap",
+        "bounded-reward-dinner",
+        "school-cost-emergency-buffer",
+        "financial-psychological-relief",
+        "boring-autopay-discipline"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2022-10-30-0730",
+      "date": "2022-10-30",
+      "start": "2022-10-30T07:30:00.000Z",
+      "end": "2022-10-30T08:38:00.000Z",
+      "turn_count": 24,
+      "status": "closed",
+      "focus": "A lot has shifted lately, and work got messier in a way I honestly saw coming bu",
+      "summary": "After Monica's monthly corridor report spotlights a prominent landlord's repeated violations, upper management imposes extra review on his properties, partially choking the fast reinspection lane; Monica moves from anger to methodical evidence-tracking, documenting delay dates and missed fast slots to make the obstruction legible.",
+      "tags": [
+        "political-interference-enforcement",
+        "prominent-landlord-pushback",
+        "extra-review-bottleneck",
+        "protected-slot-neutralization",
+        "side-log-evidence-tracking",
+        "denise-wroblewski-warning-realized",
+        "boring-evidence-over-emotion",
+        "corridor-model-under-threat"
+      ],
+      "tone": "negative",
+      "open_loops": [
+        "Build side log tracking review delay dates and missed fast slots",
+        "Collect enough cases to show pattern before surfacing",
+        "Add protected-slot-available field to delay tracker",
+        "Decide when to present delay data to management"
+      ],
+      "decisions": [
+        "Monica's corridor enforcement process was partially slowed after upper management required extra review for properties t",
+        "Monica became more discouraged and angry after political pressure slowed the faster reinspection process she had built."
+      ],
+      "strands": [
+        "political-interference-enforcement",
+        "prominent-landlord-pushback",
+        "extra-review-bottleneck",
+        "protected-slot-neutralization",
+        "side-log-evidence-tracking",
+        "denise-wroblewski-warning-realized",
+        "boring-evidence-over-emotion",
+        "corridor-model-under-threat"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2022-11-16-0955",
+      "date": "2022-11-16",
+      "start": "2022-11-16T09:55:00.000Z",
+      "end": "2022-11-16T11:09:00.000Z",
+      "turn_count": 26,
+      "status": "closed",
+      "focus": "Things have felt a little heavy lately, so this is a smaller update, but it ende",
+      "summary": "During a politically heavy fall at work, Monica finds unexpected relief in a desk organization project with Leah that leads to batch cooking with labeled leftovers and a craving for visible home order; she plans an entry-table reset while consciously resisting the urge to turn the whole condo into a renovation project.",
+      "tags": [
+        "desk-organization-with-leah",
+        "parenting-blog-practical-idea",
+        "batch-cooking-labeled-leftovers",
+        "visible-order-vs-hidden-systems",
+        "low-grade-irritation-removal",
+        "order-as-restorative-practice",
+        "entry-table-next-target",
+        "one-area-at-a-time-rule"
+      ],
+      "tone": "mixed",
+      "open_loops": [
+        "Tackle entry table as next visible-order project",
+        "Keep container spending in check",
+        "Define mail/volleyball/EDC categories for entry table"
+      ],
+      "decisions": [
+        "Monica now leans even harder on batch cooking and labeled leftovers to keep home life orderly during a stressful fall."
+      ],
+      "strands": [
+        "desk-organization-with-leah",
+        "parenting-blog-practical-idea",
+        "batch-cooking-labeled-leftovers",
+        "visible-order-vs-hidden-systems",
+        "low-grade-irritation-removal",
+        "order-as-restorative-practice",
+        "entry-table-next-target",
+        "one-area-at-a-time-rule"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2023-01-12-0045",
+      "date": "2023-01-12",
+      "start": "2023-01-12T00:45:00.000Z",
+      "end": "2023-01-12T02:11:00.000Z",
+      "turn_count": 30,
+      "status": "closed",
+      "focus": "A lot has shifted lately, and I finally feel like I have something real to show ",
+      "summary": "Rather than let political interference stall her corridor work, Monica rebuilds the protocol with clearer escalation triggers, a standard photo checklist, and a one-page chronic-offender brief designed to survive extra management review; she shifts from anger to design, accepting that the constrained version still protects urgent cases.",
+      "tags": [
+        "corridor-protocol-rewrite",
+        "chronic-offender-brief-template",
+        "escalation-trigger-clarity",
+        "photo-checklist-standardization",
+        "surviving-extra-review-layer",
+        "boring-factual-presentation",
+        "andre-pruitt-field-validation",
+        "urgent-case-age-tracking"
+      ],
+      "tone": "mixed",
+      "open_loops": [
+        "Freeze protocol structure for trial period",
+        "Track urgent case age before and after rewrite",
+        "Get Andre's input on brief blind spots",
+        "Decide framing for upward presentation"
+      ],
+      "decisions": [
+        "Monica rebuilt her slowed corridor enforcement process around a formal chronic-offender brief and a standardized escalat"
+      ],
+      "strands": [
+        "corridor-protocol-rewrite",
+        "chronic-offender-brief-template",
+        "escalation-trigger-clarity",
+        "photo-checklist-standardization",
+        "surviving-extra-review-layer",
+        "boring-factual-presentation",
+        "andre-pruitt-field-validation",
+        "urgent-case-age-tracking"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2023-02-09-1300",
+      "date": "2023-02-09",
+      "start": "2023-02-09T13:00:00.000Z",
+      "end": "2023-02-09T14:26:00.000Z",
+      "turn_count": 30,
+      "status": "closed",
+      "focus": "A lot has shifted lately, and one of the bigger things is that I ended things wi",
+      "summary": "Monica ends her relationship with Colin after a winter argument reveals an irreconcilable mismatch between her structured life (custody exchanges, unpredictable inspection call-backs) and his desire for spontaneity; she processes the relief of no longer managing someone else's disappointment while keeping herself open without rushing to fill the space.",
+      "tags": [
+        "colin-mercer-breakup",
+        "schedule-mismatch-relationship",
+        "reassurance-as-second-job",
+        "custody-logistics-constraint",
+        "emotional-fatigue-tolerance",
+        "clean-break-integrity",
+        "mostly-single-recovery",
+        "clear-plans-preference"
+      ],
+      "tone": "mixed",
+      "open_loops": [
+        "Stay in recovery mode without hardening permanently",
+        "Define what kind of partner fits work and parenting reality",
+        "Let mostly single be peaceful rather than closed"
+      ],
+      "decisions": [
+        "Monica ended her relationship with Colin Mercer after a winter argument about her unpredictable evening call-backs and h",
+        "Colin Mercer is now Monica's former boyfriend, and the relationship ended because repeated schedule conflicts and emotio"
+      ],
+      "strands": [
+        "colin-mercer-breakup",
+        "schedule-mismatch-relationship",
+        "reassurance-as-second-job",
+        "custody-logistics-constraint",
+        "emotional-fatigue-tolerance",
+        "clean-break-integrity",
+        "mostly-single-recovery",
+        "clear-plans-preference"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2023-03-24-0235",
+      "date": "2023-03-24",
+      "start": "2023-03-24T02:35:00.000Z",
+      "end": "2023-03-24T03:49:00.000Z",
+      "turn_count": 26,
+      "status": "closed",
+      "focus": "A lot has been shifting lately, and one thing at work finally felt like it moved",
+      "summary": "Monica trains two newer inspectors on the chronic-offender brief and a tenant-contact script to standardize how the team documents retaliation fears and access problems before reinspections, marking a shift from personal vigilance to building shared team judgment and reducing her sole ownership of the corridor process.",
+      "tags": [
+        "chronic-offender-brief-training",
+        "tenant-contact-script-standardization",
+        "new-inspector-coaching",
+        "retaliation-fear-documentation",
+        "team-habit-spread",
+        "uncertainty-vs-vagueness-distinction",
+        "supervisory-role-evolution",
+        "first-use-shadowing-rule"
+      ],
+      "tone": "positive",
+      "open_loops": [
+        "Shadow first few high-friction reinspections with new inspectors",
+        "Hold follow-up meeting on one-strong-one-uncertain notes",
+        "Watch for unsolicited quality in file notes"
+      ],
+      "decisions": [
+        "Monica is a frontline housing code supervisor now training her team on chronic-offender briefs and tenant-contact script"
+      ],
+      "strands": [
+        "chronic-offender-brief-training",
+        "tenant-contact-script-standardization",
+        "new-inspector-coaching",
+        "retaliation-fear-documentation",
+        "team-habit-spread",
+        "uncertainty-vs-vagueness-distinction",
+        "supervisory-role-evolution",
+        "first-use-shadowing-rule"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2023-04-22-1040",
+      "date": "2023-04-22",
+      "start": "2023-04-22T10:40:00.000Z",
+      "end": "2023-04-22T11:48:00.000Z",
+      "turn_count": 24,
+      "status": "closed",
+      "focus": "Things have felt a little steadier lately, at least enough that I noticed I was ",
+      "summary": "With work feeling less jagged, Monica discovers older courtroom movies and dry legal dramas as her ideal Sunday-night reset; she turns a library display discovery into a low-effort ritual of tea, blanket, and contained storytelling that helps her decompress before Monday without demanding emotional output.",
+      "tags": [
+        "courtroom-movie-sunday-ritual",
+        "legal-drama-decompression",
+        "library-discover-recovery-shelf",
+        "low-effort-weekend-reset",
+        "dry-contained-entertainment",
+        "containment-over-stimulation",
+        "sunday-reset-night-label",
+        "library-recommendations-list"
+      ],
+      "tone": "positive",
+      "open_loops": [
+        "Ask librarian for dry courtroom movie recommendations",
+        "Build two-column list: soothing vs too performative",
+        "Pre-approve 2-3 titles for tired Sundays"
+      ],
+      "decisions": [
+        "Monica started defaulting to older courtroom movies and dry legal dramas as her preferred Sunday-night recovery watch."
+      ],
+      "strands": [
+        "courtroom-movie-sunday-ritual",
+        "legal-drama-decompression",
+        "library-discover-recovery-shelf",
+        "low-effort-weekend-reset",
+        "dry-contained-entertainment",
+        "containment-over-stimulation",
+        "sunday-reset-night-label",
+        "library-recommendations-list"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2023-06-07-0115",
+      "date": "2023-06-07",
+      "start": "2023-06-07T01:15:00.000Z",
+      "end": "2023-06-07T02:41:00.000Z",
+      "turn_count": 30,
+      "status": "closed",
+      "focus": "A lot has been shifting lately, and for once I have a work update that is actual",
+      "summary": "In a budget conversation that could have cost her protected reinspection time, Monica instead presents block-level reopened complaint declines in one target corridor; the evidence earns continued protected capacity and shifts her relationship to the work from defensive advocacy to proof-based confidence.",
+      "tags": [
+        "budget-conversation-win",
+        "complaint-decline-evidence",
+        "block-level-metric-advocacy",
+        "protected-capacity-continuation",
+        "corridor-outcome-proof",
+        "two-layer-report-structure",
+        "repeat-script-for-future",
+        "resilient-standardized-model"
+      ],
+      "tone": "positive",
+      "open_loops": [
+        "Lock core metrics for ongoing tracking",
+        "Add framing sentence explaining lead indicators",
+        "Build cleaner two-page report template"
+      ],
+      "decisions": [
+        "Monica is a frontline housing code supervisor whose corridor model has earned continued protected reinspection capacity"
+      ],
+      "strands": [
+        "budget-conversation-win",
+        "complaint-decline-evidence",
+        "block-level-metric-advocacy",
+        "protected-capacity-continuation",
+        "corridor-outcome-proof",
+        "two-layer-report-structure",
+        "repeat-script-for-future",
+        "resilient-standardized-model"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2023-07-19-1225",
+      "date": "2023-07-19",
+      "start": "2023-07-19T12:25:00.000Z",
+      "end": "2023-07-19T13:39:00.000Z",
+      "turn_count": 26,
+      "status": "closed",
+      "focus": "A lot has been shifting lately, and I finally made one home decision I had been ",
+      "summary": "After months of debate, Monica pays for bathroom ventilation and closet storage upgrades in her Lake Michigan condo; the improvements reduce daily friction, make home feel less like the neglected buildings she inspects, and change custody-prep from a scramble to a steadier rhythm, though the cost tightens her budget temporarily.",
+      "tags": [
+        "bathroom-ventilation-upgrade",
+        "closet-storage-overhaul",
+        "daily-friction-removal",
+        "work-spillover-home-boundary",
+        "quality-of-life-expense",
+        "reset-before-custody-visits",
+        "condo-as-counterbalance",
+        "spending-reset-discipline"
+      ],
+      "tone": "positive",
+      "open_loops": [
+        "Freeze home upgrade spending for several weeks",
+        "Jot down short note on what improved functionally",
+        "Distinguish true maintenance from project temptation"
+      ],
+      "decisions": [
+        "Her condo still has the same two-bedroom setup near Lake Michigan, but it now feels more orderly after the ventilation a",
+        "The condo work tightened Monica's budget for a while even though she is still steadily paying down debt."
+      ],
+      "strands": [
+        "bathroom-ventilation-upgrade",
+        "closet-storage-overhaul",
+        "daily-friction-removal",
+        "work-spillover-home-boundary",
+        "quality-of-life-expense",
+        "reset-before-custody-visits",
+        "condo-as-counterbalance",
+        "spending-reset-discipline"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2023-09-08-0620",
+      "date": "2023-09-08",
+      "start": "2023-09-08T06:20:00.000Z",
+      "end": "2023-09-08T07:28:00.000Z",
+      "turn_count": 24,
+      "status": "closed",
+      "focus": "A lot has shifted lately, and work has gotten bigger in a way I did not exactly ",
+      "summary": "After Denise's retirement, Monica absorbs corridor briefing duties under new leadership and pushes the scope from one protected pilot corridor to two-corridor repeat-call block comparisons; she navigates the vulnerability of being more visible while working to make the process less dependent on her alone.",
+      "tags": [
+        "north-side-corridor-briefings",
+        "denise-wroblewski-retirement",
+        "repeat-call-block-comparison",
+        "new-manager-backing",
+        "exposed-but-useful-feeling",
+        "data-pull-handoff",
+        "semi-official-workflow-distribution",
+        "standing-briefing-slot"
+      ],
+      "tone": "mixed",
+      "open_loops": [
+        "Protect standing briefing slot under new leadership",
+        "Assign comparison table data pull to team member",
+        "Document functions now owned for future leverage",
+        "Build repeatable briefing template"
+      ],
+      "decisions": [
+        "Monica's corridor work expanded from one protected pilot corridor into a formal north-side enforcement priority tracking"
+      ],
+      "strands": [
+        "north-side-corridor-briefings",
+        "denise-wroblewski-retirement",
+        "repeat-call-block-comparison",
+        "new-manager-backing",
+        "exposed-but-useful-feeling",
+        "data-pull-handoff",
+        "semi-official-workflow-distribution",
+        "standing-briefing-slot"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2023-10-15-1150",
+      "date": "2023-10-15",
+      "start": "2023-10-15T11:50:00.000Z",
+      "end": "2023-10-15T12:58:00.000Z",
+      "turn_count": 24,
+      "status": "closed",
+      "focus": "Things have been busy since we last talked, just that packed fall feeling where ",
+      "summary": "A coworker's recommendation leads Monica to keep a quiet public radio evening program on at home during case notes and school-night prep; the steadier audio tone helps the apartment feel less jangly after bad days, reduces doom-scrolling, and creates a low-cost environmental cue that signals the workday is over.",
+      "tags": [
+        "public-radio-evening-program",
+        "steady-pace-home-audio",
+        "r-and-b-vs-radio-split",
+        "work-to-home-transition",
+        "low-cost-environmental-design",
+        "lamp-and-radio-cue",
+        "neutral-background-parenting",
+        "cue-not-commandment-approach"
+      ],
+      "tone": "positive",
+      "open_loops": [
+        "Pair radio with specific lamp as transition cue",
+        "Let the habit stay flexible rather than rigid"
+      ],
+      "decisions": [
+        "Monica started keeping more Milwaukee public radio on at home during evening paperwork and school-night prep, not just i"
+      ],
+      "strands": [
+        "public-radio-evening-program",
+        "steady-pace-home-audio",
+        "r-and-b-vs-radio-split",
+        "work-to-home-transition",
+        "low-cost-environmental-design",
+        "lamp-and-radio-cue",
+        "neutral-background-parenting",
+        "cue-not-commandment-approach"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2024-01-17-0055",
+      "date": "2024-01-17",
+      "start": "2024-01-17T00:55:00.000Z",
+      "end": "2024-01-17T02:21:00.000Z",
+      "turn_count": 30,
+      "status": "closed",
+      "focus": "Things have been shifting again at work, and this time it actually moved in a di",
+      "summary": "After a winter review of dangerous-condition files shows her chronic-offender list was catching patterns earlier than acknowledged, Monica pushes through an internal rule that any reopened high-risk case in the two target corridors gets triaged to reinspection before lower-level nuisance complaints, using documented risk concentration rather than moral argument.",
+      "tags": [
+        "reopened-high-risk-triage-rule",
+        "winter-file-review-evidence",
+        "dangerous-condition-priority",
+        "nuisance-complaint-tradeoff",
+        "working-definition-of-reopened",
+        "risk-concentration-framing",
+        "small-rollout-sequencing",
+        "measurable-internal-argument"
+      ],
+      "tone": "positive",
+      "open_loops": [
+        "Write short working definition of reopened high-risk",
+        "Create 2-3 example scenarios for the rule",
+        "Circulate to file-touching staff first for feedback"
+      ],
+      "decisions": [
+        "Monica won an internal priority rule that any reopened high-risk case in the two target corridors gets triaged to reinsp"
+      ],
+      "strands": [
+        "reopened-high-risk-triage-rule",
+        "winter-file-review-evidence",
+        "dangerous-condition-priority",
+        "nuisance-complaint-tradeoff",
+        "working-definition-of-reopened",
+        "risk-concentration-framing",
+        "small-rollout-sequencing",
+        "measurable-internal-argument"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2024-03-05-0530",
+      "date": "2024-03-05",
+      "start": "2024-03-05T05:30:00.000Z",
+      "end": "2024-03-05T06:44:00.000Z",
+      "turn_count": 26,
+      "status": "closed",
+      "focus": "A lot has been shifting lately, and one thing that really bubbled up was co-pare",
+      "summary": "Leah's high school tours trigger reactive texting and sharp exchanges between Monica and Travis over transportation and activity fees; Monica creates a shared spreadsheet and Sunday check-in system that lowers weekday volatility and transforms co-parenting from ad-hoc conflict to reliable coordination.",
+      "tags": [
+        "high-school-transition-planning",
+        "transportation-logistics-conflict",
+        "shared-spreadsheet-system",
+        "sunday-check-in-ritual",
+        "co-parenting-text-boundary",
+        "activity-fee-coordination",
+        "leah-protection-from-tension",
+        "reliable-coordination-goal"
+      ],
+      "tone": "mixed",
+      "open_loops": [
+        "Add pending decisions column to spreadsheet",
+        "Maintain Sunday check-in as minimum structure",
+        "Define non-urgent text rule for school items"
+      ],
+      "decisions": [
+        "Monica and Travis now use a shared spreadsheet and scheduled Sunday check-ins to handle school planning and reduce react"
+      ],
+      "strands": [
+        "high-school-transition-planning",
+        "transportation-logistics-conflict",
+        "shared-spreadsheet-system",
+        "sunday-check-in-ritual",
+        "co-parenting-text-boundary",
+        "activity-fee-coordination",
+        "leah-protection-from-tension",
+        "reliable-coordination-goal"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2024-05-18-0805",
+      "date": "2024-05-18",
+      "start": "2024-05-18T08:05:00.000Z",
+      "end": "2024-05-18T09:31:00.000Z",
+      "turn_count": 30,
+      "status": "closed",
+      "focus": "A lot has been shifting lately, and work took up most of my brain this week. I e",
+      "summary": "Monica defends the concentrated two-corridor strategy against pressure to spread enforcement citywide for appearances, bringing three years of complaint maps, reopened-case counts, and reinspection logs; she shifts the conversation from 'spread it now' to 'what thresholds would justify expansion later' by using risk-based evidence over optics.",
+      "tags": [
+        "concentrated-enforcement-defense",
+        "three-year-complaint-maps",
+        "reopened-case-count-evidence",
+        "faster-reinspection-logs",
+        "citywide-dilution-pushback",
+        "threshold-language-for-expansion",
+        "operational-timing-lead",
+        "not-ready-to-dilute-framing"
+      ],
+      "tone": "mixed",
+      "open_loops": [
+        "Send short follow-up note with three measures and threshold language",
+        "Target two hallway conversations with persuadable people",
+        "Draft clean version of the case while irritation is fresh"
+      ],
+      "decisions": [
+        "Monica is now defending a concentrated two-corridor enforcement strategy with three years of complaint maps, reopened-ca"
+      ],
+      "strands": [
+        "concentrated-enforcement-defense",
+        "three-year-complaint-maps",
+        "reopened-case-count-evidence",
+        "faster-reinspection-logs",
+        "citywide-dilution-pushback",
+        "threshold-language-for-expansion",
+        "operational-timing-lead",
+        "not-ready-to-dilute-framing"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2024-06-29-1315",
+      "date": "2024-06-29",
+      "start": "2024-06-29T13:15:00.000Z",
+      "end": "2024-06-29T14:36:00.000Z",
+      "turn_count": 28,
+      "status": "closed",
+      "focus": "A lot has been shifting lately, and I finally admitted to myself that I have not",
+      "summary": "After months of building work stress compounded by school transition planning leaves her sleeping badly and carrying anger home, Monica starts short-term counseling through the city's employee assistance program; she targets evening transitions, text cutoffs, and sleep tracking as concrete steps to keep home from feeling colonized by work conflict.",
+      "tags": [
+        "employee-assistance-counseling",
+        "anger-and-sleep-disruption",
+        "conflict-fatigue-recognition",
+        "work-to-home-transition-ritual",
+        "evening-text-cutoff-boundary",
+        "short-term-counseling-start",
+        "sleep-as-recovery-metric",
+        "counseling-as-practical-limit-setting"
+      ],
+      "tone": "mixed",
+      "open_loops": [
+        "Set specific evening cutoff for logistical texts",
+        "Build repeatable decompression action after work",
+        "Track sleep with simple 1-5 rating",
+        "Continue counseling appointments"
+      ],
+      "decisions": [
+        "Monica started short-term counseling through the City of Milwaukee's employee assistance program after finally admitting"
+      ],
+      "strands": [
+        "employee-assistance-counseling",
+        "anger-and-sleep-disruption",
+        "conflict-fatigue-recognition",
+        "work-to-home-transition-ritual",
+        "evening-text-cutoff-boundary",
+        "short-term-counseling-start",
+        "sleep-as-recovery-metric",
+        "counseling-as-practical-limit-setting"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2024-09-14-0210",
+      "date": "2024-09-14",
+      "start": "2024-09-14T02:10:00.000Z",
+      "end": "2024-09-14T03:31:00.000Z",
+      "turn_count": 28,
+      "status": "closed",
+      "focus": "A lot has shifted lately, and for once I have a work update that actually feels ",
+      "summary": "In a quarterly review, Monica presents before-and-after photos from the original fourplex alongside corridor-level data showing fewer repeat complaint addresses and fewer long-open dangerous-condition files; the room's quiet reaction confirms that concentrated enforcement has produced measurable safer-housing gains in one target corridor.",
+      "tags": [
+        "quarterly-review-evidence-milestone",
+        "repeat-complaint-address-decline",
+        "long-open-dangerous-file-reduction",
+        "original-fourplex-photos",
+        "concentrated-enforcement-validation",
+        "before-and-after-visual-proof",
+        "one-corridor-outcome-claim",
+        "andre-pruitt-field-backing"
+      ],
+      "tone": "positive",
+      "open_loops": [
+        "Send short follow-up with clean claim and strongest visuals",
+        "Write one-sentence version of outcome evidence",
+        "Separate process protection ask from outcome celebration",
+        "Send note to Denise about the milestone"
+      ],
+      "decisions": [
+        "Monica's two-corridor enforcement approach now has documented declines in repeat complaint addresses and long-open dange"
+      ],
+      "strands": [
+        "quarterly-review-evidence-milestone",
+        "repeat-complaint-address-decline",
+        "long-open-dangerous-file-reduction",
+        "original-fourplex-photos",
+        "concentrated-enforcement-validation",
+        "before-and-after-visual-proof",
+        "one-corridor-outcome-claim",
+        "andre-pruitt-field-backing"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2024-11-11-1020",
+      "date": "2024-11-11",
+      "start": "2024-11-11T10:20:00.000Z",
+      "end": "2024-11-11T11:46:00.000Z",
+      "turn_count": 30,
+      "status": "closed",
+      "focus": "It has been a little while, and life has felt calmer in a way I have not had muc",
+      "summary": "After a casual photo night featuring Door County pictures, Monica shifts her travel default from Chicago weekends toward simple late-summer Wisconsin getaways with Leah; she plans a two-night trip with one anchor activity per day, aiming for ease and connection rather than elaborate vacation production.",
+      "tags": [
+        "door-county-travel-planning",
+        "wisconsin-getaway-with-leah",
+        "photo-night-social-outing",
+        "regional-travel-preference",
+        "one-anchor-per-day-rule",
+        "leah-travel-input-choices",
+        "refundable-booking-threshold",
+        "low-demand-social-reset"
+      ],
+      "tone": "positive",
+      "open_loops": [
+        "Compare Door County against one other Wisconsin option",
+        "Let Leah rank pool/beach/snacks/shops priorities",
+        "Book refundable late-summer accommodation if it fits"
+      ],
+      "decisions": [
+        "Monica's travel preference shifted from defaulting to Chicago weekends toward simple late-summer Wisconsin getaways with"
+      ],
+      "strands": [
+        "door-county-travel-planning",
+        "wisconsin-getaway-with-leah",
+        "photo-night-social-outing",
+        "regional-travel-preference",
+        "one-anchor-per-day-rule",
+        "leah-travel-input-choices",
+        "refundable-booking-threshold",
+        "low-demand-social-reset"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2025-02-06-0140",
+      "date": "2025-02-06",
+      "start": "2025-02-06T01:40:00.000Z",
+      "end": "2025-02-06T02:54:00.000Z",
+      "turn_count": 26,
+      "status": "closed",
+      "focus": "A lot has been shifting lately, and I finally did something I had been putting o",
+      "summary": "To protect her corridor gains from staff turnover and institutional drift, Monica codifies the enforcement workflow into a written supervisor packet with chronic-offender criteria, reinspection slot rules, resident communication scripts, and escalation examples; she plans a one-month live test before seeking formal sign-off.",
+      "tags": [
+        "supervisor-packet-codification",
+        "chronic-offender-written-criteria",
+        "reinspection-slot-protection-rules",
+        "resident-communication-scripts",
+        "escalation-examples-manual",
+        "consistency-under-stress-framing",
+        "one-month-live-test",
+        "staff-turnover-protection"
+      ],
+      "tone": "positive",
+      "open_loops": [
+        "Circulate draft for stress-test feedback",
+        "Track criteria disagreements, slot displacement, script usability",
+        "Refine based on one month of live use before formal sign-off"
+      ],
+      "decisions": [
+        "Monica codified her two-corridor enforcement workflow into a written supervisor packet so the approach would survive sta"
+      ],
+      "strands": [
+        "supervisor-packet-codification",
+        "chronic-offender-written-criteria",
+        "reinspection-slot-protection-rules",
+        "resident-communication-scripts",
+        "escalation-examples-manual",
+        "consistency-under-stress-framing",
+        "one-month-live-test",
+        "staff-turnover-protection"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2025-04-27-1205",
+      "date": "2025-04-27",
+      "start": "2025-04-27T12:05:00.000Z",
+      "end": "2025-04-27T13:13:00.000Z",
+      "turn_count": 24,
+      "status": "closed",
+      "focus": "A lot has shifted lately, not in some huge dramatic way, just enough that I real",
+      "summary": "After Leah's high school transition settles, Monica begins cautiously dating Naomi Sato, a Milwaukee Public Library archivist she met at Shawna's birthday dinner; for once structure and steadiness are read as positive traits rather than obstacles, and Monica feels hopeful without rushing into integration with family life.",
+      "tags": [
+        "naomi-sato-archivist",
+        "cautious-dating-optimism",
+        "structure-appreciated-not-resisted",
+        "shawna-birthday-dinner-meeting",
+        "consistency-over-intensity",
+        "middle-mode-dating",
+        "midwest-library-professional",
+        "slow-pace-encouraging-not-disappointing"
+      ],
+      "tone": "positive",
+      "open_loops": [
+        "Let pattern repeat before defining the relationship further",
+        "Say one clear sentence about intentional pace",
+        "Observe compatibility during small inconveniences"
+      ],
+      "decisions": [
+        "Monica is no longer in a mostly single routine and is now cautiously dating Naomi Sato, moving slowly but with more opti",
+        "Naomi Sato is a Milwaukee Public Library archivist Monica met through Shawna's birthday dinner, and by spring 2028 they "
+      ],
+      "strands": [
+        "naomi-sato-archivist",
+        "cautious-dating-optimism",
+        "structure-appreciated-not-resisted",
+        "shawna-birthday-dinner-meeting",
+        "consistency-over-intensity",
+        "middle-mode-dating",
+        "midwest-library-professional",
+        "slow-pace-encouraging-not-disappointing"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2025-08-21-0755",
+      "date": "2025-08-21",
+      "start": "2025-08-21T07:55:00.000Z",
+      "end": "2025-08-21T09:09:00.000Z",
+      "turn_count": 26,
+      "status": "closed",
+      "focus": "A lot has shifted since we last talked, and this one feels like a real marker. I",
+      "summary": "In a late-summer leadership review, Monica presents evidence that both targeted north-side corridors have reached a visibly safer baseline — faster high-risk reinspections, fewer prolonged open chronic-offender cases, and declined repeat complaint blocks; the recognition confirms her three-year enforcement strategy, leaving her more grounded than triumphant.",
+      "tags": [
+        "leadership-review-recognition",
+        "safer-baseline-confirmation",
+        "two-corridor-outcome-data",
+        "faster-high-risk-reinspection-evidence",
+        "repeat-complaint-block-decline",
+        "chronic-offender-case-closure",
+        "vindicated-conflict-tired",
+        "three-part-outcome-story"
+      ],
+      "tone": "positive",
+      "open_loops": [
+        "Take one quiet night to absorb the recognition",
+        "Write one-page note about the review while fresh",
+        "Lock down 2-3 protections for the process based on review learnings"
+      ],
+      "decisions": [
+        "Monica was recognized in a late-summer leadership review for bringing two targeted north-side rental corridors to a visi",
+        "Seeing measurable safer-housing gains left Monica still conflict-tired but more grounded and vindicated about the system"
+      ],
+      "strands": [
+        "leadership-review-recognition",
+        "safer-baseline-confirmation",
+        "two-corridor-outcome-data",
+        "faster-high-risk-reinspection-evidence",
+        "repeat-complaint-block-decline",
+        "chronic-offender-case-closure",
+        "vindicated-conflict-tired",
+        "three-part-outcome-story"
+      ],
+      "needs_marking": false
+    }
+  ]
+}

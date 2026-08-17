@@ -1,0 +1,1232 @@
+{
+  "_schema": 1,
+  "updated_at": "2026-08-17T16:21:33.597Z",
+  "slice_count": 30,
+  "needs_marking": 0,
+  "slices": [
+    {
+      "id": "2022-01-05-2340",
+      "date": "2022-01-05",
+      "start": "2022-01-05T23:40:00.000Z",
+      "end": "2022-01-06T00:54:00.000Z",
+      "turn_count": 26,
+      "status": "closed",
+      "focus": "Kelli introduces herself fully: work, family, health, finances, and life preferences.",
+      "summary": "Initial onboarding session. Kelli shares her full life picture: ISTJ health information manager, revenue-cycle lead at Gem Valley Rural Health Network, married to Travis, stepdaughter Mikayla, father Gary on dialysis, 50-min commute, borderline BP, claims turnaround goal.",
+      "tags": [
+        "onboarding-intake",
+        "rural-healthcare-admin",
+        "claims-turnaround-goal",
+        "istj-personality",
+        "dialysis-caregiving",
+        "emmett-idaho",
+        "revenue-cycle-lead",
+        "health-information-management"
+      ],
+      "tone": "positive",
+      "open_loops": [
+        "Claims turnaround metrics not yet tracked (first-pass denials, payment lag)",
+        "Blood pressure borderline but no intervention plan yet",
+        "Dialysis caregiving logistics undefined with brother",
+        "Emergency fund untested against vehicle/medical cost stack"
+      ],
+      "decisions": [],
+      "strands": [
+        "onboarding-intake",
+        "rural-healthcare-admin",
+        "claims-turnaround-goal",
+        "istj-personality",
+        "dialysis-caregiving",
+        "emmett-idaho",
+        "revenue-cycle-lead",
+        "health-information-management"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2022-01-21-1010",
+      "date": "2022-01-21",
+      "start": "2022-01-21T10:10:00.000Z",
+      "end": "2022-01-21T11:31:00.000Z",
+      "turn_count": 28,
+      "status": "closed",
+      "focus": "Monica puts Kelli in charge of a network-wide denial turnaround; she builds a color-coded tracker at home.",
+      "summary": "After a payroll-close cash scare, Monica formally puts Kelli in charge of a network-wide denial and payment-lag turnaround project. Kelli builds a color-coded tracker combining clearinghouse exports, payer remits, and front-desk correction logs, working evenings. She struggles with how much to share versus perfect first, and whether the project is changing her actual role.",
+      "tags": [
+        "claims-turnaround-project",
+        "denial-categories",
+        "monica-wren-ally",
+        "cash-flow-scare",
+        "tracker-building",
+        "invisible-labor-risk",
+        "aging-claims-triage",
+        "workplace-boundaries"
+      ],
+      "tone": "mixed",
+      "open_loops": [
+        "Tracker draft not yet shown to leadership",
+        "No distribution plan for clinic ownership yet",
+        "Hard stop time for evening analysis not set",
+        "Shoulder/neck tension worsening from hunching"
+      ],
+      "decisions": [
+        "After a payroll-close cash scare, Monica formally put Kelli in charge of a network-wide denial and payment-lag turnaroun",
+        "Kelli became more mentally keyed up after getting the turnaround project and now spends nights replaying denial categori"
+      ],
+      "strands": [
+        "claims-turnaround-project",
+        "denial-categories",
+        "monica-wren-ally",
+        "cash-flow-scare",
+        "tracker-building",
+        "invisible-labor-risk",
+        "aging-claims-triage",
+        "workplace-boundaries"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2022-02-11-1225",
+      "date": "2022-02-11",
+      "start": "2022-02-11T12:25:00.000Z",
+      "end": "2022-02-11T13:39:00.000Z",
+      "turn_count": 26,
+      "status": "closed",
+      "focus": "Kelli discovers a plain-language workplace communication podcast during her commute via Shawna.",
+      "summary": "Kelli attends a state billing association dinner with Shawna and discovers a no-jargon podcast about difficult workplace conversations. She integrates it into her commute rotation between 1990s country songs, finding that better words at the right moment help with the friction she's been feeling at work. Shawna becomes an episode curator for her.",
+      "tags": [
+        "workplace-communication",
+        "commute-listening-habits",
+        "shawna-haskell-friend",
+        "billing-association-dinner",
+        "difficult-conversations",
+        "podcast-discovery",
+        "conflict-avoidance-pattern",
+        "90s-country-music"
+      ],
+      "tone": "positive",
+      "open_loops": [
+        "Kelli is testing one phrase at a time ('Walk me through what happened before this got kicked back')",
+        "Notes list of helpful phrases not yet started",
+        "Only using one episode per commute — still experimental"
+      ],
+      "decisions": [
+        "Kelli's commute listening now includes practical podcasts about workplace communication in addition to budgeting and hom"
+      ],
+      "strands": [
+        "workplace-communication",
+        "commute-listening-habits",
+        "shawna-haskell-friend",
+        "billing-association-dinner",
+        "difficult-conversations",
+        "podcast-discovery",
+        "conflict-avoidance-pattern",
+        "90s-country-music"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2022-03-07-0945",
+      "date": "2022-03-07",
+      "start": "2022-03-07T09:45:00.000Z",
+      "end": "2022-03-07T10:53:00.000Z",
+      "turn_count": 24,
+      "status": "closed",
+      "focus": "Leadership approves Kelli's structured denial-reduction pilot with twice-weekly huddles and site tracking.",
+      "summary": "Kelli wins leadership approval for a structured denial-reduction pilot using clinic-by-clinic mapping of three months of denial codes. The pilot includes twice-weekly pre-bill scrub huddles, front-desk quick-check guides (renamed from 'cheat sheets' for sensitivity), and tracking errors by site. She chooses eligibility denials as the first target for a quick early win.",
+      "tags": [
+        "denial-reduction-pilot",
+        "pre-bill-scrub-huddles",
+        "leadership-approval",
+        "clinic-by-clinic-data",
+        "eligibility-denials-first",
+        "monica-wren-ally",
+        "dr-owen-leland-stakeholder",
+        "front-desk-cheat-sheets"
+      ],
+      "tone": "positive",
+      "open_loops": [
+        "First huddle format not yet tested",
+        "Dr. Leland check-in not yet scheduled",
+        "Metric (repeat eligibility denials per site per week) not yet sent",
+        "Pilot site selection (best site vs worst site) undecided"
+      ],
+      "decisions": [
+        "Kelli won leadership approval to run a structured denial-reduction pilot with twice-weekly pre-bill scrub huddles, front"
+      ],
+      "strands": [
+        "denial-reduction-pilot",
+        "pre-bill-scrub-huddles",
+        "leadership-approval",
+        "clinic-by-clinic-data",
+        "eligibility-denials-first",
+        "monica-wren-ally",
+        "dr-owen-leland-stakeholder",
+        "front-desk-cheat-sheets"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2022-03-29-0130",
+      "date": "2022-03-29",
+      "start": "2022-03-29T01:30:00.000Z",
+      "end": "2022-03-29T02:44:00.000Z",
+      "turn_count": 26,
+      "status": "closed",
+      "focus": "After a tense night, Kelli and Travis reset their weekend communication around her father's dialysis schedule.",
+      "summary": "After Travis eats reheated soup alone following another Saturday of dialysis driving, Kelli and Travis have an honest kitchen-table talk. They agree on Friday-night weekend forecasts, plain texts when plans change, and a protected half-day each month. The marriage remains steady but is now running on deliberate shared scheduling rather than silent expectation.",
+      "tags": [
+        "kitchen-table-talk",
+        "travis-communication",
+        "dialysis-caregiving-strain",
+        "marriage-reset",
+        "weekend-predictability",
+        "friday-night-planning",
+        "caregiver-burnout",
+        "protected-half-day"
+      ],
+      "tone": "mixed",
+      "open_loops": [
+        "Friday-night rundown ritual not yet established",
+        "Protected half-day not yet tried/scheduled",
+        "Kelli needs to say 'I know the guessing has been unfair to you' directly to Travis",
+        "Weekend planning system (three buckets: gone/home/check-by-noon) not yet implemented"
+      ],
+      "decisions": [
+        "Her marriage is still steady, but they now rely on a more deliberate shared weekend schedule because Gary's dialysis log",
+        "After the talk, Kelli and Travis started planning around her work surges and her father's dialysis trips more openly ins"
+      ],
+      "strands": [
+        "kitchen-table-talk",
+        "travis-communication",
+        "dialysis-caregiving-strain",
+        "marriage-reset",
+        "weekend-predictability",
+        "friday-night-planning",
+        "caregiver-burnout",
+        "protected-half-day"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2022-04-18-0855",
+      "date": "2022-04-18",
+      "start": "2022-04-18T08:55:00.000Z",
+      "end": "2022-04-18T10:16:00.000Z",
+      "turn_count": 28,
+      "status": "closed",
+      "focus": "The denial-reduction pilot expands network-wide with site-specific binders and standardized huddles.",
+      "summary": "Kelli's denial-reduction pilot expands to the entire network after one clinic's front-desk overtime drop gave Monica proof in plain English. She creates site-specific binders (top five preventable denial causes per clinic) and faces pushback from a physician who sees the pre-bill pause as a flow problem. She defines reporting consistency and a standard huddle format as the backbone of the rollout.",
+      "tags": [
+        "pilot-expansion",
+        "site-binders",
+        "overtime-reduction-proof",
+        "network-wide-process",
+        "front-desk-labor-savings",
+        "standardized-huddles",
+        "reporting-consistency",
+        "monica-wren-ally"
+      ],
+      "tone": "positive",
+      "open_loops": [
+        "Claim-release lag field not yet added to reporting",
+        "Leadership short update not yet sent",
+        "Exception policy (core process vs local workaround) undefined",
+        "Dr. Leland pushback handling not yet tested"
+      ],
+      "decisions": [
+        "Kelli's denial-reduction work moved from a pilot to a network-wide process with site binders, standard huddles, and regu"
+      ],
+      "strands": [
+        "pilot-expansion",
+        "site-binders",
+        "overtime-reduction-proof",
+        "network-wide-process",
+        "front-desk-labor-savings",
+        "standardized-huddles",
+        "reporting-consistency",
+        "monica-wren-ally"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2022-05-09-1120",
+      "date": "2022-05-09",
+      "start": "2022-05-09T11:20:00.000Z",
+      "end": "2022-05-09T12:46:00.000Z",
+      "turn_count": 30,
+      "status": "closed",
+      "focus": "Kelli starts a weekly low-key stretching class at the community center that relieves her shoulder and neck tightness.",
+      "summary": "A neighbor talks Kelli into a weekly stretching class at the community center for people with desk jobs. She finds real relief in her right shoulder and neck, notices better sleep and less irritability with chores, and decides to keep it as weekly 'maintenance' rather than aspirational self-care. She plans to ask for a 5-minute home routine from the instructor.",
+      "tags": [
+        "stretching-class",
+        "community-center",
+        "shoulder-neck-tension",
+        "desk-job-health",
+        "weekly-maintenance-routine",
+        "body-awareness",
+        "sleep-improvement",
+        "neighbor-connection"
+      ],
+      "tone": "positive",
+      "open_loops": [
+        "5-minute home routine not yet requested from instructor",
+        "Phone tracking notes (shoulder/neck/chores rating) not yet started",
+        "Habit still needs explicit scheduling protection at home"
+      ],
+      "decisions": [
+        "Kelli has started attending a simple weekly community-center stretching class for people with desk jobs."
+      ],
+      "strands": [
+        "stretching-class",
+        "community-center",
+        "shoulder-neck-tension",
+        "desk-job-health",
+        "weekly-maintenance-routine",
+        "body-awareness",
+        "sleep-improvement",
+        "neighbor-connection"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2022-06-14-0305",
+      "date": "2022-06-14",
+      "start": "2022-06-14T03:05:00.000Z",
+      "end": "2022-06-14T04:13:00.000Z",
+      "turn_count": 24,
+      "status": "closed",
+      "focus": "A blood pressure scare in urgent care forces Kelli to delegate denial category ownership to senior billers.",
+      "summary": "After weeks of dawn-to-evening cleanup on old Medicaid and commercial claims, Kelli gets stress headaches and a concerning blood pressure reading at urgent care. She follows up with her doctor and begins real delegation: two senior billers get ownership of authorization-related denials and eligibility/registration fallout respectively. She drafts one-page ownership lane sheets with aging thresholds and payer quirks.",
+      "tags": [
+        "hypertension-scare",
+        "urgent-care-visit",
+        "delegation-of-denial-categories",
+        "stress-headaches",
+        "monica-wren-ally",
+        "lane-sheets",
+        "senior-biller-ownership",
+        "home-blood-pressure-cuff"
+      ],
+      "tone": "negative",
+      "open_loops": [
+        "Home blood pressure cuff not yet purchased",
+        "Doctor follow-up booked but not completed",
+        "Hard-stop evenings (at least 2/week) not yet enforced",
+        "Headache-type tracking (work type vs headache level) not started",
+        "Lane sheets not yet reviewed with assigned billers"
+      ],
+      "decisions": [
+        "Kelli's blood pressure became concerning during heavy cleanup months after repeated dawn-to-evening claims work, with st",
+        "Kelli is still revenue-cycle lead, but she has started delegating ownership of specific denial categories to two senior "
+      ],
+      "strands": [
+        "hypertension-scare",
+        "urgent-care-visit",
+        "delegation-of-denial-categories",
+        "stress-headaches",
+        "monica-wren-ally",
+        "lane-sheets",
+        "senior-biller-ownership",
+        "home-blood-pressure-cuff"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2022-07-02-1210",
+      "date": "2022-07-02",
+      "start": "2022-07-02T12:10:00.000Z",
+      "end": "2022-07-02T13:31:00.000Z",
+      "turn_count": 28,
+      "status": "closed",
+      "focus": "A truck transmission rebuild and rising dialysis transport costs force Kelli and Travis to use emergency savings.",
+      "summary": "Stacked expenses (2008 pickup transmission rebuild plus rising dialysis transport costs for Gary) force Kelli and Travis to tap their emergency savings and cancel a planned overnight trip. Kelli rethinks the household's financial vulnerability, distinguishing between a discipline problem and a planning problem. She plans a budget conversation, a mechanic's 12-month outlook request, and a cheap intentional evening with Travis.",
+      "tags": [
+        "transmission-rebuild",
+        "emergency-savings-use",
+        "dialysis-transport-costs",
+        "financial-vulnerability",
+        "cancelled-coast-trip",
+        "travis-partnership",
+        "truck-repair-cycle",
+        "vehicle-and-medical-buffer"
+      ],
+      "tone": "negative",
+      "open_loops": [
+        "Savings rebuild target not yet set",
+        "Mechanic 12-month outlook not yet requested",
+        "Vehicle-repair threshold (when to stop fixing) not yet decided",
+        "Dedicated vehicle-and-medical-travel buffer not yet started",
+        "Budget categories (paused vs reduced vs protected) undefined"
+      ],
+      "decisions": [
+        "Kelli and Travis had to use part of their emergency savings after their 2008 pickup needed a transmission rebuild during"
+      ],
+      "strands": [
+        "transmission-rebuild",
+        "emergency-savings-use",
+        "dialysis-transport-costs",
+        "financial-vulnerability",
+        "cancelled-coast-trip",
+        "travis-partnership",
+        "truck-repair-cycle",
+        "vehicle-and-medical-buffer"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2022-08-15-0740",
+      "date": "2022-08-15",
+      "start": "2022-08-15T07:40:00.000Z",
+      "end": "2022-08-15T08:54:00.000Z",
+      "turn_count": 26,
+      "status": "closed",
+      "focus": "Quarter-end shows real denial improvement; Kelli pushes for monthly payer drill-downs and clinic signoff.",
+      "summary": "Quarter-end figures show first-pass denials dropping enough to ease payroll panic. Kelli capitalizes on this by pushing for and winning monthly payer drill-down meetings (insurer-by-insurer review) and a standing requirement that each clinic lead sign off on repeat registration and authorization errors. The signoff trail shifts accountability from billing-as-cleanup to site-level ownership.",
+      "tags": [
+        "first-pass-denial-improvement",
+        "quarter-end-figures",
+        "monthly-payer-drill-downs",
+        "clinic-lead-signoff",
+        "monica-wren-ally",
+        "operational-authority",
+        "repeat-error-accountability",
+        "denial-pattern-evidence"
+      ],
+      "tone": "positive",
+      "open_loops": [
+        "First payer drill-down format not yet tested",
+        "One-page meeting template not yet finalized",
+        "Kelli still needs to separate personal oversight from process trust",
+        "Monthly rhythm not yet proven through a full cycle"
+      ],
+      "decisions": [
+        "Kelli is still revenue-cycle lead, and quarter-end figures finally showed enough first-pass denial improvement to ease t",
+        "The first visible drop in denials gives Kelli brief relief and a stronger sense that the turnaround effort might actuall"
+      ],
+      "strands": [
+        "first-pass-denial-improvement",
+        "quarter-end-figures",
+        "monthly-payer-drill-downs",
+        "clinic-lead-signoff",
+        "monica-wren-ally",
+        "operational-authority",
+        "repeat-error-accountability",
+        "denial-pattern-evidence"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2022-09-07-0615",
+      "date": "2022-09-07",
+      "start": "2022-09-07T06:15:00.000Z",
+      "end": "2022-09-07T07:41:00.000Z",
+      "turn_count": 30,
+      "status": "closed",
+      "focus": "Mikayla gives Kelli a used air fryer that makes quick potatoes and reheats leftovers, reducing evening friction.",
+      "summary": "Mikayla passes along a used air fryer that becomes a small evening game-changer for Kelli — quick air-fryer potatoes, reheated burritos, and leftovers come together fast after dark commutes. Kelli notices the ripple effect on her evening mood and plans a simple index-card meal system. The slice captures a period of slightly more breathable life where small conveniences register as meaningful.",
+      "tags": [
+        "used-air-fryer",
+        "mikayla-hand-me-down",
+        "quick-dinner-routine",
+        "potatoes-and-burritos",
+        "evening-friction-reduction",
+        "home-routine-upgrade",
+        "freezer-backup-plan",
+        "index-card-meal-list"
+      ],
+      "tone": "positive",
+      "open_loops": [
+        "Index card meal combos not yet written",
+        "Extra potato supply not yet purchased",
+        "Freezer burrito backup not yet stocked"
+      ],
+      "decisions": [
+        "Kelli's food routine expanded to include quick air-fryer potatoes and reheated leftovers after Mikayla gave her a used a"
+      ],
+      "strands": [
+        "used-air-fryer",
+        "mikayla-hand-me-down",
+        "quick-dinner-routine",
+        "potatoes-and-burritos",
+        "evening-friction-reduction",
+        "home-routine-upgrade",
+        "freezer-backup-plan",
+        "index-card-meal-list"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2022-10-22-0925",
+      "date": "2022-10-22",
+      "start": "2022-10-22T09:25:00.000Z",
+      "end": "2022-10-22T10:33:00.000Z",
+      "turn_count": 24,
+      "status": "closed",
+      "focus": "A rushed practice-management software transition piles onto Kelli's denial work; her testing warnings are overruled.",
+      "summary": "A rushed practice-management software transition is piled on top of Kelli's denial work. She pushes for payer-rule testing and parallel claim checks before go-live, but leadership compresses the timeline anyway. She is assigned the old-to-new queue mapping with barely enough training time. She plans a risk note split into three categories (build, workflow, payer-rule) and starts an issue log to track conversion defects.",
+      "tags": [
+        "rushed-software-transition",
+        "payer-rule-testing-deferred",
+        "queue-mapping-risk",
+        "monica-wren-ally",
+        "workload-scope-creep",
+        "claim-issue-log",
+        "vendor-risk-documentation",
+        "parallel-claim-checks-denied"
+      ],
+      "tone": "negative",
+      "open_loops": [
+        "Risk note draft not yet completed",
+        "Post-go-live manual monitoring plan not yet approved",
+        "Conversion task log (separate from denial work) not yet started",
+        "Scope change communication to leadership not yet sent"
+      ],
+      "decisions": [
+        "Kelli is still revenue-cycle lead, but the rushed practice-management software transition added system-mapping and conve"
+      ],
+      "strands": [
+        "rushed-software-transition",
+        "payer-rule-testing-deferred",
+        "queue-mapping-risk",
+        "monica-wren-ally",
+        "workload-scope-creep",
+        "claim-issue-log",
+        "vendor-risk-documentation",
+        "parallel-claim-checks-denied"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2022-11-16-1040",
+      "date": "2022-11-16",
+      "start": "2022-11-16T10:40:00.000Z",
+      "end": "2022-11-16T12:06:00.000Z",
+      "turn_count": 30,
+      "status": "closed",
+      "focus": "Travis creates a library-movie birthday weekend that helps Kelli discover her preference for older comedies over heavy dramas.",
+      "summary": "With money tight, Travis borrows older comedies and a newsroom drama from the Emmett library for Kelli's birthday. The experience clarifies her entertainment preferences: older comedies and light true-story films now rank ahead of grounded dramas, especially on stressful weeks. She discovers the distinction between 'restore me' and 'engage me' content, and plans a short list of go-to decompression movies.",
+      "tags": [
+        "library-birthday",
+        "older-comedies",
+        "travis-thoughtfulness",
+        "movie-preference-shift",
+        "dry-workplace-comedy",
+        "at-home-movie-weekend",
+        "restore-vs-engage",
+        "budget-friendly-celebration"
+      ],
+      "tone": "positive",
+      "open_loops": [
+        "Movie list categories not yet created",
+        "Kelli wants to thank Travis for the emotional fit specifically",
+        "Library movie ritual not yet scheduled as recurring"
+      ],
+      "decisions": [
+        "Kelli now prefers older comedies and true-story films even more strongly than grounded dramas, especially on stressful w"
+      ],
+      "strands": [
+        "library-birthday",
+        "older-comedies",
+        "travis-thoughtfulness",
+        "movie-preference-shift",
+        "dry-workplace-comedy",
+        "at-home-movie-weekend",
+        "restore-vs-engage",
+        "budget-friendly-celebration"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2023-01-12-1105",
+      "date": "2023-01-12",
+      "start": "2023-01-12T11:05:00.000Z",
+      "end": "2023-01-12T12:26:00.000Z",
+      "turn_count": 28,
+      "status": "closed",
+      "focus": "The rushed software go-live causes payer table mapping errors and auth carryover failures, reversing months of denial gains.",
+      "summary": "Two weeks past go-live, claim edits fire off wrong payer tables and authorizations don't carry over, reversing months of denial-reduction gains. Kelli builds a marked-up evidence packet (screenshots, remits, claim IDs) for Monica to take to the vendor, and structures it into three buckets: revenue-blocking defects, false denials, and workflow annoyances. She considers whether rollback is necessary and struggles with insomnia and irritability spilling into home life.",
+      "tags": [
+        "software-go-live-failure",
+        "denial-setback",
+        "payer-table-mapping-errors",
+        "authorization-carryover-loss",
+        "monica-wren-ally",
+        "vendor-remediation",
+        "rollback-threshold",
+        "evidence-packet-building"
+      ],
+      "tone": "negative",
+      "open_loops": [
+        "Rollback threshold criteria not yet defined",
+        "Delegation of evidence collection to billers not yet implemented",
+        "Sleep shutdown ritual (10-min capture page) not yet started",
+        "Short summary for clinic leaders not yet written",
+        "Vendor formal review meeting not yet scheduled"
+      ],
+      "decisions": [
+        "Kelli is still revenue-cycle lead, but the software go-live has thrown denial cleanup into setback mode and much of her ",
+        "Kelli is mentally exhausted and more irritable after the conversion reversed months of progress, and rejected claims plu"
+      ],
+      "strands": [
+        "software-go-live-failure",
+        "denial-setback",
+        "payer-table-mapping-errors",
+        "authorization-carryover-loss",
+        "monica-wren-ally",
+        "vendor-remediation",
+        "rollback-threshold",
+        "evidence-packet-building"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2023-02-02-2315",
+      "date": "2023-02-02",
+      "start": "2023-02-02T23:15:00.000Z",
+      "end": "2023-02-03T00:29:00.000Z",
+      "turn_count": 26,
+      "status": "closed",
+      "focus": "Kelli and Travis install a basic ramp for aging blue heeler Juno and patch the fence before winter worsens.",
+      "summary": "Juno starts slipping on icy back steps and a fence section gives way in hard winter wind, so Kelli and Travis pay for a basic ramp and partial fence repair. They choose basic and safe over ambitious, acknowledging that money is tight. Kelli notes the ramp changes how the yard feels — adapting the house to an older season — and plans a three-line spring follow-up list.",
+      "tags": [
+        "juno-ramp-installation",
+        "aging-dog-safety",
+        "fence-repair",
+        "winter-home-maintenance",
+        "travis-partnership",
+        "stable-enough-threshold",
+        "good-enough-spring-list",
+        "pet-care-adaptation"
+      ],
+      "tone": "mixed",
+      "open_loops": [
+        "Spring follow-up list not yet written (fence reassess, ramp traction, safety/cost check)",
+        "Weather-shift check-in point not yet set for temporary fixes",
+        "Kelli needs to protect one half-day weekend that isn't a project block"
+      ],
+      "decisions": [
+        "Kelli and Travis paid for a basic ramp off the back step after their aging blue heeler Juno started slipping there in wi"
+      ],
+      "strands": [
+        "juno-ramp-installation",
+        "aging-dog-safety",
+        "fence-repair",
+        "winter-home-maintenance",
+        "travis-partnership",
+        "stable-enough-threshold",
+        "good-enough-spring-list",
+        "pet-care-adaptation"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2023-03-18-0830",
+      "date": "2023-03-18",
+      "start": "2023-03-18T08:30:00.000Z",
+      "end": "2023-03-18T09:44:00.000Z",
+      "turn_count": 26,
+      "status": "closed",
+      "focus": "Kelli builds a formal shared defect log that shifts vendor conversations from vague promises to evidence-based accountability.",
+      "summary": "Kelli compiles three months of denial examples into a shared defect log grouped by payer, clinic, and error source, with plain-English descriptions and remit numbers. Monica forces weekly vendor issue calls using the log as the source of truth, changing the tone from vague investigation to claim-level accountability. Kelli plans a one-page intake rules sheet and adds owner-plus-vendor-action-date fields.",
+      "tags": [
+        "shared-defect-log",
+        "vendor-accountability",
+        "weekly-issue-calls",
+        "monica-wren-ally",
+        "pattern-based-evidence",
+        "claim-id-trail",
+        "intake-tab-separation",
+        "three-step-fix-dates"
+      ],
+      "tone": "mixed",
+      "open_loops": [
+        "One-page intake rules sheet not yet written",
+        "Three-step fix dates (triage/fix/validation) not yet enforced",
+        "Separate 'not vendor defect' intake tab not yet created",
+        "Simple summary view for leadership not yet finalized"
+      ],
+      "decisions": [
+        "Kelli is still revenue-cycle lead, but she has shifted from broad vendor complaints to a formal defect-log and escalatio"
+      ],
+      "strands": [
+        "shared-defect-log",
+        "vendor-accountability",
+        "weekly-issue-calls",
+        "monica-wren-ally",
+        "pattern-based-evidence",
+        "claim-id-trail",
+        "intake-tab-separation",
+        "three-step-fix-dates"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2023-04-24-0510",
+      "date": "2023-04-24",
+      "start": "2023-04-24T05:10:00.000Z",
+      "end": "2023-04-24T06:36:00.000Z",
+      "turn_count": 30,
+      "status": "closed",
+      "focus": "A cashier recommends a rural hospital memoir that shifts Kelli's reading preference toward practical nonfiction.",
+      "summary": "On a packed Saturday, a D and B Supply cashier recommends a memoir by a nurse administrator about rural hospitals. Kelli buys it on impulse and finds it deeply satisfying — the plainness, the operational detail, and the feeling of recognition. This crystalizes a reading preference shift away from crime novels and toward memoirs and practical nonfiction about rural healthcare and work. She plans a short recommendation list but keeps it casual.",
+      "tags": [
+        "rural-hospital-memoir",
+        "reading-preference-shift",
+        "d-and-b-supply",
+        "nurse-administrator-book",
+        "practical-nonfiction",
+        "crime-novel-neglect",
+        "commitment-to-light-reading",
+        "hardware-store-recommendation"
+      ],
+      "tone": "positive",
+      "open_loops": [
+        "Book tracking (how it leaves her: calmer/sharper/overloaded) not yet started",
+        "Second book recommendation request not yet made",
+        "One lighter option (crime novel) still needs to be kept available"
+      ],
+      "decisions": [
+        "Kelli's reading preference shifted further toward memoirs and practical nonfiction, especially rural healthcare and work"
+      ],
+      "strands": [
+        "rural-hospital-memoir",
+        "reading-preference-shift",
+        "d-and-b-supply",
+        "nurse-administrator-book",
+        "practical-nonfiction",
+        "crime-novel-neglect",
+        "commitment-to-light-reading",
+        "hardware-store-recommendation"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2023-05-27-1050",
+      "date": "2023-05-27",
+      "start": "2023-05-27T10:50:00.000Z",
+      "end": "2023-05-27T11:58:00.000Z",
+      "turn_count": 24,
+      "status": "closed",
+      "focus": "Kelli splits the denial mess into two tracked workstreams (vendor fixes vs staff retraining), reducing blame and finger-pointing.",
+      "summary": "The defect log makes it obvious which denials are true software failures vs old front-end habits resurfacing. Kelli splits the cleanup into two tracked workstreams (one for vendor fixes, one for staff retraining), which reduces the bitter finger-pointing between billing and clinic staff. She notices staff get less defensive when they see not every denial is blamed on them, and plans to assign owners and recheck dates to the retraining board.",
+      "tags": [
+        "two-track-workstreams",
+        "vendor-fix-board",
+        "staff-retraining-board",
+        "software-defect-separation",
+        "front-end-habit-correction",
+        "pattern-based-accountability",
+        "blame-reduction",
+        "evidence-based-sorting"
+      ],
+      "tone": "positive",
+      "open_loops": [
+        "Retraining board owners and recheck dates not yet assigned",
+        "Two-stream leadership update format not yet designed",
+        "Proof-of-change criteria for retraining not yet defined"
+      ],
+      "decisions": [
+        "Kelli is still revenue-cycle lead, but she has now split the post-conversion cleanup into two tracked workstreams, one f"
+      ],
+      "strands": [
+        "two-track-workstreams",
+        "vendor-fix-board",
+        "staff-retraining-board",
+        "software-defect-separation",
+        "front-end-habit-correction",
+        "pattern-based-accountability",
+        "blame-reduction",
+        "evidence-based-sorting"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2023-06-21-0800",
+      "date": "2023-06-21",
+      "start": "2023-06-21T08:00:00.000Z",
+      "end": "2023-06-21T09:14:00.000Z",
+      "turn_count": 26,
+      "status": "closed",
+      "focus": "Kelli starts low-dose blood pressure medication; her doctor bluntly tells her the stress pattern is no longer a phase.",
+      "summary": "At a primary-care follow-up postponed twice, Kelli is started on low-dose blood pressure medication. Her doctor bluntly tells her the neck tension, bad sleep, and drive-through dinners are no longer a temporary phase. Kelli feels embarrassed but commits to four changes: medication daily, one prepared dinner fallback, protecting the stretching class, and a small sleep boundary (10 min less screen time).",
+      "tags": [
+        "hypertension-medication",
+        "primary-care-follow-up",
+        "drive-through-dinner-cycle",
+        "desk-posture-problems",
+        "stretching-class-protection",
+        "sleep-boundary",
+        "neck-shoulder-tension",
+        "self-care-hierarchy"
+      ],
+      "tone": "negative",
+      "open_loops": [
+        "Commute-friendly food rule not yet defined",
+        "Hard work-screen cutoff not yet set",
+        "Next follow-up already scheduled but lifestyle changes not yet tested",
+        "Kelli needs to tell key people (need-to-know basis) about boundaries"
+      ],
+      "decisions": [
+        "At a primary-care follow-up she had postponed twice, Kelli was started on low-dose blood pressure medication."
+      ],
+      "strands": [
+        "hypertension-medication",
+        "primary-care-follow-up",
+        "drive-through-dinner-cycle",
+        "desk-posture-problems",
+        "stretching-class-protection",
+        "sleep-boundary",
+        "neck-shoulder-tension",
+        "self-care-hierarchy"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2023-08-08-0235",
+      "date": "2023-08-08",
+      "start": "2023-08-08T02:35:00.000Z",
+      "end": "2023-08-08T04:01:00.000Z",
+      "turn_count": 30,
+      "status": "closed",
+      "focus": "Payment lag moves down; Kelli shifts from email coaching to in-person site visits with printed claim examples.",
+      "summary": "With payment lag finally moving in the right direction, Kelli shifts from email coaching to driving out to the two clinics creating most authorization and registration rework. She brings printed claim examples with highlighted bad fields, making the problems undeniable in person. She discovers two failure modes (speed-driven registration skips and interpretation-driven auth note errors) and plans a one-page visit summary and targeted cheat sheets.",
+      "tags": [
+        "payment-lag-improvement",
+        "in-person-site-visits",
+        "printed-claim-examples",
+        "clinic-accountability",
+        "on-site-conversations",
+        "monica-wren-ally",
+        "regression-habits",
+        "site-specific-tracking"
+      ],
+      "tone": "positive",
+      "open_loops": [
+        "One-page visit follow-up template not yet finalized",
+        "Cheat sheet for 'notes only make sense to insiders' clinic not yet created",
+        "Field-day cadence (every other week + protected follow-up) not yet formalized",
+        "Frank discussion with Travis about trip meaning not yet had"
+      ],
+      "decisions": [
+        "Kelli is still revenue-cycle lead, but with recovery underway she has shifted from broad turnaround management into site",
+        "The visible improvement in payment lag made Kelli feel less trapped in pure damage control even though she is still tire"
+      ],
+      "strands": [
+        "payment-lag-improvement",
+        "in-person-site-visits",
+        "printed-claim-examples",
+        "clinic-accountability",
+        "on-site-conversations",
+        "monica-wren-ally",
+        "regression-habits",
+        "site-specific-tracking"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2023-09-14-1245",
+      "date": "2023-09-14",
+      "start": "2023-09-14T12:45:00.000Z",
+      "end": "2023-09-14T14:06:00.000Z",
+      "turn_count": 28,
+      "status": "closed",
+      "focus": "After a dialysis access-site scare, Kelli and her brother formalize a caregiving rotation with transport and paperwork split.",
+      "summary": "Gary has a dialysis access-site infection scare that creates extra appointments, forcing Kelli and her brother to formalize a caregiving rotation. They split transport from paperwork/callback ownership and use a paper calendar plus text thread for coordination. The household atmosphere eases — Travis can plan evenings better, and the marriage feels less strained because the uncertainty around caregiving drops.",
+      "tags": [
+        "dialysis-access-site-scare",
+        "brother-caregiving-rotation",
+        "shared-logistics",
+        "callback-owner-assignment",
+        "travis-household-relief",
+        "paper-calendar-system",
+        "proud-parent-conversation",
+        "one-page-checklist"
+      ],
+      "tone": "positive",
+      "open_loops": [
+        "One-page checklist for glove box/tote not yet created",
+        "Callback owner field not yet assigned on rotation",
+        "Kelli needs to tell Travis directly she sees how much he absorbed",
+        "First month of strict rotation adherence not yet completed"
+      ],
+      "decisions": [
+        "After a dialysis access-site infection scare led to extra appointments, Kelli and her brother set a more formal rotation",
+        "Her marriage feels less strained now that caregiving for her father is being shared more deliberately instead of landing"
+      ],
+      "strands": [
+        "dialysis-access-site-scare",
+        "brother-caregiving-rotation",
+        "shared-logistics",
+        "callback-owner-assignment",
+        "travis-household-relief",
+        "paper-calendar-system",
+        "proud-parent-conversation",
+        "one-page-checklist"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2023-11-05-0955",
+      "date": "2023-11-05",
+      "start": "2023-11-05T09:55:00.000Z",
+      "end": "2023-11-05T11:16:00.000Z",
+      "turn_count": 28,
+      "status": "closed",
+      "focus": "Kelli wins approval for a denial-aging dashboard with a 30-day ownership rule to stop corrected claims from going invisible.",
+      "summary": "Kelli wins Monica's approval for a simple denial-aging dashboard for clinic managers and a thirty-day ownership rule: anything over thirty days unresolved must be named with an owner, payer, and next action before the Friday call ends. She adds a marker for payer-held items so clinics don't feel blamed for everything. The dashboard targets the hidden overtime flare-ups from invisible corrected claims.",
+      "tags": [
+        "denial-aging-dashboard",
+        "thirty-day-ownership-rule",
+        "friday-call-accountability",
+        "monica-wren-ally",
+        "corrected-claim-tracking",
+        "overtime-flare-up-prevention",
+        "owner-payer-next-action",
+        "steering-over-scrambling"
+      ],
+      "tone": "positive",
+      "open_loops": [
+        "Friday call short follow-up note (top 3 aged items + owners) not yet sent",
+        "Two quiet metrics (items crossing 30 days, items still hanging next Friday) not yet tracked",
+        "Month-end test of new control not yet completed"
+      ],
+      "decisions": [
+        "Kelli is still revenue-cycle lead, but she has moved from site-by-site accountability visits into using a denial-aging d"
+      ],
+      "strands": [
+        "denial-aging-dashboard",
+        "thirty-day-ownership-rule",
+        "friday-call-accountability",
+        "monica-wren-ally",
+        "corrected-claim-tracking",
+        "overtime-flare-up-prevention",
+        "owner-payer-next-action",
+        "steering-over-scrambling"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2023-12-18-1130",
+      "date": "2023-12-18",
+      "start": "2023-12-18T11:30:00.000Z",
+      "end": "2023-12-18T12:44:00.000Z",
+      "turn_count": 26,
+      "status": "closed",
+      "focus": "A holiday potluck playlist introduces Kelli to early-2000s pop-country, freshening her dark winter commute.",
+      "summary": "At a clinic holiday potluck, a younger scheduler plays an early-2000s pop-country playlist (Rascal Flatts, Martina McBride, Keith Urban). Kelli adds a few songs to her commute mix and notices she arrives home less wound up. The experience reinforces that she responds to small, contained surprises within familiar routines, and she plans a short winter-commute playlist while keeping her 1990s country and talk radio defaults.",
+      "tags": [
+        "clinic-holiday-potluck",
+        "early-2000s-pop-country",
+        "commute-playlist-freshening",
+        "rascal-flatts-keith-urban",
+        "winter-commute-mood",
+        "small-surprise-joy",
+        "music-taste-expansion",
+        "gentler-evening-on-ramp"
+      ],
+      "tone": "positive",
+      "open_loops": [
+        "Short winter-commute playlist (10–12 tracks) not yet built",
+        "Light rule for evening decompression (music+quiet after work) not yet set"
+      ],
+      "decisions": [
+        "Kelli expanded her commute music from mostly 1990s country to include some early-2000s pop-country after the clinic holi"
+      ],
+      "strands": [
+        "clinic-holiday-potluck",
+        "early-2000s-pop-country",
+        "commute-playlist-freshening",
+        "rascal-flatts-keith-urban",
+        "winter-commute-mood",
+        "small-surprise-joy",
+        "music-taste-expansion",
+        "gentler-evening-on-ramp"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2024-02-09-0820",
+      "date": "2024-02-09",
+      "start": "2024-02-09T08:20:00.000Z",
+      "end": "2024-02-09T09:34:00.000Z",
+      "turn_count": 26,
+      "status": "closed",
+      "focus": "A commercial payer quietly changes prior-auth rules; Kelli catches the pattern early and contains it before it spreads.",
+      "summary": "A commercial payer quietly changes prior-auth documentation requirements, causing a small denial creep. Kelli spots the pattern (same payer, same service type, creeping counts) and reverse-engineers the new requirement from denial language and portal wording. She rewrites the cheat sheet within days, contains the mop-up to a couple sites, and realizes her denial-control system has reached early-warning maturity. She plans a four-line catch log and targeted payer cheat-sheet spot-checks.",
+      "tags": [
+        "payer-rule-change-detection",
+        "early-warning-system",
+        "authorization-documentation-update",
+        "denial-creep-pattern",
+        "quick-cheat-sheet-revision",
+        "monica-wren-ally",
+        "system-maturity-milestone",
+        "contained-response"
+      ],
+      "tone": "positive",
+      "open_loops": [
+        "Four-line catch log (signal/payer/fix/result) not yet started",
+        "Targeted spot-check on highest-risk payer cheat sheets not yet done",
+        "System-maturity framing needs to be used in leadership updates"
+      ],
+      "decisions": [
+        "Kelli is still revenue-cycle lead, and her denial-control system is now mature enough to catch payer rule changes quickl"
+      ],
+      "strands": [
+        "payer-rule-change-detection",
+        "early-warning-system",
+        "authorization-documentation-update",
+        "denial-creep-pattern",
+        "quick-cheat-sheet-revision",
+        "monica-wren-ally",
+        "system-maturity-milestone",
+        "contained-response"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2024-03-27-0405",
+      "date": "2024-03-27",
+      "start": "2024-03-27T04:05:00.000Z",
+      "end": "2024-03-27T05:31:00.000Z",
+      "turn_count": 30,
+      "status": "closed",
+      "focus": "Kelli and Travis reopen a Coast Trip sinking fund after the pickup is paid down and finances gain breathing room.",
+      "summary": "With the pickup paid further down and month-end feeling less pinched, Kelli and Travis reopen a small sinking fund labeled 'Coast Trip'. They set a two-number threshold (one to seriously price it, a higher one to book it, including a buffer). Kelli defines raid rules (only true necessities) and an automatic monthly transfer. The fund itself becomes a relief marker — evidence that the household has moved from chaotic to forecastable.",
+      "tags": [
+        "coast-trip-sinking-fund",
+        "financial-breathing-room",
+        "travis-shared-planning",
+        "truck-paid-down",
+        "aspirational-budgeting",
+        "two-number-threshold",
+        "raid-rules",
+        "hopeful-budget-category"
+      ],
+      "tone": "positive",
+      "open_loops": [
+        "Automatic transfer amount not yet set",
+        "Two-number thresholds not yet formally decided",
+        "Monthly budget check-in ritual not yet established"
+      ],
+      "decisions": [
+        "Kelli and Travis reopened a small sinking fund labeled Coast Trip after their finances regained a little breathing room."
+      ],
+      "strands": [
+        "coast-trip-sinking-fund",
+        "financial-breathing-room",
+        "travis-shared-planning",
+        "truck-paid-down",
+        "aspirational-budgeting",
+        "two-number-threshold",
+        "raid-rules",
+        "hopeful-budget-category"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2024-06-16-1000",
+      "date": "2024-06-16",
+      "start": "2024-06-16T10:00:00.000Z",
+      "end": "2024-06-16T11:14:00.000Z",
+      "turn_count": 26,
+      "status": "closed",
+      "focus": "Approval secured to build denial prevention into front-desk onboarding using three steadier quarters as proof.",
+      "summary": "Using three steadier quarters as proof, Kelli wins approval to build denial prevention into front-desk onboarding rather than cleaning up mistakes after the fact. She builds a training packet with sample claims, screenshots, and common-payer scenarios showing the chain from registration error to denial. She plans to observe the first sessions as an observer (not permanent instructor), keep the core packet modular with clinic-specific inserts, and track first-month error themes.",
+      "tags": [
+        "front-desk-onboarding-training",
+        "denial-prevention-upstream",
+        "sample-claims-and-screenshots",
+        "monica-wren-ally",
+        "three-steadier-quarters",
+        "modular-training-packet",
+        "top-five-mistakes-sheet",
+        "observer-not-instructor"
+      ],
+      "tone": "positive",
+      "open_loops": [
+        "Core packet not yet finalized",
+        "Clinic-specific inserts not yet built",
+        "First onboarding session (as observer) not yet scheduled",
+        "First-month error tracking log not yet designed",
+        "Error source field (confusion/habit/missing-info) not yet added"
+      ],
+      "decisions": [
+        "Kelli is still revenue-cycle lead, and denial prevention is now built into front-desk onboarding with documented trainin"
+      ],
+      "strands": [
+        "front-desk-onboarding-training",
+        "denial-prevention-upstream",
+        "sample-claims-and-screenshots",
+        "monica-wren-ally",
+        "three-steadier-quarters",
+        "modular-training-packet",
+        "top-five-mistakes-sheet",
+        "observer-not-instructor"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2024-08-11-1310",
+      "date": "2024-08-11",
+      "start": "2024-08-11T13:10:00.000Z",
+      "end": "2024-08-11T14:24:00.000Z",
+      "turn_count": 26,
+      "status": "closed",
+      "focus": "The long-awaited Oregon coast trip confirms Kelli prefers slow, low-agenda travel centered on walking, coffee, and weather.",
+      "summary": "Kelli and Travis finally take the three-day Oregon coast trip funded by their sinking fund, with Gary's care fully covered by the rotation. The trip confirms Kelli prefers slow, low-agenda travel: walking, coffee, watching weather roll in, no packed itinerary. She realizes she doesn't want bigger travel, just better-fitting travel, and plans a shorthand label ('coast-style' or 'weather trip') with Travis for future trip planning.",
+      "tags": [
+        "oregon-coast-trip",
+        "slow-travel-preference",
+        "caregiving-break-achieved",
+        "travis-quality-time",
+        "low-agenda-vacation",
+        "weather-as-feature",
+        "coast-style-travel",
+        "better-calibration"
+      ],
+      "tone": "positive",
+      "open_loops": [
+        "Trip shorthand label not yet agreed with Travis",
+        "Future trip planning template (base area + 2 food spots + loose anchor) not yet created"
+      ],
+      "decisions": [
+        "The trip confirmed for Kelli that she strongly prefers slow, low-agenda travel centered on walking, coffee, and weather "
+      ],
+      "strands": [
+        "oregon-coast-trip",
+        "slow-travel-preference",
+        "caregiving-break-achieved",
+        "travis-quality-time",
+        "low-agenda-vacation",
+        "weather-as-feature",
+        "coast-style-travel",
+        "better-calibration"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2024-10-24-0715",
+      "date": "2024-10-24",
+      "start": "2024-10-24T07:15:00.000Z",
+      "end": "2024-10-24T08:23:00.000Z",
+      "turn_count": 24,
+      "status": "closed",
+      "focus": "Leadership publicly recognizes Kelli's turnaround work; she is asked to present to board finance members.",
+      "summary": "At the fall leadership review, Monica presents Kelli's dashboard history, showing how payroll nerves have cooled and vendor hold calls have decreased. Kelli is asked to present the turnaround approach to board finance members. She plans a ladder-of-stages slide showing the progression from defect tracking to rule-change detection to prevention-onboarding, and identifies three nonnegotiables to prevent backsliding: aging review rhythm, ownership on stalled items, and front-end error accountability.",
+      "tags": [
+        "board-recognition",
+        "payroll-nerves-cooled",
+        "turnaround-approach-presentation",
+        "monica-wren-ally",
+        "dashboard-history-evidence",
+        "ladder-of-stages",
+        "proof-based-process-improvement",
+        "grounded-competence"
+      ],
+      "tone": "positive",
+      "open_loops": [
+        "Board presentation materials not yet finalized",
+        "Three nonnegotiables maintenance sheet not yet created",
+        "Kelli needs to develop a spoken summary contrasting discipline vs luck"
+      ],
+      "decisions": [
+        "Kelli is still revenue-cycle lead, and leadership now credits her reporting and controls with reducing payroll nerves an",
+        "Public recognition of the turnaround gives Kelli a more grounded sense of competence and less constant dread about the n"
+      ],
+      "strands": [
+        "board-recognition",
+        "payroll-nerves-cooled",
+        "turnaround-approach-presentation",
+        "monica-wren-ally",
+        "dashboard-history-evidence",
+        "ladder-of-stages",
+        "proof-based-process-improvement",
+        "grounded-competence"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2025-01-13-0050",
+      "date": "2025-01-13",
+      "start": "2025-01-13T00:50:00.000Z",
+      "end": "2025-01-13T02:04:00.000Z",
+      "turn_count": 26,
+      "status": "closed",
+      "focus": "Kelli and Travis quietly euthanize aging blue heeler Juno; the empty house brings muted grief and fatigue.",
+      "summary": "After a short decline over the holidays, Kelli and Travis make a quiet euthanasia appointment for Juno. Kelli takes a few days of leave but returns to work quickly, finding the grief shows up as emptiness and fatigue rather than tears. The house feels different — the ramp and patched fence become monuments to the care routine. They are dogless and plan to stay that way. Kelli plans to leave Juno's collar in place, try short evening walks with Travis, and let the evenings find a new shape slowly.",
+      "tags": [
+        "juno-euthanasia",
+        "pet-loss-grief",
+        "dogless-household",
+        "routine-disruption",
+        "evening-architecture",
+        "household-grief-shared",
+        "replacement-habit",
+        "muted-grief-fatigue"
+      ],
+      "tone": "negative",
+      "open_loops": [
+        "Evening replacement habit (walk, coffee on step, stretching) not yet established",
+        "Kelli needs to acknowledge the grief to herself rather than grading it",
+        "Juno's collar placement decision not yet made"
+      ],
+      "decisions": [
+        "Early 2028 brought a muted grief after Kelli and Travis quietly euthanized their aging blue heeler Juno following a decl",
+        "After losing Juno, Kelli and Travis are dogless for now and even less inclined to rush into another pet."
+      ],
+      "strands": [
+        "juno-euthanasia",
+        "pet-loss-grief",
+        "dogless-household",
+        "routine-disruption",
+        "evening-architecture",
+        "household-grief-shared",
+        "replacement-habit",
+        "muted-grief-fatigue"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2025-04-09-0935",
+      "date": "2025-04-09",
+      "start": "2025-04-09T09:35:00.000Z",
+      "end": "2025-04-09T10:56:00.000Z",
+      "turn_count": 28,
+      "status": "closed",
+      "focus": "Three straight quarters under denial target and shorter payment lag prove the turnaround is sustained, not luck.",
+      "summary": "Kelli can now document three straight quarters with first-pass denials under target and materially shorter payment lag. The network is calmer — far less month-end panic across clinics. She frames the sustained turnaround as the result of 'repeatable operating habits, not luck' and plans a one-page maintenance sheet (core metrics, owners, escalation thresholds). She feels protective of the process rather than territorial, and states her role has shifted from emergency responder to system operator.",
+      "tags": [
+        "sustained-turnaround-evidence",
+        "three-straight-quarters",
+        "first-pass-denial-target",
+        "payment-lag-reduction",
+        "month-end-calm",
+        "board-finance-presentation",
+        "repeatable-operating-habits",
+        "stewardship-over-correction"
+      ],
+      "tone": "positive",
+      "open_loops": [
+        "One-page maintenance sheet not yet finalized",
+        "Tighter spoken summary not yet rehearsed",
+        "Kelli needs to codify what she will no longer spend energy on (over-explaining)"
+      ],
+      "decisions": [
+        "By spring 2028, Kelli could document a successful claims-recovery turnaround with sustained low denial rates, shorter pa"
+      ],
+      "strands": [
+        "sustained-turnaround-evidence",
+        "three-straight-quarters",
+        "first-pass-denial-target",
+        "payment-lag-reduction",
+        "month-end-calm",
+        "board-finance-presentation",
+        "repeatable-operating-habits",
+        "stewardship-over-correction"
+      ],
+      "needs_marking": false
+    }
+  ]
+}
