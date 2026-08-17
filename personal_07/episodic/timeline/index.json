@@ -1,0 +1,971 @@
+{
+  "_schema": 1,
+  "updated_at": "2026-08-17T16:21:32.574Z",
+  "slice_count": 30,
+  "needs_marking": 0,
+  "slices": [
+    {
+      "id": "2022-01-09-1130",
+      "date": "2022-01-09",
+      "start": "2022-01-09T11:30:00.000Z",
+      "end": "2022-01-09T12:51:00.000Z",
+      "turn_count": 28,
+      "status": "closed",
+      "focus": "It is nice to start using a tool like this.",
+      "summary": "My name is Evan Michael Dorsey",
+      "tags": [
+        "persona-onboarding-and-background",
+        "procurement-reform-longterm-goal",
+        "multigenerational-maplewood-household",
+        "istj-personality-profile",
+        "public-k12-operations-context",
+        "st-louis-rooted-identity"
+      ],
+      "tone": "positive",
+      "open_loops": [],
+      "decisions": [],
+      "strands": [
+        "persona-onboarding-and-background",
+        "procurement-reform-longterm-goal",
+        "multigenerational-maplewood-household",
+        "istj-personality-profile",
+        "public-k12-operations-context",
+        "st-louis-rooted-identity"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2022-01-28-0040",
+      "date": "2022-01-28",
+      "start": "2022-01-28T00:40:00.000Z",
+      "end": "2022-01-28T02:06:00.000Z",
+      "turn_count": 30,
+      "status": "closed",
+      "focus": "A lot has shifted lately, and work kind of crossed a line from \"this keeps landi",
+      "summary": "The first thing is a shared tracker, basically one place where all the mess can be seen instead of l",
+      "tags": [
+        "purchasing-cleanup-mandate",
+        "audit-exception-response",
+        "shared-tracker-design",
+        "scope-boundary-setting",
+        "district-politics-navigation",
+        "focused-strain-vs-diffuse-strain"
+      ],
+      "tone": "mixed",
+      "open_loops": [],
+      "decisions": [
+        "Evan was formally tasked by district leadership with leading a district purchasing cleanup project on top of his regular",
+        "The formal cleanup assignment gave Evan more purpose but also increased his anxiety about fixing a districtwide problem"
+      ],
+      "strands": [
+        "purchasing-cleanup-mandate",
+        "audit-exception-response",
+        "shared-tracker-design",
+        "scope-boundary-setting",
+        "district-politics-navigation",
+        "focused-strain-vs-diffuse-strain"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2022-02-16-0820",
+      "date": "2022-02-16",
+      "start": "2022-02-16T08:20:00.000Z",
+      "end": "2022-02-16T09:41:00.000Z",
+      "turn_count": 28,
+      "status": "closed",
+      "focus": "Things have been pretty busy lately, and I finally had one small normal-feeling ",
+      "summary": "Honestly, part of it was that it looked so different from what I usually read",
+      "tags": [
+        "marcus-jeffries-friendship",
+        "cardinals-spring-training",
+        "crime-fiction-decompression",
+        "second-reading-track-formation",
+        "late-night-reading-ritual",
+        "accidental-good-habit-discovery"
+      ],
+      "tone": "positive",
+      "open_loops": [],
+      "decisions": [
+        "Evan started intentionally keeping one lighter mystery or crime book in rotation for decompression, instead of only occa"
+      ],
+      "strands": [
+        "marcus-jeffries-friendship",
+        "cardinals-spring-training",
+        "crime-fiction-decompression",
+        "second-reading-track-formation",
+        "late-night-reading-ritual",
+        "accidental-good-habit-discovery"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2022-03-11-0950",
+      "date": "2022-03-11",
+      "start": "2022-03-11T09:50:00.000Z",
+      "end": "2022-03-11T11:04:00.000Z",
+      "turn_count": 26,
+      "status": "closed",
+      "focus": "Things have been shifting a lot lately, and the work situation finally moved fro",
+      "summary": "Definitely more of a prove-it-first green light",
+      "tags": [
+        "three-school-spring-pilot",
+        "intake-form-and-approval-queue",
+        "warehouse-and-secretary-evidence",
+        "avoidable-emergency-reduction",
+        "process-compliance-metrics",
+        "pilot-boundary-protection"
+      ],
+      "tone": "positive",
+      "open_loops": [],
+      "decisions": [
+        "Evan's cleanup assignment advanced into a spring pilot at three schools using a standard purchasing intake form and appr"
+      ],
+      "strands": [
+        "three-school-spring-pilot",
+        "intake-form-and-approval-queue",
+        "warehouse-and-secretary-evidence",
+        "avoidable-emergency-reduction",
+        "process-compliance-metrics",
+        "pilot-boundary-protection"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2022-04-07-1310",
+      "date": "2022-04-07",
+      "start": "2022-04-07T13:10:00.000Z",
+      "end": "2022-04-07T14:18:00.000Z",
+      "turn_count": 24,
+      "status": "closed",
+      "focus": "A lot has shifted lately, and tonight felt like one of those small things that i",
+      "summary": "Yeah, that is basically where we landed",
+      "tags": [
+        "danielle-kitchen-table-reset",
+        "household-duty-renegotiation",
+        "protected-no-work-weeknight",
+        "bedtime-coverage-strain",
+        "shared-calendar-overload",
+        "marriage-as-cooperative-system"
+      ],
+      "tone": "mixed",
+      "open_loops": [],
+      "decisions": [
+        "Evan and Danielle now use a more explicit division of preschool pickup, meal prep, and one protected no-work weeknight t",
+        "Their marriage is still cooperative, but they have started actively renegotiating duties and protected family time becau"
+      ],
+      "strands": [
+        "danielle-kitchen-table-reset",
+        "household-duty-renegotiation",
+        "protected-no-work-weeknight",
+        "bedtime-coverage-strain",
+        "shared-calendar-overload",
+        "marriage-as-cooperative-system"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2022-05-19-0735",
+      "date": "2022-05-19",
+      "start": "2022-05-19T07:35:00.000Z",
+      "end": "2022-05-19T08:56:00.000Z",
+      "turn_count": 28,
+      "status": "closed",
+      "focus": "A lot has shifted lately, in a good way for once. The work I've been trying to g",
+      "summary": "The most solid part is that the intake form is not theoretical anymore, people are actually using it",
+      "tags": [
+        "pilot-success-evidence",
+        "vendor-agreement-repository-drafting",
+        "summer-bid-calendar-planning",
+        "reduced-duplicate-requests",
+        "protecting-against-drift",
+        "bare-bones-first-version-strategy"
+      ],
+      "tone": "positive",
+      "open_loops": [],
+      "decisions": [
+        "Evan's three-school purchasing pilot showed enough early success that his role expanded from running the pilot to drafti"
+      ],
+      "strands": [
+        "pilot-success-evidence",
+        "vendor-agreement-repository-drafting",
+        "summer-bid-calendar-planning",
+        "reduced-duplicate-requests",
+        "protecting-against-drift",
+        "bare-bones-first-version-strategy"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2022-06-14-0205",
+      "date": "2022-06-14",
+      "start": "2022-06-14T02:05:00.000Z",
+      "end": "2022-06-14T03:31:00.000Z",
+      "turn_count": 30,
+      "status": "closed",
+      "focus": "Things have been a little less frantic lately, at least enough that some normal ",
+      "summary": "Yeah, that is exactly why it has worked better than I expected",
+      "tags": [
+        "brentwood-church-gym-basketball",
+        "preschool-dad-connection",
+        "twice-monthly-saturday-morning",
+        "restorative-physical-outlet",
+        "household-clarity-enabling-leisure",
+        "low-stakes-community"
+      ],
+      "tone": "positive",
+      "open_loops": [],
+      "decisions": [
+        "Basketball became a somewhat more consistent part of Evan's sports life after he joined the Brentwood church-gym run thr"
+      ],
+      "strands": [
+        "brentwood-church-gym-basketball",
+        "preschool-dad-connection",
+        "twice-monthly-saturday-morning",
+        "restorative-physical-outlet",
+        "household-clarity-enabling-leisure",
+        "low-stakes-community"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2022-07-23-0515",
+      "date": "2022-07-23",
+      "start": "2022-07-23T05:15:00.000Z",
+      "end": "2022-07-23T06:23:00.000Z",
+      "turn_count": 24,
+      "status": "closed",
+      "focus": "A lot has shifted lately, and work kind of went sideways on me. I had been tryin",
+      "summary": "Honestly, the bypassing has been the part that gets under my skin",
+      "tags": [
+        "hvac-failure-derailment",
+        "off-workflow-purchasing-crisis",
+        "procurement-archaeology",
+        "after-action-memo-framing",
+        "exception-lane-design-necessity",
+        "district-trust-erosion"
+      ],
+      "tone": "negative",
+      "open_loops": [],
+      "decisions": [
+        "Evan's broader procurement rollout stalled after a midsummer HVAC failure triggered widespread off-workflow purchasing a",
+        "Evan is feeling more drained and frustrated after the emergency disrupted work he had been building into a districtwide"
+      ],
+      "strands": [
+        "hvac-failure-derailment",
+        "off-workflow-purchasing-crisis",
+        "procurement-archaeology",
+        "after-action-memo-framing",
+        "exception-lane-design-necessity",
+        "district-trust-erosion"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2022-08-18-1240",
+      "date": "2022-08-18",
+      "start": "2022-08-18T12:40:00.000Z",
+      "end": "2022-08-18T14:06:00.000Z",
+      "turn_count": 30,
+      "status": "closed",
+      "focus": "A lot has shifted lately, and I finally did something I had been putting off. Fo",
+      "summary": "The reassuring part is he said it looked stress-related rather than neurological, which honestly too",
+      "tags": [
+        "stress-headache-doctor-visit",
+        "3am-replay-loop",
+        "sleep-hydration-screen-tracking",
+        "primary-care-reassurance",
+        "danielle-spillover-concern",
+        "health-guardrails-not-fix"
+      ],
+      "tone": "mixed",
+      "open_loops": [],
+      "decisions": [
+        "Evan's stress headaches became frequent enough after the summer emergency that he saw his primary care doctor and starte"
+      ],
+      "strands": [
+        "stress-headache-doctor-visit",
+        "3am-replay-loop",
+        "sleep-hydration-screen-tracking",
+        "primary-care-reassurance",
+        "danielle-spillover-concern",
+        "health-guardrails-not-fix"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2022-09-30-1005",
+      "date": "2022-09-30",
+      "start": "2022-09-30T10:05:00.000Z",
+      "end": "2022-09-30T11:19:00.000Z",
+      "turn_count": 26,
+      "status": "closed",
+      "focus": "A lot has shifted lately, and work finally moved in a direction that feels more ",
+      "summary": "Honestly, the warehouse check might matter most day to day, because once we started tracing things, ",
+      "tags": [
+        "redesigned-purchasing-reform",
+        "emergency-exception-code",
+        "warehouse-inventory-check-integration",
+        "principal-approval-path",
+        "rashad-ground-truth-partnership",
+        "summer-failure-as-case-study"
+      ],
+      "tone": "positive",
+      "open_loops": [],
+      "decisions": [
+        "Evan moved from a stalled rollout to leading a redesigned district purchasing reform that adds emergency exception codin"
+      ],
+      "strands": [
+        "redesigned-purchasing-reform",
+        "emergency-exception-code",
+        "warehouse-inventory-check-integration",
+        "principal-approval-path",
+        "rashad-ground-truth-partnership",
+        "summer-failure-as-case-study"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2022-11-09-0625",
+      "date": "2022-11-09",
+      "start": "2022-11-09T06:25:00.000Z",
+      "end": "2022-11-09T07:39:00.000Z",
+      "turn_count": 26,
+      "status": "closed",
+      "focus": "It has been a busy stretch, and this is a much smaller thing than some of what h",
+      "summary": "Yeah, the clean ending point was a big part of it",
+      "tags": [
+        "forest-park-museum-day",
+        "family-outing-template-emergence",
+        "short-regional-travel-preference",
+        "mina-transportation-exhibits",
+        "diner-as-structural-closure",
+        "less-ambiguous-planning"
+      ],
+      "tone": "positive",
+      "open_loops": [],
+      "decisions": [
+        "After a successful Forest Park museum day, Evan leaned even more strongly toward short regional car trips built around m"
+      ],
+      "strands": [
+        "forest-park-museum-day",
+        "family-outing-template-emergence",
+        "short-regional-travel-preference",
+        "mina-transportation-exhibits",
+        "diner-as-structural-closure",
+        "less-ambiguous-planning"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2023-01-15-0110",
+      "date": "2023-01-15",
+      "start": "2023-01-15T01:10:00.000Z",
+      "end": "2023-01-15T02:31:00.000Z",
+      "turn_count": 28,
+      "status": "closed",
+      "focus": "A lot has shifted lately, and this feels like one of those moments where the wor",
+      "summary": "Probably the every school part, if I am being honest",
+      "tags": [
+        "winter-finance-retreat-win",
+        "side-by-side-screenshots-evidence",
+        "districtwide-repository-authorization",
+        "full-workflow-rollout-approval",
+        "public-roadmap-strategy",
+        "implementation-phase-leadership"
+      ],
+      "tone": "mixed",
+      "open_loops": [],
+      "decisions": [
+        "Evan's role expanded from redesigning the purchasing process to districtwide responsibility for launching a central repo"
+      ],
+      "strands": [
+        "winter-finance-retreat-win",
+        "side-by-side-screenshots-evidence",
+        "districtwide-repository-authorization",
+        "full-workflow-rollout-approval",
+        "public-roadmap-strategy",
+        "implementation-phase-leadership"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2023-02-21-0350",
+      "date": "2023-02-21",
+      "start": "2023-02-21T03:50:00.000Z",
+      "end": "2023-02-21T04:58:00.000Z",
+      "turn_count": 24,
+      "status": "closed",
+      "focus": "Things have been busy lately, and this weekend ended up showing me something I d",
+      "summary": "More the second one, honestly",
+      "tags": [
+        "snowed-in-kitchen-connection",
+        "lourdes-arroz-con-pollo",
+        "monthly-family-dish-tradition",
+        "cooking-as-relationship-not-logistics",
+        "mina-kitchen-participation",
+        "neutral-ground-basement-kitchen"
+      ],
+      "tone": "positive",
+      "open_loops": [],
+      "decisions": [
+        "Evan still relies on practical meal prep, but after cooking more with Lourdes he added several of her family dishes to t"
+      ],
+      "strands": [
+        "snowed-in-kitchen-connection",
+        "lourdes-arroz-con-pollo",
+        "monthly-family-dish-tradition",
+        "cooking-as-relationship-not-logistics",
+        "mina-kitchen-participation",
+        "neutral-ground-basement-kitchen"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2023-04-12-0845",
+      "date": "2023-04-12",
+      "start": "2023-04-12T08:45:00.000Z",
+      "end": "2023-04-12T10:11:00.000Z",
+      "turn_count": 30,
+      "status": "closed",
+      "focus": "Things have been pretty full lately, and one of the big work pieces finally cros",
+      "summary": "Honestly, the cleanup part was grim but satisfying in a stubborn way",
+      "tags": [
+        "first-current-contract-repository",
+        "school-secretary-training",
+        "active-vs-stale-record-rules",
+        "core-supply-category-launch",
+        "bright-line-criteria-set",
+        "maintenance-rhythm-planning"
+      ],
+      "tone": "positive",
+      "open_loops": [],
+      "decisions": [
+        "Evan completed the School District of University City's first current searchable repository of active vendor contracts a"
+      ],
+      "strands": [
+        "first-current-contract-repository",
+        "school-secretary-training",
+        "active-vs-stale-record-rules",
+        "core-supply-category-launch",
+        "bright-line-criteria-set",
+        "maintenance-rhythm-planning"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2023-05-30-1230",
+      "date": "2023-05-30",
+      "start": "2023-05-30T12:30:00.000Z",
+      "end": "2023-05-30T13:56:00.000Z",
+      "turn_count": 30,
+      "status": "closed",
+      "focus": "A lot has shifted lately on the home front, even though the income side of thing",
+      "summary": "Honestly, both",
+      "tags": [
+        "preschool-tuition-increase",
+        "lourdes-mobility-aid-costs",
+        "memorial-day-budget-rebuild",
+        "discretionary-spending-audit",
+        "eldercare-cost-pattern",
+        "shared-budget-teamwork"
+      ],
+      "tone": "mixed",
+      "open_loops": [],
+      "decisions": [
+        "A preschool tuition increase for the next school year tightened Evan and Danielle's already narrow household budget."
+      ],
+      "strands": [
+        "preschool-tuition-increase",
+        "lourdes-mobility-aid-costs",
+        "memorial-day-budget-rebuild",
+        "discretionary-spending-audit",
+        "eldercare-cost-pattern",
+        "shared-budget-teamwork"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2023-07-08-0620",
+      "date": "2023-07-08",
+      "start": "2023-07-08T06:20:00.000Z",
+      "end": "2023-07-08T07:41:00.000Z",
+      "turn_count": 28,
+      "status": "closed",
+      "focus": "A lot has shifted lately, and for once I am bringing you something from work tha",
+      "summary": "Honestly, the hardest part was making it useful enough that people could not dismiss it as procureme",
+      "tags": [
+        "published-summer-bid-calendar",
+        "weekly-dashboard-governance",
+        "warehouse-checkpoint-integration",
+        "operational-system-milestone",
+        "quiet-role-expansion",
+        "boring-on-paper-lifesaving-in-practice"
+      ],
+      "tone": "positive",
+      "open_loops": [],
+      "decisions": [
+        "Evan is now overseeing a published district summer bid calendar and dashboard that tie contract records, warehouse check"
+      ],
+      "strands": [
+        "published-summer-bid-calendar",
+        "weekly-dashboard-governance",
+        "warehouse-checkpoint-integration",
+        "operational-system-milestone",
+        "quiet-role-expansion",
+        "boring-on-paper-lifesaving-in-practice"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2023-08-27-1055",
+      "date": "2023-08-27",
+      "start": "2023-08-27T10:55:00.000Z",
+      "end": "2023-08-27T12:03:00.000Z",
+      "turn_count": 24,
+      "status": "closed",
+      "focus": "It has been a while since we chatted, and things have felt a little less frantic",
+      "summary": "I think it is mostly the rhythm, honestly",
+      "tags": [
+        "public-radio-legal-affairs-show",
+        "weekend-meal-prep-routine",
+        "calmer-school-year-opening",
+        "engaged-but-not-burdened-audio",
+        "procedural-comfort-entertainment",
+        "post-summer-mental-bandwidth"
+      ],
+      "tone": "positive",
+      "open_loops": [],
+      "decisions": [
+        "Evan became a more regular local public radio listener during weekend meal prep after adding the Saturday legal affairs"
+      ],
+      "strands": [
+        "public-radio-legal-affairs-show",
+        "weekend-meal-prep-routine",
+        "calmer-school-year-opening",
+        "engaged-but-not-burdened-audio",
+        "procedural-comfort-entertainment",
+        "post-summer-mental-bandwidth"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2023-10-19-0410",
+      "date": "2023-10-19",
+      "start": "2023-10-19T04:10:00.000Z",
+      "end": "2023-10-19T05:31:00.000Z",
+      "turn_count": 28,
+      "status": "closed",
+      "focus": "A lot has shifted since we last talked, and for once I have something at work th",
+      "summary": "Honestly, both mattered, but the routine categories were the thing that made it feel undeniable",
+      "tags": [
+        "first-quarter-improvement-evidence",
+        "threshold-splitting-loophole",
+        "clustered-request-flag",
+        "rashad-warehouse-validation",
+        "near-zero-audit-exceptions",
+        "interpreter-of-habits-role"
+      ],
+      "tone": "positive",
+      "open_loops": [],
+      "decisions": [
+        "Evan's procurement work shifted from building the district's bid calendar and dashboard to using first-quarter districtw"
+      ],
+      "strands": [
+        "first-quarter-improvement-evidence",
+        "threshold-splitting-loophole",
+        "clustered-request-flag",
+        "rashad-warehouse-validation",
+        "near-zero-audit-exceptions",
+        "interpreter-of-habits-role"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2023-12-03-1300",
+      "date": "2023-12-03",
+      "start": "2023-12-03T13:00:00.000Z",
+      "end": "2023-12-03T14:14:00.000Z",
+      "turn_count": 26,
+      "status": "closed",
+      "focus": "A lot has shifted around the house since we last talked, not in some huge dramat",
+      "summary": "Pretty much both",
+      "tags": [
+        "lourdes-stair-slip-incident",
+        "handrail-installation",
+        "household-safety-rule-formalization",
+        "basement-entrance-protocol",
+        "post-scare-proactive-fix",
+        "care-needs-explicit-acknowledgment"
+      ],
+      "tone": "mixed",
+      "open_loops": [],
+      "decisions": [
+        "The family added handrails and made the basement entrance safer after Lourdes's near fall.",
+        "Lourdes still lives in the basement suite and helps when she can, but her scary slip made her care needs more explicit a"
+      ],
+      "strands": [
+        "lourdes-stair-slip-incident",
+        "handrail-installation",
+        "household-safety-rule-formalization",
+        "basement-entrance-protocol",
+        "post-scare-proactive-fix",
+        "care-needs-explicit-acknowledgment"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2024-01-24-0055",
+      "date": "2024-01-24",
+      "start": "2024-01-24T00:55:00.000Z",
+      "end": "2024-01-24T02:16:00.000Z",
+      "turn_count": 28,
+      "status": "closed",
+      "focus": "A lot has shifted lately, and one work thing finally moved in a real way. The su",
+      "summary": "Honestly, it was both",
+      "tags": [
+        "lead-analyst-title-change",
+        "mandatory-intake-workflow-enforcement",
+        "patrice-joint-message",
+        "emergency-definition-faq",
+        "enforcement-phase-transition",
+        "operationally-helpful-compliant-underneath"
+      ],
+      "tone": "mixed",
+      "open_loops": [],
+      "decisions": [
+        "Evan's role was formally adjusted from senior procurement analyst to lead procurement analyst for purchasing systems, gi"
+      ],
+      "strands": [
+        "lead-analyst-title-change",
+        "mandatory-intake-workflow-enforcement",
+        "patrice-joint-message",
+        "emergency-definition-faq",
+        "enforcement-phase-transition",
+        "operationally-helpful-compliant-underneath"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2024-03-06-0915",
+      "date": "2024-03-06",
+      "start": "2024-03-06T09:15:00.000Z",
+      "end": "2024-03-06T10:23:00.000Z",
+      "turn_count": 24,
+      "status": "closed",
+      "focus": "Things have been pretty full lately, and I think that is why this caught me off ",
+      "summary": "Honestly, probably both",
+      "tags": [
+        "barber-shop-magazine-discovery",
+        "st-louis-civic-building-interest",
+        "errand-plus-one-stop-template",
+        "mina-architecture-curiosity",
+        "low-pressure-local-curiosity",
+        "clear-edge-outing-preference"
+      ],
+      "tone": "positive",
+      "open_loops": [],
+      "decisions": [
+        "Evan's local-outings preference sharpened from museum-centered short regional trips to quick local drives that can inclu"
+      ],
+      "strands": [
+        "barber-shop-magazine-discovery",
+        "st-louis-civic-building-interest",
+        "errand-plus-one-stop-template",
+        "mina-architecture-curiosity",
+        "low-pressure-local-curiosity",
+        "clear-edge-outing-preference"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2024-05-11-0705",
+      "date": "2024-05-11",
+      "start": "2024-05-11T07:05:00.000Z",
+      "end": "2024-05-11T08:19:00.000Z",
+      "turn_count": 26,
+      "status": "closed",
+      "focus": "A lot has been shifting lately, and work gave me one of those moments where the ",
+      "summary": "The delays were mostly upstream",
+      "tags": [
+        "principal-resistance-pressure-test",
+        "intake-workflow-timestamp-evidence",
+        "upstream-delay-identification",
+        "required-fields-form-tightening",
+        "school-start-prep-avoidable-delays",
+        "evidence-over-instinct-approach"
+      ],
+      "tone": "mixed",
+      "open_loops": [],
+      "decisions": [
+        "Evan is the district's lead procurement analyst refining the mandatory intake system with stricter required fields after"
+      ],
+      "strands": [
+        "principal-resistance-pressure-test",
+        "intake-workflow-timestamp-evidence",
+        "upstream-delay-identification",
+        "required-fields-form-tightening",
+        "school-start-prep-avoidable-delays",
+        "evidence-over-instinct-approach"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2024-06-29-1205",
+      "date": "2024-06-29",
+      "start": "2024-06-29T12:05:00.000Z",
+      "end": "2024-06-29T13:31:00.000Z",
+      "turn_count": 30,
+      "status": "closed",
+      "focus": "A lot has been shifting lately, and I finally did something a little more delibe",
+      "summary": "The first thing was honestly a little embarrassing, which is that I seem to brace for failure before",
+      "tags": [
+        "employee-benefit-counseling",
+        "anticipatory-overdrive-pattern",
+        "headache-as-early-warning",
+        "shock-absorber-reflex",
+        "car-pause-transition-ritual",
+        "boundary-setting-not-collapse"
+      ],
+      "tone": "mixed",
+      "open_loops": [],
+      "decisions": [
+        "After short-term counseling, Evan became more aware of his stress patterns and somewhat better at setting limits during "
+      ],
+      "strands": [
+        "employee-benefit-counseling",
+        "anticipatory-overdrive-pattern",
+        "headache-as-early-warning",
+        "shock-absorber-reflex",
+        "car-pause-transition-ritual",
+        "boundary-setting-not-collapse"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2024-08-23-0135",
+      "date": "2024-08-23",
+      "start": "2024-08-23T01:35:00.000Z",
+      "end": "2024-08-23T03:01:00.000Z",
+      "turn_count": 30,
+      "status": "closed",
+      "focus": "A lot has shifted since we last talked, and for once it shifted in a way that fe",
+      "summary": "The pattern held across the categories that used to blow up first, which is why I believed it",
+      "tags": [
+        "quiet-school-year-opening",
+        "fewer-frantic-basics-supply-calls",
+        "three-pillar-system-validation",
+        "standard-practice-milestone",
+        "explainable-calm",
+        "defender-to-steward-transition"
+      ],
+      "tone": "positive",
+      "open_loops": [],
+      "decisions": [
+        "Evan's purchasing system moved from a defended reform project to standard operating practice after the 2027 to 2028 scho"
+      ],
+      "strands": [
+        "quiet-school-year-opening",
+        "fewer-frantic-basics-supply-calls",
+        "three-pillar-system-validation",
+        "standard-practice-milestone",
+        "explainable-calm",
+        "defender-to-steward-transition"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2024-10-01-1145",
+      "date": "2024-10-01",
+      "start": "2024-10-01T11:45:00.000Z",
+      "end": "2024-10-01T13:11:00.000Z",
+      "turn_count": 30,
+      "status": "closed",
+      "focus": "Things have been a little less frantic lately, and this is a much smaller update",
+      "summary": "Yeah, exactly",
+      "tags": [
+        "mina-school-fair-dog-encounter",
+        "older-calm-dog-consideration",
+        "conditional-pet-readiness",
+        "danielle-operational-questions",
+        "household-capacity-assessment",
+        "someday-criteria-not-countdown"
+      ],
+      "tone": "positive",
+      "open_loops": [],
+      "decisions": [
+        "Evan is now open to the idea of getting a small older dog someday, rather than dismissing pets outright."
+      ],
+      "strands": [
+        "mina-school-fair-dog-encounter",
+        "older-calm-dog-consideration",
+        "conditional-pet-readiness",
+        "danielle-operational-questions",
+        "household-capacity-assessment",
+        "someday-criteria-not-countdown"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2025-01-17-0325",
+      "date": "2025-01-17",
+      "start": "2025-01-17T03:25:00.000Z",
+      "end": "2025-01-17T04:39:00.000Z",
+      "turn_count": 26,
+      "status": "closed",
+      "focus": "A lot has shifted lately, and work has moved into a different phase. The basic p",
+      "summary": "Honestly, the resistance mostly showed up as people acting like old copies were harmless",
+      "tags": [
+        "expired-agreement-purge",
+        "legal-counsel-governance",
+        "single-source-of-truth",
+        "insurance-and-renewal-tracking",
+        "stale-copy-elimination-campaign",
+        "controlled-active-record-authority"
+      ],
+      "tone": "neutral",
+      "open_loops": [],
+      "decisions": [
+        "Evan's procurement role now centers on maintaining a controlled active-contract repository and districtwide workflow tha"
+      ],
+      "strands": [
+        "expired-agreement-purge",
+        "legal-counsel-governance",
+        "single-source-of-truth",
+        "insurance-and-renewal-tracking",
+        "stale-copy-elimination-campaign",
+        "controlled-active-record-authority"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2025-03-09-1030",
+      "date": "2025-03-09",
+      "start": "2025-03-09T10:30:00.000Z",
+      "end": "2025-03-09T11:56:00.000Z",
+      "turn_count": 30,
+      "status": "closed",
+      "focus": "A lot has shifted lately, not in some dramatic way, just enough that I can final",
+      "summary": "Yeah, a mix is where we landed",
+      "tags": [
+        "preschool-to-elementary-transition",
+        "monthly-budget-breathing-room",
+        "savings-floor-target-setting",
+        "medical-debt-paydown",
+        "home-modification-balance",
+        "recoverable-math-mindset"
+      ],
+      "tone": "positive",
+      "open_loops": [],
+      "decisions": [
+        "Once Mina moved out of full-time preschool and into elementary school care, Evan and Danielle's monthly budget gained mo"
+      ],
+      "strands": [
+        "preschool-to-elementary-transition",
+        "monthly-budget-breathing-room",
+        "savings-floor-target-setting",
+        "medical-debt-paydown",
+        "home-modification-balance",
+        "recoverable-math-mindset"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2025-05-22-0640",
+      "date": "2025-05-22",
+      "start": "2025-05-22T06:40:00.000Z",
+      "end": "2025-05-22T07:54:00.000Z",
+      "turn_count": 26,
+      "status": "closed",
+      "focus": "Things have been moving again since we last talked, mostly in that same big work",
+      "summary": "What made it feel real was how specific I had to get",
+      "tags": [
+        "district-training-packet",
+        "staff-turnover-durability",
+        "emergency-exception-documentation",
+        "warehouse-check-procedure",
+        "upstream-knowledge-transfer",
+        "system-survives-any-person"
+      ],
+      "tone": "positive",
+      "open_loops": [],
+      "decisions": [
+        "Evan's procurement role is now centered on documenting and training the district purchasing system so it can survive sta"
+      ],
+      "strands": [
+        "district-training-packet",
+        "staff-turnover-durability",
+        "emergency-exception-documentation",
+        "warehouse-check-procedure",
+        "upstream-knowledge-transfer",
+        "system-survives-any-person"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2025-07-13-1320",
+      "date": "2025-07-13",
+      "start": "2025-07-13T13:20:00.000Z",
+      "end": "2025-07-13T14:46:00.000Z",
+      "turn_count": 30,
+      "status": "closed",
+      "focus": "It has been a while since we chatted, and life has felt busy in the usual way, b",
+      "summary": "Honestly, the pace is a lot of it",
+      "tags": [
+        "marcus-newsroom-comedy-recommendation",
+        "twenty-minute-post-bedtime-episodes",
+        "danielle-evening-couple-time",
+        "smart-rewatchable-comedy-preference",
+        "credits-as-closure-cue",
+        "minimum-viable-couple-routine"
+      ],
+      "tone": "positive",
+      "open_loops": [],
+      "decisions": [
+        "After Marcus texted him a recommendation for an older newsroom comedy, Evan and Danielle started watching it together in"
+      ],
+      "strands": [
+        "marcus-newsroom-comedy-recommendation",
+        "twenty-minute-post-bedtime-episodes",
+        "danielle-evening-couple-time",
+        "smart-rewatchable-comedy-preference",
+        "credits-as-closure-cue",
+        "minimum-viable-couple-routine"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2025-09-18-0215",
+      "date": "2025-09-18",
+      "start": "2025-09-18T02:15:00.000Z",
+      "end": "2025-09-18T03:29:00.000Z",
+      "turn_count": 26,
+      "status": "closed",
+      "focus": "A lot has shifted since we last talked, and for once it is in a good way instead",
+      "summary": "Honestly, the rush orders hit me hardest",
+      "tags": [
+        "near-zero-audit-exceptions-proof",
+        "published-bid-calendar-validated",
+        "rush-order-decline-evidence",
+        "system-stability-milestone",
+        "confidence-from-data-not-rescue",
+        "chapter-closing-personal-shift"
+      ],
+      "tone": "positive",
+      "open_loops": [],
+      "decisions": [
+        "Evan is now credited as the district's lead procurement analyst who helped establish a stable districtwide purchasing an",
+        "Evan's confidence rose because the results showed the system can hold without constant personal rescue work from him."
+      ],
+      "strands": [
+        "near-zero-audit-exceptions-proof",
+        "published-bid-calendar-validated",
+        "rush-order-decline-evidence",
+        "system-stability-milestone",
+        "confidence-from-data-not-rescue",
+        "chapter-closing-personal-shift"
+      ],
+      "needs_marking": false
+    }
+  ]
+}

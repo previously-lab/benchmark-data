@@ -1,0 +1,1128 @@
+{
+  "_schema": 1,
+  "updated_at": "2026-08-17T16:21:32.353Z",
+  "slice_count": 30,
+  "needs_marking": 0,
+  "slices": [
+    {
+      "id": "2022-01-05-0200",
+      "date": "2022-01-05",
+      "start": "2022-01-05T02:00:00.000Z",
+      "end": "2022-01-05T03:08:00.000Z",
+      "turn_count": 24,
+      "status": "closed",
+      "focus": "Initial onboarding: personal background, personality, and professional context",
+      "summary": "Hannah Louise Mercer (36, Providence RI) introduces herself as a mid-career registrar — quiet stubborn, anxious overpreparer, ISTJ — with a Master's in Museum Studies and a five-year vision to bring the museum's collections records, storage, and loan procedures to 98% verified reliability.",
+      "tags": [
+        "persona-onboarding",
+        "museum-registrar",
+        "providence-rhode-island",
+        "istj-personality",
+        "museum-studies-background",
+        "collections-integrity-vision",
+        "family-dynamics",
+        "modest-salary-constraints"
+      ],
+      "tone": "positive",
+      "open_loops": [
+        "None — this is a pure onboarding slice establishing baseline context"
+      ],
+      "decisions": [],
+      "strands": [
+        "persona-onboarding",
+        "museum-registrar",
+        "providence-rhode-island",
+        "istj-personality",
+        "museum-studies-background",
+        "collections-integrity-vision",
+        "family-dynamics",
+        "modest-salary-constraints"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2022-01-22-0840",
+      "date": "2022-01-22",
+      "start": "2022-01-22T08:40:00.000Z",
+      "end": "2022-01-22T10:06:00.000Z",
+      "turn_count": 30,
+      "status": "closed",
+      "focus": "Photography loan request exposes widespread records gaps, leading to formal collections integrity review",
+      "summary": "When a Boston lender asks about a photography loan, Hannah's honest digging reveals unreliable object locations, incomplete files, and prep-room documentation gaps — forcing her to lead a formal collections integrity review.",
+      "tags": [
+        "collections-integrity-review",
+        "photography-loan-trigger",
+        "registrar-advocacy",
+        "documentation-gap-exposure",
+        "institutional-risk-assessment",
+        "phase-one-scoping",
+        "meeting-tone-strategy",
+        "delegation-tactics"
+      ],
+      "tone": "mixed",
+      "open_loops": [
+        "Draft phase-one scope in 'question, findings, risk, phase one' format",
+        "Define sample set and failure categories for repeatable testing",
+        "Request one clearly delegated support task from leadership",
+        "Establish recurring standing check-in instead of ad-hoc chasing"
+      ],
+      "decisions": [
+        "Hannah is still the Providence Museum of Art's registrar, and after the photography loan request she is now leading an i"
+      ],
+      "strands": [
+        "collections-integrity-review",
+        "photography-loan-trigger",
+        "registrar-advocacy",
+        "documentation-gap-exposure",
+        "institutional-risk-assessment",
+        "phase-one-scoping",
+        "meeting-tone-strategy",
+        "delegation-tactics"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2022-02-09-0330",
+      "date": "2022-02-09",
+      "start": "2022-02-09T03:30:00.000Z",
+      "end": "2022-02-09T04:44:00.000Z",
+      "turn_count": 26,
+      "status": "closed",
+      "focus": "Considering low-maintenance houseplants after a social visit sparks desire for a less bare, more lived-in home",
+      "summary": "After Priya drags her to a soup swap, Hannah decides to buy a pothos (not a cat — that's still for a future, less chaotic life) as a small experiment in making her cluttered apartment feel more inhabited and less like a storage annex.",
+      "tags": [
+        "houseplant-experiment",
+        "pothos-and-snake-plant",
+        "domestic-comfort-shift",
+        "soup-swap-socializing",
+        "priya-nudge",
+        "low-stakes-care-practice",
+        "home-warmth-over-aesthetic",
+        "cat-future-deferred"
+      ],
+      "tone": "positive",
+      "open_loops": [
+        "Buy one pothos using existing pot, not new one",
+        "Ask Priya which windowsill gets decent light",
+        "Make soup at home one night this week rather than eating desk meals"
+      ],
+      "decisions": [
+        "Hannah still wants a cat someday, but she now sees low-maintenance houseplants as a better fit for her current cluttered"
+      ],
+      "strands": [
+        "houseplant-experiment",
+        "pothos-and-snake-plant",
+        "domestic-comfort-shift",
+        "soup-swap-socializing",
+        "priya-nudge",
+        "low-stakes-care-practice",
+        "home-warmth-over-aesthetic",
+        "cat-future-deferred"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2022-03-03-0115",
+      "date": "2022-03-03",
+      "start": "2022-03-03T01:15:00.000Z",
+      "end": "2022-03-03T02:29:00.000Z",
+      "turn_count": 26,
+      "status": "closed",
+      "focus": "Getting partial approval for a collections cleanup pilot with limited budget and two storage rooms",
+      "summary": "Hannah presents color-coded backlog counts, sample folders, and storage photos to win approval for a phased collections cleanup pilot — limited to two storage rooms with a tiny student-worker budget.",
+      "tags": [
+        "collections-cleanup-pilot",
+        "presentation-evidence",
+        "student-worker-budget",
+        "two-room-pilot-approval",
+        "phase-one-scope",
+        "training-packet-design",
+        "scope-creep-prevention",
+        "bandwidth-management"
+      ],
+      "tone": "mixed",
+      "open_loops": [
+        "Draft follow-up note naming the two rooms, first-phase goals, and what gets deferred",
+        "Build visual training packet (one-page side-by-side: complete vs incomplete folder examples)",
+        "Pick one manageable room and one harder room for comparison",
+        "Create quarantine pile/red folder for ambiguous records needing judgment"
+      ],
+      "decisions": [
+        "Hannah remains the Providence Museum of Art's registrar and won limited approval for a phased collections cleanup pilot "
+      ],
+      "strands": [
+        "collections-cleanup-pilot",
+        "presentation-evidence",
+        "student-worker-budget",
+        "two-room-pilot-approval",
+        "phase-one-scope",
+        "training-packet-design",
+        "scope-creep-prevention",
+        "bandwidth-management"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2022-03-28-1120",
+      "date": "2022-03-28",
+      "start": "2022-03-28T11:20:00.000Z",
+      "end": "2022-03-28T12:34:00.000Z",
+      "turn_count": 26,
+      "status": "closed",
+      "focus": "Addressing work-related jaw tension, headaches, and sleep disruption with doctor-recommended routines",
+      "summary": "After weeks of late nights writing procedures and training the first student worker, Hannah's doctor helps her recognize that chronic jaw pain, 3am waking, and deadline anxiety are a pattern needing active management — not signs she just needs to be tougher.",
+      "tags": [
+        "jaw-tension-headaches",
+        "primary-care-intervention",
+        "anxiety-management-routine",
+        "physical-therapy-exercises",
+        "sleep-boundaries",
+        "tension-tracking-log",
+        "work-stress-physical-symptoms",
+        "evening-shutdown-routine"
+      ],
+      "tone": "mixed",
+      "open_loops": [
+        "Build three-anchor evening routine: shutdown note, fixed heat/stretching time, simple tension log",
+        "Define work boundaries in process terms (training blocks vs review windows) without personal-health disclosure",
+        "Draft boundary sentences ahead of time for when pressure comes"
+      ],
+      "decisions": [
+        "Hannah now uses stretching and heat therapy to keep deadline-related jaw tension and headaches from becoming constant.",
+        "Hannah has started using therapy worksheets, sleep boundaries, and physical tension tracking to manage work anxiety arou"
+      ],
+      "strands": [
+        "jaw-tension-headaches",
+        "primary-care-intervention",
+        "anxiety-management-routine",
+        "physical-therapy-exercises",
+        "sleep-boundaries",
+        "tension-tracking-log",
+        "work-stress-physical-symptoms",
+        "evening-shutdown-routine"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2022-04-17-0610",
+      "date": "2022-04-17",
+      "start": "2022-04-17T06:10:00.000Z",
+      "end": "2022-04-17T07:31:00.000Z",
+      "turn_count": 28,
+      "status": "closed",
+      "focus": "Pilot shelf check reveals dozens of location mismatches, forcing temporary movement controls and a signed relocation log",
+      "summary": "The pilot shelf check discovers dozens of objects where database, tag, and box label all disagree — Hannah immediately mandates a signed relocation log before any object leaves a rack and a temporary hold process for discrepancies.",
+      "tags": [
+        "location-mismatch-discovery",
+        "movement-control-system",
+        "relocation-log-mandate",
+        "object-hold-process",
+        "staff-resistance-navigation",
+        "inconvenience-vs-risk",
+        "floor-level-process-first"
+      ],
+      "tone": "negative",
+      "open_loops": [
+        "Draft one-page hold instruction sheet (trigger -> hold -> document -> resolve -> release)",
+        "Keep relocation log narrow (who moved what, from where, when — separate from research notes)",
+        "Send short explanatory note upward explaining the control change and evidence basis",
+        "Stop apologizing when introducing new forms"
+      ],
+      "decisions": [
+        "Hannah remains the Providence Museum of Art's registrar, but after the cleanup pilot exposed widespread location mismatc"
+      ],
+      "strands": [
+        "location-mismatch-discovery",
+        "movement-control-system",
+        "relocation-log-mandate",
+        "object-hold-process",
+        "staff-resistance-navigation",
+        "inconvenience-vs-risk",
+        "floor-level-process-first"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2022-05-06-1205",
+      "date": "2022-05-06",
+      "start": "2022-05-06T12:05:00.000Z",
+      "end": "2022-05-06T13:26:00.000Z",
+      "turn_count": 28,
+      "status": "closed",
+      "focus": "Discovering logistics and history podcasts to make repetitive collections work feel more companionable and focused",
+      "summary": "After overhearing grad students on a Boston train, Hannah adds long-form history and logistics podcasts to her audio rotation for relabeling and database cleanup — finding steadier pacing than public radio or indie rock alone.",
+      "tags": [
+        "logistics-podcasts",
+        "work-soundtrack-evolution",
+        "boston-museum-visit",
+        "audio-toolkit-strategy",
+        "repetitive-task-rhythm",
+        "procedural-interest-signal",
+        "overheard-conversation-trigger"
+      ],
+      "tone": "positive",
+      "open_loops": [
+        "Build two work playlists: one for precision tasks, one for lower-stakes sorting",
+        "Bookmark specific episodes that clearly help settle into work",
+        "Keep a phone note on which episodes/voices actually improve focus"
+      ],
+      "decisions": [
+        "Hannah added long-form history and logistics podcasts to her usual audio rotation while relabeling and cleaning up datab"
+      ],
+      "strands": [
+        "logistics-podcasts",
+        "work-soundtrack-evolution",
+        "boston-museum-visit",
+        "audio-toolkit-strategy",
+        "repetitive-task-rhythm",
+        "procedural-interest-signal",
+        "overheard-conversation-trigger"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2022-06-12-0225",
+      "date": "2022-06-12",
+      "start": "2022-06-12T02:25:00.000Z",
+      "end": "2022-06-12T03:46:00.000Z",
+      "turn_count": 28,
+      "status": "closed",
+      "focus": "Pushing back against Daniel's fast yes with pilot data to win a formal readiness checklist before loan commitments",
+      "summary": "Using pilot numbers and before-and-after shelf photos, Hannah wins a formal readiness checklist — documented condition reports, lender requirements, and verified locations — that must pass before the museum commits to incoming loans and exhibitions.",
+      "tags": [
+        "readiness-checklist-win",
+        "registrar-authority-expansion",
+        "pilot-evidence-leverage",
+        "daniel-timeline-pressure",
+        "before-after-evidence",
+        "exhibition-decision-gate"
+      ],
+      "tone": "mixed",
+      "open_loops": [
+        "Send short confirming email today while meeting language is fresh",
+        "Draft one-page checklist and one-page examples tomorrow",
+        "Collect feedback from prep staff on what counts as 'verified'",
+        "Build reusable evidence packet (counts, photo pair, checklist) for future planning meetings"
+      ],
+      "decisions": [
+        "Hannah remains registrar, and the pilot results gave her enough standing to require a formal readiness checklist before "
+      ],
+      "strands": [
+        "readiness-checklist-win",
+        "registrar-authority-expansion",
+        "pilot-evidence-leverage",
+        "daniel-timeline-pressure",
+        "before-after-evidence",
+        "exhibition-decision-gate"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2022-07-01-1030",
+      "date": "2022-07-01",
+      "start": "2022-07-01T10:30:00.000Z",
+      "end": "2022-07-01T11:44:00.000Z",
+      "turn_count": 26,
+      "status": "closed",
+      "focus": "Meeting Alex Chen at an arts workers happy hour and beginning low-pressure dating after a long hiatus",
+      "summary": "Priya drags Hannah to an arts workers happy hour where she meets Alex Chen, a library preservation technician; they bond over labels, environmental risks, and storage-label disasters, leading to low-pressure coffee-and-bookstore dates.",
+      "tags": [
+        "dating-alex-chen",
+        "library-preservation-technician",
+        "arts-workers-happy-hour",
+        "shared-work-vocabulary",
+        "low-pressure-dating",
+        "priya-social-nudge",
+        "compatibility-vs-relief"
+      ],
+      "tone": "positive",
+      "open_loops": [
+        "Keep saying yes to simple plans and honest schedule communication",
+        "Let consistency build without forcing a label yet"
+      ],
+      "decisions": [
+        "Hannah is no longer entirely off the dating field; she has started casually seeing Alex Chen after meeting him at a loca",
+        "Alex Chen is a Providence library preservation technician whom Hannah met through the local arts workers scene, and they"
+      ],
+      "strands": [
+        "dating-alex-chen",
+        "library-preservation-technician",
+        "arts-workers-happy-hour",
+        "shared-work-vocabulary",
+        "low-pressure-dating",
+        "priya-social-nudge",
+        "compatibility-vs-relief"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2022-08-19-0745",
+      "date": "2022-08-19",
+      "start": "2022-08-19T07:45:00.000Z",
+      "end": "2022-08-19T08:53:00.000Z",
+      "turn_count": 24,
+      "status": "closed",
+      "focus": "Getting a small restricted budget for barcode labels, archival folders, and part-time data entry after six months of persistence",
+      "summary": "After six months of sample counts and follow-ups, Hannah finally gets a modest restricted budget for barcode labels, archival folders, and part-time data entry focused on active loan-file cleanup — framed not as modernization but as loan risk reduction.",
+      "tags": [
+        "restricted-grant-approval",
+        "barcode-labels-funding",
+        "archival-folder-purchase",
+        "part-time-data-entry",
+        "loan-file-cleanup",
+        "risk-reduction-framing"
+      ],
+      "tone": "positive",
+      "open_loops": [
+        "Draft one-page scope defining what the temp worker is allowed to touch",
+        "Define 'complete enough to trust' for active loan files",
+        "Specify where barcode labels get used first (mandatory vs optional)",
+        "Include retrieval time as a success metric"
+      ],
+      "decisions": [
+        "Hannah remains registrar and won a small budget to expand her collections integrity project for barcodes, archival folde"
+      ],
+      "strands": [
+        "restricted-grant-approval",
+        "barcode-labels-funding",
+        "archival-folder-purchase",
+        "part-time-data-entry",
+        "loan-file-cleanup",
+        "risk-reduction-framing"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2022-09-14-0400",
+      "date": "2022-09-14",
+      "start": "2022-09-14T04:00:00.000Z",
+      "end": "2022-09-14T05:21:00.000Z",
+      "turn_count": 28,
+      "status": "closed",
+      "focus": "Building a make-ahead freezer meal system after helping brother test dumpling fillings, to reduce evening stress during shipping-heavy weeks",
+      "summary": "After a video call testing dumpling fillings with her brother Evan (culinary school), Hannah plans a freezer-friendly make-ahead meal system — dumplings, soup, and baked pasta — to reduce bad dinner decisions during shipping-heavy weeks.",
+      "tags": [
+        "freezer-meal-planning",
+        "dumpling-test-session",
+        "brother-connection",
+        "make-ahead-comfort-food",
+        "work-spillover-apartment",
+        "infrastructure-over-optimization"
+      ],
+      "tone": "positive",
+      "open_loops": [
+        "One batch dumplings and one pot of soup as starting test",
+        "Freezer-door list of what's available",
+        "Friday-night-trigger rule: table still covered with work = weekend freezer reset",
+        "Write down successful filling ratios so next round doesn't depend on memory"
+      ],
+      "decisions": [
+        "Hannah has recently become attached to make-ahead dumplings and other freezer-friendly comfort meals to get through ship"
+      ],
+      "strands": [
+        "freezer-meal-planning",
+        "dumpling-test-session",
+        "brother-connection",
+        "make-ahead-comfort-food",
+        "work-spillover-apartment",
+        "infrastructure-over-optimization"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2022-10-23-0820",
+      "date": "2022-10-23",
+      "start": "2022-10-23T08:20:00.000Z",
+      "end": "2022-10-23T09:46:00.000Z",
+      "turn_count": 30,
+      "status": "closed",
+      "focus": "A partial crate repair over rules Hannah's full-rebuild recommendation for an outgoing loan painting, creating ongoing worry",
+      "summary": "Hannah's push for a full crate rebuild on an outgoing regional painting loan is overruled due to schedule and budget; she corrects the packing documentation to reflect current condition and adds handling precautions, but remains deeply worried.",
+      "tags": [
+        "crate-repair-dispute",
+        "partial-rebuild-overruled",
+        "outgoing-loan-risk",
+        "documentation-correction",
+        "daniel-timeline-pressure",
+        "risk-vs-cost-decision"
+      ],
+      "tone": "negative",
+      "open_loops": [
+        "Send short factual email summarizing observed condition, repair performed, documentation corrected, final handling checks",
+        "Take exhaustive pre-seal condition photos",
+        "Add final pack-out recheck of repaired corner",
+        "Draft plain unpacking note for the receiving institution",
+        "Consult Marta for outside read after documentation is complete"
+      ],
+      "decisions": [
+        "Hannah remains registrar, but she is now seriously worried about an outgoing loan crate that received only a partial rep"
+      ],
+      "strands": [
+        "crate-repair-dispute",
+        "partial-rebuild-overruled",
+        "outgoing-loan-risk",
+        "documentation-correction",
+        "daniel-timeline-pressure",
+        "risk-vs-cost-decision"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2022-11-09-0140",
+      "date": "2022-11-09",
+      "start": "2022-11-09T01:40:00.000Z",
+      "end": "2022-11-09T02:54:00.000Z",
+      "turn_count": 26,
+      "status": "closed",
+      "focus": "Full apartment reorganization with a dedicated work-free reading nook to stop the home from feeling like overflow storage",
+      "summary": "Hannah and Priya finally reorganize their cluttered apartment, carving out a reading nook that is explicitly work-free — a small chair, lamp, and books that are narrative nonfiction and mysteries, not binders pretending to be reading.",
+      "tags": [
+        "apartment-reorganization",
+        "work-free-reading-nook",
+        "priya-household-reset",
+        "declutter-and-contain",
+        "work-home-boundary",
+        "domestic-calm"
+      ],
+      "tone": "positive",
+      "open_loops": [
+        "Label 'decide later' bin with date for one-month review",
+        "Adopt 'default no' slim-folder rule for bringing work papers home",
+        "Build a week of evenings using the nook before refining anything"
+      ],
+      "decisions": [
+        "Hannah still lives with Priya, but the apartment is now decluttered enough for a calmer setup and less spillover from st"
+      ],
+      "strands": [
+        "apartment-reorganization",
+        "work-free-reading-nook",
+        "priya-household-reset",
+        "declutter-and-contain",
+        "work-home-boundary",
+        "domestic-calm"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2022-12-02-0505",
+      "date": "2022-12-02",
+      "start": "2022-12-02T05:05:00.000Z",
+      "end": "2022-12-02T06:19:00.000Z",
+      "turn_count": 26,
+      "status": "closed",
+      "focus": "The patched crate fails during transit, confirming Hannah's worst fears and triggering insurer scrutiny, internal blame, and urgent review",
+      "summary": "The partially repaired crate fails in transit — split panel and internal shift marks at exactly the soft area Hannah flagged. No object damage (a near miss), but now the insurer, lender, and internal blame dynamics are in motion, spiking Hannah's anxiety into hypervigilance.",
+      "tags": [
+        "crate-transit-failure",
+        "insurer-scrutiny",
+        "preventable-damage-confirmed",
+        "internal-blame-dynamics",
+        "near-miss-object-safety",
+        "registrar-credibility-shaken"
+      ],
+      "tone": "negative",
+      "open_loops": [
+        "Write clean chronology of events now, before memories rearrange",
+        "Draft separate process recommendations from factual sequence",
+        "Save personal copy of all drafts before they start circulating",
+        "Set hard stop time each evening to prevent hypervigilance from consuming nights"
+      ],
+      "decisions": [
+        "Hannah remains registrar, but the outgoing loan crate failure has triggered insurer scrutiny, internal blame, and an urg",
+        "Hannah's work anxiety spiked sharply after the crate damage confirmed one of her biggest fears, leaving her hypervigilan"
+      ],
+      "strands": [
+        "crate-transit-failure",
+        "insurer-scrutiny",
+        "preventable-damage-confirmed",
+        "internal-blame-dynamics",
+        "near-miss-object-safety",
+        "registrar-credibility-shaken"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2023-01-18-0950",
+      "date": "2023-01-18",
+      "start": "2023-01-18T09:50:00.000Z",
+      "end": "2023-01-18T11:16:00.000Z",
+      "turn_count": 30,
+      "status": "closed",
+      "focus": "Increasing therapy frequency and building a scripted shutdown routine to interrupt post-crate trauma replay",
+      "summary": "Hannah increases therapy and builds a literal shutdown routine (write down loose thoughts, make tea, jaw stretches, read something with no museum relevance for 20 min) to interrupt the compulsive replaying of the crate timeline that was hijacking her nights.",
+      "tags": [
+        "increased-therapy-frequency",
+        "shutdown-routine",
+        "rumination-interruption",
+        "bedtime-script",
+        "priya-paperwork-containment",
+        "stress-recovery-habits"
+      ],
+      "tone": "mixed",
+      "open_loops": [
+        "Keep extra therapy frequency for a while longer",
+        "Make kitchen basket the official work-paper quarantine zone",
+        "Add short arrival ritual (5 min to unload bag, wash face, change clothes)",
+        "Weekly check-in on bedtime dread frequency, replaying frequency, paper containment"
+      ],
+      "decisions": [
+        "Hannah is still rattled by the crate incident, but more frequent therapy and a home shutdown routine have shifted her fr"
+      ],
+      "strands": [
+        "increased-therapy-frequency",
+        "shutdown-routine",
+        "rumination-interruption",
+        "bedtime-script",
+        "priya-paperwork-containment",
+        "stress-recovery-habits"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2023-02-11-0230",
+      "date": "2023-02-11",
+      "start": "2023-02-11T02:30:00.000Z",
+      "end": "2023-02-11T03:38:00.000Z",
+      "turn_count": 24,
+      "status": "closed",
+      "focus": "Converting the crate damage into mandatory outgoing loan controls using a blunt incident packet",
+      "summary": "Hannah assembles an incident packet (shipping photos, email timestamps, repair estimates, missing signoff trail) that forces a new policy: no outgoing loan crate moves without written registrar approval, a current condition report, and a complete packing worksheet.",
+      "tags": [
+        "outgoing-loan-controls",
+        "incident-packet-evidence",
+        "registrar-approval-mandate",
+        "condition-report-requirement",
+        "missing-signoff-trail",
+        "policy-leverage"
+      ],
+      "tone": "mixed",
+      "open_loops": [
+        "Draft one-page release checklist with three non-negotiables",
+        "Schedule short training session (15-20 min walkthrough of stop points)",
+        "Create release sheet that physically cannot be closed without three attachments",
+        "Prepare script for first deadline collision"
+      ],
+      "decisions": [
+        "Hannah remains registrar and turned the damaged crate incident into stricter outgoing loan controls requiring documented"
+      ],
+      "strands": [
+        "outgoing-loan-controls",
+        "incident-packet-evidence",
+        "registrar-approval-mandate",
+        "condition-report-requirement",
+        "missing-signoff-trail",
+        "policy-leverage"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2023-03-06-1210",
+      "date": "2023-03-06",
+      "start": "2023-03-06T12:10:00.000Z",
+      "end": "2023-03-06T13:24:00.000Z",
+      "turn_count": 26,
+      "status": "closed",
+      "focus": "Pausing weekend freelance art handling work to build an emergency cushion and reduce overall strain",
+      "summary": "After the crate incident and a rent increase, Hannah pauses most weekend freelance art handling work and builds a tighter budget prioritizing an emergency cushion over impulsive train-day trips to Boston or New York.",
+      "tags": [
+        "freelance-work-pause",
+        "budget-restructuring",
+        "emergency-cushion-priority",
+        "rent-increase-pressure",
+        "weekend-income-tradeoff",
+        "sustainability-vs-scramble"
+      ],
+      "tone": "mixed",
+      "open_loops": [
+        "Stick with no-most-weekend-gigs rule for at least two months",
+        "Track savings balance and weekend energy side by side",
+        "Identify which categories preserve morale vs which can be safely trimmed"
+      ],
+      "decisions": [
+        "Hannah has sharply cut back most weekend freelance art handling and exhibition prep work after the exhausting crate-inci"
+      ],
+      "strands": [
+        "freelance-work-pause",
+        "budget-restructuring",
+        "emergency-cushion-priority",
+        "rent-increase-pressure",
+        "weekend-income-tradeoff",
+        "sustainability-vs-scramble"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2023-04-21-0655",
+      "date": "2023-04-21",
+      "start": "2023-04-21T06:55:00.000Z",
+      "end": "2023-04-21T08:03:00.000Z",
+      "turn_count": 24,
+      "status": "closed",
+      "focus": "Expanding the post-crate overhaul from shipping controls into a formal room-by-room collections audit with standardized location naming",
+      "summary": "Hannah expands her overhaul into a formal room-by-room collections audit with barcode batches, a calendar for each space, and mandatory standardized location naming — ending the 'everyone knows where that corner is' informality.",
+      "tags": [
+        "room-by-room-audit",
+        "location-naming-standardization",
+        "volunteer-retraining",
+        "barcode-batch-system",
+        "location-cheat-sheet",
+        "usable-over-polished"
+      ],
+      "tone": "positive",
+      "open_loops": [
+        "Finish one-page location cheat sheet with exact format examples",
+        "Keep batch review sheet to 3-5 checks max",
+        "Aim for one clean completed room as example standard",
+        "Protect that first room as the baseline for future work"
+      ],
+      "decisions": [
+        "Hannah expanded her post-crate overhaul from outbound shipping controls into a formal room-by-room collections audit wit"
+      ],
+      "strands": [
+        "room-by-room-audit",
+        "location-naming-standardization",
+        "volunteer-retraining",
+        "barcode-batch-system",
+        "location-cheat-sheet",
+        "usable-over-polished"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2023-05-29-1045",
+      "date": "2023-05-29",
+      "start": "2023-05-29T10:45:00.000Z",
+      "end": "2023-05-29T11:59:00.000Z",
+      "turn_count": 26,
+      "status": "closed",
+      "focus": "A rep theater date with Alex watching a Melville crime film reconnects Hannah with her love of restrained, procedural aesthetics",
+      "summary": "Alex takes Hannah to a tiny repertory theater for a Jean-Pierre Melville crime film; the restrained, unsentimental procedural style feels 'medicinal' after months of real-world messy logistics, and the conversation afterward reveals a deeper compatibility.",
+      "tags": [
+        "repertory-cinema-date",
+        "melville-crime-film",
+        "shared-aesthetic-discovery",
+        "restrained-procedural-taste",
+        "alex-compatibility-signal",
+        "attention-return-signal"
+      ],
+      "tone": "positive",
+      "open_loops": [
+        "Make tiny phone note of directors/films in the restrained procedural vein",
+        "Suggest going back to that theater (leave film choice open)",
+        "Protect reading corner from creeping piles"
+      ],
+      "decisions": [
+        "A tiny repertory theater date with Alex reminded Hannah how much she likes older procedural crime films, especially seve"
+      ],
+      "strands": [
+        "repertory-cinema-date",
+        "melville-crime-film",
+        "shared-aesthetic-discovery",
+        "restrained-procedural-taste",
+        "alex-compatibility-signal",
+        "attention-return-signal"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2023-07-14-0335",
+      "date": "2023-07-14",
+      "start": "2023-07-14T03:35:00.000Z",
+      "end": "2023-07-14T04:56:00.000Z",
+      "turn_count": 28,
+      "status": "closed",
+      "focus": "Duplicate object numbers discovered during audit force a wider overhaul including numbering reconciliation and image attachment checks",
+      "summary": "A conservation intern discovers duplicate object numbers in the works-on-paper cabinets, revealing years of inconsistent data entry. Hannah widens the overhaul to include numbering reconciliation and image attachment verification, imposing a temporary freeze on nonessential moves.",
+      "tags": [
+        "duplicate-object-numbers",
+        "numbering-reconciliation",
+        "image-attachment-checks",
+        "temporary-move-freeze",
+        "conservation-intern-discovery",
+        "identity-control"
+      ],
+      "tone": "mixed",
+      "open_loops": [
+        "Write restart threshold with three visible checks: confirmed numbering, image attachment, shelf label",
+        "Circulate example packet (screenshots showing how mismatch traveled) with short note together",
+        "Prioritize cabinets and ranges most likely to have old numbering drift",
+        "Protect intern by framing discovery as systems alert, not personal fault-finding"
+      ],
+      "decisions": [
+        "Hannah remains registrar and widened the collections overhaul to include numbering reconciliation and image attachment c"
+      ],
+      "strands": [
+        "duplicate-object-numbers",
+        "numbering-reconciliation",
+        "image-attachment-checks",
+        "temporary-move-freeze",
+        "conservation-intern-discovery",
+        "identity-control"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2023-08-22-0120",
+      "date": "2023-08-22",
+      "start": "2023-08-22T01:20:00.000Z",
+      "end": "2023-08-22T02:34:00.000Z",
+      "turn_count": 26,
+      "status": "closed",
+      "focus": "Recognizing that the relationship with Alex has shifted from casual to a steady, dependable partnership",
+      "summary": "After a year of dating — museum lunches, bike rides, preservation jokes — Hannah recognizes Alex has become her steady partner, valuing how he listens without rushing to solve and respects her boundaries without taking offense.",
+      "tags": [
+        "relationship-milestone",
+        "steady-partner-recognition",
+        "alex-chen-partnership",
+        "low-drama-compatibility",
+        "listening-without-fixing",
+        "ordinary-repetition-trust"
+      ],
+      "tone": "positive",
+      "open_loops": [
+        "Tell Alex plainly that he has become important, likely in a low-key moment",
+        "Have explicit conversation about what to call the relationship for clarity"
+      ],
+      "decisions": [
+        "Hannah and Alex have shifted from cautious casual dating into a steady, dependable relationship that fits her low-drama ",
+        "Alex Chen is now Hannah's steady partner rather than an early tentative date, and his calm, detail-minded temperament ma"
+      ],
+      "strands": [
+        "relationship-milestone",
+        "steady-partner-recognition",
+        "alex-chen-partnership",
+        "low-drama-compatibility",
+        "listening-without-fixing",
+        "ordinary-repetition-trust"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2023-10-03-0705",
+      "date": "2023-10-03",
+      "start": "2023-10-03T07:05:00.000Z",
+      "end": "2023-10-03T08:19:00.000Z",
+      "turn_count": 26,
+      "status": "closed",
+      "focus": "Getting approval to test rebuilt procedures on a moderately complex multi-lender exhibition",
+      "summary": "Using complete loan files and verified storage locations from the audit, Hannah gets leadership to test her rebuilt procedures on a moderately complex incoming exhibition with multiple lenders — the first real operational test.",
+      "tags": [
+        "multi-lender-exhibition-trial",
+        "operational-system-test",
+        "evidence-based-approval",
+        "active-loan-file-completeness",
+        "verified-location-evidence",
+        "exception-log-design"
+      ],
+      "tone": "positive",
+      "open_loops": [
+        "Draft one-page trial frame (evaluating reliability, traceability, compliance — not just outcome)",
+        "Build exception log with minimal mandatory fields (what changed, why, who approved, what was updated)",
+        "Create personal approve-vs-audit-vs-exception list to avoid overcontrol",
+        "Send pre-mortem note naming three failure modes and required responses"
+      ],
+      "decisions": [
+        "Hannah won approval to test her rebuilt loan and storage procedures on a moderately complex incoming exhibition with mul"
+      ],
+      "strands": [
+        "multi-lender-exhibition-trial",
+        "operational-system-test",
+        "evidence-based-approval",
+        "active-loan-file-completeness",
+        "verified-location-evidence",
+        "exception-log-design"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2023-11-11-1300",
+      "date": "2023-11-11",
+      "start": "2023-11-11T13:00:00.000Z",
+      "end": "2023-11-11T14:21:00.000Z",
+      "turn_count": 28,
+      "status": "closed",
+      "focus": "A volunteer's mystery paperback recommendation starts a used-bookstore habit that deepens into a Sunday ritual",
+      "summary": "During a quiet work stretch, a volunteer presses a battered mystery paperback into Hannah's hands; it sparks a deepening habit of Sunday afternoon Providence used-bookstore prowls for crime novels with clipped, unsentimental, dry voices.",
+      "tags": [
+        "used-mystery-paperbacks",
+        "sunday-bookstore-routine",
+        "volunteer-recommendation",
+        "reading-corner-in-use",
+        "low-cost-pleasure",
+        "clipped-observant-taste"
+      ],
+      "tone": "positive",
+      "open_loops": [
+        "Keep minimal phone note of authors + one-word descriptors (dry, fast, good ending)",
+        "Ask volunteer for one more recommendation",
+        "Keep Sundays loosely unplanned: coffee + bookstore, no pressure to buy"
+      ],
+      "decisions": [
+        "Hannah still reads museum case studies and narrative nonfiction, but a volunteer's recommendation has deepened her devot"
+      ],
+      "strands": [
+        "used-mystery-paperbacks",
+        "sunday-bookstore-routine",
+        "volunteer-recommendation",
+        "reading-corner-in-use",
+        "low-cost-pleasure",
+        "clipped-observant-taste"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2024-01-27-0915",
+      "date": "2024-01-27",
+      "start": "2024-01-27T09:15:00.000Z",
+      "end": "2024-01-27T10:23:00.000Z",
+      "turn_count": 24,
+      "status": "closed",
+      "focus": "The trial multi-lender exhibition lands with dramatically fewer emergencies, validating the rebuilt workflow",
+      "summary": "The trial incoming exhibition completes with fewer emergencies than any comparable project — condition reports complete, lender packets assembled, courier notes findable, packing photos attached. Hannah writes a quantified postmortem memo showing the chaos that did NOT happen.",
+      "tags": [
+        "exhibition-trial-success",
+        "reduced-last-minute-scramble",
+        "quantified-postmortem-memo",
+        "complete-lender-packets",
+        "verified-locations-proof",
+        "system-validation"
+      ],
+      "tone": "positive",
+      "open_loops": [
+        "Send postmortem memo to tight circle (people who shape timelines and resources)",
+        "Keep language focused on reduced scramble and preserved time",
+        "Push for complete lender packets as a pre-scheduling gate (the clearest next standard)"
+      ],
+      "decisions": [
+        "Hannah remains registrar and now has a successful trial incoming exhibition showing that complete lender packets, organi"
+      ],
+      "strands": [
+        "exhibition-trial-success",
+        "reduced-last-minute-scramble",
+        "quantified-postmortem-memo",
+        "complete-lender-packets",
+        "verified-locations-proof",
+        "system-validation"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2024-03-18-0055",
+      "date": "2024-03-18",
+      "start": "2024-03-18T00:55:00.000Z",
+      "end": "2024-03-18T02:03:00.000Z",
+      "turn_count": 24,
+      "status": "closed",
+      "focus": "Getting a modest raise that explicitly recognizes collections systems and process design work",
+      "summary": "Hannah gets her first raise reflecting systems work — using the exhibition postmortem memo and salary comparisons from Marta and peers to prove her role has expanded beyond routine loan coordination into collections systems design.",
+      "tags": [
+        "annual-review-raise",
+        "systems-work-recognition",
+        "salary-comparison-evidence",
+        "collections-role-expansion",
+        "financial-margin-gain",
+        "freelance-pressure-relief"
+      ],
+      "tone": "positive",
+      "open_loops": [
+        "Quiet weekend outing with no work email as celebration",
+        "Update budget: allocate raise across cushion, freelance reduction, and one quality-of-life item (books or train days)",
+        "Start lightweight running document for outcome notes after major projects"
+      ],
+      "decisions": [
+        "Hannah received a modest annual-review raise that explicitly recognized her collections systems work beyond routine loan"
+      ],
+      "strands": [
+        "annual-review-raise",
+        "systems-work-recognition",
+        "salary-comparison-evidence",
+        "collections-role-expansion",
+        "financial-margin-gain",
+        "freelance-pressure-relief"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2024-05-24-0525",
+      "date": "2024-05-24",
+      "start": "2024-05-24T05:25:00.000Z",
+      "end": "2024-05-24T06:51:00.000Z",
+      "turn_count": 30,
+      "status": "closed",
+      "focus": "Leadership approves quarterly spot audits and a cross-department exhibition prep checklist with early registrar review",
+      "summary": "Using the cleaner exhibition trial and postmortem numbers, Hannah wins quarterly spot audits and a cross-department exhibition prep checklist that puts registrar review earlier in the planning cycle — moving the museum from late-stage rescue to shared planning.",
+      "tags": [
+        "quarterly-spot-audits-approved",
+        "cross-department-checklist",
+        "registrar-review-timing",
+        "process-institutionalization",
+        "shared-accountability",
+        "no-more-late-stage-rescue"
+      ],
+      "tone": "positive",
+      "open_loops": [
+        "Write private note capturing what worked in the argument while memory is fresh",
+        "Define first-cycle signals: meeting timeliness, evidence attachment, checkpoint bypass attempts, cross-department response to delays",
+        "Save approved checklist and audit schedule in accessible location"
+      ],
+      "decisions": [
+        "Hannah remains registrar and got the museum to adopt quarterly spot audits plus a standing cross-department exhibition p"
+      ],
+      "strands": [
+        "quarterly-spot-audits-approved",
+        "cross-department-checklist",
+        "registrar-review-timing",
+        "process-institutionalization",
+        "shared-accountability",
+        "no-more-late-stage-rescue"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2024-07-30-0810",
+      "date": "2024-07-30",
+      "start": "2024-07-30T08:10:00.000Z",
+      "end": "2024-07-30T09:31:00.000Z",
+      "turn_count": 28,
+      "status": "closed",
+      "focus": "After Priya accepts a Boston job, Hannah chooses a smaller solo apartment over a roommate search",
+      "summary": "After Priya (her roommate since grad school) gets a Boston development job, Hannah moves to a smaller solo Providence apartment — consciously choosing quiet, control, and less clutter over cheaper shared space with a stranger.",
+      "tags": [
+        "priya-move-boston",
+        "solo-apartment-choice",
+        "longtime-roommate-loss",
+        "work-home-boundary-protection",
+        "intentional-simplicity",
+        "friend-grief-mundane-cues"
+      ],
+      "tone": "mixed",
+      "open_loops": [
+        "Set hard work-box boundary immediately (one zone, hard capacity limit)",
+        "Finish kitchen setup (good lighting, sleep setup, one frictionless cooking station)",
+        "Text Priya a first Boston date idea before move logistics swallow it",
+        "Allow sadness without turning it into evidence of wrong choice"
+      ],
+      "decisions": [
+        "After Priya accepted a stronger development job in Boston and planned to move at the end of the summer, Hannah moved out"
+      ],
+      "strands": [
+        "priya-move-boston",
+        "solo-apartment-choice",
+        "longtime-roommate-loss",
+        "work-home-boundary-protection",
+        "intentional-simplicity",
+        "friend-grief-mundane-cues"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2024-10-12-0640",
+      "date": "2024-10-12",
+      "start": "2024-10-12T06:40:00.000Z",
+      "end": "2024-10-12T07:48:00.000Z",
+      "turn_count": 24,
+      "status": "closed",
+      "focus": "Planning a larger exhibition using the rebuilt system reveals only three manageable gaps instead of a structural mess",
+      "summary": "Hannah maps the full loan cycle for a larger exhibition in advance using rebuilt templates, audit data, and crate documentation — finding only three manageable gaps (vague packing language, tight return window, one recheck) instead of a structural mess.",
+      "tags": [
+        "larger-exhibition-planning",
+        "full-cycle-mapping",
+        "audit-data-integration",
+        "three-manageable-gaps",
+        "pre-mortem-memo",
+        "plan-able-vs-survivable"
+      ],
+      "tone": "positive",
+      "open_loops": [
+        "Draft pre-mortem memo with sequence, open items, owners, and deadlines",
+        "Keep control list to the three actual gaps (don't invent more to satisfy nerves)",
+        "Present as operational frame (current sequence -> open items -> owners -> deadlines) not a victory lap"
+      ],
+      "decisions": [
+        "Hannah remains registrar and is now coordinating a larger incoming exhibition using the museum's rebuilt loan-cycle temp"
+      ],
+      "strands": [
+        "larger-exhibition-planning",
+        "full-cycle-mapping",
+        "audit-data-integration",
+        "three-manageable-gaps",
+        "pre-mortem-memo",
+        "plan-able-vs-survivable"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2025-02-04-1130",
+      "date": "2025-02-04",
+      "start": "2025-02-04T11:30:00.000Z",
+      "end": "2025-02-04T12:56:00.000Z",
+      "turn_count": 30,
+      "status": "closed",
+      "focus": "Rediscovering 1990s indie rock as the best soundtrack for labeling marathons during an archive-cleanout fundraiser",
+      "summary": "At a winter archive-cleanout fundraiser, Hannah rediscovers that late 1990s indie rock provides the ideal rhythm for sustained labeling work — familiar enough not to distract, structured enough to hold attention — and begins building a task-specific playlist.",
+      "tags": [
+        "1990s-indie-rock",
+        "archive-cleanout-fundraiser",
+        "labeling-marathon-tool",
+        "task-specific-soundtrack",
+        "practical-self-regulation",
+        "warmup-and-marathon-playlist"
+      ],
+      "tone": "positive",
+      "open_loops": [
+        "Build core playlist + rotating outer ring to avoid saturation",
+        "Test on labeling block and documentation cleanup separately",
+        "Keep ritual small: tea, playlist, labels, timer, stretch break",
+        "10-minute test: if still reorganizing pencils at minute 11, the ritual has become procrastination"
+      ],
+      "decisions": [
+        "Hannah now treats late 1990s indie rock as her favorite soundtrack for repetitive labeling and documentation sessions."
+      ],
+      "strands": [
+        "1990s-indie-rock",
+        "archive-cleanout-fundraiser",
+        "labeling-marathon-tool",
+        "task-specific-soundtrack",
+        "practical-self-regulation",
+        "warmup-and-marathon-playlist"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2025-06-18-1000",
+      "date": "2025-06-18",
+      "start": "2025-06-18T10:00:00.000Z",
+      "end": "2025-06-18T11:14:00.000Z",
+      "turn_count": 26,
+      "status": "closed",
+      "focus": "The full exhibition cycle completes without documentation scramble, validating the rebuilt system and Hannah's role",
+      "summary": "The large exhibition completes its full cycle (in and back out) without the old documentation scramble — object locations stayed correct, condition reports findable, crate records matching reality. Hannah presents a board-facing summary showing verified records near 98% and overdue catalog cleanup below the danger zone.",
+      "tags": [
+        "full-cycle-exhibition-success",
+        "board-facing-summary",
+        "lead-registrar-status",
+        "verified-digital-coverage",
+        "overdue-catalog-below-danger",
+        "system-reliability-demonstrated"
+      ],
+      "tone": "positive",
+      "open_loops": [
+        "Formalize lead registrar role language in org charts and planning documents",
+        "Create standard closeout template so each project keeps generating evidence",
+        "Send follow-up note linking success to specific conditions: complete lender packets, verified locations, adequate registrar review time"
+      ],
+      "decisions": [
+        "Hannah is now the Providence Museum of Art's lead registrar for a substantially more reliable collections and loan syste"
+      ],
+      "strands": [
+        "full-cycle-exhibition-success",
+        "board-facing-summary",
+        "lead-registrar-status",
+        "verified-digital-coverage",
+        "overdue-catalog-below-danger",
+        "system-reliability-demonstrated"
+      ],
+      "needs_marking": false
+    }
+  ]
+}

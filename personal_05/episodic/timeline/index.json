@@ -1,0 +1,1242 @@
+{
+  "_schema": 1,
+  "updated_at": "2026-08-17T16:21:32.143Z",
+  "slice_count": 30,
+  "needs_marking": 0,
+  "slices": [
+    {
+      "id": "2022-01-06-0030",
+      "date": "2022-01-06",
+      "start": "2022-01-06T00:30:00.000Z",
+      "end": "2022-01-06T01:44:00.000Z",
+      "turn_count": 26,
+      "status": "closed",
+      "focus": "Self-introduction and life setup with personal background, goals, and relationships.",
+      "summary": "Nathaniel introduces himself: a 39-year-old senior transit scheduling analyst at COTA in Columbus, ISTJ personality, partnered with Erin, hosting cousin Darius. Life goal is transit reliability reform on two bus corridors.",
+      "tags": [
+        "self-introduction",
+        "personal-background",
+        "cota",
+        "transit-scheduling",
+        "columbus-ohio",
+        "health-concerns",
+        "family-obligations",
+        "istj-personality"
+      ],
+      "tone": "positive",
+      "open_loops": [
+        "Cousin Darius housing situation unresolved",
+        "Blood pressure monitoring and weight management ongoing",
+        "Career transition from dispatch to operations planning still early",
+        "Down payment savings lagging due to family support obligations"
+      ],
+      "decisions": [],
+      "strands": [
+        "self-introduction",
+        "personal-background",
+        "cota",
+        "transit-scheduling",
+        "columbus-ohio",
+        "health-concerns",
+        "family-obligations",
+        "istj-personality"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2022-01-28-0840",
+      "date": "2022-01-28",
+      "start": "2022-01-28T08:40:00.000Z",
+      "end": "2022-01-28T09:48:00.000Z",
+      "turn_count": 24,
+      "status": "closed",
+      "focus": "Work shift: Nathaniel assigned to build formal lateness diagnostic for two east-west commuter corridors after complaint spike.",
+      "summary": "Nathaniel is assigned to build a formal lateness and missed-trip diagnostic for two chronically late corridors, shifting from reactive dispatch to visible operations planning. He feels the weight of scrutiny and home strain simultaneously.",
+      "tags": [
+        "cota",
+        "corridor-diagnostic",
+        "transit-reliability",
+        "operations-planning",
+        "monica-mentorship",
+        "greg-field-advice",
+        "work-pressure",
+        "home-strain"
+      ],
+      "tone": "mixed",
+      "open_loops": [
+        "Cousin Darius still living on couch, no end date",
+        "Corridor diagnostic not yet presented to leadership",
+        "Monica sanity-check not yet scheduled",
+        "Capture page for stray work thoughts not yet set up"
+      ],
+      "decisions": [
+        "After a January complaint spike and a tense operations review, Nathaniel was assigned to build a formal lateness and mis",
+        "Nathaniel sees the corridor diagnostic as a narrow chance to fix upstream scheduling problems rather than only reacting"
+      ],
+      "strands": [
+        "cota",
+        "corridor-diagnostic",
+        "transit-reliability",
+        "operations-planning",
+        "monica-mentorship",
+        "greg-field-advice",
+        "work-pressure",
+        "home-strain"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2022-02-14-1215",
+      "date": "2022-02-14",
+      "start": "2022-02-14T12:15:00.000Z",
+      "end": "2022-02-14T13:36:00.000Z",
+      "turn_count": 28,
+      "status": "closed",
+      "focus": "Valentine's Day conversation: Nathaniel and Erin set a six-week housing deadline for cousin Darius after months of strain.",
+      "summary": "On Valentine's Day, Nathaniel and Erin have a difficult but necessary conversation with cousin Darius, setting a six-week deadline for him to find housing or start contributing. The conversation brings relief and guilt, and strengthens their partnership.",
+      "tags": [
+        "family-boundaries",
+        "erin-relationship",
+        "darius-housing",
+        "valentines-day",
+        "guilt-and-duty",
+        "household-tension",
+        "six-week-deadline"
+      ],
+      "tone": "mixed",
+      "open_loops": [
+        "Six-week deadline for Darius: outcome unknown",
+        "Written expectations checklist not yet created",
+        "Morning bedding rule and weekly dinner ritual not yet communicated to Darius",
+        "Erin and Nathaniel must agree on no unilateral extensions"
+      ],
+      "decisions": [
+        "On Valentine's Day, Nathaniel and Erin had a careful talk and agreed that Darius has six weeks to either find other hous",
+        "Darius is still staying with them temporarily, but the arrangement is now more structured and a little tense because he "
+      ],
+      "strands": [
+        "family-boundaries",
+        "erin-relationship",
+        "darius-housing",
+        "valentines-day",
+        "guilt-and-duty",
+        "household-tension",
+        "six-week-deadline"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2022-03-10-2310",
+      "date": "2022-03-10",
+      "start": "2022-03-10T23:10:00.000Z",
+      "end": "2022-03-11T00:36:00.000Z",
+      "turn_count": 30,
+      "status": "closed",
+      "focus": "Leadership authorized Nathaniel to lead a first-pass redesign proposal for one priority corridor after his analysis landed well.",
+      "summary": "Nathaniel's corridor analysis, built on AVL logs, run-cut sheets, and field notes, convinces leadership to authorize him to lead a first-pass redesign proposal for a chronically late corridor. The shift from diagnostic to design feels significant but exposes him to new scrutiny.",
+      "tags": [
+        "cota",
+        "corridor-redesign",
+        "leadership-trust",
+        "data-driven-case",
+        "monica-framing",
+        "operations-planning",
+        "career-growth",
+        "avl-analysis"
+      ],
+      "tone": "positive",
+      "open_loops": [
+        "First redesign proposal not yet drafted",
+        "One-page summary not yet written",
+        "Monica framing review not yet scheduled",
+        "Definition of success for first pass not fully locked"
+      ],
+      "decisions": [
+        "Nathaniel is still a senior transit scheduling analyst, but leadership authorized him to lead a first-pass redesign prop"
+      ],
+      "strands": [
+        "cota",
+        "corridor-redesign",
+        "leadership-trust",
+        "data-driven-case",
+        "monica-framing",
+        "operations-planning",
+        "career-growth",
+        "avl-analysis"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2022-03-29-0350",
+      "date": "2022-03-29",
+      "start": "2022-03-29T03:50:00.000Z",
+      "end": "2022-03-29T04:58:00.000Z",
+      "turn_count": 24,
+      "status": "closed",
+      "focus": "Nathaniel discovers a Lebanese takeout spot at Elena's housewarming and adopts it as a regular late-work meal option.",
+      "summary": "A housewarming party at Elena's in Clintonville leads Nathaniel to discover a Lebanese takeout spot that becomes his default late-work dinner, replacing drive-through meals. The small routine helps reduce decision fatigue and improves his evenings.",
+      "tags": [
+        "elena-friendship",
+        "clintonville",
+        "lebanese-takeout",
+        "healthy-habits",
+        "work-life-balance",
+        "columbus-discovery",
+        "decision-fatigue",
+        "practical-routines"
+      ],
+      "tone": "positive",
+      "open_loops": [
+        "Three-option fallback meal plan not fully set up",
+        "Podcast/playlist rotation for note cleanup not locked",
+        "Running list of easy Columbus spots not started"
+      ],
+      "decisions": [
+        "After Elena's housewarming, Nathaniel added a new Lebanese takeout spot in Clintonville to his regular late-work dinner "
+      ],
+      "strands": [
+        "elena-friendship",
+        "clintonville",
+        "lebanese-takeout",
+        "healthy-habits",
+        "work-life-balance",
+        "columbus-discovery",
+        "decision-fatigue",
+        "practical-routines"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2022-04-23-0720",
+      "date": "2022-04-23",
+      "start": "2022-04-23T07:20:00.000Z",
+      "end": "2022-04-23T08:41:00.000Z",
+      "turn_count": 28,
+      "status": "closed",
+      "focus": "Nathaniel's corridor redesign review: approved in reduced form as a weekday pilot after pushback from operators and union.",
+      "summary": "Nathaniel's first corridor redesign review becomes contentious with operator pushback and union concerns. Leadership approves a reduced weekday pilot instead of the full rollout. He now owns pilot communication and operator outreach.",
+      "tags": [
+        "cota",
+        "corridor-review",
+        "pilot-approval",
+        "operator-resistance",
+        "union-steward",
+        "workplace-politics",
+        "weekday-pilot",
+        "communication-strategy"
+      ],
+      "tone": "mixed",
+      "open_loops": [
+        "Weekday pilot not yet launched or observed",
+        "Operator-facing summary not yet drafted",
+        "Field observation plan for critical relief windows not set",
+        "Tighter language needed for relief change explanations"
+      ],
+      "decisions": [
+        "Nathaniel's first corridor redesign survived review in reduced form, and he is now responsible for a limited weekday pil",
+        "He felt validated that leadership backed a pilot, but the contentious review made him more anxious about whether his pap"
+      ],
+      "strands": [
+        "cota",
+        "corridor-review",
+        "pilot-approval",
+        "operator-resistance",
+        "union-steward",
+        "workplace-politics",
+        "weekday-pilot",
+        "communication-strategy"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2022-05-12-1030",
+      "date": "2022-05-12",
+      "start": "2022-05-12T10:30:00.000Z",
+      "end": "2022-05-12T11:44:00.000Z",
+      "turn_count": 26,
+      "status": "closed",
+      "focus": "Darius finally moved out of the apartment after getting a warehouse job and finding a room on the South Side.",
+      "summary": "Darius moves out after landing a night-shift warehouse job and a room in a shared South Side townhouse. Nathaniel and Erin reclaim their living room and feel immediate relief. Nathaniel commits to bounded, occasional support only.",
+      "tags": [
+        "darius-moved-out",
+        "household-relief",
+        "family-boundaries",
+        "erin-relationship",
+        "startup-help",
+        "home-privacy",
+        "living-room-reclaimed"
+      ],
+      "tone": "positive",
+      "open_loops": [
+        "Darius's stability on night shift still uncertain",
+        "One-time startup help (groceries, lamp) not yet delivered",
+        "Weekly check-in rhythm with Darius not yet established",
+        "Living room reclamation ritual completed but follow-through needed"
+      ],
+      "decisions": [
+        "Darius moved out of Nathaniel and Erin's apartment after landing a night-shift warehouse job through a church contact, r",
+        "Darius found a shared townhouse room on the South Side after getting warehouse work, so Nathaniel no longer hosts him da"
+      ],
+      "strands": [
+        "darius-moved-out",
+        "household-relief",
+        "family-boundaries",
+        "erin-relationship",
+        "startup-help",
+        "home-privacy",
+        "living-room-reclaimed"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2022-06-16-2155",
+      "date": "2022-06-16",
+      "start": "2022-06-16T21:55:00.000Z",
+      "end": "2022-06-16T23:09:00.000Z",
+      "turn_count": 26,
+      "status": "closed",
+      "focus": "Summer signup pilot launched on first corridor; Nathaniel shifts to dawn field checks and daily performance monitoring.",
+      "summary": "The summer weekday pilot launches on Nathaniel's first corridor. He shifts from desk analysis to dawn field checks with clipboard in an orange vest, testing whether revised running times survive street conditions. Early results show cleaner departures and fewer cascading late trips.",
+      "tags": [
+        "cota",
+        "pilot-launch",
+        "field-validation",
+        "dawn-checks",
+        "running-time-revision",
+        "operational-evidence",
+        "daily-follow-up",
+        "work-identity-shift"
+      ],
+      "tone": "positive",
+      "open_loops": [
+        "Pilot early results need more history before being declared a win",
+        "Weekly summary template not yet formalized",
+        "Category system for bad days (signal vs noise) not yet implemented",
+        "Need to name role shift internally before someone else does"
+      ],
+      "decisions": [
+        "Nathaniel is now actively monitoring a live weekday pilot on his first corridor, splitting his time between schedule ana"
+      ],
+      "strands": [
+        "cota",
+        "pilot-launch",
+        "field-validation",
+        "dawn-checks",
+        "running-time-revision",
+        "operational-evidence",
+        "daily-follow-up",
+        "work-identity-shift"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2022-07-06-0240",
+      "date": "2022-07-06",
+      "start": "2022-07-06T02:40:00.000Z",
+      "end": "2022-07-06T03:54:00.000Z",
+      "turn_count": 26,
+      "status": "closed",
+      "focus": "Midyear primary care follow-up: blood pressure improved modestly, no medication yet, with clear warnings about consistency.",
+      "summary": "Nathaniel's midyear checkup shows modest blood pressure improvement, allowing him to avoid medication for now. The doctor attributes the change to steadier walking, less sodium, and fewer drive-through meals. He commits to small repeatable habits rather than dramatic overhauls.",
+      "tags": [
+        "health-follow-up",
+        "blood-pressure",
+        "medication-avoided",
+        "walking-routine",
+        "reduced-sodium",
+        "practical-habits",
+        "primary-care",
+        "work-induced-movement"
+      ],
+      "tone": "positive",
+      "open_loops": [
+        "Winter walking plan not yet developed",
+        "Better late-meal options list incomplete",
+        "Walking tracking method undecided (loose vs structured)",
+        "Weekend park loops for Erin not yet explored"
+      ],
+      "decisions": [
+        "Nathaniel's midyear primary care follow-up showed his blood pressure was still elevated but modestly improved, so his do"
+      ],
+      "strands": [
+        "health-follow-up",
+        "blood-pressure",
+        "medication-avoided",
+        "walking-routine",
+        "reduced-sodium",
+        "practical-habits",
+        "primary-care",
+        "work-induced-movement"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2022-08-21-0815",
+      "date": "2022-08-21",
+      "start": "2022-08-21T08:15:00.000Z",
+      "end": "2022-08-21T09:23:00.000Z",
+      "turn_count": 24,
+      "status": "closed",
+      "focus": "First corridor promoted to full signup status; leadership tasks Nathaniel with starting the second corridor.",
+      "summary": "After successful summer pilot results, leadership moves Nathaniel's first corridor to full signup status and tasks him with scoping the second corridor. He now faces recurring monthly reliability metrics and must build a reporting template.",
+      "tags": [
+        "cota",
+        "corridor-full-signup",
+        "leadership-validation",
+        "monthly-metrics",
+        "second-corridor-scoping",
+        "performance-dashboard",
+        "career-milestone",
+        "operational-credibility"
+      ],
+      "tone": "positive",
+      "open_loops": [
+        "Monthly reporting template not yet built",
+        "Second-corridor failure-mode list not yet drafted",
+        "Reality-check field visit cadence not yet defined",
+        "Leadership language for mixed months not prepared"
+      ],
+      "decisions": [
+        "Nathaniel's first corridor weekday pilot was successful enough on on-time performance and complaint reduction that leade"
+      ],
+      "strands": [
+        "cota",
+        "corridor-full-signup",
+        "leadership-validation",
+        "monthly-metrics",
+        "second-corridor-scoping",
+        "performance-dashboard",
+        "career-milestone",
+        "operational-credibility"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2022-09-14-1105",
+      "date": "2022-09-14",
+      "start": "2022-09-14T11:05:00.000Z",
+      "end": "2022-09-14T12:31:00.000Z",
+      "turn_count": 30,
+      "status": "closed",
+      "focus": "Nathaniel unexpectedly enjoys a Columbus Crew match and shifts from indifferent to actively wanting one or two games per season.",
+      "summary": "Greg drags Nathaniel and Erin to a Columbus Crew match. Despite low expectations, Nathaniel genuinely enjoys the live atmosphere and shifts from 'fine if it's on' to wanting one or two matches per season on purpose. The outing becomes a symbol of regained mental margin.",
+      "tags": [
+        "columbus-crew",
+        "live-soccer",
+        "greg-friendship",
+        "erin-outing",
+        "leisure-rediscovery",
+        "hobby-expansion",
+        "social-container",
+        "bounded-pleasure"
+      ],
+      "tone": "positive",
+      "open_loops": [
+        "One more match this season not yet identified or ticketed",
+        "Check if fall schedule aligns for easy attendance",
+        "Revisit next year rather than overplanning"
+      ],
+      "decisions": [
+        "Nathaniel's sports preference shifted after finally attending a Columbus Crew match with Greg, and he now sees one or tw"
+      ],
+      "strands": [
+        "columbus-crew",
+        "live-soccer",
+        "greg-friendship",
+        "erin-outing",
+        "leisure-rediscovery",
+        "hobby-expansion",
+        "social-container",
+        "bounded-pleasure"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2022-10-30-0600",
+      "date": "2022-10-30",
+      "start": "2022-10-30T06:00:00.000Z",
+      "end": "2022-10-30T07:14:00.000Z",
+      "turn_count": 26,
+      "status": "closed",
+      "focus": "Second corridor scoping reveals deeper problems: operator availability, relief logistics, and school dismissal peaks, not just timetable issues.",
+      "summary": "Nathaniel begins scoping the second corridor and discovers the problems extend far beyond timetable adjustments. Operator availability, relief travel logistics, and school bell time peaks all collide, pushing the work from schedule revision into depot coordination and staffing design.",
+      "tags": [
+        "cota",
+        "second-corridor",
+        "operator-availability",
+        "relief-logistics",
+        "school-bell-peaks",
+        "staffing-constraints",
+        "operations-design",
+        "monica-and-greg"
+      ],
+      "tone": "mixed",
+      "open_loops": [
+        "Three-pattern diagnostic deck not yet built",
+        "Monica framing review not yet scheduled",
+        "Greg field validation not yet obtained",
+        "Phased implementation plan not yet drafted",
+        "Risk of overpromising certainty on staffing-dependent fixes"
+      ],
+      "decisions": [
+        "Nathaniel's second corridor redesign expanded beyond timetable adjustment into operator piece design, relief logistics, ",
+        "Nathaniel is proud that the first corridor redesign held up, but the second corridor's staffing and relief complications"
+      ],
+      "strands": [
+        "cota",
+        "second-corridor",
+        "operator-availability",
+        "relief-logistics",
+        "school-bell-peaks",
+        "staffing-constraints",
+        "operations-design",
+        "monica-and-greg"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2022-11-22-0125",
+      "date": "2022-11-22",
+      "start": "2022-11-22T01:25:00.000Z",
+      "end": "2022-11-22T02:33:00.000Z",
+      "turn_count": 24,
+      "status": "closed",
+      "focus": "Nathaniel and Erin meet with a mortgage lender and get a sobering reality check on their homebuying readiness.",
+      "summary": "A meeting with a mortgage lender reveals Nathaniel and Erin are not yet ready for the neighborhoods they want. They restart a dedicated down-payment fund with automatic transfers, replacing vague optimism with structured saving. The disappointment is real but the clarity is useful.",
+      "tags": [
+        "mortgage-lender",
+        "down-payment-fund",
+        "financial-reality-check",
+        "erin-partnership",
+        "housing-goals",
+        "automatic-transfer",
+        "affordability-constraint",
+        "household-planning"
+      ],
+      "tone": "mixed",
+      "open_loops": [
+        "Down-payment fund auto-transfer amount not yet finalized",
+        "Neighborhood non-negotiables vs prestige conversation not yet had",
+        "Monthly check-in date not yet set",
+        "Emergency fund vs down-payment prioritization not fully resolved"
+      ],
+      "decisions": [
+        "After several months of not covering Darius's daily expenses, Nathaniel and Erin decided to restart a dedicated down-pay"
+      ],
+      "strands": [
+        "mortgage-lender",
+        "down-payment-fund",
+        "financial-reality-check",
+        "erin-partnership",
+        "housing-goals",
+        "automatic-transfer",
+        "affordability-constraint",
+        "household-planning"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2023-01-14-2220",
+      "date": "2023-01-14",
+      "start": "2023-01-14T22:20:00.000Z",
+      "end": "2023-01-14T23:41:00.000Z",
+      "turn_count": 28,
+      "status": "closed",
+      "focus": "Second corridor winter rollout fails due to operator shortages; Nathaniel faces ugly first-month numbers in a tense leadership review.",
+      "summary": "The winter rollout of Nathaniel's second corridor collapses when operator shortages force emergency block swaps and ad hoc coverage. He presents ugly first-month metrics (missed trips up, complaints up) in a tense meeting, feeling the credibility he built with the first corridor erode. He shifts to daily rechecking of assumptions.",
+      "tags": [
+        "cota",
+        "corridor-setback",
+        "operator-shortage",
+        "emergency-coverage",
+        "ugly-metrics",
+        "credibility-strain",
+        "salvage-mode",
+        "workplace-anxiety"
+      ],
+      "tone": "negative",
+      "open_loops": [
+        "Two-lane update format (outcome vs instability) not yet built",
+        "Split view for next leadership update not yet drafted",
+        "Cutoff ritual at work not yet implemented",
+        "Emotional recovery from public setback still ongoing",
+        "Assumptions list for unstable conditions not yet documented"
+      ],
+      "decisions": [
+        "Nathaniel's second corridor rollout was undermined by operator shortages and emergency block swaps, pushing him from red",
+        "He is discouraged and more tense after the failed rollout, and he worries leadership will read the setback as proof that"
+      ],
+      "strands": [
+        "cota",
+        "corridor-setback",
+        "operator-shortage",
+        "emergency-coverage",
+        "ugly-metrics",
+        "credibility-strain",
+        "salvage-mode",
+        "workplace-anxiety"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2023-02-08-0945",
+      "date": "2023-02-08",
+      "start": "2023-02-08T09:45:00.000Z",
+      "end": "2023-02-08T11:06:00.000Z",
+      "turn_count": 28,
+      "status": "closed",
+      "focus": "Nathaniel discovers transit-history and infrastructure podcasts on his commute, finding them steadying during the rough work stretch.",
+      "summary": "Elena sends Nathaniel a public-radio segment on transit historians, which sparks a new commute habit of listening to transit-history and infrastructure podcasts. The historical perspective helps him feel oriented rather than overwhelmed following the corridor setback.",
+      "tags": [
+        "transit-history",
+        "infrastructure-podcasts",
+        "commute-routine",
+        "elena-friendship",
+        "public-radio",
+        "historical-perspective",
+        "stress-management",
+        "orientation-over-inspiration"
+      ],
+      "tone": "positive",
+      "open_loops": [
+        "Commute-safe podcast queue not yet pre-loaded",
+        "Saved queue for homeward commute not yet established",
+        "Thanks to Elena not yet properly delivered",
+        "Light note-taking system for episodes not yet started"
+      ],
+      "decisions": [
+        "After Elena sent him a public-radio segment on transit historians, Nathaniel started listening to transit-history and in"
+      ],
+      "strands": [
+        "transit-history",
+        "infrastructure-podcasts",
+        "commute-routine",
+        "elena-friendship",
+        "public-radio",
+        "historical-perspective",
+        "stress-management",
+        "orientation-over-inspiration"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2023-03-19-0510",
+      "date": "2023-03-19",
+      "start": "2023-03-19T05:10:00.000Z",
+      "end": "2023-03-19T06:24:00.000Z",
+      "turn_count": 26,
+      "status": "closed",
+      "focus": "Nathaniel shifts from damage control to leading a salvage redesign with staffing-adjusted blocks, simpler reliefs, and depot coordination.",
+      "summary": "Nathaniel moves from defending a bruised rollout to leading a salvage redesign for the second corridor: staffing-adjusted blocks, simplified reliefs, reduced interlining, and tighter depot coordination. The package is less elegant but more robust, and he frames it as a controlled reset rather than a retreat.",
+      "tags": [
+        "cota",
+        "salvage-redesign",
+        "staffing-adjusted-blocks",
+        "relief-simplification",
+        "interlining-reduction",
+        "monica-framing",
+        "greg-field-input",
+        "operations-ownership"
+      ],
+      "tone": "positive",
+      "open_loops": [
+        "Written assumptions list for depot side not yet formalized",
+        "One-page leadership summary not yet drafted",
+        "Field version of assumptions not yet shared with operations",
+        "Three concrete checks for 'diagnosable' not yet defined",
+        "Rider-facing measure not yet added to success criteria"
+      ],
+      "decisions": [
+        "Nathaniel shifted from pure damage control on the second corridor to leading a salvage redesign for the next signup usin"
+      ],
+      "strands": [
+        "cota",
+        "salvage-redesign",
+        "staffing-adjusted-blocks",
+        "relief-simplification",
+        "interlining-reduction",
+        "monica-framing",
+        "greg-field-input",
+        "operations-ownership"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2023-04-27-1020",
+      "date": "2023-04-27",
+      "start": "2023-04-27T10:20:00.000Z",
+      "end": "2023-04-27T11:34:00.000Z",
+      "turn_count": 26,
+      "status": "closed",
+      "focus": "Nathaniel and Erin's belated anniversary weekend in Hocking Hills reveals the need to protect one no-work evening per week.",
+      "summary": "After postponing twice, Nathaniel and Erin finally take a short cabin weekend in Hocking Hills. The trip reveals how much work has been bleeding into home life, and they agree to protect one no-work evening (Wednesday) with no email, no laptop, and explicit rescheduling if moved.",
+      "tags": [
+        "anniversary-trip",
+        "hocking-hills",
+        "erin-relationship",
+        "work-life-boundary",
+        "protected-evening",
+        "wednesday-ritual",
+        "no-email-rule",
+        "relationship-investment"
+      ],
+      "tone": "positive",
+      "open_loops": [
+        "Wednesday calendar block not yet placed",
+        "No-email rule not yet communicated/adopted",
+        "Exception definition for true emergencies not yet agreed",
+        "Replacement night protocol not yet formalized"
+      ],
+      "decisions": [
+        "Nathaniel's relationship status shifted from mainly reducing household strain after Darius moved out to being more inten"
+      ],
+      "strands": [
+        "anniversary-trip",
+        "hocking-hills",
+        "erin-relationship",
+        "work-life-boundary",
+        "protected-evening",
+        "wednesday-ritual",
+        "no-email-rule",
+        "relationship-investment"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2023-06-01-2335",
+      "date": "2023-06-01",
+      "start": "2023-06-01T23:35:00.000Z",
+      "end": "2023-06-02T01:01:00.000Z",
+      "turn_count": 30,
+      "status": "closed",
+      "focus": "Salvage signup on second corridor produces measurable improvements; dashboard adopted into monthly leadership review.",
+      "summary": "The salvage signup on the second corridor produces fewer missed trips and steadier terminal departures. Nathaniel's before-and-after dashboard is adopted into monthly leadership review, formalizing his oversight of two corridor redesigns. He shifts from rescue mode to framing the work as a reliability program.",
+      "tags": [
+        "cota",
+        "salvage-results",
+        "before-after-dashboard",
+        "reliability-program",
+        "leadership-review",
+        "career-evolution",
+        "measurable-outcomes",
+        "two-corridor-oversight"
+      ],
+      "tone": "positive",
+      "open_loops": [
+        "One-sentence takeaway for next monthly review not yet locked",
+        "One limitation to volunteer early not yet decided",
+        "Request for three operating norms not yet drafted",
+        "Risk of being typecast as metrics guy not yet addressed"
+      ],
+      "decisions": [
+        "Nathaniel is now overseeing two monitored corridor redesigns, with improving second-corridor data and a formal reliabili",
+        "The improving second-corridor numbers gave Nathaniel a more grounded sense that schedule reform can survive setbacks if"
+      ],
+      "strands": [
+        "cota",
+        "salvage-results",
+        "before-after-dashboard",
+        "reliability-program",
+        "leadership-review",
+        "career-evolution",
+        "measurable-outcomes",
+        "two-corridor-oversight"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2023-07-19-0110",
+      "date": "2023-07-19",
+      "start": "2023-07-19T01:10:00.000Z",
+      "end": "2023-07-19T02:36:00.000Z",
+      "turn_count": 30,
+      "status": "closed",
+      "focus": "Nathaniel discovers unexpected enjoyment in a map-and-trail workshop at Highbanks, reconnecting with his geography background.",
+      "summary": "Erin signs up for a beginner map-and-trail workshop at Highbanks. Nathaniel attends expecting a polite few hours but gets drawn into the map-reading and orientation aspects, reconnecting with old geography instincts. The hobby becomes a regular low-friction weekend outing.",
+      "tags": [
+        "map-and-trail",
+        "highbanks",
+        "erin-outing",
+        "geography-instincts",
+        "local-hobby",
+        "orientation-focus",
+        "weekend-routine",
+        "low-friction-leisure"
+      ],
+      "tone": "positive",
+      "open_loops": [
+        "Elena short list of local spots not yet requested",
+        "Shared phone note of favorite parks not yet started",
+        "80/20 consistency-to-variety ratio not yet operationalized",
+        "Printing one favorite map not yet done"
+      ],
+      "decisions": [
+        "Nathaniel's travel and leisure preferences broadened beyond short Ohio and western Pennsylvania road trips to include lo"
+      ],
+      "strands": [
+        "map-and-trail",
+        "highbanks",
+        "erin-outing",
+        "geography-instincts",
+        "local-hobby",
+        "orientation-focus",
+        "weekend-routine",
+        "low-friction-leisure"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2023-09-08-0750",
+      "date": "2023-09-08",
+      "start": "2023-09-08T07:50:00.000Z",
+      "end": "2023-09-08T08:58:00.000Z",
+      "turn_count": 24,
+      "status": "closed",
+      "focus": "Nathaniel is asked to co-lead signup review process and present corridor numbers to senior staff after sustained results.",
+      "summary": "Both monitored corridors post stronger weekday reliability, and Nathaniel is tapped to co-lead the signup review process with operations planning and present corridor performance to senior staff. His role shifts from technical analyst to cross-functional decision influencer.",
+      "tags": [
+        "cota",
+        "signup-co-lead",
+        "senior-staff-presentation",
+        "leadership-track",
+        "operational-influence",
+        "career-transition",
+        "risk-statements",
+        "role-definition"
+      ],
+      "tone": "positive",
+      "open_loops": [
+        "Conversation with manager about role evolution not yet scheduled",
+        "Three things to be known for not yet written down",
+        "Filter decisions for meeting attendance not yet applied",
+        "Headline-two-reasons-condition format not yet practiced"
+      ],
+      "decisions": [
+        "Nathaniel was asked to co-lead the signup review process with operations planning after both monitored corridors posted"
+      ],
+      "strands": [
+        "cota",
+        "signup-co-lead",
+        "senior-staff-presentation",
+        "leadership-track",
+        "operational-influence",
+        "career-transition",
+        "risk-statements",
+        "role-definition"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2023-10-11-0405",
+      "date": "2023-10-11",
+      "start": "2023-10-11T04:05:00.000Z",
+      "end": "2023-10-11T05:31:00.000Z",
+      "turn_count": 30,
+      "status": "closed",
+      "focus": "Fall checkup confirms blood pressure manageable without medication; doctor advises maintaining current routine through winter.",
+      "summary": "Nathaniel's fall checkup shows blood pressure remaining in a manageable range without medication. The doctor credits steady walking, less sodium, and fewer drive-through meals. Nathaniel plans a simple winter version of his routine to avoid backsliding: shorter walks, indoor backup, repeat meal list.",
+      "tags": [
+        "fall-checkup",
+        "blood-pressure-manageable",
+        "medication-avoided",
+        "walking-continuity",
+        "reduced-sodium",
+        "winter-planning",
+        "modest-habits",
+        "health-maintenance"
+      ],
+      "tone": "positive",
+      "open_loops": [
+        "Short winter routine list not yet written",
+        "Three fallback meals for winter not yet identified",
+        "Three walking windows not yet mapped",
+        "Winter version of park loops not yet explored"
+      ],
+      "decisions": [
+        "At his fall checkup, Nathaniel's doctor said his blood pressure was manageable without medication for now."
+      ],
+      "strands": [
+        "fall-checkup",
+        "blood-pressure-manageable",
+        "medication-avoided",
+        "walking-continuity",
+        "reduced-sodium",
+        "winter-planning",
+        "modest-habits",
+        "health-maintenance"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2023-12-06-1040",
+      "date": "2023-12-06",
+      "start": "2023-12-06T10:40:00.000Z",
+      "end": "2023-12-06T12:06:00.000Z",
+      "turn_count": 30,
+      "status": "closed",
+      "focus": "Nathaniel and Monica pitch a corridor reliability playbook to leadership; it is approved for testing in future planning cycles.",
+      "summary": "After three signup periods of sustained results, Nathaniel and Monica pitch a formal corridor reliability playbook to leadership. It is approved for testing in future planning cycles, including realistic running time review, operator input before signup, and cleaner exception tracking.",
+      "tags": [
+        "cota",
+        "corridor-playbook",
+        "monica-partnership",
+        "process-design",
+        "running-time-review",
+        "operator-input",
+        "exception-tracking",
+        "organizational-influence"
+      ],
+      "tone": "positive",
+      "open_loops": [
+        "Three non-negotiables for playbook not yet formalized",
+        "Draft playbook not yet trimmed to three pages",
+        "Minimum viable requirements list not yet written",
+        "Testing criteria for playbook not yet defined"
+      ],
+      "decisions": [
+        "Nathaniel's two-corridor reliability work was formalized into a draft playbook for future planning cycles, expanding his"
+      ],
+      "strands": [
+        "cota",
+        "corridor-playbook",
+        "monica-partnership",
+        "process-design",
+        "running-time-review",
+        "operator-input",
+        "exception-tracking",
+        "organizational-influence"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2024-01-22-0730",
+      "date": "2024-01-22",
+      "start": "2024-01-22T07:30:00.000Z",
+      "end": "2024-01-22T08:38:00.000Z",
+      "turn_count": 24,
+      "status": "closed",
+      "focus": "Nathaniel discovers an online archive of vintage Columbus bus timetables and route maps, developing a relaxed collector hobby.",
+      "summary": "A younger planner shows Nathaniel an online archive of old Columbus bus timetables. He becomes engrossed in collecting PDFs of vintage route maps and schedule booklets, organizing them by decade and route family. The hobby satisfies his analytical instincts without operational pressure.",
+      "tags": [
+        "vintage-bus-maps",
+        "route-archive",
+        "columbus-history",
+        "collector-hobby",
+        "younger-planner",
+        "calm-curiosity",
+        "transit-design",
+        "low-pressure-interest"
+      ],
+      "tone": "positive",
+      "open_loops": [
+        "One favorite map not yet printed",
+        "Exceptions folder for non-Columbus finds not yet created",
+        "20-minute browsing cap not yet set",
+        "Thanks to younger planner for the archive link not yet deepened"
+      ],
+      "decisions": [
+        "Nathaniel has started casually collecting archived Columbus bus timetables and route map PDFs online."
+      ],
+      "strands": [
+        "vintage-bus-maps",
+        "route-archive",
+        "columbus-history",
+        "collector-hobby",
+        "younger-planner",
+        "calm-curiosity",
+        "transit-design",
+        "low-pressure-interest"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2024-03-14-0200",
+      "date": "2024-03-14",
+      "start": "2024-03-14T02:00:00.000Z",
+      "end": "2024-03-14T03:21:00.000Z",
+      "turn_count": 28,
+      "status": "closed",
+      "focus": "Nathaniel and Erin pause house hunting to prioritize building a larger emergency cushion after a second lender meeting.",
+      "summary": "After a second lender meeting, Nathaniel and Erin decide to stop pushing for a near-term house purchase and instead build a larger emergency cushion. The decision is disappointing but reduces financial fragility. They commit to a savings target, automatic transfers, and monthly check-ins.",
+      "tags": [
+        "house-purchase-paused",
+        "emergency-cushion",
+        "financial-reset",
+        "erin-decision",
+        "lender-meeting",
+        "sequence-vs-surrender",
+        "housing-goals",
+        "joint-planning"
+      ],
+      "tone": "mixed",
+      "open_loops": [
+        "Emergency cushion target number not yet defined",
+        "Automatic transfer setup not yet implemented",
+        "Definition of true emergency not yet agreed",
+        "Monthly check-in date not yet set",
+        "Small takeout-and-transfer ritual not yet planned"
+      ],
+      "decisions": [
+        "Nathaniel and Erin decided to stop pursuing a near-term house purchase and prioritize building a larger emergency cushio"
+      ],
+      "strands": [
+        "house-purchase-paused",
+        "emergency-cushion",
+        "financial-reset",
+        "erin-decision",
+        "lender-meeting",
+        "sequence-vs-surrender",
+        "housing-goals",
+        "joint-planning"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2024-05-09-0005",
+      "date": "2024-05-09",
+      "start": "2024-05-09T00:05:00.000Z",
+      "end": "2024-05-09T01:13:00.000Z",
+      "turn_count": 24,
+      "status": "closed",
+      "focus": "Nathaniel's role expands to training newer analysts on reliability scheduling after sustained results validate his methods.",
+      "summary": "After sustained corridor results hold up in spring review, Nathaniel is tapped to train newer analysts on the reliability side of scheduling. His first training block focuses on getting analysts out of their chairs and into field validation, with recovery time as the practical consequence.",
+      "tags": [
+        "cota",
+        "training-role",
+        "new-analysts",
+        "field-validation",
+        "reliability-method",
+        "recovery-time",
+        "mentorship",
+        "knowledge-transfer"
+      ],
+      "tone": "positive",
+      "open_loops": [
+        "Three-anchor training outline not yet finalized",
+        "Section on non-accusatory presentation not yet written",
+        "One-page handout not yet drafted",
+        "Post-session revision notes not yet planned"
+      ],
+      "decisions": [
+        "Nathaniel's role expanded from drafting a corridor reliability playbook to serving as an internal trainer on reliability"
+      ],
+      "strands": [
+        "cota",
+        "training-role",
+        "new-analysts",
+        "field-validation",
+        "reliability-method",
+        "recovery-time",
+        "mentorship",
+        "knowledge-transfer"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2024-06-18-0955",
+      "date": "2024-06-18",
+      "start": "2024-06-18T09:55:00.000Z",
+      "end": "2024-06-18T11:09:00.000Z",
+      "turn_count": 26,
+      "status": "closed",
+      "focus": "Nathaniel spends a weekend with an elderly beagle and realizes he wants a calm older rescue dog in a more settled home someday.",
+      "summary": "Erin helps her sister watch an elderly beagle for a weekend, and Nathaniel unexpectedly connects with the calm, low-energy companionship. He realizes his preference is specifically for an older, low-energy rescue dog once housing and routine are more permanent.",
+      "tags": [
+        "elderly-beagle",
+        "pet-preference",
+        "calm-companionship",
+        "older-rescue-dog",
+        "erin-sister",
+        "future-planning",
+        "home-atmosphere",
+        "dog-ownership-ideals"
+      ],
+      "tone": "positive",
+      "open_loops": [
+        "Three-condition readiness test not yet written",
+        "Note on phone with weekend lessons not yet created",
+        "Older rescue dog preference not yet shared as a concrete future goal"
+      ],
+      "decisions": [
+        "Nathaniel still cannot realistically have a pet in the apartment because of lease and schedule constraints, but after he"
+      ],
+      "strands": [
+        "elderly-beagle",
+        "pet-preference",
+        "calm-companionship",
+        "older-rescue-dog",
+        "erin-sister",
+        "future-planning",
+        "home-atmosphere",
+        "dog-ownership-ideals"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2024-09-27-0545",
+      "date": "2024-09-27",
+      "start": "2024-09-27T05:45:00.000Z",
+      "end": "2024-09-27T06:53:00.000Z",
+      "turn_count": 24,
+      "status": "closed",
+      "focus": "Nathaniel's title is formally changed to Senior Analyst for Service Reliability and Signup Coordination at COTA.",
+      "summary": "Nathaniel's title is formally changed to Senior Analyst for Service Reliability and Signup Coordination at COTA, reflecting the work he has already been doing. A modest salary bump accompanies the change, helping the household build its emergency cushion faster.",
+      "tags": [
+        "cota",
+        "title-change",
+        "senior-analyst",
+        "service-reliability",
+        "signup-coordination",
+        "career-milestone",
+        "salary-bump",
+        "role-clarity"
+      ],
+      "tone": "positive",
+      "open_loops": [
+        "One-page scope note not yet drafted",
+        "Thank-you note to Monica not yet sent",
+        "Role boundaries conversation with manager not yet scheduled",
+        "Raise-to-savings auto-transfer not yet set up",
+        "First few months priority list not yet ranked"
+      ],
+      "decisions": [
+        "Nathaniel's title was formally changed to senior analyst for service reliability and signup coordination at COTA.",
+        "Nathaniel's salary increased modestly with the formal title change, improving the household's ability to keep building e"
+      ],
+      "strands": [
+        "cota",
+        "title-change",
+        "senior-analyst",
+        "service-reliability",
+        "signup-coordination",
+        "career-milestone",
+        "salary-bump",
+        "role-clarity"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2024-11-16-1120",
+      "date": "2024-11-16",
+      "start": "2024-11-16T11:20:00.000Z",
+      "end": "2024-11-16T12:41:00.000Z",
+      "turn_count": 28,
+      "status": "closed",
+      "focus": "Nathaniel and Erin renew their lease but move to a quieter top-floor unit with a den instead of forcing a house purchase.",
+      "summary": "After months of scanning listings and compromising, Nathaniel and Erin renew their lease in the same complex but move to a quieter top-floor unit with a small den. The den gives Nathaniel a dedicated work-from-home corner. The decision prioritizes daily comfort over the milestone of buying.",
+      "tags": [
+        "lease-renewed",
+        "top-floor-unit",
+        "den-space",
+        "housing-compromise",
+        "incremental-upgrade",
+        "erin-decision",
+        "apartment-improvement",
+        "home-stability"
+      ],
+      "tone": "positive",
+      "open_loops": [
+        "Den not yet fully set up (desk, lighting, storage)",
+        "Shared rule about living room flat surfaces not yet agreed",
+        "Boxes to discard not yet sorted",
+        "Ask Erin about den finish not yet done"
+      ],
+      "decisions": [
+        "Nathaniel and Erin renewed their lease but moved into a quieter top-floor unit in the same apartment complex instead of"
+      ],
+      "strands": [
+        "lease-renewed",
+        "top-floor-unit",
+        "den-space",
+        "housing-compromise",
+        "incremental-upgrade",
+        "erin-decision",
+        "apartment-improvement",
+        "home-stability"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2025-02-29-0040",
+      "date": "2025-02-29",
+      "start": "2025-02-29T00:40:00.000Z",
+      "end": "2025-02-29T01:48:00.000Z",
+      "turn_count": 24,
+      "status": "closed",
+      "focus": "February review shows both corridors cleared on-time benchmarks across three signup periods, validating Nathaniel's reliability method.",
+      "summary": "Nathaniel's February review uses three consecutive signup periods of data to show both target corridors have cleared their on-time benchmarks. Missed trips stayed within tolerance and complaints dropped by over a third from baseline. The sustained results shift leadership tone from skepticism to investment.",
+      "tags": [
+        "cota",
+        "corridor-benchmark",
+        "three-signup-data",
+        "leadership-validation",
+        "on-time-performance",
+        "complaint-reduction",
+        "cautious-confidence",
+        "upstream-proof"
+      ],
+      "tone": "positive",
+      "open_loops": [
+        "Narrow ask for earlier validation support not yet drafted",
+        "Monica wording review not yet scheduled",
+        "Evidence chain document not yet finalized",
+        "Three operating norms request not yet formally proposed"
+      ],
+      "decisions": [
+        "The review showed both target corridors had cleared the on-time benchmark he had been trying to prove.",
+        "Meeting the corridor benchmarks eased Nathaniel's old helplessness and gave him cautious confidence that he can fix prob"
+      ],
+      "strands": [
+        "cota",
+        "corridor-benchmark",
+        "three-signup-data",
+        "leadership-validation",
+        "on-time-performance",
+        "complaint-reduction",
+        "cautious-confidence",
+        "upstream-proof"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2025-05-18-1010",
+      "date": "2025-05-18",
+      "start": "2025-05-18T10:10:00.000Z",
+      "end": "2025-05-18T11:18:00.000Z",
+      "turn_count": 24,
+      "status": "closed",
+      "focus": "Spring physical confirms blood pressure remains controlled and weight loss sustained; habits have become durable.",
+      "summary": "Nathaniel's spring physical confirms his blood pressure remains in a better-controlled range and he has kept off weight gained during his dispatch years. The doctor credits two years of consistent walking, better meal timing, and calmer evenings. He commits to two priorities: evening rhythm and walking floor.",
+      "tags": [
+        "spring-physical",
+        "blood-pressure-controlled",
+        "weight-maintained",
+        "evening-rhythm",
+        "walking-floor",
+        "sustainable-habits",
+        "health-milestone",
+        "ordinary-progress"
+      ],
+      "tone": "positive",
+      "open_loops": [
+        "One-paragraph health baseline not yet written",
+        "Default dinner and walking windows not yet formalized",
+        "List of solo habits vs shared habits not yet sorted"
+      ],
+      "decisions": [
+        "At a spring physical, Nathaniel learned that his blood pressure remains in a better-controlled range and that he has kep"
+      ],
+      "strands": [
+        "spring-physical",
+        "blood-pressure-controlled",
+        "weight-maintained",
+        "evening-rhythm",
+        "walking-floor",
+        "sustainable-habits",
+        "health-milestone",
+        "ordinary-progress"
+      ],
+      "needs_marking": false
+    }
+  ]
+}

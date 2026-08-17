@@ -1,0 +1,1075 @@
+{
+  "_schema": 1,
+  "updated_at": "2026-08-17T16:21:36.815Z",
+  "slice_count": 30,
+  "needs_marking": 0,
+  "slices": [
+    {
+      "id": "2022-01-06-0030",
+      "date": "2022-01-06",
+      "start": "2022-01-06T00:30:00.000Z",
+      "end": "2022-01-06T01:56:00.000Z",
+      "turn_count": 30,
+      "status": "closed",
+      "focus": "Eric provides a comprehensive self-introduction spanning name, age, location, education, personality (ISTJ), career at Freestore Foodbank as cold-chain coordinator, family (Danielle, Maya, Trevor), and personal tastes in music, reading, food, movies, and sports.",
+      "summary": "Full-life intake session covering Eric's background, personality traits, work mission, household composition, and everyday preferences, establishing the baseline identity for all subsequent slices.",
+      "tags": [
+        "work",
+        "family",
+        "health",
+        "finance",
+        "relationship",
+        "travel",
+        "education",
+        "housing"
+      ],
+      "tone": "neutral-reflective",
+      "open_loops": [
+        "Trevor's indefinite basement stay with no timeline",
+        "Financial fragility from combined $98k income with multiple dependents",
+        "Stress-related stomach issues left unmanaged",
+        "Maya's persistent cat request unaddressed"
+      ],
+      "decisions": [],
+      "strands": [
+        "work",
+        "family",
+        "health",
+        "finance",
+        "relationship",
+        "travel",
+        "education",
+        "housing"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2022-02-18-0940",
+      "date": "2022-02-18",
+      "start": "2022-02-18T09:40:00.000Z",
+      "end": "2022-02-18T10:54:00.000Z",
+      "turn_count": 26,
+      "status": "closed",
+      "focus": "Eric and Danielle hold a kitchen-table intervention with Trevor about his indefinite basement stay, producing a written three-month job-search and chore plan taped beside the garage freezer, which lowers household tension from constant low-grade irritation to clearer but still crowded coexistence.",
+      "summary": "Household tension with Trevor reaches a breaking point; Eric initiates a blunt family talk resulting in a written three-month agreement with measurable expectations, reducing ambiguity and protecting Maya from the emotional weather.",
+      "tags": [
+        "work",
+        "family",
+        "education",
+        "housing",
+        "goals",
+        "environment"
+      ],
+      "tone": "neutral-resolute",
+      "open_loops": [
+        "Whether Trevor will follow through on the three-month plan",
+        "One-month check-in scheduled but not yet conducted",
+        "Danielle's role as emotional buffer needs to be reduced"
+      ],
+      "decisions": [
+        "Trevor is still living in the basement, but after a tense family talk he agreed to a written three month job search and "
+      ],
+      "strands": [
+        "work",
+        "family",
+        "education",
+        "housing",
+        "goals",
+        "environment"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2022-03-11-0615",
+      "date": "2022-03-11",
+      "start": "2022-03-11T06:15:00.000Z",
+      "end": "2022-03-11T07:29:00.000Z",
+      "turn_count": 26,
+      "status": "closed",
+      "focus": "Leadership formally tasks Eric with building a spoilage baseline report across Freestore Foodbank's regional perishables network after Patricia compiled three months of cooler alarms, rejected pallets, and late-arrival notes, expanding his scope beyond warehouse cleanup to pantry handoff analysis.",
+      "summary": "Eric receives a formal spoilage-baseline assignment that broadens his cold-chain scope from internal warehouse metrics to partner-pantry handoff analysis, marking his transition from operational worker to analytical change agent.",
+      "tags": [
+        "work",
+        "health",
+        "relationship",
+        "housing",
+        "goals"
+      ],
+      "tone": "neutral-focused",
+      "open_loops": [
+        "Partner-pantry calls to validate failure categories not yet made",
+        "One-page summary template not yet built",
+        "Blunt call with Samuel pending"
+      ],
+      "decisions": [
+        "Leadership informally assigned Eric to build a spoilage baseline report across Freestore Foodbank's regional perishables",
+        "Eric felt more tense but also newly focused because leadership was finally taking the spoilage problem seriously and exp"
+      ],
+      "strands": [
+        "work",
+        "health",
+        "relationship",
+        "housing",
+        "goals"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2022-04-06-1110",
+      "date": "2022-04-06",
+      "start": "2022-04-06T11:10:00.000Z",
+      "end": "2022-04-06T12:36:00.000Z",
+      "turn_count": 30,
+      "status": "closed",
+      "focus": "Eric's commute-listening habit shifts from music and general radio to operations and maintenance podcasts after Marcus sends a hospital-facilities preventive-maintenance episode, which he begins using as a focus aid before early route checks.",
+      "summary": "A podcast recommendation from Marcus triggers a shift in Eric's commute ritual toward practical operations content, which he uses as a focus aid but intentionally limits to avoid turning every drive into work intake.",
+      "tags": [
+        "work",
+        "health",
+        "housing",
+        "leisure",
+        "goals"
+      ],
+      "tone": "neutral-engaged",
+      "open_loops": [
+        "Short list of repeated concepts from podcasts not yet written in his own language",
+        "Whether the practical-listening habit will be sustained with the uneven-drive approach"
+      ],
+      "decisions": [
+        "After Marcus sent him a hospital facilities podcast episode about preventive maintenance checklists, Eric leaned more he"
+      ],
+      "strands": [
+        "work",
+        "health",
+        "housing",
+        "leisure",
+        "goals"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2022-05-21-0850",
+      "date": "2022-05-21",
+      "start": "2022-05-21T08:50:00.000Z",
+      "end": "2022-05-21T09:58:00.000Z",
+      "turn_count": 24,
+      "status": "closed",
+      "focus": "Eric moves from baseline mapping into leading a small operational redesign inside his cold-chain coordinator role, building the first pantry-readiness scorecard and a color-coded route sheet for the busiest perishables handoffs, with input from Samuel's blunt field feedback and Patricia's timing data.",
+      "summary": "Eric transitions from analyst to operational redesign lead, creating a green-yellow-red pantry-readiness scorecard and revised route sheets that surface cooler capacity, unload windows, and actual contact names for the busiest perishables handoffs.",
+      "tags": [
+        "work",
+        "health",
+        "education",
+        "housing",
+        "leisure",
+        "goals"
+      ],
+      "tone": "neutral-cautious",
+      "open_loops": [
+        "Standardizing red-flag response ladder into approved options",
+        "Whether the scorecard will survive real morning pressure",
+        "Evidence log of where the sheet changed a decision not yet maintained"
+      ],
+      "decisions": [
+        "Eric moved from baseline mapping into leading a small operational redesign inside his cold-chain coordinator role, with "
+      ],
+      "strands": [
+        "work",
+        "health",
+        "education",
+        "housing",
+        "leisure",
+        "goals"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2022-06-14-0320",
+      "date": "2022-06-14",
+      "start": "2022-06-14T03:20:00.000Z",
+      "end": "2022-06-14T04:28:00.000Z",
+      "turn_count": 24,
+      "status": "closed",
+      "focus": "The home air conditioner fails during a hot weekend, forcing an urgent repair that further strains savings and reinforces the thin-cushion feeling, while Eric and Danielle make the decision together based on Maya's safety upstairs.",
+      "summary": "Emergency AC repair depletes savings further during an already demanding work period, prompting Eric and Danielle to consider a dedicated home-repair fund and temporary spending trims to preserve household stability.",
+      "tags": [
+        "work",
+        "family",
+        "health",
+        "finance",
+        "housing",
+        "goals"
+      ],
+      "tone": "neutral-practical",
+      "open_loops": [
+        "Home-repair fund not yet started",
+        "One-page financial reset not yet written with Danielle",
+        "Short house-systems inspection not yet completed"
+      ],
+      "decisions": [
+        "Eric's household remained modestly stable financially, but the urgent air conditioner repair cut further into savings an"
+      ],
+      "strands": [
+        "work",
+        "family",
+        "health",
+        "finance",
+        "housing",
+        "goals"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2022-07-09-0505",
+      "date": "2022-07-09",
+      "start": "2022-07-09T05:05:00.000Z",
+      "end": "2022-07-09T06:13:00.000Z",
+      "turn_count": 24,
+      "status": "closed",
+      "focus": "A hot-week produce run goes sideways with dumped milk and spoiled produce, validating Eric's earlier readiness analysis and earning a formal 90-day cold-chain pilot from leadership, which transforms his role from informal patcher to sanctioned pilot leader.",
+      "summary": "A visible spoilage failure during a heat week, documented with photos and spoilage sheets, convinces leadership to approve a 90-day cold-chain pilot with tighter handoff windows, pre-call confirmation, and route-compliance tracking.",
+      "tags": [
+        "work",
+        "health",
+        "housing",
+        "goals"
+      ],
+      "tone": "neutral-somber",
+      "open_loops": [
+        "First-month pilot metrics not yet defined",
+        "Fallback actions for missed confirmations not yet codified",
+        "Real-time decision authority not yet assigned for pilot"
+      ],
+      "decisions": [
+        "Eric stayed in the same cold-chain coordinator role, but after a visible spoilage failure leadership approved a ninety-d",
+        "Eric felt shaken by the dumped milk and spoiled produce, but the crisis also gave him a narrow sense of leverage because"
+      ],
+      "strands": [
+        "work",
+        "health",
+        "housing",
+        "goals"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2022-08-03-1230",
+      "date": "2022-08-03",
+      "start": "2022-08-03T12:30:00.000Z",
+      "end": "2022-08-03T13:51:00.000Z",
+      "turn_count": 28,
+      "status": "closed",
+      "focus": "During a rare quiet pocket, Eric reads a Michael Connelly paperback on the porch instead of checking work messages, rediscovering crime fiction as a decompression tool that fits his tired-evening bandwidth better than practical nonfiction.",
+      "summary": "Eric discovers that Michael Connelly novels from Danielle's library discard shelf provide a more realistic evening decompression routine than practical nonfiction, leading to a phone-down, porch-chair, one-chapter habit.",
+      "tags": [
+        "work",
+        "family",
+        "leisure",
+        "housing",
+        "goals"
+      ],
+      "tone": "neutral-warm",
+      "open_loops": [
+        "Whether to establish an ongoing pipeline for Connelly books through Danielle",
+        "Phone management (face-down vs another room) not yet decided"
+      ],
+      "decisions": [
+        "Eric still reads practical nonfiction, but during the stressful pilot stretch he began reaching more often for Michael C"
+      ],
+      "strands": [
+        "work",
+        "family",
+        "leisure",
+        "housing",
+        "goals"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2022-09-17-0725",
+      "date": "2022-09-17",
+      "start": "2022-09-17T07:25:00.000Z",
+      "end": "2022-09-17T08:51:00.000Z",
+      "turn_count": 30,
+      "status": "closed",
+      "focus": "The 90-day cold-chain pilot expands into broader operating practice with a pantry-specific confirmation board, split mixed-temperature loads, and reduced emergency reschedules at three partner sites, though Eric remains cautious about whether adoption will hold under pressure.",
+      "summary": "The pilot's success metrics (fewer emergency reschedules, cleaner load planning) convince dispatch and warehouse to adopt the confirmation board and split-load rules as routine practice, moving Eric from pilot leader to system steward.",
+      "tags": [
+        "work",
+        "health",
+        "housing",
+        "goals"
+      ],
+      "tone": "neutral-cautious",
+      "open_loops": [
+        "Whether the board will be used consistently on messy days",
+        "One-pager for Patricia to carry into meetings not yet drafted",
+        "Spot-review compliance check not yet designed"
+      ],
+      "decisions": [
+        "Eric remained Freestore Foodbank's cold-chain coordinator, but the ninety-day pilot expanded into broader operating prac"
+      ],
+      "strands": [
+        "work",
+        "health",
+        "housing",
+        "goals"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2022-10-22-0140",
+      "date": "2022-10-22",
+      "start": "2022-10-22T01:40:00.000Z",
+      "end": "2022-10-22T02:54:00.000Z",
+      "turn_count": 26,
+      "status": "closed",
+      "focus": "A severe reflux flare during a morning warehouse walk forces Eric to make a primary-care appointment, where the doctor prescribes consistent medication, empty-stomach coffee avoidance, and symptom tracking, marking a shift from powering through to active health management.",
+      "summary": "After a bad reflux episode interrupts a warehouse walk, Eric commits to consistent medication, a simple symptom log, pre-tagged peak weeks, and a small breakfast before coffee, transitioning from emergency antacid reliance to structured prevention.",
+      "tags": [
+        "work",
+        "family",
+        "health",
+        "travel",
+        "education",
+        "housing",
+        "leisure",
+        "goals"
+      ],
+      "tone": "neutral-honest",
+      "open_loops": [
+        "Symptom log template not yet built and populated",
+        "Phone reminder for late-morning tracking not yet set",
+        "Telling Danielle the actual plan rather than saying 'appointment was fine'"
+      ],
+      "decisions": [
+        "After a stronger reflux episode during a morning warehouse walk, Eric started taking reflux medication more consistently"
+      ],
+      "strands": [
+        "work",
+        "family",
+        "health",
+        "travel",
+        "education",
+        "housing",
+        "leisure",
+        "goals"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2022-12-05-1005",
+      "date": "2022-12-05",
+      "start": "2022-12-05T10:05:00.000Z",
+      "end": "2022-12-05T11:31:00.000Z",
+      "turn_count": 30,
+      "status": "closed",
+      "focus": "Eric presents quarterly logs at the year-end operations meeting showing lower spoilage and steadier on-time fresh arrivals on pilot routes, earning a small implementation budget for dock thermometers, laminated route sheets, and limited refresher calls with pantry staff.",
+      "summary": "Evidence-based persuasion succeeds: leadership approves Eric's first implementation budget for practical cold-chain tools (thermometers, laminated sheets, refresher calls), validating that his pilot work has moved from provisional experiment toward recognized operating practice.",
+      "tags": [
+        "work",
+        "finance",
+        "housing",
+        "goals"
+      ],
+      "tone": "neutral-wary",
+      "open_loops": [
+        "One-page rollout outline not yet written",
+        "Priority grid for which partner sites get refresher calls first",
+        "First-month success indicators not yet defined"
+      ],
+      "decisions": [
+        "Eric remained the cold-chain coordinator, but his spoilage-reduction pilot won a modest implementation budget for dock t"
+      ],
+      "strands": [
+        "work",
+        "finance",
+        "housing",
+        "goals"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2023-01-18-0815",
+      "date": "2023-01-18",
+      "start": "2023-01-18T08:15:00.000Z",
+      "end": "2023-01-18T09:36:00.000Z",
+      "turn_count": 28,
+      "status": "closed",
+      "focus": "Maya drags Eric to a library family movie night showing an old baseball movie, which rekindles his comfort-watch habit; baseball movies become his default evening decompression after Maya's bedtime, replacing the indecisive scrolling pattern.",
+      "summary": "A cold January library movie night with Maya reconnects Eric to baseball movies as a repeatable, low-friction evening decompression ritual that tolerates interruption and requires minimal decision-making when tired.",
+      "tags": [
+        "work",
+        "family",
+        "finance",
+        "education",
+        "housing",
+        "leisure",
+        "goals",
+        "environment"
+      ],
+      "tone": "neutral-warm",
+      "open_loops": [
+        "Short phone list of baseball movies worth rewatching not yet started",
+        "Whether to formalize a 'cue not rule' approach"
+      ],
+      "decisions": [
+        "After a library family movie night with Maya during a cold January stretch, Eric leaned harder into baseball movies as h"
+      ],
+      "strands": [
+        "work",
+        "family",
+        "finance",
+        "education",
+        "housing",
+        "leisure",
+        "goals",
+        "environment"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2023-02-26-2310",
+      "date": "2023-02-26",
+      "start": "2023-02-26T23:10:00.000Z",
+      "end": "2023-02-27T00:31:00.000Z",
+      "turn_count": 28,
+      "status": "closed",
+      "focus": "Eric expands the cold-chain handoff protocol to more partner sites and implements a weekly exception log with three categories (cooler-capacity problems, volunteer-readiness delays, route-timing failures), transforming ambiguous Monday meetings into evidence-based discussions.",
+      "summary": "A categorized weekly exception log (cooler capacity vs volunteer readiness vs route timing) gives Eric a repeatable artifact that lowers meeting temperature, reduces defensive posturing, and separates diagnosis from case management.",
+      "tags": [
+        "work",
+        "health",
+        "relationship",
+        "housing",
+        "goals"
+      ],
+      "tone": "neutral-operational",
+      "open_loops": [
+        "Light follow-up layer (owner + next step + date) not yet added",
+        "Whether to socialize cooler-capacity pattern data for larger remedies"
+      ],
+      "decisions": [
+        "Eric expanded his cold-chain handoff protocol to more pantry partners and now tracks a weekly exception log across the w"
+      ],
+      "strands": [
+        "work",
+        "health",
+        "relationship",
+        "housing",
+        "goals"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2023-03-30-1300",
+      "date": "2023-03-30",
+      "start": "2023-03-30T13:00:00.000Z",
+      "end": "2023-03-30T14:26:00.000Z",
+      "turn_count": 30,
+      "status": "closed",
+      "focus": "Trevor secures overnight receiving work at a grocery warehouse after several months of steady follow-through on the basement agreement, creating a mixed-win: lower household tension and reliable financial contribution, but an off-kilter overnight rhythm.",
+      "summary": "Trevor's job acquisition validates the written-agreement approach and reduces household tension, but introduces an overnight schedule that requires a fresh set of house rules for shared rhythm and space.",
+      "tags": [
+        "work",
+        "family",
+        "finance",
+        "education",
+        "housing",
+        "leisure",
+        "goals",
+        "environment"
+      ],
+      "tone": "neutral-cautious",
+      "open_loops": [
+        "Household rhythm reset conversation not yet held",
+        "Broader check-in about money and timeline not yet scheduled",
+        "Whether Trevor can sustain the job pattern long-term"
+      ],
+      "decisions": [
+        "Trevor secured overnight receiving work at a grocery warehouse while still living in Eric's basement."
+      ],
+      "strands": [
+        "work",
+        "family",
+        "finance",
+        "education",
+        "housing",
+        "leisure",
+        "goals",
+        "environment"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2023-05-12-0435",
+      "date": "2023-05-12",
+      "start": "2023-05-12T04:35:00.000Z",
+      "end": "2023-05-12T05:56:00.000Z",
+      "turn_count": 28,
+      "status": "closed",
+      "focus": "A walk-in cooler compressor fails during a heavy dairy-and-greens week, forcing Eric from rollout mode into three-day emergency triage, halting the broader implementation and revealing that process improvements cannot compensate for aging refrigeration infrastructure.",
+      "summary": "A catastrophic cooler failure during peak product week exposes the ceiling of process-only improvements, forcing Eric to defend the handoff system as not responsible, while experiencing significant hypervigilance afterward.",
+      "tags": [
+        "work",
+        "health",
+        "finance",
+        "housing",
+        "goals"
+      ],
+      "tone": "neutral-exhausted",
+      "open_loops": [
+        "One-page timeline document not yet drafted",
+        "Written contingency plan for cooler failure not yet created",
+        "Whether to push for maintenance escalation or a contingency plan first"
+      ],
+      "decisions": [
+        "Eric's expanded cold-chain rollout was pushed into emergency triage after a walk-in cooler compressor failed during a he",
+        "After the compressor failure, Eric felt more defeated and hypervigilant because one equipment breakdown seemed able to w"
+      ],
+      "strands": [
+        "work",
+        "health",
+        "finance",
+        "housing",
+        "goals"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2023-06-23-1045",
+      "date": "2023-06-23",
+      "start": "2023-06-23T10:45:00.000Z",
+      "end": "2023-06-23T11:53:00.000Z",
+      "turn_count": 24,
+      "status": "closed",
+      "focus": "Samuel recommends a dependable chili place near his northern Kentucky dock, which becomes Eric's default late-night meal on hard route weeks, replacing the antacids-and-toast stress-eating pattern with a predictable eating routine.",
+      "summary": "A chili place recommended by Samuel becomes Eric's emergency food structure on late pickup nights, providing predictability when dinner otherwise falls apart, while he manages cost concerns with a light formalization approach.",
+      "tags": [
+        "work",
+        "family",
+        "finance",
+        "housing",
+        "goals"
+      ],
+      "tone": "neutral-practical",
+      "open_loops": [
+        "One backup meal option not yet identified",
+        "Rough weekly spending cap not yet set for takeout"
+      ],
+      "decisions": [
+        "After Samuel pointed him to a dependable chili place near his northern Kentucky pantry dock, chili became Eric's default"
+      ],
+      "strands": [
+        "work",
+        "family",
+        "finance",
+        "housing",
+        "goals"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2023-08-04-0655",
+      "date": "2023-08-04",
+      "start": "2023-08-04T06:55:00.000Z",
+      "end": "2023-08-04T08:09:00.000Z",
+      "turn_count": 26,
+      "status": "closed",
+      "focus": "Eric and Patricia co-author a written cooler-failure contingency plan with a pre-ranked priority order, cross-dock rules, same-day pantry notification tree, and a deferred-maintenance log, moving from crisis response to shared recovery infrastructure.",
+      "summary": "Collaborating with Patricia, Eric converts the compressor-failure lessons into a structured contingency plan with ranked product priority, notification tree, cross-dock rules, and maintenance-risk logging, shifting from personal vigilance to shared system.",
+      "tags": [
+        "work",
+        "health",
+        "relationship",
+        "leisure",
+        "goals"
+      ],
+      "tone": "neutral-forward-looking",
+      "open_loops": [
+        "Tabletop drill to test the plan not yet conducted",
+        "Whether the maintenance log will survive routine use"
+      ],
+      "decisions": [
+        "Eric moved the cold-chain effort out of emergency triage and into a recovery phase built around a written cooler-failure"
+      ],
+      "strands": [
+        "work",
+        "health",
+        "relationship",
+        "leisure",
+        "goals"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2023-09-10-1220",
+      "date": "2023-09-10",
+      "start": "2023-09-10T12:20:00.000Z",
+      "end": "2023-09-10T13:41:00.000Z",
+      "turn_count": 28,
+      "status": "closed",
+      "focus": "Eric and Danielle pay to install a backyard shed to relieve the storage overflow that had been consuming closets and Maya's play space, accepting the financial hit as a practical correction to household crowding rather than continuing to normalize a bad setup.",
+      "summary": "A backyard shed purchase relieves months of storage overflow that had been shrinking Maya's play space and consuming closets, with Eric and Danielle agreeing on zones, a donation pass, and a no-new-projects spending rule afterward.",
+      "tags": [
+        "work",
+        "family",
+        "finance",
+        "education",
+        "housing",
+        "leisure",
+        "goals"
+      ],
+      "tone": "neutral-relieved",
+      "open_loops": [
+        "Full inventory vs light zones approach not yet decided",
+        "Whether the garage becomes usable space or just cleaner storage"
+      ],
+      "decisions": [
+        "Eric and Danielle paid to have a backyard shed installed so overflow household storage would stop taking over the garage",
+        "Paying for the shed delayed any real savings rebuild and kept Eric feeling financially narrow after other recent repair"
+      ],
+      "strands": [
+        "work",
+        "family",
+        "finance",
+        "education",
+        "housing",
+        "leisure",
+        "goals"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2023-10-28-0345",
+      "date": "2023-10-28",
+      "start": "2023-10-28T03:45:00.000Z",
+      "end": "2023-10-28T05:06:00.000Z",
+      "turn_count": 28,
+      "status": "closed",
+      "focus": "Eric implements a stricter pantry-tier system that reserves the most fragile dairy and cut produce for partner sites with proven on-time unload performance, reducing warm holds and same-day reroutes but creating politically delicate partner-tier conversations.",
+      "summary": "Moving beyond recovery mode, Eric establishes a readiness-based tier system for fragile product allocation, reducing spoilage and reroutes but requiring careful communication about standards, improvement paths, and the operational rationale.",
+      "tags": [
+        "work",
+        "relationship",
+        "housing",
+        "leisure",
+        "goals"
+      ],
+      "tone": "neutral-principled",
+      "open_loops": [
+        "One-page readiness checklist for all partner sites not yet finalized",
+        "Internal operational snapshot (warm holds, reroutes) not yet shared with operations first"
+      ],
+      "decisions": [
+        "Eric moved from recovery planning into a stricter pantry-tier system that sends the most fragile dairy and cut produce o"
+      ],
+      "strands": [
+        "work",
+        "relationship",
+        "housing",
+        "leisure",
+        "goals"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2023-12-17-1410",
+      "date": "2023-12-17",
+      "start": "2023-12-17T14:10:00.000Z",
+      "end": "2023-12-17T15:24:00.000Z",
+      "turn_count": 26,
+      "status": "closed",
+      "focus": "Eric experiences lightheadedness and nausea during holiday-rush evening counts, eventually taking two personal days after realizing symptom tracking alone is insufficient; the operation holds together without him, providing evidence that the system can survive his absence.",
+      "summary": "A health scare (lightheadedness, nausea during counts) forces Eric to take personal days, where he discovers the operation holds without him, leading to a trigger-list approach for earlier intervention: skipped lunch, antacid dependence, and dizziness as automatic course-change signals.",
+      "tags": [
+        "work",
+        "family",
+        "health",
+        "travel",
+        "education",
+        "leisure",
+        "goals"
+      ],
+      "tone": "neutral-humbled",
+      "open_loops": [
+        "Trigger list not yet formalized with specific actions",
+        "Lesson about system functioning without him not yet written down as evidence",
+        "Lunch-protection and break-walking habits not yet tested under next surge"
+      ],
+      "decisions": [
+        "Eric now treats scheduled meals, short lunch-break walks, and occasional personal days as part of managing his stress-re",
+        "Seeing that the operation held together during his two days off gave Eric a little more confidence that every problem is"
+      ],
+      "strands": [
+        "work",
+        "family",
+        "health",
+        "travel",
+        "education",
+        "leisure",
+        "goals"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2024-01-31-0700",
+      "date": "2024-01-31",
+      "start": "2024-01-31T07:00:00.000Z",
+      "end": "2024-01-31T08:21:00.000Z",
+      "turn_count": 28,
+      "status": "closed",
+      "focus": "Eric presents a full-quarter cold-chain dashboard combining spoilage percentage, on-time fresh arrivals, and repeat-ready pantry counts, which leadership requests as a recurring management tool, cementing his role as system steward rather than pilot leader.",
+      "summary": "A quarterly dashboard with linked metrics (spoilage, on-time arrivals, repeat-ready pantry counts) becomes a standing leadership tool, marking Eric's transition from defending decisions to presenting a system that can speak for itself.",
+      "tags": [
+        "work",
+        "relationship",
+        "housing",
+        "goals"
+      ],
+      "tone": "neutral-measured",
+      "open_loops": [
+        "One-line operational interpretations for each quarter not yet standardized",
+        "Definition of 'repeat-ready' not yet stabilized for comparability",
+        "Whether to co-own the dashboard format with Patricia"
+      ],
+      "decisions": [
+        "Eric now presents a quarterly cold-chain dashboard that combines pantry readiness, on-time fresh deliveries, and spoilag"
+      ],
+      "strands": [
+        "work",
+        "relationship",
+        "housing",
+        "goals"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2024-03-19-0935",
+      "date": "2024-03-19",
+      "start": "2024-03-19T09:35:00.000Z",
+      "end": "2024-03-19T11:01:00.000Z",
+      "turn_count": 30,
+      "status": "closed",
+      "focus": "Marcus invites Eric to a low-key weekend catch at a park that turns into impromptu pickup softball, reconnecting Eric to the physical enjoyment of playing rather than spectating, with the simple commitment of keeping his glove in the car.",
+      "summary": "A casual park catch with Marcus and former college friends reawakens Eric's enjoyment of playing softball rather than just watching, leading to a low-friction commitment: glove stays in the car, and he says yes when an opening appears.",
+      "tags": [
+        "work",
+        "finance",
+        "education",
+        "housing",
+        "leisure",
+        "goals",
+        "environment"
+      ],
+      "tone": "neutral-warm",
+      "open_loops": [
+        "Whether to tell Marcus the invitation mattered more than he probably knows",
+        "Whether the glove-in-car system will actually result in repeat outings"
+      ],
+      "decisions": [
+        "Eric started occasionally joining short pickup softball sessions again after a casual park catch with Marcus and a few f"
+      ],
+      "strands": [
+        "work",
+        "finance",
+        "education",
+        "housing",
+        "leisure",
+        "goals",
+        "environment"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2024-05-08-0520",
+      "date": "2024-05-08",
+      "start": "2024-05-08T05:20:00.000Z",
+      "end": "2024-05-08T06:46:00.000Z",
+      "turn_count": 30,
+      "status": "closed",
+      "focus": "Eric moves the cold-chain effort from reporting into a scheduled-lane phase with fixed weekly perishables routes for the most reliable partner pantries, built collaboratively with Samuel and pantry managers to ensure field reality shapes the standard.",
+      "summary": "The cold-chain system matures from evidence-based reporting into scheduled weekly lanes for the strongest partner sites, with Samuel co-designing the structure, a readiness ladder for site advancement, and explicit exception triggers.",
+      "tags": [
+        "work",
+        "relationship",
+        "housing",
+        "goals",
+        "environment"
+      ],
+      "tone": "neutral-confident",
+      "open_loops": [
+        "One-page lane rule set and exception triggers not yet finalized",
+        "Readiness ladder for non-lane partners not yet documented",
+        "Whether the structure will hold under summer pressure and staffing changes"
+      ],
+      "decisions": [
+        "Eric moved the cold-chain effort from dashboard reporting into a scheduled-lane phase with fixed weekly perishables rout"
+      ],
+      "strands": [
+        "work",
+        "relationship",
+        "housing",
+        "goals",
+        "environment"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2024-06-26-0115",
+      "date": "2024-06-26",
+      "start": "2024-06-26T01:15:00.000Z",
+      "end": "2024-06-26T02:29:00.000Z",
+      "turn_count": 26,
+      "status": "closed",
+      "focus": "Trevor moves out into a shared apartment with a coworker after his warehouse job stabilizes, immediately transforming the household atmosphere from cramped negotiation to breathable family space, with Maya claiming the basement as a reading corner.",
+      "summary": "Trevor's move-out marks a major family milestone: the house regains privacy and purpose, Maya claims a reading corner, and Eric navigates the transition from tense housemate logistics to ordinary family connection with a light-touch approach.",
+      "tags": [
+        "work",
+        "family",
+        "finance",
+        "relationship",
+        "education",
+        "housing",
+        "leisure",
+        "goals"
+      ],
+      "tone": "neutral-relieved",
+      "open_loops": [
+        "Whether to impose a one-month rule on major basement renovations",
+        "How to maintain warm-but-not-managerial contact with Trevor"
+      ],
+      "decisions": [
+        "Trevor moved out of Eric's basement and into a shared apartment with a coworker after his warehouse job became steady en",
+        "Trevor's move-out gave Eric's house immediate relief from crowding and restored more normal privacy for the family."
+      ],
+      "strands": [
+        "work",
+        "family",
+        "finance",
+        "relationship",
+        "education",
+        "housing",
+        "leisure",
+        "goals"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2024-08-15-0840",
+      "date": "2024-08-15",
+      "start": "2024-08-15T08:40:00.000Z",
+      "end": "2024-08-15T10:01:00.000Z",
+      "turn_count": 28,
+      "status": "closed",
+      "focus": "Summer review reveals four straight quarters under spoilage target on core lanes with the strongest pantry group also above the on-time fresh-arrival threshold, validating the scheduled-lane model as a repeatable system rather than a lucky season.",
+      "summary": "Four consecutive quarters of sustained improvement under target, with correlated on-time arrival data, provide Eric the first tangible evidence that the system can improve through procedure and partnership rather than personal heroic rescue.",
+      "tags": [
+        "work",
+        "health",
+        "relationship",
+        "housing",
+        "environment"
+      ],
+      "tone": "neutral-grounded",
+      "open_loops": [
+        "One-page summary of sustaining practices not yet written",
+        "One-on-one thank-yous to Patricia and Samuel not yet delivered"
+      ],
+      "decisions": [
+        "The sustained low-spoilage stretch gave Eric his first real sense that the cold-chain system could improve through proce"
+      ],
+      "strands": [
+        "work",
+        "health",
+        "relationship",
+        "housing",
+        "environment"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2024-10-01-1025",
+      "date": "2024-10-01",
+      "start": "2024-10-01T10:25:00.000Z",
+      "end": "2024-10-01T11:46:00.000Z",
+      "turn_count": 28,
+      "status": "closed",
+      "focus": "Maya talks Eric into a local shelter open house, where the family explores cat adoption without committing; Eric's position softens from 'absolutely not' to 'maybe later if we find a calm adult cat,' marking the household crowding reduction as the enabling condition.",
+      "summary": "With the house feeling less cramped after Trevor's move, Eric agrees to a shelter visit and reconsiders cat adoption from a hardened 'no' to a conditional 'maybe later' centered on a calm adult cat that fits the family's actual schedule and energy.",
+      "tags": [
+        "work",
+        "family",
+        "health",
+        "finance",
+        "travel",
+        "housing",
+        "leisure",
+        "goals"
+      ],
+      "tone": "neutral-open",
+      "open_loops": [
+        "Cat-readiness checklist for Maya not yet created",
+        "Planned pause of a few weeks to see if interest remains organic"
+      ],
+      "decisions": [
+        "Eric became more open to eventually adopting a calm adult cat that would fit the family's schedule and energy level."
+      ],
+      "strands": [
+        "work",
+        "family",
+        "health",
+        "finance",
+        "travel",
+        "housing",
+        "leisure",
+        "goals"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2025-01-12-0205",
+      "date": "2025-01-12",
+      "start": "2025-01-12T02:05:00.000Z",
+      "end": "2025-01-12T03:13:00.000Z",
+      "turn_count": 24,
+      "status": "closed",
+      "focus": "Eric formalizes the entire cold-chain system into a documented playbook for incoming staff and pantry coordinators, bundling route-sheet examples, escalation tree, cooler-failure steps, and pantry-tier rules into one shared standard to reduce hallway-dependent institutional knowledge.",
+      "summary": "The cold-chain system's accumulated knowledge is codified into a written playbook with escalation tree, cooler-failure checklist, and tier rules, moving Eric from personal practice carrier to standard steward, with a 'working standard' framing for rollout.",
+      "tags": [
+        "work",
+        "family",
+        "housing",
+        "leisure"
+      ],
+      "tone": "neutral-protective",
+      "open_loops": [
+        "Small-set controlled rollout with mark-hesitation-points instruction not yet initiated",
+        "Clarification-call baseline and decision-time tracking not yet implemented",
+        "Drift log for local interpretation not yet set up"
+      ],
+      "decisions": [
+        "Eric formalized the cold-chain work into a documented playbook for incoming staff and pantry coordinators instead of rel"
+      ],
+      "strands": [
+        "work",
+        "family",
+        "housing",
+        "leisure"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2025-03-07-1255",
+      "date": "2025-03-07",
+      "start": "2025-03-07T12:55:00.000Z",
+      "end": "2025-03-07T14:03:00.000Z",
+      "turn_count": 24,
+      "status": "closed",
+      "focus": "Eric and Danielle use a tax refund to rebuild their emergency fund and pay down the lingering credit-card balance from the AC repair and shed install, establishing a minimum-savings floor and shared financial rule for future windfalls.",
+      "summary": "A tax refund enables Eric and Danielle to restore a modest emergency cushion and clear the repair debt that had been weighing on the household, with agreements on a savings floor and future-windfall rules to prevent the old cycle from repeating.",
+      "tags": [
+        "work",
+        "health",
+        "finance",
+        "education",
+        "housing",
+        "leisure",
+        "goals",
+        "environment"
+      ],
+      "tone": "neutral-relieved",
+      "open_loops": [
+        "Minimum savings floor not yet formally defined with Danielle",
+        "One small acknowledgment of the progress not yet chosen"
+      ],
+      "decisions": [
+        "A tax refund let Eric and Danielle finally rebuild a modest emergency fund and pay down the small credit-card balance le"
+      ],
+      "strands": [
+        "work",
+        "health",
+        "finance",
+        "education",
+        "housing",
+        "leisure",
+        "goals",
+        "environment"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2025-06-18-0630",
+      "date": "2025-06-18",
+      "start": "2025-06-18T06:30:00.000Z",
+      "end": "2025-06-18T07:56:00.000Z",
+      "turn_count": 30,
+      "status": "closed",
+      "focus": "An early heat wave stress-tests the documented cold-chain system, which successfully reroutes fragile loads with less spoilage and fewer missed handoffs through early partner notification and the playbook's escalation logic, validating the system as a repeatable backbone rather than a personal heroics dependency.",
+      "summary": "The playbook passes its first real stress test during an early heat wave: the notification tree, tier rules, and escalation procedures function as an integrated system, rerouting fragile loads before problems cascade and proving the system can operate without Eric's personal rescue.",
+      "tags": [
+        "work",
+        "relationship",
+        "housing",
+        "leisure",
+        "goals"
+      ],
+      "tone": "neutral-validated",
+      "open_loops": [
+        "Short factual recap for leadership not yet sent while fresh",
+        "Partner feedback on what worked not yet gathered operationally",
+        "Fuller summary with settled numbers not yet compiled"
+      ],
+      "decisions": [
+        "Eric's documented cold-chain effort is now treated as a stress-tested system that proved it can reroute fragile loads du"
+      ],
+      "strands": [
+        "work",
+        "relationship",
+        "housing",
+        "leisure",
+        "goals"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2025-10-24-1105",
+      "date": "2025-10-24",
+      "start": "2025-10-24T11:05:00.000Z",
+      "end": "2025-10-24T12:19:00.000Z",
+      "turn_count": 26,
+      "status": "closed",
+      "focus": "Danielle suggests an impromptu day drive through Kentucky, and Eric discovers he no longer automatically reflex-says-no to short trips; a stable year at work has reduced his hypervigilance enough that nearby drivable travel feels possible again rather than hypothetical.",
+      "summary": "A spontaneous Kentucky day drive reveals that Eric's baseline hypervigilance has durably reduced after a stable work year; short regional trips move from 'not for us' to 'sometimes yes' in his mental category system.",
+      "tags": [
+        "work",
+        "family",
+        "health",
+        "finance",
+        "travel",
+        "education",
+        "housing",
+        "leisure"
+      ],
+      "tone": "neutral-light",
+      "open_loops": [
+        "Short list of three easy Kentucky spots and two Ohio spots not yet compiled",
+        "One general weekend window for next trip not yet agreed with Danielle"
+      ],
+      "decisions": [
+        "Eric became more willing to actually plan short drivable trips around Ohio and Kentucky after a calmer year at work made"
+      ],
+      "strands": [
+        "work",
+        "family",
+        "health",
+        "finance",
+        "travel",
+        "education",
+        "housing",
+        "leisure"
+      ],
+      "needs_marking": false
+    }
+  ]
+}

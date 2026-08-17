@@ -1,0 +1,1187 @@
+{
+  "_schema": 1,
+  "updated_at": "2026-08-17T16:21:36.089Z",
+  "slice_count": 30,
+  "needs_marking": 0,
+  "slices": [
+    {
+      "id": "2022-01-06-1130",
+      "date": "2022-01-06",
+      "start": "2022-01-06T11:30:00.000Z",
+      "end": "2022-01-06T12:51:00.000Z",
+      "turn_count": 28,
+      "status": "closed",
+      "focus": "It is nice to start using a tool like this.",
+      "summary": "My name is Jordan Elise Petrov",
+      "tags": [
+        "life-introduction",
+        "personality-istj",
+        "career-profile",
+        "relationship-partner",
+        "family-obligations",
+        "health-anxiety",
+        "housing-noise",
+        "leisure-preferences"
+      ],
+      "tone": "open and cautiously optimistic",
+      "open_loops": [
+        "Career stability and the path to operations maturity at Alder Street",
+        "Family rescue dynamic with Rafael creating recurring financial/time drain",
+        "Savings fragility against family emergencies",
+        "Apartment noise wearing on wellbeing",
+        "Anxiety around production chaos and founder improvisation"
+      ],
+      "decisions": [],
+      "strands": [
+        "life-introduction",
+        "personality-istj",
+        "career-profile",
+        "relationship-partner",
+        "family-obligations",
+        "health-anxiety",
+        "housing-noise",
+        "leisure-preferences"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2022-01-28-0840",
+      "date": "2022-01-28",
+      "start": "2022-01-28T08:40:00.000Z",
+      "end": "2022-01-28T10:01:00.000Z",
+      "turn_count": 28,
+      "status": "closed",
+      "focus": "A lot has shifted lately, and work finally hit the kind of breaking point I alwa",
+      "summary": "Yeah, that is the part I am still trying to absorb",
+      "tags": [
+        "work-crisis",
+        "operations-authority",
+        "capacity-planning",
+        "exception-management",
+        "career-pivot",
+        "production-discipline",
+        "conflict-aversion",
+        "pattern-recognition"
+      ],
+      "tone": "validated but wary",
+      "open_loops": [
+        "Whether Glen will respect the new freeze meeting authority",
+        "Whether the capacity sheet becomes a real tool or a bureaucratic artifact",
+        "Tanya and Jordan's shared burden of physically covering shortages",
+        "Exception path design that prevents the 'magic coffee appears' assumption",
+        "Balancing enforcement credibility with team buy-in"
+      ],
+      "decisions": [
+        "Jordan became the operations planner formally responsible for running a weekly wholesale freeze meeting and maintaining"
+      ],
+      "strands": [
+        "work-crisis",
+        "operations-authority",
+        "capacity-planning",
+        "exception-management",
+        "career-pivot",
+        "production-discipline",
+        "conflict-aversion",
+        "pattern-recognition"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2022-02-17-1215",
+      "date": "2022-02-17",
+      "start": "2022-02-17T12:15:00.000Z",
+      "end": "2022-02-17T13:29:00.000Z",
+      "turn_count": 26,
+      "status": "closed",
+      "focus": "Things have been pretty tense lately, so this was a small but weirdly important ",
+      "summary": "One of the sales reps was joking around about accounts and said something like, every food business ",
+      "tags": [
+        "work-identity",
+        "reading-habits",
+        "friendship-luis",
+        "operational-pride",
+        "self-discovery",
+        "decompression-ritual",
+        "production-memoirs"
+      ],
+      "tone": "reflective and amused",
+      "open_loops": [
+        "Whether the shift toward production memoirs sustains as a genuine preference",
+        "Building a personal list of details that feel honest vs performative",
+        "The tension between operational pride and work stress overload",
+        "Mei-Lin noticing the clipboard fixation as evidence Jordan was more relaxed"
+      ],
+      "decisions": [
+        "Jordan started seeking out first-person food production and warehouse memoirs, not just reported nonfiction about labor "
+      ],
+      "strands": [
+        "work-identity",
+        "reading-habits",
+        "friendship-luis",
+        "operational-pride",
+        "self-discovery",
+        "decompression-ritual",
+        "production-memoirs"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2022-03-11-0105",
+      "date": "2022-03-11",
+      "start": "2022-03-11T01:05:00.000Z",
+      "end": "2022-03-11T02:13:00.000Z",
+      "turn_count": 24,
+      "status": "closed",
+      "focus": "A lot has shifted at work since we last talked, and it finally feels like one of",
+      "summary": "The biggest thing was how scattered the truth was",
+      "tags": [
+        "work-expansion",
+        "inventory-management",
+        "data-visibility",
+        "production-process",
+        "alliance-tanya",
+        "role-clarity",
+        "process-design"
+      ],
+      "tone": "accomplished but sober",
+      "open_loops": [
+        "Whether the routine can survive without Jordan and Tanya's heroic dawn missions",
+        "Formal recognition of expanded scope (role clarity vs title/pay conversation)",
+        "Design of exception path when someone overrides the cutoff",
+        "Glen's tendency to treat rules as optional when money is involved"
+      ],
+      "decisions": [
+        "Jordan expanded her operations planner role to own a weekly inventory-discipline routine that links green coffee and pac"
+      ],
+      "strands": [
+        "work-expansion",
+        "inventory-management",
+        "data-visibility",
+        "production-process",
+        "alliance-tanya",
+        "role-clarity",
+        "process-design"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2022-04-02-1310",
+      "date": "2022-04-02",
+      "start": "2022-04-02T13:10:00.000Z",
+      "end": "2022-04-02T14:31:00.000Z",
+      "turn_count": 28,
+      "status": "closed",
+      "focus": "Things have been busy lately, and I finally did something very adult about one p",
+      "summary": "Mostly the very unglamorous stuff, which honestly I probably needed",
+      "tags": [
+        "health-intervention",
+        "caffeine-reduction",
+        "sleep-hygiene",
+        "self-care",
+        "body-awareness",
+        "partner-support",
+        "pattern-tracking"
+      ],
+      "tone": "pragmatic and slightly sheepish",
+      "open_loops": [
+        "Whether the no-coffee-after-noon rule sticks during peak weeks",
+        "Whether tracking becomes self-criticism tool vs observation tool",
+        "Apartment noise as a concrete health trigger requiring preparation",
+        "Mei-Lin's relief that Jordan is finally treating the pattern seriously"
+      ],
+      "decisions": [
+        "Jordan started actively managing her peak-week jittery headaches and sleep loss by cutting late-day coffee after the pri"
+      ],
+      "strands": [
+        "health-intervention",
+        "caffeine-reduction",
+        "sleep-hygiene",
+        "self-care",
+        "body-awareness",
+        "partner-support",
+        "pattern-tracking"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2022-05-09-0720",
+      "date": "2022-05-09",
+      "start": "2022-05-09T07:20:00.000Z",
+      "end": "2022-05-09T08:41:00.000Z",
+      "turn_count": 28,
+      "status": "closed",
+      "focus": "A lot has shifted at work since we last talked, and I finally pushed one thing o",
+      "summary": "The first full run was tense, but honestly kind of great",
+      "tags": [
+        "work-visibility",
+        "production-board",
+        "team-accountability",
+        "exception-transparency",
+        "process-leverage",
+        "decompression-need",
+        "role-evolution"
+      ],
+      "tone": "tense but proud",
+      "open_loops": [
+        "Glen's grudging compliance vs genuine buy-in from sales side",
+        "Whether the board shifts from wall artifact to ingrained team habit",
+        "Jordan's need for a post-board decompression ritual to shed adrenaline",
+        "Formal recognition of the expanded role before it becomes invisible labor"
+      ],
+      "decisions": [
+        "Jordan became the planner who runs Alder Street's new visual production board, replacing her earlier capacity-sheet syst"
+      ],
+      "strands": [
+        "work-visibility",
+        "production-board",
+        "team-accountability",
+        "exception-transparency",
+        "process-leverage",
+        "decompression-need",
+        "role-evolution"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2022-06-01-1030",
+      "date": "2022-06-01",
+      "start": "2022-06-01T10:30:00.000Z",
+      "end": "2022-06-01T11:56:00.000Z",
+      "turn_count": 30,
+      "status": "closed",
+      "focus": "A lot has shifted lately, and this weekend kind of forced something into the ope",
+      "summary": "Probably the part where she said she has been quietly absorbing this for a while and does not want t",
+      "tags": [
+        "relationship-boundaries",
+        "family-obligations",
+        "cousin-support",
+        "burnout-prevention",
+        "partner-communication",
+        "emergency-thresholds",
+        "financial-strain"
+      ],
+      "tone": "vulnerable and resolute",
+      "open_loops": [
+        "Whether Jordan can implement the pause rule and threshold list consistently",
+        "Rafael's reaction to the new boundaries (will he hear abandonment?)",
+        "Financial cost of family rescues continuing to erode savings",
+        "Mei-Lin's transition from silent absorber to active boundary enforcer"
+      ],
+      "decisions": [
+        "Jordan and Mei-Lin set firmer boundaries around family rescue calls after repeated canceled plans and a difficult talk a",
+        "Mei-Lin stopped silently absorbing the disruption from Jordan's family emergencies and directly pushed for clearer bound"
+      ],
+      "strands": [
+        "relationship-boundaries",
+        "family-obligations",
+        "cousin-support",
+        "burnout-prevention",
+        "partner-communication",
+        "emergency-thresholds",
+        "financial-strain"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2022-07-15-2350",
+      "date": "2022-07-15",
+      "start": "2022-07-15T23:50:00.000Z",
+      "end": "2022-07-16T01:16:00.000Z",
+      "turn_count": 30,
+      "status": "closed",
+      "focus": "Things have been shifting again since we last talked, mostly at work. A grocery ",
+      "summary": "I framed it around the actual choke points instead of making it abstract",
+      "tags": [
+        "work-cutoffs",
+        "service-metrics",
+        "demand-management",
+        "capacity-discipline",
+        "growth-strategy",
+        "supply-chain",
+        "scorecard-design"
+      ],
+      "tone": "cautiously assertive",
+      "open_loops": [
+        "Whether the cutoff rule holds when a high-value account pressures for exceptions",
+        "Whether the simple service scorecard survives beyond initial enthusiasm",
+        "Glen's flexibility reflex vs the new written gate",
+        "The weekly review format — will it become real practice or theater?"
+      ],
+      "decisions": [
+        "Jordan added written wholesale order cutoffs and a basic service scorecard to her planning role, giving Alder Street its"
+      ],
+      "strands": [
+        "work-cutoffs",
+        "service-metrics",
+        "demand-management",
+        "capacity-discipline",
+        "growth-strategy",
+        "supply-chain",
+        "scorecard-design"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2022-08-24-0605",
+      "date": "2022-08-24",
+      "start": "2022-08-24T06:05:00.000Z",
+      "end": "2022-08-24T07:19:00.000Z",
+      "turn_count": 26,
+      "status": "closed",
+      "focus": "It has been a little while, and things have felt oddly calmer lately, at least i",
+      "summary": "Yeah, that is exactly it, the not-having-to-care-too-hard part",
+      "tags": [
+        "leisure-discovery",
+        "baseball-radio",
+        "evening-routine",
+        "decompression-ritual",
+        "home-environment",
+        "analog-comfort",
+        "low-stakes-joy"
+      ],
+      "tone": "content and surprised",
+      "open_loops": [
+        "Whether Jordan buys a cheap radio to separate the habit from her phone",
+        "Whether the 'baseball during dishes' rule solidifies or fades",
+        "The tension between having a low-stakes ritual and staying present",
+        "Whether to share the quirky habit with Luis or keep it private"
+      ],
+      "decisions": [
+        "Jordan developed a new low-stakes evening habit of listening to local baseball radio broadcasts while doing dishes."
+      ],
+      "strands": [
+        "leisure-discovery",
+        "baseball-radio",
+        "evening-routine",
+        "decompression-ritual",
+        "home-environment",
+        "analog-comfort",
+        "low-stakes-joy"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2022-10-07-0010",
+      "date": "2022-10-07",
+      "start": "2022-10-07T00:10:00.000Z",
+      "end": "2022-10-07T01:31:00.000Z",
+      "turn_count": 28,
+      "status": "closed",
+      "focus": "Things have been moving fast since we last talked, and work has started tipping ",
+      "summary": "The ugly answer was packaging",
+      "tags": [
+        "work-simulation",
+        "holiday-planning",
+        "bottleneck-analysis",
+        "supply-chain",
+        "packaging-capacity",
+        "pre-commitment",
+        "operational-leverage"
+      ],
+      "tone": "strategic and vindicated",
+      "open_loops": [
+        "Whether the simulation becomes a yearly readiness check or a one-off win",
+        "Whether the custom-label cap holds when sales pressure returns",
+        "Cleaner template creation vs keeping the ugly board as evidence",
+        "Sending a short recap now vs waiting for holiday bookings to lock in"
+      ],
+      "decisions": [
+        "Jordan strengthened her planning role by using holiday load simulations to justify earlier packaging buys and limiting c"
+      ],
+      "strands": [
+        "work-simulation",
+        "holiday-planning",
+        "bottleneck-analysis",
+        "supply-chain",
+        "packaging-capacity",
+        "pre-commitment",
+        "operational-leverage"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2022-11-23-1140",
+      "date": "2022-11-23",
+      "start": "2022-11-23T11:40:00.000Z",
+      "end": "2022-11-23T13:01:00.000Z",
+      "turn_count": 28,
+      "status": "closed",
+      "focus": "A lot has shifted lately, and I had one of those weeks where life at home sudden",
+      "summary": "Yeah, that is exactly what I was trying to do, keep it bounded",
+      "tags": [
+        "family-crisis",
+        "financial-setback",
+        "cousin-support",
+        "savings-strain",
+        "boundary-testing",
+        "partner-transparency",
+        "rescue-gravity"
+      ],
+      "tone": "conflicted and weary",
+      "open_loops": [
+        "Whether Jordan can set and maintain financial boundaries with Rafael",
+        "The six-week savings rebuild push — will it hold against another crisis?",
+        "Telling Mei-Lin the actual amount sent and being transparent about the impact",
+        "Whether Rafael's increased contact entrenches dependency or stabilizes"
+      ],
+      "decisions": [
+        "Jordan's savings took another setback after she helped Rafael replace the failed sober-house deposit, even though she st",
+        "Rafael is Jordan's younger cousin in recovery, and after she helped cover the replacement deposit he leaned on her even "
+      ],
+      "strands": [
+        "family-crisis",
+        "financial-setback",
+        "cousin-support",
+        "savings-strain",
+        "boundary-testing",
+        "partner-transparency",
+        "rescue-gravity"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2022-12-18-2255",
+      "date": "2022-12-18",
+      "start": "2022-12-18T22:55:00.000Z",
+      "end": "2022-12-19T00:09:00.000Z",
+      "turn_count": 26,
+      "status": "closed",
+      "focus": "A lot has shifted lately, and I finally have enough distance from the last few w",
+      "summary": "Honestly, the delivery side may have convinced me more than the production side",
+      "tags": [
+        "work-results",
+        "holiday-data",
+        "service-improvement",
+        "operational-maturity",
+        "intervention-dependency",
+        "evidence-based",
+        "role-validation"
+      ],
+      "tone": "relieved but unsettled",
+      "open_loops": [
+        "Whether the one-page recap makes the case stick vs being treated as a lucky month",
+        "Which manual saves by Jordan should be turned into default habits",
+        "Whether the organization absorbs the discipline or remains dependent on her",
+        "The postmortem that separates 'better outcomes' from 'still too intervention-dependent'"
+      ],
+      "decisions": [
+        "Jordan finished the year with enough holiday service data to argue that Alder Street's stricter planning discipline was "
+      ],
+      "strands": [
+        "work-results",
+        "holiday-data",
+        "service-improvement",
+        "operational-maturity",
+        "intervention-dependency",
+        "evidence-based",
+        "role-validation"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2023-01-30-0325",
+      "date": "2023-01-30",
+      "start": "2023-01-30T03:25:00.000Z",
+      "end": "2023-01-30T04:33:00.000Z",
+      "turn_count": 24,
+      "status": "closed",
+      "focus": "Things have been a little calmer lately, and I had one of those very unglamorous",
+      "summary": "Mostly rice bowls, honestly",
+      "tags": [
+        "meal-prep",
+        "rice-cooker",
+        "decision-fatigue",
+        "practical-simplicity",
+        "friendship-luis",
+        "low-friction",
+        "practical-contentment"
+      ],
+      "tone": "content and practical",
+      "open_loops": [
+        "Whether the three-bowl-template system stays lean or gets over-engineered",
+        "Whether the Sunday prep routine survives busy weeks",
+        "Rice cooker as a metaphor for valuing reliable over interesting",
+        "Not turning the system into a gear hobby (special containers, accessories)"
+      ],
+      "decisions": [
+        "Jordan especially leaned into batch-cooked rice bowls and practical leftovers once she had the rice cooker."
+      ],
+      "strands": [
+        "meal-prep",
+        "rice-cooker",
+        "decision-fatigue",
+        "practical-simplicity",
+        "friendship-luis",
+        "low-friction",
+        "practical-contentment"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2023-03-04-0210",
+      "date": "2023-03-04",
+      "start": "2023-03-04T02:10:00.000Z",
+      "end": "2023-03-04T03:24:00.000Z",
+      "turn_count": 26,
+      "status": "closed",
+      "focus": "A lot has shifted at work since we last talked, in a way that feels bigger than ",
+      "summary": "Useful, but a little tense in that early-stage way where everyone is still figuring out whether this",
+      "tags": [
+        "work-huddle",
+        "cross-team-coordination",
+        "operations-leadership",
+        "authority-expansion",
+        "meeting-facilitation",
+        "capacity-reality",
+        "decision-routing"
+      ],
+      "tone": "cautious but optimistic",
+      "open_loops": [
+        "Whether decisions made in the huddle actually stick when the week gets messy",
+        "Post-meeting pushback via private text — replacing side channels with shared process",
+        "Documenting prevented failures as evidence for a future role conversation",
+        "Whether the huddle becomes real operating forum or slowly atrophies"
+      ],
+      "decisions": [
+        "Jordan moved from proving planning discipline worked to chairing a standing Monday cross-team planning huddle for sales,"
+      ],
+      "strands": [
+        "work-huddle",
+        "cross-team-coordination",
+        "operations-leadership",
+        "authority-expansion",
+        "meeting-facilitation",
+        "capacity-reality",
+        "decision-routing"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2023-04-22-1335",
+      "date": "2023-04-22",
+      "start": "2023-04-22T13:35:00.000Z",
+      "end": "2023-04-22T14:56:00.000Z",
+      "turn_count": 28,
+      "status": "closed",
+      "focus": "A lot has shifted lately, and one of the biggest non-work things finally happene",
+      "summary": "Yeah, exactly",
+      "tags": [
+        "apartment-move",
+        "noise-relief",
+        "home-improvement",
+        "relationship-choice",
+        "quality-of-life",
+        "quiet-environment",
+        "shared-decision"
+      ],
+      "tone": "hopeful and relieved",
+      "open_loops": [
+        "Whether the move actually improves Jordan's sleep and baseline stress",
+        "Whether the dining table becomes an anchor for shared evening routine",
+        "The cat possibility now that the apartment is quieter and more spacious",
+        "Protecting calm in the new space vs letting clutter and old habits migrate"
+      ],
+      "decisions": [
+        "Jordan and Mei-Lin signed for a quieter one-bedroom farther east in Portland after months of being worn down by noise in"
+      ],
+      "strands": [
+        "apartment-move",
+        "noise-relief",
+        "home-improvement",
+        "relationship-choice",
+        "quality-of-life",
+        "quiet-environment",
+        "shared-decision"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2023-06-13-0020",
+      "date": "2023-06-13",
+      "start": "2023-06-13T00:20:00.000Z",
+      "end": "2023-06-13T01:34:00.000Z",
+      "turn_count": 26,
+      "status": "closed",
+      "focus": "A lot has shifted lately, and work has taken up a weird amount of my weekends. T",
+      "summary": "Honestly, it landed better than I expected because I made it almost annoyingly simple",
+      "tags": [
+        "work-forecasting",
+        "data-analysis",
+        "supply-chain",
+        "long-range-planning",
+        "hidden-labor",
+        "plain-language",
+        "role-expansion"
+      ],
+      "tone": "proud but aware of invisible labor",
+      "open_loops": [
+        "Whether the forecast review becomes a standing monthly practice",
+        "Whether the invisible Saturday labor gets recognized as part of the role",
+        "Protecting the simplicity of the front-facing version vs internal complexity",
+        "Naming forecast ownership as part of the job without sounding self-important"
+      ],
+      "decisions": [
+        "Jordan added forecast ownership to her operations role, using cleaned historical usage data to flag green coffee and pac"
+      ],
+      "strands": [
+        "work-forecasting",
+        "data-analysis",
+        "supply-chain",
+        "long-range-planning",
+        "hidden-labor",
+        "plain-language",
+        "role-expansion"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2023-07-19-1115",
+      "date": "2023-07-19",
+      "start": "2023-07-19T11:15:00.000Z",
+      "end": "2023-07-19T12:23:00.000Z",
+      "turn_count": 24,
+      "status": "closed",
+      "focus": "It has been a while since we chatted, and life has felt a little less jagged in ",
+      "summary": "I think the low stakes are what made it click",
+      "tags": [
+        "leisure-expansion",
+        "neighbor-connection",
+        "puzzle-night",
+        "low-stakes-socializing",
+        "community-building",
+        "non-work-identity",
+        "unstructured-rest"
+      ],
+      "tone": "warm and content",
+      "open_loops": [
+        "Whether Jordan can sustain the puzzle night without turning it into a project",
+        "Whether the friendship with Inez develops naturally or gets accelerated into hosting",
+        "The tension between being useful vs being responsible in social settings",
+        "Protecting the low-pressure nature of a genuinely restful hobby"
+      ],
+      "decisions": [
+        "Jordan became friendly with a new neighbor, Inez Park, who invited her to a once-a-month jigsaw puzzle night in their bu"
+      ],
+      "strands": [
+        "leisure-expansion",
+        "neighbor-connection",
+        "puzzle-night",
+        "low-stakes-socializing",
+        "community-building",
+        "non-work-identity",
+        "unstructured-rest"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2023-09-08-0645",
+      "date": "2023-09-08",
+      "start": "2023-09-08T06:45:00.000Z",
+      "end": "2023-09-08T08:11:00.000Z",
+      "turn_count": 30,
+      "status": "closed",
+      "focus": "A lot has shifted since we last talked, mostly in the way that work has been set",
+      "summary": "Honestly, probably the leverage first",
+      "tags": [
+        "work-promotion",
+        "operations-manager",
+        "career-milestone",
+        "salary-milestone",
+        "role-definition",
+        "service-scorecard",
+        "authority-recognition"
+      ],
+      "tone": "validated and strategic",
+      "open_loops": [
+        "Whether the authority genuinely changes decision-making or is a paper title",
+        "Drafting the service scorecard before things get noisy again",
+        "Setting up the raise to mostly rebuild savings while leaving room for celebration",
+        "Whether the role boundary meeting establishes real decision lanes"
+      ],
+      "decisions": [
+        "Jordan was officially promoted to operations manager for wholesale production planning, inventory coordination, and serv",
+        "Jordan received a raise with the operations manager promotion, making her monthly finances more comfortable even though "
+      ],
+      "strands": [
+        "work-promotion",
+        "operations-manager",
+        "career-milestone",
+        "salary-milestone",
+        "role-definition",
+        "service-scorecard",
+        "authority-recognition"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2023-10-28-1400",
+      "date": "2023-10-28",
+      "start": "2023-10-28T14:00:00.000Z",
+      "end": "2023-10-28T15:26:00.000Z",
+      "turn_count": 30,
+      "status": "closed",
+      "focus": "A lot has shifted lately, even though from the outside things are actually calme",
+      "summary": "Honestly, it was how automatic it got",
+      "tags": [
+        "therapy-start",
+        "mental-health",
+        "anxiety-management",
+        "catastrophic-thinking",
+        "work-boundaries",
+        "checking-habits",
+        "self-awareness"
+      ],
+      "tone": "vulnerable but proactive",
+      "open_loops": [
+        "Whether the one-source-of-truth rule and cutoff ritual reduce checking",
+        "Whether therapy successfully distinguishes legitimate foresight from catastrophic rehearsal",
+        "Redesigning the phone as a panic dashboard vs a tool",
+        "Whether Jordan can be unavailable to unnecessary monitoring at home"
+      ],
+      "decisions": [
+        "Jordan started brief therapy after realizing that promotion-season responsibility had shifted her anxiety from floor cha"
+      ],
+      "strands": [
+        "therapy-start",
+        "mental-health",
+        "anxiety-management",
+        "catastrophic-thinking",
+        "work-boundaries",
+        "checking-habits",
+        "self-awareness"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2023-12-15-2310",
+      "date": "2023-12-15",
+      "start": "2023-12-15T23:10:00.000Z",
+      "end": "2023-12-16T00:36:00.000Z",
+      "turn_count": 30,
+      "status": "closed",
+      "focus": "A lot has shifted lately, or maybe it is more that a long stretch of pushing fin",
+      "summary": "More the second one, honestly",
+      "tags": [
+        "work-results",
+        "year-end-review",
+        "process-permanence",
+        "forecast-reviews",
+        "packaging-minimums",
+        "written-cutoffs",
+        "operational-evidence"
+      ],
+      "tone": "accomplished and cautiously confident",
+      "open_loops": [
+        "Whether the three rules survive February when pressure feels abstract",
+        "Whether exceptions are handled transparently or quietly route around the rules",
+        "Drafting the one-page operations standard before everyone scatters for year-end",
+        "Whether the report prevents revisionist history about the holiday season"
+      ],
+      "decisions": [
+        "Jordan ended 2026 as operations manager with enough improved holiday reporting to lock forecast reviews, packaging minim"
+      ],
+      "strands": [
+        "work-results",
+        "year-end-review",
+        "process-permanence",
+        "forecast-reviews",
+        "packaging-minimums",
+        "written-cutoffs",
+        "operational-evidence"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2024-01-29-0950",
+      "date": "2024-01-29",
+      "start": "2024-01-29T09:50:00.000Z",
+      "end": "2024-01-29T11:04:00.000Z",
+      "turn_count": 26,
+      "status": "closed",
+      "focus": "It has been a while since we chatted, and things have finally eased up enough th",
+      "summary": "Honestly, all three",
+      "tags": [
+        "leisure-refinement",
+        "workplace-comedy",
+        "recovery-viewing",
+        "movie-preferences",
+        "partner-connection",
+        "self-knowledge",
+        "taste-awareness"
+      ],
+      "tone": "delighted and self-aware",
+      "open_loops": [
+        "Whether Jordan builds the recovery list with Mei-Lin's recommendations",
+        "Whether the three-column recovery menu (food, audio, movies) stays simple",
+        "The functional-vs-aspirational taste distinction spreading to other domains",
+        "Whether Jordan admits that 'competence, panic, and bad timing as comedy' is her lane"
+      ],
+      "decisions": [
+        "Jordan refined her movie preference after a repertory screening and now deliberately uses brisk older workplace comedies"
+      ],
+      "strands": [
+        "leisure-refinement",
+        "workplace-comedy",
+        "recovery-viewing",
+        "movie-preferences",
+        "partner-connection",
+        "self-knowledge",
+        "taste-awareness"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2024-03-20-0140",
+      "date": "2024-03-20",
+      "start": "2024-03-20T01:40:00.000Z",
+      "end": "2024-03-20T03:01:00.000Z",
+      "turn_count": 28,
+      "status": "closed",
+      "focus": "A lot has been shifting lately, and work has turned into a more deliberate versi",
+      "summary": "Right now it is four core things, fill accuracy, packaging variance, green coffee variance, and emer",
+      "tags": [
+        "work-reporting",
+        "service-packet",
+        "variance-metrics",
+        "shared-accountability",
+        "data-culture",
+        "operational-standards",
+        "organizational-memory"
+      ],
+      "tone": "purposeful and measured",
+      "open_loops": [
+        "Whether the monthly cadence normalizes or gets treated as optional",
+        "Whether the exception categories survive political pressure to soften them",
+        "Whether people start orienting around the packet versus arguing from anecdotes",
+        "Maintaining standardized skeleton with a small human-notes section"
+      ],
+      "decisions": [
+        "Jordan expanded her operations manager role by publishing a monthly service packet with service and variance reporting t"
+      ],
+      "strands": [
+        "work-reporting",
+        "service-packet",
+        "variance-metrics",
+        "shared-accountability",
+        "data-culture",
+        "operational-standards",
+        "organizational-memory"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2024-05-12-1020",
+      "date": "2024-05-12",
+      "start": "2024-05-12T10:20:00.000Z",
+      "end": "2024-05-12T11:46:00.000Z",
+      "turn_count": 30,
+      "status": "closed",
+      "focus": "Things have been a little busy in my head lately, even when nothing dramatic is ",
+      "summary": "Probably the reopening part first, honestly",
+      "tags": [
+        "evening-walks",
+        "therapy-homework",
+        "decompression-ritual",
+        "habit-building",
+        "non-work-identity",
+        "instrumental-music",
+        "boundary-practice"
+      ],
+      "tone": "grounded and experimental",
+      "open_loops": [
+        "Whether the walk becomes a real transition ritual or gets dropped at the first busy week",
+        "Whether the walk-only playlist successfully separates decompression from focus",
+        "The five-minute fallback on rough nights — will it protect the habit from all-or-nothing thinking?",
+        "Whether the walk measurably improves sleep and reduces after-hours scanning"
+      ],
+      "decisions": [
+        "Jordan began using calmer instrumental playlists for evening walks as a deliberate unwind habit, not just instrumental m"
+      ],
+      "strands": [
+        "evening-walks",
+        "therapy-homework",
+        "decompression-ritual",
+        "habit-building",
+        "non-work-identity",
+        "instrumental-music",
+        "boundary-practice"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2024-08-30-2235",
+      "date": "2024-08-30",
+      "start": "2024-08-30T22:35:00.000Z",
+      "end": "2024-08-30T23:49:00.000Z",
+      "turn_count": 26,
+      "status": "closed",
+      "focus": "A lot has shifted at work since we last talked, and not in a good way. I was fee",
+      "summary": "Honestly, the moment it tipped was when the supplier delay should have triggered a firm no, and inst",
+      "tags": [
+        "work-breakdown",
+        "system-failure",
+        "exception-pressure",
+        "supplier-crisis",
+        "operations-setback",
+        "founder-override",
+        "system-fragility"
+      ],
+      "tone": "furious and disillusioned",
+      "open_loops": [
+        "Whether the exception signoff redesign creates a genuine gate or another paper rule",
+        "Whether Jordan can separate ownership of the evidence from ownership of the decision",
+        "The emotional reset before the operational conversation with Glen",
+        "Building the anti-spiral home rule to prevent the breakdown from consuming evenings"
+      ],
+      "decisions": [
+        "Jordan remained operations manager, but a flashy new regional account colliding with packaging supplier delays exposed h",
+        "Jordan's anxiety spiked during the late-summer breakdown because the collapse now felt partly attached to systems she ha"
+      ],
+      "strands": [
+        "work-breakdown",
+        "system-failure",
+        "exception-pressure",
+        "supplier-crisis",
+        "operations-setback",
+        "founder-override",
+        "system-fragility"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2024-10-06-1205",
+      "date": "2024-10-06",
+      "start": "2024-10-06T12:05:00.000Z",
+      "end": "2024-10-06T13:13:00.000Z",
+      "turn_count": 24,
+      "status": "closed",
+      "focus": "A lot has been shifting lately, and one thing finally came to a head at home. I ",
+      "summary": "Yeah, clarity is exactly what it was",
+      "tags": [
+        "relationship-confrontation",
+        "work-life-balance",
+        "partner-boundaries",
+        "protected-time",
+        "transition-ritual",
+        "weekend-trip",
+        "repair-action"
+      ],
+      "tone": "guilty but determined",
+      "open_loops": [
+        "Whether the two protected nights hold during the next work crunch",
+        "Whether the post-work transition ritual (shower, phone down) becomes consistent",
+        "Booking the fall weekend before work urgency eats the window",
+        "Whether Jordan can prove the repair through structure, not apology"
+      ],
+      "decisions": [
+        "Mei-Lin shifted from quietly supportive to actively confronting Jordan when work started swallowing their shared time."
+      ],
+      "strands": [
+        "relationship-confrontation",
+        "work-life-balance",
+        "partner-boundaries",
+        "protected-time",
+        "transition-ritual",
+        "weekend-trip",
+        "repair-action"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2024-11-14-0055",
+      "date": "2024-11-14",
+      "start": "2024-11-14T00:55:00.000Z",
+      "end": "2024-11-14T02:21:00.000Z",
+      "turn_count": 30,
+      "status": "closed",
+      "focus": "A lot has shifted since we last talked, and for a minute I honestly thought I mi",
+      "summary": "The biggest win is that I strengthened my role instead of shrinking in it",
+      "tags": [
+        "work-redesign",
+        "crisis-leverage",
+        "booking-deadlines",
+        "signoff-rules",
+        "backup-packaging",
+        "operational-improvement",
+        "near-quitting"
+      ],
+      "tone": "resilient and empowered",
+      "open_loops": [
+        "Whether the first exception tests the new signoff rule or people comply",
+        "Whether Tanya and Jordan stay aligned on enforcement during early crunches",
+        "Tracking three simple metrics through the rush to prove behavior actually changed",
+        "Whether Jordan can be predictable rather than intense — firm without becoming a zealot"
+      ],
+      "decisions": [
+        "Jordan strengthened her operations manager role after the breakdown by winning earlier holiday booking deadlines, a no-e"
+      ],
+      "strands": [
+        "work-redesign",
+        "crisis-leverage",
+        "booking-deadlines",
+        "signoff-rules",
+        "backup-packaging",
+        "operational-improvement",
+        "near-quitting"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2025-01-08-0800",
+      "date": "2025-01-08",
+      "start": "2025-01-08T08:00:00.000Z",
+      "end": "2025-01-08T09:08:00.000Z",
+      "turn_count": 24,
+      "status": "closed",
+      "focus": "A lot has shifted lately, and one thing that finally became real is money feels ",
+      "summary": "Mostly calming, with a little superstition around it, like if I look at it too directly something wi",
+      "tags": [
+        "finance-savings",
+        "emergency-fund",
+        "salary-milestone",
+        "automatic-transfers",
+        "financial-security",
+        "pause-rule",
+        "generosity-cap"
+      ],
+      "tone": "relieved and cautious",
+      "open_loops": [
+        "Whether the six uninterrupted months of transfers holds against real pressure",
+        "Whether the pause rule prevents impulsive generosity from eating the buffer",
+        "Whether the generosity cap feels manageable or becomes a source of guilt",
+        "Whether Jordan can treat a skipped transfer as data, not failure"
+      ],
+      "decisions": [
+        "Jordan got a further raise that finally stuck in Alder Street's year-end budget."
+      ],
+      "strands": [
+        "finance-savings",
+        "emergency-fund",
+        "salary-milestone",
+        "automatic-transfers",
+        "financial-security",
+        "pause-rule",
+        "generosity-cap"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2025-03-18-0230",
+      "date": "2025-03-18",
+      "start": "2025-03-18T02:30:00.000Z",
+      "end": "2025-03-18T03:51:00.000Z",
+      "turn_count": 28,
+      "status": "closed",
+      "focus": "A lot has shifted lately, and the big thing is that work has finally moved from ",
+      "summary": "The bag-change instructions, weirdly",
+      "tags": [
+        "work-standards",
+        "process-documentation",
+        "backup-templates",
+        "team-empowerment",
+        "operational-maturity",
+        "system-building",
+        "dependency-reduction"
+      ],
+      "tone": "relieved and purposeful",
+      "open_loops": [
+        "Whether the documents are used as tools or treated as permission to stop thinking",
+        "Tracking document-resolved vs escalated exceptions as proof of adoption",
+        "Whether the floor can absorb routine variation and still get trucks out",
+        "Presenting the work as continuity/speed rather than single-point-dependency reduction"
+      ],
+      "decisions": [
+        "Jordan rebuilt Alder Street's wholesale operation around documented backup roast plans, bag-change instructions, and del"
+      ],
+      "strands": [
+        "work-standards",
+        "process-documentation",
+        "backup-templates",
+        "team-empowerment",
+        "operational-maturity",
+        "system-building",
+        "dependency-reduction"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2025-06-22-1110",
+      "date": "2025-06-22",
+      "start": "2025-06-22T11:10:00.000Z",
+      "end": "2025-06-22T12:18:00.000Z",
+      "turn_count": 24,
+      "status": "closed",
+      "focus": "It has been a while since we chatted, and things have actually felt a little mor",
+      "summary": "Yeah, that is why it landed for me",
+      "tags": [
+        "weekend-trip",
+        "older-cat-adoption",
+        "future-planning",
+        "relationship-quality",
+        "restorative-break",
+        "pet-preference",
+        "sustainable-living"
+      ],
+      "tone": "hopeful and content",
+      "open_loops": [
+        "Whether the cat timeline gets pinned to specific stability markers or remains vague",
+        "Whether the care-limits red lines (medication complexity, vet frequency) are defined",
+        "Whether the short-practical-trip preference becomes a more regular pattern",
+        "Whether Jordan improves at noticing when she is canceling rest on herself"
+      ],
+      "decisions": [
+        "After a restorative long weekend in Hood River, Jordan became more specifically committed to eventually adopting an olde"
+      ],
+      "strands": [
+        "weekend-trip",
+        "older-cat-adoption",
+        "future-planning",
+        "relationship-quality",
+        "restorative-break",
+        "pet-preference",
+        "sustainable-living"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2025-12-19-2325",
+      "date": "2025-12-19",
+      "start": "2025-12-19T23:25:00.000Z",
+      "end": "2025-12-20T00:39:00.000Z",
+      "turn_count": 26,
+      "status": "closed",
+      "focus": "It has been a while since we talked, and work has been moving fast in that end-o",
+      "summary": "Yeah, threshold moment is exactly how it feels",
+      "tags": [
+        "work-peak-season",
+        "system-reliability",
+        "complete-and-on-time",
+        "career-culmination",
+        "trust-shift",
+        "operational-maturity",
+        "identity-change"
+      ],
+      "tone": "proud and grounded",
+      "open_loops": [
+        "Writing the boring recap to lock the evidence before normal work washes it out",
+        "Identifying one or two pressure points to monitor next year (maintenance not dread)",
+        "Whether Jordan can genuinely let herself rest instead of hovering for the next collapse",
+        "Whether this changes her long-term trajectory at Alder Street or just confirms the role"
+      ],
+      "decisions": [
+        "Jordan ended 2028 as the operations manager who had helped turn Alder Street's wholesale production into a measurably mo",
+        "Cleaner numbers and documented backups made Jordan's peak-week anxiety feel far less like an endless impending disaster,"
+      ],
+      "strands": [
+        "work-peak-season",
+        "system-reliability",
+        "complete-and-on-time",
+        "career-culmination",
+        "trust-shift",
+        "operational-maturity",
+        "identity-change"
+      ],
+      "needs_marking": false
+    }
+  ]
+}

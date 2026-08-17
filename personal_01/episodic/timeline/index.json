@@ -1,0 +1,974 @@
+{
+  "_schema": 1,
+  "updated_at": "2026-08-17T16:21:31.593Z",
+  "slice_count": 30,
+  "needs_marking": 0,
+  "slices": [
+    {
+      "id": "2022-01-09-0030",
+      "date": "2022-01-09",
+      "start": "2022-01-09T00:30:00.000Z",
+      "end": "2022-01-09T01:51:00.000Z",
+      "turn_count": 28,
+      "status": "closed",
+      "focus": "It is nice to start using a tool like this.",
+      "summary": "Marisa provides a comprehensive personal introduction covering her background, career, family, health, finances, and life goal of building Pierce County's oyster-habitat pilot into a recurring restoration program.",
+      "tags": [
+        "personal-introduction",
+        "environmental-science-background",
+        "oyster-habitat-restoration-goal",
+        "tacoma-washington-life",
+        "single-mother-co-parenting",
+        "istj-personality-trait"
+      ],
+      "tone": "neutral",
+      "open_loops": [],
+      "decisions": [],
+      "strands": [
+        "personal-introduction",
+        "environmental-science-background",
+        "oyster-habitat-restoration-goal",
+        "tacoma-washington-life",
+        "single-mother-co-parenting",
+        "istj-personality-trait"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2022-01-22-0840",
+      "date": "2022-01-22",
+      "start": "2022-01-22T08:40:00.000Z",
+      "end": "2022-01-22T10:01:00.000Z",
+      "turn_count": 28,
+      "status": "closed",
+      "focus": "A lot has shifted lately, and work just crossed into a different category for me",
+      "summary": "Gordon names Marisa as the internal lead on the oyster-habitat expansion to two new sites; she processes the shift from field supervision to permit coordination, public presentations, and team communication.",
+      "tags": [
+        "oyster-habitat-lead-role",
+        "shoreline-strategy-meeting",
+        "gordon-whitaker-handoff",
+        "permit-coordination-expansion",
+        "public-speaking-leadership",
+        "internal-team-communication"
+      ],
+      "tone": "mixed",
+      "open_loops": [],
+      "decisions": [
+        "Marisa is now the named internal lead on Pierce County Surface Water Management's oyster-habitat expansion package for t"
+      ],
+      "strands": [
+        "oyster-habitat-lead-role",
+        "shoreline-strategy-meeting",
+        "gordon-whitaker-handoff",
+        "permit-coordination-expansion",
+        "public-speaking-leadership",
+        "internal-team-communication"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2022-02-11-1115",
+      "date": "2022-02-11",
+      "start": "2022-02-11T11:15:00.000Z",
+      "end": "2022-02-11T12:29:00.000Z",
+      "turn_count": 26,
+      "status": "closed",
+      "focus": "Things have been pretty packed lately, and I hit one of those dark winter stretc",
+      "summary": "After a dark winter stretch, Nina brings Marisa soup and a stack of Tacoma maritime history books; this shifts Marisa's evening reading from mystery paperbacks to shoreline industry history and creates a grounding winter ritual.",
+      "tags": [
+        "nina-bui-friendship",
+        "tacoma-maritime-history-books",
+        "winter-reading-habit",
+        "low-key-social-reset",
+        "evening-ritual-building",
+        "practical-comfort-care"
+      ],
+      "tone": "positive",
+      "open_loops": [],
+      "decisions": [
+        "Marisa's bedtime reading became more specifically focused on Tacoma maritime history and shoreline industry histories."
+      ],
+      "strands": [
+        "nina-bui-friendship",
+        "tacoma-maritime-history-books",
+        "winter-reading-habit",
+        "low-key-social-reset",
+        "evening-ritual-building",
+        "practical-comfort-care"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2022-03-06-0220",
+      "date": "2022-03-06",
+      "start": "2022-03-06T02:20:00.000Z",
+      "end": "2022-03-06T03:41:00.000Z",
+      "turn_count": 28,
+      "status": "closed",
+      "focus": "A lot has shifted since we last talked, and not in the direction I wanted. The f",
+      "summary": "The big issues were shoreline armoring questions and incomplete sediment documentation",
+      "tags": [
+        "state-review-setback",
+        "shoreline-armoring-concerns",
+        "sediment-documentation-gaps",
+        "permit-redesign-effort",
+        "crew-schedule-postponement",
+        "talia-sutherland-consultation"
+      ],
+      "tone": "negative",
+      "open_loops": [],
+      "decisions": [
+        "Marisa's oyster-habitat expansion work is now stalled because the state kicked back the first expansion package and forc"
+      ],
+      "strands": [
+        "state-review-setback",
+        "shoreline-armoring-concerns",
+        "sediment-documentation-gaps",
+        "permit-redesign-effort",
+        "crew-schedule-postponement",
+        "talia-sutherland-consultation"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2022-03-24-1300",
+      "date": "2022-03-24",
+      "start": "2022-03-24T13:00:00.000Z",
+      "end": "2022-03-24T14:14:00.000Z",
+      "turn_count": 26,
+      "status": "closed",
+      "focus": "A lot has been shifting lately, and one thing finally came to a head this weeken",
+      "summary": "After a tense parking-lot argument about hotel costs, Marisa and Daniel agree to use a shared expense spreadsheet and monthly planning call to reduce co-parenting friction around Evan's club soccer.",
+      "tags": [
+        "co-parenting-expense-spreadsheet",
+        "evan-soccer-travel-costs",
+        "daniel-mercer-communication",
+        "monthly-planning-call-system",
+        "conflict-reduction-structure",
+        "teenager-emotional-protection"
+      ],
+      "tone": "mixed",
+      "open_loops": [],
+      "decisions": [
+        "Marisa and Daniel agreed to use a shared expense spreadsheet and a scheduled monthly planning call for Evan's travel soc",
+        "Her co-parenting dynamic with Daniel shifted from ad hoc arguing about sports expenses and schedule swaps to a more stru"
+      ],
+      "strands": [
+        "co-parenting-expense-spreadsheet",
+        "evan-soccer-travel-costs",
+        "daniel-mercer-communication",
+        "monthly-planning-call-system",
+        "conflict-reduction-structure",
+        "teenager-emotional-protection"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2022-04-17-0605",
+      "date": "2022-04-17",
+      "start": "2022-04-17T06:05:00.000Z",
+      "end": "2022-04-17T07:26:00.000Z",
+      "turn_count": 28,
+      "status": "closed",
+      "focus": "A lot has shifted lately, and this one finally feels like actual movement instea",
+      "summary": "Marisa, Talia, and a tribal habitat specialist redesign the stalled expansion using modular structures and staggered installation, creating a viable path for one site while the second remains under review.",
+      "tags": [
+        "modular-shell-structure-redesign",
+        "tribal-habitat-specialist-collaboration",
+        "staggered-installation-windows",
+        "one-site-viable-path",
+        "program-recovery-momentum",
+        "scope-discipline-leadership"
+      ],
+      "tone": "mixed",
+      "open_loops": [],
+      "decisions": [
+        "Marisa's oyster expansion work is no longer fully stalled; after a redesign, she now has a narrower but viable path to i"
+      ],
+      "strands": [
+        "modular-shell-structure-redesign",
+        "tribal-habitat-specialist-collaboration",
+        "staggered-installation-windows",
+        "one-site-viable-path",
+        "program-recovery-momentum",
+        "scope-discipline-leadership"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2022-05-09-1025",
+      "date": "2022-05-09",
+      "start": "2022-05-09T10:25:00.000Z",
+      "end": "2022-05-09T11:33:00.000Z",
+      "turn_count": 24,
+      "status": "closed",
+      "focus": "Things have been a little less frantic for a minute, which is probably why I eve",
+      "summary": "A younger crew lead shares a Pacific Northwest folk-rock playlist with Marisa, shifting her dawn field-drive music and prompting her to create condition-based playlists for different work mornings.",
+      "tags": [
+        "new-pacific-northwest-folk-rock",
+        "dawn-field-start-playlist",
+        "crew-lead-music-recommendation",
+        "music-as-mood-pacing",
+        "small-taste-evolution",
+        "teenager-amused-by-music-shift"
+      ],
+      "tone": "positive",
+      "open_loops": [],
+      "decisions": [
+        "Marisa's music preferences broadened from KEXP-style indie rock, older Northwest punk, and steady drive playlists to als"
+      ],
+      "strands": [
+        "new-pacific-northwest-folk-rock",
+        "dawn-field-start-playlist",
+        "crew-lead-music-recommendation",
+        "music-as-mood-pacing",
+        "small-taste-evolution",
+        "teenager-amused-by-music-shift"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2022-06-03-0110",
+      "date": "2022-06-03",
+      "start": "2022-06-03T01:10:00.000Z",
+      "end": "2022-06-03T02:24:00.000Z",
+      "turn_count": 26,
+      "status": "closed",
+      "focus": "A lot has shifted since we last talked, and for once I get to bring you somethin",
+      "summary": "The redesigned expansion is installed as a public work party, giving Marisa two operating oyster sites; she processes the exposed feeling of delivering a public result after months of redesign and review.",
+      "tags": [
+        "second-site-public-installation",
+        "work-party-volunteer-day",
+        "permit-conditions-approved",
+        "two-operating-sites-milestone",
+        "after-action-documentation",
+        "public-engagement-script"
+      ],
+      "tone": "mixed",
+      "open_loops": [],
+      "decisions": [
+        "Marisa moved from one operating oyster-habitat site to two after getting the redesigned expansion installed, while a thi"
+      ],
+      "strands": [
+        "second-site-public-installation",
+        "work-party-volunteer-day",
+        "permit-conditions-approved",
+        "two-operating-sites-milestone",
+        "after-action-documentation",
+        "public-engagement-script"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2022-06-28-0530",
+      "date": "2022-06-28",
+      "start": "2022-06-28T05:30:00.000Z",
+      "end": "2022-06-28T06:38:00.000Z",
+      "turn_count": 24,
+      "status": "closed",
+      "focus": "A lot has shifted lately, and one thing finally caught up with me physically. My",
+      "summary": "Marisa's chronic right shoulder flares severely after weeks of hauling gear; urgent care refers her to PT with lifting restrictions, forcing her to accept limits and redesign field logistics.",
+      "tags": [
+        "acute-shoulder-summer-flare",
+        "urgent-care-visit",
+        "physical-therapy-beginning",
+        "temporary-lifting-restrictions",
+        "workload-redesign-delegation",
+        "cumulative-repetitive-strain"
+      ],
+      "tone": "negative",
+      "open_loops": [],
+      "decisions": [
+        "Marisa's chronic right shoulder strain escalated into a sharper summer flare after two straight weeks of hauling sample ",
+        "Marisa has now started physical therapy and is under temporary lifting restrictions while her right shoulder settles dow"
+      ],
+      "strands": [
+        "acute-shoulder-summer-flare",
+        "urgent-care-visit",
+        "physical-therapy-beginning",
+        "temporary-lifting-restrictions",
+        "workload-redesign-delegation",
+        "cumulative-repetitive-strain"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2022-08-19-0345",
+      "date": "2022-08-19",
+      "start": "2022-08-19T03:45:00.000Z",
+      "end": "2022-08-19T04:59:00.000Z",
+      "turn_count": 26,
+      "status": "closed",
+      "focus": "A lot has shifted lately, and this feels like one of those moments where the wor",
+      "summary": "Marisa submits a county and foundation funding package as lead author, using early oyster survival counts and volunteer turnout data to argue for maintenance support and a third site buildout.",
+      "tags": [
+        "grant-package-lead-author",
+        "foundation-funding-ask",
+        "maintenance-support-funding",
+        "third-site-buildout-plan",
+        "oyster-survival-evidence",
+        "public-presentation-preparation"
+      ],
+      "tone": "mixed",
+      "open_loops": [],
+      "decisions": [
+        "Marisa became the lead author and presenter on a county and foundation grant package to secure recurring maintenance fun"
+      ],
+      "strands": [
+        "grant-package-lead-author",
+        "foundation-funding-ask",
+        "maintenance-support-funding",
+        "third-site-buildout-plan",
+        "oyster-survival-evidence",
+        "public-presentation-preparation"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2022-09-14-0950",
+      "date": "2022-09-14",
+      "start": "2022-09-14T09:50:00.000Z",
+      "end": "2022-09-14T11:11:00.000Z",
+      "turn_count": 28,
+      "status": "closed",
+      "focus": "Things have been busy in the usual way, and this weekend ended up giving me a ve",
+      "summary": "During a rainy soccer tournament in Tukwila, Marisa discovers birria from a food truck and develops a personal ranking system, turning dead tournament time into a low-stakes weekend side quest.",
+      "tags": [
+        "birria-taco-discovery",
+        "soccer-tournament-food-truck-row",
+        "tukwila-rainy-weekend",
+        "personal-food-ranking-system",
+        "pocket-of-weekend-agency",
+        "mother-son-food-adventure"
+      ],
+      "tone": "positive",
+      "open_loops": [],
+      "decisions": [
+        "Marisa's food preferences broadened from just liking fish tacos and pozole to actively seeking out regional birria and t"
+      ],
+      "strands": [
+        "birria-taco-discovery",
+        "soccer-tournament-food-truck-row",
+        "tukwila-rainy-weekend",
+        "personal-food-ranking-system",
+        "pocket-of-weekend-agency",
+        "mother-son-food-adventure"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2022-11-20-2320",
+      "date": "2022-11-20",
+      "start": "2022-11-20T23:20:00.000Z",
+      "end": "2022-11-21T00:41:00.000Z",
+      "turn_count": 28,
+      "status": "closed",
+      "focus": "A lot has shifted lately, and this week really drove it home. We got hit by a ha",
+      "summary": "A hard November storm damages the original oyster pilot site, forcing Marisa into emergency documentation, monitoring redesign, and shifting her message from growth to resilience.",
+      "tags": [
+        "november-storm-damage",
+        "original-pilot-site-failure",
+        "emergency-photo-documentation",
+        "edge-anchoring-redesign",
+        "resilience-funding-argument",
+        "program-credibility-repair"
+      ],
+      "tone": "negative",
+      "open_loops": [],
+      "decisions": [
+        "Storm damage at the original pilot shifted Marisa's role from promoting expansion to managing emergency repairs, monitor"
+      ],
+      "strands": [
+        "november-storm-damage",
+        "original-pilot-site-failure",
+        "emergency-photo-documentation",
+        "edge-anchoring-redesign",
+        "resilience-funding-argument",
+        "program-credibility-repair"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2022-12-08-1210",
+      "date": "2022-12-08",
+      "start": "2022-12-08T12:10:00.000Z",
+      "end": "2022-12-08T13:24:00.000Z",
+      "turn_count": 26,
+      "status": "closed",
+      "focus": "A lot has shifted lately, and I finally had to admit one part of it was not just",
+      "summary": "With storm cleanup pressure compounding the dark season, Marisa's winter depression worsens; she tells her doctor, restarts a light box, commits to lunch walks, and builds a winter management routine.",
+      "tags": [
+        "winter-depression-worsening",
+        "primary-care-consultation",
+        "light-box-routine-restart",
+        "lunch-walk-commitment",
+        "sleep-monitoring-basics",
+        "seasonal-mood-management"
+      ],
+      "tone": "neutral",
+      "open_loops": [],
+      "decisions": [
+        "After a rough storm season, Marisa's winter depression hit harder than usual, and she is now actively using a light box,"
+      ],
+      "strands": [
+        "winter-depression-worsening",
+        "primary-care-consultation",
+        "light-box-routine-restart",
+        "lunch-walk-commitment",
+        "sleep-monitoring-basics",
+        "seasonal-mood-management"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2023-01-27-0735",
+      "date": "2023-01-27",
+      "start": "2023-01-27T07:35:00.000Z",
+      "end": "2023-01-27T08:56:00.000Z",
+      "turn_count": 28,
+      "status": "closed",
+      "focus": "A lot has shifted lately, and work changed faster than I expected. Gordon retire",
+      "summary": "Gordon retires and hands Marissa the county oyster program's public leadership, including commission briefings, shoreline homeowner questions, and storm redesign explanations without his political buffer.",
+      "tags": [
+        "gordon-whitaker-retirement",
+        "program-public-face-transition",
+        "commission-briefing-preparation",
+        "shoreline-homeowner-engagement",
+        "institutional-memory-handoff",
+        "one-page-narrative-building"
+      ],
+      "tone": "mixed",
+      "open_loops": [],
+      "decisions": [
+        "After Gordon retired, Marisa became the primary public-facing lead for the county oyster program, handling commission br",
+        "Gordon is now retired and has shifted from an internal county protector to an occasional off-the-clock sounding board fo"
+      ],
+      "strands": [
+        "gordon-whitaker-retirement",
+        "program-public-face-transition",
+        "commission-briefing-preparation",
+        "shoreline-homeowner-engagement",
+        "institutional-memory-handoff",
+        "one-page-narrative-building"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2023-02-16-1040",
+      "date": "2023-02-16",
+      "start": "2023-02-16T10:40:00.000Z",
+      "end": "2023-02-16T12:06:00.000Z",
+      "turn_count": 30,
+      "status": "closed",
+      "focus": "Things have been pretty packed lately, and I have been trying to keep at least a",
+      "summary": "A volunteer naturalist introduces Marisa to a community bird count app during her lunch walks; she begins casually logging shorebirds on the tideflats, finding a low-pressure hobby that shifts her attention away from work.",
+      "tags": [
+        "community-bird-count-app",
+        "titlow-tideflat-birding",
+        "shorebird-logging-hobby",
+        "lunch-walk-attention-shift",
+        "volunteer-naturalist-encounter",
+        "low-pressure-outdoor-routine"
+      ],
+      "tone": "positive",
+      "open_loops": [],
+      "decisions": [
+        "Marisa has started casually logging shorebirds on her tideflat walks, turning a simple outdoor walk into a quiet hobby."
+      ],
+      "strands": [
+        "community-bird-count-app",
+        "titlow-tideflat-birding",
+        "shorebird-logging-hobby",
+        "lunch-walk-attention-shift",
+        "volunteer-naturalist-encounter",
+        "low-pressure-outdoor-routine"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2023-03-18-0255",
+      "date": "2023-03-18",
+      "start": "2023-03-18T02:55:00.000Z",
+      "end": "2023-03-18T04:09:00.000Z",
+      "turn_count": 26,
+      "status": "closed",
+      "focus": "A lot has shifted lately, and I finally have one piece of news that is actually ",
+      "summary": "Marisa secures a one-year grant covering monitoring supplies and seasonal crew hours for the two existing sites — a modest win that stabilizes operations but funds maintenance rather than the expansion she wanted.",
+      "tags": [
+        "one-year-grant-approved",
+        "monitoring-supplies-coverage",
+        "seasonal-crew-hour-funding",
+        "strategic-stabilization-win",
+        "grant-funded-vs-deferred",
+        "program-continuity-protection"
+      ],
+      "tone": "mixed",
+      "open_loops": [],
+      "decisions": [
+        "Marisa secured a modest one-year grant that covers monitoring supplies and seasonal crew hours for the two existing oyst",
+        "The grant did not fund the broader oyster expansion Marisa wanted, so she is still pushing for future expansion beyond b"
+      ],
+      "strands": [
+        "one-year-grant-approved",
+        "monitoring-supplies-coverage",
+        "seasonal-crew-hour-funding",
+        "strategic-stabilization-win",
+        "grant-funded-vs-deferred",
+        "program-continuity-protection"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2023-04-23-1205",
+      "date": "2023-04-23",
+      "start": "2023-04-23T12:05:00.000Z",
+      "end": "2023-04-23T13:19:00.000Z",
+      "turn_count": 26,
+      "status": "closed",
+      "focus": "A lot has shifted lately, and the biggest thing is I had to move fast. My landlo",
+      "summary": "Marisa's landlord puts her duplex up for sale, forcing a rushed weekend move to a smaller house in South Tacoma with a steadier lease; she struggles to fit field gear into a tighter garage while protecting rest space.",
+      "tags": [
+        "emergency-duplex-move",
+        "south-tacoma-smaller-house",
+        "landlord-sale-pressure",
+        "rosa-nina-moving-help",
+        "garage-storage-reorganization",
+        "work-home-physical-boundary"
+      ],
+      "tone": "mixed",
+      "open_loops": [],
+      "decisions": [
+        "Marisa now rents a slightly smaller house in South Tacoma with a steadier lease, replacing her older duplex near the ind"
+      ],
+      "strands": [
+        "emergency-duplex-move",
+        "south-tacoma-smaller-house",
+        "landlord-sale-pressure",
+        "rosa-nina-moving-help",
+        "garage-storage-reorganization",
+        "work-home-physical-boundary"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2023-06-02-0125",
+      "date": "2023-06-02",
+      "start": "2023-06-02T01:25:00.000Z",
+      "end": "2023-06-02T02:51:00.000Z",
+      "turn_count": 30,
+      "status": "closed",
+      "focus": "A lot has shifted lately, and this one feels like the first work update in a whi",
+      "summary": "The third oyster site is permitted and installed with heavier edge anchoring and cleaner monitoring transects, incorporating lessons from the previous storm damage — the first site built as an adaptation rather than a plan.",
+      "tags": [
+        "third-site-permitted-installed",
+        "heavier-edge-anchoring-redesign",
+        "cleaner-monitoring-transects",
+        "storm-lessons-incorporated",
+        "maintenance-funding-enabling",
+        "program-adaptation-evidence"
+      ],
+      "tone": "mixed",
+      "open_loops": [],
+      "decisions": [
+        "Marisa is now the county habitat field supervisor overseeing three operating oyster-habitat sites, with the newest site "
+      ],
+      "strands": [
+        "third-site-permitted-installed",
+        "heavier-edge-anchoring-redesign",
+        "cleaner-monitoring-transects",
+        "storm-lessons-incorporated",
+        "maintenance-funding-enabling",
+        "program-adaptation-evidence"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2023-07-11-0815",
+      "date": "2023-07-11",
+      "start": "2023-07-11T08:15:00.000Z",
+      "end": "2023-07-11T09:36:00.000Z",
+      "turn_count": 28,
+      "status": "closed",
+      "focus": "It has been one of those packed stretches lately where everything blurs together",
+      "summary": "While killing time at Rosa's house before a soccer match, Marisa puts on Crimson Tide and starts curating a summer rotation of rewatchable 90s action movies as easy social glue for tired teenage evenings.",
+      "tags": [
+        "crimson-tide-summer-movie",
+        "90s-action-rewatchable-list",
+        "rosa-house-summer-evening",
+        "heat-wave-comfort-cinema",
+        "teenager-social-bonding",
+        "low-effort-fallback-ritual"
+      ],
+      "tone": "positive",
+      "open_loops": [],
+      "decisions": [
+        "Marisa's movie taste shifted further toward keeping rewatchable 1990s action movies in regular summer rotation with Evan"
+      ],
+      "strands": [
+        "crimson-tide-summer-movie",
+        "90s-action-rewatchable-list",
+        "rosa-house-summer-evening",
+        "heat-wave-comfort-cinema",
+        "teenager-social-bonding",
+        "low-effort-fallback-ritual"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2023-09-08-0510",
+      "date": "2023-09-08",
+      "start": "2023-09-08T05:10:00.000Z",
+      "end": "2023-09-08T06:31:00.000Z",
+      "turn_count": 28,
+      "status": "closed",
+      "focus": "A lot has shifted lately, and I finally had one of those meetings that felt like",
+      "summary": "Marisa presents a full season of oyster survival and habitat-use data across three sites to county leadership, asking for oyster restoration to be written into the recurring shoreline work plan.",
+      "tags": [
+        "county-leadership-data-presentation",
+        "full-season-survival-data",
+        "recurring-work-plan-proposal",
+        "three-sites-evidence-base",
+        "program-institutionalization-ask",
+        "monitoring-credibility-argument"
+      ],
+      "tone": "neutral",
+      "open_loops": [],
+      "decisions": [
+        "She used the cleaner monitoring results from three sites to argue that oyster restoration should become a recurring shor"
+      ],
+      "strands": [
+        "county-leadership-data-presentation",
+        "full-season-survival-data",
+        "recurring-work-plan-proposal",
+        "three-sites-evidence-base",
+        "program-institutionalization-ask",
+        "monitoring-credibility-argument"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2023-10-20-1320",
+      "date": "2023-10-20",
+      "start": "2023-10-20T13:20:00.000Z",
+      "end": "2023-10-20T14:41:00.000Z",
+      "turn_count": 28,
+      "status": "closed",
+      "focus": "A lot has shifted lately, and not in some huge dramatic way, more like too many ",
+      "summary": "After soccer travel bills, car repairs, and move costs piled up, Marisa refinances old legal-fee debt and sets up an automatic sinking fund to treat tournament weekends as predictable costs rather than emergencies.",
+      "tags": [
+        "legal-debt-refinance",
+        "auto-sinking-fund-setup",
+        "soccer-travel-cost-management",
+        "car-repair-budget-pressure",
+        "irregular-expense-structuring",
+        "household-financial-system"
+      ],
+      "tone": "mixed",
+      "open_loops": [],
+      "decisions": [
+        "After a pileup of soccer travel bills, car repairs, and leftover move costs, Marisa refinanced some old legal-fee debt a"
+      ],
+      "strands": [
+        "legal-debt-refinance",
+        "auto-sinking-fund-setup",
+        "soccer-travel-cost-management",
+        "car-repair-budget-pressure",
+        "irregular-expense-structuring",
+        "household-financial-system"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2024-01-12-0050",
+      "date": "2024-01-12",
+      "start": "2024-01-12T00:50:00.000Z",
+      "end": "2024-01-12T02:16:00.000Z",
+      "turn_count": 30,
+      "status": "closed",
+      "focus": "A lot has shifted since we last talked, and for once it is in a good direction. ",
+      "summary": "Marisa secures a multi-year grant covering maintenance, data collection, and planning for sites four and five — the first time the oyster program feels institutionally durable rather than surviving year-to-year.",
+      "tags": [
+        "multi-year-grant-secured",
+        "sites-four-five-planning",
+        "maintenance-data-expansion-package",
+        "program-institutional-durability",
+        "evidence-based-funding-success",
+        "stewardship-transition-milestone"
+      ],
+      "tone": "positive",
+      "open_loops": [],
+      "decisions": [
+        "Her oyster program now looks institutionally durable enough to plan sites four and five instead of surviving one annual",
+        "Her financial picture at home is still tight, but the oyster program itself is less exposed because the new multi-year g"
+      ],
+      "strands": [
+        "multi-year-grant-secured",
+        "sites-four-five-planning",
+        "maintenance-data-expansion-package",
+        "program-institutional-durability",
+        "evidence-based-funding-success",
+        "stewardship-transition-milestone"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2024-02-26-1100",
+      "date": "2024-02-26",
+      "start": "2024-02-26T11:00:00.000Z",
+      "end": "2024-02-26T12:21:00.000Z",
+      "turn_count": 28,
+      "status": "closed",
+      "focus": "Things have been a little less frantic lately, at least for one week at a time, ",
+      "summary": "Marisa discovers a public lecture series on working waterfront history, attending solo on evenings when Evan is with Daniel and occasionally with Nina, building a low-pressure personal outlet.",
+      "tags": [
+        "working-waterfront-lecture-series",
+        "tacoma-maritime-history-education",
+        "solo-evening-outing-routine",
+        "nina-bui-lecture-companion",
+        "co-parenting-free-night-activity",
+        "low-pressure-personal-hobby"
+      ],
+      "tone": "positive",
+      "open_loops": [],
+      "decisions": [
+        "Nina Bui has become Marisa's occasional companion for public lectures and waterfront history talks, not just a practical"
+      ],
+      "strands": [
+        "working-waterfront-lecture-series",
+        "tacoma-maritime-history-education",
+        "solo-evening-outing-routine",
+        "nina-bui-lecture-companion",
+        "co-parenting-free-night-activity",
+        "low-pressure-personal-hobby"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2024-05-17-0405",
+      "date": "2024-05-17",
+      "start": "2024-05-17T04:05:00.000Z",
+      "end": "2024-05-17T05:13:00.000Z",
+      "turn_count": 24,
+      "status": "closed",
+      "focus": "A lot has shifted lately, in a way that finally feels real instead of theoretica",
+      "summary": "Work opens on a fourth shoreline site with the first seasonal technician and contractor shell placement support, making the program feel less fragile — one bad week no longer feels fatal.",
+      "tags": [
+        "fourth-site-construction-start",
+        "seasonal-technician-support",
+        "contractor-shell-placement",
+        "program-staffing-expansion",
+        "decision-authority-delegation",
+        "reduced-operational-fragility"
+      ],
+      "tone": "positive",
+      "open_loops": [],
+      "decisions": [
+        "Marisa's oyster program moved from three operating sites to four operating or active shoreline sites once work opened on"
+      ],
+      "strands": [
+        "fourth-site-construction-start",
+        "seasonal-technician-support",
+        "contractor-shell-placement",
+        "program-staffing-expansion",
+        "decision-authority-delegation",
+        "reduced-operational-fragility"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2024-06-29-0935",
+      "date": "2024-06-29",
+      "start": "2024-06-29T09:35:00.000Z",
+      "end": "2024-06-29T10:49:00.000Z",
+      "turn_count": 26,
+      "status": "closed",
+      "focus": "A lot has shifted lately, mostly in the day to day more than in some huge dramat",
+      "summary": "Evan snaps and refuses to carry messages between his parents; Marisa and Daniel add a shared custody app to handle pickup and handoff logistics without using him as the go-between.",
+      "tags": [
+        "shared-custody-app-adoption",
+        "evan-refuses-messenger-role",
+        "pickup-dropoff-systemization",
+        "teenager-boundary-assertion",
+        "co-parenting-communication-evolution",
+        "sports-logistics-separation"
+      ],
+      "tone": "mixed",
+      "open_loops": [],
+      "decisions": [
+        "Marisa and Daniel added a shared custody app after a dinner blowup over Evan being used to relay pickup and schedule mes",
+        "Evan has become more outspoken about refusing to act as the messenger between his parents and directly pushed them to us"
+      ],
+      "strands": [
+        "shared-custody-app-adoption",
+        "evan-refuses-messenger-role",
+        "pickup-dropoff-systemization",
+        "teenager-boundary-assertion",
+        "co-parenting-communication-evolution",
+        "sports-logistics-separation"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2024-09-22-0230",
+      "date": "2024-09-22",
+      "start": "2024-09-22T02:30:00.000Z",
+      "end": "2024-09-22T03:38:00.000Z",
+      "turn_count": 24,
+      "status": "closed",
+      "focus": "A lot has shifted since we last talked, and I finally hit a work milestone that ",
+      "summary": "Marisa obtains final local approvals for a fifth oyster site after a bruising public process addressing neighborhood concerns about smell, access, and cleanup — the five-site target is now reachable.",
+      "tags": [
+        "fifth-site-local-approvals",
+        "neighborhood-smell-access-concerns",
+        "public-trust-and-qa-work",
+        "scaling-through-local-politics",
+        "quality-of-life-fear-addressal",
+        "recurring-public-process-need"
+      ],
+      "tone": "mixed",
+      "open_loops": [],
+      "decisions": [
+        "Marisa secured final local approvals for a fifth shoreline oyster-habitat site, making her five-site target newly realis"
+      ],
+      "strands": [
+        "fifth-site-local-approvals",
+        "neighborhood-smell-access-concerns",
+        "public-trust-and-qa-work",
+        "scaling-through-local-politics",
+        "quality-of-life-fear-addressal",
+        "recurring-public-process-need"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2024-11-14-1010",
+      "date": "2024-11-14",
+      "start": "2024-11-14T10:10:00.000Z",
+      "end": "2024-11-14T11:24:00.000Z",
+      "turn_count": 26,
+      "status": "closed",
+      "focus": "It has been a busy stretch, and I finally had to admit my body was not really on",
+      "summary": "After another wet-season shoulder flare, Marisa shifts from temporary PT to a consistent maintenance routine using a garage band setup, while keeping her winter mood steadier through light box and lunch walk habits.",
+      "tags": [
+        "wet-season-shoulder-flare",
+        "maintenance-pt-routine-shift",
+        "garage-band-exercise-system",
+        "heavy-lift-delegation-practice",
+        "winter-mood-steady-light-box",
+        "long-term-health-integration"
+      ],
+      "tone": "neutral",
+      "open_loops": [],
+      "decisions": [
+        "After another wet-season flare, Marisa shifted from temporary PT restrictions to a more consistent shoulder-maintenance ",
+        "By late 2027 her winter mood is somewhat steadier because she kept using the light box and protecting lunch walks, even "
+      ],
+      "strands": [
+        "wet-season-shoulder-flare",
+        "maintenance-pt-routine-shift",
+        "garage-band-exercise-system",
+        "heavy-lift-delegation-practice",
+        "winter-mood-steady-light-box",
+        "long-term-health-integration"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2025-03-08-0140",
+      "date": "2025-03-08",
+      "start": "2025-03-08T01:40:00.000Z",
+      "end": "2025-03-08T03:01:00.000Z",
+      "turn_count": 28,
+      "status": "closed",
+      "focus": "A lot has shifted since we last talked, and this week felt like one of those mom",
+      "summary": "The fifth oyster site is installed via contractor barge in cold spring rain; Marisa updates the county dashboard to show five permitted, operating sites with annual monitoring and maintenance built into the work calendar.",
+      "tags": [
+        "fifth-site-installation-complete",
+        "contractor-barge-deployment",
+        "county-dashboard-five-sites",
+        "annual-monitoring-calendar-embedded",
+        "buildout-to-operations-transition",
+        "program-institutionalization-milestone"
+      ],
+      "tone": "positive",
+      "open_loops": [],
+      "decisions": [
+        "Marisa now oversees five permitted and operating oyster-habitat sites for Pierce County, with annual monitoring and main"
+      ],
+      "strands": [
+        "fifth-site-installation-complete",
+        "contractor-barge-deployment",
+        "county-dashboard-five-sites",
+        "annual-monitoring-calendar-embedded",
+        "buildout-to-operations-transition",
+        "program-institutionalization-milestone"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2025-05-18-1245",
+      "date": "2025-05-18",
+      "start": "2025-05-18T12:45:00.000Z",
+      "end": "2025-05-18T13:53:00.000Z",
+      "turn_count": 24,
+      "status": "closed",
+      "focus": "Things have been busy lately, but a funny little travel idea got lodged in my he",
+      "summary": "A volunteer recommends an inexpensive motel and beach trail near Kalaloch, inspiring Marisa to sketch simpler Olympic Peninsula overnight options — a shift from all-or-nothing camping to low-complexity beach stays.",
+      "tags": [
+        "kalaloch-motel-discovery",
+        "olympic-peninsula-overnight",
+        "low-complexity-travel-planning",
+        "solo-beach-trip-idea",
+        "no-camping-short-stay",
+        "mother-son-beach-possibility"
+      ],
+      "tone": "positive",
+      "open_loops": [],
+      "decisions": [
+        "Marisa has become more open to simple overnight Olympic Peninsula trips and short beach stays instead of treating travel"
+      ],
+      "strands": [
+        "kalaloch-motel-discovery",
+        "olympic-peninsula-overnight",
+        "low-complexity-travel-planning",
+        "solo-beach-trip-idea",
+        "no-camping-short-stay",
+        "mother-son-beach-possibility"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2025-10-03-0720",
+      "date": "2025-10-03",
+      "start": "2025-10-03T07:20:00.000Z",
+      "end": "2025-10-03T08:28:00.000Z",
+      "turn_count": 24,
+      "status": "closed",
+      "focus": "A lot has shifted since we last talked, and I finally got one of the work milest",
+      "summary": "The oyster work is officially folded into the county as a recurring restoration program with five operating sites and two grant cycles — Marisa no longer has to argue for the program's basic legitimacy.",
+      "tags": [
+        "recurring-county-program-status",
+        "five-sites-operating-milestone",
+        "two-grant-cycles-secured",
+        "institutional-permanence-achieved",
+        "monitoring-maintenance-embedded",
+        "program-legitimacy-recognition"
+      ],
+      "tone": "positive",
+      "open_loops": [],
+      "decisions": [
+        "Marisa won formal county inclusion of the oyster work as a recurring restoration program rather than a temporary pilot.",
+        "The oyster program now has county-recognized recurring support that covers maintenance and crew time without the old eme"
+      ],
+      "strands": [
+        "recurring-county-program-status",
+        "five-sites-operating-milestone",
+        "two-grant-cycles-secured",
+        "institutional-permanence-achieved",
+        "monitoring-maintenance-embedded",
+        "program-legitimacy-recognition"
+      ],
+      "needs_marking": false
+    }
+  ]
+}

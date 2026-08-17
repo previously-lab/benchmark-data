@@ -1,0 +1,1135 @@
+{
+  "_schema": 1,
+  "updated_at": "2026-08-17T16:21:35.003Z",
+  "slice_count": 30,
+  "needs_marking": 0,
+  "slices": [
+    {
+      "id": "2022-01-06-1310",
+      "date": "2022-01-06",
+      "start": "2022-01-06T13:10:00.000Z",
+      "end": "2022-01-06T14:36:00.000Z",
+      "turn_count": 30,
+      "status": "closed",
+      "focus": "Initial onboarding and personal profile collection for Park Jae-hyun.",
+      "summary": "Jae-hyun introduces himself fully: a 33-year-old ISTJ dispatch manager in Busan working at Daejin Coastal Logistics, newly married to dental hygienist Choi Min-seo, with family obligations to his mother's seafood stall and younger sister's exam prep, chronic health strain from shift work, and a core goal of stabilizing port dispatch reliability.",
+      "tags": [
+        "initial-onboarding",
+        "personal-profile",
+        "maritime-logistics",
+        "port-dispatch",
+        "istj-personality",
+        "family-obligation",
+        "shift-work-health",
+        "newly-married"
+      ],
+      "tone": "positive",
+      "open_loops": [
+        "Wedding loan repayment timeline",
+        "Sister's civil service exam results",
+        "Verbal handoff conflict with Captain Lee Sang-ho",
+        "Health management under rotating shifts"
+      ],
+      "decisions": [],
+      "strands": [
+        "initial-onboarding",
+        "personal-profile",
+        "maritime-logistics",
+        "port-dispatch",
+        "istj-personality",
+        "family-obligation",
+        "shift-work-health",
+        "newly-married"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2022-01-21-2240",
+      "date": "2022-01-21",
+      "start": "2022-01-21T22:40:00.000Z",
+      "end": "2022-01-22T00:06:00.000Z",
+      "turn_count": 30,
+      "status": "closed",
+      "focus": "Seafood handoff failure prompts formal incident log against verbal culture.",
+      "summary": "A costly missed seafood-client transfer window caused by an unlogged freezer-truck delay during shift change. Jae-hyun documents evidence (radio times, whiteboard photos, captain call records) and gets operations chief approval to trial a single incident log for handoff failures, with a required consequence field.",
+      "tags": [
+        "handoff-failure",
+        "seafood-client-incident",
+        "verbal-handoff-conflict",
+        "delay-documentation",
+        "incident-log-trial",
+        "crew-resistance"
+      ],
+      "tone": "mixed",
+      "open_loops": [
+        "Incident log trial outcomes",
+        "Captain Lee Sang-ho's cooperation with written reporting",
+        "Kim Dong-wook's staffing support for the trial"
+      ],
+      "decisions": [
+        "After a costly missed seafood-client handoff, Jae-hyun is still dispatch manager but has informally taken on documenting"
+      ],
+      "strands": [
+        "handoff-failure",
+        "seafood-client-incident",
+        "verbal-handoff-conflict",
+        "delay-documentation",
+        "incident-log-trial",
+        "crew-resistance"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2022-02-08-1150",
+      "date": "2022-02-08",
+      "start": "2022-02-08T11:50:00.000Z",
+      "end": "2022-02-08T13:11:00.000Z",
+      "turn_count": 28,
+      "status": "closed",
+      "focus": "Relationship strain leads to shared calendar and weekly check-in.",
+      "summary": "After Min-seo's calm but pointed complaint about finding Jae-hyun's schedule from fridge sticky notes, they adopt a shared weekly calendar with protected meal nights, sleep blocks after night shifts, and a Sunday check-in ritual to reduce the low-grade uncertainty eroding their newlywed rhythm.",
+      "tags": [
+        "marriage-communication",
+        "shared-calendar",
+        "shift-work-strain",
+        "sleep-protection",
+        "weekly-check-in",
+        "yeongdo-apartment"
+      ],
+      "tone": "mixed",
+      "open_loops": [
+        "Long-term sustainability of check-in habit",
+        "Balancing family obligations against couple time",
+        "Impact of shift food choices on shared dinners"
+      ],
+      "decisions": [
+        "Jae-hyun and his wife Min-seo started using a shared weekly calendar and set check-in routines to reduce fights caused b"
+      ],
+      "strands": [
+        "marriage-communication",
+        "shared-calendar",
+        "shift-work-strain",
+        "sleep-protection",
+        "weekly-check-in",
+        "yeongdo-apartment"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2022-03-03-0620",
+      "date": "2022-03-03",
+      "start": "2022-03-03T06:20:00.000Z",
+      "end": "2022-03-03T07:28:00.000Z",
+      "turn_count": 24,
+      "status": "closed",
+      "focus": "Dispatch board pilot on two routes to standardize handoffs and delays.",
+      "summary": "Jae-hyun launches a limited pilot of a color-coded dispatch board on two short-haul routes, splitting delays into weather, paperwork, and crew categories. Built from January's incident file and real captain call sheets, the board aims to make handoff failures legible in real time rather than reconstructable after arguments.",
+      "tags": [
+        "color-coded-dispatch-board",
+        "delay-category-split",
+        "day-night-handoff",
+        "limited-pilot",
+        "operations-chief-support",
+        "process-standardization"
+      ],
+      "tone": "positive",
+      "open_loops": [
+        "Pilot expansion beyond two routes",
+        "Crew resistance to color coding",
+        "Kim Dong-wook's full commitment to the board"
+      ],
+      "decisions": [
+        "Jae-hyun is still dispatch manager and is now running a limited pilot of a color-coded dispatch board on two coastal rou"
+      ],
+      "strands": [
+        "color-coded-dispatch-board",
+        "delay-category-split",
+        "day-night-handoff",
+        "limited-pilot",
+        "operations-chief-support",
+        "process-standardization"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2022-03-29-0315",
+      "date": "2022-03-29",
+      "start": "2022-03-29T03:15:00.000Z",
+      "end": "2022-03-29T04:36:00.000Z",
+      "turn_count": 28,
+      "status": "closed",
+      "focus": "Jae-hyun discovers interest in Busan harbor history and port nonfiction.",
+      "summary": "During a lighter weekend, Jae-hyun watches Busan harbor history videos sent by friend Ji-hoon and realizes he actively seeks Korean port-history content, especially about Busan. He recognizes a durable preference for long-form documentary and lecture material over novels, with the subject matter connecting work, city, and genuine curiosity.",
+      "tags": [
+        "busan-port-history",
+        "harbor-documentaries",
+        "niche-interest",
+        "ji-hoon-friendship",
+        "long-form-learning",
+        "personal-curiosity"
+      ],
+      "tone": "positive",
+      "open_loops": [
+        "Building a curated list of port-history resources",
+        "Transitioning from documentaries to related books",
+        "Balancing this niche interest with work obligations"
+      ],
+      "decisions": [
+        "Jae-hyun now actively seeks out Korean nonfiction and documentary content about Busan port history, expanding a niche in"
+      ],
+      "strands": [
+        "busan-port-history",
+        "harbor-documentaries",
+        "niche-interest",
+        "ji-hoon-friendship",
+        "long-form-learning",
+        "personal-curiosity"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2022-04-17-2155",
+      "date": "2022-04-17",
+      "start": "2022-04-17T21:55:00.000Z",
+      "end": "2022-04-17T23:21:00.000Z",
+      "turn_count": 30,
+      "status": "closed",
+      "focus": "Board photo rule: both shifts photograph board at handoff for records.",
+      "summary": "After six weeks of the board pilot showing fewer unexplained late departures, Jae-hyun gets approval to require both shifts to photograph the board at handoff and save images to a nightly report folder. The photo requirement changes behavior upstream, with crews pausing longer at the board before calling handoff finished.",
+      "tags": [
+        "board-photo-rule",
+        "handoff-evidence",
+        "photo-documentation",
+        "operational-traceability",
+        "shift-compliance",
+        "behavioral-change"
+      ],
+      "tone": "positive",
+      "open_loops": [
+        "Expanding photo rule beyond two test routes",
+        "Crew resistance to permanent traceability",
+        "Weekly summary consistency"
+      ],
+      "decisions": [
+        "Jae-hyun is still dispatch manager, but the two-route color-coded board pilot has expanded into a photo-documented hando"
+      ],
+      "strands": [
+        "board-photo-rule",
+        "handoff-evidence",
+        "photo-documentation",
+        "operational-traceability",
+        "shift-compliance",
+        "behavioral-change"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2022-05-07-1230",
+      "date": "2022-05-07",
+      "start": "2022-05-07T12:30:00.000Z",
+      "end": "2022-05-07T13:51:00.000Z",
+      "turn_count": 28,
+      "status": "closed",
+      "focus": "Family financial demands deplete bonus and force household budget reset.",
+      "summary": "Two family expenses hit at once (sister's academy term fees, parents' seafood stall shortfall), forcing Jae-hyun to use his entire bonus for support. He and Min-seo redo the budget together, agreeing on a money threshold rule, a capped family-help category, and a slow rebuild plan rather than trying to replace the bonus immediately.",
+      "tags": [
+        "family-financial-support",
+        "sisters-exam-fees",
+        "bonus-depleted",
+        "household-budget-crisis",
+        "min-seo-communication",
+        "money-threshold-rule",
+        "family-support-cap"
+      ],
+      "tone": "negative",
+      "open_loops": [
+        "Savings recovery timeline",
+        "Sister's upcoming exam costs",
+        "Mother's stall revenue stability",
+        "Long-term wedding loan payoff"
+      ],
+      "decisions": [
+        "His cash flow tightened again after another round of family support, delaying his savings plans despite earning about 56"
+      ],
+      "strands": [
+        "family-financial-support",
+        "sisters-exam-fees",
+        "bonus-depleted",
+        "household-budget-crisis",
+        "min-seo-communication",
+        "money-threshold-rule",
+        "family-support-cap"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2022-06-10-1810",
+      "date": "2022-06-10",
+      "start": "2022-06-10T18:10:00.000Z",
+      "end": "2022-06-10T19:36:00.000Z",
+      "turn_count": 30,
+      "status": "closed",
+      "focus": "Tense meeting: Jae-hyun defends board and preserves core coding logic.",
+      "summary": "An overnight operations meeting turns tense as Captain Lee Sang-ho argues board photos make crews look guilty by default. Jae-hyun arrives with printed comparisons showing weather delays separated from avoidable ones. The compromise: keep the board through summer but add a handwritten captain note line, preserving the weather-versus-avoidable coding that makes the data meaningful.",
+      "tags": [
+        "operations-meeting",
+        "captain-resistance",
+        "weather-vs-avoidable-delay",
+        "captain-note-line",
+        "captain-compromise",
+        "board-pilot-survival"
+      ],
+      "tone": "mixed",
+      "open_loops": [
+        "Captain Lee Sang-ho's ongoing resistance",
+        "Summer evidence collection",
+        "Note line becoming a shield vs genuine context"
+      ],
+      "decisions": [
+        "Park Jae-hyun is still dispatch manager, and after an overnight challenge from vessel crews he kept the shared dispatch-"
+      ],
+      "strands": [
+        "operations-meeting",
+        "captain-resistance",
+        "weather-vs-avoidable-delay",
+        "captain-note-line",
+        "captain-compromise",
+        "board-pilot-survival"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2022-07-02-0840",
+      "date": "2022-07-02",
+      "start": "2022-07-02T08:40:00.000Z",
+      "end": "2022-07-02T10:01:00.000Z",
+      "turn_count": 28,
+      "status": "closed",
+      "focus": "Clinic visit forces Jae-hyun to confront shift work's health toll.",
+      "summary": "After two brutal humid night shifts, Jae-hyun's reflux forces a clinic visit near Nampo. The doctor prescribes strict meal timing, less fried food, and basic treatment, also flagging chronic neck tension from the radio desk. Jae-hyun adopts three defaults: no fried dock meals as first option, packed food before night shifts, and a neck-break routine during natural lulls.",
+      "tags": [
+        "reflux-diagnosis",
+        "clinic-visit",
+        "meal-timing",
+        "neck-tension",
+        "shift-work-health",
+        "packed-meal-routine",
+        "home-recovery-routine"
+      ],
+      "tone": "negative",
+      "open_loops": [
+        "Consistency of meal-prep habit during busy weeks",
+        "Neck tension treatment follow-through",
+        "Balancing health needs with rotating shift demands"
+      ],
+      "decisions": [
+        "A clinic visit pushed Jae-hyun from casual antacids and coffee toward a stricter reflux plan with regular meal timing, l"
+      ],
+      "strands": [
+        "reflux-diagnosis",
+        "clinic-visit",
+        "meal-timing",
+        "neck-tension",
+        "shift-work-health",
+        "packed-meal-routine",
+        "home-recovery-routine"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2022-08-18-2025",
+      "date": "2022-08-18",
+      "start": "2022-08-18T20:25:00.000Z",
+      "end": "2022-08-18T21:39:00.000Z",
+      "turn_count": 26,
+      "status": "closed",
+      "focus": "Crews game weather category; Jae-hyun adds source notes and reviews.",
+      "summary": "During an ugly August storm stretch, crews throw nearly every delay into the weather column to avoid scrutiny. Jae-hyun discovers a missed paperwork delay hidden behind a weather label and adds mandatory written delay-source notes for all problem entries plus a post-shift review. The change shifts the pilot from color-coding to enforced written cause trails with credibility checks.",
+      "tags": [
+        "weather-excuse-gaming",
+        "delay-source-notes",
+        "post-shift-review",
+        "board-credibility",
+        "handoff-traceability",
+        "august-storm-chaos"
+      ],
+      "tone": "mixed",
+      "open_loops": [
+        "Sustainment of mandatory notes under future storms",
+        "Older captains' resistance to written cause trails",
+        "Kim Dong-wook's continued support without extra staffing"
+      ],
+      "decisions": [
+        "Park Jae-hyun is still dispatch manager, but after a storm-heavy week exposed crews misclassifying delays, he shifted th",
+        "The setback made Jae-hyun more convinced that undocumented handoffs, not just bad weather, are the core operational prob"
+      ],
+      "strands": [
+        "weather-excuse-gaming",
+        "delay-source-notes",
+        "post-shift-review",
+        "board-credibility",
+        "handoff-traceability",
+        "august-storm-chaos"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2022-09-09-1300",
+      "date": "2022-09-09",
+      "start": "2022-09-09T13:00:00.000Z",
+      "end": "2022-09-09T14:21:00.000Z",
+      "turn_count": 28,
+      "status": "closed",
+      "focus": "Projector movie night becomes an effective decompression routine.",
+      "summary": "Min-seo borrows a projector from a coworker; they have a quiet dinner and watch a realistic maritime film on the apartment wall. Jae-hyun realizes the ritual (dinner at home, dim lights, one familiar film, phone away) decompresses him far better than doom-scrolling port clips. He plans to borrow the projector again and build a short rewatch list rather than buying gear prematurely.",
+      "tags": [
+        "projector-movie-night",
+        "maritime-films",
+        "decompression-routine",
+        "phone-boundaries",
+        "home-dinner-ritual",
+        "rewatching-comfort"
+      ],
+      "tone": "positive",
+      "open_loops": [
+        "Borrowing projector again vs purchasing",
+        "Building a reliable rewatch list",
+        "Maintaining phone-free evening habit"
+      ],
+      "decisions": [
+        "Jae-hyun has started deliberately using quiet home movie nights as a post-shift decompression routine, especially by rew"
+      ],
+      "strands": [
+        "projector-movie-night",
+        "maritime-films",
+        "decompression-routine",
+        "phone-boundaries",
+        "home-dinner-ritual",
+        "rewatching-comfort"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2022-10-14-0535",
+      "date": "2022-10-14",
+      "start": "2022-10-14T05:35:00.000Z",
+      "end": "2022-10-14T06:43:00.000Z",
+      "turn_count": 24,
+      "status": "closed",
+      "focus": "Dispatch pilot becomes signed one-page turnover template for accountability.",
+      "summary": "Armed with three months of board photos, annotations, and a spreadsheet separating weather holds from crew and paperwork delays, Jae-hyun gets approval for a signed one-page turnover template tied to the common board. Both day and night dispatchers must sign, with fields for vessel status, pending items, delay source, and next action, creating one shared reality instead of competing memories.",
+      "tags": [
+        "signed-turnover-template",
+        "one-page-handoff",
+        "bilateral-signature",
+        "three-month-evidence",
+        "weather-crew-paperwork",
+        "operational-accountability"
+      ],
+      "tone": "positive",
+      "open_loops": [
+        "Template adoption beyond initial novelty",
+        "Preventing compliance theater (signing without reading)",
+        "Integrating template with existing board culture"
+      ],
+      "decisions": [
+        "Jae-hyun converted his dispatch pilot into a signed one-page turnover template tied to the common dispatch board, giving"
+      ],
+      "strands": [
+        "signed-turnover-template",
+        "one-page-handoff",
+        "bilateral-signature",
+        "three-month-evidence",
+        "weather-crew-paperwork",
+        "operational-accountability"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2022-11-23-1010",
+      "date": "2022-11-23",
+      "start": "2022-11-23T10:10:00.000Z",
+      "end": "2022-11-23T11:24:00.000Z",
+      "turn_count": 26,
+      "status": "closed",
+      "focus": "Lotte Giants event sparks genuine interest in baseball and interviews.",
+      "summary": "Min-seo gets tickets to a Lotte Giants offseason fan event from a dental patient. Jae-hyun unexpectedly becomes invested, following winter roster news, player interviews, and training routines. He and Min-seo share a low-pressure hobby that fits his schedule (clips and interviews rather than live games) and adds a light, shared topic to their marriage.",
+      "tags": [
+        "lotte-giants",
+        "baseball-hobby",
+        "offseason-interest",
+        "player-interviews",
+        "min-seo-date",
+        "busan-local-sports"
+      ],
+      "tone": "positive",
+      "open_loops": [
+        "Sustaining interest through regular season",
+        "Building a reliable source list for team news",
+        "Not over-investing into forced fandom"
+      ],
+      "decisions": [
+        "Jae-hyun's sports preference sharpened from casual Lotte Giants followership to actively checking offseason roster news "
+      ],
+      "strands": [
+        "lotte-giants",
+        "baseball-hobby",
+        "offseason-interest",
+        "player-interviews",
+        "min-seo-date",
+        "busan-local-sports"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2023-01-04-2325",
+      "date": "2023-01-04",
+      "start": "2023-01-04T23:25:00.000Z",
+      "end": "2023-01-05T00:51:00.000Z",
+      "turn_count": 30,
+      "status": "closed",
+      "focus": "Sustained results earn Jae-hyun company-wide handoff system authority.",
+      "summary": "Three straight months with only one avoidable missed cargo window each convinces Kim Dong-wook to grant Jae-hyun company-wide authority to use the signed turnover sheet and common board on all short-haul departures. Jae-hyun feels vindicated but wary of fake compliance, planning a one-page minimum standard, anonymized examples of usable vs unusable handoffs, and a one-month checkpoint.",
+      "tags": [
+        "company-wide-authority",
+        "year-end-results",
+        "missed-cargo-windows",
+        "rollout-pressure",
+        "compliance-theater-risk",
+        "kim-dong-wook-support"
+      ],
+      "tone": "mixed",
+      "open_loops": [
+        "Rollout without extra staffing",
+        "Risk of compliance theater across expanded scope",
+        "Identifying reliable dispatchers without creating political factions"
+      ],
+      "decisions": [
+        "Park Jae-hyun is still dispatch manager and now has company-wide authority to use the standardized dispatch board and si"
+      ],
+      "strands": [
+        "company-wide-authority",
+        "year-end-results",
+        "missed-cargo-windows",
+        "rollout-pressure",
+        "compliance-theater-risk",
+        "kim-dong-wook-support"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2023-02-17-0205",
+      "date": "2023-02-17",
+      "start": "2023-02-17T02:05:00.000Z",
+      "end": "2023-02-17T03:31:00.000Z",
+      "turn_count": 30,
+      "status": "closed",
+      "focus": "Jae-hyun and Min-seo move to quieter rental, improving sleep but raising costs.",
+      "summary": "Jae-hyun and Min-seo move from their compact one-bedroom in Yeongdo to a slightly larger rental on a quieter uphill street. The difference is immediate: fewer horn-induced jolts, better sleep, less baseline irritation. However, the higher rent and deposit strain already-tight finances, forcing Jae-hyun to prioritize a small cash buffer over aggressive debt repayment in the short term.",
+      "tags": [
+        "apartment-move",
+        "yeongdo-uphill",
+        "noise-reduction",
+        "sleep-improvement",
+        "housing-cost-pressure",
+        "financial-squeeze",
+        "marriage-protection",
+        "deposit-strain"
+      ],
+      "tone": "mixed",
+      "open_loops": [
+        "Financial adjustment to higher housing costs",
+        "Rebuilding savings after deposit drain",
+        "Sustaining sleep improvement across both shift types"
+      ],
+      "decisions": [
+        "Jae-hyun and Min-seo moved out of their first compact one-bedroom in Yeongdo to a slightly larger rental on a quieter up",
+        "The move increased housing pressure because the new rental costs more and required extra deposit money."
+      ],
+      "strands": [
+        "apartment-move",
+        "yeongdo-uphill",
+        "noise-reduction",
+        "sleep-improvement",
+        "housing-cost-pressure",
+        "financial-squeeze",
+        "marriage-protection",
+        "deposit-strain"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2023-03-28-1455",
+      "date": "2023-03-28",
+      "start": "2023-03-28T14:55:00.000Z",
+      "end": "2023-03-28T16:21:00.000Z",
+      "turn_count": 30,
+      "status": "closed",
+      "focus": "Rollout reveals inconsistent habits; Jae-hyun creates training examples.",
+      "summary": "The handoff system rollout exposes that newer dispatchers interpret the same form fields differently. Jae-hyun spends two Sundays creating laminated sample sheets showing good and bad examples field by field, then adds a short shift-start briefing (5 min) highlighting likely handoff-heavy departures and timing standards. The fix shifts his role from system inventor to system teacher.",
+      "tags": [
+        "turnover-sheet-inconsistency",
+        "laminated-examples",
+        "shift-start-briefing",
+        "training-standardization",
+        "knowledge-transfer",
+        "new-dispatcher-coaching"
+      ],
+      "tone": "mixed",
+      "open_loops": [
+        "Other dispatchers becoming able to teach the system",
+        "Protecting personal time from work spillover",
+        "Measuring whether training actually reduces rework"
+      ],
+      "decisions": [
+        "Jae-hyun is still dispatch manager, but after the company-wide rollout exposed inconsistent turnover-sheet habits among "
+      ],
+      "strands": [
+        "turnover-sheet-inconsistency",
+        "laminated-examples",
+        "shift-start-briefing",
+        "training-standardization",
+        "knowledge-transfer",
+        "new-dispatcher-coaching"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2023-04-21-0700",
+      "date": "2023-04-21",
+      "start": "2023-04-21T07:00:00.000Z",
+      "end": "2023-04-21T08:26:00.000Z",
+      "turn_count": 30,
+      "status": "closed",
+      "focus": "Mother's blunt observation prompts Jae-hyun's post-shift recovery meal.",
+      "summary": "After his mother bluntly says he looks pale and sends him home with market mackerel, Jae-hyun discovers that simple grilled fish and rice after night shifts leaves him feeling better than convenience food or dock grease. The preference shift sticks: he now strongly favors simple home-cooked fish and rice after shifts, treating it as a 'standard recovery meal' rather than a strict diet rule.",
+      "tags": [
+        "mothers-concern",
+        "market-mackerel",
+        "reflux-diet",
+        "plain-fish-rice",
+        "post-shift-meal",
+        "family-food-habit",
+        "recovery-meal",
+        "home-cooking"
+      ],
+      "tone": "positive",
+      "open_loops": [
+        "Consistency of packed meal availability",
+        "Backup options when fish is unavailable",
+        "Maintaining the habit during busy stretches"
+      ],
+      "decisions": [
+        "Jae-hyun now strongly favors simple home-cooked fish and rice after shifts because greasy dock meals aggravate his reflu"
+      ],
+      "strands": [
+        "mothers-concern",
+        "market-mackerel",
+        "reflux-diet",
+        "plain-fish-rice",
+        "post-shift-meal",
+        "family-food-habit",
+        "recovery-meal",
+        "home-cooking"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2023-06-01-2215",
+      "date": "2023-06-01",
+      "start": "2023-06-01T22:15:00.000Z",
+      "end": "2023-06-01T23:29:00.000Z",
+      "turn_count": 26,
+      "status": "closed",
+      "focus": "Customer complaint reveals ETA gaps; board-first external rule added.",
+      "summary": "A customer complaint exposes that vessel crews quote ETAs on the phone while dispatch gives different promises, creating conflicting versions. Jae-hyun adds a rule: any outbound ETA change must be updated on the dispatch board first, then dispatchers must use the exact same wording from the board in client call log entries, extending the reliability system from internal handoffs into client-facing communication.",
+      "tags": [
+        "customer-complaint",
+        "eta-consistency",
+        "board-first-rule",
+        "call-log-alignment",
+        "communication-chain",
+        "client-promises",
+        "verbal-gap-closing"
+      ],
+      "tone": "mixed",
+      "open_loops": [
+        "Enforcement of board-first rule during chaotic shifts",
+        "Crew-side phone habits changing",
+        "Two-week tracking sample for ETA mismatches"
+      ],
+      "decisions": [
+        "Jae-hyun added a rule that any outbound ETA change must be updated on the dispatch board before anyone communicates it e"
+      ],
+      "strands": [
+        "customer-complaint",
+        "eta-consistency",
+        "board-first-rule",
+        "call-log-alignment",
+        "communication-chain",
+        "client-promises",
+        "verbal-gap-closing"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2023-07-10-1120",
+      "date": "2023-07-10",
+      "start": "2023-07-10T11:20:00.000Z",
+      "end": "2023-07-10T12:28:00.000Z",
+      "turn_count": 24,
+      "status": "closed",
+      "focus": "Hard conversation leads to protecting one day monthly for the couple.",
+      "summary": "After months of canceled dinners and provisional evenings, Jae-hyun and Min-seo have an honest conversation during a short Tongyeong trip. They agree to protect one fully planned day together each month, put on the calendar first and defended against work spillover and family errands. Jae-hyun commits to a polite but firm boundary line with family: 'I can't do that that day, we already have plans.'",
+      "tags": [
+        "protected-monthly-day",
+        "tongyeong-trip",
+        "marriage-boundary",
+        "family-errand-boundary",
+        "quality-time",
+        "relationship-prioritization",
+        "shift-work-relationship"
+      ],
+      "tone": "mixed",
+      "open_loops": [
+        "First protected day execution and follow-through",
+        "Family pushback on new boundaries",
+        "Maintaining the habit during peak seasons"
+      ],
+      "decisions": [
+        "He and his wife agreed to protect one fully planned day together each month despite his rotating dispatch shifts."
+      ],
+      "strands": [
+        "protected-monthly-day",
+        "tongyeong-trip",
+        "marriage-boundary",
+        "family-errand-boundary",
+        "quality-time",
+        "relationship-prioritization",
+        "shift-work-relationship"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2023-08-26-1945",
+      "date": "2023-08-26",
+      "start": "2023-08-26T19:45:00.000Z",
+      "end": "2023-08-26T21:06:00.000Z",
+      "turn_count": 28,
+      "status": "closed",
+      "focus": "Jae-hyun adds weather hold sheet and post-storm review for credibility.",
+      "summary": "Learning from the previous August when weather became a blanket excuse, Jae-hyun adds a separate severe-weather hold sheet and post-storm review routine to the dispatch system. The sheet identifies departures genuinely blocked by severe conditions, while the review table compares true weather holds against sailings that still slipped for crew or paperwork reasons, protecting metric credibility through storm season.",
+      "tags": [
+        "severe-weather-hold-sheet",
+        "typhoon-season",
+        "post-storm-review",
+        "weather-accountability",
+        "true-weather-blocks",
+        "metric-credibility",
+        "cause-separation"
+      ],
+      "tone": "mixed",
+      "open_loops": [
+        "Codifying the severe-weather definition permanently",
+        "Ensuring post-storm review doesn't become busywork",
+        "Behavior change among crews who previously hid behind weather"
+      ],
+      "decisions": [
+        "Jae-hyun is still dispatch manager and has added a separate severe-weather hold sheet plus a post-storm review routine s"
+      ],
+      "strands": [
+        "severe-weather-hold-sheet",
+        "typhoon-season",
+        "post-storm-review",
+        "weather-accountability",
+        "true-weather-blocks",
+        "metric-credibility",
+        "cause-separation"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2023-10-01-0410",
+      "date": "2023-10-01",
+      "start": "2023-10-01T04:10:00.000Z",
+      "end": "2023-10-01T05:24:00.000Z",
+      "turn_count": 26,
+      "status": "closed",
+      "focus": "Follow-up confirms reflux improvement; focus shifts to sleep and neck.",
+      "summary": "A follow-up clinic visit confirms Jae-hyun's reflux is less frequent and more controlled thanks to regular meal timing and simpler food. However, broken sleep before storm nights and persistent neck tension from the radio desk remain disruptive. He adopts a tiny pre-sleep sequence (10-minute neck/shoulder routine, no heavy food, bed) and keeps a quiet corner at home as a decompression landing spot.",
+      "tags": [
+        "reflux-improvement",
+        "sleep-disruption",
+        "neck-tension",
+        "pre-sleep-routine",
+        "quiet-landing-spot",
+        "shift-body-strain",
+        "partial-recovery"
+      ],
+      "tone": "mixed",
+      "open_loops": [
+        "Sleep disruption improvement tracking",
+        "Neck tension management consistency",
+        "Anticipatory stress before storm nights"
+      ],
+      "decisions": [
+        "A follow-up clinic visit showed Jae-hyun's reflux is less frequent and more controlled now that his meals are timed more"
+      ],
+      "strands": [
+        "reflux-improvement",
+        "sleep-disruption",
+        "neck-tension",
+        "pre-sleep-routine",
+        "quiet-landing-spot",
+        "shift-body-strain",
+        "partial-recovery"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2023-11-16-1035",
+      "date": "2023-11-16",
+      "start": "2023-11-16T10:35:00.000Z",
+      "end": "2023-11-16T11:43:00.000Z",
+      "turn_count": 24,
+      "status": "closed",
+      "focus": "Jae-hyun presents reliability metrics to company owner via wall charts.",
+      "summary": "After two quarters of sustained improvement, Kim Dong-wook asks Jae-hyun to present dispatch numbers to the company owner. Jae-hyun creates monthly wall charts with three categories: on-time departures within 20 minutes, avoidable misses, and handoff gaps by shift. The handoff-gap section shifts the room, giving misses a visible cause rather than making them look like bad luck.",
+      "tags": [
+        "owner-presentation",
+        "monthly-wall-charts",
+        "reliability-metrics",
+        "upward-reporting",
+        "twenty-minute-threshold",
+        "handoff-gap-visibility",
+        "company-visibility"
+      ],
+      "tone": "mixed",
+      "open_loops": [
+        "Sustaining monthly reporting rhythm",
+        "Preventing gaming of visible metrics",
+        "Converting visibility into concrete support/resources"
+      ],
+      "decisions": [
+        "Park Jae-hyun is still dispatch manager, and Kim Dong-wook asked him to present dispatch reliability metrics directly to"
+      ],
+      "strands": [
+        "owner-presentation",
+        "monthly-wall-charts",
+        "reliability-metrics",
+        "upward-reporting",
+        "twenty-minute-threshold",
+        "handoff-gap-visibility",
+        "company-visibility"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2024-01-08-1215",
+      "date": "2024-01-08",
+      "start": "2024-01-08T12:15:00.000Z",
+      "end": "2024-01-08T13:36:00.000Z",
+      "turn_count": 28,
+      "status": "closed",
+      "focus": "Vinyl bar visit leads to softer ballads for late-drive decompression.",
+      "summary": "A friend invites Jae-hyun to a quiet vinyl bar in Seomyeon playing older Korean ballads. He notices his shoulders drop and later finds that softer tracks on the drive home help him decompress better than his usual energetic mix. He decides to create a short late-night playlist of calmer songs, distinguishing between daytime driving music and post-shift recovery listening.",
+      "tags": [
+        "vinyl-bar-discovery",
+        "softer-playlist",
+        "late-drive-routine",
+        "older-korean-ballads",
+        "decompression-habit",
+        "unstructured-calm",
+        "recovery-refinement"
+      ],
+      "tone": "positive",
+      "open_loops": [
+        "Building the late-night playlist",
+        "Getting friend recommendations within narrow brief",
+        "Protecting the drive home as a decompression window"
+      ],
+      "decisions": [
+        "Jae-hyun has shifted his after-shift listening toward softer older Korean ballads and calmer playlists for late drives h"
+      ],
+      "strands": [
+        "vinyl-bar-discovery",
+        "softer-playlist",
+        "late-drive-routine",
+        "older-korean-ballads",
+        "decompression-habit",
+        "unstructured-calm",
+        "recovery-refinement"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2024-02-26-0105",
+      "date": "2024-02-26",
+      "start": "2024-02-26T01:05:00.000Z",
+      "end": "2024-02-26T02:31:00.000Z",
+      "turn_count": 30,
+      "status": "closed",
+      "focus": "Jae-hyun wins approval for digital template matching board and turnover.",
+      "summary": "Using momentum from the owner-facing charts, Jae-hyun gets approval for a single standardized digital dispatch template that mirrors the physical board and signed turnover sheet. The reform targets the chronic problem of night shift writing different details in separate files than what the board shows. He prioritizes mandatory fields (departure status, confirmed time, reason code, updater) and plans a two-week audit window.",
+      "tags": [
+        "digital-template-approval",
+        "board-template-alignment",
+        "dual-record-split",
+        "mandatory-fields",
+        "operational-traceability",
+        "owner-chart-momentum"
+      ],
+      "tone": "positive",
+      "open_loops": [
+        "Enforcement consistency across shifts",
+        "Preventing digital drift from physical board",
+        "Older captain resistance to structured digital format"
+      ],
+      "decisions": [
+        "Park Jae-hyun is still dispatch manager and won approval for a single standardized digital dispatch template that matche"
+      ],
+      "strands": [
+        "digital-template-approval",
+        "board-template-alignment",
+        "dual-record-split",
+        "mandatory-fields",
+        "operational-traceability",
+        "owner-chart-momentum"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2024-04-12-0925",
+      "date": "2024-04-12",
+      "start": "2024-04-12T09:25:00.000Z",
+      "end": "2024-04-12T10:51:00.000Z",
+      "turn_count": 30,
+      "status": "closed",
+      "focus": "Savings thin as sister's costs and Min-seo's pay cut stack up.",
+      "summary": "Jae-hyun's sister passes a civil service stage but needs interview clothes and transportation costs, coinciding with Min-seo's clinic reducing incentive pay. Jae-hyun covers more shared expenses while savings stay stubbornly thin. He plans a structured check-in with Min-seo using a three-category note (normal costs, temporary extra costs, family support) to distinguish temporary burdens from structural problems.",
+      "tags": [
+        "sisters-interview-costs",
+        "min-seo-income-dip",
+        "shared-expense-shift",
+        "savings-stagnation",
+        "family-support-burden",
+        "household-budget-review",
+        "temporary-squeeze"
+      ],
+      "tone": "negative",
+      "open_loops": [
+        "Sister's interview outcome",
+        "Min-seo's clinic pay stabilization",
+        "Defined end date for temporary expense shifts",
+        "Rebuilding savings buffer"
+      ],
+      "decisions": [
+        "Jae-hyun's savings stayed thin because higher housing costs were joined by helping his sister through the next civil-ser"
+      ],
+      "strands": [
+        "sisters-interview-costs",
+        "min-seo-income-dip",
+        "shared-expense-shift",
+        "savings-stagnation",
+        "family-support-burden",
+        "household-budget-review",
+        "temporary-squeeze"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2024-05-29-2130",
+      "date": "2024-05-29",
+      "start": "2024-05-29T21:30:00.000Z",
+      "end": "2024-05-29T22:51:00.000Z",
+      "turn_count": 28,
+      "status": "closed",
+      "focus": "Berth near-miss makes only board-matched digital count as official.",
+      "summary": "A near-operational mess from conflicting berth times pushed Jae-hyun to make the board-matched digital template the sole official handoff record: side calls, verbal updates, and remembered conversations no longer count. An older dispatcher who called captains directly from memory was the trigger. Jae-hyun endures weeks of unpopularity but persists, repeating 'enter it so everyone can use it' and keeping a private mismatch log.",
+      "tags": [
+        "official-handoff-record",
+        "berth-time-discrepancy",
+        "memory-vs-written",
+        "verbal-calls-excluded",
+        "chain-of-custody",
+        "principled-enforcement",
+        "mismatch-log"
+      ],
+      "tone": "mixed",
+      "open_loops": [
+        "Sustained enforcement without personal burnout",
+        "Older staff adoption of written-first culture",
+        "Converting mismatch log into systemic evidence"
+      ],
+      "decisions": [
+        "Jae-hyun made the board-matched digital template the official shift handoff record, so only entries that matched the dis",
+        "Enforcing one official handoff record made Jae-hyun more stubbornly principled and slightly less panicked by each indivi"
+      ],
+      "strands": [
+        "official-handoff-record",
+        "berth-time-discrepancy",
+        "memory-vs-written",
+        "verbal-calls-excluded",
+        "chain-of-custody",
+        "principled-enforcement",
+        "mismatch-log"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2024-07-18-0645",
+      "date": "2024-07-18",
+      "start": "2024-07-18T06:45:00.000Z",
+      "end": "2024-07-18T07:53:00.000Z",
+      "turn_count": 24,
+      "status": "closed",
+      "focus": "Stairwell encounter with rescue dog clarifies Jae-hyun's pet vision.",
+      "summary": "On a sticky humid afternoon, Jae-hyun stops on his building's stair landing to watch a neighbor's mixed-breed rescue dog. The encounter sharpens his vague 'small dog someday' wish into a specific vision: a small older rescue, not a puppy, one that already has a calm temperament and can fit a quiet apartment routine. He and Min-seo share the image as a future goal without rushing into it.",
+      "tags": [
+        "rescue-dog-encounter",
+        "older-dog-preference",
+        "future-pet-plan",
+        "calm-companionship",
+        "stairwell-moment",
+        "adoption-consideration",
+        "household-vision"
+      ],
+      "tone": "positive",
+      "open_loops": [
+        "Timing for eventual adoption",
+        "Researching older rescue temperament and care",
+        "Ensuring schedule can accommodate a pet"
+      ],
+      "decisions": [
+        "Jae-hyun became specifically interested in eventually adopting a small older dog once life is steadier, rather than just"
+      ],
+      "strands": [
+        "rescue-dog-encounter",
+        "older-dog-preference",
+        "future-pet-plan",
+        "calm-companionship",
+        "stairwell-moment",
+        "adoption-consideration",
+        "household-vision"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2024-09-05-2355",
+      "date": "2024-09-05",
+      "start": "2024-09-05T23:55:00.000Z",
+      "end": "2024-09-06T01:21:00.000Z",
+      "turn_count": 30,
+      "status": "closed",
+      "focus": "Three straight quarters prove integrated system holds across shifts.",
+      "summary": "Third straight quarter with avoidable missed cargo windows under two; over 90% of departures leave within 20 minutes of schedule. Jae-hyun now has documented proof that the standardized board, turnover sheet, weather hold sheet, and digital template function as one reliability system rather than separate fixes. He plans to formalize the review rhythm and mark the milestone quietly at home.",
+      "tags": [
+        "sustained-reliability",
+        "three-straight-quarters",
+        "ninety-percent-on-time",
+        "weather-coding-validation",
+        "call-log-alignment",
+        "consolidation-phase",
+        "process-as-system"
+      ],
+      "tone": "positive",
+      "open_loops": [
+        "Formalizing review rhythm protection",
+        "Preventing backslide when maintenance becomes optional",
+        "Translating sustained proof into structural support"
+      ],
+      "decisions": [
+        "Jae-hyun is still dispatch manager and now has documented proof that the standardized board, turnover sheet, weather cod"
+      ],
+      "strands": [
+        "sustained-reliability",
+        "three-straight-quarters",
+        "ninety-percent-on-time",
+        "weather-coding-validation",
+        "call-log-alignment",
+        "consolidation-phase",
+        "process-as-system"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2025-01-12-0340",
+      "date": "2025-01-12",
+      "start": "2025-01-12T03:40:00.000Z",
+      "end": "2025-01-12T05:01:00.000Z",
+      "turn_count": 28,
+      "status": "closed",
+      "focus": "Jae-hyun and Min-seo plan domestic trip; short breaks preferred.",
+      "summary": "With work calmer after autumn's strong finish, Min-seo insists they book a domestic trip before summer. As they compare calendars, Jae-hyun realizes his travel preference has solidified: tightly planned 2-3 day breaks in places like Gyeongju or Jeju feel genuinely restorative, while long overseas travel has lost appeal entirely. He recognizes this as realism, not settling.",
+      "tags": [
+        "domestic-trip-planning",
+        "gyeongju-vs-jeju",
+        "short-break-preference",
+        "calendars-alignment",
+        "realistic-rest",
+        "min-seo-initiative",
+        "travel-preference-clarified"
+      ],
+      "tone": "positive",
+      "open_loops": [
+        "Final destination and date selection",
+        "Booking within budget constraints",
+        "Ensuring trip doesn't add stress before and after"
+      ],
+      "decisions": [
+        "Jae-hyun realized he now strongly prefers tightly planned short domestic trips like Gyeongju or Jeju that can fit around"
+      ],
+      "strands": [
+        "domestic-trip-planning",
+        "gyeongju-vs-jeju",
+        "short-break-preference",
+        "calendars-alignment",
+        "realistic-rest",
+        "min-seo-initiative",
+        "travel-preference-clarified"
+      ],
+      "needs_marking": false
+    },
+    {
+      "id": "2025-04-03-0820",
+      "date": "2025-04-03",
+      "start": "2025-04-03T08:20:00.000Z",
+      "end": "2025-04-03T09:41:00.000Z",
+      "turn_count": 28,
+      "status": "closed",
+      "focus": "Company adopts Jae-hyun's full dispatch reliability package as procedure.",
+      "summary": "The company formally adopts the complete reliability package (common board layout, signed turnover format, severe-weather hold sheet, official digital template) as the standing procedure for short-haul dispatch. Jae-hyun feels deep relief but also unexpected exhaustion. He plans a short note upward about the system's structural value, a three-point monitoring check (signature gaps, weather coding, board-digital alignment), and a quiet evening at home to acknowledge the milestone.",
+      "tags": [
+        "formal-procedure-adoption",
+        "company-standard",
+        "career-milestone",
+        "system-survival",
+        "relief-and-exhaustion",
+        "role-shift",
+        "bundle-adoption",
+        "standing-procedure"
+      ],
+      "tone": "mixed",
+      "open_loops": [
+        "Transition from policer to maintainer of an official system",
+        "Subtle boundary-testing by resistant staff",
+        "Requesting formal support (training time, audit capacity)",
+        "Allowing system to prove itself without hypervigilance"
+      ],
+      "decisions": [
+        "Daejin formally adopted Jae-hyun's standardized dispatch board, signed turnover sheet, severe-weather hold sheet, and of"
+      ],
+      "strands": [
+        "formal-procedure-adoption",
+        "company-standard",
+        "career-milestone",
+        "system-survival",
+        "relief-and-exhaustion",
+        "role-shift",
+        "bundle-adoption",
+        "standing-procedure"
+      ],
+      "needs_marking": false
+    }
+  ]
+}
